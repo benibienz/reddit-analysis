@@ -1,0 +1,5 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2015-07-27 00:20:48+00:00,self.gis,https://www.reddit.com/r/gis/comments/3epqkt/best_way_for_mosaicing_historical_aerial/,,"I have over 400 aerial photos of an area. All of them have been georeferenced, but now I want to combine them into one raster image. The boarders of each individual photo do not match up to the surrounding images. 
+
+I was wondering what is the best way to combine all these image?
+Is there a way to do this in ArcGIS or ENVI?",gis,Best way for mosaicing historical aerial photography?,http://www.reddit.com/r/gis/comments/3epqkt/best_way_for_mosaicing_historical_aerial/

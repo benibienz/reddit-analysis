@@ -1,0 +1,397 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"If the wealthy and powerful had any interal organization, they would have prevented Trump. His election pretty much proves that the wealthy and powerful are not very well organized at all.",2016-11-21 14:03:16+00:00,da9hnl4,3.0,t1_da9dmnp,10620.0,worldnews
+1,"If software engineering jobs have absolutely ludicrous, exploitative practices where you work, what are the good jobs like the one I described where you live?",2016-11-07 07:48:00+00:00,d9pb6h3,6.0,t1_d9oztbf,20567.0,programming
+2,"If you are a developer at 45, you better be fucking awesome at what you do. You need to have found a specialization and be super-senior in that role, or have done some seriously high-impact stuff. If you are 45 and just apply to random developer jobs, it will be tough and get tougher every year.",2016-11-06 22:24:55+00:00,d9oqbe6,6.0,t1_d9oppgv,795.0,programming
+3,"&gt; absolutely ludicrous, exploitative practices
+
+Like very high salaries, very low unemployment, ease of entry to the industry without a formal education, flexible hours and exclusively office work?",2016-11-06 22:23:10+00:00,d9oq8lt,4.0,t1_d9oooql,1999.0,programming
+4,"&gt; Your ephemeral architecture runs on something. That something is, obviously, more stable than than your ""ephemeral architecture""... So just drop your ephemeral architecture and use your base system... No?
+
+No. The base system is a cloud infrastructure maintained by thousands of people, runs in multiple datacenters and will never go down completely. Individual servers might go down, but then my ephemeral infrastructure can be automatically deployed on other servers.
+
+The entire point of the base system is not that individual servers will always be available, but that some servers will always be available. It's my job to build an infrastructure for my code that will run on whatever is currently available, and will survive the failure of any individual server.",2016-11-06 21:48:55+00:00,d9oon4s,4.0,t1_d9och1l,15443.0,programming
+5,"That's just one single hacker, though.",2016-10-31 09:35:53+00:00,d9f4t6z,6.0,t1_d9f4rjd,181.0,nottheonion
+6,JavaScript runs in a sandbox. There is no other language where I would trust running pretty much any source code on my computer.,2016-10-29 12:32:47+00:00,d9cnzi3,4.0,t1_d9caeyi,37750.0,compsci
+7,You will need around 4.5 a month for a family of four to live somewhat comfortably.,2016-10-21 08:19:28+00:00,d91ip5l,3.0,t1_d91i8qj,1576.0,bern
+8,Here is some info by the university of Berne: http://www.unibe.ch/studies/mobilitaet/students/incoming/financial_matters/index_eng.html,2016-10-21 07:10:27+00:00,d91hg0i,1.0,t3_58ludx,2625.0,bern
+9,"Imagine a baby with perfect genetics and very intelligent parents with no access to anything on earth but reddit on a tablet. Would you expect that baby to become intelligent?
+
+If not even a human child could become intelligent by only reading reddit, how would you expect a neural network to manage that?",2016-10-17 13:07:07+00:00,d8vn7xo,,t1_d8nc1mf,,Futurology
+10,"Yeah, entering a negative number in the amplify tool will work. It's the way it's supposed to work: positive values make the selected sound louder, negative values softer.",2016-10-17 13:05:31+00:00,d8vn5zj,3.0,t1_d8urh6g,59446.0,audacity
+11,"&gt; the way that we have everything set up I can easily just highlight her voice
+
+I'm not sure what you mean by that. Changing the volume of segments of audio can be done with the envelope tool, but you would have to adjust each and every instance of that voice. Alternatively, as you suggested, you can cut out each of these instances, paste them to a new track, and adjust the volume of that entire track. ",2016-10-15 16:15:51+00:00,d8t6j53,1.0,t3_57htt2,79244.0,audacity
+12,"Really though, a deep neural network is not much more complex than a Markov chain. It's just much more computationally intense.
+
+A computer program learning just from reddit will become no more intelligent than a human exposed only to reddit and nothing else would be. That is, not very.",2016-10-11 11:58:43+00:00,d8n71we,4.0,t1_d8n6f79,1596.0,Futurology
+13,"I had always thought that it was truly ridiculous how movies portrayed the use of computers. 
+
+Just now I realized how people who know a lot about guns, cars or law enforcement must feel about pretty much every single action scene in a movie. 
+
+Now I'm glad it's not worse.",2016-09-29 17:19:12+00:00,d874zfd,1.0,t3_551eta,27202.0,videos
+14,[It will be tough not sharing the planet with yourself](https://www.reddit.com/r/gifs/comments/54grtk/the_ol_snake_in_the_grass/d825t8p),2016-09-26 03:05:59+00:00,d826ukl,6.0,t1_d824k25,3529.0,gifs
+15,"Get you ass over here: http://kulturspinnerei.ch/events/eroeffnungsfestival/
+
+I will buy you a beer and show you around!",2016-09-16 13:10:08+00:00,d7p5xf3,1.0,t3_531932,9583.0,bern
+16,"&gt; Would it be OK if I asked they provide how they benchmarked my salary if I get an offer? 
+
+Ask away, but it probavly won't change anything. If you want more, tell them upfront.
+
+&gt; Is it feasible to live somewhere like gals or ins and commute to boudry? (I speak C/B level German and no French, they're looking for an English native for the role because I'll solely be dealing with UK/IRISH customers)
+
+Sure, it should be easy to find out commute times via sbb.ch or similar. Why shouldn't it be?
+
+&gt; Any other handy website I need to know about?
+
+englishforum.ch
+
+&gt; Cost of goods... I live in Ireland and buy a lot of stuff on amazon UK, specially because of the lucrative exchange rate I am getting stuff really cheap... Do the Swiss do anything like this?
+
+Some people drive to Germany or France to buy stuff.
+
+&gt; How come gyms are so expensive... Is there any cheap chain Gyms? 
+
+Not as cheap as you describe. Salaries are expensive in Switzerland.
+
+&gt; If I work in neuchatel and live in Bern, do I pay neuchatel taxes or Bern taxes?
+
+Bern taxes. 
+
+Move to Berne though, it's a bit away but much more interesting and better if you speak German.",2016-08-30 21:27:57+00:00,d735j4p,1.0,t3_50d0nt,6271.0,askswitzerland
+17,"The question is about cost, as it always is. The more you rely on a certain feature of a cloud provider, the more you save as they have solved the problem for you. But the harder it is to migrate away from the platform.
+
+If you simply use IaaS as you describe, where you get a VM to do as you please, you aren't really using a modern cloud infrastructure. Today, you might buy a database, caching or messaging service from Amazon without hosting a single server or application yourself. However, if you wanted to buy the same services from Microsoft, you would have to build twice as much interfacing code and some kind of failover system, making your project three times as expensive at least.
+
+For some projects, it will make financial sense to host them on public clouds but take the effort to develop them in such a way that they can move between competing public cloud providers instantly. But you do have to understand that such a project will be far more expensive than simply hosting a JavaEE-Application on Openshift or a Django app on Heroku.
+
+And if you go to all that effort, are you really saving money using a public cloud, or would it make more sense to colocate and only build your app once?",2016-08-22 20:24:17+00:00,d6sbl5q,6.0,t1_d6saogo,1173.0,programming
+18,"Having an application with very many users at the same time work well is not simply an issue of assigning more computers. If it was, the entire field of distributed systems would basically be ""throw more servers at it"". It's a complex engineering issue.",2016-07-17 22:41:29+00:00,d5g4muq,4.0,t1_d5fzxwc,7658.0,funny
+19,"Dir vielleicht nichts, aber zukünftigen Arbeitgebenden (auch ausserhalb dieser Richtung) sehr viel.",2016-07-10 21:58:05+00:00,d574myy,7.0,t1_d56n0em,29030.0,de_IAmA
+20,"Wenn du programmieren kannst, kannst du etwas bauen. Das funktioniert. Auch wenn es vielleicht anders besser wäre, funktionieren tut es und das kann dir keiner nehmen. Das gibt eine ganz andere Befriedigung als eine Theorie auswendig zu lernen von der keiner weiss ob sie irgendwas mit der Realität zu tun hat.",2016-07-10 21:55:46+00:00,d574jtv,5.0,t1_d5733e3,2160.0,de_IAmA
+21,"Third option: In finance, it is easier to directly map the output of a developer to income. People that can directly demonstrate value earn more money.",2016-07-02 15:13:56+00:00,d4wn0yz,6.0,t1_d4wl7rb,3672.0,programming
+22,That only works if there is someone around you who knows whatever it is you are doing better than you. That might not be the case.,2016-06-22 15:11:26+00:00,d4jg1ly,2.0,t1_d4jevcr,1621.0,quotes
+23,"Good work! The only thing that bothers me: When I'm browsing /r/all, if I open a comment thread, I can't tell which subreddit the comment thread is in. Sometimes I find that is important to put some comment or other in context.",2016-06-21 14:45:30+00:00,d4i0lb4,1.0,t3_4jh1ru,3187036.0,shine
+24,How could one easily avoid this effect?,2016-06-19 17:29:13+00:00,d4fjr59,2.0,t1_d4fcttp,12968.0,asoiaf
+25,"There is no notion that notch is transphobic. I just googled ""Notch transphobic"" and all that shows up is this thread.",2016-06-19 15:47:00+00:00,d4fg9fr,6.0,t1_d4f84vt,22250.0,OutOfTheLoop
+26,"With something like Angular and Bootstrap web development is easier than desktop GUI development, even for complex applications. Just thinking about something like that ten years ago would have been completely crazy.",2016-06-19 14:24:24+00:00,d4fdp4m,5.0,t1_d4eqc66,58360.0,programming
+27,Text on a page is HTML and CSS. Of course JavaScript development is easy if you don't use it for anything. ,2016-06-19 14:22:27+00:00,d4fdn1a,5.0,t1_d4fbjku,4950.0,programming
+28,Dude. You have no idea how web development used to be before stuff like jQuery. It's a breeze today.,2016-06-18 14:45:27+00:00,d4ebbi2,3.0,t1_d4e5zru,14386.0,programming
+29,The most American comment in this thread yet.,2016-06-18 06:54:54+00:00,d4e2779,5.0,t1_d4dmtpc,31181.0,YouShouldKnow
+30,"In theory, the mods of those small subreddits should delete the post, as it is not relevant to their subreddit. However, often smaller subreddits will not have active moderators.",2016-06-17 07:07:23+00:00,d4crczo,6.0,t1_d4c6n1s,34378.0,announcements
+31,I would like to hear more about the audacity to test this code for the first time on a real machine with a ten year old in front of the machine. That is way beyond merely stupid.,2016-06-13 21:21:18+00:00,d47uyfc,3.0,t1_d47ipzd,15327.0,programming
+32,"Danke! Wo kann man sich eigentlich sonst im Internet betreffent deutschen Rap auf dem laufenden halten? Mittlerweile bin ich dreissig, und ich kenne keinen mehr der solche Musik hört, aber ich würde mir immer noch gerne die neuen Releases anhören. Wo spielt sich das heutzutage ab? Facebook?",2016-06-05 21:22:23+00:00,d3x9fus,,t1_cyjr58v,,GermanRap
+33,Congratulations! You are one of the lucky ten thousand!,2016-06-01 11:43:46+00:00,d3rlj3j,5.0,t1_d3rkgsp,2922.0,questionablecontent
+34,Man braucht kein Spiel um vor der Glotze Bier zu saufen.,2016-05-14 17:42:15+00:00,d35fl03,4.0,t1_d35f63g,747.0,de_IAmA
+35,Ich würde die Doku schauen und währenddessen ein paar Bier trinken.,2016-05-14 10:46:20+00:00,d354ng6,2.0,t1_d34q9eg,37619.0,de_IAmA
+36,"Due to an off by one error, you win zero prizes.",2016-05-13 11:03:49+00:00,d33vqzw,8.0,t1_d33vkzb,511.0,programming
+37,"&gt; This has nothing to do with dynamic vs static typing at all. It's compiled vs interpreted.
+
+How so? With dynamic typing, how would you know that you broke some type in some other module of the project? I assumed that only with static typing such errors can be notices at compile time.",2016-05-10 17:19:06+00:00,d305jp4,11.0,t1_d304rsn,1006.0,programming
+38,"Just to play devils advocate: Using unit testing and continuous integration would also prevent these errors, and with dynamic typing you could build parts of your application instantly instead of having to wait the whole night.",2016-05-10 16:48:27+00:00,d3044dq,9.0,t1_d303o6w,584.0,programming
+39,Yeah. Writing a image hosting service for ten users is simple: Just upload the images to a web host and you're done. Doing the same for a website that has a global alexa rank of 47 is quite a different challenge.,2016-05-10 11:58:30+00:00,d2zsyak,15.0,t1_d2zs8uk,1855.0,OutOfTheLoop
+40,You can also take long sabbaticals between job hopping every three to five years. ,2016-05-10 10:50:40+00:00,d2zrid5,1.0,t3_4inrs4,19490.0,cscareerquestions
+41,"It is. The further you get out of the atmosphere, the more you can speed up time. They do allow some speedup even in atmosphere though, because otherwise launches would get tedious after a while.
+
+But even in deep space, the game warns you that the simulation will be less accurate if you speed up the simulation over a certain threshold.",2016-05-07 12:30:07+00:00,d2wa60j,9.0,t1_d2w8udc,4245.0,gamedev
+42,"So you want to wait for weeks or months in real-time for your ship to orbit the sun in KSP, just so the simulation is more accurate? 
+
+I'm glad you are not in charge then.",2016-05-07 12:28:14+00:00,d2wa4p6,9.0,t1_d2w8i1q,5493.0,gamedev
+43,"&gt; If your simulation-dependent game can't keep up with the drawing framerate, which I guarantee it can't, then you either decouple it or you find a different way to let the simulation run properly. 
+
+They did decouple the physics simulation from the graphics drawing. This is not the issue here at all.
+
+&gt;  If you can't assure a reasonable accuracy over long time steps, YOU DON'T STEP THAT LONG.
+
+If you don't step that long, KSP would be unplayable. It would be fine during launch, but far too slow during long orbital maneuvers. 
+
+How does you game dev 101 powered intellect suggest to solve this problem?
+
+",2016-05-07 10:51:29+00:00,d2w8f9v,7.0,t1_d2w5q0q,11180.0,gamedev
+44,"&gt; Decoupling simulation rate from frame rate is a beginner thing in game design. There is really no excuse for a simulation heavy game to couple the two.
+
+It's not framerate, it's simulation tick rate. 
+
+The thing with KSP is that during launch, sub-second simulation ticks are needed. And during orbital transfers, you want to calculate entire years quickly.
+
+It's not feasible to have sub-second simulation ticks and display the game sped-up thousands of times. Not because the graphics won't keep up, but because the physics simulation won't keep up. So if you speed up the game, they use less game ticks per time unit, and extrapolate from physical formulas more.
+
+Say you know the formula for an orbit. Then you can calculate the position of the bodies at any point in time easily. But doing the same for a launch, were the structure of the ship is being bounced about by air and acceleration, increasing the time distance between game ticks might easily have an effect on the outcome.",2016-05-07 02:59:59+00:00,d2vz718,5.0,t1_d2vtmko,10222.0,gamedev
+45,10 Jahre ist sehr optimistisch. ,2016-05-01 22:22:48+00:00,d2ows03,1.0,t3_4ha39j,18509.0,grundeinkommen
+46,"FizzBuzz tests if you know the modulo operator, which I pretty much never use in my day to day work.",2016-04-28 10:44:13+00:00,d2kiyhk,6.0,t1_d2kden4,18477.0,webdev
+47,"Put a recurring appointment for lunch in your calendar, marked as busy.",2016-04-28 09:41:12+00:00,d2khxc6,6.0,t1_d2jl873,57112.0,coding
+48,Not as far as [these guys](http://stackoverflow.com/questions/2549541/performing-breadth-first-search-recursively) are concerned. They pretty much say you need to have a separate list. ,2016-04-27 21:03:32+00:00,d2ju7le,6.0,t1_d2ju0kc,268.0,javascript
+49,"You got declined by one of the notoriously toughest companies to get hired to, and that completely destroyed your self-image? 
+
+So your self-image was that you could never fail at anything?",2016-04-27 20:48:27+00:00,d2jtivo,3.0,t1_d2jon10,6335.0,javascript
+50,"&gt; There's not much to memorize here, you visit all the nodes connecting and then you recurse into those connecting nodes. 
+
+Well, you need to keep a list of nodes. It's not hard, but not trivial, and if you don't know the problem space at all you will stumble inventing something like that under pressure.",2016-04-27 20:46:43+00:00,d2jtfx5,4.0,t1_d2jje2d,12980.0,javascript
+51,"Naja. Es gibt auch in der akademischen Informatik sehr viele Gebiete, an denen du selbst in einem PhD niemals Analysis brauchen wirst.",2016-04-27 14:12:30+00:00,d2jbh2k,4.0,t1_d2j90c1,4039.0,de
+52,I wonder if someone will open something like a game arcade with VR stuff. I would be a regular!,2016-04-27 13:34:40+00:00,d2ja0t5,1.0,t3_4gjl0h,76412.0,zurich
+53,"Wieso Light? Wenn, dann 2.0.",2016-04-27 13:30:14+00:00,d2j9uzt,2.0,t1_d2j5pa1,9574.0,berlin
+54,As opposed to which culture?,2016-04-14 07:10:54+00:00,d22b6gn,7.0,t1_d225n9f,12273.0,lgbt
+55,"Microsoft wouldn't buy it because of its successful business model, but because it has become somewhat synonymous with Linux on the desktop. The reason why so many Ubuntu VMs are run on Amazon is because people know Ubuntu from their desktop, so they want to use it on their servers.
+
+Microsoft doesn't need to buy a Linux company that actually makes money in enterprise, like RedHat or SuSE. That would lead to nothing. They need to buy Canonical for the same reason they are introducing bash on Windows in the first place: They need to get access to the non-enterprise developer that uses Ubuntu to do web programming and stuff like that.
+
+If Microsoft bought Canonical, they could use their market position to force Companies to make proprietary drivers for Ubuntu, leading to an improved desktop performance. They could also start making mixed OSes, where they use the GNU tools with the NT kernel. Sort of an embrace, extend, extinguish of the Linux on the desktop space.
+
+The coming years will be very interesting, at the very least.",2016-04-07 11:23:03+00:00,d1tdro1,4.0,t1_d1tdc71,1298.0,programming
+56,"I had never thought of this, but now that you mention it it is completely obvious. That would truly be a genius move. Canonical must be worth less than Nokia, right?
+
+I can't seem to find any numbers of the value of canonical. Anyone?",2016-04-07 08:14:23+00:00,d1talx9,2.0,t1_d1syfpq,24981.0,programming
+57,"Webchat, simple blog, message board, reddit client, omegle clone.",2016-04-06 15:02:51+00:00,d1s6fj2,3.0,t1_d1s4cp1,2893.0,cscareerquestions
+58,"That is true, but the implementation should be adapted from a Java example. The Command pattern as implemented in the linked Git repo really doesn't make much sense in JavaScript.",2016-04-06 14:05:00+00:00,d1s3yob,3.0,t1_d1s3sml,256.0,javascript
+59,Does that mean you support torture if it gets results?,2016-04-04 21:10:14+00:00,d1pu9jp,11.0,t1_d1pi83o,15932.0,cscareerquestions
+60,"Yeah, humans pretty much suck. The thing is, the world's got nothing better to offer right now. Hang in there!",2016-04-04 21:01:35+00:00,d1ptvsv,11.0,t1_d1piffm,15141.0,cscareerquestions
+61,"And my point is that when doing contracting work, it is impossible to finish a project in an hour, no matter how trivial it is.",2016-04-04 16:12:46+00:00,d1pgt3a,7.0,t1_d1pgjl9,356.0,web_design
+62,How do you know you could do it in 8 hours?,2016-04-04 16:06:16+00:00,d1pgioo,9.0,t1_d1pfght,1467.0,web_design
+63,"Estimating times for programming projects is hard even for very senior devs. If you already admit to barely knowing how to code, it is next to impossible to guess.
+
+Additionally, what do you gain by saying that you know it's a small job? Let people offer. If somebody offers something that you feel is much too high, don't take the offer.",2016-04-04 16:05:39+00:00,d1pghpp,5.0,t1_d1pdow2,3980.0,web_design
+64,"This can be done in an hour if you had a formal and complete specification, you know the infrastructure, tools and the client already and it only needs to work on your machine.",2016-04-04 16:01:39+00:00,d1pgbjv,5.0,t1_d1pfz83,466.0,web_design
+65,"I think you might be looking for git. It's a tool used to collaboratively work on things in a team, and behaves the way you describe. It's not a relational database, though.",2016-04-01 16:00:06+00:00,d1lwlpb,3.0,t1_d1llarl,23755.0,AskComputerScience
+66,"They stand on the shoulders of giants, they focus on small problems, and they spend lots of time and energy completing (not just starting) their projects.",2016-03-28 22:53:05+00:00,d1gyc82,1.0,t3_4ccec7,3372.0,cscareerquestions
+67,"&gt; If they don't have another iOS developer, how did they determine the game could be complete by November?
+
+This is the relevant question. If they just made up that deadline, it is meaningless if the product is fixed and the developer hours as well.",2016-03-28 00:00:23+00:00,d1frl4q,2.0,t1_d1fnj57,7192.0,cscareerquestions
+68,"Pintsizes responding ""good point"" to the lecture though is completely out of character for him. Like, jump-the-shark level of out of character.",2016-03-25 10:47:49+00:00,d1cvjex,3.0,t1_d1coku4,25045.0,questionablecontent
+69,"&gt; To combat this I'll probably have to configure static version numbers and manually update packages when needed. This only leaves me to trust NPM and their CDNs which, hopefully, should be ok.
+
+You also need to trust all your packages to also use static version numbers for their dependencies, recursively. ",2016-03-24 13:12:37+00:00,d1bpaga,3.0,t1_d1bkkq8,13818.0,javascript
+70,Many more non-citizen men have killed US citizens than women. It would be more reasonable to ban all men from entering the US.,2016-03-22 13:22:16+00:00,d192srb,4.0,t1_d192a8m,991.0,PoliticalDiscussion
+71,"Which is completely reasonable. For example, if you need to interface between two systems, the actual coding might be trivial. But the semantics, error handling, lookup tables, logging, reporting, testing, quality assurance and what have you are very relevant to the business. You have to get lots of stakeholders on the same page.
+
+Too many developers think software projects are just coding. ",2016-03-21 13:05:54+00:00,d17s4pt,6.0,t1_d17qyrf,2950.0,programming
+72,You sound like a real pleasure to work with. ,2016-03-21 13:01:09+00:00,d17s0e3,5.0,t1_d17rofc,805.0,programming
+73,"That is not true. We vote only if 50'000 signatures are collected to oppose a new law, or if 100'000 signatures are collected to propose a change in the constitution. This vote was about a change in the constitution.",2016-03-01 17:43:24+00:00,d0jkkl1,6.0,t1_d0jg9sa,5817.0,lgbt
+74,"Scheissegal, poste trotzdem!",2016-03-01 16:02:06+00:00,d0jg33y,10.0,t1_d0jfyvv,172.0,de
+75,"Many kids get raised by people who aren't a couple. Patchwork families, divorced couples, what have you.",2016-02-21 10:20:51+00:00,d07zzao,8.0,t1_d07g9jp,43892.0,sex
+76,"Get a first job, get some experience and save up some money. Then go travelling after you've worked two or three years. It will be much easierto find a job when you get back if you already have some experience, and you'll have more fun abroad if you have some money saved up.",2016-02-19 13:37:25+00:00,d05t9ep,1.0,t3_46k7db,7570.0,solotravel
+77,You think that you can buy a business that makes half of its value a year in profit? And you have no money? Good luck.,2016-02-13 13:31:29+00:00,czyfgnb,1.0,t3_45gt7k,59551.0,Entrepreneur
+78,"It doesn't matter, those interviews are not meant to be passed without preparation.",2016-02-07 18:14:50+00:00,czr8mgc,9.0,t1_czr7gpw,1910.0,programming
+79,"So you think the group of people immigrating to Europe from dozens of countries with civil wars should somehow self-organize and prevent individuals from expressing opinions to the media?
+
+Do you honestly believe that is even remotely possible?",2016-02-06 21:46:56+00:00,czqdjaq,7.0,t1_czqctap,1286.0,worldnews
+80,"Picard would say to lay in some course, and Geordie would type it in the touchscreen for some reason, then press a button or two. But the computer was capable of conversing in English. Why was Geordie needed at all?
+",2016-02-03 16:08:31+00:00,czmczlc,8.0,t1_czmbken,2122.0,Cyberpunk
+81,Not really. No-one is going to write new C++ code to exclusively compile it to JS. It's more about being able to use existing C++ code in client-side web applications.,2016-02-02 14:12:45+00:00,czkz3d5,4.0,t1_czkxhlp,3822.0,programming
+82,"I took the post at face value at the time, but from today's perspective it seems completely made up. I guess I got more cynical over the years.",2016-01-31 22:55:31+00:00,czj1qbz,2.0,t1_cziqihf,18708.0,OutOfTheLoop
+83,Don't mention it! You can gain nothing by doing so.,2016-01-25 17:14:59+00:00,czbea5v,3.0,t1_czbd3w5,1695.0,Entrepreneur
+84,How can an OS or a programming language prevent poorly written code?,2016-01-25 16:02:49+00:00,czbbbx5,4.0,t1_czbb5oc,271.0,Android
+85,"Yeah, I'm not sure that marketing is the issue here.",2016-01-22 13:09:58+00:00,cz7p597,4.0,t1_cz7orl2,1044.0,gamedev
+86,"If I understasnd it correctly, the Oculus Rift should be ideal for this scenario.",2016-01-09 12:04:11+00:00,cyrpui8,6.0,t1_cyrp0im,3816.0,interestingasfuck
+87,"Klar kann das sein. Aber es klingt halt wirklich viel eher nach einer Fantasie eines rechten Bürgers als nach etwas, was ein betrunkener Assi an Silvester tun würde.
+
+Ich meine, das zerreissen eines Dokuments vor der Polizei ist ein politisches Statement. Aber eines, das nicht etwas erreichen will, sondern eine reine Provokation. Wozu?",2016-01-08 13:01:36+00:00,cyqjc67,6.0,t1_cyp7non,92563.0,de
+88,What do you mean by boiler room?,2016-01-04 17:39:55+00:00,cylpbuv,3.0,t1_cylo366,1883.0,business
+89,Do you think someone started planting grains because they were horny?,2016-01-04 08:06:13+00:00,cylc4y5,1.0,t3_3zcns5,22492.0,funny
+90,Civilization exists because this is not held as true by everyone.,2016-01-04 07:45:24+00:00,cylbrcq,7.0,t1_cylbnmf,339.0,funny
+91,"Warren Buffet is an investor, not a politician. ",2016-01-03 00:06:55+00:00,cyjt3ak,8.0,t1_cyjrdkv,3048.0,Foodforthought
+92,I wish I could get the two minutes back I invested in this video. And I'm currently on reddit to kill time.,2016-01-02 23:15:22+00:00,cyjrcm3,1.0,t3_3z1vhz,97202.0,fo4
+93,"&gt; Poop molecules and day-old fart atoms
+
+Technobabble gone excremental.",2016-01-02 13:36:54+00:00,cyj9j6n,3.0,t1_cyj86jv,5354.0,AskReddit
+94,They assumed the systems they were building would be replaced long before 2038.,2015-12-31 18:09:17+00:00,cyhhqfv,3.0,t1_cyhhazq,697.0,explainlikeimfive
+95,"I'm not trying to impress you. Actually, you impressed me with what you have worked on. And I certainly cannot offer you anything.
+
+It seems you are dead-set on working on games and nothing else. This seems questionable to me, as some games offer pretty much nothing (the aforementioned candy crush for example), and some non-game jobs are extremely rewarding (you mentioned NASA as an example). So why not limit yourself to rewarding jobs in whatever field they might be in?",2015-12-30 21:15:46+00:00,cygk6r6,8.0,t1_cygj7hw,1483.0,GetMotivated
+96,"There is more than ads in non-games programming. I have worked on train systems, coffee machine backends, insurance webapps, systems for use in parliaments, banking programs, systems for churches and webapps for public broadcast corporations.
+
+I think you should be able to convince yourself that one of those things is more valuable to the world than candy crush.",2015-12-30 20:13:11+00:00,cyghoyk,6.0,t1_cyghimp,262.0,GetMotivated
+97,"Get a six figures job, and work on games as a hobby. This means you get a comfortable life, a hobby, a happy wife, and get to work on the games you actually want to work on. Slaving away at a games studio is no better than slaving away at some other corporate job.",2015-12-30 20:02:13+00:00,cygh924,4.0,t1_cygfg6o,2652.0,GetMotivated
+98,Keep your sales job.,2015-12-30 19:48:21+00:00,cyggoon,11.0,t1_cygg17e,968.0,GetMotivated
+99,"Looks really good, keep it up!",2015-12-28 20:41:53+00:00,cye5q56,1.0,t3_3yhj6w,55553.0,startrek
+100,"Start with guessing a number between 1 and 100, reading guesses from the console. ",2015-12-28 00:49:34+00:00,cydalmx,3.0,t1_cyd4phn,10081.0,compsci
+101,"Well, [031](http://www.derbund.ch/bern/stadt/Sprayergang-mit-Hang-zur-Gewalt/story/16963988) both spray stuff on walls, are criminals, and hate the police.",2015-12-27 18:56:59+00:00,cycxsyg,3.0,t1_cybrmxs,106653.0,bern
+102,"Do you expect graffiti to say ""We support our glorious police force""?",2015-12-26 09:36:03+00:00,cybp67z,1.0,t3_3y9li5,7047.0,bern
+103,I'm sure one of the chans has one.,2015-12-25 23:17:55+00:00,cybbxsg,3.0,t1_cyba8ll,3708.0,TheoryOfReddit
+104,Do you browse those communities sorted by new?,2015-12-25 21:15:43+00:00,cyb8jzq,3.0,t1_cyb8gv7,190.0,TheoryOfReddit
+105,"What makes reddit so much better than a traditional forum or usenet is that we get to vote on comments and threads. If you take that away, why use reddit at all?",2015-12-25 21:04:36+00:00,cyb88yb,1.0,t3_3y763o,11807.0,TheoryOfReddit
+106,"One shot of espresso lead Emily to have uncontrollable spasms and then fall asleep. That must mean that she has an extreme reaction to Caffeine. But why didn't she know this? Did she never try coffee at all before starting to work at a coffee shop?
+
+Also, why did she learn absolutely nothing from her extreme reaction and promptly drink more coffee in the afternoon? Is she [this guy](https://np.reddit.com/r/legaladvice/comments/3xfw1s/vet_clinic_is_using_tainted_ketamine/)?
+",2015-12-21 10:52:26+00:00,cy6h024,1.0,t3_3xortr,2214.0,questionablecontent
+107,"If you want to build something like this, the text parsing will be a trivial part of the entire project. I would not build this in an existing IF system.",2015-12-20 16:47:34+00:00,cy5kuyk,9.0,t1_cy5kf7g,890.0,interactivefiction
+108,"Hold my golf club, I'm going in!",2015-12-20 15:23:30+00:00,cy5ik5n,5.0,t1_cy5f75w,10902.0,videos
+109,Rule 2. Stop using random smiley faces after every sentence.,2015-12-15 09:45:53+00:00,cxzl6rs,2.0,t1_cxzkki7,2427.0,GetMotivated
+110,It's new on Azure.,2015-12-10 11:56:11+00:00,cxtzqxp,4.0,t1_cxtzk6z,690.0,programming
+111,You might be in dire need of some vacation.,2015-12-08 19:31:00+00:00,cxrva11,10.0,t1_cxrv04z,364.0,cscareerquestions
+112,That's five weeks of vacation. The year has twelve months. I'm not sure you're right about that.,2015-12-08 19:23:23+00:00,cxruxq2,8.0,t1_cxrutfq,159.0,cscareerquestions
+113,"This seems absurd to me as person from Switzerland. At my next job I'll have 25 days of vacation, and everyone uses theirs. How can you cope with working for years on end without even a week off here or there? I can't imagine doing that.",2015-12-08 15:36:47+00:00,cxrl2pm,6.0,t1_cxrjmt4,2453.0,cscareerquestions
+114,Does it matter to you at all what you code? Whom you code it with? Who will use your code? How the coding process works? What language you code in? ,2015-12-06 23:31:00+00:00,cxpmy3o,3.0,t1_cxpayib,17388.0,cscareerquestions
+115,"&gt; Mainly because the ""science"" used in Star Wars is nonsensical and inconsistent. 
+
+As opposed to the ""science"" used in Star Trek, that always makes perfect sense.",2015-11-30 13:00:46+00:00,cxhumqj,3.0,t1_cxhsdgv,9234.0,startrek
+116,I love seeing BASIC code again after all these years!,2015-11-23 10:46:45+00:00,cxa0ttz,1.0,t3_3tvw2c,32822.0,interactivefiction
+117,Wouldn't you fall over? How do you move? How do you land?,2015-11-23 10:46:16+00:00,cxa0tm6,1.0,t3_3twz98,12340.0,TheFutureIsNow
+118,"I have asked myself this question as well. It's hard to tell if it's just that we are so much more familiar with imperative programming that we consider it easier to read simply because we know it better, or if it is indeed easier to read because it more closely resembles what the computer actually does.
+
+I tend to think that we are so used to modelling objects and state in our minds that we somehow think this is the natural and most easy to understand way to think about code. However, thinking about functions might be just as natural and easy to understand later.",2015-11-09 10:36:54+00:00,cwty30j,5.0,t1_cwmyq26,499028.0,java
+119,"So you go to the same bakery everyday, and everyday you ask for a Buttergipfeli. And they never have one. Yet you continue to go there everyday and ask for one? And you blame the bakery for not having them? I find this hard to believe.",2015-11-06 06:20:40+00:00,cwqehws,1.0,t3_3rm8fx,67903.0,Switzerland
+120,"&gt; Or you could just go get a development job outside of games and make 4 times that easily, which would allow you to develop games in your spare time or spend a few years working to save for several years making games full time.
+
+Do this! Save for two years, spend three on a game. Or maybe you could find a part-time job.",2015-11-02 14:28:07+00:00,cwllbmr,4.0,t1_cwlka4i,2293.0,gamedev
+121,"This is your preference. Other people would rather be asked via messenger, because it's an asynchronous way of communicating and they don't have to drop what they are currently doing and respond immediately.
+
+And even if your way was the only right way, do you honestly think yelling at developers is ""lets-work-together-as-a-team-and-do-the-thing""?",2015-11-02 14:11:03+00:00,cwlku56,6.0,t1_cwlkpjw,282.0,ProgrammerHumor
+122,That's terrible and I'm glad you didn't take the job. ,2015-11-02 09:56:10+00:00,cwlgbia,3.0,t1_cwkwgep,40688.0,ProgrammerHumor
+123,"&gt; I cant tell you the number of times i've had to yell at developers for sending an IM when the goddamn person you're talking to is sitting right next to you.
+
+You yell at people for choosing a method of communication that you do not agree with in that particular case?
+
+And at the same time, you claim that you know how to work well in a team and are a joy to work with?
+
+I think you need to pick one or the other.
+
+edit: In fact, you yelling at people is always unprofessional, unnecessary and counter-productive. Only assholes yell at people. ",2015-11-02 09:52:45+00:00,cwlg9yg,4.0,t1_cwkyh0h,37264.0,ProgrammerHumor
+124,How about you only do stuff to your wife that you wouldn't mind someone doing to your daughter?,2015-10-31 08:02:12+00:00,cwjafp0,3.0,t1_cwiv8k5,35757.0,BlackPeopleTwitter
+125,Not really. See point two of this for example: http://stevebennett.me/2012/02/24/10-things-i-hate-about-git/,2015-10-30 16:31:23+00:00,cwii69a,8.0,t1_cwihjr6,931.0,ProgrammerHumor
+126,I mean the command line.,2015-10-30 16:09:59+00:00,cwihb9c,6.0,t1_cwih6xi,182.0,ProgrammerHumor
+127,"Maybe, but the UI is clobbered together and has no naming or syntax conventions. It should be redone from scratch from a UX person.",2015-10-30 16:05:49+00:00,cwih5b5,4.0,t1_cwi94z9,15267.0,ProgrammerHumor
+128,"&gt; In what kind of backwards society does a grown adult tell another grown adult what they can and can't do with their lives?
+
+Private property only works if we tell people they can't live their lives taking other peoples stuff.",2015-10-30 11:31:26+00:00,cwi8s28,7.0,t1_cwhwaqe,35616.0,4chan
+129,marine.,2015-10-26 20:20:54+00:00,cwdrhk2,3.0,t1_cwdqjm3,1366.0,greentext
+130,"I wish I could skip the walking around a lot. I like story, I like fighting, I just hate walking around. I love GTA because getting around is fun, but in traditional RPGs it just feels like a chore.",2015-10-16 10:22:33+00:00,cw1p0fr,10.0,t1_cw0ygy2,55147.0,dataisbeautiful
+131,"I agree with this. Make it seem that you are most interested in furthering your career, rather than coming in late, leaving early, snacking and having a nice flat.",2015-10-12 21:51:11+00:00,cvxez5d,2.0,t1_cvx2r9a,17691.0,cscareerquestions
+132,Unless you need to pay for something.,2015-10-10 09:12:59+00:00,cvun8g9,1.0,t3_3o3mua,69833.0,quotes
+133,"I'm not opposed to naming things and using the names to think and communicate. As you said, I don't think we can do either of those things without that.
+
+As long as we are aware that our names are just that, we are fine. To reason about where a ship is going, it is reasonable to split the universe into the ship of Theseus and not-the-ship-of-Theseus. To reason about the gravitational pull of the moon on the earth, it is reasonable to consider that same ship as simply a non-distinct part of earth.
+
+I object to seriously thinking about whether the ship is still the ship when it gets replaced. The concept of the ship was simply a working abstraction for thinking and communicating. It is meaningless outside of our thoughts or communications. It seems silly to me to arbitrarily create a segmentation of the universe that is ill-defined (as it has no temporal dimension) and then try to find a flaw in ones own segmentation by abusing that it is ill-defined.
+
+Surely, there must be a philosophical school of thought that proposes that objects don't exist except as concepts in our mind? ",2015-08-27 13:38:18+00:00,cuhf8je,3.0,t1_cuhdra0,3115.0,askphilosophy
+134,"Thank you so much! This is the exact reason it has always baffled me intelligent people spend time seriously thinking about this kind of philosophy in the modern age.
+
+The universe is a continuous expanse of probability functions. Mapping out temporal or spacial regions of this and naming them does not make those regions in any way different than the rest of the universe. They are just abstractions in the pattern recognition system that is our mind. Reasoning about their identity or other properties is meaningless - they only exist as patterns in our minds.
+
+Asking questions like ""is this abstraction the same as that abstraction"" ist just playing games with the abstractions in our mind. It seems a modern intellectual will have no doubt about that the patterns in their mind are simply patterns and arguing about them is not useful to learn about the universe.
+
+It seems that taking these patterns from our minds, using them as axioms and using rationality to try to derive truths is a very, very flawed concept. And to me, the question on the ship of Theseus is exactly that. ",2015-08-27 10:17:08+00:00,cuhawbm,1.0,t3_3ik2d9,22278.0,askphilosophy
+135,There are VIM-bindings for all IDEs. They let you edit text just as fast as directly n VIM.,2015-08-23 12:16:28+00:00,cucqksx,3.0,t1_cucj598,27529.0,programming
+136,Spoken like someone who has never worked in industry on a real-life enterprise-grade project.,2015-08-23 12:14:44+00:00,cucqjr1,4.0,t1_cuc8a2c,48890.0,programming
+137,"What you are asking makes about as much sense as asking ""how can I apply algebra to a chainsaw"". Machine learning is a field of computer science, ASP.NET MVC is a tool for building web applications.",2015-08-23 12:09:52+00:00,cucqgxx,8.0,t1_cucel4q,36526.0,MachineLearning
+138,"I bought a bike there, and sold it back. Everything worked fine.",2015-08-21 21:53:28+00:00,cub5ua3,2.0,t1_cuasasb,20628.0,VietNam
+139,Which is oftem the best answer.,2015-08-21 15:02:47+00:00,cuaplxd,5.0,t1_cuao3wu,2433.0,ProgrammerHumor
+140,"It's a gif with a .jpg ending, and the browser detects this automatically.",2015-08-21 07:23:42+00:00,cuafi05,4.0,t1_cu9f851,65483.0,InternetIsBeautiful
+141,"Ach, mich würde sehr wunder nehmen was hinter dieser Geschichte steckt. So richtig Krimimässig!",2015-08-18 21:19:18+00:00,cu7ifsy,1.0,t3_3hhcck,8525.0,chpresseschau
+142,Because they get infected by malware and fuck up the Internet by being part of a botnet.,2015-08-17 16:52:08+00:00,cu614g2,13.0,t1_cu5yrt5,3805.0,news
+143,Then I don't understand the scenario. You can control the implementing methods of an interface but not the base class of these classes? That's not how OOP is supposed to work.,2015-08-17 06:37:17+00:00,cu5ne2t,5.0,t1_cu56qqh,35312.0,csharp
+144,"Why don't you have an abstract class called FourWheelDriveCar that inherits from car and implements StartFourWheelDrive, then have FordCar etc. inherit from it? Why use an interface for that?",2015-08-16 19:41:49+00:00,cu54ilu,3.0,t1_cu532lr,2611.0,csharp
+145,Proposing Haskell as a Java alternative is pure jerkoffery. It's an academic language that isn't used anywhere in industry.,2015-08-16 13:04:21+00:00,cu4stc3,7.0,t1_cu4rhne,4741.0,programming
+146,Honour? It just changed optimization priorities. ,2015-08-14 21:27:36+00:00,cu390au,2.0,t1_cu385aa,1400.0,programming
+147,Dora is going to completely melt down about this. I can feel it!,2015-08-10 14:40:45+00:00,ctxz5em,1.0,t3_3getj7,48074.0,questionablecontent
+148,"If you are granted citizenship not because you were born in the USA, but because a parent of yours was, then you are not a natural born citizen.",2015-08-10 08:28:37+00:00,ctxrsa0,9.0,t1_ctxpesy,8198.0,answers
+149,"&gt; The biggest problem is time.
+
+It's not really a problem though. Well, it is if you are thinking in human timescales. If we transition to a form of life that is not restricted in lifespan biologically, nothing says that waiting a couple million years doesn't make sense for an intelligent being.
+
+We are very small and fast, compared to the universe. Doing something like travelling to another galaxy is an action on a different scale than we live our lives, so it needing a different scale of time is no problem in my view.
+
+This might also be a reason for the Fermi paradox. We assume that alien life that spans across galaxies communicates on a similar timeframe than we do. For all the reasons you mentioned, this is probably not the case. How would be pick up signals designed for entities that consider a couple million years a commute?",2015-08-07 09:37:36+00:00,ctumlwf,6.0,t1_ctugib7,19304.0,Futurology
+150,Look for the red car using quantum neutrino fluctuations!,2015-08-07 09:30:09+00:00,ctumi6j,8.0,t1_ctubtbe,27679.0,Futurology
+151,"Yeah, same problem. It's two things: First, if they source the product themselves, they will earn more money as they will charge you more for it than they paid. This is of course exactly what you are trying to avoid by buying the stuff yourself.
+
+But it's also that the products they selected are ones they know well, and will vouch for. Many people don't want to spend time working with materials they haven't chosen and are likely the cheapest the customer found on the internet. It might mean they are harder to work with or more likely to break, and even if everything goes well they don't want to be part of a quality of service that doesn't match their standard.
+
+Just have a company to full service. It will establish a good relationship with them, you will have less hassle, the end result will probably be better, and it probably won't be that much more expensive. ",2015-08-04 12:13:57+00:00,ctr01by,3.0,t1_ctqunhd,19930.0,askswitzerland
+152,"Try CodeAcademy. Programming is like math, you have to do it to learn it.",2015-08-04 11:41:24+00:00,ctqze9p,3.0,t1_ctqon02,31730.0,cscareerquestions
+153,This is ridiculously speculative and not something to use as career advice.,2015-08-04 10:33:16+00:00,ctqya9j,4.0,t1_ctqu4rx,15484.0,cscareerquestions
+154,Don't worry too much about that meta level. Just go and build cool stuff with the best tools you can find.,2015-08-04 05:49:42+00:00,ctqtlds,3.0,t1_ctqdu5z,29041.0,javascript
+155,"I always thought that swinghouse was more electronic dance music with Swing samples in it, while electroswing is more swing music with a synthetic beat. They are two ends on the spectrum ranging from pure nz nz nz with old-timey vocal samples to a Swing band playing to a drum machine beat.",2015-08-03 11:07:23+00:00,ctps0y0,2.0,t1_ctpm1fg,21683.0,electroswing
+156,"Thanks for the feedback!
+I don't think I can do much about the international articles, if the newspapers put them in the feeds they show up. I guess I could train a neural net to detect them or something?
+But solving the second point is very possible, and I'll get to that as soon as I can. A already check for duplicate links, I just need to also check for duplicate titles.
+I'll let you know when I fixed it!",2015-08-03 08:23:53+00:00,ctppp6u,2.0,t1_ctoqd5u,83463.0,Switzerland
+157,Din Kommentar bringt mich nachhaltig zum gigele.,2015-08-01 00:28:28+00:00,ctng299,2.0,t1_ctlzndj,99716.0,Switzerland
+158,"Awesome! I didn't even realize thumbnails were disabled in the subreddit settings, I turned them on now.
+
+I was thinking of using flair to mark the source of the posts, which would have a similar effect. Or maybe I could prefix the titles of the posts with [CHPS] or something?
+
+edit: Put a link to this in the sidebar.",2015-07-31 14:46:48+00:00,ctmtkdr,1.0,t3_3faik8,2242.0,chpresseschau
+159,Hätte ehrlich gesagt auch nie geglaubt dass die meisten Blick.ch-Submissions auf reddit von meinem Account kommen würden. So kann's gehen.,2015-07-31 09:14:33+00:00,ctmlqmk,5.0,t1_ctmlg3t,1131.0,Switzerland
+160,"Ich habe bei allen Zeitungen die Sparte ""Inland"" genommen, die müssten Grundsätzlich auch die anderen Sprachregionen abdecken.
+
+Für die deutschsprachigen Städte Bern (Bund, BZ), Basel (BAZ), Zürich (NZZ, TA), St. Gallen (Tagblatt) und Luzern (NLZ) habe ich jeweils auch jeweils die Sparte ""Lokal"" genommen. Hier sind die anderen Sprachregionen, wie auch ländliche Regionen, gar nicht repräsentiert.
+
+Vielleicht wäre es gar nicht schlecht, französische und italiensche Zeitungen auch zu nehmen? Leider ist mein Italienisch nicht-existent und mein Französisch himmeltraurig, drum kann ich die Qualität der Feeds schwer einschätzen.",2015-07-31 09:09:18+00:00,ctmlnnt,5.0,t1_ctmlkbk,362.0,Switzerland
+161,"Mir ging es darum, einen Überblick zu haben was die Schweizer Presse schreibt. Also habe ich die meistgelesenen Tageszeitungen genommen: 
+
+* 20 Minuten
+* Blick
+* Tages Anzeiger
+* Berner Zeitung
+* Der Bund
+* Neue Zürcher Zeitung
+* Neue Luzerner Zeitung
+* St. Galler Tagblatt
+* Basler Zeitung
+
+Dann noch den RSS-Feed von SRF, auch wenn's keine Zeitung ist. Ich finde, das gibt einen guten Überblick. Und den Blick mag ich in der Liste, gerade weil es mir sonst niemals in den Sinn kommen würde ihn zu lesen. Immerhin lesen ihn viele Leute.
+
+/r/chpresseschau soll ein bisschen wie ein /r/all der Inlandpresse sein. Und da gehört der Blick dazu, finde ich.
+
+edit: Übrigens ist mir der Blick noch lieber als die BAZ.
+",2015-07-31 08:34:23+00:00,ctml41i,3.0,t1_ctmkqkz,1395.0,Switzerland
+162,"Thanks for your feedback!
+
+As far as I understand Heroku, it counts the sum of running time. So it doesn't matter when your program is running, it just has a max running time per 24 hours.
+
+I'm using the free tier right now, I just start my script every 10 minutes via a Heroku-cronjob. The script itself just runs for a couple of seconds, so I won't even get close to using up my free hours.",2015-07-30 22:49:57+00:00,ctm4g29,2.0,t1_ctm3ikd,1532.0,Switzerland
+163,Thank you!,2015-07-30 22:04:55+00:00,ctm2sk1,2.0,t1_ctm23np,1061.0,Switzerland
+164,choge glatt,2015-07-30 20:59:58+00:00,ctm07vj,2.0,t1_ctlz9ts,1340.0,Switzerland
+165,Merci!,2015-07-30 17:43:19+00:00,ctlrset,3.0,t1_ctlrpyq,93.0,Switzerland
+166,"Ich lese morgens beim pendeln ständig Reddit statt eine Zeitung. So weiss ich recht gut was in den USA geht, aber habe keine Ahnung was hier so passiert.
+
+Also habe ich einen Bot geschrieben, der die RSS-Feeds der grossen Schweizer Tageszeitungen abgrast und die Artikel die einen Schweiz-Bezug haben nach /r/chpresseschau postet. 
+
+Ist spannend zu sehen was die Schweiz so bewegt. Ihr seid herzlich eingeladen mitzulesen, mitzuvoten und mitzudiskutieren.
+
+[Source vom Bot auf GitHub](https://github.com/maroth/chreddit)",2015-07-30 17:38:03+00:00,ctlrjwo,1.0,t3_3f6nsj,159.0,Switzerland
+167,"Well, we are in the process of replacing the hacked and patched together studio broadcasting environment with a shiny new one based on Linux, AirTime and other open source tools. We have lots of stuff to do in development and operations. We just bought two big fat servers to run it all on, they will be arriving in a month!
+
+We are a group of around 8 people and meet Wednsday evendings. Working language is German, though. If you are interested, you should come by sometime and grab a beer with us!",2015-07-30 08:54:01+00:00,ctlci2r,3.0,t1_ctlccxk,589.0,bern
+168,"You don't have time for the SJW bullshit, so you are investing time to move you repos because someone did something insignificant that offended you?",2015-07-30 08:49:43+00:00,ctlcfuu,3.0,t1_ctk5fid,74728.0,programming
+169,What does that mean?,2015-07-27 09:01:28+00:00,cthkxqm,5.0,t1_cthiy6t,7519.0,Switzerland
+170,"Depends on what you can do. If you are an IT guy, come help with the IT group at the not-for-profit radio station RaBe.
+
+",2015-07-26 21:23:12+00:00,cth1q83,1.0,t3_3eb21x,299921.0,bern
+171,It's what most fast food places sell. That or soulless American burgers. We don't really have many raclette places open late.,2015-07-26 19:43:13+00:00,ctgy935,2.0,t1_ctgqj9u,14188.0,Switzerland
+172,"How does the food get better if you pay less? We are not complaining about price in this thread, but quality.",2015-07-26 19:40:46+00:00,ctgy650,3.0,t1_ctgr5uu,12800.0,Switzerland
+173,I never thought I'd hear Migros and good Döner n the same sentence. Do they even have fresh Dönermeat? Which one do you mean? I want to try this.,2015-07-26 19:38:18+00:00,ctgy330,2.0,t1_ctgndhd,21306.0,Switzerland
+174,There is Royal Döner. Are they really a monopoly? I wish people seriously studied this stuff.,2015-07-26 19:33:57+00:00,ctgxxz1,2.0,t1_ctgjbl3,36968.0,Switzerland
+175,"I'm not sure I follow. If they pay shit and the food is better, why would the food here be better if we paid more? 
+
+But honestly, I'd pay 20 for a really good Döner. In fact I paid 21 for a Dönerteller with bulgur today, and it was reasonable, but lacking good Dönermeat.
+.",2015-07-26 19:31:08+00:00,ctgxumu,3.0,t1_ctgr44v,12314.0,Switzerland
+176,Do tell more?,2015-07-26 11:48:23+00:00,ctglbfh,3.0,t1_ctg73x7,40881.0,Switzerland
+177,Which one? Nosch?,2015-07-26 11:48:05+00:00,ctglb99,4.0,t1_ctgkkmo,3191.0,Switzerland
+178,"I like the texture of the meat, because it tastes like it's from actual pieces of meat rather than minced meat. But I agree, it's not great Döner, just better than the rest in Berne. Can you recommend a place?",2015-07-26 11:46:36+00:00,ctglagk,3.0,t1_ctgkstv,2080.0,Switzerland
+179,"You are so right it hurts! Döner in Switzerland is terrible. A few years ago, I travelled in Eurpe a bit with Interrail, making a point to eat a Döner in every town I travelled to. Just a few kilometers across the border to France or Germany, they have fresh bread that they toast well, meat fresh from the grill, homemade sauces, fresh salad. And they put them together like they actually give a fuck: Some sauce on the bread first, them some meat, some veggies, more meat, more veggies and top it off with not to much sauce.
+
+Come back home, and it's shitty industrial bread, barely toasted with meat from the warming bin and sauces that are bought from cash &amp; carry. And they just randomly slap the stuff together. It's absolutely terrible!
+
+And the meat! Almost all Döner places here have minced meat on their Döner rather than real slabs of meat laid on top of each other.
+
+I dream of getting good Döner in Switzerland!
+
+The only passable place in Berne is King's Kebab, the little white house in the intersection by the Lorraine bus stop. Nice guys, properly toasted bread, and real meat slabs so the meat has the proper texture. But they also do the warming box thing, and the sauce is kind of bland.
+
+Fast- and streetfood is generally terrible in Switzerland though. People who sell it mostly give no fucks about their product. It's a discrace.
+
+Checking ticket prices to Berlin...",2015-07-26 08:47:08+00:00,ctgiw1w,1.0,t3_3eleac,43300.0,Switzerland
+180,Do you know of a Döner place in Switzerland that doesn't do the warming box thing? I need to know this!,2015-07-26 08:34:45+00:00,ctgipms,2.0,t1_ctg0jo5,42075.0,Switzerland
+181,"They said or, not xor.",2015-07-24 20:58:49+00:00,ctf0wel,4.0,t1_ctekz84,23747.0,csharp
+182,Oracle doens't care about Java on the desktop. Enterprise Java is doing very well and going nowhere.,2015-07-24 18:57:56+00:00,ctew2nj,4.0,t1_cte8snz,51398.0,csharp
+183,[But Biff said they didn't hang out together!](https://www.youtube.com/watch?v=iwY5o2fsG7Y),2015-07-23 12:58:29+00:00,ctdacbt,1.0,t3_3e0085,225599.0,scifi
+184,"People think it works that way, but it really doesn't. ",2015-07-06 19:10:42+00:00,csu3z0n,7.0,t1_cstxx3q,9259.0,nottheonion
+185,"In addition to all the other answers: If you do choose to mention your typing skills, put it under hobbies. Certainly don't try to claim you are faster in ""implementing algorithms"" because you can type well - that's ridiculous.",2015-06-29 04:57:57+00:00,csm3xfm,1.0,t3_3bgsa3,9413.0,cscareerquestions
+186,That very much depends on how much you pay your sysadmins.,2015-06-23 14:02:26+00:00,csfvvfn,3.0,t1_csftqf0,4589.0,ProgrammerHumor
+187,"&gt; There are three options
+You are rational and want the flag to come down
+You are miseducated and don't know the true nature of the flag and what it represents. If this is so educate and shift to position
+You're a racist. In which case your arguments and opinions in this case are unimportant.
+
+While I agree with you, I think your arguments and opinions are also unimportant, as you do not even entertain the possibility of someone disagreeing with you being right. This means you are not actually participating in a debate.",2015-06-22 14:46:36+00:00,csese0l,3.0,t1_csejitp,29486.0,TrueReddit

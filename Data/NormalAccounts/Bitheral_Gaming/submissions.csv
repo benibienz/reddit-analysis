@@ -1,0 +1,29 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-03-18 19:28:39+00:00,self.bitherus,https://www.reddit.com/r/bitherus/comments/4aztxw/welcome_to_the_subreddit/,False,"Hello there, fellow redditor. Welcome to my dom... I mean the Bitherus Subreddit, You can talk about our games (Bitherus Studios) and if it's a Development Release (If I release updates with something new added or changed) then suggest what you would like to have added or changed or even removed; I listen to the community when it comes to creating games. You can also discuss about the story, but make sure you have read our ""No Spoiler"" rule!
+
+
+Have a nice time here on the Bitherus subreddit, and enjoy your day.",bitherus,Welcome to the subreddit,https://www.reddit.com/r/bitherus/comments/4aztxw/welcome_to_the_subreddit/
+1,2016-02-05 16:13:45+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/44bhh6/cannot_create_partition_on_windows_7_professional/,False,"Hello, I just got a Windows 7 Professional ISO File and burned it to a USB Drive (I have also got a key for it) When the bootup gets to the ""Where do you want to install Windows?"" section (I have a clean 1TB Western Digital), I try to create a new partiton but when I try to create one, I get a popup window saying ""Failed to create a new partition on the selected unused space. [Error: 0x8007045d]
+
+The computer I am using is a HP Omni 120-1110ea AiO (All-in-One) but I had upgraded the hard drive from a Seagate 500GB 7200RPM Internal 3.5"" SATA to a Western Digital 1TB Caviar Blue 7200RPM 64MB Internal 3.5"" SATA Hard Drive
+
+**EDIT**: I have tried the Command Prompt method (Using DiskPart) but when I try the ""create partition primary"" and hit enter it shows me with this error ""The request could not be performed because of an I/O device error""
+
+
+**UPDATE 1**: I have refunded the hard drive as it was counted as a bad disk in partition wizard, so I am getting a Seagate Barricuda Internal 1TB 64MB Cache 7200RPM 3.5"" SATA 6Mb/s
+
+**UPDATE 2**: Hello reddit, for those who have experience this problem then there may be a problem with the hard drive because when I have just replaced the hard drive, Windows is installing; I found this out because I used Hirens BootCD and Partition Wizard said that the hard drive was a bad disk, so take note of where you buy your HDD and I wouldn't recommend buying a recertified hard drive.
+",techsupport,Cannot create partition on Windows 7 Professional x64 bit [Error: 0x8007045d],https://www.reddit.com/r/techsupport/comments/44bhh6/cannot_create_partition_on_windows_7_professional/
+2,2015-12-12 21:14:41+00:00,self.minecraftsuggestions,https://www.reddit.com/r/minecraftsuggestions/comments/3wk8o4/server_list_folder/,False,"For some people, their server list is an absolute mess, so I think that adding server list folders will optimise and organise the server list a bit more. For example, you got a bunch of parkour servers, and they're all over the place, if we have folders then you can easily find the server.",minecraftsuggestions,Server List Folder,https://www.reddit.com/r/minecraftsuggestions/comments/3wk8o4/server_list_folder/
+3,2015-12-11 16:57:10+00:00,self.Windows10,https://www.reddit.com/r/Windows10/comments/3weakd/upgrading_type/,False,"I have thought about upgrading but I don't know what is best to do, Either Clean Install or Upgrade, I know that upgrading keeps all your files and programs installed but I want to know what everyone has done.",Windows10,Upgrading type,https://www.reddit.com/r/Windows10/comments/3weakd/upgrading_type/
+4,2015-11-06 15:22:25+00:00,self.Windows10,https://www.reddit.com/r/Windows10/comments/3rrs9n/windows_10_brightness/,False,"Today, I got a Windows 10 update and when the computer restarted onto the desktop my brightness was extremely low, I have tried to change the brightness via Intel Control Panel but it isn't there and the same with Control Panel. Is this an external program, A problem with the screen or an update?
+
+My computer is an Acer Aspire (I don't know what model) All in one.",Windows10,Windows 10 Brightness,https://www.reddit.com/r/Windows10/comments/3rrs9n/windows_10_brightness/
+5,2015-09-26 08:20:42+00:00,self.Windows10,https://www.reddit.com/r/Windows10/comments/3mfyg2/upgrading_with_a_gaming_laptop/,False,So I have been trying to ignore upgrading to Windows 10 for a long time now on my gaming laptop since I heard about the whole NVida and Windows 10 fiasco but I tried it on a VM and it seemed to be quite good. Should I upgrade?,Windows10,Upgrading with a gaming laptop,https://www.reddit.com/r/Windows10/comments/3mfyg2/upgrading_with_a_gaming_laptop/
+6,2015-08-21 00:05:00+00:00,self.LogoRequest,https://www.reddit.com/r/LogoRequest/comments/3hsb00/so_i_need_a_new_quick_logo/,,"I have a logo which can quickly be recognized for my ""company"", and I want to do another design but I have no idea for it. If anyone could give me some ideas that would be great!
+
+Current Logo:
+http://bitherus.zz.mu/img/logo_2.png
+
+**EDIT:**
+My ""Company"" is a game-developement company",LogoRequest,So I need a new quick logo,http://www.reddit.com/r/LogoRequest/comments/3hsb00/so_i_need_a_new_quick_logo/

@@ -1,0 +1,138 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"A great place to start off sharing a game is IndieDB, where you can post your game (upon many) It might take a while to get it setup but it can be worth it",2016-11-04 00:48:37+00:00,d9ktqxb,1,t3_5b0mm4,220,gamedev
+1,Are there any bootable software for partitioning?,2016-02-06 17:26:12+00:00,czq4ojg,10,t1_czq17sg,6444,techsupport
+2,"**EDIT**: I saw a tutorial on YouTube, so I'll follow that then update you.
+
+**UPDATE**: I tried using GParted but it, 1. Couldn't detected the drive, 2. Couldn't detect the partitions, 3. It has a flickering screen.",2016-02-06 09:49:37+00:00,czpv3ft,8,t1_czoz4kx,60810,techsupport
+3,What installation method do you prefer to use for GParted?,2016-02-05 19:59:27+00:00,czp6x7s,8,t1_czoz4kx,11000,techsupport
+4,"I'm not in any hurry, I will update you when sourceforge is back online.
+
+**EDIT**: Just checked the site, It's Online.",2016-02-05 17:50:43+00:00,czp1fxm,10,t1_czp0ili,1313,techsupport
+5,"The link you sent me for the gparted bootable USB won't work.
+
+**EDIT**: Sourceforge is under maintenance, until 22:00 UTC",2016-02-05 17:16:02+00:00,czozyoj,8,t1_czoz4kx,1195,techsupport
+6,"It is a clean hard drive, but it's recertified which was in a sealed branded packaging.",2016-02-05 16:47:22+00:00,czoyrb5,6,t1_czoylev,234,techsupport
+7,"The drive has NO partitions on it at all, the only thing on the Partition Table is ""Disk 0 Unallocated Space   932.5GB Total Size and Free Space"" but doesn't display ""Type"".
+
+I mean burned as in using the Windows 7 USB/DVD Tool for the ISO file to extract onto the USB Drive.",2016-02-05 16:35:19+00:00,czoy99p,4,t1_czoxwoo,500,techsupport
+8,"No, the only USB's that I am using are: Keyboard w/ Mouse and the USB drive to install Windows 7.",2016-02-05 16:22:36+00:00,czoxq4g,2,t1_czoxnnr,105,techsupport
+9,There is a tutorial on thinkgeek about this but unless you've acquired a key for 10 some features may not be available to use.,2015-12-24 03:11:30+00:00,cy9o9gp,1,t3_3y1367,7196,techsupport
+10,"I have legacy as my BIOS mode, am I able to change it to UEFI in the BIOS?",2015-12-12 15:51:22+00:00,cxwi83c,2,t1_cxwfewa,7669,Windows10
+11,"Even if you can do this, I'd suggest you do it in a vm",2015-12-11 22:31:24+00:00,cxvuprq,1,t3_3wfm9n,2230,Windows10
+12,"What if i just clean install to another partition? I assume I would have my key as I am installing it, plus I get to keep Windows 8.1 if I wanted to go back to it.",2015-12-11 19:00:48+00:00,cxvmdk5,2,t1_cxvhkyz,6920,Windows10
+13,Just wait a couple of hours or so,2015-12-10 22:41:35+00:00,cxunikb,1,t3_3w91ek,17971,Windows10
+14,"Your best bet it to backup to your external drive but you can also make a backup partition aswell, I recommend external drive",2015-12-10 22:38:15+00:00,cxundx7,1,t3_3waa1a,1991,Windows10
+15,You could use a VM,2015-12-10 22:35:34+00:00,cxuna4u,1,t3_3wad8h,694,Windows10
+16,"The version on the site was very out of date and unsupported, you can play it on the launcher though, but I'm not sure about the multiplayer servers.",2015-11-26 22:58:17+00:00,cxe5i0c,1,t3_3udpbf,12928,Minecraft
+17,"Ok, since forge is a jar file it will require Java, so install it, then download forge, install that then run Minecraft",2015-11-22 22:24:33+00:00,cx9geue,3,t1_cx9g8zf,254,Minecraft
+18,"You need Java to be able to run .jar files, and he might have the Mojava (Mojang's Java) version of Minecraft. (.MSI installer)",2015-11-22 22:18:25+00:00,cx9g6b6,1,t3_3tv3mx,524,Minecraft
+19,Portal 2 please,2015-11-12 00:08:40+00:00,cwx4j7m,1,t3_3sgego,9769,pcmasterrace
+20,I can read that small you know xD,2015-11-09 21:28:41+00:00,cwujxnp,6,t1_cwuitpr,1547,Minecraft
+21,"I haven't installed any external programs, as I checked yesterday.",2015-11-07 15:54:03+00:00,cwruzd8,2,t1_cwqvqze,78712,Windows10
+22,"After the update, my screen brightness went low on a desktop computer",2015-11-07 09:35:20+00:00,cwro8it,1,t3_3ruli5,21564,Windows10
+23,Where is this setting in the control panel/settings?,2015-11-06 15:39:27+00:00,cwqpw92,1,t3_3roc9u,67952,Windows10
+24,Could you show an image of what you mean?,2015-11-04 22:32:15+00:00,cwopcre,1,t3_3rjo24,3412,Minecraft
+25,/r/minecraftsuggestions,2015-11-01 02:28:36+00:00,cwk2dil,1,t3_3qzbnm,35360,Minecraft
+26,Bugs... Will be fixed Soon™,2015-11-01 02:22:14+00:00,cwk26qf,1,t3_3qzqhp,28725,Minecraft
+27,Ever heard of pastebin? Also you will need the WHOLE Crash report,2015-11-01 02:03:33+00:00,cwk1mqw,1,t3_3r122h,6077,Minecraft
+28,"Does the ""Open to LAN"" button not work in Minecraft?",2015-11-01 02:02:04+00:00,cwk1l7f,1,t3_3r182c,2795,Minecraft
+29,We need greenish-purple,2015-10-26 20:44:09+00:00,cwdsfqh,2,t1_cwdlswi,9636,minecraftsuggestions
+30,"With the USB thing, you can copy the folder and move it onto a USB... so I think that this is not required.",2015-10-23 23:04:27+00:00,cwaltwg,1,t3_3pyp1y,2196,minecraftsuggestions
+31,"I never re assumed that, but I presume so",2015-10-23 23:02:21+00:00,cwalrmf,1,t3_3pytes,70,Minecraft
+32,"Damn, you're sexy as hell!",2015-10-20 20:26:48+00:00,cw6ss09,1,t3_3ounl4,459402,gonewild
+33,You need way more details dude,2015-10-15 20:40:42+00:00,cw12ldq,1,t3_3owe0j,2266,Minecraft
+34,Animal bikes is the most accurate you can get,2015-10-13 20:16:54+00:00,cvyjqa6,1,t3_3okroh,29665,Minecraft
+35,Do you not know how Steam support works?,2015-10-13 20:09:14+00:00,cvyjdw3,2,t1_cvyek4a,6711,Minecraft
+36,"Actually, it is. The number associated with the present is the biome e.g. 1 is plains",2015-10-12 21:21:56+00:00,cvxduaw,2,t1_cvx7jj0,8979,Minecraft
+37,How are you still connected??,2015-10-12 20:26:18+00:00,cvxbhje,1,t3_3ohuit,349,pcmasterrace
+38,That's not a bug...,2015-10-11 22:01:05+00:00,cvw9fts,3,t1_cvvtfiq,26625,Minecraft
+39,What was the piece of code that was in that 'txt' file and how did you compile it and debug it?,2015-10-11 21:52:59+00:00,cvw9597,3,t1_cvvzj34,14794,Minecraft
+40,You should probably ask the server owner.,2015-10-08 22:19:25+00:00,cvt0v8a,1,t3_3nytpi,33607,Minecraft
+41,"There's an optifine 1.8 with shaders included, go download that",2015-10-08 22:06:12+00:00,cvt0dns,3,t1_cvt02wp,481,Minecraft
+42,"You need a hosting service and a domain service, I recommended checking http://hostinger.co.uk for hosting an http://godaddy.com for domain hosting.",2015-10-03 01:20:23+00:00,cvmchuf,1,t3_3mxuf7,236685,HTML
+43,No it's not activated so I'm not sure what to do now,2015-09-26 16:06:01+00:00,cvevrqu,8,t1_cvesvft,5905,Windows10
+44,"Well it has a dual boot screen, now just to setup Windows 10!",2015-09-26 15:54:47+00:00,cveverm,8,t1_cvesvft,5231,Windows10
+45,"the serial key worked on vmware, i don't know i'll just see if it will work when i have windows 10 installed",2015-09-26 13:46:00+00:00,cverudv,6,t1_cverezq,1143,Windows10
+46,"I had installed windows 10 onto another pc and put in my MS account so I assume the serial code is bound to my account, but my pc's keyboard wont work after downgrade :|",2015-09-26 12:34:28+00:00,cveqdun,4,t1_cveq6i2,716,Windows10
+47,I've decided to dual boot,2015-09-26 12:15:50+00:00,cveq2i8,2,t1_cveo19h,9209,Windows10
+48,Was this in Google SketchUp?,2015-09-24 20:21:20+00:00,cvcyu3n,1,t3_3m6a7t,45586,doctorwho
+49,"If the 2 data tags were renamed to ""CanBeMoved/PickedUp"" it would be better because 0 provides false",2015-09-21 20:50:44+00:00,cv9fhru,1,t3_3lufye,3580,minecraftsuggestions
+50,I assume this is a BSOD?,2015-09-08 21:08:59+00:00,cuuut4v,1,t3_3k4ptc,6540,techsupport
+51,"I think deleting the partition adds it back to the main one, don't quote me on it though, I did this but with a build and accidentally wiped my HDD",2015-09-07 22:06:33+00:00,cuttjyn,1,t3_3k063n,10542,techsupport
+52,Is there a emergency call button where you put the password?,2015-09-07 22:04:10+00:00,cutthq1,1,t3_3k07n7,9766,techsupport
+53,Read the title of dialogue box... You need to update your graphics drivers,2015-09-07 21:58:06+00:00,cuttcdm,1,t3_3k01xl,11907,Minecraft
+54,Try looking in the store,2015-09-07 21:47:51+00:00,cutt500,1,t3_3k0krv,1647,Minecraft
+55,".MSI one don't need no Java, it uses Mojava (Mojang's Java if you didn't get the joke)",2015-09-06 20:12:54+00:00,cusrj9c,2,t1_cusb1ly,44655,Minecraft
+56,An image would help...,2015-09-06 20:05:20+00:00,cusrad4,1,t3_3jvxcv,2917,Minecraft
+57,It isn't a knockoff if it's by the same company - it's an edition,2015-09-06 01:20:52+00:00,cus248h,3,t1_cus0zii,2327,Minecraft
+58,Have you tried shadowplay?,2015-09-06 01:15:04+00:00,cus1y4e,1,t3_3jt1c7,2208,Minecraft
+59,"It don't matter about the style, your internet/computer is going slow and can't get the files (Cascading Style Sheet, CSS)",2015-09-03 20:22:42+00:00,cupnged,1,t3_3jhmb7,22763,Minecraft
+60,How is your screen now?,2015-09-01 22:06:10+00:00,cuni7wk,3,t1_cukx28e,189441,techsupport
+61,"Buy it, if you had the computer with it installed, it was a trial.",2015-09-01 20:16:55+00:00,cundzv0,1,t3_3j96rw,4406,techsupport
+62,Try using a different Antivirus first like Avast! Some like Norton (I think) can make it seem like it's virus when it's not.,2015-08-31 00:43:16+00:00,culb62h,1,t3_3iz2ni,26656,techsupport
+63,I have a Nvidia Geforce 820M and I'm fine with youtube videos (Amazon said it was a 840M &gt;:( THEY LIED! ),2015-08-30 15:44:45+00:00,cuktlnr,3,t1_cuksm0r,1924,techsupport
+64,"Does the black screen stay permanently? If not, just give it a while this will happen when you update display drivers",2015-08-30 15:02:44+00:00,cuksbu3,1,t3_3ixpn5,25719,techsupport
+65,I have the exact problem but only keyboard which is luck so I have to use onscreen keyboard now,2015-08-30 04:28:08+00:00,cukg5rl,1,t3_3ix7ld,1580,techsupport
+66,"There is a media centre where you can download Windows 8 from Microsoft, you may have to do a bit of googling",2015-08-30 04:10:19+00:00,cukfocb,1,t3_3iv8oc,36429,techsupport
+67,"Very strange, I'll look it up on Google later",2015-08-30 04:04:02+00:00,cukfhwe,3,t1_cukfdvt,247,techsupport
+68,Is there anything that's under more info?,2015-08-30 04:02:23+00:00,cukfg8j,3,t1_cukb373,8844,techsupport
+69,Absolutely agree after keyboard won't work after downgrade,2015-08-30 04:01:12+00:00,cukff3u,3,t1_cuk7hvs,15678,techsupport
+70,I have the same problem except the PC thinks that the HID Keyboard is corrupt (or missing a driver which I installed) when it works on every other,2015-08-30 04:00:04+00:00,cukfe13,1,t3_3ivlxg,29643,techsupport
+71,This is probably because your graphics card cannot handle the quality or the video is being processed,2015-08-30 03:54:13+00:00,cukf86a,1,t3_3ivru5,26491,techsupport
+72,Have you installed the Windows 10 driver for your graphics card?,2015-08-30 03:38:21+00:00,cukes06,1,t3_3iwzu8,3090,techsupport
+73,**TD;LR** iPhones have Lithuanium batteries which are inefficient,2015-08-30 03:30:55+00:00,cukekg5,1,t3_3iwo1b,9078,techsupport
+74,I meant the hardware drivers not the system components,2015-08-30 03:09:38+00:00,cukdxm5,3,t1_cukdoiv,509,Minecraft
+75,Posting this on the Minecraft subreddit might help you more.,2015-08-30 03:07:56+00:00,cukdvq8,2,t1_cukdt3m,148,pcmasterrace
+76,"First time, I'm opting for a givaway... Strange",2015-08-30 03:04:41+00:00,cukds95,1,t3_3ix1e4,188,pcmasterrace
+77,Not that much ram is needed (Client or Server) Max is at least 4,2015-08-30 02:50:48+00:00,cukdde6,3,t1_cukd8u7,260,Minecraft
+78,Not too bad for budget!,2015-08-30 02:38:22+00:00,cukd049,1,t3_3iuxax,36358,pcmasterrace
+79,"More details would be helpful such as version, allocated ram etc",2015-08-30 02:36:27+00:00,cukcy2f,1,t3_3iwy9d,242,Minecraft
+80,Try to update your hardware,2015-08-30 02:35:11+00:00,cukcwpq,1,t3_3iwfwz,10059,Minecraft
+81,"Snapshots are experimental, prepare for bugs and corrupted worlds... (I'm trying to get you back to 1.8 before it goes wrong and you have no backup)",2015-08-30 02:34:02+00:00,cukcvgr,3,t1_cuk9i4l,6621,Minecraft
+82,It would be nice if you add information about it first...,2015-08-30 02:29:30+00:00,cukcqn8,1,t3_3iwwf5,840,Minecraft
+83,No it's just that I haven't checked on it in a looong time,2015-08-30 02:27:06+00:00,cukco2i,4,t1_cukcimb,301,Minecraft
+84,Number 3 will be very easy for hackers,2015-08-30 02:02:31+00:00,cukbxlp,1,t3_3iq2gq,131777,Minecraft
+85,"I for some reason thought you asked ""Can I have your previous name? I'm curious"" I would of replied ""Well done you sneaky!""",2015-08-30 01:56:13+00:00,cukbqqn,2,t1_cujhypk,72299,Minecraft
+86,You can type a command in console just without the slash,2015-08-30 01:44:41+00:00,cukbdxd,4,t1_cukbaeu,189,Minecraft
+87,You can try Opl's,2015-08-30 01:36:54+00:00,cukb59k,1,t3_3ivd9f,25070,Minecraft
+88,It's updated!?!?!?,2015-08-30 01:36:23+00:00,cukb4pe,2,t1_cuk8i7g,5048,Minecraft
+89,Ever thought about the console? He could just op himself,2015-08-30 01:32:35+00:00,cukb0mk,2,t1_cuk7gj4,6826,Minecraft
+90,I assume you mean that you have to do this every time when you open the world,2015-08-30 01:31:37+00:00,cukazjr,2,t1_cuk3dm5,14616,Minecraft
+91,"You won't take damage if you fall of something. I've done this before, trust me.",2015-08-30 01:30:06+00:00,cukaxtj,2,t1_cuk1wwq,17303,Minecraft
+92,But what would be the point? It's a world that you can't use and is just a waste of space on your hard drive,2015-08-30 01:09:50+00:00,cukabho,1,t3_3iwlgo,2034,minecraftsuggestions
+93,"Yeah, you know the slabs on top of blacksmiths... THEY ARE STONE SLABS!
+**EDIT:**
+http://minecraft.gamepedia.com/Slab",2015-08-29 02:07:34+00:00,cujcfyo,3,t1_cuj60ww,12368,minecraftsuggestions
+94,Karonyx maintains the shaders download,2015-08-28 08:46:56+00:00,cuifurt,5,t1_cuid6m2,9919,Minecraft
+95,is this Karonyx? (or something on the lines of that),2015-08-28 05:25:52+00:00,cuicfuz,3,t1_cueuhwz,252785,Minecraft
+96,"Theres a JVM argument that you could use but I forgot half of it something-agent:""WE mod filename here"", I'll update you when I remember it",2015-08-28 05:17:28+00:00,cuic97o,2,t1_cuf32e9,225794,Minecraft
+97,SOON!!! (It is planned for 1.9),2015-08-28 04:39:03+00:00,cuibcwb,1,t3_3igpbq,141627,Minecraft
+98,"First sign of obvious troll: Old Minecraft Launcher has been unsupported since 2013 or 2014, He'd have to UPDATE the launcher to play 1.8 Beta",2015-08-28 04:23:10+00:00,cuiaym2,1,t3_3ii7wz,117512,Minecraft
+99,TO THE WIKI!!,2015-08-28 04:05:44+00:00,cuiai2h,1,t3_3iomxe,1662,Minecraft
+100,"Yes just make sure you start it with ';' to end the previous one (without quotes)
+
+**EDIT:** It will be ;c:/program files/Java/jre1.8.0_60/bin/javaw.exe",2015-08-28 04:01:42+00:00,cuiae2n,5,t1_cuia5ap,533,Minecraft
+101,"First off, Wrong subreddit, second thing, here's the correct subreddit: http://reddit.com/r/minecraftsuggestions (didn't know how to link through Reddit is fun)",2015-08-28 03:59:33+00:00,cuiabz9,1,t3_3im12a,43415,Minecraft
+102,"It wasn't illegal, someone who made the code didn't work for Mojang/Bukkit. So he filed a DMCA Report onto the file downloads and we've never gotten updates on releasing the DMCA Report since.",2015-08-28 03:49:38+00:00,cuia203,2,t1_cuhtb6j,29591,Minecraft
+103,"Have you got your Java path in the PATH variable, this might solve it",2015-08-28 03:45:04+00:00,cui9xdr,3,t1_cuhyia3,21424,Minecraft
+104,"I like that the fact is most of your builds seem to be TARDIS interiors, you seem to me like a huge Doctor Who fan....and guess what, SO AM I! * Virtual High five*",2015-08-28 03:39:12+00:00,cui9rc9,1,t3_3io146,10970,Minecraft
+105,"@p is players near you and including you so I think you'd have to remove that option and put ""PLAYERNAME HERE""",2015-08-28 03:28:58+00:00,cui9gvo,3,t1_cuhr3y1,31626,minecraftsuggestions
+106,"You're probably joking but, there's no gender in Minecraft.",2015-08-28 03:24:00+00:00,cui9blk,3,t1_cuhqqf0,31873,minecraftsuggestions
+107,There are already stone slabs...,2015-08-28 03:19:57+00:00,cui976s,1,t3_3ijm55,91651,minecraftsuggestions
+108,I haven't tested it but I think that 'randomTickSpeed' does affect the time,2015-08-28 03:16:15+00:00,cui935a,2,t1_cuh8b7q,71939,minecraftsuggestions
+109,This is a good try at it!,2015-08-21 23:14:14+00:00,cub8kg9,1,t3_3hpne8,124645,DevWars
+110,Giants were mainly just used to debug the mobs (probably) and just left it into the game. I highly doubt that Giants will be used in future updates.,2015-08-21 22:27:54+00:00,cub70qh,1,t3_3hudit,34427,minecraftsuggestions
+111,"This wont ever be added because, you can not edit your player data. This could include CustomName (your Username) and that would be mostly abused because of players who have capes, and youtubers' accounts.",2015-08-21 22:25:15+00:00,cub6xi9,1,t3_3htun3,47186,minecraftsuggestions
+112,"This could be an idea that could be adopted into the game since there are not many slabs in the game. Dirt Slabs were added but removed.
+
+To adapt the idea:
+You throw dirt blocks (item form) onto the ground to make a snow layer type block.",2015-08-21 22:18:19+00:00,cub6p85,1,t3_3hw5l6,6123,minecraftsuggestions
+113,This can be extremely useful for redstoners! and people who use Command Blocks,2015-08-21 21:32:10+00:00,cub52vz,1,t3_3hu6x3,34877,minecraftsuggestions
+114,I missed the last two so i hope i can get a code!,2015-08-21 20:39:59+00:00,cub35v1,1,t3_3huyr8,18217,realms
+115,I just kept getting this error when I install another program,2015-08-21 18:03:14+00:00,cuawzot,3,t1_ctnyljm,1737130,Windows10
+116,This makes a lot of sense to me. People are indeed just jumping around at eachother to get the crit. Getting this very small debuff gives the crittical hit a little more strategy. Upvoted!,2015-08-20 22:31:31+00:00,cua0oja,1,t3_3hr80p,11267,minecraftsuggestions
+117,"This is a really a good idea for people who use Command Blocks really often and I think they are starting to get tired to type ""/give @p/Username_Here minecraft:command_block"", ever since 1.4!",2015-08-20 22:28:21+00:00,cua0kl2,1,t3_3hrbqr,9529,minecraftsuggestions
+118,This is quite actually a good idea I've come across today and I would of never thought about this!,2015-08-18 01:06:32+00:00,cu6jm4r,1,t3_3hdxn3,564,minecraftsuggestions
+119,"This seems to be a good idea as everyone just thinks about items and blocks mainly but the HUD for the potion effect can ruin a lot of maps since they use potions. (e.g The Code/2/3 with it's ""shrinking"" effect)",2015-08-02 10:54:17+00:00,ctorlrn,1,t3_3fhwir,2620,minecraftsuggestions
+120,"You have too many programs installed, try uninstalling a few and see if that works",2015-07-31 18:36:55+00:00,ctn36rx,1,t3_3fb5d3,6241,Windows10
+121,"I seem to be having this problem aswell but I instead have 3.76GB for my ""$Windows.~BT"". What the hell is Microsoft doing for us not to install Windows 10 on to our systems!?",2015-07-29 12:15:50+00:00,ctk5pge,1,t3_3f0q5g,200,Windows10

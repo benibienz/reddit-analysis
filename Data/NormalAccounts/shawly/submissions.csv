@@ -1,0 +1,651 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-13 13:51:55+00:00,self.homelab,https://www.reddit.com/r/homelab/comments/5cq08w/proxmox_vm_disk_contents_changed_after_backup/,False,"So because of reasons I switched from Proxmox to ESXi, I made backups of all the raw disks of my vms and containers.
+
+Yesterday I moved all the important data from the vm disks when I was at my last vm disk I mounted it and to my surprise, it wasn't the right one, the original vm was running xubuntu 16.04 and had an 8GB qcow2 disk. This disk that I backed up had provisioned 98GB and had Debian 8.5 installed, which could actually be a really old OMV installation of mine.
+
+So I've put the old SSD with Proxmox back into my server and booted it to find out where my xUbuntu machine was gone. So I've checked the conf of the VM with id 203 and it said local:/vm-203-disk-1.qcow2, so I've navigated to /var/lib/vz/203 and mounted that disk and it's the same f**king disk with OMV not the one with xUbuntu, so what the hell could have happened to the xUbuntu disk??
+
+I mean, how can a file completely transform into an older file?? I've also seen a 203.conf.save file when I looked for the 203.conf and I've found out that the 203.conf.save file was the old config of the OpenMediaVault machine which I deleted a long time ago, so wtf, is the ghost of my old OMV machine haunting me now?
+
+And would there be any way of restoring the data with TestDrive or something?",homelab,Proxmox - VM disk contents changed after backup?,https://www.reddit.com/r/homelab/comments/5cq08w/proxmox_vm_disk_contents_changed_after_backup/
+1,2016-11-08 09:55:45+00:00,self.hackintosh,https://www.reddit.com/r/hackintosh/comments/5bsdo2/gtx_770_with_sierra_gtx_1070_is_my_660w_psu_enough/,False,"So I'm currently running ESXi on my PC with a Windows Machine that uses my GTX 770 via GPU passthrough.
+I'm also running an El Captain VM with a HD5450 on the same machine, but I want to upgrade to Sierra and since the HD5450 doesn't work with Sierra I need a new graphics card.
+
+At first I thought I'd get a GT 740 for the Sierra machine, but I also want to upgrade my gaming rig so I've thought I could also get a GTX 1070 for the Windows VM and use the GTX 770 for the Sierra VM.
+
+The question is, does the GTX 770 work with Sierra? (I'm not using Clover, just the default VMware EFI firmware) I know I could try it out, but I'm not at home right now, so I could decide to buy the GTX 1070 if someone can confirm that it works.
+
+And also can my Seasonic Platinum with 660W PSU supply enough power to both GPUs? It has an efficiency of 91% so it could supply around 600W.
+
+The System:
+
+* Gigabyte GA-Z87X-UD5H
+* Intel Xeon E3-1245v3 (84W TDP)
+* 2x8GB RAM (1.35V)
+* 3x Samsung Spintpoint M9T (2.3W)
+* Samsung EVO 850 (1.8W)
+
+The GTX 770 has 230W TDP and the GTX 1070 just has 150W TDP, with an estimated maximum power consumption of 130W for the rest of the system. The system will never run on full load anyway so I'd guess the PSU would be enough, right? ",hackintosh,GTX 770 with Sierra + GTX 1070 is my 660W PSU enough?,https://www.reddit.com/r/hackintosh/comments/5bsdo2/gtx_770_with_sierra_gtx_1070_is_my_660w_psu_enough/
+2,2016-11-02 11:04:46+00:00,self.apple,https://www.reddit.com/r/apple/comments/5ap947/first_iphone_which_one/,False,[removed],apple,"First iPhone, which one?",https://www.reddit.com/r/apple/comments/5ap947/first_iphone_which_one/
+3,2016-10-25 08:26:50+00:00,self.homelab,https://www.reddit.com/r/homelab/comments/599yvm/do_the_athlon_5350_and_the_asus_am1ma_support/,False,"I'm planning on building a pfSense router and I want to virtualize it but to get more performance I want to passthrough the NICs to the VM and I want to use the left resources for some other smaller VMs.
+
+The Intel Skylake build would cost me around 350€ but I've also created an AMD build because I've seen that the ASUS AM1M-A board supports ECC ram and it's so damn cheap for 280€ but I've seen a million threads where people ask if the Kabini CPUs support IOMMU but no one ever seems to have tested it..
+
+Can someone here confirm that it supports IOMMU?",homelab,Do the Athlon 5350 and the ASUS AM1M-A support AMD-Vi/IOMMU?,https://www.reddit.com/r/homelab/comments/599yvm/do_the_athlon_5350_and_the_asus_am1ma_support/
+4,2016-10-13 15:09:06+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/57aqbe/connect_one_mic_without_a_mixer_to_two_different/,False,"I want to connect my microphone with a 3.5"" jack to two computers at the same time without using a mixer. Would that be possible without a mixer if I use the same soundcards on both devices?",techsupport,Connect one mic (without a mixer) to two different computers at the same time? (same soundcard on both pcs),https://www.reddit.com/r/techsupport/comments/57aqbe/connect_one_mic_without_a_mixer_to_two_different/
+5,2016-09-30 21:19:32+00:00,self.PS4,https://www.reddit.com/r/PS4/comments/55a53h/slowest_fing_download_in_the_world/,False,"SO me and my friend wanted to play Destiny on the PS4, so I even ordered myself a PS4 since I didn't have one, it came today and I'm sitting here since f***ing 11 hours waiting for it to update... I even installed the other 19GB from the disk, so I just had to download 13GB!
+
+I have a 16mbps DSL connection and typically download with 14-16mbps on my PC, Xbox One and PS3. At first it downloaded with around 9mbps which is kinda slow and it got progressively worse and now I'm at fucking 200kbps meaning I get around 6-9kB/s and the update just needs another 60MB and I'm fucking angry af because it keeps getting slower. I even did three speedtests and I have an average download of 15mbps, a game like Witcher 3 with 35 gigs downloads within 6 hours and I'm sitting here since 12pm and it still isn't finished!!
+
+My router has Googles DNS as default (8.8.8.8) but I even changed the DNS on the PS directly and everytime I change the network settings the download obviously stops and then I have to pause and unpause it which also takes fucking 15-20 minutes until the download even starts again.
+
+* I also changed it to the OpenDNS, didn't help
+* Changed the MTU to the optimal value of 1464, didn't help
+* Tried various MTU values ranging from 1450-1500, didn't help
+* Changed from LAN to Wifi and back to LAN atleast 3 times, didn't help
+* DMZ'ed my PS4, didn't help
+* Prioritized all the traffic of my PS4 in QoS settings of my router, didn't help
+* Between all this I restarted 4 times which also didn't help
+* And the worst thing is waiting fucking 15-20 minutes until the download even starts after every damn change which probably also cost me 2 hours
+
+And btw, my PS4 is connected via a Cat6 cable to a gigabit network, don't go on telling me it's the damn connection, even my PS3 updated some games fine yesterday.
+
+I don't fucking care if you downvote my post, I just need to vent before I really smash this piece of garbage. It's 2016 and even the Shitbox One with it's shitty interface can properly download with full speed, hell even my RaspberryPi can download with the full 16mbps that my connection provides.
+
+Fuck you Sony for not fixing this shit and fuck you Bungie for still selling a standalone version of Destiny with 15GBs worth of DLC as ""Collection"" a damn DL-Bluray is capable of carrying all this content but you want to keep it cheap.
+
+**Edit:** Now it's at 92kbps and it's 8MB left and I just get 1kB/s, guess what's going into the trash after this weekend. :)
+
+[Game Spoiler](#s ""Spoiler Alert, some places in the world don't have access to fiber or cable and if 16mbps is enough for every other console and pc in my household, then it only proves that your beloved PS4 is shit because it can't even handle lower bandwidth connections. But go on and tell me how it's my internet is fault, I'm okay with that since you don't even know what you're talking about."")",PS4,Slowest f***ing download in the world,https://www.reddit.com/r/PS4/comments/55a53h/slowest_fing_download_in_the_world/
+6,2016-09-29 23:47:50+00:00,self.homelab,https://www.reddit.com/r/homelab/comments/5556ul/pfsense_with_a_single_nic_buying_a_managed_switch/,False,"So since I replaced my HTPC with a Shield TV, I thought about giving it a new purpose, since it's passive and low powered, I thought why not make it into a router.
+
+Problem is, it only has one NIC (ASUS H81T) and the case does not provide any  PCIe slots (Akasa Galileo) so adding internal hardware isn't possible. USB NICs are probably out of the question so there are two solutions, either getting a managed switch and use VLANs as a workaround for the single NIC or just get myself a mainboard with two NICs.
+
+Since this is a Thin-MiniITX build there is only one mainboard as an option (ASUS Q87T) and it's as expensive as the TP-Link TL-SG3216.
+
+Now I can't decide what's better for me, I actually don't need a managed switch for anything else than creating two VLANs, I've never even done it before. But spending so much money on a mainboard just for the second NIC also feels kinda like wasted money.
+
+There is one last option, I could get a case with a PCIe slot and get myself a half-length MiniPCIe NIC, only problem is I can't find one that has a compatible chipset, if you know one that is compatible or a half-length MiniPCIe to PCIe x1 adapter, then I could save probably half the money.",homelab,pfSense with a single NIC - Buying a managed switch or getting a new mainboard?,https://www.reddit.com/r/homelab/comments/5556ul/pfsense_with_a_single_nic_buying_a_managed_switch/
+7,2016-09-29 11:53:04+00:00,self.PS4,https://www.reddit.com/r/PS4/comments/551say/does_the_ps4_support_usb_soundcards_with_spdif/,False,"So I'm currently using a USB soundcard from LogiLink (USB Sound Box 7.1 or whatever its called) which has SPDIF in and outputs, that way I can connect my AV via a Toslink cable to the soundcard and hear the audio of my PS4 through my PC, while I'm chatting with my friends over Teamspeak.
+This way I could use the Windows 10 Xbox app to chat with an Xbox party at the same time over my PC and hear the ingame audio on my PC headphones, since the PS4 doesn't have a PC client for party chat, I have to get around this issue.
+
+So I'm thinking about getting the same Logilink soundcard for the PS4, and then connect a Toslink cable to the SPDIF input and use that as mic, that way I can output the mic sound from my PC though the SPDIF input to my PS4 and use my PC for chatting.
+
+So do you guys know if the PS4 supports soundcards with a SPDIF input as microphone?",PS4,Does the PS4 support USB soundcards with SPDIF input as mic?,https://www.reddit.com/r/PS4/comments/551say/does_the_ps4_support_usb_soundcards_with_spdif/
+8,2016-09-26 09:33:36+00:00,self.ps3hacks,https://www.reddit.com/r/ps3hacks/comments/54jt3c/ps3_cfw_freezes_after_an_hour/,False,"So I'm on 4.80 Rebug CEX firmware on my PS3 Slim, since I've put in a new 1TB harddrive I have to copy all my games via FTP to my PS3 again, since I had to format the drive and reinstall 4.80 so the system is pretty much freshly reset.
+
+The problem is, after about an hour or two the PS3 just freezes and I have to pull the power plug since it won't shut down manually, I've pressed the button for over 10 secs and nothing happened so it completely freezes, temperature can't be the problem, I've configured Webman to speed up the fan if the temps go over 70 degree Celsius and the temps never go above that nor do the fans ever speed up to 100%.
+
+What could cause this problem? Could I just flash another CFW over Rebug or do I have to downgrade to 3.55 OFW first before installing another CFW?",ps3hacks,PS3 CFW freezes after an hour,https://www.reddit.com/r/ps3hacks/comments/54jt3c/ps3_cfw_freezes_after_an_hour/
+9,2016-08-31 11:59:26+00:00,self.homelab,https://www.reddit.com/r/homelab/comments/50gt1w/ipmi_resets_randomly_supermicro_x10sl7f/,False,"So I have this problem that my IPMI has reset itself two times in the last 6 months..
+I noticed this when I first wanted to log in and my password didn't work, I listed the users with the ipmitool and thats when I saw that my user was gone and there was just the ADMIN user which I changed to root previously.
+
+Now 2 days ago I noticed my server fans spin up every 4 minutes so then I wanted to log in again and it didn't work, looked at my ipmitool and again, there was just the single ADMIN user... My fan thresholds were also reset.
+
+Why does this happen? My server runs 24/7 and I haven't changed anything in the last 3 months, has anyone the same problem?
+
+I don't think it's the battery since the server hasn't been turned off since 3 months.. It also didn't lose power or something like that.
+
+**Edit:** The event log says nothing happend, it also doesn't seem like it's a full reset, only my root user gets deleted:
+
+    170	2016/05/26,10:53:10	192.168.0.2	root:login web
+    171	2016/08/31,11:50:36	192.168.0.200	ADMIN:login web",homelab,IPMI resets randomly? (Supermicro X10SL7-F),https://www.reddit.com/r/homelab/comments/50gt1w/ipmi_resets_randomly_supermicro_x10sl7f/
+10,2016-08-30 11:51:25+00:00,self.homelab,https://www.reddit.com/r/homelab/comments/50apih/startup_scripts_for_gui_applications_over_vnc/,False,"I know that there are already tutorials out there that cover the topic of running JD headlessly, but they all lack some startup scripts with start, stop, restart and status parameters, so I wanted to share mine. 
+
+The reason why I chose to do it this way is because I don't really like using the -Djava.awt.headless=true parameter, because I can't access every setting via MyJDownloader and I don't wanna copy all the config files from my desktop to my container everytime I wanna change something. An example is setting up the AutoReconnect and also enabling the MyJDownloader interface, which is pretty annoying without a GUI.
+
+I made init.d scripts because my LXC container runs Debian Jessie. Credits go to bcap for his [template](https://gist.github.com/bcap/5397674) which saved me much time.
+
+You can basically apply this guide to any software that has a GUI, you just have to edit the startscripts and the paths to fit your application.
+
+**Requirements**
+
+You need to install following packages:
+
+    x11vnc xvfb openjdk-7-jre
+
+And you need to download the JDownloader.jar which you can get from the [JDownloader homepage](http://jdownloader.org/jdownloader2) below **Other**.
+
+A user with the name and group jdownloader, you can use any user but this is the one that my scripts use, so you have to change them if you want another user.
+
+    adduser jdownloader
+
+
+**Preparation**
+
+*You need to log in as root user or prepend sudo to every command.*
+
+Now you need to create the jdownloader directory under opt.
+
+    mkdir -p /opt/jdownloader
+
+Put the **JDownloader.jar** into the previously created folder and correct the permissions.
+
+    chown -R jdownloader:jdownloader /opt/jdownloader
+
+Now you also need to add a little startscript which has the DISPLAY variable.
+
+    echo &gt; /opt/jdownloader/jdownloader.sh
+    chmod a+x /opt/jdownloader/jdownloader.sh
+    vi /opt/jdownloader/jdownloader.sh
+
+Add this to the content:
+
+    #!/bin/bash
+    DISPLAY=:0 /usr/bin/java -jar JDownloader.jar
+
+Log in with your jdownloader user and create a password for the VNC server.
+
+    su - jdownloader
+    x11vnc -storepasswd
+    exit
+
+Now you can add the startup scripts.
+
+     # Download scripts directly to /etc/init.d
+     wget http://pastebin.com/raw/2jDnF9wW -O /etc/init.d/Xvfb
+     wget http://pastebin.com/raw/g0rPiQcj -O /etc/init.d/x11vnc
+     wget http://pastebin.com/raw/LcADS5bv -O /etc/init.d/jdownloader
+     # Give execute permissions
+     chmod a+x /etc/init.d/Xvfb /etc/init.d/x11vnc /etc/init.d/jdownloader
+     # Add them to the list of startup services
+     update-rc.d Xvfb defaults
+     update-rc.d x11vnc defaults
+     update-rc.d jdownloader defaults
+
+And then **reboot**.
+
+**Usage**
+
+Now connect with any VNC client to your server on port 5900 with your previously set password and voila you can see the JDownloader GUI if you did everything correctly. Now you can also set your MyJdownloader login so you can also access your JD via [MyJDownloader](https://my.jdownloader.org/), this is handy when you don't have a VNC client available or if you wanna use the Android client etc.
+
+**Some tips**
+
+You should disable *Tray Icon* in the settings since there is no tray and you can also set *Bubble Notify* to never since it's not really useful in this scenario anyway. 
+
+------------------
+
+I hope you found this somewhat helpful, I just wanted a tutorial that isn't from &lt;=2011 and is somewhat up-to-date. I know that some people prefer other ways of setting this up, but this is how I managed to get it running with the least software dependencies and automatic startup.",homelab,Startup scripts for GUI applications over VNC (JDownloader as example),https://www.reddit.com/r/homelab/comments/50apih/startup_scripts_for_gui_applications_over_vnc/
+11,2016-08-29 10:45:14+00:00,self.linuxquestions,https://www.reddit.com/r/linuxquestions/comments/504ehi/run_x11_application_in_background_when_client/,False,"So I'm running JDownloader in a LXC, I can either start it as service and access it via the MyJdownloader website or I can run the application via X11 forwarding directly with the normal JD gui.
+
+What I want is to run the app in the background as a service and access the gui via X11 whenever I need, is this possible without running it over a VNC server?",linuxquestions,Run X11 application in background when client disconnects? (without VNC),https://www.reddit.com/r/linuxquestions/comments/504ehi/run_x11_application_in_background_when_client/
+12,2016-08-15 11:00:39+00:00,self.emulators,https://www.reddit.com/r/emulators/comments/4xt1nq/is_this_list_of_standalone_emulators_good_or/,False,"**TL;DR: Is the list below a good choice of emulators or should I rather use RetroArch for the older systems?** 
+
+So I'm setting up my gaming pc to be able to launch multiple emulators with Steam BigPicture as frontend (via [Ice](https://scottrice.github.io/Ice/)).
+
+Now I'm searching for the best emulators to use and have some questions. Here is a list of the ones I picked:
+
+* GB/GBC: BGB
+* GBA: VBA-M
+* NDS: DeSmuME
+* PSP: PPSSPP
+* NES: NEStopia
+* SNES: snes9x
+* N64: Mupen64plus
+* PSX: ePSXe
+* PS2: PCSX2
+* GC/Wii: Dolphin
+
+So my question is, would you recommend me other emulators or did I pick the right ones. Or would you rather recommend me to use RetroArch instead of the standalone versions of these emulators? At least for the ones that have RetroArch plugins.
+
+What's important for me is, that the emulators have a way to be launched from the commandline and that they can be automatically launched in fullscreen and I really want to have support for shaders so I can use some CRT shaders to at least make it look like I'm using a CRT since I have absolutely no space in my living room for a CRT tv or monitor.",emulators,Is this list of standalone emulators good or should I use RetroArch?,https://www.reddit.com/r/emulators/comments/4xt1nq/is_this_list_of_standalone_emulators_good_or/
+13,2016-08-13 16:56:51+00:00,self.emulation,https://www.reddit.com/r/emulation/comments/4xjwfm/best_thirdparty_usb_nessnesn64_controllers/,False,[removed],emulation,Best third-Party USB NES/SNES/N64 Controllers?,https://www.reddit.com/r/emulation/comments/4xjwfm/best_thirdparty_usb_nessnesn64_controllers/
+14,2016-08-12 13:47:16+00:00,self.MechanicalKeyboards,https://www.reddit.com/r/MechanicalKeyboards/comments/4xdlmn/help_gh60_questions_backlighting_cherry_switches/,False,"Since there is no way for me to get my hands on a Pok3r without having to pay import fees since I live in Germany, I searched around and found the GH60 on www.falbatech.pl and found it to be a pretty decent alternative, even though it's as expensive as buying a Pok3r from mechanicalkeyboards.com or any other site. But I'd rather pay 200 bucks for the keyboard itself than 80€ just for shipping and import.
+
+But I have some layman questions before I just go and get myself the GH60 (rev C).
+
+1.  I'm rather a newbie when it comes to assembling a whole keyboard, I can solder quite okay so that shouldn't be a problem (already RGHd my Xbox 360 successfully), but I have no experience with these DIY kits, how complex is it for a layman to assemble the GH60? Does it come with a manual or something?
+2. Am I correct with the assumption that I can also mount Cherry MX switches on the PCB plate? Do they have to be soldered? It's probably a dumb question but since Cherry's are described as ""plate mounted"" I was wondering..
+3. I've read that with rev B they implemented slots for LEDs for WASD and some other keys, how about rev C? I'd like to at least get some lighting for typing in full darkness.
+4. Since the keycaps I can buy on falbatech are neither translucent nor do they have additional labels, can I get myself some translucent Pok3r keycaps instead, are they compatible? (I'd like to have the labels for the FN functions on the keycaps like the Pok3r has)
+5. Is this even a project for someone that has no experience with assembling keyboards? I'm not a complete amateur when it comes to soldering and electronics, but I'd like to know how high the possibility is for me to screw things up, apart from messing up the soldering points because of my shaky hands.
+
+**Edit:** Alright, thanks for all your answers, you really helped me out with this. I've gotten myself [this kit](http://www.aliexpress.com/item/Customized-KC60-Full-Set-Aluminum-Case-Programmable-PCB-Steel-Plate-Switches-LED-For-60-Standard-Layout/32620290856.html) and I'm really excited about it. Maybe I'll make this a new hobby who knows. :)",MechanicalKeyboards,"[help] GH60 Questions - Backlighting, Cherry Switches and Pok3r Keycaps",https://www.reddit.com/r/MechanicalKeyboards/comments/4xdlmn/help_gh60_questions_backlighting_cherry_switches/
+15,2016-08-11 08:52:21+00:00,self.mechmarket,https://www.reddit.com/r/mechmarket/comments/4x73ny/eude_h_paypal_w_pok3r_backlit_or_ducky_mini_ansi/,False,"Since I can't find any EU vendor I'm looking to buy a used one. The Pok3r has to be backlit, if possible I'd prefer the RGB one, keyboard color doesn't matter. Same goes for the Ducky Mini. I just want ANSI layout and MX-Red switches.
+
+Condition should be as unused as possible.
+
+**Edit:** Got myself a SATAN GH60 kit from Aliexpress. :)",mechmarket,[EU-DE] [H] Paypal [W] Pok3r Backlit or Ducky Mini (ANSI &amp; MX-Red),https://www.reddit.com/r/mechmarket/comments/4x73ny/eude_h_paypal_w_pok3r_backlit_or_ducky_mini_ansi/
+16,2016-08-09 12:55:30+00:00,self.MechanicalKeyboards,https://www.reddit.com/r/MechanicalKeyboards/comments/4ww18j/buying_help_searching_for_a_vortex_pok3r_vendor/,False,"So since corus-kb.com doesn't ship anymore I'm searching for a new vendor that sells the Vortex Poker 3 with ANSI layout and MX-Red switches, preferrably backlit in white.
+
+I'd prefer a vendor within the EU but since I can't find one there probably are none so I'm searching for one that at least ships to Germany. I've looked through the recommended sellers but the ones I looked at didn't have the Poker 3, but I hoped I just overlooked something and you could recommend me one.
+
+Thanks!
+
+**Edit:** Just looked at mechanicalkeyboards.com they even got the RGB one which is nice but $140 + $50 + 19% EU-VAT would mean 200€.. That's just too much IMHO...",MechanicalKeyboards,[buying] [help] Searching for a Vortex Pok3r vendor,https://www.reddit.com/r/MechanicalKeyboards/comments/4ww18j/buying_help_searching_for_a_vortex_pok3r_vendor/
+17,2016-08-08 13:15:07+00:00,self.ShieldAndroidTV,https://www.reddit.com/r/ShieldAndroidTV/comments/4wq3bh/are_there_any_alternate_launchers_besides/,False,With the ability to use as default launcher.,ShieldAndroidTV,Are there any alternate launchers besides Sideload- and HALauncher?,https://www.reddit.com/r/ShieldAndroidTV/comments/4wq3bh/are_there_any_alternate_launchers_besides/
+18,2016-08-01 12:31:29+00:00,self.MechanicalKeyboards,https://www.reddit.com/r/MechanicalKeyboards/comments/4vm8t1/help_is_coruskb_dead_or_what/,False,"So on 8th July I bought myself a Poker 3 on corus-kb.com. I've received an email from Paypal that my money has been transferred, but I haven't received an order confirmation email and when logged into my user account on corus-kb there weren't any orders in my account.
+
+I thought it was an error, but since they already had my money I was thinking everything is alright. After almost 2 weeks I've emailed the support that my keyboard still hasn't arrived, no answer.
+
+3 days after I've created a Paypal dispute and wrote the support via the contact form, but even after a week, they haven't answered, now I claimed buyer protection which should trigger the alarmbells for corus-kb, but still no answer, dafuq?? I even wrote /u/corus-kb here on reddit but they just don't give a shit...
+
+I'm really pissed, what is wrong with them? Anyone bought something from them in the last month and did it arrive?",MechanicalKeyboards,[help] Is Corus-KB dead or what??,https://www.reddit.com/r/MechanicalKeyboards/comments/4vm8t1/help_is_coruskb_dead_or_what/
+19,2016-08-01 07:25:46+00:00,self.AndroidQuestions,https://www.reddit.com/r/AndroidQuestions/comments/4vlc8b/problem_with_google_account_relogging_every/,False,"Hey guys,
+
+so since a week, I have to relog into my Google account on my smartphone every morning, it says that I have to log in again because of changes to my account, but I never made any changes and this problem does not occur on my tablet or android TV, it's only on my smartphone.
+
+What can I do to fix this without removing the account from my smart phone?",AndroidQuestions,"Problem with Google account, relogging every morning",https://www.reddit.com/r/AndroidQuestions/comments/4vlc8b/problem_with_google_account_relogging_every/
+20,2016-07-31 12:07:37+00:00,self.AndroidTV,https://www.reddit.com/r/AndroidTV/comments/4vgti2/any_app_to_remap_usb_remote_buttons/,False,"So I didn't order the remote for my Shield TV and I just connected my Ortek VRC-1100 USB remote from my old HTPC to the Shield and it surprisingly worked almost perfectly.
+
+But some buttons don't work or have the wrong mapping, so I was looking for an app which can remap those buttons, do you know any?",AndroidTV,Any app to remap USB remote buttons?,https://www.reddit.com/r/AndroidTV/comments/4vgti2/any_app_to_remap_usb_remote_buttons/
+21,2016-07-25 08:41:39+00:00,self.ShieldAndroidTV,https://www.reddit.com/r/ShieldAndroidTV/comments/4uhllk/android_app_for_sending_streamurls_to_shield_tv/,False,"So I recently bought a Shield TV which will arrive this week hopefully.
+
+Until now I used Kodi on my HTPC, where I used Yatse to send URLs to Kodi. When I opened mp4 streams it asked me which player I wanted to use and then I could choose ""Send to Kodi via Yatse"" and then it played the stream within Kodi.
+
+Since I don't want to install Kodi to my Shield TV, I need an alternative app, is there any app that can open mp4 streams and instead of playing it, it sends it to the Android TV which then plays it back?
+
+**Edit:** BTW I do not want to cast these streams, I want to play the url directly.
+
+Thanks &lt;3",ShieldAndroidTV,Android app for sending streamurls to Shield TV?,https://www.reddit.com/r/ShieldAndroidTV/comments/4uhllk/android_app_for_sending_streamurls_to_shield_tv/
+22,2016-07-20 08:28:38+00:00,self.homelab,https://www.reddit.com/r/homelab/comments/4tq6vc/cant_download_over_https_with_wget_or_curl_within/,False,"So I've been running my containers for a while now and lately I've seen that my TeamSpeak music bot can't download Youtube videos anymore. I didn't really bother since it isn't being used anyway.
+
+But now I've seen that my other containers also can't download certain stuff, HTTP links work fine via wget and curl, but when I try to download HTTPS links it just runs into a timeout.
+
+Downloading over the host works fine for HTTPS, it's only a problem when I try to download something within a container.
+
+I've looked at the logs of my containers, nothing, dmesg and syslog also don't log anything related and now I'm out of ideas, can someone help me evaluating where exactly the problem lies?
+
+**Edit:** Okay I just tried to execute telnet 65.87.238.35 80 (google.com server) which works fine, but telnet 65.87.238.35 443 doesn't so port 443 seems to be blocked, but I don't get why..
+
+**Edit2:** Alright, it definitely seems, that UFW is not blocking the traffic, I've turned up the log level and the outgoing connection was allowed. So now I'm even more confused, outgoing connections on port 80 work fine but 443 just times out.. I don't get what is going on.
+
+**Edit3:** Oh god I fixed it, I had this rule in my PREROUTING tables:
+
+    DNAT       tcp  --  anywhere             anywhere             tcp dpt:https to::8006
+
+I set this route up so I can access the proxmox interface without specifying a port, after deleting this rule it worked.. Damn...",homelab,Can't download over HTTPS with wget or curl within LXC container,https://www.reddit.com/r/homelab/comments/4tq6vc/cant_download_over_https_with_wget_or_curl_within/
+23,2016-07-19 07:07:08+00:00,self.rasplex,https://www.reddit.com/r/rasplex/comments/4tjumj/does_rasplex_support_switching_to_3d_mode_and/,False,"Since RasPlex uses OpenPHT it's based on XBMC/Kodi, right?
+
+Kodi supports a 3D mode so the menus don't get distorted, does OpenPHT also support that? The Plex app of my Sony TV can recognize if a movie is 3D or not based on the file name and then switches to the correct 3D mode of my TV.
+
+My TV also supports 3D recognition, so if the source sends the right EDID info, it automatically switches to the correct 3D mode, according to Raspbian there is a service which allows to send this EDID info, http://www.gtkdb.de/index_36_2461.html
+
+Is this supported by RasPlex? Because that would be pretty awesome, then I don't have to do anything when I want to watch 3D movies and it would give a neat, seamless experience.",rasplex,Does RasPlex support switching to 3D mode? And also send EDID 3D info?,https://www.reddit.com/r/rasplex/comments/4tjumj/does_rasplex_support_switching_to_3d_mode_and/
+24,2016-07-18 07:30:39+00:00,self.PleX,https://www.reddit.com/r/PleX/comments/4te0s8/best_plex_client/,False,"Hi peps,
+
+since Emby doesn't work in a Linux Container, I am switching to Plex after a long time using Kodi, even though Plex doesn't support LiveTV.
+I've set it up now and I am pretty happy since Anime scraping with HAMA works way better than it works with Embys Anime plugin.
+
+I've wanted to use my Sony Bravia with the Plex App, but the app is pretty slow and 3D movies either don't even play or don't get properly recognized as 3D, even though I've added the H-SBS to the filename.
+
+Also tried my Xbox One, which at least supports direct play, but I don't like the fact that this thing sucks 80-90W of electricity.
+
+So I have to decide now if I want to use Plex HT on a Windows or a OSX client or get myself a Amazon FireTV, what do you think?",PleX,Best Plex client?,https://www.reddit.com/r/PleX/comments/4te0s8/best_plex_client/
+25,2016-05-10 09:23:14+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/4ioerp/some_advice_on_passive_water_cooling/,False,"With the release of the GTX 1080 Ti, whenever that'll be in the future, I wanna finally switch to water cooling with a **passive radiator**. And since this is my first water cooled system, I need some advice from you guys.
+
+I've got a Corsair Obsidian 750D without a window where I want to mount two Cape Cora HF 1042 (642 + 442) to each of the side panels. Would these two rads be enough to cool a Xeon E3-1245v3 and the GTX 1080 Ti? Or would even a single 1042 be enough? (assuming the 1080 Ti will have the same or lower TDP as the 980 Ti)
+
+My room temperature varies, in the colder season the maximum room temp is 21°C, but in the summer it can get really hot, the current record is 38°C since I live under the roof.. Can a passively cooled system endure these temps when I put a desk fan in front of the rads?
+
+Which pump would be good and which reservoirs do you recommend?",pcmasterrace,Some advice on passive water cooling?,https://www.reddit.com/r/pcmasterrace/comments/4ioerp/some_advice_on_passive_water_cooling/
+26,2016-05-01 19:46:15+00:00,self.emulation,https://www.reddit.com/r/emulation/comments/4hb1xu/to_which_extend_does_the_gpu_matter_for_current/,False,[removed],emulation,To which extend does the GPU matter for current emulators? (PCSX2 &amp; Dolphin),https://www.reddit.com/r/emulation/comments/4hb1xu/to_which_extend_does_the_gpu_matter_for_current/
+27,2016-04-28 11:37:28+00:00,self.cygwin,https://www.reddit.com/r/cygwin/comments/4gtktp/make_cygwin_portable/,False,"So I have a folder for my portable apps which I sync via Syncthing between my computers.
+
+Now I want to use cygwin, but since I don't want to install cygwin to every single machine that I use, I want it to be portable.
+
+I found [this](https://codingwithspike.wordpress.com/2012/08/02/making-a-truly-portable-cygwin-install-working-around-drive-letter-and-file-permission-issues/). Since this post is almost four years old, I wanted to ask if it's still applicable. I know there are some portable apps projects on Github but I don't use the portable apps launcher and I don't want all the scripts and features that they come with, I just want plain cygwin as portable app, since I wanna use it with ConEmu.",cygwin,Make cygwin portable?,https://www.reddit.com/r/cygwin/comments/4gtktp/make_cygwin_portable/
+28,2016-04-12 10:44:23+00:00,self.GlobalOffensive,https://www.reddit.com/r/GlobalOffensive/comments/4efj2f/are_new_accounts_eligible_for_receiving_and/,False,"I'm currently selling my trading cards and I'm surprised I already made around 7 bucks with just 80 cards, still 400 left to go lul.
+
+Since my homeserver is running 24/7 anyway, I thought why not idle some CS:GO for fun, the server is mostly running idle anyway. But, I've never idled with multiple accounts before, so there are some questions that have popped up in my mind. 
+
+Let's say I create a new steam acc buy CS:GO with that acc and just start idling, **will this account immediately receive it's 4 or whatever items per week** or are there any requirements for this account to become eligible for receiving them?
+
+Also when I received some items with that new acc, **can I just trade them to my main account?** And will these items get put on hold if I don't have mobile authentication activated?
+
+Since -textmode doesn't work for CS:GO anymore, does anyone have a config for running it with the least possible resource consumption?",GlobalOffensive,Are new accounts eligible for receiving and trading items? (Idling),https://www.reddit.com/r/GlobalOffensive/comments/4efj2f/are_new_accounts_eligible_for_receiving_and/
+29,2016-04-10 08:49:10+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/4e55yn/cases_without_windows/,False,"I'm searching for a case without a window in the side panel, because I want to sound insulate it completely and I don't wanna see my components anyway. It also should have mounts for at least six 2.5 inch drives.
+
+So I currently looked at the NZXT H440 and the Phanteks Enthoo Pro and I'm not quite sure which one has the better air flow. From a design standpoint the H440 looks better in my opinion and the top is also covered so you can't see the insulation mats, like you do currently with my Obsidian 750D. I also like the shroud of the NZXT, even though I can't see it later on anyway, lul.
+
+Are there any other ATX (or bigger) cases without windows you could recommend? Budget doesn't really matter but I think 180-200€ is the maximum I'd wanna spend, since I also need to buy the mats.",pcmasterrace,Cases without windows?,https://www.reddit.com/r/pcmasterrace/comments/4e55yn/cases_without_windows/
+30,2016-04-06 08:01:39+00:00,self.linuxquestions,https://www.reddit.com/r/linuxquestions/comments/4dktyo/problems_with_ufw_ssh_access_gets_blocked/,False,"**TL;DR**: The command *ufw defaults deny incoming* blocks my ssh access even though I added a rule for allowing ssh, outgoing is allowed and ssh runs on the default port. iptables at the end of the post.
+
+Recently I've set up UFW on my VPS. I allowed all the ports I needed including ssh on it's default port 22. Then I used *ufw default deny incoming* to block everything else. I still have *ufw default allow outgoing* though. I also set up some prerouting rules in /etc/ufw/before.rules for my containers. (I followed [this guide](https://raymii.org/s/tutorials/Proxmox_VE_One_Public_IP.html) since my VPS only has one public IP)
+
+Yesterday I have looked at my iptables and saw that I have duplicated rules, because I didn't flush before the rules were getting applied so every time I restarted ufw it created these rules.
+
+Then I've just used iptables -F and that's where I effed up... I blocked the ssh access to my VPS. So I've logged in with the remove console, used ufw reset to put ufw into it's default state and I also reset my iptables, then I got access again.
+
+After that I set up all my allowed ports, including ssh and when I applied *ufw defaults deny incoming* I blocked my ssh access AGAIN, even though I used *ufw allow ssh* before, where did I mess up?
+
+[Here are my iptables](http://pastebin.com/sh63w6Sd)",linuxquestions,"Problems with UFW, ssh access gets blocked",https://www.reddit.com/r/linuxquestions/comments/4dktyo/problems_with_ufw_ssh_access_gets_blocked/
+31,2016-04-05 09:59:21+00:00,self.OpenVPN,https://www.reddit.com/r/OpenVPN/comments/4dfr5g/route_host_network_to_clients/,False,"Hi,
+
+since I didn't get any response in the OVPN forums I'll try it here.
+
+I'm running Proxmox on my VPS, I have a container that runs an OpenVPN server, clients get an IP from 10.2.0.0/24 and the container/all my containers get IPs from 10.1.0.0/24. My Proxmox host has 10.1.0.1. 
+
+Since I want to access the Proxmox webinterface of my host and the containers of the host via ssh directly without tunneling the connection, I wanna route the 10.1.0.0/24 subnet to my clients.
+
+How can I do this?
+
+**Edit:** I found the problem, I had to do route add -net 10.2.0.0/24 gw 10.1.0.101 on my Proxmox host so it routes the traffic correctly.",OpenVPN,Route host network to clients,https://www.reddit.com/r/OpenVPN/comments/4dfr5g/route_host_network_to_clients/
+32,2016-04-04 08:54:02+00:00,self.linux_devices,https://www.reddit.com/r/linux_devices/comments/4da9u9/searching_for_hostapd_compatible_80211ac_usb/,False,"Since my home server runs 24/7 it's quite unnecessary for me to have a second router that runs as an AP.
+
+So yesterday I set up a virtual machine where I passed through a random WiFi dongle I had lying around and installed hostapd and it worked pretty good, though the stick supports up to 300Mbit/s but all I could get was 54Mbit/s with my smartphone, with my other router I at least get 72Mbit/s. I set the hw_mode to g and uncommented ieee80211n=1 but the bandwidth doesn't improve.
+
+I also couldn't get the WiFi dongle running in an LXC container, I've passed through the usb device and I also set the entry with the major id 189 for usb devices so the container has access. The device was listed but it wasn't recognized as network interface, so I gave up and used a kvm virtual machine where passing through the USB device works fine.
+
+But anyway, since this works pretty well I want to replace my current AP with that virtual machine. So I wanted to know if there are any dongles that don't work as AP?
+
+Because I wanted to buy two TP-Link Archer T4U AC1200 dongles and run one with 2.4G and the other one with 5G. It should also be possible to create separate guest networks with any dongle that supports AP mode, right?
+
+**Edit:** Seems like the TP-Link dongle I mentioned has a RTL8812AU chipset which seems to work with hostapd.",linux_devices,Searching for hostapd compatible 802.11ac USB dongles,https://www.reddit.com/r/linux_devices/comments/4da9u9/searching_for_hostapd_compatible_80211ac_usb/
+33,2016-03-31 13:54:16+00:00,self.linuxquestions,https://www.reddit.com/r/linuxquestions/comments/4cq3q3/port_redirection_with_iptables_vs_redirection_via/,False,"Hi,
+
+I want to redirect the webinterface of Synthing which runs on port 8384 to port 443 and if I connect via port 80 it should forward me to the https website.
+
+I know the first thing is possible via iptables, but I don't know about the second one, also which is better? Using iptables or using a reverse proxy? I don't really want to install Nginx on every container I have just to get the port redirection...
+
+If this isn't possible with iptables, my router runs dnsmasq and I could run Nginx in another container, could I use SRV records + Nginx? This way I wouldn't have to install Nginx on every container.
+
+For example, my Syncthing container is reachable over syncthing.ho.me and the Nginx container over nginx.ho.me, I also have a container with emby under emby.ho.me. Could I use SRV records which point to the Nginx server which then resolves and redirects?
+
+    _http._tcp.syncthing.ho.me. 86400 IN SRV 0 5 80 nginx.ho.me.
+    _https._tcp.syncthing.ho.me. 86400 IN SRV 0 5 443 nginx.ho.me.
+    _http._tcp.emby.ho.me. 86400 IN SRV 0 5 80 nginx.ho.me.
+    _https._tcp.emby.ho.me. 86400 IN SRV 0 5 443 nginx.ho.me.
+
+Does Nginx even honor SRV records or can it only see A records?
+
+**Edit:** Okay, it seems like this won't work... The only way I see is setting up the Nginx container, use syncthing.ho.me as CNAME for nginx.ho.me and then redirect it to the actual Syncthing server on port 8384 I guess. But then I can't just SSH into syncthing.ho.me because that domain points to the Nginx server, damn..
+Guess I'll use iptables and just give up on the redirection from HTTP to HTTPS.",linuxquestions,Port redirection with iptables vs redirection via reverse proxy?,https://www.reddit.com/r/linuxquestions/comments/4cq3q3/port_redirection_with_iptables_vs_redirection_via/
+34,2016-03-24 11:58:36+00:00,self.homelab,https://www.reddit.com/r/homelab/comments/4br947/hierarchic_naming_schemes/,False,"So I'm migrating most of my virtual machines to containers and while I'm at it, I want to change my naming schemes since planets work, but aren't that cool IMO.
+
+I also want to apply these names to my VPS and it's containers and to the devices within my home network, so I'd like something hierarchic. Like my home server currently is the ""Sun"" and all the virtual machines are the planets in our solar system, even though it works, I don't like calling a machine Uranus...
+
+I wanted to go with names that clearly identify the machine, like nominalizing the task of the machine, like the machine I use to compile will be named Compiler, my JDownloader container will be named Downloader, my Proxmox server will be Virtualizer, Storer for my NAS and so forth. But the problem is, some of my machines are multipurpose like my Windows machine I use for browsing and remote access and other things. Or how should I name the container which runs Emby/Plex?
+
+I also really like [Greek mythology](http://i.imgur.com/f0gcjDZ.jpg), the hierarchy is big, but if I take a god or titan that has no hierarchy below (like Poseidon, atleast on this picture), I don't have a way to expand it without breaking the hierarchy. Yes I have slight OCD when it comes to things like this, that's why it's so hard for my to decide.
+
+Do you have any other ideas? Or any idea how I could go with my identification-name-scheme without breaking consistency if a machine has multiple purposes? (without naming it ""Allrounder"")",homelab,Hierarchic naming schemes?,https://www.reddit.com/r/homelab/comments/4br947/hierarchic_naming_schemes/
+35,2016-03-23 18:01:18+00:00,self.HomeServer,https://www.reddit.com/r/HomeServer/comments/4bnn1g/replace_nas_vm_with_container/,False,"Hi folks,
+
+so I've been running my NAS in a VM under Proxmox for quite a while now. Using OMV with ZFS on Linux on the guest with a passed through SAS controller is working quite well.
+
+Now I just discovered LXC, yes I didn't knew those existed. I've been using containers on my VPS now and I'm quite pleased with that and I'm just migrating some of my guests to containers, since they don't need to be virtualized.
+
+And now I'm thinking about migrating my file server also into a container, but what about ZFS on Linux, I'd have to install it onto the host probably, right? Or would you rather leave the VM as file server?",HomeServer,Replace NAS VM with container?,https://www.reddit.com/r/HomeServer/comments/4bnn1g/replace_nas_vm_with_container/
+36,2016-03-16 13:06:59+00:00,self.hackintosh,https://www.reddit.com/r/hackintosh/comments/4anpc2/what_should_i_do_with_my_new_hackintosh/,False,"So I've always used Windows on my main machine and Linux on my home server and I'm quite used to both OSes.
+
+Yesterday I set up a virtual machine on my server with OS X El Capitan for fun, which works quite well.
+
+But now I'm not quite sure what to do with it, I'm a real newbie to OS X, so can anyone give me some good usecases for an OS X machine? What do you use your hackintoshes for? Is there anything cool I can do with it? Something where OS X excels Windows/Linux for example?",hackintosh,What should I do with my new hackintosh?,https://www.reddit.com/r/hackintosh/comments/4anpc2/what_should_i_do_with_my_new_hackintosh/
+37,2016-03-09 15:34:58+00:00,self.unRAID,https://www.reddit.com/r/unRAID/comments/49okhr/link_to_the_vm_template_repository/,False,"So I'd really like to take a look at the OpenELEC vm template config and the image, but I currently don't have unRAID installed anywhere so I can't download the template.
+
+Would anyone be so kind and send me a link to the repository where the vm templates are stored, please?",unRAID,Link to the VM template repository?,https://www.reddit.com/r/unRAID/comments/49okhr/link_to_the_vm_template_repository/
+38,2016-02-01 19:06:59+00:00,self.linuxquestions,https://www.reddit.com/r/linuxquestions/comments/43q0n4/will_nic_bonding_increase_smb_performance/,False,"So my homeserver (Debian Jessie) has two NICs and so does my PC (Windows 10 Pro).
+
+Will I get higher transfer speeds over CIFS when I bond both of the NICs on my server and my PC? 
+
+The CPUs should be enough, my server has a Xeon E3-1230v3 and my PC a Xeon E3-1245v3.
+
+I would test it myself, but for that I'd have to buy more cables and a bigger switch since all 8 ports on my current switch are being used.",linuxquestions,Will NIC bonding increase SMB performance?,https://www.reddit.com/r/linuxquestions/comments/43q0n4/will_nic_bonding_increase_smb_performance/
+39,2015-12-22 13:49:40+00:00,self.linuxquestions,https://www.reddit.com/r/linuxquestions/comments/3xu1hn/can_i_force_iommu_grouping/,False,"Hi peps,
+
+I'm running Proxmox VE 4.1 on my home server and I use pci passthrough for the onboard SAS controller and my TV card, both work flawlessly. Now I wanted to create a guest with GPU passthrough for fun, so I can test how good it'll work out as HTPC.
+
+So, when I added the GPU (Radeon HD5450), the guest wouldn't start because the resource is busy, I figured out, that the problem is the IOMMU grouping, because my SAS controller and my GPU are both in the same group.
+
+    /sys/kernel/iommu_groups/1/devices/0000:00:01.0 &lt;- PCI bridge - 8086:0c01
+    /sys/kernel/iommu_groups/1/devices/0000:00:01.1 &lt;- PCI bridge - 8086:0c05
+    /sys/kernel/iommu_groups/1/devices/0000:01:00.0 &lt;- AMD Radeon HD5450 - 1002:68f9
+    /sys/kernel/iommu_groups/1/devices/0000:01:00.1 &lt;- AMD Radeon Audio - 1002:aa68
+    /sys/kernel/iommu_groups/1/devices/0000:02:00.0 &lt;- LSI Logic / Symbios Logic SAS2308 - 1000:0086
+
+So I enabled pcie_acs_override=downstream, but nothing changes, they still remain in the same IOMMU group, can I somehow force the GPU into another group? I'm using the latest Proxmox kernel 4.2.6-1 (contains ACS override patch and VFIO is enabled), I don't really wanna switch kernels, since Proxmox probably added some patches that are relevant for Proxmox itself. But I downloaded the kernel sources, so I could apply patches if needed and build it myself, though I haven't got it to build yet.. Always missing some dependencies.
+
+I also can't use other PCI slots, I only have one x16 slot on my Supermicro X10SL7-F... 
+
+Here is the output of dmesg, maybe I overlooked something, but it doesn't seem to be an error, it might be just an issue with IOMMU grouping: http://pastebin.com/3GhzmKcE
+
+**Update:** Seems the Proxmox devs included the ACS override patch into the 3.10 kernel, but not into their 4.2 kernel, which explains everything. That means I have to apply it myself and hope it works. 
+
+[Found an easy guide for everyone](https://forum.proxmox.com/threads/patch-add-override_for_missing_acs_capabilities-patch.23099/)
+
+**Update2:** Nope acs override patch didn't fix the issue..
+
+**Update3:** The latest Proxmox kernel fixed my grouping issue, so it was a kernel issue, I dunno what caused this but since it's working now I finally don't give a damn, yay!",linuxquestions,Can I force IOMMU grouping?,https://www.reddit.com/r/linuxquestions/comments/3xu1hn/can_i_force_iommu_grouping/
+40,2015-12-22 12:37:42+00:00,self.linuxmasterrace,https://www.reddit.com/r/linuxmasterrace/comments/3xtuhr/can_i_force_iommu_grouping/,False,"Hi peps,
+
+I'm running Proxmox VE 4.1 on my home server and I use pci passthrough for the onboard SAS controller and my TV card, both work flawlessly. Now I wanted to create a guest with GPU passthrough for fun, so I can test how good it'll work out as HTPC.
+
+So, when I added the GPU (Radeon HD5450), the guest wouldn't start because the resource is busy, I figured out, that the problem is the IOMMU grouping, because my SAS controller and my GPU are both in the same group, great..
+
+    /sys/kernel/iommu_groups/1/devices/0000:00:01.0 &lt;- PCI bridge - 8086:0c01
+    /sys/kernel/iommu_groups/1/devices/0000:00:01.1 &lt;- PCI bridge - 8086:0c05
+    /sys/kernel/iommu_groups/1/devices/0000:01:00.0 &lt;- AMD Radeon HD5450 - 1002:68f9
+    /sys/kernel/iommu_groups/1/devices/0000:01:00.1 &lt;- AMD Radeon Audio - 1002:aa68
+    /sys/kernel/iommu_groups/1/devices/0000:02:00.0 &lt;- LSI Logic / Symbios Logic SAS2308 - 1000:0086
+
+So I enabled pcie_acs_override=downstream, but nothing changes, they still remain in the same IOMMU group, can I somehow force the GPU into another group? I'm using the latest Proxmox kernel 4.2.6-1, I don't really wanna switch, since Proxmox probably added some patches that are relevant for Proxmox itself, so I don't really would wan't to switch to another kernel. But I downloaded the kernel sources, so I could apply patches if needed and build it myself.
+
+Can't use other PCI slots, I only have one x16 slot on my Supermicro X10SL7-F... 
+
+Here is the output of dmesg, maybe I overlooked something, but it doesn't seem to be an error, it might be just an issue with IOMMU grouping: http://pastebin.com/3GhzmKcE
+
+**Update:** Seems the Proxmox devs included the ACS override patch into the 3.10 kernel, but not into their 4.2 kernel, which explains everything. That means I have to apply it myself and hope it works.
+[Found an easy guide for everyone](https://forum.proxmox.com/threads/patch-add-override_for_missing_acs_capabilities-patch.23099/)
+
+**Update2:** Nope acs override patch applied, but didn't fix the iommu grouping issue...
+
+**Update3:** Okay tried Arch with Kernel 4.1.15 and vfio patches, didn't work, I also tried Proxmox pve-kernel 3.10 which worked for most people previously, also didn't work. Seems to be my hardware that doesn't play nice with the iommu grouping. Also can't switch back to ESXi because my TV card doesn't work with ESXi's passthrough. I might try another gpu but that's about it then..
+
+**Update3:** The latest Proxmox kernel fixed my grouping issue, so it was a kernel issue, I dunno what caused this but since it's working now I finally don't give a damn, yay!",linuxmasterrace,Can I force IOMMU grouping?,https://www.reddit.com/r/linuxmasterrace/comments/3xtuhr/can_i_force_iommu_grouping/
+41,2015-12-20 03:08:28+00:00,self.homelab,https://www.reddit.com/r/homelab/comments/3xje7f/webif_like_proxmox_for_kvm_under_arch/,False,"Hi peps,
+
+I currently run Proxmox VE 4, but since there is an issue with IOMMU grouping I can't pass through my GPU and the Proxmox support is awful if you just have a community subscription..
+
+So I wanna switch to Arch, but I'd like to have an easy to use web interface for KVM like Proxmox does, so I wanted to install Archipel, didn't get it to run and I'm way too lazy to figure out what the problem is, I just wanna install it and run it...
+
+Are there any webinterfaces that provide similar features like Proxmox' interface?
+
+I beg of you, please don't tell me to use the CLI or VirtManager. I want a webinterface, please.
+
+**Edit:** Options so far:
+
+ * Kimchi (too basic for me)
+ * WebVirtManager (also very basic)
+ * Archipel (looks awesome but I don't get it to work)
+ * oVirt (also looks awesome, but I don't get it to work either)
+ * VMmanager (looks cool, but isn't free, might try the demo)
+ * convirt (not free, might try the demo)
+ * Foreman (will try, but isn't supported under Arch, but should technically work)
+
+**Update:** I just tried to install Archipel again, after a lot of fiddling I found the issue I had, I used python3 (python2 is required, you also need to symlink python2.7 to /usr/bin/python). Another problem was apscheduler, Archipel needs one below version 3, but if you just use *easy_install2.7 apscheduler*, it'll install 3.0.5, so I used *easy_install2.7 apscheduler==2.1.2* and Archipel finally starts without errors. Then all you have to do is use the ejabberd config which is provided in the Archipel wiki, set the right FQDN in the archipel.conf, ejabberd.yml and ejabberdctl.cfg and you're good to go. Might help someone who wants to set up Archipel too.
+
+**Update2:** So Archipel is not an option, it's still very buggy, maybe because it's a beta, but feels more like an alpha, maybe it's just me... The virtual machine creation still has some flaws, also when I kill guests the UUIDs are still in my contact list. It looks cool but it's a PITA to set up and in the end I'm probably better off using virsh.. Or just wait until Proxmox got their grouping problem fixed.",homelab,WebIF like Proxmox for KVM under Arch?,https://www.reddit.com/r/homelab/comments/3xje7f/webif_like_proxmox_for_kvm_under_arch/
+42,2015-12-16 16:09:25+00:00,self.g2a,https://www.reddit.com/r/g2a/comments/3x3cd7/can_you_get_triple_a_titles_from_random_steam_keys/,False,"Like Witcher 3, BO3  etc.?",g2a,Can you get triple a titles from random Steam keys?,https://www.reddit.com/r/g2a/comments/3x3cd7/can_you_get_triple_a_titles_from_random_steam_keys/
+43,2015-12-10 09:55:05+00:00,self.PickAnAndroidForMe,https://www.reddit.com/r/PickAnAndroidForMe/comments/3w7dpw/smallsized_android_with_atleast_2_days_battery/,False,"I currently have a 4 year old HTC One X, even though I replaced the battery with a One X+ battery, it still drains like hell when I use it. Worst thing is, it is so damn slow (sometimes takes 15-20 secs to open a picture), but every other rom than the one I currently use, has even heavier battery drain.. I pretty much have to choose between battery life and performance.
+
+Now I want a new phone, but it has to be roughly the size of the One X (134.4x69.9x8.9mm) since I don't want a bigger phone, I've got some Amazon coupons worth 250€, so I am willing to add another 100€ for the new phone. Nexus 5X or Xperia Z5 Compact would be cool, but they are too expensive, considering my moderate usage (I just use Whatsapp, sometimes Chrome and some drawing apps to kill time).
+
+Important is, that it's roughly as big as the One X, has a good battery life and doesn't freeze when opening apps or pictures in WhatsApp.. With good battery life I mean that it should have a good amount of active screen time, so I can use WhatsApp without seeing the battery drain 5% every 10 minutes.
+
+And I'd prefer that it comes with no bloatware or atleast that it's rootable and has a bloatfree version of the stock rom available, I just hate preinstalled cancerapps.",PickAnAndroidForMe,Small-sized Android with atleast 2 days battery life?,https://www.reddit.com/r/PickAnAndroidForMe/comments/3w7dpw/smallsized_android_with_atleast_2_days_battery/
+44,2015-11-24 08:29:59+00:00,reddit.com,https://www.reddit.com/r/Scams/comments/3u21ud/fedex_guys_and_the_fbi_know_each_other_pretty/,False,,Scams,"FedEx' guys and the FBI know each other pretty well and they even use Gmail, gg boys",https://www.reddit.com/r/Scams/comments/3ty97n/who_knew_the_fbis_gmen_used_gmail_now_i_think/cxb7cdv
+45,2015-11-08 11:24:09+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/3rzveo/anyone_using_gpu_passthrough_on_esxi_with_an_r9/,False,"My homeserver is running ESXi where I virtualize FreeNAS and I thought about installing an AMD R9 Fury X, since Nvidia cards don't support passthrough on ESXi.
+
+So can anyone confirm that the R9 Fury X works with ESXi?
+
+(I won't use KVM or Xen as hypervisor, so ESXi is the only option, I just wanna know if the Fury X works, I haven't fully decided to run a virtualized gaming system.)",pcmasterrace,Anyone using GPU passthrough on ESXi with an R9 Fury X?,https://www.reddit.com/r/pcmasterrace/comments/3rzveo/anyone_using_gpu_passthrough_on_esxi_with_an_r9/
+46,2015-10-29 13:43:47+00:00,self.linuxquestions,https://www.reddit.com/r/linuxquestions/comments/3qpapb/best_desktop_environment_for_multi_monitor_setups/,False,"So since GPU passthrough is becomeing more stable I wanna give it a try again. Last year when I used Arch on my main rig, I used Gnome as desktop, it was quite nice but it had some issues with multi monitor..
+
+I also had issues with flash players in fullscreen, the fullscreen was always opened on the monitor where the window itself was opened first, so if I clicked on a stream and the window opened on the left screen, there was no way to get it to the monitor in the center, which was so damn annoying. 
+
+I also tried KDE once, but the mixer always crashed so adjusting the sound wasn't possible. But this was all back in may last year, I'd think most of the issues have been fixed by now, right?
+
+So is there any desktop environment with as good multimon support like Win 8/10 has? I'm specifically talking about dragging windows around and fullscreen etc. meaning just pressing the Win+Arrow Keys to switch windows fast onto another screen.
+For switching the screens on/off and such I use xrandr.
+
+Going with the shell and a simple window manager is not an option, I'm not an idiot, but I'm lazy and at 4am in the morning on weekends, when I'm tired I just wanna lay back and just surf the web and do stuff with one hand. (no not what you think, I'm too tired to fap at 4am, lol)",linuxquestions,Best desktop environment for multi monitor setups?,https://www.reddit.com/r/linuxquestions/comments/3qpapb/best_desktop_environment_for_multi_monitor_setups/
+47,2015-10-29 10:09:52+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/3qontl/what_should_i_do_with_my_xeon/,False,"So my homeserver gets an upgrade to becoming a real server with a server grade board and ECC ram. Because I needed VT-d for PCI Passthrough, I bought a Xeon E3-1245v3 for my server back then. But since my home server will be switching to FreeNAS, I won't need VT-d nor do I need all the power the Xeon has..
+
+So I was thinking I might switch my Pentium G3258 from my LAN-Gaming rig into my server and put the Xeon into the gaming rig. Because the Pentium is more than enough for the things that my server will do.
+
+And a quad core would be great for my LAN rig, but I only use it once or twice a year, so I would feel bad having a powerful CPU in a rig which I almost never use...
+
+So I need a use for my LAN rig.. I already have a little HTPC so there is no need for a second media center, it would also be too OP as a HTPC. 
+
+I also don't need a living room gaming PC since my main gaming rig is connected to the TV. And my home server already serves as a NAS and doesn't need as much power.
+
+What should I do with my LAN rig when I'm not at LAN parties? (Please, I'm not trying to brag, some people here have way better hardware, I'm just trying to get an answer to my question..)",pcmasterrace,What should I do with my Xeon?,https://www.reddit.com/r/pcmasterrace/comments/3qontl/what_should_i_do_with_my_xeon/
+48,2015-10-23 21:58:47+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3pyl1y/cant_decide_which_primary_i_should_level_up_next/,False,"So I already have my Hung Jury on 310, but I want to get some variation in my playstyle but I don't know what I should level up or buy from the vendors. Since I already have the Hung Jury, I don't want another scout rifle, but I think an auto or pulse rifle would be cool. Could you help me with this decision?
+
+The options I have in my vault:
+
+ * Imago Loop (with Relentless Tracker, Handloaded and Firefly)
+ * ~~Hawksaw (High Caliber Rounds/Feather-Mag, Counterbalance and Rifled Barrel)~~ out of the race because the small lack of stability
+ * Righteous VII (Hammer Forged, Hand Laid Stock, Spray and Play)
+
+I personally prefer the last one the most, because with these rolls I can laser 43 rounds (with Appended Magazine even 51 at the cost of range) into anything I see and if I run out of ammo, my reload increases so nothing stands in my way. 
+
+But I'm not sure if I should grind for the Grasp of Malok, because this thing also has pretty awesome stats.. Should I grind for the Grasp of Malok or upgrade one of the above? Or maybe buy something better?",DestinyTheGame,"Can't decide which primary I should level up next, help? (PvE)",https://www.reddit.com/r/DestinyTheGame/comments/3pyl1y/cant_decide_which_primary_i_should_level_up_next/
+49,2015-10-22 11:03:49+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3prbwz/rumor_about_destiny_2/,False,"[Source](http://kotaku.com/the-messy-true-story-behind-the-making-of-destiny-1737556731)
+
+Just a repost, because of all the hate the old post got. Here is the original article from Kotaku, it's not confirmed by Bungie yet.
+
+~~What do you think? A complete standalone game? Or more like a huge expansion where you can keep your characters, like TTK?~~
+
+~~I really hope I can keep my characters...~~
+
+**Edit:** Aight, keeping characters forever was already confirmed.",DestinyTheGame,"Rumor about ""Destiny 2""",https://www.reddit.com/r/DestinyTheGame/comments/3prbwz/rumor_about_destiny_2/
+50,2015-10-21 17:29:38+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3pnqfv/do_the_rolls_on_faction_armor_change_randomly_or/,False,"I never really memorize the stats and perks of the armor, but I could swear some of the stuff yesterday had INT and DIS and today it has DIS and STR. Or is my mind just playing tricks on me?
+
+I'm just asking here to make sure, I can't wait a whole week just to check if I'm going crazy or not lol.",DestinyTheGame,"Do the rolls on faction armor change randomly or are they completly static, like the weapons?",https://www.reddit.com/r/DestinyTheGame/comments/3pnqfv/do_the_rolls_on_faction_armor_change_randomly_or/
+51,2015-10-21 10:47:06+00:00,self.3dshacks,https://www.reddit.com/r/3dshacks/comments/3pm8td/restore_corrupted_pokemon_x_save_game_from_dump/,False,"Hi,
+
+back then, when I first got my Gateway I immediately dumped my retail Pokemon X and the damn OCD forced me to wipe my retail cards save game instead of testing the dump first. (I knew there was no gain for me, the OCD was just too strong)
+
+I also found out that at this time, there was no way to restore the save game onto the card or fix the save game of the dump. The only thing I could have done was extract the save game with SaveDataFiler and transfer the 500+ Pokemon from the corrupted save to a new save. But they would have been registered as traded Pokes unless I changed the Trainer ID of all the Pokemon which would take hours.. **Edit:** Ok PkHEX has now the ability to change the TrainerID, so I could change that on my new save game and could transfer the Pokemon without editing them.
+
+But since this more than 9 months ago, maybe there is a way now, to restore the complete save game from the dump, I luckily made a backup from the original dump before wiping the save game. 
+
+I saw this: https://www.reddit.com/r/PokemonPlaza/comments/3j3uy4/tutorial_how_to_use_pkhex_in_latest_3ds_system/
+Could I load the original dump, with the save game, via Gateway, load up the SaveGame manager, dump the save game and then restore it to my retail Pokemon X flashcart via this method?? My emuNAND is still on 9.5 and my 2DS is on 8.1.",3dshacks,Restore corrupted Pokemon X save game from dump via PKHEX?,https://www.reddit.com/r/3dshacks/comments/3pm8td/restore_corrupted_pokemon_x_save_game_from_dump/
+52,2015-10-15 11:49:09+00:00,self.kodi,https://www.reddit.com/r/kodi/comments/3ouhcp/anyone_using_the_emby_addon_for_kodi_does_it_work/,False,"Hi, does the Emby server transcode the media and stream it to Kodi (with the addon) like Plex does? Similar to PleXBMC?
+
+Or can I set it, that the Emby addon should only manage the library and provide file paths etc. so Kodi can transcode the media itself?
+
+I want to have the Emby server to manage all the metadata and watched states of my movies and episodes and I also want it to transcode the media for using it with my Android devices, cause they don't have enough power to play back an untouched Bluray. 
+
+But on my HTPC I want to let Kodi do the playback of the files directly, not stream them because of quality reasons, since it has enough power to play back untouched Blurays.",kodi,Anyone using the Emby Addon for Kodi? Does it work similar to Plex?,https://www.reddit.com/r/kodi/comments/3ouhcp/anyone_using_the_emby_addon_for_kodi_does_it_work/
+53,2015-10-11 11:54:23+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3obmik/weapons_and_gear_worth_farming/,False,"Hey guyz,
+
+I'm looking for good legendaries and exotics that are worth farming, I'm a Sunbreaker Titan and also play Defender on raids sometimes, for my Sunbreaker I have some bad rolled Immolation Fists and for my Defender I have the Helm of Saint 14.
+My primary is the Hung Jury SR4, which is an absolute beast, but I 'm also going to farm Imago Loop, just to get some variation.
+I also want to farm the Darkblade helm because of the looks.
+
+Is there any other gear that is worth farming within strikes? I'm talking specifically about weapons and gear you only get from strikes, not about the stuff you can buy.
+
+Also are there any must have exotics besides Touch of Malice, Black Spindle and the exo Swords, that are worth keeping? I might have overlooked some gem, so I'm asking.",DestinyTheGame,Weapons and gear worth farming?,https://www.reddit.com/r/DestinyTheGame/comments/3obmik/weapons_and_gear_worth_farming/
+54,2015-09-15 15:27:55+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3l1vxg/where_can_i_get_a_digital_xbox_one_destiny_not/,False,"So the drive of my Xbox died again on me today just when I wanted to play TTK, after I received it from the last repair yesterday (GJ to the guy who repaired my Xbox, well done).
+
+But I wanna play Destiny so hard but since I already have the Taken King Expansion etc. paying 70€ is just too much for me, it's not worth it.. So I hoped I could get a cheap digital version of Destiny for my Xbox since the Xbox Store doesn't offer Destiny anymore only the Taken King Legendary package or the Collectors Edition...
+
+Does anyone know where I can get a key for Destiny? Are there even keys? Because I couldn't find anything on Google...",DestinyTheGame,Where can I get a digital Xbox One Destiny (not TTK) key??,https://www.reddit.com/r/DestinyTheGame/comments/3l1vxg/where_can_i_get_a_digital_xbox_one_destiny_not/
+55,2015-09-11 10:06:26+00:00,self.raspberry_pi,https://www.reddit.com/r/raspberry_pi/comments/3kiwjt/mod_a_usb_switch_and_control_it_via_a_rpi/,False,"I want to have a USB switch that I can control over my local network, so I can implement a function for my home automation system (FHEM), so I can use my smartphone to switch inputs or later on, use voice recognition to switch inputs.
+
+I'm currently using [these switches](http://www.delock.com/produkte/G_87634/merkmale.html) to manually switch some USB devices between my computers and consoles. 
+Since these are mechanical switches and probably only bridge some contacts and don't have a controller of some sort, I don't think I can mod these, without a huge load of soldering etc. to make switching work via the GPIO of a RPi. Right?
+
+Alternatively I though about ""modding"" [one of these switches](http://www.aten.com/products/productList.php?prdClassInput=By%20Function&amp;prdSubClassInput=2011011816087001&amp;prdInput=20110118160828001) since these are not mechanical and actually need power, so maybe I could disassemble the US421A and connect the buttons to the GPIO pins of the RPi and switch the inputs with that?
+
+The other switches have a single button to cycle between every input, which is inconvenient and there is no way to select a specific port since the hardware wasn't made for this, but I want to select specific inputs, not just cycle through them.
+
+Would this work? Can someone help me out with that or is there already a guide/circuit plan that is applicable for something like this?",raspberry_pi,Mod a USB switch and control it via a RPi?,https://www.reddit.com/r/raspberry_pi/comments/3kiwjt/mod_a_usb_switch_and_control_it_via_a_rpi/
+56,2015-09-11 07:12:32+00:00,self.arduino,https://www.reddit.com/r/arduino/comments/3kiirh/a_guide_to_build_a_serial_controlled_usb_switch/,False,"I want to build a USB switch like [this one](http://www.delock.com/produkte/G_87634/merkmale.html) but instead of the analog buttons, I want to switch the inputs either via serial, for my home automation system. The final project should be hooked up to my Linux home server via USB.
+
+I can solder but since I'm not an electrician, I have no idea how which parts I need and how I have to solder things together. First thing is, which board do I need to accomplish this? 
+
+Could I use an Arduino Leonardo Micro Pro (or a cheap clone) for sending the commands? The only thing it has to do is switch the inputs depending on the signal it gets from my home server, at least that's how I imagine this project.
+
+**Edit:** I found [this switch](http://www.aten.com/products/Mobility-&amp;-USB/USB-Peripheral-Switches/4-Port-USB-2.0-Peripheral-Switch~US421A.html).
+Could I mod this by any chance? Like simulating a button press?
+
+Also [this switch](http://www.aten.com/products/Mobility-&amp;-USB/USB-Peripheral-Switches/4-Port-USB-Peripheral-Sharing-Device~US424.html) only has one button to cycle between inputs, would it be possible to select a specific input instead of cycling between the inputs?",arduino,A guide to build a serial controlled USB switch?,https://www.reddit.com/r/arduino/comments/3kiirh/a_guide_to_build_a_serial_controlled_usb_switch/
+57,2015-09-06 09:03:04+00:00,self.xboxone,https://www.reddit.com/r/xboxone/comments/3ju94d/will_an_external_hybrid_hdd_speed_up_my_loading/,False,"I thought about using an external 3,5"" drive since they are probably faster than the internal drive of the Xbox.
+Since I am too cheap I don't want to spend money on a 1TB SSD for my Xbox when my PC just has a 128GB SSD (my PC has always priority, because I have way more games on PC), but buying a 256GB SSD wouldn't be enough. So I though maybe an SSD hybrid drive would speed up the loading times of games I play very often, like Destiny.
+
+But because Destiny is an online game, I'm not even sure that the game loads this long because of the internet or the harddrive, you know?",xboxone,Will an external hybrid HDD speed up my loading times significantly?,https://www.reddit.com/r/xboxone/comments/3ju94d/will_an_external_hybrid_hdd_speed_up_my_loading/
+58,2015-08-31 12:55:02+00:00,self.mechmarket,https://www.reddit.com/r/mechmarket/comments/3j2w3k/eude_h_verified_paypal_w_vortex_backlit/,,"Looking for unused black Vortex Backlit Doubleshot PBT Keycaps with ANSI Layout for my Ducky Shine 4 (US-ANSI-Layout). Preferrably shipped from the EU, because else I'd have to pay +19% for customs etc.
+
+Also no shipping with FedEx.",mechmarket,[EU-DE] [H] Verified Paypal [W] Vortex Backlit Doubleshot PBT Keycaps black (ANSI),https://www.reddit.com/r/mechmarket/comments/3j2w3k/eude_h_verified_paypal_w_vortex_backlit/
+59,2015-08-31 08:34:07+00:00,self.Guildwars2,https://www.reddit.com/r/Guildwars2/comments/3j29ez/help_my_buddy_just_gets_1_fps_ingame/,,"We wanted to play GW2 and one of my buddies can't play it since he just gets 1 FPS and we can't figure out why.
+I got an i7 4770K and a Palit Jetstream GTX 770 and run it over 120FPS most of the time, my other bud with an Ivy Bridge i5 (3450 as far as I remember) and an GTX 770 from ASUS got atleast 60-80 FPS and runs it without problems too.
+
+But my other friend which got the same GTX 770 from ASUS and a newer Haswell i5 (4670 I think) and he can't play the game, he turned down the GPU settings but there was no gain in performance, the CPU usage is pretty low and the GPU usage is almost none. He also checked if the game runs with the internal GPU of the i5, but that wasn't the case (wouldn't even make sense since other games run fine, just GW2 doesn't).
+
+I somewhere read, that activating VT-d would fix this problem, but that wouldn't make sense since Directed IO doesn't have anything todo with gaming, also his motherboard doesn't support VT-d. The motherboard also can't be the issue since I got the same mb, an ASUS Maximus Hero IV, so the problem definetly isn't hardware related. I also read that switching the PCI-e slot could fix this, but that also wouldn't really make sense. The GPU runs at 16x so putting it into an 8x slot couldn't possibly fix it.
+
+Has anyone an idea how to fix this problem?",Guildwars2,[Help] My buddy just gets 1 FPS In-Game,https://www.reddit.com/r/Guildwars2/comments/3j29ez/help_my_buddy_just_gets_1_fps_ingame/
+60,2015-08-29 11:56:42+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3iu5dd/reach_level_34_solo/,,"Is there any way I can reach level 34 solo?
+
+Cause I can't find any german raid groups for Xbox One..
+My threads mostly get ignored since noone wants a 31 Titan and if I use destinylfg.net or so I always get matched with some people from the USA and because I'm german, they start to make stupid hitler jokes, which is pretty damn annoying...
+
+I don't get why Bungie decided to exclude Nightfall, Raids and PoE 32-35 from matchmaking, this destroys the game so much for people like me..",DestinyTheGame,Reach level 34 solo?,https://www.reddit.com/r/DestinyTheGame/comments/3iu5dd/reach_level_34_solo/
+61,2015-08-24 10:32:23+00:00,self.hometheater,https://www.reddit.com/r/hometheater/comments/3i6q8n/avr_with_three_hdmi_zones/,,"Are there any AVRs with three HDMI-Zones? 
+
+I'm not talking about normal zones for multi room audio, I mean HDMI-Zones, so I can output the video &amp; audio signal from three different sources to three different displays.",hometheater,AVR with three HDMI Zones?,http://www.reddit.com/r/hometheater/comments/3i6q8n/avr_with_three_hdmi_zones/
+62,2015-08-18 16:32:33+00:00,self.manga,https://www.reddit.com/r/manga/comments/3hgplw/currently_best_manga_reader_for_kindle_fire_hdx/,,"Until now I downloaded my manga and converted it with KCC to simple volumes, that was fine until I finished all the current chapters.
+Now that becomes a pain when new chapters release and I have to convert it again every time. So I thought ok lets look for some Manga readers.
+
+Since I like the mangastream translations because of the high image quality, Mango straight fell out of my list because it seems like it's not developed anymore and mangastream doesn't work anymore. Mangarock doesn't support fullscreen reading, so cya. Manga Galaxy is dead for now because the dev lost the sourcecode so until the new Manga Galaxy app is up and running I probably have to wait. Now I tried Manga Watcher which is pretty awesome and almost works flawlessly with my Kindle Fire HDX. But it hasn't received any updates since January, so I'm not sure if this app is also dead or not.. :/
+
+But I thought maybe there is another Manga Reader that supports the KFHDX which maybe is even better than Manga Watcher. So is there anything better than Manga Watcher at the moment?",manga,Currently best Manga Reader for Kindle Fire HDX?,http://www.reddit.com/r/manga/comments/3hgplw/currently_best_manga_reader_for_kindle_fire_hdx/
+63,2015-08-13 09:44:07+00:00,self.MechanicalKeyboards,https://www.reddit.com/r/MechanicalKeyboards/comments/3gtyqk/buying_is_there_any_eu_retailer_for_the_ducky/,,"Hi guys,
+
+I know the DS5 is releasing this September, but I don't really need RGB backlighting and I don't need macros, so I want to buy the black DS4 with MX-Reds, I already commited to Massdrop for the Vortex backlit PBT keycaps, so I need the DS4 with ANSI layout, since I want the PBT switches.
+
+The problem is, I can only find ISO layout DS4's on ebay/Amazon etc. and if I buy it from the US I have to pay for customs etc., so I hoped that there is a retailer that ships from the EU so I don't have to pay any customs fees.
+
+https://mechanicalkeyboards.nl/ is the only one I found with the DS4 ANSI, sadly they don't have it in stock so I can't order it from there.. :(
+
+**Edit:** I talked to the support of mechanicalkeyboards.nl and he said he has a DS4 with Red Switches in stock, yay! Just bought one, but for 170€ I could have ordered one from the US and pay for the taxes, but whatever..",MechanicalKeyboards,[buying] Is there any EU retailer for the Ducky Shine 4 with ANSI Layout?,http://www.reddit.com/r/MechanicalKeyboards/comments/3gtyqk/buying_is_there_any_eu_retailer_for_the_ducky/
+64,2015-08-10 08:08:13+00:00,self.MechanicalKeyboards,https://www.reddit.com/r/MechanicalKeyboards/comments/3gfxjx/buying_backlit_mkb_with_mxred_and_pbtkeycapsets/,,"Hi guys,
+
+I wanted to buy a DS4 or maybe the DS5 when it releases this September.
+Sadly I had to find out, that Ducky doesn't produce their backlit PBT-Keycap-Sets anymore since two years.. I could find only the grey/blue and cream/green PBT caps for the DS4, but I don't like the color of either and they are not backlit.
+
+Soo are there any backlit PBT keycaps for the DS4?
+
+If not, are there any keyboards that have compatible PBT keycap sets or are shipped with PBT keycaps?
+Should also be backlit, have MX-Reds and it must have the tenkeyblock.",MechanicalKeyboards,[buying] Backlit MKB with MX-Red and PBT-Keycap-Sets?,http://www.reddit.com/r/MechanicalKeyboards/comments/3gfxjx/buying_backlit_mkb_with_mxred_and_pbtkeycapsets/
+65,2015-08-04 14:41:44+00:00,self.xboxone,https://www.reddit.com/r/xboxone/comments/3fr2gx/my_horrible_experience_with_the_xbox_support/,,"Microsoft's Servicecenter is the worst IMO.. It's on par with the Steam Support.
+
+So I bought my Xbox One at the end of April at Amazon, I played for about 3-5 hours mostly on weekends, since I was bored a little I haven't touched it for two or three weeks, now at the 24th of July I wanted to play a little Destiny, started the console aaaand it's gone, blackscreen, it does turn on, but I can't see anything. I tried everything and came to the result, that the HDMI port was defective, just after 4 months, wow.. So I opened a service ticket on myservice.xbox.com, wrapped it up safely and send it to the customer service center in Ireland.
+
+After one week on the next Friday it already came back, I was so happy, so set it up and tried to turn it on. Sadly they didn't fix s**t, so the HDMI port was still defective and the best thing of all, my Xbox was full of scratches and the corner on the front was completely damaged...
+
+I was so damn angry, opened the support page and tried to contact the support via chat, after 10 mins I got a reply blablabla, I'm sorry for you blablabla and I'll receive a replacement. K, wanted to go to myservice.xbox.com and open a new ticket, but I couldn't ""Service is not available"". Ok back to the Xbox support page, waited 45 minutes, had to explain everything again (I also explained that it has scratches all over the place now and the corner was damaged), support staff opened a ticket for me, I sent it back to Ireland yesterday.
+
+Today, I received a mail that some of the staff members in the service center reported that my Xbox has scratches all over the place and I should send them some pictures of the Xbox and the packaging from before I sent it to them. Duh, you were the ones who damaged it last time!!
+
+First of all, I should receive a replacement anyway, so why do I have to send them any proof now??
+
+I should have just called Amazon to get a new one.. Never thought I had such a hard time with Microsoft's support. Not Logitech, not Corsair not any manufacturer until now has never let me down so much like Microsoft did..
+
+**Update:** I can't explain how angry and frustrated I am right now... I replied to the mail, that I didn't take any pictures because there was never a requirement that I had to take any. Now I got an email back which roughly translated says, that she can understand my anger and they will not deny my request for a replacement, but they have ""specific rules"".
+So, to forward the case to the technical staff, they need a confirmation, that the console is damaged from the outside, so I have to **take pictures of my console (present tense!!)** and have to send it to them. 
+**But how the hell should I take pictures of my console if it's already at their service center in Ireland??!?!?!**
+This is the worst experience I have ever had with any support in my life.. 
+
+**Update2:** Well, I had the slight suspicion, that the support member that was contacting me about the pictures twice now, wasn't a speaking my language natively, the german was pretty bad, but I really didn't think, that she seriously put my reply into a translator, because if you put the german sentence ""also kann ich keine Bilder machen"", which means ""so I can't take any pictures"", into the Google translator, it gets translated into ""so I can take any pictures"". That's where the misunderstanding probably comes from, but since I guessed that this support member doesn't speak german, I wrote the last mail in english, so she should at least understand that now. But I'm still waiting for a reply, I'm really curious how she responds..",xboxone,My horrible experience with the Xbox Support,http://www.reddit.com/r/xboxone/comments/3fr2gx/my_horrible_experience_with_the_xbox_support/
+66,2015-08-04 12:10:41+00:00,self.MechanicalKeyboards,https://www.reddit.com/r/MechanicalKeyboards/comments/3fqlhq/buying_which_mechanical_keyboard_with_mxred/,,"So, since my replacement Corsair K70 now also died, I want to move away from their products, I loved the feeling of the K70 and the optical look was awesome, but since this was the second K70 that died on me, once the first revision and now the second revision too, I wanted a completly new keyboard so I'll sell my new replacement.
+
+The thing is, I can't decide which one I should take, I'm currently looking at the Ducky Shine 4 and the Ducky Legend, but I'm not sure, maybe there are better ones out there? (It should have Red, White or RGB background lighting)
+
+The thing is, I don't like all this fancy stuff like, audio ports and USB hubs within keyboards and macro buttons, I also don't like the overkill look on some of the ""gaming"" keyboards, like the ones from Roccat or Razer, I like it minimalistic and clean. That's why I love the K70, also the Ducky keyboards look very classic and clean.",MechanicalKeyboards,[buying] Which mechanical keyboard with MX-Red Switches?,http://www.reddit.com/r/MechanicalKeyboards/comments/3fqlhq/buying_which_mechanical_keyboard_with_mxred/
+67,2015-07-24 20:42:50+00:00,self.xbmc,https://www.reddit.com/r/xbmc/comments/3ehl0t/searching_for_a_nice_skin_with_widgets_that/,,"I want to separate my anime from my normal tv shows, I created a custom node for anime and edited the standard tv show node to filter out anime. Since I have just 3 tv shows but over 50 anime it's always annoying to select the tv shows.
+
+The thing that bothers me, all of the skins I've tried have widgets, that don't adjust to the new nodes, they use the standard tv shows library to filter for ongoing, latest or random episodes or fanart backgrounds etc. instead of the new nodes..
+
+Are there any skins that have widgets which are adjustable to use custom nodes? I'm pretty sad, that kodi still doesn't differ between anime and tv shows out of the box.. That would make life so much easier.",xbmc,Searching for a nice skin with widgets that support custom nodes,http://www.reddit.com/r/xbmc/comments/3ehl0t/searching_for_a_nice_skin_with_widgets_that/
+68,2015-06-29 17:50:45+00:00,self.torrents,https://www.reddit.com/r/torrents/comments/3bj80b/upgrading_my_720p_library_to_1080premux/,,"So I got a new 55"" tv and a new sound system (currently 2.1 but will be upgraded to 5.1 in a few months). Since my old 32"" tv only had a resolution of 1080i, my library now consists only of 720p files.
+
+So I'm thinking about upgrading my library to 1080p or Remux, would it even be worth it? Also do I notice a real difference between proper encoded 1080p and Remuxes? I know the quality of remuxes is generally better, but do I notice this quality improvement?
+Thinking about just upgrading my favorites, since I'd have to upgrade my harddisks of my homeserver, if I wanted to do all the movies.
+
+My HTPC has a Celeron 1840T (dual core @ 2.5GHz) CPU, so the high bitrates should be no problem. I think..",torrents,Upgrading my 720p library to 1080p/Remux?,http://www.reddit.com/r/torrents/comments/3bj80b/upgrading_my_720p_library_to_1080premux/

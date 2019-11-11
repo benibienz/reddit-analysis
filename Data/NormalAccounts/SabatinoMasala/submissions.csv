@@ -1,0 +1,97 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-06-20 07:49:37+00:00,self.gamedev,https://www.reddit.com/r/gamedev/comments/4oxmlu/last_day_our_ios_game_development_course_is_free/,False,"Today is the last day this offer is standing, it ends today (the 20th of June) at 23:59 CET.
+
+We decided to give our iOS game development course away for FREE during WWDC using the promo code 'WWDC2016'! Future updates are included, get it now!
+
+http://codecaptain.teachable.com/courses/tripeak-spritekit-game-development-in-swift-2?product_id=56709&amp;coupon_code=WWDC2016
+
+**Course description:**
+This course will teach you how to build a card game using Apple's 2D gaming framework called SpriteKit.
+What will I get from this course?
+
+* Over 25 video &amp; written lectures
+* The entire source code of the card game
+* You're free to release this game in the Appstore (and monetize it!)
+* A great starter project for creating your own game
+* All assets &amp; classes are free to use in all of your own projects
+* Email support when you're facing a bug or when you're stuck somewhere (reply within 24 hours)
+
+Enjoy!",gamedev,Last Day! Our iOS game development course is FREE during WWDC!,https://www.reddit.com/r/gamedev/comments/4oxmlu/last_day_our_ios_game_development_course_is_free/
+1,2016-06-13 10:34:49+00:00,self.gamedev,https://www.reddit.com/r/gamedev/comments/4nv1gr/our_ios_game_development_course_is_free_during/,False,"We decided to give our iOS game development course away for FREE during WWDC using the promo code 'WWDC2016'! Future updates are included, get it now!
+
+http://codecaptain.teachable.com/courses/tripeak-spritekit-game-development-in-swift-2?product_id=56709&amp;coupon_code=WWDC2016
+
+**Course description:**
+This course will teach you how to build a card game using Apple's 2D gaming framework called SpriteKit.
+What will I get from this course?
+
+* Over 25 video &amp; written lectures
+* The entire source code of the card game
+* You're free to release this game in the Appstore (and monetize it!)
+* A great starter project for creating your own game
+* All assets &amp; classes are free to use in all of your own projects
+* Email support when you're facing a bug or when you're stuck somewhere (reply within 24 hours)
+
+Enjoy!",gamedev,Our iOS game development course is FREE during WWDC!,https://www.reddit.com/r/gamedev/comments/4nv1gr/our_ios_game_development_course_is_free_during/
+2,2016-06-13 09:34:06+00:00,self.gamedev,https://www.reddit.com/r/gamedev/comments/4nuvr3/course_our_ios_game_development_course_is_free/,False,[removed],gamedev,[Course] Our iOS game development course is FREE during WWDC!,https://www.reddit.com/r/gamedev/comments/4nuvr3/course_our_ios_game_development_course_is_free/
+3,2016-06-13 09:23:08+00:00,self.iOSProgramming,https://www.reddit.com/r/iOSProgramming/comments/4nuurf/course_during_wwdc_our_ios_spritekit_course_is/,False,[removed],iOSProgramming,[Course] During WWDC our iOS SpriteKit course is going to be free!,https://www.reddit.com/r/iOSProgramming/comments/4nuurf/course_during_wwdc_our_ios_spritekit_course_is/
+4,2016-03-22 09:58:41+00:00,self.gamedev,https://www.reddit.com/r/gamedev/comments/4bgsdc/learn_how_to_work_with_phaser_groups/,False,"In this tutorial you'll learn to work with Phaser Groups and how to take advantage of its built-in Object-Pooling functionality.
+
+* How to set up a Phaser Group
+* Create an Arcade physics body for movement
+* Detect when lasers are out of bound
+* Object Pooling using Phaser Groups for improving performance
+* Phaser mouse or touch input
+* Phaser keyboard input events
+
+https://www.codecaptain.io/blog/game-development/shooting-bullets-using-phaser-groups/518",gamedev,Learn how to work with Phaser Groups,https://www.reddit.com/r/gamedev/comments/4bgsdc/learn_how_to_work_with_phaser_groups/
+5,2016-01-18 15:24:13+00:00,self.gamedev,https://www.reddit.com/r/gamedev/comments/41jdae/ios_game_dev_course_in_swift/,False,"I created a new course to get you started with Spritekit game development in Swift 2.
+In this course we'll create a complete 'Tripeak Solitare' game.
+
+You'll learn about the following topics:
+
+* The MVC pattern
+* The Swift programming language
+* SKNodes (SKSpriteNode, SKScene, ...)
+* SKTransitions
+* UIMotionEffects
+* Animations in SpriteKit
+* Cross-device compatibility (support all iPhones starting from iPhone 4 and the iPad)
+* Keeping your code structured &amp; organized
+* The entire game mechanics for creating a Tripeak Solitaire game
+
+I have about 50 promo codes available for you guys, use the promo code **REDDIT** to get free access to the entire course, or click the following link, which will use the promo code for you:
+http://codecaptain.teachable.com/courses/tripeak-spritekit-game-development-in-swift-2?product_id=56709&amp;coupon_code=REDDIT
+
+I'd love to hear your feedback and suggestions!",gamedev,iOS Game Dev course in Swift,https://www.reddit.com/r/gamedev/comments/41jdae/ios_game_dev_course_in_swift/
+6,2015-12-20 14:25:10+00:00,codecaptain.io,https://www.reddit.com/r/iOSProgramming/comments/3xkvqa/mimicking_the_focus_engine_for_spritekit_on_tvos/,False,,iOSProgramming,Mimicking the Focus Engine For SpriteKit on tvOS,http://www.codecaptain.io/ios-development/focus-engine-for-spritekit-tvos/245
+7,2015-10-28 16:51:23+00:00,blog.codecaptain.io,https://www.reddit.com/r/iOSProgramming/comments/3qky53/get_a_list_of_all_available_emoji_using_the/,False,,iOSProgramming,Get a list of all available Emoji using the Objective-C runtime [Update: compatible with iOS 9.1!],http://blog.codecaptain.io/ios-development/get-all-available-emoji-using-the-objective-c-runtime/15
+8,2015-10-28 16:40:25+00:00,self.gamedev,https://www.reddit.com/r/gamedev/comments/3qkwbj/hittesting_using_the_distance_formula/,False,"Sometimes using a built-in hitTest functionality isn’t sufficient for checking if 2 objects collide. In these cases the distance formula will come in handy.
+
+Math in game development is not something to be feared, but rather embraced as it can help you tackle many, many issues.
+
+In this blog post I visualise the distance formula using an interactive demo &amp; provide the code needed to get the desired result.
+
+http://blog.codecaptain.io/webdevelopment/hittesting-using-the-distance-formula/57",gamedev,Hittesting using the distance formula,https://www.reddit.com/r/gamedev/comments/3qkwbj/hittesting_using_the_distance_formula/
+9,2015-10-28 10:59:39+00:00,self.gamedev,https://www.reddit.com/r/gamedev/comments/3qjmzg/getting_started_with_phaserjs/,False,"So you're interested in game development, but you have no idea where to start?
+
+I created a free course to get you started with HTML5 game development in PhaserJS.
+
+In this course we'll cover the powerful game framework **PhaserJS** by creating an exciting game called TapTapTaxi.
+
+PhaserJS is the **go to choice** when developing HTML5 games.
+
+**Pro's**
+
+* Easy &amp; familiar syntax
+* Robust framework with great support
+* Comes with a huge amount of documentation
+* WebGL rendering with automatic canvas fallback
+* Cross-platform (!)
+* Asset preloading
+* Plays sound
+* Physics
+
+Take a look at the free course &amp; get your gamedev on!
+
+http://codecaptain.teachable.com/courses/html5-game-development-with-phaserjs",gamedev,Getting started with PhaserJS,https://www.reddit.com/r/gamedev/comments/3qjmzg/getting_started_with_phaserjs/

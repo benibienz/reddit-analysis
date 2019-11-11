@@ -1,0 +1,271 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-08-20 08:21:11+00:00,i.redd.it,https://www.reddit.com/r/h3h3productions/comments/4yo0y4/ethan_klien_who_wore_it_better/,False,,h3h3productions,Ethan Klien Who Wore it Better?,https://i.redd.it/vyymnj5hyhgx.png
+1,2016-08-06 16:06:35+00:00,self.Proofreading,https://www.reddit.com/r/Proofreading/comments/4wggdn/no_due_date_need_asap_email_to_attend_a_new_high/,False,"Hey Redditors! I'm writing an incredibly important email and would like it to look as professional as possible. This intro I did not proof read btw. Just sayin'. I'm only in 8th grade, which I guess isn't an excuse, but I went to a horrible school this year proofread the following though:
+Hello Mr. Iberg, I'm David Sommerfield a previously enrolled student speaking on behalf of myself for the moment be. My parents should be able to get involved soon, but are very busy at the moment.
+I am looking to enroll your your high school, for personal academical reasons, overall I've seen your program offers what I will be wanting to do later, and life, and more than anything I would love to take some of the engineering classes (e.g. metal shop, robotics, anything STEM related), and computer science based classes. However, Red Wing schools (the school I attend) does not offer these classes that I intended to peruse I have looked at the classes available to me up until senior year, and the closest thing that I could do was attend word processing classes.
+On top of that I attended the one great thing Red Wing schools had to offer, robotics. Which happened to be started by one of my current best friends who now graduated. Him, and his original founders were the corner stones of robotics and without them to teach there is no teachers/mentors that could teach that extracurricular class. Luckly do to my participation in that activity I received an invitation to the FBI on August 30th to attend some computer science, and forensics STEM related presentations. Following Email is attached. Hopefully this adds to a ""resume,"" of somesort.
+How I plan to get to school is somewhat of a downside, because it requires the bus services attention. Essentially I live in Red Wing, and living here I have my family here, and responsibilities with them. So I can't flat out stay in Lake City. However I have a person that could drive me From Lake City, to Frontenac, and Possibly to Red wing/From Red wing to Frontenac. I'm not sure what time buses come to Frontenac, but I'll have to look into that. Any information regarding that would be appreciated.
+Sorry for contacting you out of Anyone, but I was told to by a close friends parent so I did. I'm really hoping to, and looking forward to attending Lake City schools this upcoming school year. I was hopping this was a low email intake ""season,"" but, it being now August, I'm not too sure on that one. 
+
+
+https://drive.google.com/open?id=1ShEuH_L9TSKlgoR8BEG8pgtk9eFfA5848B91LAGnm0w",Proofreading,[No due date] [Need ASAP] Email to attend a new High School.,https://www.reddit.com/r/Proofreading/comments/4wggdn/no_due_date_need_asap_email_to_attend_a_new_high/
+2,2016-08-06 16:01:05+00:00,self.Proofreading,https://www.reddit.com/r/Proofreading/comments/4wgfjv/asap_email_to_attend_another_high_school/,False,[removed],Proofreading,[ASAP] Email to attend another High School.,https://www.reddit.com/r/Proofreading/comments/4wgfjv/asap_email_to_attend_another_high_school/
+3,2016-06-09 22:59:58+00:00,self.gamemaker,https://www.reddit.com/r/gamemaker/comments/4ndfvo/tutorial_ease_master_pack/,False,"Hey guys, I've been making some ease functions for one of my projects, and I though you guys could use 'em. This is my first time posting here so I don't know what to expect :P. I'm kinda a noob to reddit. If you see how I could make this more efficient, user friendly, or anything along those lines please share.
+
+Script:
+        
+    /// ease(function, x)
+
+    var function,xx,xx2,xxm1;
+    function=argument0
+    xx=argument1
+    xx2=xx*2
+    xxm1=xx-1
+
+       if (xx&lt;=0)
+       return 0
+    if (xx&gt;=1)
+        return 1
+
+    switch (function) {
+
+    case ""linear"":
+        return xx
+        
+    case ""instant"":
+        return 0
+        
+    case ""easeinquad"":
+        return xx*xx
+        
+    case ""easeoutquad"":
+        return -xx*(xx-2)
+        
+    case ""easeinoutquad"":
+        if (xx2&lt;1)
+            return 1/2*xx2*xx2
+        return -1/2*((xx2-1)*(xx2-3)-1)
+        
+    case ""easeincubic"":
+        return xx*xx*xx
+        
+    case ""easeoutcubic"":
+        return ((xxm1)*xxm1*xxm1+1)
+        
+    case ""easeinoutcubic"":
+        if (xx2&lt;1)
+            return 1/2*xx2*xx2*xx2
+        return 1/2*((xx2-2)*(xx2-2)*(xx2-2)+2)
+        
+    case ""easeinquart"":
+        return xx*xx*xx*xx
+        
+    case ""easeoutquart"":
+        return -((xxm1)*xxm1*xxm1*xxm1-1)
+        
+    case ""easeinoutquart"":
+        if (xx2&lt;1)
+            return 1/2*xx2*xx2*xx2*xx2
+        return -1/2*((xx2-2)*(xx2-2)*(xx2-2)*(xx2-2)-2)
+        
+    case ""easeinquint"":
+        return xx*xx*xx*xx*xx
+        
+    case ""easeoutquint"":
+        return ((xxm1)*xxm1*xxm1*xxm1*xxm1+1)
+        
+    case ""easeinoutquint"":
+        if (xx2&lt;1)
+            return 1/2*xx2*xx2*xx2*xx2*xx2
+        return 1/2*((xx2-2)*(xx2-2)*(xx2-2)*(xx2-2)*(xx2-2)+2)
+        
+    case ""easeinsine"":
+        return -cos(xx*(pi/2))+1
+        
+    case ""easeoutsine"":
+        return sin(xx*(pi/2))
+        
+    case ""easeinoutsine"":
+        return -1/2*(cos(pi*xx/1)-1)
+        
+    case ""easeinexpo"":
+        return power(2,10*(xx-1))
+            
+    case ""easeoutexpo"":
+        return -power(2,-10*xx)+1
+            
+    case ""easeinoutexpo"":
+        if (xx2&lt;1)
+            return 1/2*power(2,10*(xx2-1))
+        return 1/2*(-power(2,-10*(xx2-1))+2)
+        
+    case ""easeincirc"":
+        return -(sqrt(1-xx*xx)-1)
+        
+    case ""easeoutcirc"":
+        return sqrt(1-(xxm1)*xxm1)
+        
+    case ""easeinoutcirc"":
+        if (xx2&lt;1)
+            return -1/2*(sqrt(1-xx2*xx2)-1)
+        return 1/2*(sqrt(max(0,1-(xx2-2)*(xx2-2)))+1)
+        
+    case ""easeinelastic"":
+        var p=0.3;
+        var s=p/(2*pi)*arcsin(1);
+        return -(power(2,10*(xx-1))*sin(((xx-1)*1-s)*(2*pi)/p))
+        
+    case ""easeoutelastic"":
+        var p=0.3;
+        var s=p/(2*pi)*arcsin(1);
+        return power(2,-10*xx)*sin((xx*1-s)*(2*pi)/p)+1
+        
+    case ""easeinoutelastic"":
+        var p=0.3*1.5;
+        var s = p/(2*pi)*arcsin(1);
+        if (xx2&lt;1)
+            return -0.5*(power(2,10*(xx2-1))*sin(((xx2-1)*1-s)*(2*pi)/p))
+        return power(2,-10*(xx2-1))*sin(((xx2-1)*1-s)*(2*pi)/p)*0.5+1
+        
+    case ""easeinback"":
+        var s=1.70158;
+        return xx*xx*((s+1)*xx-s)
+        
+    case ""easeoutback"":
+        var s=1.70158;
+        return (xxm1*xxm1*((s+1)*xxm1+s)+1)
+        
+    case ""easeinoutback"":
+        var s=1.70158; 
+        if (xx2&lt;1)
+            return 1/2*(xx2*xx2*(((s*(1.525))+1)*xx2-(s*(1.525))))
+        return 1/2*((xx2-2)*(xx2-2)*(((s*(1.525))+1)*(xx2-2)+(s*(1.525)))+2)
+        
+    case ""easeinbounce"":
+        xx=1-xx
+        if (xx&lt;(1/2.75))
+            return 1-(7.5625*xx*xx)
+        else if (xx&lt;(2/2.75))
+            return 1-(7.5625*(xx-(1.5/2.75))*(xx-(1.5/2.75))+0.75)
+        else if (xx&lt;(2.5/2.75))
+            return 1-(7.5625*(xx-(2.25/2.75))*(xx-(2.25/2.75))+0.9375)
+        else
+            return 1-(7.5625*(xx-(2.625/2.75))*(xx-(2.625/2.75))+0.984375)
+            
+    case ""easeoutbounce"":
+        if (xx&lt;(1/2.75))
+            return (7.5625*xx*xx)
+        else if (xx&lt;(2/2.75))
+            return (7.5625*(xx-(1.5/2.75))*(xx-(1.5/2.75))+0.75)
+        else if (xx&lt;(2.5/2.75))
+            return (7.5625*(xx-(2.25/2.75))*(xx-(2.25/2.75))+0.9375)
+        else
+            return (7.5625*(xx-(2.625/2.75))*(xx-(2.625/2.75))+0.984375)
+        
+    case ""easeinoutbounce"":
+        var ret;
+        if (xx&lt;1/2) {
+            xx*=2
+            xx=1-xx
+            if (xx&lt;(1/2.75))
+                ret=(7.5625*xx*xx)
+            else if (xx &lt; (2/2.75))
+                ret=(7.5625*(xx-(1.5/2.75))*(xx-(1.5/2.75))+0.75)
+            else if (xx &lt; (2.5/2.75))
+                ret=(7.5625*(xx-(2.25/2.75))*(xx-(2.25/2.75))+0.9375)
+            else
+                ret=(7.5625*(xx-(2.625/2.75))*(xx-(2.625/2.75))+0.984375)
+            ret=1-ret
+            ret*=.5
+        } else {
+            xx=xx*2-1
+            if (xx&lt;(1/2.75))
+                ret=(7.5625*xx*xx)
+            else if (xx &lt; (2/2.75))
+                ret=(7.5625*(xx-(1.5/2.75))*(xx-(1.5/2.75))+0.75)
+            else if (xx &lt; (2.5/2.75))
+                ret=(7.5625*(xx-(2.25/2.75))*(xx-(2.25/2.75))+0.9375)
+            else
+                ret=(7.5625*(xx-(2.625/2.75))*(xx-(2.625/2.75))+0.984375)
+            ret*=0.5 
+            ret+=0.5
+        }
+        return ret
+    }
+
+    return xx",gamemaker,[Tutorial] Ease Master pack,https://www.reddit.com/r/gamemaker/comments/4ndfvo/tutorial_ease_master_pack/
+4,2016-02-01 05:02:27+00:00,self.robotics,https://www.reddit.com/r/robotics/comments/43myu8/frc_robotics_help/,False,"We have a robot weighing no more than 120 lbs (before battery and bumpers)
+
+We have a lead screw that advances a load at 7 threads per inch.
+
+We have 20 seconds to reach a rail and pull ourselves up 17""
+
+We have  4 electrical motors from which to choose:
+
+PG71
+BAG (VEX Robotics)
+CIM
+Mini-CIM (VEX Robotics)
+Do we have a combination that will accomplish this task?",robotics,FRC Robotics help.,https://www.reddit.com/r/robotics/comments/43myu8/frc_robotics_help/
+5,2016-01-03 04:38:53+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3z8gn3/urgent_windows_explorer_not_showing/,False,"Hey guys. For the past two days I've been experiencing a very annoying and rather scary problem. I've been infected by a RAT (Remote Administration Trojan) so I unplugged my adapter and launched my antivirus. I thought I had gotten rid of the rat after my antivirus told me it was gone. Just in case I removed any recent files that looked like possible malware or adware which I had some like Sushi-something.  So after I thought I got rid of the rat I restarted my computer. I logged into to my account and my personal settings wouldn't load (e.g. Windows explorer, my desktop, anything to do with Windows explorer like opening folders) and my wireless adapter wouldn't light up (it lights up to signify that it's receiving a signal). I tinker with my adapter for about twenty minuets and it still won't connect I open task manager my pressing ctrl+shift+esc and check out my processes and explorer is running but there's no thing saying at all that it is loading my personal settings ,but then my personal settings load, I continue to use my computer and then it crashes. I restart it and once again my personal settings won't load it has this plain cyan screen.  I post about it using a phone then I get some softwares open on my computer and continue to do my stuff as I have a deadline for my work related stuff. I post and update about it here. I just recently was looking through my task manager processes again to see what all worked and I right clicked on my windows explorer.exe and looked at the properties and I saw this: .http://i.imgur.com/Lwm1cFp.png (please someone save this on there computer as ALL my files are at risk and this is the only evidence I have) which says that some install something has all ""abilities on my computer,"" and I tryed to turn them off but it wouldn't let me. After I posted previously and please don't remove this post mods and if it is removed by me see if you can get it back as there may still be rat on my computer that can remove it. What do I do? Thank you!",techsupport,(URGENT) Windows explorer not showing,https://www.reddit.com/r/techsupport/comments/3z8gn3/urgent_windows_explorer_not_showing/
+6,2016-01-03 01:44:36+00:00,self.Software_Cracking,https://www.reddit.com/r/Software_Cracking/comments/3z7tus/request_world_machine_pro/,False,Hey guys! I would like to find a fairly unpopular software called World Machine. It's a terrain generating software which to my knowledge is way over priced. Anything will help thank you!,Software_Cracking,[Request] World Machine Pro,https://www.reddit.com/r/Software_Cracking/comments/3z7tus/request_world_machine_pro/
+7,2016-01-02 23:42:41+00:00,self.Proofreading,https://www.reddit.com/r/Proofreading/comments/3z7cf8/no_due_date_would_anyone_mind_proofreading_this/,False,"Hey does anyone mind proofreading this for me? https://www.reddit.com/r/ZerbGames/comments/3z7ahz/game_dev_1_what_is_project_mts_and_what_makes_it/ It's a fairly interesting blog about old FPS games and game development. I honestly don't care if you criticize me as I am fairly good at taking it, I really appreciate criticism as long as it's constructive. Thank you! Also, it says that I should do it in EtherPad or google docs but I'm not really that fond of that idea as It may be abused. I'll post a google doc if necessary. Well I did it anyway but if it gets trolled meh :/ https://docs.google.com/document/d/1hVEOnlGAkwx9o7ztOtZ0Vv1UcmBBAArdiZt_CXc1MwQ/edit?usp=sharing",Proofreading,[No Due Date] Would anyone mind proofreading this gamedev blog for me?,https://www.reddit.com/r/Proofreading/comments/3z7cf8/no_due_date_would_anyone_mind_proofreading_this/
+8,2016-01-02 23:38:41+00:00,self.Proofreading,https://www.reddit.com/r/Proofreading/comments/3z7br7/no_due_date_would_anyone_mind_proofreading_this/,False,"Hey does anyone mind proofreading this for me? https://www.reddit.com/r/ZerbGames/comments/3z7ahz/game_dev_1_what_is_project_mts_and_what_makes_it/ It's a fairly interesting blog about old FPS games and game development. I honestly don't care if you criticize me as I am fairly good at taking it, I really appreciate criticism as long as it's constructive. Thank you! Also, it says that I should do it in EtherPad or google docs but I'm not really that fond of that idea as It may be abused. I'll post a google doc if necessary. ",Proofreading,[No Due Date] Would anyone mind proofreading this gamedev blog for me?,https://www.reddit.com/r/Proofreading/comments/3z7br7/no_due_date_would_anyone_mind_proofreading_this/
+9,2016-01-02 23:30:23+00:00,self.ZerbGames,https://www.reddit.com/r/ZerbGames/comments/3z7ahz/game_dev_1_what_is_project_mts_and_what_makes_it/,False,"**Game Dev 1 | What is project MTS and what makes it so great?** December 17, 2015 | David, Sommerfield
+
+What is project MTS?
+ 
+So, Project MTS: what is it? Project MTS is a branch of Project Voxel Wars. Project Voxel Wars is a group or rather community collaboration to explore game ideas and variations. (Which you can read more about [here](http://www.voxelwarsnetwork.org/#!about-us/czte).) Project MTS is also a group collaboration that focuses on trying to solve the obstacle of coming up with good, fun, and overall enjoyable features in games. The idea for MTS much like Voxel Wars comes right from the experience my siblings, friends, and I playing specifically FPS type games. We've always questioned why they didn't add this or that. Well, along with the idea of project Voxel Wars, it was simply because either a. they didn't care b. budgets weren't adequate enough or c. they didn't have the idea. So when I started developing games I realized why these ideas didn't come to mind. Simply I was too ""experienced,"" at making games I had lost my intuition by limiting my thought to what I deemed best fit; what would be easy, or be most efficient to accomplish. When I really should of been thinking ""what's a groundbreaking idea,"" I was thinking ""sounds far too hard to add that."" Sadly, that's what it came to me limiting myself and my thoughts, and from what I've collected a lot of game developers struggle with the same thing.. So what is the idea? Going along with project Voxel Wars it's trying to solve coming up with good, fun, and overall enjoyable features in games. The idea for MTS much like Voxel Wars comes right from the experience my siblings, friends, and I playing specifically FPS type games. We've always questioned why they didn't add this or that. Well, along with the idea of project Voxel Wars, it was simply because either a. they didn't care b. budgets weren't adequate enough or c. they didn't have the idea. So when I started developing games I realized why these ideas didn't come to mind. Simply I was too ""experienced,"" at making games I had lost my intuition by limiting my thought to what I deemed best fit; what would be easy, or be most efficient to accomplish. When I really should of been thinking ""what's a groundbreaking idea,"" I was thinking ""sounds far too hard to add that."" Sadly, that's what it came to me limiting myself and my thoughts, and from what I've collected a lot of game developers struggle with the same thing.
+ 
+ [Image](https://static.wixstatic.com/media/2a23ee_cc5ac793a4ae4c0f8660a092c1c1c8af.jpg/v1/fit/w_354,h_167,q_75,usm_0.50_1.20_0.00,lg_1/2a23ee_cc5ac793a4ae4c0f8660a092c1c1c8af.jpg)
+ 
+ 
+But what was limiting my thoughts and how could I overcome it? I tried to process just what was causing it, but every time it came down to two things 1. Human nature makes us use what we already know and b. That I have a greedy capitalistic mind. Yeah, Don't we all? That was my problem. I wanted money, heck who doesn't. But because of this, I would really limit my creativity. So I rethought, I remodeled, I changed my process. So rather than thinking : ""oooo... Dats going to make me some money!"" I thought instead : ""why should I care if my games sells?"" Well, I dropped it I don't care if my game sells, do I want people to like it? Yes! Do I want money for it? Heck yeah! But am I going to charge people for it no. ""What wait now? You spent so much time on it!"" Yeah, I agree with you there. That's why I devised a new system to go along with this fantastic game, the donation bundle. The donation bundle is where if you donate even the most miniscule amount, you get extra bundles for your game. However, if you donate more than the average then you get extra! As much as I hate the idea of DLC business based models it will work. ""B-b-b-but that's not fair!"" Life isn't fair alright? Just kidding, it will be somewhat fair the idea is that if you donate early you'll get the new additions to the game sooner and maybe a little extra. Not only do you have the opportunity to get the additions later on that the donators get immediately if they donate, but, if you do donate you are going to have a guaranteed receival of SOME of these additions (e.g. New weapons, armors, items, etc.). Now I'm going to say right off the bat or owl, I personally like owls, but let's continue: that this wasn't my idea entirely some people may of already came up with this idea, (props to you by the way, if you did [;) but I discussed this with a friend awhile back whom I'll call Chad (I'll reveal his real name if he asks me to) and he was really the basis for this idea.
+
+So let's make a game based off this idea!
+ 
+Obviously, when you decide that you are going to make a game, you don't just down and it happens. It takes quite a bit of Thinking. You need inspiration, whether that be playing a game and taking things you like into consideration, or sitting Down and chatting with a friend about it. Luckily for me, I have some help with that from the Voxel Wars community and my Cousins Mike and Rallo (again, not real names). So we need MORE, MORE, inspiration there is never enough. Let's look at Some other sources. So since I decided this game is going to be an FPS let's look at some of the greatest (by selling or Rating) FPS games.
+
+What things can we learn from other games?
+ 
+Okay, most people that have been alive for more than 20 years and that don't live under a rock know about Doom, the game That really started it all. It was such an amazing game and debatable today it still is, but what made it so great? So First off, to get this out of the way for the time it was really quite an original and never before seen idea as most games were at the time. But now FPS style games that come out are more than less chewed up pieces of tasteless steak compared to the once juicy and tender Doom. A lot of what made it such a great game was that there was less of a directive there were really no, oh you can't do this, or you have to kill this.  It was immediate actions, and your own decisions. It was a very non-linear game which, while could frustrate some more modern day players is a very appealing feature. The idea of discovery is a great one so let's add that to the list. Another thing to take Doom, a game focused On fast movement that allowed players to strafe past damage, or a game like Unreal, which allowed forms of dodging and Wall-jumping is advanced movement. With the rise of more modern shooters or realistic shooters, this idea of advanced movement was lost in favor of more cover-focused play, it seemed as if FPS shooters became really what they were titled; shooters where you Shoot and not much more.
+ 
+[Image](https://static.wixstatic.com/media/2a23ee_30c20e3535194e40a4046b84bdfdba8a.png/v1/fit/w_643,h_362,usm_0.66_1.00_0.01,lg_1/2a23ee_30c20e3535194e40a4046b84bdfdba8a.png)
+Taken from deus ex 
+
+Now shooters over the decades have become less and less adventurous, like I said with Doom the discovery kind of thing is something to consider. Along with that we need interesting and compelling maps that make you think. For example, in one of my favorite oldie fps games ""Ninja Blade,"" to complete The level you needed to find a secret grenade launcher hidden in one of the walls! If that doesn't make you think, I don't Know what does. So another thing to add to the list, make players think!
+
+So let's look at yet another quite famous and oldy game, Wolfenstein. Oh and yes Again the whole discovery aspect is something to take from it. But another thing aside from that, is a feature that is more than less ignored, which is balance. The best way to keep someone intrigued in a game without making them rage quit or quit altogether because the lack of challenge, you need to balance the estimated amount of skill and challenge along with throwing in some very difficult opponents. A good example of this directly from Wolfenstein is Wolfenstein's armored shotgun troopers, holy crap were they hard! But I really either enjoyed or dreaded coming face to face with them, which made my gameplay experience overall more enjoyable.
+ 
+ [Image](https://static.wixstatic.com/media/2a23ee_4bf2fd412e154a3abb2d6769d61d1bdb.png/v1/fit/w_625,h_866,usm_0.66_1.00_0.01,lg_1/2a23ee_4bf2fd412e154a3abb2d6769d61d1bdb.png)
+Taken from wolfenstein.wikia.com
+
+As we near the end of our list we need to cover some of the basics. You need to give the user input, tell him/her they are doing a good job, or a bad job. But don't go the standard way about it be more creative with it. Instead of being like here have a new gun! Or here's more xp! Make it interesting have it so something actually happens within the game like you get a timed ability or the enemy bursts into guts or something. But what I'm trying to get at is that you need to allow the player to know how they are doing and make it better, a goal, something fun when they do well, or somehow help them out when, they do bad.
+
+Now our list is almost complete, but again we must start and build upon the basics. The game needs to look good, the game needs to feel immersive, some games do a really good job at this, for example, I've gotta give props to Bungie for Destiny, well other than the sh*t story (my opinion, sorry) the game is incredibly immersive and the guns are really smexy.
+
+[Image](https://static.wixstatic.com/media/2a23ee_42f856524c4b4ea3a3783b90f4d89375.jpg/v1/fit/w_671,h_378,q_80,usm_0.66_1.00_0.01/2a23ee_42f856524c4b4ea3a3783b90f4d89375.jpg)
+ 
+Or my attempt of this from my game (can also be found on the project MTS page) 
+ [Image](https://static.wixstatic.com/media/2a23ee_50c6c78e6bb945238615549c744b1b24.png/v1/fit/w_671,h_378,usm_0.66_1.00_0.01/2a23ee_50c6c78e6bb945238615549c744b1b24.png)
+
+-------------------------------------------------------------
+List
+-------------------------------------------------------------
+Alrighty here is our final goal list and this will be changed later on and added to:
+1. Allow the player to have the ability of discovery.
+2. Make them think!
+3. Balance difficulty with skill and throw in some challenges.
+4. Tell them how they are doing in an interesting way.
+5. Make the game immersive.
+ 
+-David Sommerfield, 12/17/15
+
+**This is also on our website** : http://www.voxelwarsnetwork.org/#!Game-Dev-1-What-is-project-MTS-and-what-makes-it-so-great/c7ba/5626c46e0cf25875acb5dc97
+",ZerbGames,Game Dev 1 | What is project MTS and what makes it so great,https://www.reddit.com/r/ZerbGames/comments/3z7ahz/game_dev_1_what_is_project_mts_and_what_makes_it/
+10,2016-01-02 23:28:03+00:00,self.ZerbGames,https://www.reddit.com/r/ZerbGames/comments/3z7a5d/what_is_zerb_games/,False,"What is and who is Zerb Games? Keep in mind that *some* of this information can be found in the side bar and on the site ([about us](http://www.voxelwarsnetwork.org/#!about-us/czte)). But that is only a brief detailing of who we or rather who I am. So Zerb Games is an American-based game studio passionate about gaming development, and the people that make our community. We have released 3 titles to date that are only available on Windows. However, we do plan to release future games on other platforms. Zerb Games is attempting to solve the problems that game development has. So far we have launched two projects : Project Voxel Wars, and Project MTS (make them suffer). Project Voxel Wars attempts to tackle the problem that game developers face with coming up with ideas, but as a trademark of Voxel Wars we always keep the community in mind, this time by allowing them to submit ideas. Project MTS is a branch of project Voxel Wars attempting to once again solve the problem that game developers face when trying to come up with ideas. Project MTS is different from project Voxel Wars because it is attempting to look at what made previous games so great and implementing those ""forgotten ideas."" Project MTS is found in WAY more depth on the [site](http://www.voxelwarsnetwork.org/#!Game-Dev-1-What-is-project-MTS-and-what-makes-it-so-great/c7ba/5626c46e0cf25875acb5dc97). Look forward to future blogs on this sub-reddit.",ZerbGames,What is Zerb Games?,https://www.reddit.com/r/ZerbGames/comments/3z7a5d/what_is_zerb_games/
+11,2016-01-02 06:52:33+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3z44gq/not_loading_personal_settings_in_log_in/,False,"Hey guys! First off I'm typing on a phone which isn't exactly my thing. Alright aside from that my computer has been ratted luckily disconnected from the internet and to my awarness I got rid of it. But to do that I had to unplug my adapter after I got rid of the rat I restarted my computer and plug in the adapter I go on and my internet wouldt connnect so I do some offline stuff waited it out tinkered with it. Wouldn't connect so I restarted my computer log in and it didnt load my personal settings it's a cyan blue screen I press control shift esc. Which launched task manager and I can use cms. I check the processes and so 
+me fishy looking processes are running So I close them look at there locations which aren't any malware things. It lpads my setting s after about 20 mins. Internet won't connect log out in won't load after an hour log out then in won't load check the other profiles which do load the settings. Restart repeat won't load still. What do I do? Thanks.",techsupport,Not loading personal settings in log in,https://www.reddit.com/r/techsupport/comments/3z44gq/not_loading_personal_settings_in_log_in/
+12,2015-10-20 22:36:49+00:00,self.Physics,https://www.reddit.com/r/Physics/comments/3pk0vd/the_fertilization_theory/,False,[removed],Physics,The Fertilization Theory,https://www.reddit.com/r/Physics/comments/3pk0vd/the_fertilization_theory/
+13,2015-10-05 02:10:57+00:00,self.Unity3D,https://www.reddit.com/r/Unity3D/comments/3niwyu/what_programming_language_should_i_use_for_unity/,False,"Hey guys, I'm fairly new to unity and I was wondering what programming language I should use. So far I've been trying to learn C# but I'm really not sure if that's the one to go with  or if I should go with multiple. Any suggestions? Thanks!!!! Also if you could send me to some tutorials that go along with the language that would be useful not necessary though! Thanks again.",Unity3D,What programming language should I use for Unity?,https://www.reddit.com/r/Unity3D/comments/3niwyu/what_programming_language_should_i_use_for_unity/
+14,2015-07-24 03:25:06+00:00,self.minecraftdecorations,https://www.reddit.com/r/minecraftdecorations/comments/3eek83/lamp_design/,,I've been doing this for a while basically I have an Xbox so I can't share a photo but it's an oil lamp. Place a trip wire hook on the wall then a item frame behind then put glowstone in the item frame looks great try it and show me a screenshot. Thanks!,minecraftdecorations,Lamp design.,http://www.reddit.com/r/minecraftdecorations/comments/3eek83/lamp_design/

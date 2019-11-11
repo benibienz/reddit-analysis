@@ -1,0 +1,63 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,Classy,2016-09-24 16:22:09+00:00,d808zdq,1,t3_54aq54,1031,GlobalOffensive
+1,Byali doing what he does best,2016-09-16 20:17:39+00:00,d7ppxs2,1,t3_533vee,203,GlobalOffensive
+2,"I belive my crosshair placement might be of an issue. Never really tried to get better in that. I mean I dont think I could get that high with some crappy xhair placement, but I dont think its very good either. Any recommendations how to get better @ that?",2016-08-28 12:19:45+00:00,d6zvdju,4,t1_d6zv957,336,GlobalOffensive
+3,"Well, ppl in esea/faceit tend to go with me and try to trade the kill if i fail the duel. But that never happens in MM, they just get to scared and run back. Or even worse, they wait 10 seconds, enemy throws smoke and then they rush out.  
+
+As CT that is exacly what I am doing, get in an offspot, rush with strange timming, get a kill, drop a flash/smoke and run back to a safe spot. The problem starts when i get tilted, that makes me lose the idea how to play and i try same thing over and over and I cant seem to notice what im doing wrong.
+
+BTW. Is my ESEA/Faceit elo a good representation of my MM rank? I feel like there is a huge gap between those.",2016-08-28 12:02:06+00:00,d6zv0i3,2,t1_d6zurqu,831,GlobalOffensive
+4,It is set @300,2016-06-22 18:46:28+00:00,d4jqft5,2,t1_d4jm46h,5215,GlobalOffensive
+5,"Delete my config? How would that help?
+",2016-06-22 15:16:29+00:00,d4jg9n2,2,t1_d4jg37i,243,GlobalOffensive
+6,"I have got a question about 3 video options:
+- Multisampling AA Mode
+- FXAA AA
+- Texture filtering mode
+How hard each of those affect the performance, which ones should i keep and which should i ditch?
+",2016-06-22 14:35:20+00:00,d4jehim,1,t3_4paddd,7841,GlobalOffensive
+7,"After validating my CS stopped working at all. It didn't even switch on, had to reinstall it again",2016-06-22 13:53:42+00:00,d4jcu92,2,t1_d4jalwy,3963,GlobalOffensive
+8,"Well it has been like that for more then 6 months, do i doubt that it has something to do with the drivers, but i will surely try that out",2016-06-22 13:47:36+00:00,d4jcm1w,4,t1_d4jcdhp,392,GlobalOffensive
+9,"Unparked my cores and set the power options, didn't help",2016-06-22 13:41:33+00:00,d4jce41,2,t1_d4jc53l,428,GlobalOffensive
+10,I deleted whole folder in steamapps/common,2016-06-22 13:19:13+00:00,d4jblzm,4,t1_d4jbj1u,145,GlobalOffensive
+11,7 Ultimate x64,2016-06-22 13:16:20+00:00,d4jbiil,2,t1_d4jbfys,127,GlobalOffensive
+12,"Well it has turbo to 3.6 and runs Witcher 3 on stable 60fps, with ultra details, I dont think i am experiencing CS fps issues because of my CPU.",2016-06-22 13:15:21+00:00,d4jbhbk,4,t1_d4jbfma,85,GlobalOffensive
+13,Pretty much,2016-06-22 13:11:51+00:00,d4jbd50,4,t1_d4jbbfq,83,GlobalOffensive
+14,Yes,2016-06-22 13:11:30+00:00,d4jbcp0,2,t1_d4jbbgi,60,GlobalOffensive
+15,What is wrong with that?,2016-06-22 13:10:22+00:00,d4jbbbt,2,t1_d4jb86l,165,GlobalOffensive
+16,"That is funny, some people say that -high and -threads is very important to have on, you say something oppisite. How do those functions work?",2016-06-22 13:02:40+00:00,d4jb2jw,2,t1_d4jb0lw,108,GlobalOffensive
+17,"Yeah well I do, I am going to buy 144hz soon, after the exams at my university ends, but with unstable 120fps it is not going to help me a lot.",2016-06-22 12:53:33+00:00,d4jasdu,6,t1_d4jaq24,125,GlobalOffensive
+18,GeForce Game Ready Driver 368.39,2016-06-22 12:52:29+00:00,d4jar60,2,t1_d4jahau,546,GlobalOffensive
+19,"Yep, didn't work",2016-06-22 12:51:44+00:00,d4jaqcs,6,t1_d4jao1i,126,GlobalOffensive
+20,Without that command freq of my screen was set to 59hz. Had to add this launch option to make it go up to 60.,2016-06-22 12:50:25+00:00,d4jaown,4,t1_d4jalis,188,GlobalOffensive
+21,"I tried that aswell, since i have got a bug that doesn't allow me to minimize the game.
+Each time i do that the game just crashes, it makes it really annoying to play faceit/esea because each time i want to start a new match i have to reboot CS.
+All in all, the reinstal didn't work for any of those problems",2016-06-22 12:45:48+00:00,d4jajuz,6,t1_d4jaese,285,GlobalOffensive
+22,"""Been there done that""
+Didn't help ; /",2016-06-22 12:41:04+00:00,d4jaet0,4,t1_d4ja8u6,350,GlobalOffensive
+23,"Vsync is off, multi core is on, my launch options are here: 
+-novid -high -threads 4 -nojoy +cl_forcepreload 1 -nod3d9ex -freq 60
+
+FPS max is set to 300",2016-06-22 12:39:20+00:00,d4jad0t,2,t1_d4jaafb,153,GlobalOffensive
+24,"Do you mean mat_queue_mode 2?
+Just checked that this command has only 2 options:
+mat_que_mode -1
+mat_que_mode 0
+",2016-06-22 12:38:01+00:00,d4jabne,4,t1_d4ja65i,327,GlobalOffensive
+25,"Yes it is working on my GTX, just checked.",2016-06-22 12:36:19+00:00,d4ja9yi,2,t1_d4ja16t,521,GlobalOffensive
+26,I run Win 7 Ultimate 64bit,2016-06-22 12:33:38+00:00,d4ja77s,2,t1_d4ja1w4,319,GlobalOffensive
+27,"Launch options:
+ -novid -high -threads 4 -nojoy +cl_forcepreload 1 -nod3d9ex -freq 60
+
+All background programs are turned off, I only keep Nvidia drivers, MSI gamming app, Killed network menager (utility app that was connected with my network card), keyboard and mouse drivers.
+
+Multi-core rendering? I think yes, but I am not sure, how do i check that?
+
+Edit: Yes I do have multi-core rendering on, I am stupid (It is in the launch options ""-threads 4"")",2016-06-22 12:30:19+00:00,d4ja3wy,2,t1_d4j9zr1,249,GlobalOffensive
+28,"And what is the rank range i can meet there? I mean, at what rank there IS actually a point to start ESEA?
+",2016-06-19 11:49:33+00:00,d4fa67t,2,t1_d4f9ntn,1853,GlobalOffensive
+29,"Yeah, happens to me aswell. I need the minimizing option to play on faceit, switching the game on and off every match is annoying af...",2016-06-04 12:57:37+00:00,d3vo6hm,2,t1_d3vn1wi,3433,GlobalOffensive
+30,"Thanks for the quick answer. I will stick to the Warrior, hopefully i can fully farm it up this time. I think I will be much better then reaper. Brace yourselves, you will hear about me soon!",2016-02-07 18:56:04+00:00,czra3zw,2,t1_czr89wb,3063,TeraOnline
+31,"Starting rank: Legendary eagle master
+
+Finishing rank: Legendary eagle",2015-12-20 10:30:31+00:00,cy5dsci,1,t3_3xeii4,127585,GlobalOffensive

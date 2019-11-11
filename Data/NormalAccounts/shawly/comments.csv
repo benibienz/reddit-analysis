@@ -1,0 +1,1456 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Nice, I'm looking forward to some benchmarks! :)",2016-11-21 14:54:35+00:00,da9jh2j,,t1_da9hx6b,2580.0,hackintosh
+1,"Yeah SLI is one of the other topics many people haven't showed their results yet. Guess you really have to try it out, it would be cool if you could tell us if it works or not, because there are probably other people who'd also like to know if it works.
+
+Glad I could help you, I wish you good luck with getting everything up and running, it'll definitely be an awesome build if you get everything to work smoothly, have fun!",2016-11-21 14:03:47+00:00,da9ho60,,t1_da9gwkk,1520.0,hackintosh
+2,"&gt; Sorry about my lack of clarity on this one. I was more curious about the shutdown/powercycle sequence of the guest without powercycling the host? For example if you have two Windows guests, winGuestA and winGuestB, while keeping the host machine powered on, can you either restart winGuestA without restarting the host or shutdown winGuestA and passthrough to winGuestB without powercycling? I've read people having to do a bit of odd behavior regarding this, but it seemed to be more specific motherboards which were consumer oriented.
+
+Okay, I also didn't get what you meant so I assumed you meant powercycling the host. But I haven't had any problems with restarting the guest multiple times, I also accidentally shut down the Windows guest out of habit so the host was still running for 16 hours, then I started the guest again and I had no sideeffects, so it seems pretty stable.
+
+&gt; My personal fear with this is that it would install other devices which may try to compete with your passthrough devices. 
+
+I didn't have any problems with all the drivers, but you can extract the drivers manually of course, the paravirtualized controller drivers don't even need to be extracted, while installing Windows it's necessary to mount the vmware tools isos to install the pv drivers anyway, else it won't find any disks, everthing else is optional, except the ethernet adapters if you use the paravirtualized adapters.
+
+&gt; Usually passthrough of an onboard isn't recommended from what I've seen but seems like it worked for you.
+
+Yeah it worked and except for the soundcard hiccups everything else worked fine, but I'd also recommend using a PCIe usb controller.
+
+&gt; Yeah the build I've been speccing out has a Supermicro X10DRG-Q as the motherboard with a SC747 chassis. One of the only boards in the world that support 4-way SLI (I don't plan to use that feature hah), it's a dual processor LGA2011-3 board, plus it's a Supermicro board so it's enterprise as hell.
+
+I'd also go for Supermicro, I have one in my homeserver and I'm pretty satisfied with it, I can pass through the onboard SAS controller to my FreeNAS VM which was 100% stable now for over a year with KVM and ESXi aswell.
+Going with Haswell-E or Broadwell-E is also a good idea since normal Haswell Xeons have limitations when it comes to device isolation, even though it works fine with my E3 Xeons now, back when I started with the whole passthrough project at home I had IOMMU grouping problems with KVM and GPU passthrough under ESXi wasn't even possible with my hardware because of said limitations.
+
+&gt; Seriously thanks though. Been hard to come by a lot of information on people doing this and really surprised I haven't seen more of it. Glad to know it's working.
+
+You're welcome. :) I'm also kind of tempted to switch to an LGA-2011-3 board since I'd like to have more expansion capability but I'm a little hesitant because I'm actually still new to OSX/macOS and I'm still at evaluating if I really need it for my daily tasks since everything I do can also be done on Windows, I really wanna use it just because of the sleek UI haha.",2016-11-21 13:24:34+00:00,da9ginv,,t1_da9elqn,5000.0,hackintosh
+3,"Yeah it's fine, nothing wrong with asking questions about this, since this topic hasn't been really talked about a lot.
+
+Powercycling the whole machine is no problem, I've set both vms to autostart and I shut down the whole pc with just pressing the powerbutton on the pc once, since I don't wanna log into the vSphere client for that everytime.
+
+VMware Tools are installed for using the paravirtualized disk controller.
+
+I played DarkSiders 2 once and it ran without problems, but I haven't played for a long time so I can't really confirm that it's stable. I've also been running Unigine Heaven for half an hour which was stable. I don't have a Vive.
+
+I'm using a Samsung EVO 850 as datastore with a 100GB vmdk for each vm.
+
+For the few things I did on macOS the GTX 770 ran fine, I haven't noticed any problems. The only thing that has been bothering me a lot is my USB soundcard, I passed through my onboard USB controller to the Windows VM and I have this problem that the soundcard stops working for half a second every 2-5 minutes which is really damn annoying while talking to people over voicechat or watching videos.
+
+I think this would be solved if I used a PCIe soundcard, but I actually don't want to buy one, maybe a PCIe usb controller could also fix this issue, but there is a high chance that I'd experience the same problem with the usb controller so meh.
+
+IMHO I'd rather get a server grade board for this setup with ECC ram to provide more stability than with consumer boards because I think, I'm not sure, that the cause for hiccups is often related to consumer grade hardware. I also had good results with KVM, there are some good guides for unRAID and if you know what you have to do you can also achieve that with Proxmox which was my favorite until I switched to ESXi.",2016-11-21 09:12:11+00:00,da9brzp,,t1_da8xy2u,26492.0,hackintosh
+4,"I executed the cat commands and /var/lib/vz/images/203/vm-203-disk-1.qcow2 was indeed the right path.
+
+I also now remember that I used mv to flatten the folder hierarchy inside the images directory, don't ask why I did something so unnecessary but I did and if that has overwritten the file because there was another disk with the same name somewhere in these folders, the disk is pretty much gone I guess. 
+
+That would explain why there are no deleted inodes when using lsdel and testdisk only found the folder 203 but there was nothing in it. So I guess this problem is unresolvable, lessions learned. It's a shame about the data on that VM though, but it wasn't really important enough to make backups beforehand so whatever, but thanks for your help!
+
+*Edit:* Yup it's what I expected, there probably was a vm-203-disk-1.raw in the same directory which was indeed my old vm with OpenMediaVault, I guess I've used some really stupid mv command and it has overwritten my qcow2 with that raw disk, because Proxmox can't even start the VM with that disk, it says the disk is not in a qcow2 format. 
+
+That would be a logical explanation why this happened, what I can't figure out is how I even came up with the idea that I want to flatten the directory structure and what parameters I've used with mv to cause such a scenario, BUT I probably was high AF when I did this, which explains the loss of memory and the stupid decision. I've learned two things today, first, don't use mv for this and second, don't smoke weed while doing important stuff.",2016-11-14 17:37:00+00:00,da01a3a,8.0,t1_d9zyszz,3093.0,homelab
+5,"Oh right, yeah I also meant 203 haha, sorry. I used a normal SSD for the Proxmox installation with LVM so my disks were stored in /var/lib/vz/images.
+
+I'm going to try and look with lsdel if there are any deleted files, maybe I did something and it got overridden, could be possible cuz it's a while ago since I've backed up everything.",2016-11-14 16:31:21+00:00,d9zy545,6.0,t1_d9zxuna,376.0,homelab
+6,"I used rsync -rv to copy the whole /var/lib/vz/images folder to an NFS share and used another VM that connects to that share and from there I mounted them. I also mounted the disks directly from the SSD that has Proxmox installed and I converted the disks to vmdk and used them as disks and I definitely can say that the vm-203-disk-1.qcow2 was somehow overridden.
+
+I also ran find and that disk was the only one that was found, I also checked all my other vm disks even though I knew they weren't the right ones, no luck either.
+
+When I get home today I will try and look if the file may have been overridden by the older disk somehow. I'm glad I didn't gave up yet and formatted the Proxmox drive.",2016-11-14 08:25:41+00:00,d9zlfra,2.0,t1_d9za9ep,21247.0,homelab
+7,"I'm currently not at home but I already ran find and it just found the disk that is apparently not the disk of my xUbuntu VM.
+
+LVM seemed ok when I ran lvdisplay, I thought there may have been a snapshot or something but there wasn't.
+
+I didn't run pvereport though.",2016-11-14 08:16:59+00:00,d9zl9rt,2.0,t1_d9yub77,42485.0,homelab
+8,"Uh afaik it always was /var/lib/vz, I've already searched for another disk that has the same id, there is definitely no other directory where disk images were saved.",2016-11-14 08:14:42+00:00,d9zl856,4.0,t1_d9ykm2l,55220.0,homelab
+9,That is exactly what I did..,2016-11-13 16:18:31+00:00,d9yj8dc,2.0,t1_d9yimjs,1017.0,homelab
+10,k bro,2016-11-08 19:14:25+00:00,d9rh6fa,8.0,t1_d9rfq0x,1675.0,hackintosh
+11,"The Windows VM uses the GTX 1070 and the OSX VM uses the GTX 770, it's called VGA passthrough and this way I can use both machines at the same time it's even set up right now, you didn't even read my post at all and you didn't even know what I was talking about god please. You didn't even get why I was quoting myself in the second comment...",2016-11-08 18:24:09+00:00,d9reiq4,6.0,t1_d9rcktv,2193.0,hackintosh
+12,"Because I can use them at the same time?
+
+The ""waste"" of processing power is nothing compared to the waste of time I'd spend rebooting to OSX every time to do something I could also have done with Windows, that said, Virtualization won't impact the performance I need for daily usage and gaming at all.",2016-11-08 17:37:45+00:00,d9rc1r2,4.0,t1_d9r9bw3,3059.0,hackintosh
+13,"Even better! Then I'll definitely get the GTX 1070, thanks!",2016-11-08 14:58:15+00:00,d9r3xet,2.0,t1_d9r0zo6,4344.0,hackintosh
+14,"Huh?
+
+&gt; I've thought I could also get a GTX 1070 for the Windows VM and use the GTX 770 for the Sierra VM.",2016-11-08 14:57:19+00:00,d9r3vwv,2.0,t1_d9r38i5,887.0,hackintosh
+15,Awesome thank you!,2016-11-08 12:33:47+00:00,d9qyrol,2.0,t1_d9qx78k,4288.0,hackintosh
+16,"Soo I've gotten passthrough to work with my Nvidia Geforce GTX 770. Only thing I had to do was add ""hypervisor.cpuid.v0 = FALSE"" to my .vmx file so the Nvidia drivers won't detect that it's a virtual machine.
+
+3DMark 11 and Unigine Heaven seem to be working fine, to my surprise, the virtual machine had a better 3DMark 11 score than my current windows installation on the same physical host which is kinda strange.
+
+* Physical Machine Benchmark: http://www.3dmark.com/3dm11/11719322 
+* Older Physical Benchmark when the system was freshly installed: http://www.3dmark.com/3dm11/8479686
+* Virtual Machine Benchmark: http://www.3dmark.com/3dm11/11719284
+
+So compared to the current state of my system, the virtual machine seems to be even faster, but since I haven't installed Windows freshly it's probably not that trustworthy, but I luckily found an older benchmark which's score was just 200 above the virtualized machines. Of course I can't determine the performance of the system just from 3 benchmarks, but they can give me a rough overview of how fast it probably is. Which is around 3-8% slower than native which is fine I IMHO.
+
+After I've backed up the files on my main SSD I'll use it as datastore and move the VM to it and will pass through a USB controller for my keyboard etc. after that I think I'll use it for a few weeks and see how it goes. If it's stable enough I might stay with this setup. :)
+
+If my older GTX 770 is able to work within a VM now, I think you should just try it with your card if you haven't already, I'm sure it will work.",2016-11-06 21:07:45+00:00,d9omkur,1.0,t3_4pcki2,11842385.0,nvidia
+17,"Yeah that's right, especially for a system that has to run stable like my router. :D",2016-10-25 14:47:02+00:00,d972dxh,6.0,t1_d971ud4,750.0,homelab
+18,"Aight, thanks for your help! I'll go with the Skylake build I think, because I don't really feel well with consumer hardware that unofficially supports features that it isn't supposed to. 
+I just thought it would be nice, but on second thought this might cause a lot of problems.",2016-10-25 14:22:09+00:00,d971axk,4.0,t1_d970j7s,1117.0,homelab
+19,"This dude says ECC works: http://www.overclock.net/t/1495837/ecc-works-on-am1#post_22504407
+
+But if the ASUS board doesn't support IOMMU I'll go with my Skylake build anyway, since I just wanted to use the AMD+that particular Board if they supported ECC + IOMMU which would make it awesome and cheap..",2016-10-25 13:24:59+00:00,d96z230,2.0,t1_d96ydxt,1140.0,homelab
+20,"Oh wow thank you, even though German is my native language I couldn't find such a cable haha, I always found these headset adapters, thanks for helping out!",2016-10-14 07:53:22+00:00,d8rhmlz,4.0,t1_d8qeay7,56928.0,techsupport
+21,"Well, I looked for a Y cable that has one female plug and two male plugs but I couldn't find any on ebay.de or Amazon.de, everytime I look for a Y splitter cable I get the ones with two female and one male connection...",2016-10-13 15:54:11+00:00,d8qdsij,2.0,t1_d8qd31f,866.0,techsupport
+22,"Sadly not, but my TV supports automatic switching to 3D if it recognizes that the content is 3D so I gave up on trying and got myself a Shield TV.",2016-10-05 21:39:34+00:00,d8fls5i,2.0,t1_d8fakwl,13839.0,rasplex
+23,"Yeah I think 5 ports would be enough, since I only need two VLANs, thank you for your help! I think I'll go with this method since it's the cheapest and I don't have to build a new computer, because I have enough random hardware lying around at my home.",2016-10-02 10:04:39+00:00,d8amfvr,,t1_d89wu4w,51132.0,homelab
+24,"Console gaming subreddits always consist of the same kind of people, you always have to be on guard about what you say because they will search for one thing you have in common with the other 500 users that asked a similar question and bash the fuck out of you because you asked, even if your problem is more individual than others. 
+
+That's why I only come here to rant about the PS4 and rather ask in some PS4 forums for a solution to my problems, cuz people in forums are, in most cases, nicer, don't try to act superior and actually try to help you. On Reddit it seems like people are looking for posts like this just to bash them.",2016-10-01 04:08:30+00:00,d8985r9,,t1_d840j26,,PS4
+25,"seems like you have to narrate bee movie now, NX announcement confirmed http://imgur.com/a/awQ9W",2016-10-01 03:39:44+00:00,d897a1g,1.0,t3_54gvxn,458693.0,NintendoNX
+26,"Yeah I've searched for expanders but I couldn't find any with half length, I only found full length expanders which won't fit on the motherboard..",2016-10-01 03:32:00+00:00,d8971ap,4.0,t1_d896zmm,91.0,homelab
+27,"Sorry if I explained it a little confusing, the mainboard has a half length Mini PCIe slot.",2016-10-01 03:21:36+00:00,d896p8u,2.0,t1_d896mnt,135.0,homelab
+28,"People here always assume shit, even if you explain it in every detail, they just won't read it and write a comment based on your title. I also wrote a hate post because I have the exact same problem.
+
+Steam, my Xbox One, hell even my PS3, they have no problems with my 16mbps bandwidth and they always download with the full bandwidth, yet the PS4 didn't, the download even got progressively worse on the remaining 50MB, it just downloaded with 6-9KB/s and the last 8MB took 15 minutes because it even slowed down to just 1KB/s and people still say I should get better internet like you can buy it at your next super market.
+
+",2016-10-01 03:05:23+00:00,d8965v9,,t1_d87ggxe,,PS4
+29,"what a kool kid you are wow, it's even cooler if you tell everyone!",2016-10-01 02:17:06+00:00,d894hn6,,t1_d88v08i,,PS4
+30,Nah I'm going to get a better console.,2016-10-01 02:10:19+00:00,d8949g2,,t1_d88wum0,,PS4
+31,"Yeah I posted this, knowing that all these fanboys get triggered, but I wanted to blow some steam off, since I was so damn pissed, we were so excited about playing Destiny together and then we had to wait 11 hours until it finally finished downloading. I also have Destiny on my Xbox One and the installation was finished within 3-4 hours and people here still tell me I need to get better internet because they didn't even read the post and need to defend their beloved PlayStation.
+
+And I don't really care about downvotes because they don't affect my life in the slightest.",2016-10-01 02:08:07+00:00,d8946sw,,t1_d88ymdt,,PS4
+32,"Riiiiight that's why Steam Xbox and my PS3 and everything in my fucking household downloads with full speed, I'm not the one that's silly you damn troll",2016-09-30 22:19:46+00:00,d88w2b8,4.0,t1_d88vsvx,410.0,PS4
+33,Read my post.,2016-09-30 22:18:08+00:00,d88w02h,2.0,t1_d88uxz7,1635.0,PS4
+34,"Nope, I already tried rest mode and monitored the traffic on my router, nothing changed. And like I said I restarted multiple times, of course all apps get closed if you restart, so no there aren't any open apps.",2016-09-30 22:15:43+00:00,d88vwra,2.0,t1_d88uycy,1474.0,PS4
+35,"Right, because it's normal for DSL to drop down to 1mbps on the ps4 /s",2016-09-30 22:09:20+00:00,d88vo1i,2.0,t1_d88vgmg,325.0,PS4
+36,"The thing is, I actually have bought myself a 24 port unmanaged switch back in March, but since I'm such a lazy s**t it still sits there and is unused for half a year now... That's why I'm a little hesitant to spend 200 bucks on a managed one or 150 on a 16 port managed switch.
+
+So I just looked up for the cheapest managed switch and found this [MikroTik](https://skinflint.co.uk/mikrotik-routerboard-rb260gs-a1147479.html), this would technically be enough to get VLANs right? 
+
+Could I just connect it to my unmanaged switch and my pfSense router to the managed switch and I could use twi VLANs for pfSense and the unmanaged switch would be in the second VLAN?",2016-09-30 08:00:09+00:00,d8825w3,2.0,t1_d87nsjf,27320.0,homelab
+37,"Yeah, pretty stupid I think, but it may not even be possible to implement for the other sources because of reasons maybe.. Dunno, anyways, thanks for your help!",2016-09-30 07:55:09+00:00,d8822nf,,t1_d8821iq,107.0,ps3homebrew
+38,But I have them on my external HDD in the packages folder and still can't press triangle or do you mean that I have to put them into the root of the USB drive and not into the packages folder?,2016-09-30 07:23:18+00:00,d881hss,,t1_d880py9,2280.0,ps3homebrew
+39,"This method doesn't work on Rebug 4.80.1, atleast for me, I pressed triangle on the **Package Manager**, on **Install Package Files** and every option below that and no option shows up at all.. Do I really have to install 60 pkg files manually??",2016-09-29 20:17:40+00:00,d87dfvi,,t1_d1rdopy,,ps3homebrew
+40,"Guess I have to use the one from my PC and try it out, I'd be really happy if this works because it's pretty lame that the PS4 party chat doesn't work on PC and neither does M$ release Skype for PS4, this would make things so much easier... Because I hate not being able to communicate with my Teamspeak friends while playing PS4 with another friend. I mean it works for Xbox, $ony seems to care even less than M$",2016-09-29 12:48:55+00:00,d86tbke,2.0,t1_d86shur,1659.0,PS4
+41,"I just turned down the maximum simultanious transfers to 8 from the previous 10 and now it's running since 5 hours straight, I think this fixed it, maybe 10 files at the same time were too much for the FTP plugin from Webman..",2016-09-26 14:57:29+00:00,d82owoz,2.0,t1_d82oda8,732.0,ps3hacks
+42,So I finally got to setup all my roms and emulators with LaunchBox and I was testing some PSP games with the libretro core and I have to say it's worse than the standalone version. For example the standalone version plays Castlevania Dracula X Chronicles perfectly fine but with the libretro core it's like it's being fast forwarded.. So I'm going with the standalone for now.,2016-09-11 22:50:42+00:00,d7it9ga,,t1_d6lx26g,,emulation
+43,"Hey since my Kindle Fire HDX 7 doesn't support USB OTG to connect my NES/SNES Adapter from Mayflash, I'm thinking about getting a new tablet.
+
+Which tablet would you recommend? It needs to support USB OTG and have a decent batterylife while emulating. How is the Nvidia Shield K1 tablet?",2016-09-08 11:18:02+00:00,d7e1elm,1.0,t3_5183as,277971.0,emulation
+44,"I don't need to exploit my IPMI controller, I just wanna know if someone else here has this problem and if it can be fixed..",2016-08-31 13:36:15+00:00,d73ydfk,2.0,t1_d73wvxu,2566.0,homelab
+45,"I enabled direct connect and it also says it's connected directly, but the interface is just soo slow while downloading even with throttled speed, on full speed it's even worse. IMHO it's even rather slow without downloading anything compared to navigating though the Java GUI and sometimes it just seems to freeze and I have to reload the page to see the actual data.",2016-08-30 14:19:50+00:00,d72lv1u,4.0,t1_d72l5tz,1041.0,homelab
+46,"&gt; JDownloader 2 has been offering an headless installer and an organized config directory for quite a while now. -Djava.awt.headless=true or complex config tweaking isn't even necessary anymore.
+
+I know and I've also said that, but
+
+&gt; Also, you have access to most (if not all) settings in the advanced tab.
+
+that is not the case. Setting up automatic reconnection with the wizard is not possible via MyJDownloader since the settings are not generated, because my headless installed JD didn't have the same settings that my desktop version had since I never set up the automatic reconnection.
+
+And with my 1mbps upload the webinterface is also pretty slow and unresponsive. Having the GUI makes setting up things easier and faster, for me at least and the automated installer also didn't create a service for me , I used the init.d script which was supplied by the OpenMediaVault JD plugin before I switched to this method.
+
+If people just want to use the MyJDownloader website that's fine, like I said, some people prefer other ways of setting things up and I just wanted to share how I did it, since there wasn't any up-to-date guide on setting it up headless with a GUI.",2016-08-30 13:36:21+00:00,d72k5rp,2.0,t1_d72j6jr,1672.0,homelab
+47,"I also gave Xpra a try which also kinda worked, but every time I reconnected I couldn't click anything in the GUI and I didn't find a solution so I used x11vnc with Xvfb.
+
+You can also use x2go or nomachine but I have no experience with these tools so you're on your own with that.
+
+Technically it's also possible to use my init.d script for jdownloader as standalone, you just have to change the value of DAEMON to ""/usr/bin/java"" and the value of DAEMON_ARGS to ""-Djava.awt.headless=true -jar JDownloader.jar"", that way you don't need the jdownloader.sh script. You also have to remove x11vnc from Required-Start at the top.",2016-08-30 12:20:49+00:00,d72hpwm,1.0,t3_50apih,1764.0,homelab
+48,"I just found Xpra which is pretty much screen for X11 and works perfect, I just need to write an init.d script and I'm good to go. :)
+
+**Edit:** Alright Xpra seems to have problems with JD.. When I detach and reattach to my JDownloader instance I can't click anything, only keyboard navigation works, so this is a deal breaker, guess I have to rely on VNC..",2016-08-29 11:07:53+00:00,d71219t,2.0,t1_d711o4g,1157.0,linuxquestions
+49,"I'm searching for some PSP ISO renamer since Google only provides me with nothing but scam I'd hoped you guys had one that works and isn't a virus.
+
+**Edit:** Ok nvm it seems like PSP ISO Renamer isn't a trojan after running it through on virustotal.com..",2016-08-19 18:56:19+00:00,d6oe920,1.0,t3_4xs8y0,391868.0,emulation
+50,"Because according to Oggom, the PPSSPP core isn't up to date. The Desmume core is fine, I will actually use it, I just forgot to update the list. :)",2016-08-17 07:08:14+00:00,d6kuh3j,5.0,t1_d6kkj5a,19077.0,emulation
+51,"Awesome thanks for your help! Regarding Desmume I don't actually have played any game that would require a mic so I don't really need mic support, which means I could try the Desmume core. :)",2016-08-16 14:07:26+00:00,d6jotr7,5.0,t1_d6jmufx,3226.0,emulation
+52,"Maybe try this: https://www.reddit.com/r/emulation/comments/2nhgjp/help_nfs_most_wanted_on_pcsx2/cmed2rg
+
+According to the wiki and the compatibility list this game seems to run fine, so it has something to do with your settings. Dunno what because I haven't used PCSX2 for over 3 years because I played PS2 on my PS3.",2016-08-16 11:16:30+00:00,d6jjola,2.0,t1_d6jc8u4,21980.0,emulation
+53,"Well after asking on /r/emulation and the answers on this post I came to the conclusion to use RetroArch for the consoles that have better cores and for the rest I'll use the standalone versions, this way I have the best experience and RetroArch has support for CRT shaders so I don't have to search for a shader for every single emulator and if it even supports that.",2016-08-16 09:26:58+00:00,d6jhpbx,2.0,t1_d6iet6i,63424.0,emulators
+54,"Yeah I see, I'm going for RetroArch, especially because it supports CRT shaders which is pretty awesome. Here is my new RetroArch core list:
+
+* GB/C: Gambatte
+* GBA: mGBA
+* NES: NEStopia
+* SNES: bsnes-mercury
+* N64: mupen64plus
+* Sega 8/16-bit: Genesis Plus GX
+* 32X: PicoDrive
+* Saturn: beetle-saturn
+* Dreamcast: Reicast
+* PSX: mednafen-psx
+* ScummVM: ScummVM
+
+Standalone emu list since there are either no cores for these systems or they aren't as good as the standalones:
+
+* DS: Desmume (standalone)
+* GC/Wii: Dolphin (standalone)
+* PS2: PCSX2 (standalone)
+* PSP: PPSSPP (standalone)",2016-08-16 09:21:58+00:00,d6jhmbx,2.0,t1_d6itxlx,43706.0,emulators
+55,"Hm well since I use my main rig which uses Windows, I can't use KMS mode.. I'd like to switch to Linux but I already was on Arch a year ago and I had problems with multi-monitor support on GNOME and there was also a problem with Flash Players opening on the wrong monitor, which annoyed the hell out of me, if it wasn't for that I'd gladly switch to Linux and kick Windows to the bucket..
+
+You mentioned mednafen-psx as core for PSX, how does it compare to ePSXe? Compatibility and performance wise I mean. I don't really need any graphic enhancements, I wanna have an as native as possible experience with CRT shaders, so the mednafen-psx core is the way to go, right?
+
+I'd like to handle as many emulators as possible via RetroArch, so do you also know how the PPSSPP, ScummVM and Desmume cores are compared to their standalone versions?
+
+**Edit:** Made a new list for the RetroArch cores based on your list:
+
+* GB/C: Gambatte
+* GBA: mGBA
+* NES: NEStopia
+* SNES: bsnes-mercury
+* N64: mupen64plus
+* Sega 8/16-bit: Genesis Plus GX
+* 32X: PicoDrive
+* Saturn: beetle-saturn
+* Dreamcast: Reicast
+* PSX: mednafen-psx
+* ScummVM: ScummVM
+* DS: Desmume
+* GC/Wii: Dolphin (standalone)
+* PS2: PCSX2 (standalone)
+* PSP: PPSSPP (standalone)",2016-08-16 09:10:00+00:00,d6jheza,3.0,t1_d6idiuu,64170.0,emulation
+56,"Ah well I didn't know that, thanks for correcting me!",2016-08-16 07:59:30+00:00,d6jg4ew,6.0,t1_d6ifkzb,57140.0,emulation
+57,"**TL;DR: Cheapest Nvidia Shield TV (though there can be problems with some games). Second cheapest is a used PC. Third a selfbuilt PC and the most expensive would be a prebuilt PC from MSI or ASUS, maybe Gigabyte if they even got prebuilds.**
+
+The cheapest way or at least the best price per performance is always building a PC yourself, it's pretty easy but takes a few hours the first time, if you wanna do that then I'd recommend getting help from /r/pcmasterrace. For Dolphin I'd recommend at least an Intel i5 as CPU and a GTX 960 (maybe even a GTX950 if you're good enough playing without any additional tweaks) and you have a lot of performance for Dolphin and you can crank up the settings to a good amount so that all games look way better than on the Wii or GC.
+
+BUT many people don't like building it themselves, maybe because of the effort it takes, sometimes because they don't think they can do it and I get that some people just wanna plug in and play which is fine. So you have three other options which are probably almost as cheap as building a PC yourself:
+
+1. The cheapest option in my opinion is currently getting an Nvidia Shield TV for 200 bucks which is said to run awesome with Dolphin. But I can't actually recommend it since I have no experience with running Dolphin on my Shield TV, but many people say most of the games run almost flawlessly, but again **almost**.
+
+2. Look for a used PC, often you can get PCs with third or fourth gen (Ivybridge/Haswell) Intel i5s and some decent CPUs from the last gen like the GTX 770 which I have and it runs all games perfectly fine with high settings. If you're lucky you can find a PC with awesome specs for under 400-500 bucks. But it takes some time to find a good one. Look for Intel i5/i7 3xxx or 4xxx CPUs and Nvidia GTX x70/x80 series, though I wouldn't buy anything below the GTX 670 since they are getting really old and don't come near the performance of todays GPUs.
+
+3. If you don't wanna wait to find a good used PC or try out the Shield TV I'd recommend getting a prebuilt PC for around 600-800 bucks from ASUS or MSI, I can't give you specific model numbers since I'm not actually that fond of prebuilt PCs but again, /r/pcmasterrace can help you, even though it happens that some ignorant doesn't give a damn about what you want and just says things like ""build it yourself"", which you have to ignore, there are always people like that.
+
+FYI: Prices can vary, I've based my prices on Euro, if you're from GB or the US they may vary.",2016-08-15 11:59:01+00:00,d6i6vsg,4.0,t1_d6i68t3,1795.0,emulation
+58,"You probably won't get a cheap one, even the cheapest AiO PCs without dedicated graphics begin at $900 and you definitely need one with dedicated graphics which pushes up the price enormously... Except if you say that $1800 is cheap, then you could get yourself an Apple iMac..
+
+You could get a Zotac ZBOX SN970 NEN or ASUS ROG GR6-R049Z Steam Machine and then mount it to the back of a Monitor, that's waay cheaper than an AiO and is not as big as a full PC, that's the only thing I can think of.",2016-08-15 09:53:10+00:00,d6i4hp9,2.0,t1_d6i4c1v,563.0,emulation
+59,"**TL;DR: Is the list below a good choice of emulators or should I rather use RetroArch for the older systems?** 
+
+So I'm setting up my gaming pc to be able to launch multiple emulators with Steam BigPicture as frontend (via [Ice](https://scottrice.github.io/Ice/)).
+
+Now I'm searching for the best emulators to use and have some questions. Here is a list of the ones I picked:
+
+* GB/GBC: BGB
+* GBA: VBA-M
+* NDS: DeSmuME
+* PSP: PPSSPP
+* NES: NEStopia
+* SNES: snes9x
+* N64: Mupen64plus
+* PSX: ePSXe
+* PS2: PCSX2
+* GC/Wii: Dolphin
+
+So my question is, would you recommend me other emulators or did I pick the right ones. Or would you rather recommend me to use RetroArch instead of the standalone versions of these emulators? At least for the ones that have RetroArch plugins.
+
+What's important for me is, that the emulators have a way to be launched from the commandline and that they can be automatically launched in fullscreen and I really want to have support for shaders so I can use some CRT shaders to at least make it look like I'm using a CRT since I have absolutely no space in my living room for a CRT tv or monitor.
+
+**Edit:** Alright, I've pretty much found the answer, since RetroArch supports shaders for all its cores I'll use it instead of all the standalone emus. But it would be cool if you could recommend me the right cores for every system.",2016-08-15 09:26:16+00:00,d6i41kw,1.0,t3_4xs8y0,12065.0,emulation
+60,"Yeah if everything works out for me, I might get myself some more kits. I mean, you can never have enough mechanical keyboards in your household, lul.",2016-08-13 15:14:54+00:00,d6fxity,12.0,t1_d6ft4ix,9479.0,MechanicalKeyboards
+61,"I really like the infinity board aswell, but since the main purpose of the keyboard is portability, I found the Poker cases to be a little more fitting for my taste.
+
+If it was just for gaming at home I'd probably also go with the infinity one, but at home I don't really want a 60% kb, that's why I donated for the Wooting One Kickstarter to get my hands on one in November, I really hope it's as awesome as it looks on the pictures.",2016-08-13 11:55:56+00:00,d6fsauf,10.0,t1_d6frxac,1260.0,MechanicalKeyboards
+62,"Aight now I get it, sorry :D
+
+I've bought [this kit](http://www.aliexpress.com/snapshot/7994379552.html?orderId=77599553890534) with Cherry switches and ice blue LEDs yesterday because I like the black alu case better. I'm pretty excited now!",2016-08-13 11:27:50+00:00,d6frsxt,8.0,t1_d6fpqaf,8027.0,MechanicalKeyboards
+63,"Ah well, I'm more of a red kinda guy and also only like ANSI, that's why it's so hard for me to find the right keyboard.. Took me ages to get my Ducky Shine 4 with MX-Reds back then, seems like I have special needs or I probably live in the wrong country lol. But thanks!
+
+I've bought a SATAN GH60 Kit yesterday from Aliexpress, cool thing is I don't have to pay import fees because the seller will label the package with 25€ so I don't have to pay more, pretty awesome, if I had known this earlier I'd buy tons of stuff from Aliexpress.",2016-08-13 11:25:03+00:00,d6frr7s,8.0,t1_d6flgfq,21073.0,MechanicalKeyboards
+64,"But I care about backlighting and the kits provide LEDs so I'm kinda confused why you said ""if you don't care about backlighting""..",2016-08-12 22:57:37+00:00,d6f7x2a,6.0,t1_d6f6ien,2081.0,MechanicalKeyboards
+65,"Aight now I get it, your build looks sleek af btw.
+
+I could get my hands on a SATAN GH60 from Aliexpress, with import fees etc. it would cost me around 30 bucks more than the GH60 on falbatech, so I'm kinda tending to get myself the SATAN. 
+
+But I probably can't use your layout with the SATAN, right?",2016-08-12 20:09:47+00:00,d6f0kdu,8.0,t1_d6f05uk,521.0,MechanicalKeyboards
+66,"That's awesome and fits my needs, but that also means I can't use a plate between the PCB and the switches, right?
+
+That's very kind, I'll come back at you if I need help, thank you!",2016-08-12 19:38:33+00:00,d6ez34u,6.0,t1_d6ey4uz,1190.0,MechanicalKeyboards
+67,"&gt; GH60 SATAN, the KC60, the Infinity 60%
+
+I couldn't find any EU vendor for them and Massdrop doesn't drop them currently so I guess I'll have to get an addon board. I've also seen people using LED strips which is also kinda nice. But for now backlighting isn't the most important thing.
+
+",2016-08-12 19:16:21+00:00,d6ey0q5,4.0,t1_d6ew19i,2395.0,MechanicalKeyboards
+68,"Alright that answers my question perfectly, thank you!",2016-08-12 18:04:18+00:00,d6eugel,2.0,t1_d6eq7k0,5158.0,MechanicalKeyboards
+69,"Regarding the second controller, could I use something like an Arduino for that, is there enough space in the case?
+
+Programming shouldn't be too hard for me I'm a Java developer so understanding code isn't really a problem even if it's not Java, thanks for the answers!",2016-08-12 18:03:40+00:00,d6eufby,2.0,t1_d6embhj,10070.0,MechanicalKeyboards
+70,"Yeah would be awesome if they also had the function layer keys on the caps, like the Pok3r does, but I'll keep them bookmarked thanks!",2016-08-12 18:01:17+00:00,d6eub4a,6.0,t1_d6el40r,11563.0,MechanicalKeyboards
+71,Sorry I don't like browns that much..,2016-08-12 17:49:30+00:00,d6etq09,2.0,t1_d6ep0lm,5775.0,mechmarket
+72,"Nah, I love ANSI since my first ANSI kb and I don't want anything else anymore. :D",2016-08-12 17:48:47+00:00,d6etopt,2.0,t1_d6emeky,9064.0,mechmarket
+73,"I've put up a request already for a Pok3r, but haven't received any offers yet. But I'm thinking about putting up a request for the Pok3r keycaps, thanks for the reminder!
+
+I've looked at the Pok3r from Aliexpress, but they don't have backlit versions and I'm quite tempted to assemble my very own GH60, so yeah.
+
+And if I can't find the keycaps I'm looking for, I'll just get myself some blank keycaps, maybe I can find some white ones which have bleeding so the backlight can shine through.",2016-08-12 14:37:28+00:00,d6ekmxg,4.0,t1_d6ek7v8,585.0,MechanicalKeyboards
+74,"They don't have ANSI boards with MX-Reds on Amazon unfortunately..
+
+Alright that makes me more confident thanks for the answers! I'll do some more research regarding backlighting and Pok3r keycaps, thanks!",2016-08-12 14:24:22+00:00,d6ek2s3,2.0,t1_d6ejkmu,727.0,MechanicalKeyboards
+75,"Unfortunately not with MX-Reds, only Clear and Blues.. :(",2016-08-12 14:21:46+00:00,d6ejyr4,2.0,t1_d6ejv9i,141.0,mechmarket
+76,http://www.heatware.com/u/102507,2016-08-11 08:11:33+00:00,d6czo0r,1.0,t3_4jtj7o,7378724.0,mechmarket
+77,Why do people downvote my post? I've looked at the recommended sellers what's your problem?,2016-08-10 11:39:33+00:00,d6bo8ct,1.0,t3_4ww18j,81843.0,MechanicalKeyboards
+78,"They only ship to Singapore :(
+
+**Edit:** Aight, they actually do ship internationally but it costs a little more than buying from mechanicalkeyboards.com so I'd still pay 200€ which is hella lot for a small keyboard...",2016-08-10 11:18:02+00:00,d6bnrsw,2.0,t1_d6blx0w,6115.0,MechanicalKeyboards
+79,Yeah ikr!?,2016-08-10 08:02:34+00:00,d6bk7bb,4.0,t1_d6bj914,2849.0,MechanicalKeyboards
+80,I already bought one 2 months ago from corus-kb.com and never received it so I had to open a Paypal dispute to get my money back.. The support never answered and they didn't even care to answer to the Paypal dispute.,2016-08-10 08:02:26+00:00,d6bk785,2.0,t1_d6bj3rh,3246.0,MechanicalKeyboards
+81,"Yeah no problem bro, I've also looked at these pages but only corus sells them but it seems they are dead, just got my money back from the last order that wasn't shipped from corus..",2016-08-10 07:06:16+00:00,d6bj228,2.0,t1_d6ai4y7,54722.0,MechanicalKeyboards
+82,Yes.,2016-08-09 14:06:11+00:00,d6addp8,2.0,t1_d6acfm0,1519.0,MechanicalKeyboards
+83,No problem bro.,2016-08-09 07:03:01+00:00,d6a3t4q,,t1_d69nq6h,29409.0,AndroidTV
+84,"Apparently there is a way, not tried it yet but it seems promising: http://forum.xda-developers.com/shield-tv/themes-apps/alternate-launcher-root-marshmallow-t3359076",2016-08-08 16:25:22+00:00,d695y7c,4.0,t1_d693pe4,3038.0,ShieldAndroidTV
+85,"Not really what I was looking for. I want a launcher that I can set as default launcher, because HALauncher can't set itself as default launcher on Android 6.0 for whatever reason..",2016-08-08 15:14:37+00:00,d692udb,2.0,t1_d68zpc2,4891.0,ShieldAndroidTV
+86,That's actually pretty cool!,2016-08-08 15:12:11+00:00,d692qmt,2.0,t1_d68z53k,5741.0,ShieldAndroidTV
+87,"So this works kinda good, problem is that my MCE remote has some keys that have the same Linux key code but use modifiers like Ctrl and Shift, do I have to map those via Key Character Map Files??",2016-08-08 14:59:08+00:00,d69278d,,t1_d5ztjfk,,AndroidTV
+88,"So this works kinda good, problem is that my MCE remote has some keys that have the same Linux key code but use modifiers like Ctrl and Shift, do I have to map those via Key Mapping Files??",2016-08-08 14:58:54+00:00,d6926ux,,t1_d5ztjfk,,AndroidTV
+89,"Tincore isn't available for the Shield, atleast not without sideloading and the keymap redefiner hasn't been developed further since 2014 and crashes when opened on the Shield, so the only way for me is to root the Shield.",2016-08-08 09:50:50+00:00,d68u1gr,,t1_d5ydb99,,AndroidTV
+90,"This app can't remap a certain device, I want to remap my USB remote which gets identified as keyboard and mouse, so if I remap any keys, my external keyboard will also be remapped which isn't what I want. The only feature this app has, is a device ID filter, but I've never seen a more stupid logic behind this feature, because it ignores every device below the ID I set and my USB remote has the ID 2 and my keyboard has the ID 5, so I can't really filter anything. Uninstalled and refunded my money.",2016-08-08 09:45:53+00:00,d68tyj3,,t1_d60vg6v,,AndroidTV
+91,"Doesn't work, now it also forces me to relogin on my Shield TV, Tablet and other Android devices...
+
+My phone also doesn't get listed in the PlayStore anymore, why??",2016-08-08 09:30:48+00:00,d68tpk6,,t1_d5ztjz3,,AndroidQuestions
+92,"Well, you should open a Paypal dispute because I doubt you will ever get that Pok3r, at least take your money back.",2016-08-04 08:15:47+00:00,d63o4jl,2.0,t1_d62wrrl,45116.0,MechanicalKeyboards
+93,Awesome thank you!,2016-08-01 17:23:08+00:00,d5ztwy8,4.0,t1_d5ztjfk,476.0,AndroidTV
+94,There is no way without having to pay import fees since there is not a single EU vendor for the Poker 3..,2016-08-01 16:48:43+00:00,d5zsafa,2.0,t1_d5zrduj,1165.0,MechanicalKeyboards
+95,"Yeah I wish they had some Poker 3 with ANSI layout and MX-Red switches on Amazon, but they don't, so there is no way for me to get my hands on one without paying import fees..",2016-08-01 14:58:42+00:00,d5znexd,2.0,t1_d5znait,175.0,MechanicalKeyboards
+96,"\^this
+
+Programming with an ANSI keyboard is way more comfortable than with shitty ISO keyboards.",2016-08-01 14:51:13+00:00,d5zn3ma,7.0,t1_d5zmqpu,505.0,MechanicalKeyboards
+97,"This is definitely the best way and the Shield is even rootable without any additional hardware, I'm thinking about doing it this way.
+
+Only thing I need is to figure out which button has which key number hmm..",2016-08-01 14:23:40+00:00,d5zlxvj,2.0,t1_d5ynf2c,67952.0,AndroidTV
+98,Well they don't have the Poker 3 with ANSI layout and red switches on Amazon.de so it's no alternative for me..,2016-08-01 13:35:52+00:00,d5zk3ak,2.0,t1_d5zizpm,1944.0,MechanicalKeyboards
+99,They don't have the white ANSI Poker 3 with MX-Reds like they have on their homepage.. They don't even have a black ANSI with MX-Reds..,2016-08-01 13:33:13+00:00,d5zjzvv,4.0,t1_d5zizep,1800.0,MechanicalKeyboards
+100,Me too and Corus is the only vendor that delivers from the EU and I definitely want a Poker 3 but I don't want to pay import fees.,2016-08-01 12:58:10+00:00,d5zitqp,2.0,t1_d5zipi3,230.0,MechanicalKeyboards
+101,Yeah I will follow through but Paypal needs to wait til the 8th of August until they will actually do something which is still a long time because that doesn't mean that I will get my money back on the 8th.. Which is what's making me really mad.,2016-08-01 12:56:46+00:00,d5zis5i,2.0,t1_d5zicgi,883.0,MechanicalKeyboards
+102,"I have the exact same problem on my Nvidia Shield TV, my PMS is hosted on my Linux Server which also serves the files, the harddrives are definitely not spinning down, so how can I fix this issue? I looked into the debug logs but there was nothing about the lost connection it just showed that my Shield TV logged in again, nothing more..",2016-07-31 12:21:35+00:00,d5y8jbi,1.0,t3_44e3ay,15244382.0,PleX
+103,"Oh I always thought that it casts ""through"" the phone to the casting device..
+
+So which casting apps are good? I know I can use any media player that supports casting, but I don't want to open the stream first and then choose the casting device.
+
+I'd like to just open the mp4 stream, then it asks me which player I want and then I can choose a casting app like LocalCast which then directly proceeds to cast to my shield, is that possible with any app?",2016-07-25 11:48:42+00:00,d5puso2,4.0,t1_d5pu0gx,2127.0,ShieldAndroidTV
+104,That is not what I am looking for.,2016-07-25 11:14:08+00:00,d5pu14w,4.0,t1_d5ptdv3,1962.0,ShieldAndroidTV
+105,"Well, because when I cast it shows a notification on my phone, what happens if I turn off my phone? It seems logical to me, that the cast stops or does the stream continue?
+
+I don't want Kodi because I'd use it just for the single purpose of opening streams, for everything else I use Plex. It just doesn't give a good user experience using Kodi as a Player for streams when there is no need for Kodi, since every player can stream mp4 urls, I just need an app that opens the player with that particular url, not a fully fledged media center.",2016-07-25 10:29:54+00:00,d5pt60j,2.0,t1_d5psyy3,669.0,ShieldAndroidTV
+106,"Sorry for describing it so complicated, here is what I meant:
+
+    Open Stream URL (example Streamcloud) &gt; Android asks which player it should use &gt; I choose Play on Kodi via Yatse &gt; Yatse does some magic and sends the URL to Kodi
+
+That's what I want for my Shield.",2016-07-25 10:23:19+00:00,d5pt1vp,2.0,t1_d5pskr9,1636.0,ShieldAndroidTV
+107,( ͡° ͜ʖ ͡°),2016-07-22 15:22:00+00:00,d5mfdnk,,t1_d5meuup,704.0,PleX
+108,"Alright, you convinced me to get a Shield TV. After rethinking I wasn't sure if a FireTV's interface is smooth enough and I'm actually too lazy to try it out so I've just ordered the Shield TV.
+
+I just hope Amazon will bring the official Instant Video app for the Shield soon, I don't like going with these workaround apps, that's why don't want OpenPHT or similar things like OpenELEC and Kodi anymore, I just want it simple. I'm tired of all my geeky stuff that only works partially or with workarounds..",2016-07-22 14:47:45+00:00,d5mdvd6,,t1_d5i8cca,,PleX
+109,"    curl -I https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.14.tar.xz
+    curl: (7) Failed to connect to www.kernel.org port 443: Connection refused
+
+I fixed the problem. I had a rule in my PREROUTING tables which redirected all traffic on port 443 to port 8006.",2016-07-21 08:03:25+00:00,d5kpsu2,7.0,t1_d5jur22,49804.0,homelab
+110,"Yeah I also thought that and reinstallied it with apt-get install --reinstall ca-certificates but it also didn't help.
+
+**Edit:** Oh god I fixed it, I had this rule in my PREROUTING tables:
+
+    DNAT       tcp  --  anywhere             anywhere             tcp dpt:https to::8006
+
+I set this route up so I can access the proxmox interface without specifying a port, after deleting this rule it worked.. Damn...",2016-07-21 07:50:45+00:00,d5kpkca,2.0,t1_d5jxb9j,45826.0,homelab
+111,"Already tried that, doesn't help and like I said, I don't have this problem on the host, it's really strange..",2016-07-21 07:49:50+00:00,d5kpjpa,5.0,t1_d5jxcdm,45733.0,homelab
+112,"Doesn't work.
+
+    wget -4 https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.14.tar.xz
+    --2016-07-20 17:15:59--  https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.14.tar.xz
+    Resolving www.kernel.org (www.kernel.org)... 149.20.4.69, 199.204.44.194, 198.145.20.140
+    Connecting to www.kernel.org (www.kernel.org)|149.20.4.69|:443... failed: Connection refused.
+    Connecting to www.kernel.org (www.kernel.org)|199.204.44.194|:443... failed: Connection refused.
+    Connecting to www.kernel.org (www.kernel.org)|198.145.20.140|:443... failed: Connection timed out.
+",2016-07-20 15:15:15+00:00,d5jmhza,5.0,t1_d5jj6fa,4880.0,homelab
+113,"I just used the same command on my host and saw, that the host directly connects to the IPv6 address of the server, maybe that gives some hint?
+
+I'm not sure if it's a firewall problem, since downloading via HTTP works fine. This is the output of ufw status:
+
+    ufw status verbose
+    Status: active
+    Logging: on (low)
+    Default: deny (incoming), allow (outgoing)
+    New profiles: skip
+    
+    To                         Action      From
+    --                         ------      ----
+    22/tcp (OpenSSH)           ALLOW IN    Anywhere
+    8006/tcp                   ALLOW IN    10.2.0.0/24
+    8006/tcp                   ALLOW IN    10.3.0.0/24
+    8006/tcp                   ALLOW IN    192.168.0.0/24
+    53                         ALLOW IN    10.2.0.0/24
+    22/tcp (OpenSSH (v6))      ALLOW IN    Anywhere (v6)
+",2016-07-20 11:33:39+00:00,d5jf4k7,3.0,t1_d5jdnd2,4757.0,homelab
+114,"No problem:
+
+    nginx@speed:~$ wget https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.14.tar.xz
+    --2016-07-20 12:11:17--  https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.14.tar.xz
+    Resolving www.kernel.org (www.kernel.org)... 199.204.44.194, 198.145.20.140, 149.20.4.69, ...
+    Connecting to www.kernel.org (www.kernel.org)|199.204.44.194|:443... failed: Connection refused.
+    Connecting to www.kernel.org (www.kernel.org)|198.145.20.140|:443... failed: Connection timed out.
+    Connecting to www.kernel.org (www.kernel.org)|149.20.4.69|:443... failed: Connection refused.
+    Connecting to www.kernel.org (www.kernel.org)|2620:3:c000:a:0:1991:8:25|:443... failed: Network is unreachable.
+    Connecting to www.kernel.org (www.kernel.org)|2001:4f8:1:10:0:1991:8:25|:443... failed: Network is unreachable.
+",2016-07-20 10:14:22+00:00,d5jdnd2,2.0,t1_d5jc4sk,5489.0,homelab
+115,"Already did that and got no answer, that's why I posted it here...",2016-07-20 07:08:02+00:00,d5jacp4,2.0,t1_d5ipig6,34674.0,rasplex
+116,"The shields hardware is overkill for just playing media and I don't plan on playing games on it, so I'm not willing to spend 250€ on such a device..",2016-07-19 08:44:34+00:00,d5hxfjg,2.0,t1_d5gvjrx,62585.0,PleX
+117,"That's really helpful, thanks!",2016-07-18 10:08:10+00:00,d5gn3dh,2.0,t1_d5gkspq,8318.0,PleX
+118,"Oh that's good to know thanks! I wish my Sony TV was a little faster, then I could use the Plex app directly from my TV since I find it pretty neat that it recognizes 3D movies automatically and my TV switches to 3D mode. But it really isn't smooth and snappy and the 3D recognition doesn't seem to work that good, sadly..
+
+Would be cool if I could turn on 3D mode via HDMI CEC for a seamless experience, then maybe a Pi3 would be the right device for me.
+
+But I'll definitely look into OpenPHT! Would also be cool if there was an official Amazon Instant Video channel for Plex. That's why I consider getting myself a FireTV so I'd have one device for playing all my media.",2016-07-18 09:47:03+00:00,d5gmqqo,4.0,t1_d5glx6u,3067.0,PleX
+119,"Back in the day I've given my dad a RPi with Rasplex but it was pretty glitchy so we've given up on it.
+
+How does OpenPHT differ from the closed PHT?",2016-07-18 08:48:05+00:00,d5glsn9,2.0,t1_d5gl71l,2133.0,PleX
+120,Indeed!,2016-06-10 10:03:51+00:00,d43ggds,,t1_d3x1hcw,,pcmasterrace
+121,"I wasn't sure about those temporary credit cards, so I asked one of my relatives to use his credit card and gave him the money. So it's fine now, I'm really excited about my Wooting One now. :)",2016-06-05 11:53:11+00:00,d3wqklb,3.0,t1_d3wnp5g,11324.0,pcmasterrace
+122,"I wanted to support your Kickstarter to get a Wooting One but since I don't have a credit card and Kickstarter doesn't support Paypal, I can't..
+
+SO when will you sell the Wooting via retailers so I can buy one?",2016-06-04 14:48:32+00:00,d3vr28x,1.0,t3_47oqyk,8563011.0,pcmasterrace
+123,"Yep, I only have a few FLACs on my server but that are only Rock or Metal albums and most of the times I listen to Chillstep playlists on Spotify or listen to Rap artists on YouTube, sometimes Soundcloud. 
+
+For short, the majority of the tracks I listen to, have a maximum bitrate of 128kbps since I don't have Spotify premium.
+
+**Edit:** Yesterday I got the Sennheiser HD650 which were recommended to me by some users of the hifi-forum, but the bass wasn't even comparable to my old X1, even when I turned the bass boost on. And they were uncomfortable as hell, it seems they were made for people with tiny heads.. I'm currently looking at the AKG K712 but someone said the bass was comparable to the Sennheiser headphones so, yeah..",2016-06-01 16:29:20+00:00,d3rw6i5,3.0,t1_d3rs0nk,5599.0,headphones
+124," * **Budget** - 300€ flexible
+ * **Source** - Fiio E10K Olypmus 2 USB DAC connected to my PC
+ * **Requirements for Isolation** - Doesn't matter since I use them at home
+ * **Will you be using these Headphones in Public?** - Nope, just at home
+ * **Preferred Type of Headphone** - Full-sized over-ear headphones
+ * **Preferred tonal balance** - Since I watch a lot of Movies and play Games but also listen to Music I want something with a good bass, like my old headphones
+ * **Past headphones** - Philips Fidelio X1, I don't like them anymore because they got greasy after 3 years and there are no replacement earpads so I also don't want the X2
+ * **Preferred Music** - Rock, Metal, Rap, Drum'n'Bass and multiple other Electronic genres, mostly over YouTube and Spotify, but I don't hear music that often
+ * **What would you like to improve on from your set-up** - I just want headphones with replacable earpads and a good bass, so I don't have to buy new ones every 2 years
+ * **Location** - Germany",2016-06-01 11:40:08+00:00,d3rlfx5,1.0,t3_4m0p6q,2107.0,headphones
+125," * **Budget** - ~300€ flexible.
+ * **Source** - a Fiio E10K Olympus 2 USB DAC connected to my PC.
+ * **Requirements for Isolation** - No Isolation, I use them at home. (they **have to** be open)
+ * **Will you be using these Headphones in Public?** - No just at home with my PC.
+ * **Preferred Type of Headphone** - Over-Ear.
+ * **Preferred tonal balance** - I like bass, I want similar headphones to my old X1.
+ * **Past headphones** - Philips Fidelio X1, they got greasy after three years now and there aren't any replacement earpads sadly, else I'd keep them.
+ * **Preferred Music** - Rock, Metal, Drum 'n' Bass, Trap and Rap
+ * **What would you like to improve on from your set-up** - I want good headphones with replacable earpads so I don't have to buy new ones every two years, just because the old ones get greasy.
+ * **Location** - Germany
+
+On another forum people recommended **Beyerdynamic DT880, AKG K712, Sennheiser HD600/650 and the Hifiman HE-400**.
+
+So I got myself the **Sennheiser HD650** but the bass was awful, even with the Bass Boost of my USB DAC, they sounded so empty. And worst thing was that the HD650 are so uncomfortable, after one hour of wearing them I got a headache because they sit so damn tight, so I returned them. ",2016-06-01 10:53:15+00:00,d3rkfg0,1.0,t3_4luojs,85700.0,headphones
+126,"Well, but you don't just go without the chandelier, just because the sun is *enough for a while*..",2016-05-30 17:41:47+00:00,d3pcwi7,5.0,t1_d3pcbvv,895.0,pcmasterrace
+127,"Buying a $300 case which was made for big rads and then just stick with air cooling is a little bit of nonsense, don't you think?
+
+I mean he got that huge side panel but there is nothing to show off. I mean, yeah not everyone can afford water cooling, but if you can afford a $300 case + a GTX 1080, then you should also have enough to build a water cooled system.",2016-05-30 08:57:53+00:00,d3oz4eh,3.0,t1_d3ougt6,13725.0,pcmasterrace
+128,"But if there are no moving parts, it should at least be 95% silent, right?
+
+The Cape Cora HF rads have to be mounted outside of the case, so the fans inside the case can't really push any air through them and since they don't have any mounting holes for fans, I can't mount any, but that's the point of passive rads.
+
+But having a desk fan in front of my case for the few hot days I have here is ok for me. It's temporary until I find a new apartment anyway.",2016-05-10 13:51:05+00:00,d2zwfv3,6.0,t1_d2ztsrl,4846.0,pcmasterrace
+129,"Well the thing is, my Noctua fans are running at 800rpm (I also have Noctua mounted to my GPU), my 5400rpm drives (2.5"") are decoupled and my case is fully sound insulated with 16mm mats and I can **still** hear the noise coming from my PC. 
+
+I mean it sure is quieter than my fridge but it just bothers me so much because I can't figure out what causes the noise. 
+
+So I hoped that if remove all the moving parts, decouple and insulate the pump inside the case, that I finally won't hear my PC anymore. That includes replacing the HDDs with SSDs and replace my PSU with a passive one.",2016-05-10 12:22:01+00:00,d2ztka9,4.0,t1_d2zt547,950.0,pcmasterrace
+130,"I'm sorry for being too unspecific, I meant water cooling with a passive  radiator (e.g. Cape Cora HF).",2016-05-10 12:04:05+00:00,d2zt38y,2.0,t1_d2zrww8,3135.0,pcmasterrace
+131,"I never said there is a 1080 Ti.
+
+I'm sorry for being too unspecific, I meant water cooling with a passive  radiator (e.g. Cape Cora HF).",2016-05-10 12:03:52+00:00,d2zt32e,2.0,t1_d2zsisl,1415.0,pcmasterrace
+132,"Yeah we got around 2 weeks in total where it's really hot, on the other 60 days in summer the max is about 25-30°C which should be okay without the desk fan. 
+
+I'm planning to move out anyways, so I think it's okay to put the fan in front if it gets really hot, for the time I still live in my current apartment.",2016-05-10 09:32:44+00:00,d2zq7l4,2.0,t1_d2zq5mn,213.0,pcmasterrace
+133,"Yeah I thought about using PIA and go with some provider that accepts Bitcoin like UsenetBucket.
+
+I'm just not sure which service I should use for exchanging Bitcoins..",2016-05-09 15:45:51+00:00,d2yozmz,4.0,t1_d2ynwnd,1545.0,usenet
+134,Oh okay thanks for the info!,2016-05-09 10:11:03+00:00,d2yfdyl,2.0,t1_d2yf8mz,596.0,usenet
+135,"I want to move, but finding an affordable apartment in my country with a high bandwith connection is pretty hard. Since most of them start at 1000€ (~$1150) for rent which is almost half of my net salary.
+
+For now 16mbit has to do for me, atleast until I find a cheap apartment or a new job in a town with lower rent.",2016-05-09 08:15:26+00:00,d2ydnzt,6.0,t1_d2yd837,1662.0,usenet
+136,That hurts :'(,2016-05-09 07:41:32+00:00,d2yd4ff,4.0,t1_d2yct7u,1103.0,usenet
+137,"That's true but it's such a hassle to convert money to Bitcoin and I can't use monthly subscriptions via Bitcoin (or can I?), so I pretty much need to fill up my Bitcoin wallet and manually pay.. I'm lazy I know...",2016-05-09 07:31:41+00:00,d2ycyh3,2.0,t1_d2y7olt,13619.0,usenet
+138,"Well, the two copper wires in my house don't provide more than 16mbit so 50mbit is all I need, but thanks for the info!",2016-05-09 07:18:59+00:00,d2ycqly,2.0,t1_d2yc0ug,2301.0,usenet
+139,"I know, but there are times where I need to use torrent and for that I need a VPN.",2016-05-09 07:17:40+00:00,d2ycpqt,2.0,t1_d2y1kbi,23455.0,usenet
+140,"I know, but there are times where I need to use torrent and for that I need a VPN.",2016-05-09 07:17:23+00:00,d2ycpkq,2.0,t1_d2xxrru,30280.0,usenet
+141,You're welcome.,2016-04-13 16:38:26+00:00,d21c2go,3.0,t1_d21b169,1288.0,Steam
+142,"No worries, I know, I just wanted to mention it. :)",2016-04-13 14:31:57+00:00,d2167uk,5.0,t1_d215t1k,570.0,Steam
+143,"Well, since this is about sorting and you can also ""sort"" things into categories, it might also be interesting to give people a hint on how to effectively and easily categorize their games.
+
+Someone even said it would be cool if you could sort your games by controller compatibility, which is (kind of) possible with Depressurizer. That's why I think it is relevant. I also didn't post for karma, just to show people there is something that also fits into this topic, kind of.",2016-04-13 14:04:35+00:00,d2152ea,3.0,t1_d21127e,7445.0,Steam
+144,"I never renamed my games yet, but, try to move all of the files in your Steam folder **except** SteamApps and Steam.exe into another folder outside of your Steam directory (as backup) and then start Steam.exe.
+
+It'll download all files it needs again and your settings will be reset. That might help, if it doesn't then Steam has probably synced all of the names to the could and you pretty much have to use SteamRoller again and rename them manually.",2016-04-13 10:41:50+00:00,d20zfof,1.0,t3_4eitc8,40600.0,Steam
+145,"Take a look at [Depressurizer](https://github.com/rallion/depressurizer), I put all controller supported games into a category with it. :)
+
+It's not actually *sorting*, but at least you know which games have controller support without having to go into BigPicture mode.",2016-04-13 09:53:10+00:00,d20ynbt,,t1_d0eax3c,,Steam
+146,"[Depressurizer](https://github.com/rallion/depressurizer) with that you can also categorize all your games automatically.
+
+I for example sorted every game by user rating and I've hidden every game below a rating of 50%, then I categorized every game to it's main genre and I also created categories for Multiplayer, Co-Op, F2P and Controller Support, which pretty much looks [like this](http://imgur.com/kCQVDGi) now. ",2016-04-13 09:52:18+00:00,d20ymun,1.0,t3_476dj8,4310630.0,Steam
+147,"You can go to Settings &gt; Downloads and then tick ""Allow downloads during gameplay"". Then you don't have to edit the properties of every single game. For multiplayer games I set the property to never allow background downloads though.",2016-04-13 09:50:43+00:00,d20ym07,2.0,t1_d20wxuz,6537.0,Steam
+148,"Dang okay, then it's really not worth it... \*sigh\*",2016-04-12 12:50:34+00:00,d1zpu7l,6.0,t1_d1zpnty,357.0,GlobalOffensive
+149,"That might be true, but except from the cost of CS:GO keys there are pretty much no other expenses, since my server runs 24/7 anyway, so why not?
+
+I also don't need to pay for Sandboxie, since I want to run everything under Linux and for Linux there is Arkose which is free, ezpz.",2016-04-12 11:05:52+00:00,d1znan9,2.0,t1_d1zn5vx,424.0,GlobalOffensive
+150,"Oh well, I paid 30€ for 20 mats to completely cover the whole surface inside my Obsidian 750D, I thought the price was reasonable.
+
+",2016-04-10 11:04:41+00:00,d1x5txo,6.0,t1_d1x4nms,5052.0,pcmasterrace
+151,"I'll probably go with [these](http://www.akustik-maxx.com/Schallabsorber/PC-Daemmsets/Gehaeusedaemmung-MaXX2/Schalldaemm-Set-MaXX2-40::88.html) again. There is no real specification on what type of material they use, but I've used them in my current case and in my server and they definitely are pretty decent. But I don't think I should tape them over the current insulation material since they already have 16mm thickness, they are also adhesive already and I don't think it'll stick good to the material.
+
+BUT I'm still more tempted to buy the NZXT H440 anyway, I just like the matte finish and the shroud. :)",2016-04-10 09:32:30+00:00,d1x4jo4,4.0,t1_d1x4e5p,654.0,pcmasterrace
+152,"They are indeed pretty nice, I'd have to rip out all the sound insulation material and replace it with mine, but that's not that much of a big deal, thanks!",2016-04-10 09:16:05+00:00,d1x4be7,2.0,t1_d1x3zst,1346.0,pcmasterrace
+153,"Indeed and the build quality also looks so damn good on pictures.. I'm just not sure if I should go with a Evolv ITX, µATX or ATX or even an Enthoo Primo.
+
+Even though my fully sound-insulated Corsair Obsidian 750D is in a perfect state, there is actually no need for me to get a new case, but damn.",2016-04-09 18:31:21+00:00,d1we70a,4.0,t1_d1wczmr,1920.0,pcmasterrace
+154,I'm also thinking about getting one mmmhh..,2016-04-09 16:05:03+00:00,d1w8sbx,2.0,t1_d1w8cbv,770.0,pcmasterrace
+155,"Uh no it wasn't, Halo Online wasn't developed by Bungie nor was it published by Microsoft. And since they didn't have Microsoft consent, they only could release it in Russia, since it was pretty much a Copyright infringement.",2016-04-09 09:19:06+00:00,d1vzyee,5.0,t1_d1v4apf,59047.0,pcmasterrace
+156,If you had ever played with a XIM you'd know it isn't.,2016-04-09 09:15:44+00:00,d1vzwrr,8.0,t1_d1vobn9,29542.0,pcmasterrace
+157,"Yup, a friend of mine also worked part time as a tech support for an ISP and he also said it's an awful job..
+
+They also asked me in my company to work in the level 2 support department, where we support the level 1 department which serves customers. But I already did level 2 support for a customer some time ago and it was so annoying, I can imagine how level 1 supporters have to suffer..
+
+One guy even raged about my support ticket because I explained him how to enable Javascript within IE, but he already knew how and felt insulted because I explained it in detail.. I was glad I was on vacation back then and someone else had to deal with him, lmao.",2016-04-08 22:29:46+00:00,d1viy1n,6.0,t1_d1v2cij,22572.0,pcmasterrace
+158,"You know what's also funny, a friend of mine plays CoD with a controller on PC and he's actually better than most players and they always call him an aimbotter, because you get auto-aim when you play with a controller since MW3 I think, lul.",2016-04-08 22:15:24+00:00,d1viefw,6.0,t1_d1v34jf,20713.0,pcmasterrace
+159,"Nah you can't turn around instantly. And it's more like using a steering wheel for racing games, if you know how to handle it well, you definitely are better than SOME players, but if someone is good with a controller, he still can play as good or better than you, because at the end, the XIM also just converts mouse movement into joystick movement.
+
+It's definitely easier to aim with a mouse than with a controller, I'm not arguing with that, but like I said, if you have a good aim with a controller there is no difference in skill. Using kb&amp;m with a XIM is more like cheesing than cheating.
+
+Because if using m&amp;kb for shooters is cheating then using a steering wheel for racing games is also cheating, but it's actually also just cheesing.",2016-04-08 22:12:11+00:00,d1vi9xz,5.0,t1_d1v22w9,21861.0,pcmasterrace
+160,It doesn't really give you a huge advantage.. It's like using a steering wheel for racing games and no one cares about that.,2016-04-08 22:06:33+00:00,d1vi226,6.0,t1_d1v4ncd,18246.0,pcmasterrace
+161,"&gt; There isn't a single sensor on the market that doesn't start to fail over 2k CPI, why would you need a 9k CPI mouse?
+
+Well you can also use a mouse with 2000 DPI, but then you'd have to drag your mouse over the whole desk to make a 90 degree turn. To get it faster you'd need to crank up the speed in your XIM config and the higher you set the value the more likely it is to become choppy, that's the reason why people flame about the XIM being ""not like PC gaming because it's all laggy and choppy blahblah"".
+
+With 9k or more DPI you don't need to set the speed on your XIM to such high values, resulting in smooth and fast movement. I don't know anything about sensors, so I can't argue with that, but 2k vs 9k with a XIM definitely makes a noticable difference.
+
+&gt; The XIM is terrible anyway, it's a crappy attempt at emulating 1;! crosshair movement.
+
+Any source on that? Because from what I've read it's the only adapter that even gets close to 1:1 mouse movement, which is the reason why I bought it.",2016-04-08 22:04:39+00:00,d1vhzed,5.0,t1_d1veqgo,4828.0,pcmasterrace
+162,"&gt; You're confusing ""server"" with ""host."" 
+
+No I don't confuse anything, mate. A ""website server"" is a machine that has a webserver installed and in most cases the user doesn't have access to install anything else on it. And a host is most likely a machine that hosts stuff, like software that can serve websites, for short a webserver. A VPS for example is a host, but you can also call it a server, like the name says, virtual private server.
+
+&gt; But who buys website hosting nowadays when it's usually cheaper to buy a VPS?
+
+People that don't know how to set up a webserver?",2016-04-08 21:38:03+00:00,d1vgxq4,4.0,t1_d1v2pq2,18999.0,pcmasterrace
+163,"No you can't host a game server on a website server.. Most ""website servers"" are restricted to running a webserver like Apache, Nginx, IIS or whatevs and you get access to the space, that's it.
+
+You normally don't have permissions to execute anything on those servers and therefore you can't run a game server on that host.",2016-04-08 15:36:36+00:00,d1v0n6w,2.0,t1_d1uwxgg,5087.0,pcmasterrace
+164,"\^this
+
+Most people that work at customer support centers just take their answers from internal wikis and if there is no entry for that they ask in their technical departments and just try to repeat what the tech guy from there said.. Which sometimes results in weird answers.",2016-04-08 15:32:33+00:00,d1v0ggs,4.0,t1_d1v002j,589.0,pcmasterrace
+165,"If you hate controllers, get your hands on a XIM4. It's quite expensive, but totally worth it, since you almost get the PC experience with KB&amp;M on a console.
+
+You need a mouse with high DPI (&gt;= 9000) though, like the Logitech G502 or similar. Been playing Destiny with it and sometimes Halo and it's, like I already said, almost like playing on PC. Though peasants call it cheating.
+
+I don't think it's cheating when you just want to play with the controls you're familiar with, but idc anyway.
+
+**Edit:** Okay I get it's not fair, but it's still not cheating, lets settle on the word *cheesing*, since it fits better in this category IMO.",2016-04-08 15:25:20+00:00,d1v04de,3.0,t1_d1uxbfe,3846.0,pcmasterrace
+166,"Well, you can't expect from a console peasant to have common sense.. Else they wouldn't badmouth PCs.",2016-04-08 15:21:36+00:00,d1uzy6l,6.0,t1_d1uzla2,474.0,pcmasterrace
+167,"Yeah, I'm currently waiting for DisplayPort 1.3 and the new Pascal series from Nvidia and it's sooo hard for me not to buy a 980 Ti..",2016-04-08 15:17:28+00:00,d1uzrfk,2.0,t1_d1uup7x,7567.0,pcmasterrace
+168,"I had to give my soul to Gaben this wintersale, since he already owns all my money...",2016-04-08 15:08:32+00:00,d1uzcyy,7.0,t1_d1uu930,7874.0,pcmasterrace
+169,"You are now pumping blood manually.
+
+How do you feel now?",2016-04-08 15:03:28+00:00,d1uz4vm,2.0,t1_d1uwo6b,3488.0,pcmasterrace
+170,"Well, true and it's not that many components. My setup has A LOT of cables, that's why I needed to correctly mount them to the back of my desk else I would strangle myself whenever I need to unplug something, lul. 
+
+But TBH you could easily manage them a little better than this. ;)",2016-04-08 12:00:31+00:00,d1usokv,3.0,t1_d1urwud,2064.0,pcmasterrace
+171,"Yeah, because it contains silver. That's why I edited my post and corrected it to *common TP*, since regular TP normally doesn't contain any metals.",2016-04-08 11:57:44+00:00,d1usm6g,5.0,t1_d1urp2c,2544.0,pcmasterrace
+172,"You also have to put the TP between the socket and the CPU for maximum cooling, liquid metal is even better. You know you applied it correctly if your PC doesn't turn on anymore, resulting in a really low temperature system.",2016-04-08 11:13:25+00:00,d1urnnj,2.0,t1_d1u7joz,44052.0,pcmasterrace
+173,"If it's not liquid metal then nope.. Common TP is non-conductive. You could have a problem if you get it between the CPU and the socket pins and it could prevent a pin from having contact.
+
+But aside from having a real mess, this shouldn't kill anything.",2016-04-08 11:11:13+00:00,d1urm2x,3.0,t1_d1urg4y,511.0,pcmasterrace
+174,"If you don't care about delay, sure..",2016-04-08 11:06:34+00:00,d1urira,2.0,t1_d1ugd8u,30039.0,pcmasterrace
+175,"Right, eyes aren't real anyway.",2016-04-08 11:05:32+00:00,d1uri1q,2.0,t1_d1ulis3,20161.0,pcmasterrace
+176,Quit your friendship.,2016-04-08 11:04:08+00:00,d1urh3s,1.0,t3_4drtco,67129.0,pcmasterrace
+177,The cable management under your desk looks a little.. messy. :D,2016-04-08 10:59:12+00:00,d1urdpa,1.0,t3_4dst9a,54453.0,pcmasterrace
+178,"If 24"" is enough for you go for it. But depending on your GPU it might be good if the monitor supports AMD FreeSync or Nvidia G-Sync. A refresh rate of 120Hz or more would also be a good decision, if your budget is high enough.
+
+But you should definitely buy a screen with a response time of 2ms or less.",2016-04-08 10:35:25+00:00,d1uqy6s,2.0,t1_d1uqncr,1045.0,pcmasterrace
+179,"Why do people care so much about defending what they like and badmouth other products?
+
+Why always hate on things you don't like and over-glorify the things you like? Every OS has it's up- and downsides...",2016-04-08 10:22:27+00:00,d1uqq3v,5.0,t1_d1uq97n,1740.0,pcmasterrace
+180,Huh? I already linked the android app...,2016-04-06 17:38:39+00:00,d1sdu0z,3.0,t1_d1sd8vy,722.0,linuxquestions
+181,"Oh wow... I fixed it.. with a simple restart of my VPS... I just compared both iptables and the new iptables had these additional entries on line 56
+
+    -A INPUT -j ufw-before-logging-input
+    -A INPUT -j ufw-before-input
+    -A INPUT -j ufw-after-input
+    -A INPUT -j ufw-after-logging-input
+    -A INPUT -j ufw-reject-input
+    -A INPUT -j ufw-track-input
+    -A FORWARD -j ufw-before-logging-forward
+    -A FORWARD -j ufw-before-forward
+    -A FORWARD -j ufw-after-forward
+    -A FORWARD -j ufw-after-logging-forward
+    -A FORWARD -j ufw-reject-forward
+    -A OUTPUT -j ufw-before-logging-output
+    -A OUTPUT -j ufw-before-output
+    -A OUTPUT -j ufw-after-output
+    -A OUTPUT -j ufw-after-logging-output
+    -A OUTPUT -j ufw-reject-output
+    -A OUTPUT -j ufw-track-output
+
+Now ufw default deny incoming works like it should and I still have ssh access. ",2016-04-06 10:08:16+00:00,d1rxsjn,4.0,t1_d1rxd3f,1692.0,linuxquestions
+182,"I applied all the commands like they did in this guide: https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server
+
+The first time when I set up ufw this worked perfectly fine in this order, why doesn't it now? I mean I have disabled ufw, flushed all the iptables and reset ufw, this should set me back to where I was when I just installed ufw, shouldn't it?",2016-04-06 09:34:22+00:00,d1rxa03,2.0,t1_d1rwyut,1227.0,linuxquestions
+183,"But that are ufw default rules. I didn't change anything and like I said I used ufw reset to get everthing to default and then I applied the commands in the order of this page: https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server
+
+The first time I set up ufw with this tutorial it worked fine, this all happened after I used iptables -F that one time..
+I don't get why it worked the first time and after the reset it doesn't.",2016-04-06 09:29:52+00:00,d1rx7lx,2.0,t1_d1rwveq,1337.0,linuxquestions
+184,"Well, if you want a nice gui and the option to control more than just your amplifier, you could install [OpenHAB](https://github.com/openhab/openhab/wiki/Linux---OS-X) on your server, set up some switches with preconfigured commands and you have a nice web gui for all your devices.
+
+And for Android there is also the [OpenHAB app](https://play.google.com/store/apps/details?id=org.openhab.habdroid) which you can use to connect to your OpenHAB server.
+
+I use it at home and it's awesome, you can easily create some switches for on/off which execute your command with the Exec-Binding for OpenHAB or you could even use the [Serial-Binding](https://github.com/openhab/openhab/wiki/Serial-Binding) to directly talk with your serial device. For volume you could even create a slider instead of up and down buttons.
+
+Might take a short time to get used to the configuration but it's really simple actually, you can just use the [example files](https://bintray.com/artifact/download/openhab/bin/distribution-1.8.2-demo.zip) if you need a template. And their wiki is also huge.",2016-04-06 08:51:35+00:00,d1rwmff,1.0,t3_4djw29,22224.0,linuxquestions
+185,"Dang, thanks for your input, I almost bought them until I saw your comment.
+
+It's not a measured input, it's just what my phone shows me when I'm connected.
+
+I also didn't enable 40MHz channels, but as far as I know there was no overlapping channel.
+
+My system load is fairly low, it has a quad core Xeon with Hyperthreading, so it should have enough beef to handle everything. But latency could actually be a problem. I might pass through the whole USB controller to see if there is an improvement. 
+
+But I need it to run in a closed system, either container or vm, I'd prefer a container though, I don't want any software on my host except for Proxmox itself.
+
+The thing is, if I could get it to run in a container, there wouldn't be any problem with latency since the container just gets access to the device without any complicated process. That's why I'm wondering why it won't work with a container... I probably missed some things in the config.",2016-04-05 08:17:35+00:00,d1qgqn0,2.0,t1_d1pxnpo,35218.0,linux_devices
+186,"Well, I thought virtualized labs do count as home labs..",2016-04-04 11:23:37+00:00,d1p78pb,2.0,t1_d1p6ip2,2488.0,homelab
+187,"It started back in 2009 with my first NAS LG-N2A2 when I was 13/14 years old, I managed to root it and then I also pretty quickly found out the limitations of that device.
+
+So I worked part-time over the holidays and built my own NAS with an ASRock E350M1. I also ran Windows Server for a while, but then I switched back to good ol' Debian when I started setting up game servers. I also played with Arch and CentOS, but for my servers I always end up with Debian and Ubuntu, it's just what I feel the most comfortable with, though I really love Arch and I'm still searching for a usecase where it makes sense for me to use it again.
+
+In the past 6 years I've gained a pretty good amount of experience with Linux and upgraded my NAS little by little with consumer hardware when the number of vms was rising. I always had lots of hardware lying around and I sometimes built myself small rigs for testing whatever, but when I realized I had no use for them I disassembled and sold the parts.
+
+Now since I've finished school and have a full-time job as a Java developer I earned enough to build myself a pretty decent server (Supermicro X10SL7-F, Xeon E3-1230v3 and 32G of ECC RAM) which I am satisfied with.
+
+It's running Proxmox under Debian 8 and last week I successfully virtualized my HTPC with VGA passthrough and a virtual OSX machine, which I have no use for though. I'm currently at migrating my virtual machines to containers and I've set up a virtual machine as access point for my wifi devices. Next thing is LDAP at home, getting familiar with Ansible and I also want to look at LACP, since I finally got my 24 port switch.
+
+I also switched to Proxmox with LXContainers on my VPS and I'm thinking about switching my desktop to Proxmox and virtualize my gaming rig, since GPU passthrough works pretty good with my virtual OpenELEC and OSX machines. 
+
+IMHO I'm still a pretty casual homelabber and I still have much to learn, even though most of my co-workers think I'm crazy, lul.",2016-04-04 10:18:15+00:00,d1p64v6,1.0,t3_4d7hhx,53910.0,homelab
+188,"&gt; crossing them might not be possible, but then again that's not something most desks/tables allow for, not being the general sitting position
+
+My desks always allowed me to sit cross-legged and that's how I sit 70% of the time and the other 30% of the time I rest my legs on a small stool, even at work I sit cross-legged, mostly because I can't sit 8 hours straight in the ""general sitting position"". If I didn't change my position every now and then my back would already have broken into pieces, because I spend 10-16 hours a day at my desk.
+
+&gt; The desk can fit 3 22"" monitors with no problems, and 23"" would only protrude a few cm on the sides :)
+
+Yeah and that's the issue, I have three 27"" monitors and I also don't like putting them on the desk, since it doesn't look that nice and it also is pretty unhandy if you want to clean the desk from dust. That's why I have a triple monitor stand which I have mounted to my table. :)
+
+Don't get me wrong, it's an awesome desk. It just doesn't suit my needs though.",2016-04-01 09:39:41+00:00,d1lljho,3.0,t1_d1ll392,1739.0,pcmasterrace
+189,"It looks a little uncomfortable.. I like to have the arm rests of my chair a little under my desk so I don't have to hold my arms up. With this desk it seems you have to sit very far away because your legs would be cramped, alternatively you'd have to lower your chair to a point where using a keyboard seems really uncomfortable, so meh...
+
+I like the design, but for me it doesn't seem practical. I also can't mount a triple monitor stand, since the desk is so thick. 
+
+IMHO the plate shouldn't be cuboid-shaped, but more like trapezoid-shaped so your legs have enough space under the desk without having to lower your chair. It should also have a thinner metal plate at the back so one can mount a desk mountable monitor stand, because there are people who can't just drill holes for wall mounts. And if someone has the money to buy this desk, there is a high chance that this person also wants to use more than one monitor.
+
+But with that trapezoid-shaped desk plate you obviously have less space for components. But TBH, I'd rather sit at a comfortable desk than at a cool but impractical desk.",2016-04-01 08:59:01+00:00,d1lkwlv,1.0,t3_4cp7d6,86761.0,pcmasterrace
+190,"True, but it's really fun and I'd gladly pay 20 bucks, that's fair and not nearly as much money I spend on keys in TF2 when it became F2P, lul. Back when the Orange Box released TF2 was so much more fun.. *dropstear*",2016-04-01 08:02:24+00:00,d1ljz3o,2.0,t1_d1liwwb,3486.0,pcmasterrace
+191,"So I've been setting up my container now, but when I mount my ZFS pool under /storage it just shows an empty directory within my container, that's probably because the LXC container can't see the datasets which are mounted on my host.
+
+Is there any way to mount my pool with all datasets without having to put every single dataset as mount point within the container config? Because I have plenty of datasets and I can't create more than 9 mount points...
+
+    root@caravan:~# zfs list
+    NAME                              USED  AVAIL  REFER  MOUNTPOINT
+    storage                          2,61T  2,47T  24,0K  /storage
+    storage/backup                    779G  2,47T   779G  /storage/backup
+    storage/data                      403G  2,47T  26,6K  /storage/data
+    storage/data/backups             56,6G  2,47T  56,6G  /storage/data/backups
+    storage/data/downloads            215G  2,47T   215G  /storage/data/downloads
+    storage/data/emby                 132M  2,47T   132M  /storage/data/emby
+    storage/data/pve                 84,0G  2,47T  84,0G  /storage/data/pve
+    storage/data/sync                47,5G  2,47T  47,5G  /storage/data/sync
+    storage/multimedia               1,45T  2,47T  26,6K  /storage/multimedia
+    storage/multimedia/manga         24,0K  2,47T  24,0K  /storage/multimedia/manga
+    storage/multimedia/movies         466G  2,47T  25,3K  /storage/multimedia/movies
+    storage/multimedia/movies/2d      420G  2,47T   420G  /storage/multimedia/movies/2d
+    storage/multimedia/movies/3d     30,0G  2,47T  30,0G  /storage/multimedia/movies/3d
+    storage/multimedia/movies/anime  15,7G  2,47T  15,7G  /storage/multimedia/movies/anime
+    storage/multimedia/music         13,4G  2,47T  13,4G  /storage/multimedia/music
+    storage/multimedia/pictures      24,0K  2,47T  24,0K  /storage/multimedia/pictures
+    storage/multimedia/shows         1009G  2,47T  24,0K  /storage/multimedia/shows
+    storage/multimedia/shows/2d       333G  2,47T   333G  /storage/multimedia/shows/2d
+    storage/multimedia/shows/anime    676G  2,47T   676G  /storage/multimedia/shows/anime
+    storage/multimedia/videos        24,0K  2,47T  24,0K  /storage/multimedia/videos
+
+Mounting /storage/multimedia/shows/2d for example directly works fine btw, I can see the content of the dataset within my container.
+
+Edit: Ok for now I've added all the mountpoints with the lxc.mount.entry to the conf, this doesn't limit my mountpoints, but it's still not very pleasant to have that many mount entries..",2016-03-27 02:07:26+00:00,d1etmrt,,t1_d1aylh9,,HomeServer
+192,"It is indeed overkill for my home lab, so I'll probably use the scheme that /u/bradtank44 recommended before, I can easily cut down some things for my needs and I can just give my machines easy memorable names. :)",2016-03-24 16:05:33+00:00,d1bw9ez,4.0,t1_d1bvl0a,905.0,homelab
+193,"Well, I'm a software developer, so I DO know IT guys that name their servers like planets lel. ",2016-03-24 15:36:09+00:00,d1buxep,2.0,t1_d1bti1d,1975.0,homelab
+194,"This is indeed pretty awesome, I might use this scheme, thanks!",2016-03-24 14:14:31+00:00,d1bri58,2.0,t1_d1bo2ln,6210.0,homelab
+195,"Well yeah, you're right. It has been running flawlessly for almost a year now with passthrough to be fair, but I'll run it on the bare metal anyway now.
+
+And thanks for the links!",2016-03-23 20:37:08+00:00,d1ayfrp,4.0,t1_d1axi9z,1212.0,HomeServer
+196,"&gt; Proxmox already comes out of the box with ZFS on Linux installed.
+
+Dang it does? Then it's decided! Thanks for the info.
+
+&gt; I don't like to put more layers between my disks and ZFS than is necessary. It's generally not recommended.
+
+I also don't, that's why I passed the SAS controller through directly.",2016-03-23 20:13:45+00:00,d1axcx0,2.0,t1_d1auhf9,3665.0,HomeServer
+197,"Nope, I run a triple monitor setup with two 60Hz and one 120Hz screen with my GTX 770 without any problems, the 144Hz are the problem.",2016-03-21 18:33:17+00:00,d1850b7,2.0,t1_d17y8jm,9323.0,nvidia
+198," * OS: Windows 10 Pro (64bit)
+ * CPU: Intel Xeon E3-1245v3
+ * RAM: 16GB (2x8GB) DDR3 Crucial Ballistix Sports VLP
+ * GPU: Palit Jetstream GTX 770 2GB
+ * Driver Version: 364.51
+
+Triple monitor setup, 2 DVI @ 1920x1080 &amp; 1 HDMI @ 1920x1080.
+I don't use Nvidia Surround, I always play on my middle monitor, fullscreen @ 120Hz, but borderless window also works just fine.
+
+Never had any issues, neither while gaming or while browsing etc.",2016-03-21 18:26:09+00:00,d184oty,1.0,t3_4bc5fx,19490.0,nvidia
+199,lul,2016-03-16 19:05:17+00:00,d12b2zd,4.0,t1_d12a1ex,1391.0,hackintosh
+200,"I don't have one yet, I'm waiting for monitors with DisplayPort 1.3 to release to get 4k@120hz goodness.",2016-03-16 17:56:49+00:00,d1280m0,2.0,t1_d127rtj,327.0,hackintosh
+201,So I can't ask people on /r/hackintosh what they use their hackintoshes for? k,2016-03-16 17:16:10+00:00,d1266hj,2.0,t1_d125bd4,1140.0,hackintosh
+202,"Do you know how well OSX performs with multiple monitors?
+
+Since Windows 10 multi monitor support is quite awesome and with UltraMon, I can use shortcuts to switch my center monitor off so I can use it with my consoles, is there also a feature or app on OS X where I can set shortcuts to load custom monitor presets like I can with UltraMon?
+
+If this would be possible I could use OSX on my triple monitor setup for everyday tasks and switch off the center monitor when I want to play games on Windows, if not, it will be highly unlikely for me to use OS X for my everyday computing..",2016-03-16 15:43:39+00:00,d12209b,2.0,t1_d121cdv,923.0,hackintosh
+203,"Yeah that's what I believe will happen too, since I'm playing games frequently, I'll mostly be using Windows.
+But since the OS X machine runs on my server virtualized I won't have to restart my PC to use it, when I get gpu passthrough to run, I'll just have to switch inputs and my monitor.
+
+I might be using this hackintosh vm as a workstation and see how it compares. 
+On the other hand, I don't do much work on my PC when I'm at home, so the hackintosh will probably end up being used once every two months, which is quite a waste...",2016-03-16 14:36:39+00:00,d11z7l5,3.0,t1_d11y8r3,1534.0,hackintosh
+204,I just developed a brain tumor god dammit,2016-03-11 23:56:38+00:00,d0wlpdn,1.0,t3_409fc7,5347841.0,consolequotes
+205,"yeah and every single console game runs on 60fps @ 1080p of course, CONSOLEMASTERRACE",2016-03-11 23:46:59+00:00,d0wldnu,,t1_d0q68ap,,consolequotes
+206,lmao I don't know why people would downvote this,2016-03-11 23:41:59+00:00,d0wl7gz,5.0,t1_d0v11u7,103052.0,pcmasterrace
+207,"yes, when model numbr is higher thet means is stronger gpu",2016-03-11 14:02:35+00:00,d0vy5oh,3.0,t1_d0vwr62,3191.0,pcmasterrace
+208,"is even betr then gtx titan x
+
+(haha someone downvoted you because he/she/it doesn't know what /s means lul)",2016-03-10 21:27:35+00:00,d0v7s3v,3.0,t1_d0uvxoo,15218.0,pcmasterrace
+209,"I hav AMD HD5450 for sale, HD 5450 is highr numbr then R9 390X so HD5450 is betr, 900 dollur pls cuz is used",2016-03-10 15:08:50+00:00,d0uqm2r,1.0,t3_49rjhn,45291.0,pcmasterrace
+210,"Same in Germany as far as I know. Sadly Germans don't make mistakes, so I'll never get my hands on such a cheap 970...",2016-03-10 15:03:55+00:00,d0uqfoj,3.0,t1_d0u6d4n,46872.0,pcmasterrace
+211,"Nah I'm not really planning to use unRAID, I already have Proxmox on my home server and I'm using PCIe passthrough successfully with my SAS controller and TV card.
+
+I was planning to use GPU passthrough which worked to a certain extent but OpenELECs X server just wouldn't start with my AMD GPU and I have no clue why, that's the reason why I wanted to investigate the config unRAID uses for their OpenELEC template, because I may have missed some parameter or that unRAID uses a special build of OE which I wanted to install. I also tried Kodibuntu but I also had problems with the X server, so I'm guessing the GPU is at fault, but I wanted to test things out a little more, before I get myself an Nvidia GPU.
+
+I use Emby on my virtual OMV machine as alternative to Plex, since there is an official Kodi addon that fully integrates the Emby database into Kodi on my HTPC which is way better than the PleXBMC Addon for Kodi. And since Plex has no official Live TV implementation, which I need since I also watch TV on my HTPC, it's no alternative for me, I also don't even want a replacement since Kodi+Emby is just wonderful, but streaming on the go wouldn't even be possible for me even with Plex since my upload at home is just too low with 1,2mbps. I also don't have enough mobile internet volume (300MB per month) and there is no wifi in the train so even IF I had a decent upload at home, I couldn't really use it and aside from riding the train once a month when I visit my parents, there would be no situation where I'd use streaming.",2016-03-10 14:43:19+00:00,d0uppkb,4.0,t1_d0uob87,2641.0,unRAID
+212,"I'm talking about VM Templates: https://lime-technology.com/forum/index.php?topic=44683.0
+
+But looking at this post it seems there is no special OpenELEC image made for VMs, which I initially thought there was, since I had problems with using OE in a VM, but that might be related to my AMD GPU.",2016-03-10 13:43:04+00:00,d0unv37,2.0,t1_d0tu6xf,60160.0,unRAID
+213,"Have I ever asked about what game I will receive?
+No.
+I asked if there is a possibility to get a triple A title. But according to your copy and paste answer I guess I'll probably save my money.
+
+And no, you won't see me again at G2A, lol.",2016-02-16 19:36:32+00:00,d028uli,2.0,t1_d0272z1,2386.0,g2a
+214,"Well, my server has two onboard Intel I210-AT NICs and my PC has one Intel I217-V and one Intel I210-AT onboard, so they are similar.
+
+But I also did some research and found out, that next month they will release Samba 4.4 which will support Multichannel, so then it would be possible. Or when I change my NAS VM to Windows, but that's not an option.
+
+Seems I have to wait until march.",2016-02-02 07:34:53+00:00,czksa85,2.0,t1_czk2kbt,41647.0,linuxquestions
+215,"Jumbo frames won't increase my Bandwidth to 2Gbit/s so this is not really an answer for my question.
+
+I already get the max. speed of 100-110MB/s, but I thought since I have two NICs I could team/bond them to get twice the speed.",2016-02-02 07:24:42+00:00,czks3cn,2.0,t1_czk274w,41543.0,linuxquestions
+216,"If you pass your NICs through via PCIe passthrough then definitely yes.
+If you use qemu you'd have to use one vmbridge for each NIC and then set up the same amount of virtual Virtio NICs for your VM each with a different bridge, then you should also get nearly as much speed I think.
+But technically yes.
+
+In my case this won't work since I already use a Debian (OMV) VM inside my server which serves my files and since I want to use ZFS on Linux I can't use Windows..",2016-02-02 07:23:46+00:00,czks2pa,3.0,t1_czk89pv,32940.0,linuxquestions
+217,"Imago Loop = Fatebringer, you just have to get one with Firefly, Outlaw and Explosive Rounds. You can farm it in the Undying Mind strike, but the chances are low getting one with good rolls.
+
+But dunno if handcannons are still worth using, I don't play PvP, but when I play I always see peps with Scouts mostly including myself. And in PvE they got quite bad IMHO. 
+
+Hung Jury SR4 for life &lt;3",2016-01-12 12:37:44+00:00,cyv8lhq,2.0,t1_cycx3rn,1360791.0,DestinyTheGame
+218,Different sensors yes.,2016-01-11 15:20:30+00:00,cyu2z3u,2.0,t1_cwekmhu,6571109.0,G502MasterRace
+219,"Great guide, thank you! I'd love to see some guides for the other weapon types too, especially LMGs and Auto Rifles.
+
+I've got a PDX-45 with Perfect Balance, Hidden Hand and Rifled Barrel and a Lyudmila-D with Crowd Control, Counterbalance and Injection Mold, so two God Rolls for PvE and PvP aswell.
+
+Wish I'd get my hands on a god roll Grasp of Malok but I didn't have any luck, 3 bad rolls after 2 hours of farming...",2016-01-11 11:55:08+00:00,cyty2dp,1.0,t3_3slilm,5141601.0,CruciblePlaybook
+220,"Alright, so CONFIG_VFIO_PCI_VGA is set to y, so it's enabled.. That means I'll have to try the i915 patch. If this deosn't work, I have to try the Arch installation. Thanks for the help socialleech!
+
+Patching doesn't work...
+
+    cd ubuntu-wily; patch -p1 &lt;../i915_317.patch
+    patching file drivers/gpu/drm/i915/i915_dma.c
+    Hunk #1 succeeded at 400 (offset -916 lines).
+    Hunk #2 succeeded at 454 with fuzz 2 (offset -925 lines).
+    patching file drivers/gpu/drm/i915/i915_drv.h
+    Hunk #1 succeeded at 2588 with fuzz 2 (offset 441 lines).
+    patching file drivers/gpu/drm/i915/i915_params.c
+    Hunk #1 succeeded at 49 with fuzz 1 (offset 1 line).
+    Hunk #2 succeeded at 170 (offset 10 lines).
+    patching file drivers/gpu/drm/i915/intel_display.c
+    Hunk #1 succeeded at 14651 (offset 2097 lines).
+    Hunk #2 succeeded at 15029 (offset 2111 lines).
+    Hunk #3 succeeded at 15283 with fuzz 2 (offset 2111 lines).
+    patching file drivers/gpu/drm/i915/intel_drv.h
+    Hunk #1 succeeded at 1429 with fuzz 2 (offset 327 lines).
+    patching file include/linux/vgaarb.h
+    Hunk #1 FAILED at 65.
+    1 out of 1 hunk FAILED -- saving rejects to file include/linux/vgaarb.h.rej
+    Makefile:229: recipe for target 'ubuntu-wily/README' failed
+    make: *** [ubuntu-wily/README] Error 1
+
+It seems this patch won't work with the ubuntu-wily 4.2 kernel that Proxmox uses...
+
+**Edit:** Okay, the vfio.blog says if I have problems with VGA assignment but my host gpu isn't an intel igpu I need this patch: https://lkml.org/lkml/2014/5/25/94
+When I apply it it says *Reversed (or previously applied) patch detected! Assume -R ?* and if I choose y the kernel builds, but I'm not sure if the patch was applied or not, if I choose no, I get 6 out of 6 hunks failed..
+
+**Edit2:** This guy has the exact same problem as me with the exact same motherboard: https://bbs.archlinux.org/viewtopic.php?id=162768&amp;p=95 post #2368
+
+He fixed it with the acs_override patch, so the problem is definitely Proxmox' 4.2 kernel, I applied the acs override patch but it doesn't work, which means there is something wrong with the Kernel, I'll go to Arch and try the linux-vfio kernel from the AUR, to see if the problem still persists.
+
+**Edit3:** Okay definetly a problem with the 4.x kernels and my hardware.. Same issue under Arch ",2015-12-23 12:50:55+00:00,cy8vmrw,6.0,t1_cy8ue92,4578.0,linuxquestions
+221,"Yes my CPU (Xeon E3-1230v3) supports VT-x and VT-d, like I said in the second line of my post, I already passed through my TV card and my SAS controller successfully.
+
+The Xeon doesn't have an iGPU as well as my motherboard (X10SL7-F) doesn't support iGPUs, but has an integrated ASPEED gpu for the console redirection, which is used as primary graphics card already. The ASPEED gpu is shown in it's own iommu group.
+
+But maybe my AMD really isn't completely released. Since I got the Proxmox kernel sources, I'll use the i915 patch and compile it again, maybe this could fix it!
+
+I also will take a look at the kernel config and see if CONFIG_VFIO_PCI_VGA is really enabled in the kernel, that could also be the reason why pci passthrough is working but vga passthrough is not!",2015-12-23 10:58:40+00:00,cy8tvwn,4.0,t1_cy8t6lr,3004.0,linuxquestions
+222,We'll see about that!,2015-12-23 08:31:22+00:00,cy8rpan,2.0,t1_cy8f10g,27994.0,linuxmasterrace
+223,"The device is blacklisted, I also tried it with pci-stub but it didn't force the gpu into another group.
+
+I'll try to install Arch with the latest linux-vfio kernel and see, if the groups change. If they do, then it's just the Proxmox kernel, if they don't, it's my hardware and there's probably nothing I could do about it.",2015-12-23 08:30:53+00:00,cy8rp0k,2.0,t1_cy8pjo1,6852.0,linuxquestions
+224,"Damn.. but thanks anyway
+
+I should try and install Arch to my external drive and look if the iommu problem still persists, so I can figure out if it's just the Proxmox kernel or even my hardware.
+
+Edit: Okay tried Arch with Kernel 4.1.15 and vfio patches, didn't work, I also tried Proxmox pve-kernel 3.10 which worked for most people previously, also didn't work. Seems to be my hardware that doesn't play nice with the iommu grouping. Also can't switch back to ESXi because my TV card doesn't work with ESXi's passthrough. I might try another gpu but that's about it then..",2015-12-22 13:06:48+00:00,cy7pmr2,8.0,t1_cy7pmap,37.0,linuxmasterrace
+225,"Yeah I don't really get why they are mapped into the same group, could it be related to the PCI bridges that are also in group 1 ?
+
+I looked at their repo, they didn't seem to have fixed this issue yet, but I'm just building a kernel from the latest sources to see, if this might fix the problem anyway. Using kernel 4.2.2 and 4.2.3 didn't make a difference either..",2015-12-22 12:57:42+00:00,cy7pgbf,6.0,t1_cy7pdqm,229.0,linuxmasterrace
+226,"VFIO is enabled yes. Proof, this is my TV card:
+
+    07:00.0 Multimedia video controller [0400]: Conexant Systems, Inc. CX23885 PCI Video and Audio Decoder [14f1:8852] (rev 04)
+        Subsystem: Device [d471:9022]
+        Kernel driver in use: vfio-pci
+
+Which is passed through to another guest and works fine. Same with the SAS controller which is in the iommu group 1.
+
+Looking at their mailing lists, it seems they have included the acs_override patch back in 2014 into their 3.10 kernel, [here](http://pve.proxmox.com/pipermail/pve-devel/2014-August/012382.html)
+
+So I guess their 4.2 kernel also contains the patch.",2015-12-22 12:51:48+00:00,cy7pcan,4.0,t1_cy7pb4q,105.0,linuxmasterrace
+227,"Sorry, didn't mention it, I added it with the downstream value. Added this to my post.
+
+I also added ""options vfio_iommu_type1 allow_unsafe_interrupts=1"" to modprobe and I also added it as boot parameter (vfio_iommu_type1.allow_unsafe_interrupts=1) to grub, didn't make a difference either..
+
+Also the Proxmox kernel already has the patches in it, vfio works since I already use passthrough, aswell as the acs_override patch should also be applied to the kernel, else I couldn't imagine why they would mention the pcie_acs_override parameter in their wiki under PCI passthrough.",2015-12-22 12:41:38+00:00,cy7p5n0,2.0,t1_cy7p4ok,93.0,linuxmasterrace
+228,under 25*,2015-12-22 10:03:03+00:00,cy7msfo,2.0,t1_cy7m0hj,3190.0,pcmasterrace
+229,"Never heard about Spacewalk until now. But I got Archipel working now, but haven't tested it enough yet. So far I don't really like the concept, but it seems to bring enough features so that I don't have to use the CLI every time.
+
+But I already got problems with starting my first guest, so I am pretty disappointed, took me so much time to get it working and now I can't start my guest because he can't create a socket, whatever, I've got enough for today, maybe tomorrow...",2015-12-21 21:51:55+00:00,cy71sl8,6.0,t1_cy6t4rr,12957.0,homelab
+230,"I got it installed now, but I just won't get the agent to start, the ejabberd server is working fine archipel-testxmppserver also works perfectly fine, but ejabberdctl connected_users doesn't show any user.. The archipel.log doesn't throw any errors..
+
+**Edit:** Holy macaroni after 2 hours of fiddling I finally got Archipel to work, I'll try it now.
+
+I might test it on my main pc on Arch again, to figure out if it is usable in a ""production"" environment.",2015-12-21 12:12:08+00:00,cy6i6o9,4.0,t1_cy5gu0f,79677.0,homelab
+231,"Well, for me Proxmox is really great, I can install a plain Debian Jessie, add the repo and install it and everything runs out of the box, that's what I love about it.
+
+But yes, I'd rather use ESXi, but since my TV card doesn't work with VMDirectPath I/O, I can't use it or I have to get another TV card, but I don't wanna spend money on a new one, when I only watch TV once in a month.. With KVM's PCI passthrough, the TV card works flawlessly in my guest..
+
+Guess I have to wait, I'm not really comfortable with a rolling release anyway on a system that has to be stable 24/7. Never had problems with Arch before, but you can never be sure about this..
+
+The GPU passthrough thing isn't a must have, at least my SAS controller passes through nicely, so I guess I have to wait until the Proxmox team releases a fix for the IOMMU grouping issue. Cause the CLI is really not a solution for me, I don't have a problem with it, but with a webinterface it's just a few clicks, with virsh I'd have to edit the whole XML etc. which I don't feel comfortable with.",2015-12-21 08:32:44+00:00,cy6exkc,4.0,t1_cy5mnst,53194.0,homelab
+232,"Well, but I need Arch not CentOS, so this wouldn't be a solution..",2015-12-20 17:04:10+00:00,cy5lcoo,4.0,t1_cy5jo89,3489.0,homelab
+233,"Yeah true that, I'd still be with ESXi if my TV card would work with VMDirectPath I/O.. I dunno why, but it works flawlessly with KVM and pcie passthrough.
+
+I tried oVirt some time ago under CentOS, but it's also a PITA to setup and I didn't get it to work either.. all those manuals are either outdated or leave out steps etc.",2015-12-20 14:54:18+00:00,cy5hvby,2.0,t1_cy5h93w,1748.0,homelab
+234,"Yeah the screenshots look really promising, but I didn't get it to work...",2015-12-20 14:08:16+00:00,cy5gwvk,4.0,t1_cy5gu0f,245.0,homelab
+235,Please reread the second phrase of my post,2015-12-20 13:56:05+00:00,cy5gog2,2.0,t1_cy5gjbp,474.0,homelab
+236,"Yeah I have looked at the managment tools but there are so many, that I don't know where to start..
+
+Archipel looked like it is really advanced, but the installation is just horrible.. Even with the package from the AUR I couldn't get it to work and after an hour or so, I just gave up on trying...
+
+Kimchi and WebVirtMgr look really basic and they don't show a single screenshot on how much you can configure on a VM.. If I need to get into the config of every VM just to change some more specific settings, it would destroy the whole purpose of a web interface, for me atleast.
+
+I just like Proxmox because you can configure many things for your guest, without touching the config and if I have to touch the config it's pretty simple, standard KVM configs are XML based and changing things is very time consuming for me..
+
+I'd stick to Proxmox, but their new 4.2 kernel has problems with IOMMU grouping and they don't provide the older 4.1 kernels in their repo and I don't wanna compile their old kernel myself. And my threads are being ignored, even the threads of subscribers are being ignored, so I don't know if they will ever fix this issue..",2015-12-20 13:52:32+00:00,cy5gm5m,2.0,t1_cy57v1t,32113.0,homelab
+237,scam inc,2015-12-20 13:36:21+00:00,cy5gbqj,2.0,t1_cy592wo,28163.0,homelab
+238,my dreams have been shattered into pieces :&lt;,2015-12-18 16:53:11+00:00,cy3jgad,2.0,t1_cy3d3y8,11413.0,g2a
+239,"Most Z87/Z97 Gigabyte mobos support VT-d as far as I know, my GA-Z87X-UD5H atleast does, many MSI mobos and ASRock also do support VT-d. I'd go for a Gigabyte, since ASUS boards sometimes claim to support VT-d but actually don't..",2015-12-18 16:31:08+00:00,cy3ilnx,8.0,t1_cy3hzpy,971.0,pcmasterrace
+240,"This board doesn't support VT-d. 
+
+Intel Virtualization is VT-x, not VT-d.",2015-12-18 08:27:24+00:00,cy37vzv,6.0,t1_cxww9u6,465593.0,pcmasterrace
+241,"Well, if you can type reboot, then try to write the dmesg and the syslog output into a file before you reboot, else no one could really help you.",2015-12-18 08:25:25+00:00,cy37usu,2.0,t1_cy058mr,215974.0,pcmasterrace
+242,"Can I somehow force the IOMMU Grouping?
+
+I'm using Proxmox with Debian Jessie on my server with the latest Proxmox Kernel (4.2.6), which has the ACS Override patch included, but even with ""pcie_acs_override=downstream"" in the GRUB bootoptions, my SAS controller and my AMD graphics card still get mapped to the same IOMMU group, which means I can not pass through the GPU (device or resource busy) when I already pass through the SAS controller to another guest...
+
+Since the Proxmox devs are slow and don't really seem to care even about subscribers, I need to fix this myself somehow, but I'm actually way too lazy to compile my own Kernel.. So is there any way to force my GPU or SAS controller into another IOMMU group?",2015-12-18 08:22:52+00:00,cy37t9b,1.0,t3_3lno0t,7689130.0,pcmasterrace
+243,"We are a group of friends, so ostracizing someone is not really an option and I don't want to tell the other about how I feel, it's not like I hate him or anything. I'd like to replace him yes, but I think I might take on the grudge of the whole group if I tell them my opinion about it, since we are playing ""for the fun"", but my definition of fun is progress and getting through quick, so I can do other stuff too...
+
+I might check out LFG or maybe I'll ask some other peps from my clan if they'd let me raid with them, we have one group that did the challenge, I might get to play with them, I got asked just yesterday but I declined cuz we were doing the nightfall... I regret this decision.
+
+Thanks for the offer, problem is, midnight EST is 6am in my country (CET) and I'm usually sleeping at this time, haha.",2015-12-17 21:44:21+00:00,cy2ow83,7.0,t1_cy2nm0q,1896.0,DestinyTheGame
+244,"Well we just tried again, different roles, two roamers were titans so they could place bubbles into the middle for the platformers.
+
+Problem now was, knights often didn't get killed, ogres were killed pretty late and one of the roamers, which was the first platformer before died endlessly, I'm starting to think that he's just careless.. I'm giving up on this shit, 3 hours oryx, didn't even get to the second shade of oryx...
+
+Two of our members are just plain cancer in this game... I'm at a point were I really have to hold back flaming, this isn't fun at all, I'm gonna search for a new group, maybe I'll join a more serious clan..
+
+It's just these two people dying constantly, doesn't matter which role they play, they die...",2015-12-17 20:26:36+00:00,cy2lr79,5.0,t1_cy2f3d9,9895.0,DestinyTheGame
+245,"Thanks bro, I'll tell our platformers, we'll generate some orbs at the beginning so the titans can use the bubbles on their platforms, that's actually what our first platformer always did, but when I was platformer, before I was declared as new supporter cuz of mad sniper skillz, I never had a problem with dying on the platform..
+
+After the knight was down, there were three things I was focused on, killing acolyte eyes or better the acolytes themselves, shredding the centurions tracking projectiles and not being hit by the ships cannon, I never even stood at the corner of the platform, but still had no problem staying alive (as titan &amp; warlock).. And most of the time the runner already had the relic, so I didn't have to deal with the ships cannon that often.
+
+But we even tried the challenge on normal mode and the same people died at least twice on all three tries.. So it's probably the fact, that they had to change their default raid tactic, since we always had dedicated platforms but rotational platforms are more convenient since we can have two fixed roamers..
+
+Also since it's always the first platformer that dies, we may need to change the order and let our warlock do the first platform.",2015-12-17 15:14:07+00:00,cy29g0h,3.0,t1_cy28e56,1849.0,DestinyTheGame
+246,"I agree.. We down them in 1-2 secs without any supers, just two supporters at the top, shooting them in the critical point, nothing more to it...
+
+We got more of a problem that our first platform holder died frequently on his platform at a point, where neither knights or ogres could kill him since they're all dead...
+
+Any tips for our platform holder? We said he should stay at the corner of the platform, I dunno if he does it right since I'm busy supporting...",2015-12-17 12:40:12+00:00,cy25bkj,4.0,t1_cy21v4p,13905.0,DestinyTheGame
+247,"Well, our group has trouble with holding the platforms on hard mode...
+
+Me and another one play support from the big plateaus, since we're 314 and 316 and have some good snipers. So the Ogres too melt like ice cream (they die before the next one even has spawned), without bubbles or shadow shots. The real problem is, that our platform holders always die because of the ship or the acolyte eyes and we don't know how to prevent that... I on the other hand, never had any problems on my platform, back when I wasn't playing as supporter.
+
+Took us 2:30h and still didn't kill Oryx once because the first platform holder always died...",2015-12-17 12:22:41+00:00,cy25056,1.0,t3_3x4oim,53766.0,DestinyTheGame
+248,"yes I bet there is a cap at 319 where no 320 items will drop anymore but no one knows so everyone keeps grinding until dey ded IRL, damn bungo",2015-12-17 12:12:44+00:00,cy24tzv,2.0,t1_cy1wqbk,26753.0,DestinyTheGame
+249,"Just think a bit outside of your Anti-Murica box, not every English-speaking individual is from the US you know?",2015-12-17 12:02:13+00:00,cy24nox,3.0,t1_cy21fe8,13259.0,DestinyTheGame
+250,no,2015-12-17 11:52:13+00:00,cy24hwa,2.0,t1_cy244h3,1437.0,DestinyTheGame
+251,"Aww, thought there might be a chance to get the big titles, but it was obvious that this was just a dream of mine, which is now crumbling away slowly, like a burnt cookie..",2015-12-16 16:41:22+00:00,cy14xg8,2.0,t1_cy143su,1210.0,g2a
+252,"If you look at the people that managed to do the challenge: http://destinytracker.com/dg/4348117661
+
+You'll see, that one has 3 ogre kills, so ogres are not a factor as it seems, since some peps say, that four people have to kill an ogre. But that would mean that guy didn't kill one ogre he would have to kill if four people should kill four ogres.
+
+And as some of them used their supers, it seems that not using the super is also not a relevant factor in completing the challenge.
+
+Knights also can't be a factor since there are no knights in the normal raid, except the yellow one.
+",2015-12-15 10:34:55+00:00,cxzlwiv,2.0,t1_cxzloug,883.0,DestinyTheGame
+253,I really hope they let us know how to do it..,2015-12-15 10:24:56+00:00,cxzlraw,2.0,t1_cxzlpj0,200.0,DestinyTheGame
+254,"16 blight bomb method skips the artillery phase, not the shade phase",2015-12-15 10:05:30+00:00,cxzlh1t,2.0,t1_cxzl431,1472.0,DestinyTheGame
+255,"Cheapest one, described with ""as new"" is 320€, but isn't delivered via Amazon, so I don't have the usual free 30 day guaranteed return, I also have had bad experiences with third party retailers on Amazon, except with those that ship via Amazon, but there are no retailers that ship via Amazon for the Z3C.
+",2015-12-11 08:18:32+00:00,cxv5f79,4.0,t1_cxu3aej,64010.0,PickAnAndroidForMe
+256,"Before the Z5C released the Z3C was about 330€, now it's 380€ so it got even more expensive... If it were still around the old price it'd buy it, but adding 50 bucks on a last gen phone? Nope, not that I don't have the money, I won't buy it in protest against Sonys greedyness, this is just a marketing trick, to get people to buy the newer phone. 
+
+What about the third gen Moto G? Is it smooth? Can I go 24 hours straight with 3-5 hours screentime?
+Like I said, aside from DrawSomething I don't play any games, just Whatsapp, Facebook and sometimes looking up things on the internet, no LTE needed and no fancy camera, the 8MP cam on the One X was enough for me.
+
+How is the battery life on the Honor 6/7?",2015-12-10 10:51:26+00:00,cxtys7o,2.0,t1_cxtyj7m,1112.0,PickAnAndroidForMe
+257,"Try it, I told you how it works, but I can't confirm that the challenge is still active.",2015-12-08 13:09:15+00:00,cxrgpvo,4.0,t1_cxrghxl,622.0,DestinyTheGame
+258,"get someone with a checkpoint at Golgoroth and try again
+
+or log into the raid with a second char before starting Golgoroth to get the checkpoint. if you didn't make the CM just change to the second character again, have all people join the second char and then change the character and join one of your people, then you could try again.",2015-12-08 12:48:49+00:00,cxrgai6,2.0,t1_cxrg96a,113.0,DestinyTheGame
+259,"It was confirmed that one orb strategy works, we just need different gaze holders, so we can take one orb down, first holder takes the gaze, second holder waits behind Golgoroth, takes the gaze at 1 second and everyone jumps out of the pool, two people gather behind and two in front of Golgoroth and rotate with shooting him in the back when it opens to take the gaze until the dmg phase is over. Rinse and repeat.
+
+Every player gets a number 1-6, everyone has fixed tasks this way and this won't create trouble and timing errors.
+
+That's a simpler way and four people can do damage to Golgoroth, with some hunters it would be possible to take him out in two phases, otherwise three and it doesn't differ much from our standard strategy. We killed Golgoroth yesterday on hard within 3 phases with just 4 people in the pool, since one died at the beginning, so 4 people doing dmg should be sufficient enough.
+
+This should technically work perfectly fine.
+
+*Edit:* Yep seems my theory works, OP got updated with pretty much this strategy.",2015-12-08 12:34:41+00:00,cxrg0lb,6.0,t1_cxrfst0,701.0,DestinyTheGame
+260,"so am I getting this right, you down the first orb, one guy takes the gaze and another one would wait behind golgoroths back to take the gaze next.
+the other people jump down into the first pool on the left, damage golgoroth, as soon as the pool disappears they shoot down the next orb while switching out the next gazeholder and we do that until all orbs have been downed or all six people had the gaze which ends the damage phase?
+
+I am so confused, everyone screams ""two orb strat"" and ""down all the orbs"" but I don't effing get it...",2015-12-08 12:02:21+00:00,cxrfg5t,4.0,t1_cxrf1rh,1530.0,DestinyTheGame
+261,"We did our first hardraid today, we got the totems on the second try but we were stuck at the warpriest for two and a half hours until we canceled it for today...
+On normalraids we don't need more than two phases since we all got the spindle, but today the auraholder really had problems with killing the acolytes and always died and in the second phase we always wipe because of the damn hobogobiln shots he fires at us...",2015-12-01 23:09:42+00:00,cxjpibm,6.0,t1_cxjjdg8,8555.0,DestinyTheGame
+262,but did you wipe before the warpriest?,2015-12-01 15:51:54+00:00,cxj6vb8,4.0,t1_cxj5x5h,1566.0,DestinyTheGame
+263,"Someone said they had four brands and got the items, some people also killed him in two but one team mate died and they got nothing. 
+So I'm really sure if two brands and one death really are conditions.
+
+My question is, may the whole team wipe before the warpriest in the annihilator totem part and still get the loot? 
+Or does the whole team have to stay alive until the warpriest challenge is completed?",2015-12-01 11:17:28+00:00,cxj092k,2.0,t1_cxiziz6,3229.0,DestinyTheGame
+264,"Oh jeez, I think I want these!",2015-11-30 11:35:33+00:00,cxht9dh,3.0,t1_cxht83e,154.0,pcmasterrace
+265,"Damn son. I have a few Amazon coupons worth 250€ and on Amazon they'd cost me 590€ (-250=340 oh boy), maybe I should get these instead of a PeasantStation 4 for christmas?
+
+Ever listened to metal/rock with these?",2015-11-30 11:24:49+00:00,cxht42h,1.0,t3_3uu2iz,4692.0,pcmasterrace
+266,"There aren't any tools to check for bottlenecks directly,you could do benchmarks with different hardware and compare, but that's it as far as I know . But for gaming not even a second gen i7 would really bottleneck anything yet, except maybe for some poorly optimized physics sandbox games that utilize the CPU for physics.
+
+SSD and HDD don't influence FPS, only loading times.
+
+RAM normally won't bottleneck, but you could squeeze out 1-5% more performance by using the maximum bandwith your CPU supports, but it's not noticable and won't create bottlenecks. Not even Single-Channel could really make a huge impact in gaming.
+
+For now you could upgrade to a Titan X SLI and there wouldn't be any bottlenecks with your current hardware.
+
+The only thing that really can bottleneck your gaming performance would be a CPU with low clock speed (&lt;2.5GHz) and fewer than 4 cores. But for now I don't think your i7 could even bottleneck the next gen of Nvidia cards.",2015-11-30 11:02:42+00:00,cxhsthz,1.0,t3_3uu419,2362.0,pcmasterrace
+267,"Tempmonitoring tools save lives.
+
+Back then HWInfo saved my 2500K from death (turned off reset on high temps in the BIOS ( ͡° ͜ʖ ͡°) thug life), when my cpu fan died while the cpu was on heavy load and the temps hit the 90°C mark. Still my Scythe Mugen 3 did a pretty decent job at semi-passive cooling, cuz it didn't go over 93°C, ggwp.
+
+Anyway, Nvidia master race?",2015-11-30 10:26:18+00:00,cxhsd73,1.0,t3_3up8r2,85129.0,pcmasterrace
+268,"He probably used a translater, because he made some issues, because if someone is using ""demurrage fee"" and afterwards saying ""the Musilms here are very bad"", then you definetily know, that he got ""demurrage fee"" from a translator. He may be not as stupid as most scammers, but English isn't his native language, for sure. ",2015-11-24 17:21:56+00:00,cxbkb0n,4.0,t1_cxbhlbt,3916.0,Scams
+269,"Creative indeed, but an FBI agent referring literally to the FedEx agent who wrote me 5 minutes ago? A little too suspicious haha, not that I'd have believed it more than, but it would have created a more realistic scenario. But there were flaws in their or his plan, since nobody from any bigger company would seriously use Gmail to contact me..
+
+But it was really funny and he even used the current events and made racist hints that idiots might have believed, I really enjoyed this kind of scam haha.",2015-11-24 16:39:40+00:00,cxbijdj,4.0,t1_cxbhd6c,1711.0,Scams
+270,"An update, when I wrote back and said that this was the best scam I've ever received and I never had such a good laugh, he wrote:
+
+&gt; ""Ok if that is the way you feel, your package was sent to the FBI agent
+here for clearance and ask that you be contacted, but if you want to
+laugh over this, it ok by me and i wish a good laughing time and when
+next you hear of ISIS attack, the guilt will be on you knowing that
+you could have help to stop in one way or the other, have a nice day,
+bye.""
+
+Haha, so terrorism is my fault because I didn't want $50k? HAHAHA
+Probably some kids that wanted to buy a new Xbox from my $350, too bad for them.",2015-11-24 08:41:24+00:00,cxb7l2s,2.0,t1_cxb7cdv,919.0,Scams
+271,"Hahaha I just got an email from a FedEx agent (he wrote over a gmail account LMAO) that there is a SEALED package with a debit card of $50.000 and the activation pin here, they just need my address and phone number. How do they know, that there is 50k on this debit card, when the package is sealed? Magic? Never knew FedEx had such powerful spells.
+
+So I said ""nice scam"", then he said:
+
+&gt; ""No this is not a scam, this was payment was initiated by the united
+nations and why i want you to believe me is that the Muslim in this
+country are diverting the funds to their Muslim brothers and sisters
+across the world and you can guess what they will do with this money.
+So i want you to work with me on this so you can receive the payment
+and put it for charity work and i can also assist to make the
+processing fee of $350, let me know what you think.""
+
+Seriously? Hahaha oh god, so I wrote him, that I won't give him my address etc. because this seems far from legitimate and he wrote:
+
+&gt; ""I do not mean any harm, i am a christian but the Muslim here are very
+bad and we must do anything to stop them. They will use the diverted
+funds to carry out terrorist activities, killing innocent people
+including women and children. My friend, feel free with me and lets do
+what we can to do to ensure that you receive this payment, OK?""
+
+**A MINUTE LATER I RECEIVED AN EMAIL FROM THE FBI HAHA**
+
+&gt; ""Good day,
+Your package has been verified and certified OK for delivery to your door steps as the package does not contain drugs, arms/weapons or any illegal material. It was however discovered that you have not yet paid a demurrage fee of $350; you are hereby advice to contact the courier agent;*** to make this mandatory payment so that your package can be released for delivery to your given address.""
+
+*** was the name of the FedEx agent, haha seems legit. This is the best scam I have ever received, never had such a good laugh. I'd really like to have the $50k, but $350 is just too expensive, but maybe Obama contacts me next and I'll receive a discount. ( ͡° ͜ʖ ͡°)",2015-11-24 08:26:05+00:00,cxb7cdv,1.0,t3_3ty97n,60664.0,Scams
+272,"Hmm well I guess I'll try my old HD6950 and do some benchmarks etc. if it works, which in theory it should I might buy a Fury X and try it out, if it doesn't work I'll just send it back.
+
+I know that KVM definetly works good with GPU passthrough even with Nvidia cards, but I want to virtualize with ESXi since it's widely used for virtual FreeNAS systems and I don't really trust KVM since I only see FreeNAS users virtualizing via ESXi, I know it's possible, but still a risk..",2015-11-08 20:25:28+00:00,cwt7fg6,3.0,t1_cwt59w9,3094.0,buildapc
+273,"I'm thinking about using DirectPath for an R9 Fury X in my server, so I can ge rid of my gaming rig, but I'm not sure if it's really compatible, since the 295X2 doesn't work according to the post you linked. But maybe the dual GPU is the reason why it doesn't work, if 
+thats the case all single GPU cards from AMD should work with passthrough, right?",2015-11-08 13:01:39+00:00,cwst8e6,1.0,t3_39h50m,12941921.0,buildapc
+274,I might have to quite my job LMAO,2015-11-08 11:32:31+00:00,cwsrz1n,1.0,t3_3ryr7v,30645.0,pcmasterrace
+275,"so damn true, these console peasants are trying to run games on their winXP computers with a destroyed registry, it's just obvious, that they won't work lol",2015-11-08 11:12:27+00:00,cwsrpx1,2.0,t1_cwsrcml,1790.0,pcmasterrace
+276,"If OpenBox works good with triple monitor setups, then I think it's exactly what I want! Even provides shortcuts so I can switch screens on/off with xrandr easily, awesome!
+
+Does anyone know if the fullscreen bug with flashplayer is still an issue?",2015-10-29 15:50:31+00:00,cwh8zwb,4.0,t1_cwh8r1n,358.0,linuxquestions
+277,I can give it a try. But can I drag and drop windows with the mouse? Is there a taskbar? Like I said at some times I just want to do stuff one handed with the mouse.,2015-10-29 15:34:45+00:00,cwh8cmb,2.0,t1_cwh7m7k,1106.0,linuxquestions
+278,"I can't even.
+
+Depending on how well it works with unRAID, I'm gonna try it with Arch after that, since I don't really need all the fuzz that unRAID provides, cuz I only have one SSD and one HDD in my rig. But for testing it's perfect!
+
+Best thing is, since FreeNAS runs from a USB stick, I can use the SSD from my server in my main rig for unRAID/Arch and then I can keep my current SSD with Windows 10 as it is, awesome.",2015-10-29 11:24:00+00:00,cwh0vrg,8.0,t1_cwh0t0m,267.0,pcmasterrace
+279,"Oh my god, I'm so pumped up now, thank you for showing me this, I can't describe how much I love you in a non-homo way!
+
+Gonna try this out when my server board arrives, I really hope this works as good. Since I'm not really worried about the difficulty to set this up, I'm more worried about the result, since back then my GTX 770 had heavy stuttering issues when using passthrough and it also had driver problems etc.
+
+Did they try out Windows 10?",2015-10-29 11:14:19+00:00,cwh0prx,6.0,t1_cwh0j4r,679.0,pcmasterrace
+280,"I can't watch the video since I'm at work currently, but am I understanding this right, that unRAID now provides support for PCI Passthrough??
+
+If so then I'll definetly put the Xeon back in my main rig and try this out! Last year when pci passthrough became a thing on the Arch Linux forums it was a real PITA because you had to compile the kernel with the right patches etc. and since using GNOME or KDE wasn't a really good experience I gave up on this whole thing. But I also haven't followed this topic since then, so maybe this whole scene has already matured!",2015-10-29 10:58:14+00:00,cwh0gbb,4.0,t1_cwh0bgn,505.0,pcmasterrace
+281,"My main system also has an i7, but the 4770K dosen't support VT-d. I bought the Xeon for the exact same reason, but since my GTX 770 wouldn't run properly with GPU passthrough back then, I gave up on trying and switched back to Windows and put my i7 back in and built my home server with my remaining components. 
+
+Windows also has a more stable multi monitor support.. With GNOME3 I couldn't even watch streams in fullscreen on my desired monitor and KDE always bugged out like hell and just using a light window manager without fuzz and the terminal is pretty annoying, cuz I'm a lazy person and sometime I just wanna lay back and only use the mouse. Also the drivers for the ASUS Xonar are pretty bad on Linux..
+
+At the moment I still run KVM on my home server where I pass through my TV card, but since I almost never watch TV and I wanna switch to ZFS I'm going to switch to FreeNAS and since virtualization isn't that good on BSD and FreeNAS wasn't made for it I don't need VT-d and a Xeon, so I want to find a better purpose for the Xeon, rather than running it 22 hours a day on idle..",2015-10-29 10:33:22+00:00,cwh0294,2.0,t1_cwgzu7d,929.0,pcmasterrace
+282,"Would be an option, yes. But then I could actually leave the Xeon in my server and then running F@H on my server. I might go with this. 
+
+But first, I'll look at other people's ideas, thanks!",2015-10-29 10:18:42+00:00,cwgzuo5,2.0,t1_cwgzrr5,347.0,pcmasterrace
+283,"I have no idea, AMD cpus are the worst.. Today you even can get a better i5 for the same price as the shitty FX processors..",2015-10-29 09:47:40+00:00,cwgzflz,2.0,t1_cwgvdx7,15487.0,pcmasterrace
+284,"Well I did my first sword the legit way. But it took me over five matches where I was lucky and found some afk dudes or people that were already damaged to a point I could kill them with the sword handle. Because if you are at the heavy ammo chest, you are an easy target, I almost never get the heavy ammo alive..
+
+That's the reason why I got two friends and they let me kill them (and it took only one match, not five). I didn't do anything to anyone and still two angry kids that wanted to be the very best  had to flame me for boosting and being shit at the game and ruining the game etc etc, lmao.",2015-10-28 16:34:58+00:00,cwg14pk,8.0,t1_cwfozsa,26204.0,DestinyTheGame
+285,"Well, I bought my redbull code from ebay haha.
+And I don't really give a damn about haters, I even get hated on for ""boosting"" when doing the 25 swordkill quest in the crucible with a friend, because ""I'm ruining the game""..",2015-10-27 20:08:19+00:00,cwezy8k,6.0,t1_cweu82c,7897.0,DestinyTheGame
+286,"Fun fact, it's actually a lynx not a tiger, but they still call it tiger mask. I wonder if this was intended or if Bungie actually can't distinguish a lynx from a tiger, lol.",2015-10-27 15:15:29+00:00,cwendbd,5.0,t1_cwen1s8,495.0,DestinyTheGame
+287,"Yeah, probably, but a ghost would also count as cosmetic IMO, atleast if it doesn't have more than 280 defense. 
+
+But an emblem and/or a shader would be more likely. And I doubt they'd give out a legendary ghost, since the redbull ghost is also just a rare 200 ghost..
+
+And why can I only post every 10 minutes this is annoying..",2015-10-27 14:54:43+00:00,cwemjy6,4.0,t1_cwelhyd,1685.0,DestinyTheGame
+288,Back in year one there also was a Strike playlist called Tiger,2015-10-27 14:30:53+00:00,cwelnkp,3.0,t1_cwejjje,3665.0,DestinyTheGame
+289,"Rngesus praised me with good luck and pay2win. I bought 12 of the legendary chests and got all legendary masks except the legendary engramm and the oryx mask. And then I realized how stupid I was to pay money but Bungie hypnotized me because I expected to get something from completing the quests. But I didn't and now I have 15 masks without any use.
+
+But buying accessories in a game is like being drunk and getting a tattoo.. NO RAGRETS ( ͡° ͜ʖ ͡°)",2015-10-27 14:02:28+00:00,cwekn1u,2.0,t1_cwejuqe,1388.0,DestinyTheGame
+290,"After I completed the last quest, I got the Gift Bag from the quest, one for a full candy sachel and one random Gift Bag, I guess this random Gift Bag was for completing all three quests.
+
+But I really hope that there'll be more quests for the other masks that weren't needed within these quests. I also want a little reward for completing everything or owning all masks, a cool Halloween ghost shell or a burning shader that fits to the skull mask. That would be so cool!",2015-10-27 13:44:57+00:00,cwek1g6,2.0,t1_cwehbzk,6044.0,DestinyTheGame
+291,"I really hope that there'll be more quests, since I got about 10 legendary masks and I already did the other quests, so basically all the legendary masks are useless otherwise..
+
+A Halloween themed ghost shell would be awesome, like a pumpkin or a shell styled like the blue skull mask or even a blue skull ghost, holy moly that would look so cool if the Ghost would become a flying blue skull! BUNHGY PLZ FIXX",2015-10-27 13:24:26+00:00,cwejdkx,1.0,t3_3qax5y,72534.0,DestinyTheGame
+292,nope you can't,2015-10-27 13:00:59+00:00,cweip6h,4.0,t1_cweigkf,527.0,DestinyTheGame
+293,yup,2015-10-27 12:51:01+00:00,cweifer,2.0,t1_cwei60k,599.0,DestinyTheGame
+294,"I'm not sure, but I'm currently testing all the weapons and the Imago doesn't feel so well, mainly because I almost never played handcannon at all, the slow reload and the small mag make me feel unsafe when surrounded by so many enemies. But I'll keep it, but it won't become 310 this week.
+
+On the other hand my Righteous with 100 stability just mows through all the enemies like a hot knife through butter! But I might compare it to An Answering Chord before I infuse my 310 exotics.
+I'll buy an Apple of Discord and farm a Grasp of Malok too and compare them, because my Hawksaw I just tested, just has too low stability and the other perks aren't that awesome.",2015-10-23 22:55:49+00:00,cwalkdi,4.0,t1_cwakntl,1681.0,DestinyTheGame
+295,"Yeah the Imago is pretty cool, but I'd prefer one with outlaw or Spray and Play instead of Relentless Tracker, so I thought I should grind some more and maybe get one. I'll give it a try and do some patrol at least!",2015-10-23 22:24:40+00:00,cwakk3f,2.0,t1_cwajz8z,1054.0,DestinyTheGame
+296,"http://www.gamesradar.com/bungie-says-theres-no-10-year-plan-destiny/
+
+Anyway, yes if Destiny 2 really become a standalone title, people could uninstall Destiny and all the money would go to waste. There is a high chance that you can transfer your old chars, but still, year 1 and 2 content won't be available anymore, so just to get some emblems or shaders from the old raids you couldn't get back in year 1/2, you have to put in the old Destiny disk and hope the servers won't be shutting down anytime soon. All that would result in a huge shitstorm.
+
+And if someone like me can think of this, the people of Bungie probably also have thought this through. I don't think they want to mess with their community that hard, so it'll probably just be a huge update like the 2.0 patch and the game will release just like TTK.
+
+But we will see, like the title says, it's just a rumor. Until Bungie confirms it, I'll wait.",2015-10-22 18:52:23+00:00,cw95hmx,2.0,t1_cw8wds3,13157.0,DestinyTheGame
+297,Bought Vortex PBT Caps from /u/SRTroN,2015-10-22 16:46:31+00:00,cw9082a,1.0,t3_3n2oya,1849586.0,mechmarket
+298,"Awesome app, but I wish you'd remove the gunsmith from the filters, since he now only sells greens and reimplement this filter for the Vanguard and Crucible Vendor Armor, since this is the only thing that's not static. Also put the Vanguard Quartermaster and the Crucible Quartermaster into the Static tab, since the perks on their weapons don't change.
+
+I only wish for an app, that I can setup to notify me, if the vendors sell some good gear with INT and DIS and the perks I prefer and Tower+ is actually very near to becoming this app, I'd really donate if you would make this happen.",2015-10-22 12:45:58+00:00,cw8rese,1.0,t3_3bmvjc,9843255.0,DestinyTheGame
+299,"I'm a developer myself and I can confirm, that most of my job consists of waiting for the compiler to build the software, just to test the one line of code I changed and realize, that I completely fucked up. Rinse and repeat.",2015-10-22 12:34:15+00:00,cw8r4jy,2.0,t1_cw8qcj8,2097.0,DestinyTheGame
+300,"That would be great to prevent addiction. 
+
+Because I've played Destiny non-stop in the past couple of weeks since TTK and I've already lost 13 pounds lol. At least my work doesn't suffer from this.",2015-10-22 12:17:36+00:00,cw8qqoi,2.0,t1_cw8pjkh,3704.0,DestinyTheGame
+301,"Well, the article states they plan a two year release cycle, so ""New Game, Expansion, New Game, Expansion..."" so it really sounds like it will be a completely new game, which means people probably have no access to year one missions if they don't own the old game.
+
+But it's really unlikely that they dare to force hardcore players to create new characters.. 
+
+But still, you can never fully trust the gaming industry, they sometimes make horrible decisions, which could have been prevented if they had common sense in the higher ranking positions.",2015-10-22 11:38:23+00:00,cw8pxw4,2.0,t1_cw8piqu,1430.0,DestinyTheGame
+302,"Yeah just like World of Warcraft which also gets expanded every time.
+By the time it has grown over 60GB, but no real player gives a damn about the size of a game and Playstation players can replace the harddrive and Xbox players can expand the space with external drives, so I see no real problem here..
+
+But download times can be a problem, so would be really cool if they provided the disks, just like WoW.",2015-10-22 11:33:49+00:00,cw8pux7,2.0,t1_cw8pj2e,1125.0,DestinyTheGame
+303,"I too thought, that his article is more likely to be referring to TTK, but the shitstorm would be the biggest in history if people would have to create new characters for every new Destiny they release.
+
+But you can never fully trust the gaming industry, they like to mess up games.",2015-10-22 11:30:54+00:00,cw8pt18,2.0,t1_cw8pj3v,946.0,DestinyTheGame
+304,"+ 60 sec invincibilty for every hit, including full stagger even for ultras, 100% agility for wearing it and 0.1 sec grenade and melee recharge. so we can do some flawless King's Fall solo in hard mode.",2015-10-22 11:15:33+00:00,cw8pjd5,2.0,t1_cw8kl2u,19484.0,DestinyTheGame
+305,"Uh, he was talking about TTK:
+&gt;  TTK was so low it was insane.",2015-10-22 11:05:49+00:00,cw8pdlf,6.0,t1_cw8pc9a,144.0,DestinyTheGame
+306,"If you owned Destiny and the two first expansions, then it's your own fault for paying 100 bucks.",2015-10-22 10:50:11+00:00,cw8p4ty,4.0,t1_cw8orof,1473.0,DestinyTheGame
+307,"I'm fine as long as I can keep my characters and get a discount for owning the ""old"" games, just like TTK. But if it's a NEW game it sounds like I have to pay the full price, for a new game, to play new characters, with new mechanics.
+
+I want it to stay the way it is, with new content and some bug fixes and improvements, so pretty much an expansion.",2015-10-22 10:48:30+00:00,cw8p3wn,3.0,t1_cw8ozsw,440.0,DestinyTheGame
+308,"If I had to leave behind my characters, I'll quit Destiny.. I already spent too much time getting my three chars over 300, I don't want to start from zero again.. But Bungie would be crazy if they did that, at least, I hope they will enable character transfer or something like that.",2015-10-22 10:23:33+00:00,cw8oql9,2.0,t1_cw8om01,549.0,DestinyTheGame
+309,"They also made Advanced Warfare, so they are probably here to ""fix"" PvP. ( ͡° ͜ʖ ͡°)",2015-10-22 10:21:51+00:00,cw8opr7,2.0,t1_cw8omf1,395.0,DestinyTheGame
+310,"Yeah just like Dark Below, House of Wolves and Taken King were new games, oh wait, they weren't.",2015-10-22 10:18:56+00:00,cw8oo9k,2.0,t1_cw8om7g,245.0,DestinyTheGame
+311,"Oh god, if this really solves my problem I'm gonna freak out, thank you!
+
+**Edit:** Oh uhm isn't this for digital games? I don't have a digital version of Pokemon and a dump isn't a digital version..",2015-10-21 13:42:59+00:00,cw7koba,2.0,t1_cw7jbp4,2727.0,3dshacks
+312,"Well I don't know, but if I mount the .3dz with my old save game and open SDF it says CTR Broken and I can't dump the save. Just like this guy: https://gbatemp.net/threads/how-can-i-decrypt-my-retail-pokemon-x-save-for-use-on-gateway.378557/
+
+Yes it's a main file, but like I said, it's a new save without any story progress. It's a new game with all my backed up Pokemon from my old save, I know I can inject it via SDF into my Rom, but it won't help me with my problem, since this is not the save I need.
+
+http://www.maxconsole.com/maxcon_forums/threads/286557-Dumping-Saves-from-CARD2-games-seems-broken-for-Gateway-3-0?p=1731496#post1731496
+This is exactly my problem, the save was used with a new encryption (dunno which one it is when I played on 8.1.0) and therefore my save isn't compatible, so I have to start a new game and the problem is I can't extract the save with SDF until I started the new game, with my old save it says **CTR Broken**",2015-10-21 13:39:44+00:00,cw7kklf,4.0,t1_cw7jlgb,1941.0,3dshacks
+313,"I can't export the save via SDF because the save was encrypted with the new encryption method from firmware &gt;6.0, so I hoped that there is a way to inject it back into the cartridge.
+
+Since I put all my Pokes into the Pokebank, I started a new game and used Pokebank to transfer them to my new save which I backed up via SDF, I have a decrypted save with all the Pokemon at least. But I hoped I could somehow get my story progress etc. back. 
+
+But if there is no way I can decrypt the save from the gateway dump, I can't use the save.",2015-10-21 13:03:13+00:00,cw7jhbo,2.0,t1_cw7ived,1426.0,3dshacks
+314,"You can transcode media into a playable format for weaker devices, like your phone or tablet and you can set it to a lower quality so you can stream the files from your NAS to wherever you have access to the internet.",2015-10-15 14:24:42+00:00,cw0n4n5,2.0,t1_cw0lhrj,3016.0,kodi
+315,"&gt; I just came from using Plex and Kodi to using Emby and Kodi about 2 months ago and I'll say the biggest difference is that new Emby for Kodi addon integrates directly with the Kodi DB; no more only using certain skins, you can use whichever skin you want, populate widgets with any of the emby sections (or custom playlists that you create) and users will be none the wiser.
+
+I just installed Emby on my home server and I'm already in love and path substitutions are exactly the thing I was looking for, this couldn't be more awesome!",2015-10-15 13:35:44+00:00,cw0lj6m,2.0,t1_cw0l6a6,712.0,kodi
+316,"Perfect, I currently use nfs shares between my HTPC and my homeserver over a gigabit network which works just fine, but thanks for the tip, if it doesn't work I'll know what to do.
+
+Then I'd say, Emby, here I come! ( ͡° ͜ʖ ͡°)",2015-10-15 13:03:12+00:00,cw0kln8,2.0,t1_cw0jl2x,2524.0,kodi
+317,"It looks actually pretty cool, I was about to buy the Objection IV from the New Monarchy, but compared to the Objection, Baron's Ambition has slightly better stats! But I honestly hate the SABER Strike, so it could become a PITA to farm a good one haha. BUT since I need a machine gun more than a second primary, I might go with this one!",2015-10-11 16:46:02+00:00,cvvxd05,2.0,t1_cvvtxdb,6561.0,DestinyTheGame
+318,"Well but if I find a good Imago Loop it's worth keeping. Until now I like the Hung Jury SR4 the most, the one you can buy from the Dead Orbit with Firefly and Triple Tap, mine is 310 and it's just awesome. But I'd like to have another sniper, I got 1000 Yard Stare and it's rolls are ok, but it doesn't really ""feel"" good to play with.
+
+I haven't found anything useful from the raid yet, I had the scout rifle, the sniper and the shotgun and I've infused every piece into my other weapons. I mean the perk which reloads stowed weapons is cool, but I've played a while with the raid weapons, but I never really needed these perks that often, in fact, I never had to make use of them and the reload speed is as slow as switching out weapons, that's cool for the Wizards and Oryx yeah, but for that purpose I got Touch of Malice.
+
+I also have the raid helmet, chest and the titan mark, but I don't really like the design, so I'm waiting to get my hands on some other legendaries with some good rolls or waiting to get something to infuse the gear with good rolls, I mean it's cool to have the raid gear to show off, but I honestly like the vanguard gear design better. The raid perks don't make a real significance to me, maybe for running raids with randoms where everyone screws up or if you want to do a 4-man run. 
+But with my raid team, I don't need the Take That perk from my helmet or Old Gods Boon from the chest.",2015-10-11 13:42:46+00:00,cvvs4ee,2.0,t1_cvvq6i1,6343.0,DestinyTheGame
+319,"&gt; Destiny 2
+
+wat?",2015-10-01 23:30:08+00:00,cvl3rif,2.0,t1_cvkwtjt,11155.0,DestinyTheGame
+320,"I don't know about your buddies, but mine don't want any money just for lending their accounts, lol.",2015-09-16 07:13:02+00:00,cv39mhq,6.0,t1_cv2u3u0,33360.0,xboxone
+321,"Still not illegal, since there is no law that forbids this, they may suspend my account, but that's it.",2015-09-16 07:11:51+00:00,cv39lt8,6.0,t1_cv2u6hs,33165.0,xboxone
+322,"That's ok, awesome! You can send me your Paypal email via private message, I'll send it via the send money to friends function, so you don't have to pay the Paypal fees, is that ok for you?",2015-09-16 07:06:10+00:00,cv39im8,10.0,t1_cv2wwpp,28124.0,mechmarket
+323,"The first normal answer, thank you!",2015-09-15 21:06:38+00:00,cv2s6yj,6.0,t1_cv2s009,291.0,xboxone
+324,But what about sharing the account of my buddy?,2015-09-15 20:50:56+00:00,cv2rjzi,4.0,t1_cv2r6w2,504.0,xboxone
+325,"Buying accounts is also legal, since there is no official law that prohibits account sharing. It may be against the TOS of Microsoft, but the only thing they can do is ban my account.",2015-09-15 20:50:17+00:00,cv2rj04,4.0,t1_cv2r3ld,588.0,xboxone
+326,But what about sharing the account of my buddy?,2015-09-15 20:48:41+00:00,cv2rgkh,4.0,t1_cv2r5in,419.0,xboxone
+327,So even sharing the account of my buddy wouldn't work?,2015-09-15 20:48:13+00:00,cv2rftm,4.0,t1_cv2r8eo,286.0,xboxone
+328,Yeah a parcel via Royal Mail to Germany only costs £2.80,2015-09-15 20:44:45+00:00,cv2raf7,8.0,t1_cv2qnj9,900.0,mechmarket
+329,£25 including shipping to Germany and we have a deal. :),2015-09-15 20:43:25+00:00,cv2r8co,8.0,t1_cv2qmo1,854.0,mechmarket
+330,Where does it say anything about setting it as home console in the product description?,2015-09-15 20:39:26+00:00,cv2r1zi,2.0,t1_cv2qn1l,601.0,xboxone
+331,"If I have the disc version of Destiny then it's not bound to my account, only the extension packs.",2015-09-15 20:38:34+00:00,cv2r0p2,2.0,t1_cv2qnn2,524.0,xboxone
+332,"Have you even read what it says in the description? It says nothing of setting the Xbox as home, also GK4.me is definetly a legit site, I bought Diablo 3 and Spore from there.",2015-09-15 20:38:05+00:00,cv2qzxl,2.0,t1_cv2qpiw,421.0,xboxone
+333,Awesome thank you!,2015-09-15 20:27:51+00:00,cv2qkp7,8.0,t1_cv2lmxu,7237.0,mechmarket
+334,"As I found out, there are no digital codes for Destiny, there are some sites that sell accounts with Destiny digitally, where you have to login into that account, download the game and then disconnect from the internet and then start the game with my own account and then I can delete the other account. But I can't possibly imagine that this really works... Else I could do that with the account of a friend..",2015-09-15 16:18:53+00:00,cv2gky6,2.0,t1_cv2g5gd,674.0,DestinyTheGame
+335,"Are you back? Sorry for being so pushy, but I'm really excited for those PBT caps. :&gt;",2015-09-15 07:30:53+00:00,cv24hqi,6.0,t1_cutl93t,656231.0,mechmarket
+336,"Well, there is another problem, it needs a separate powercable since it draws some much electricity, but I don't have any free sockets and they are also pretty damn big, so I can't just hide them behind my TV. :/
+Also spending 75 per switch just so that I don't have to get my lazy ass from the couch is too much, then I'd rather prefer to stand up and push two buttons haha.
+
+I think the only real options for me are to either mod my current switches with the relays etc. or buy an electrical USB switch and mod it with the transistors. Personally I'd prefer to keep my current switches, that would also be the cheapest way, but without knowing what I have to do, I won't be able to accomplish it. :/",2015-09-12 13:11:23+00:00,cuyxqey,16.0,t1_cuyx7oq,1692.0,arduino
+337,"Well I can't find any, if I search for KVM switches with ethernet port it only shows me network switches, normal KVM switches or KVM extenders, but no KVM/USB switches with an ethernet or a serial port for control, the Extron SW4 is the only thing I found yet, it's really hard to find these.
+
+So I have to build one myself probably.",2015-09-12 12:32:16+00:00,cuyx12i,14.0,t1_cuywvl5,539.0,arduino
+338,"No I am speaking of gaming consoles and hotkeys won't work on a 360 controller, since it's not a keyboard... 
+
+I want to switch these via serial port so I can implement them in my home automation system and then just use my voice recognition and just say ""I want to play Xbox One"" and it turns on my AVR, my Xbox One and switches the inputs of the USB devices automatically and I don't even have to get up to hit the buttons manually. Currently almost everything is working already like this, the only thing missing would be the USB switches and that's exactly why I need them to be controlled via serial, since the only USB switch I found that CAN be controlled via serial is the ""Extron SW4 USB Switch"" but this thing costs over 250 on ebay and I need three of them which is just too much.",2015-09-12 12:05:24+00:00,cuywkwr,12.0,t1_cuywbc3,1057.0,arduino
+339,"Oh right I haven't said it yet, I currently use one switch to switch my keyboard and mouse between my PC, Homeserver and my XIM4 (it's a USB adapter for consoles so I can play with keyboard and mouse), the second switch is for switching my wireless keyboard and my Xbox 360 Controller between my PC and my HTPC and the third switch is for switching the XIM4 between my Xbox 360, Xbox One, Playstation 3 and soon my new Playstation 4, so I don't have to replug it all the time.
+
+So USB over network wouldn't work since I don't only switch between computers.",2015-09-12 11:03:05+00:00,cuyvp16,10.0,t1_cuyvfpa,1236.0,arduino
+340,"The four port switch would be good, but two of three reviews say, that it's pretty much a piece of garbage.. But if there was something similar which is also software driven and has better quality I'd buy it for sure.
+
+The problem with writing a Linux program would be, that I'm a Java web developer, so reverse engineering or writing my own software could be kind of a hassle for me..
+
+I'd do it if I can, but the switch doesn't sound that promising..
+
+I'm assuming that you're a fellow German, since you send me an Amazon.de link? :D",2015-09-12 09:57:18+00:00,cuyuwbn,8.0,t1_cuyugob,2102.0,arduino
+341,"Someone on /r/arduino said I need relays to mod these kind of USB switches because they are mechanical and not electric.
+
+It seems pretty difficult to mod my current switches, so I probably can't do it without someone that looks over my shoulder and tells me what I need and how I hook it up.. :/",2015-09-12 09:03:21+00:00,cuyu8il,8.0,t1_cuycvrl,42595.0,raspberry_pi
+342,"Ah well, that's not an option, the switch only has two ports, but I need four.
+Also since I live in the EU so I have to wait 60 days and also have to pay taxes for shipping from the US and on Amazon this thing costs 15€ which is more than the doubled price.
+
+It's not like I can't do it with the modding, but I surely need some help. I know an electrician, so maybe he could help me with this a little. I just hoped I could do it on my own, so I could learn something from this, you know?",2015-09-12 08:59:30+00:00,cuyu6t5,6.0,t1_cuyt9zy,4138.0,arduino
+343,"Aw what a bummer, I thought transistors can be used for these too, since these mechancial switches also just bridge some contacts as it seems.
+
+It seems it's not that easy to accomplish for me like that, I mean I could buy the electronical switches and mod these that way, but for  a moment I hoped I could get what I want for less money, since I wanted to mod all three of my mechanical switches, but the thing with the relays also sounds more complex again and I'm not sure if all of that can fit nicely in the case. :/",2015-09-11 21:32:15+00:00,cuydjuf,4.0,t1_cuyctmu,1225.0,arduino
+344,"The thing you said with the transistors and controlling them via a Raspberry would be possible to accomplish for me, with a little help I could even get it to work with an Arduino via serial and there would be enough room in the case for the Arduino! Would also be nicer and cheapter to do this with a little Arduino instead of an RPi.
+
+Here are some pics from my current switches which could also be modded this way: http://imgur.com/a/plZJP
+
+I could desolder the buttons, but I just have no clue in which way to hook up the transistors, haha. Could I do this with an Arduino Nano/Micro/Pro Mini or a similar clone? It has more than 4 PWM pins so that would be enough for 4 transistors for all the 4 buttons, right? Sorry I have no idea, I'm just asking to understand.",2015-09-11 20:59:53+00:00,cuyce1c,2.0,t1_cuy6cyg,9731.0,arduino
+345,"Aight, I disassembled one of my current USB switches and found out it should theoretically be possible with one of these too! Here are some pictures: http://imgur.com/a/plZJP
+
+But there are 8 pins per button, so I don't really have clue how I have to connect the transisors, do I need 4 transistors for each button or wut?
+",2015-09-11 20:37:39+00:00,cuybkif,6.0,t1_cuy77xa,7103.0,raspberry_pi
+346,"Someone mentioned using transistors and a Raspberry, so option 1. would be technically possible for me. :)
+
+Here are the pictures of my current switch: http://imgur.com/a/plZJP
+
+Would be possible with these to accomplish this with an Arduino too, but I'd need a little help with this.",2015-09-11 19:59:54+00:00,cuya5it,4.0,t1_cuxz8o2,17006.0,arduino
+347,"I'd love to build one myself, but easier said than done for someone like me haha, I'm sadly not that well versed with these kind of things, I can solder it together when someone exactly tells me what I need and how I put it together, but that's it..
+
+I already googled for a guide but it seems noone has accomplished this yet. Like someone after you said I could replace the buttons with transistors, that would probably even work with my current analog USB switches and a Raspberry for example, at least someone like me could handle this without a guide, but it would be really cool if I could build the whole thing myself yes.
+
+**Edit:** Here are some pictures of the disassembled USB switch http://imgur.com/a/plZJP",2015-09-11 19:58:19+00:00,cuya3ch,2.0,t1_cuy5cjf,7595.0,arduino
+348,"That seems simple enough for me to accomplish, thanks for the explanation! But which GPIO pins do I have to use and I also would need one GPIO pin per transistor, so I need four GPIO pins for a 4 port switch, I can't just use any GPIO pin I want, or can I?
+
+Sorry for the misunderstanding I created, with adding one or two more switches I mean one or two more USB switches, because I currently use about three of them one USB switch to switch my keyboard and mouse between my PC, Server and my XIM4 adapter, another one for switching my 360 controller between my PC and HTPC and one to switch my XIM4 adapter between my four consoles. 
+
+So I basically need three USB switches that should be controlled over GPIO, if possible I'd like to control every USB switch with just one single Raspberry, since buying one Raspi for every USB switch would be pretty expensive haha.",2015-09-11 17:57:39+00:00,cuy5kx0,4.0,t1_cuy2fi8,4815.0,raspberry_pi
+349,"That actually sounds simple to me, is there a way I can keep the buttons instead of replacing them? Could I just solder the transistors on the back of the button contacts?
+How do I wire the whole thing up to the GPIO pins then? Because it has 4 buttons, I also thought about adding one or two more switches so I'd have to wire up to 12 buttons.
+
+I thought of something similar, but instead of FHEM I thought about setting up a REST service with NodeJS and pi-gpio and acessing the REST service via FHEMs curl module on my home server. But that doesn't matter anyway since I only need to access the GPIO's, I can figure out the software part myself. :)",2015-09-11 16:25:58+00:00,cuy1z7d,2.0,t1_cuy1izn,679.0,raspberry_pi
+350,"Oh well, using a servo for this sounds pretty inconvenient, also, how would I know how many times I have to push it when I don't even know which input is currently selected?
+
+I mean yeah I could say input 1 is currently selected and it saves the input, but what if the switch resets but my script or whatever still has saved input 3? Then things get pretty messed up, this is not really the way I wanna go. :/ It's just a workaround.",2015-09-11 15:02:25+00:00,cuxyp3q,2.0,t1_cuxy5dj,884.0,arduino
+351,Why not both?,2015-09-11 07:00:34+00:00,cuxosn9,3.0,t1_cuwsyof,56760.0,DestinyTheGame
+352,"IMHO the only ""Tool"" we would need for this, would be a chat, like in most RPG games a simple chat with a few channels and a few IRC like commands like /whisper etc. 95% of all the people have a USB keyboard at home, so they can just hook it up and use the chat, EZ. That also wouldn't be a huge thing for the devs to implement, atleast not as huge as an In-Game LFG system.
+
+Also people could communicate In-Game with this so the ""Social"" places like Queens Bay and the Tower would actually become social and not a place of people who can't talk, because in the current state it's more like a place of introverts.
+
+And if you can type fast enough, you could actually use this in Raids so people could raid without mics, although you can't use it in hairy situations.
+
+Of course there will be flamers, but most of the toxic kids can piss people off without a chat, so that wouldn't make a real difference.",2015-09-10 14:14:55+00:00,cuwqux7,1.0,t3_3ij8j8,1260504.0,DestinyTheGame
+353,"IMHO the only ""Tool"" we would need for this, would be a chat, like in most RPG games a simple chat with a few channels and a few IRC like commands like /whisper etc.
+95% of all the people have a USB keyboard at home, so they can just hook it up and use the chat, EZ. That also wouldn't be a huge thing for the devs to implement, atleast not as huge as an In-Game LFG system.
+
+Also people could communicate In-Game with this so the ""Social"" places like Queens Bay and the Tower would actually become social and not a place of people who can't talk, because in the current state it's more like a place of introverts.
+
+And if you can type fast enough, you could actually use this in Raids so people could raid without mics, although you can't use it in hairy situations.
+
+Of course there will be flamers, but most of the toxic kids can piss people off without a chat, so that wouldn't make a real difference.
+",2015-09-10 13:30:56+00:00,cuwpi4g,1.0,t3_3i9l2j,1432458.0,DestinyTheGame
+354,"Nope, there are no reasons for keeping the stock ROM, there's nothing in FireOS that you can't do with custom ROMs. :)
+
+But, except for CyanogenMod, Wi-Fi doesn't work on the secondary slot with the latest SafeStrap 4.0.1 with any rom, not even with stock on the secondary slot, it's a common problem listed in the known issues of the latest Safestrap. Maybe you were talking about Safestrap 3.75 but with the latest it definitely doesn't work.",2015-09-10 10:06:03+00:00,cuwljwt,9.0,t1_cuw720z,37156.0,kindlefire
+355,"No problem, I can wait :)",2015-09-08 21:05:05+00:00,cuuunvd,6.0,t1_cutl93t,100283.0,mechmarket
+356,"So no one else replied until now, I think I'll just buy the caps from you then! So would you make me an offer?",2015-09-07 11:52:31+00:00,cutd3o5,4.0,t1_culutfo,594144.0,mechmarket
+357,"So it's probably not worth the extra money for an SSHD and I should buy a normal HDD with 7200RPM and I'd still get a little improvement in loading times, right?",2015-09-06 15:19:49+00:00,cusieh6,2.0,t1_cusfepr,7697.0,xboxone
+358,"But well, let's imagine, I run Prison of the Elders in Destiny multiple times, so the most used assets of the map will be saved on the SSD, atleast the ones that fit into the 8GB cache.
+
+So technically, it should load a little faster? Or is the benefit so insiginficant that I should just buy a normal HDD with 7200rpm?",2015-09-06 15:18:02+00:00,cusicpd,3.0,t1_cushazd,2399.0,xboxone
+359,"I said external, not internal..",2015-09-06 14:57:47+00:00,cusht1w,2.0,t1_cusdgsr,14120.0,xboxone
+360,"Doesn't work on Xbox One, I have all the extensions from the M$ store, today my optical drive died for no reason, just three days ago when I last played everything worked fine and it has to happen exatly today, when Xur finally has the Saint-14 helmet for my Titan...
+
+Well, so I activated the trial from the Xbox Store and went to the Tower and I was so relieved, until I realised Xur is in the Reef not in the Tower, back to Orbit, but YAY the Reef is not accessible for Trial Mode MOTHERFUCKING YAY!!!!!!!!!!!! I hate the Xbox so much, this is the second one now that died on me.... And I won't get my helmet and have to wait another 30 years until I get it.
+
+And since I own all  the expansions and preordered TTK already, buying Destiny digitally would be a waste of money just for a single exotic, I could buy the collectors edition of TTK but again, waste of more money for the three exotics.. ",2015-09-04 15:59:41+00:00,cuqjgld,1.0,t3_3ji9wp,83515.0,DestinyTheGame
+361,"Yeah there is also a thread with stock roms which you can install again, also it's pretty obvious that you make a backup of your stock rom slot before installing anything else... And with that backup you can restore it to the stock rom slot.
+
+If you use a recovery like Safestrap or TWRP you can't really brick your device, since the bootloader isn't unlocked etc.
+And if your device is semi-bricked there are plenty of tutorials on xda to unbrick it.",2015-09-03 09:14:28+00:00,cup33wf,9.0,t1_cuoo5ju,37858.0,kindlefire
+362,"Yeah I also hat all the restrictions that Amazon puts into their RestrictionOS.
+
+Oh and I also forgot to mention, if you use Safestrap and install a custom rom like HDX Nexus or CyanogenMod 11, use the Stock ROM slot, because Wi-Fi doesn't work with HDX Nexus and FireOS on secondary slots, CM-11 works but using a rom on the secondary slots creates a huge battery drain.
+
+I have CM11 running now since two weeks and it works flawlessly, except you can't make phone calls but whatever, that hasn't worked with FireOS either and I don't need it, so I disabled the Phone app and a few other apps with Titanium Backup. ",2015-09-02 13:09:58+00:00,cuo2yi5,7.0,t1_cuo0fjo,7401.0,kindlefire
+363,"Well, since someone down below already offered his and he's from the UK it would be more profitable for me, because if you shipped from Canada it would cost me with shipping and import sales tax around 40-45€ for the keycaps. In the worst case I'd have to pick my package up at the customs which would also cost me money and time for driving there.
+
+Since the UK is part of the EU, shipping would be faster, no import sales tax and no problem with customs. 
+
+So I have to decline your offer, thanks!",2015-09-02 09:18:07+00:00,cunyz7s,4.0,t1_cunry6z,21511.0,mechmarket
+364,"Aight that's ok, tell me when you're back, have a nice holiday!",2015-09-01 07:11:27+00:00,cumstrj,4.0,t1_culutfo,58880.0,mechmarket
+365,Unused? Where do you ship from? How much do you want?,2015-09-01 07:08:22+00:00,cumsrsu,2.0,t1_cummvv8,14360.0,mechmarket
+366,"Thanks! No problem, if I can't get any until then, I'll let you know.
+
+How much do you want? They aren't used, right?",2015-08-31 14:21:16+00:00,culttdt,2.0,t1_culsrxp,1994.0,mechmarket
+367,"Yeah it's just GW2, other games run fine. He uninstalled GW2 already, out of frustration, so if he reinstalls it, it would count as a repair probably, but I'll tell him anyway.",2015-08-31 12:16:27+00:00,culqfvv,2.0,t1_culnf9x,11409.0,Guildwars2
+368,"We'll check this out thanks, I had exactly this problem with my GPU because my custom cooler was too heavy.
+
+But it's unlikely that this is the same problem in this case, since other games that are way more demanding, are running perfectly fine without FPS drops etc.
+
+Also when my GPU ran with 4x I could still play all the games, be he just has 1 FPS, which is, even if the GPU runs at 4x, way too low.",2015-08-31 12:09:03+00:00,culqaj1,2.0,t1_culplfu,2154.0,Guildwars2
+369,"It's worth a shot, I had a similar problem with my GPU a while ago, because my custom cooler was so heavy, it pulled the PCB down so my GPU was not properly recognized and it only ran with 4x. But since his GPU has a Backplate und the cooler is not that heavy, I don't think this is the case here..",2015-08-31 11:53:45+00:00,culpziy,2.0,t1_culn9qf,10711.0,Guildwars2
+370,"Nice, in which timezone do you live?",2015-08-29 18:00:07+00:00,cujwtll,4.0,t1_cujv02c,3422.0,DestinyTheGame
+371,Yeah I speak English pretty well I'd say. I would be glad to join ya!,2015-08-29 15:54:48+00:00,cujstft,2.0,t1_cujqd1y,5015.0,DestinyTheGame
+372,Thank you but I'm on Xbox.. But I'm really thinking about getting a PS4 and Destiny for it.. Seems like the majority is playing on PS4.,2015-08-29 14:01:02+00:00,cujpmhf,2.0,t1_cujpcw3,701.0,DestinyTheGame
+373,"Thank you very much, but sadly I'm an Xbox player.. :(",2015-08-29 13:59:21+00:00,cujpl3u,2.0,t1_cujp1w3,1402.0,DestinyTheGame
+374,"Well if I look for ""German"" I can only find PS4 players, but sadly I'm an X1 feg.. I regret, buying an Xbox because of Halo, I really do.",2015-08-29 13:56:44+00:00,cujpiyh,2.0,t1_cujomzg,2456.0,DestinyTheGame
+375,"Yeah you can upgrade your old gear to light +42 and with one exotic shard you can upgrade an exotic gear item and then your should have be on level 33, atleast if the rest of your non-upgraded gear has Light +36. In my case I am missing a legendary helmet or better the Saint-14 for my Titan, but Xur doesn't offer any helmet engrams this weekend nor the helmet itself so I'd have to do some PoE but since PoE 32 doesn't have matchmaking... well fuck you too Bungie.. I mean, they COULD implement the matchmaking easily, but they don't because of the ""social aspect of the game"". Yeah, the social aspect is pretty much ""if your friends don't own an Xbox and Destiny, then fuck you and your friends"".",2015-08-29 13:54:58+00:00,cujphgq,2.0,t1_cujp33j,1049.0,DestinyTheGame
+376,"Changed my settings on Saturday, haven't received anything until now.. My email is verified tho..",2015-08-25 19:02:01+00:00,cufdmeq,1.0,t3_3fb6pe,2167195.0,DestinyTheGame
+377,"Wow lol, 3 mid range AVRs, my TV bank can only fit one :D
+
+Well, I thought about buying the Denon X3200W, it has two HDMI Zones and I will just Mirror Zone 2 with the HDMI Splitter, that I already have. I will probably use only two zones at the same time anyway.
+The Main Zone is for my TV and Soundsystem and Zone 2 will be for my Monitor when I want to play console at my desk where my PC is and mirror this zone to my bedroom when I want to watch a movie or play in my bed.
+
+I just thought, that maybe there is an AVR that has three zones so I can control each zone separately, but it's not that much of a big deal to only have two zones and mirror one, like I said.",2015-08-25 16:40:14+00:00,cuf7vy7,2.0,t1_cudybjt,91205.0,hometheater
+378,"I pretty much want to do the saming thing an HDMI matrix does, with my AVR. The thing is, my current Denon is controllable via Telnet so I can send it commands via FHEM and automate many things and use my voice control.
+
+Is there any HDMI matrix out there, that supports HDCP 2.2 and can be controlled via the AVR? I don't want to have to use another remote just for switching inputs of the matrix and the matrix would have to be placed in my field of view so the IR works..
+
+Well, I thought about buying the Denon X3200W, it has two HDMI Zones and I will just Mirror Zone 2 with the HDMI Splitter, that I already have. I will probably use only two zones at the same time anyway.
+The Main Zone is for my TV and Soundsystem and Zone 2 will be for my Monitor when I want to play console at my desk where my PC is and mirror this zone to my bedroom when I want to watch a movie or play in my bed.
+
+I just thought, that maybe there is an AVR that has three zones so I can control each zone separately, but it's not that much of a big deal to only have two zones and mirror one, like I said.",2015-08-25 16:22:34+00:00,cuf75wl,2.0,t1_cudu18k,98406.0,hometheater
+379,"4 inputs are sadly not enough for all my devices and I also don't really want another remote just for this, or is there any AVR out there than can control this Matrix over RS232?",2015-08-25 16:20:35+00:00,cuf72zu,2.0,t1_cudszoc,101075.0,hometheater
+380,"Yes downgrade is possible, root is also possible, did it yesterday, here is the link:
+http://forum.xda-developers.com/kindle-fire-hdx/general/rollback-13-3-2-8-rollback-ota-captured-t3046204
+
+This post contains everything, downgrade, a link to the other firmware versions, how to disable OTA and root, everything works fine. (BTW remember to restart after rooting, it will restart anyway but you have to manually restart, else it will say that your device is not rooted)",2015-08-21 07:18:39+00:00,cuafext,5.0,t1_cu4qvq8,418741.0,kindlefire
+381,"I once rooted my Kindle and installed HDX Nexus which drained the battery like hell, then I went back to stock and because the FireOS back then also drained the battery I updated to the newest Firmware and it seems Safestrap currently only works with FW 4.5.2 and I have 4.5.5, so a custom rom is out of the question for my Kindle.. :/
+
+How is the battery drain with the current CM11 on the KFHDX?
+
+**Edit:** Oh well, I just crawled through xda and found out I can downgrade my Kindle, so I did and now I installed CM11 since HDX Nexus seems to have a problem with wifi, maybe it's just me though.. I'll observe the battery drain within the next few weeks and see how it goes, right after installation it's pretty bad tho..
+
+My battery loses 30% in one night, the batterylife of cm-11 is horrible..",2015-08-19 16:50:24+00:00,cu8f7yx,4.0,t1_cu8ahqs,7088.0,manga
+382,"Not on Kindle Fire HDX, the notification bar of my Kindle does not disappear, Manga Watcher on the other hand does start in fullscreen and the notification bar disappears.
+
+On the Amazon app store Manga Rock is also shown as incompatible with my KFHDX so I have to install it manually via the apk, maybe the incompatibility is the reason why fullscreen doesn't work.
+
+But Manga Watcher has a cool feature where I can write my own json file for parsing other Manga sites, so I'm currently working on a parser for mangatraders. Manga Watcher is really the best thing atm, but I when I click on catalogues it just shows a blank screen, is this normal?",2015-08-19 09:12:49+00:00,cu82rar,2.0,t1_cu7mgv0,36152.0,manga
+383,"But I was talking about Manga Readers where I can browse for Manga...
+Downloading the Manga and putting it on my tablet would be no different from the way I did it until now, except I wouldn't have to convert it to MOBI but that doesn't matter..",2015-08-18 17:07:30+00:00,cu78376,4.0,t1_cu77lqa,706.0,manga
+384,Does it have mangastream support?,2015-08-18 16:51:00+00:00,cu77eq2,2.0,t1_cu777ca,292.0,manga
+385,"Tax is +19% and gladly they can't charge me any handling fees if they were not mentioned in the shipping costs or at the purchase agreement. In the EU such hidden clauses are not permitted, so I don't have to pay them.
+
+But yeah, you're right about the delivery time, I ordered it on thursday and got it on saturday and I'm pretty happy with my Ducky! :&gt;
+Just have to get more familliar with the layout.",2015-08-18 13:13:17+00:00,cu6zkqu,2.0,t1_cu1gmba,438556.0,MechanicalKeyboards
+386,"I asked in the XIM4 forums and there actually could be an option!
+This guy: https://www.youtube.com/watch?v=8rxQnlkpyIY
+
+He is trying to build a custom gaming keypad with a real analog stick and it's mechanical and it is intended to work with the XIM4, so it's exactly what I want. :))))
+I hope he soon finds a designer for the case or gets it done on his own, because I wanna buy it so hard!",2015-08-13 06:50:02+00:00,cu1cc7j,14.0,t1_cu0jz79,49669.0,MechanicalKeyboards
+387,"I don't think it's licensed, but the ToC of Sony doesn't forbid third party hardware like that, so you are free to use stuff like KB/M translators. I mean most of the steering wheels and arcade sticks are third party if not third party only accessories, so using a XIM4 etc. can't be against any rules, at least if you don't use any macros.
+
+Well, I found out that the Orbweavers ""analog Stick"" pretty much works like a normal D-Pad, so it's not a real analog Stick, which pretty much loses the purpose for this whole thing. And modding a 100€ keypad with the risk of damaging things, since I never replaced switches and my soldering skills are pretty mediocre since I'm shaking more like my 78 year old granny..
+
+**Edit:** Ok to remove the switches I wouldn't have to solder anything, but I don't like the LEDs either and for that I have to solder and my equipment sucks pretty much.
+The Logitech G13 has a real analog Stick, but isn't mechanical...",2015-08-12 08:23:02+00:00,cu06b25,12.0,t1_cty62i9,139348.0,MechanicalKeyboards
+388,"I don't wanna wait that long.. Since my K70 died on me the second time, I had to return it to Corsair, now I got a new one, but since I don't trust these keyboards anymore, I want a new one and sell the K70 as new, so I can't use it. I'm currently using my MX-Board 3.0 as replacement, but I have to use these ugly rubberdome keyboards at the office which is really unpleasant, I normally use the MX-Board 3.0 at the office..
+
+Oh I thought this accessory was officially from Sony? And it doesn't really look that convenient to me, with my XIM4 I can use almost any keyboard and mouse I want and the XIM4 probably has a way better translation than anything out there and also support for pretty much all of the consoles I have (XBONE, XB360, a PS3 and soon a PS4). 
+
+The only thing I would prefer over a keyboard to have is a Logitech G13 or a Razer Orbweaver since it also has a cool analog Stick which would be perfect, but the G13 has no mechanical switches and the Razer doesn't come with MX-Reds and I want MX-Reds, also the green backlight doesn't fit anywhere within my setup..",2015-08-10 09:56:04+00:00,ctxt0uk,10.0,t1_ctxsblx,2957.0,MechanicalKeyboards
+389,"Just put some mineral oil on your ABS keys and there you got your slippery keys.. ololo.
+
+Well, the DS5 is probably more expensive than the DS4 and I wouldn't use the RGB backlighting much since I want it red anyway and I never really had the need of using macros in any game until now, so I'm not sure if I want to pay the extra price just for features I don't really use..
+
+&gt; meh. kb/m is the only way to play an fps. :P they've already released a kb/m type accessory for the ps4 so it's not really cheating now :P
+
+I'm with you here, FPS are meant to be played with KB/M and Destiny has no PC version, so I have no other choice. Didn't knew they released such an accessory, but that means all the kids that are crying ""THAT'S CHEATING"" have to shut up now, since it's officially allowed, that makes me happy. Thank you Sony. :&gt;",2015-08-10 09:01:57+00:00,ctxs96h,8.0,t1_ctxs60h,377.0,MechanicalKeyboards
+390,"I had a K70 before, I didn't feel the need of replacing the keycaps because I knew that the caps aren't standard. But with the Ducky I wanted to try out the PBT caps that many people are loving. With slippery slope you aren't speaking of POM keys, right? :D
+
+I'm currently trying to decide if I should wait for the DS5, since it has a macro recording function, but I'm not that sure if I'd have any benefits from that since I don't play RPGs that often and there also is Autohotkey. I could  benefit from it when playing on console with my XIM4. (yes using KB/M on a console is ""cheating"" and using macros is ""cheating²"", but that is offtopic)",2015-08-10 08:49:56+00:00,ctxs36h,6.0,t1_ctxruja,1019.0,MechanicalKeyboards
+391,"Shieet, well seems like I have to pay the extra fee then..
+Anyways I'm glad that there ARE keys that are compatible to the DS4, since I really wanted a Ducky keyboard, thank you!
+
+I also might buy a Vortex too, I mean, you can never have enough mechanical keyboards, AYY LMAO.",2015-08-10 08:30:04+00:00,ctxrt11,4.0,t1_ctxromy,493.0,MechanicalKeyboards
+392,"Oh I didn't knew that the DS4 supports standard size keycaps since the keycaps say (Vortex), but if these fit perfectly fine on a DS4 I'm gonna buy them. :&gt;
+
+Are there any UK retailers or retailers for these that are located in the EU? So I won't have to pay extra for customs dues. Doesn't have to be ISO layout, I have no problem with buying an ANSI layout DS4. :)",2015-08-10 08:17:44+00:00,ctxrmhq,2.0,t1_ctxrjha,324.0,MechanicalKeyboards
+393,"**She was the one who contacted me in german in the first place.** That's  the reason why I replied in german at first. Also if she doesn't speak the language she can forward it to the german department and tell me, that she forwarded my reply to the german department.
+
+And like I said, as soon as I realized that she doesn't even understand german, I did reply in english, but I'm still waiting for a reply.",2015-08-06 13:49:31+00:00,cttjija,6.0,t1_cttfaog,11041.0,xboxone
+394,"I hope so too, I just found out why the support is still saying I have to take pictures... 
+I wrote my email where I said, that I can't take any pictures, in german, the problem is, this support member doesn't even speak german, in fact she just put my last email into the Google translator, when I just did that the translator translates my german senctence, where I said ""so I can't take any pictures"" into ""so I can take any pictures"". That could be the reason for the misunderstanding, but it's pretty sad that they are seriously using a translator.. that shows their incompetence. That also explains why she is always saying in german ""I am waiting very much for your reply"".
+
+But since I wrote the last mail in english, because I could already guess that she doesn't even speak german, she should now get it, atleast if she understands english.",2015-08-06 09:46:29+00:00,cttedp7,4.0,t1_ctsr505,47335.0,xboxone
+395,"I updated my post, that pretty much confirms, that the Xbox support is on par or even worse than the Steam support. I would rather have a machine giving me support and solving my problem, than having an incompetent person not solving anything...",2015-08-05 20:07:26+00:00,ctspt9d,2.0,t1_ctr6e70,102391.0,xboxone
+396,Posted an update. :),2015-08-05 20:04:13+00:00,ctspo9h,1.0,t3_3fr2gx,105749.0,xboxone
+397,"Well, if the DS4 still costs $160, it's possible, it'll cost at least around 200 bucks I guess..
+I'm thinking, is there any heavy difference in features between the DS4 and the DS5? Because if not, I might just buy a DS4, because I don't really need RGB lighting since I want it red anyway and as far as the pictures look like, they have the same design except that the backlight of the DS5 is visible around the keys, sooo..
+
+**Edit:** Just found out that the DS5 supports macros, that's a huge plus and a reason for me to buy it. :&gt;",2015-08-05 06:55:03+00:00,cts2ldg,3.0,t1_ctrnxov,29094.0,MechanicalKeyboards
+398,"Well, that's the price you have to pay for modding things, sadly.. I'm sorry bro. :/",2015-08-04 19:46:20+00:00,ctrgn3k,6.0,t1_ctr6vvr,13986.0,MechanicalKeyboards
+399,"I tried my TV directly, my AVR and my PC monitor, with the original Xbox One HDMI cable and one from DeleyCON and with every setup I tried to reset my display resolution by holding the eject and the power on button, even three times each, just to make sure. So when I said in my first post, that I tried everything, I mean it, really.
+
+I tried the far left one which says HDMI out: http://thejetlife.com/wp-content/uploads/2013/05/xbox_one_8.jpg",2015-08-04 19:35:18+00:00,ctrg5ku,4.0,t1_ctr61jf,14614.0,xboxone
+400,"I never pulled it out since the last time I played, so yes I am sure. Are there even any other ports where I could mistakenly plug in an HDMI cable, lol?",2015-08-04 15:29:08+00:00,ctr5xzq,2.0,t1_ctr5kmg,574.0,xboxone
+401,"The chat rep already ""resolved"" my problem and opened a ticket for a replacement, took some time but he got it done. 
+I don't get why they are contacting me now about the scratches, because as far as I know he also noted the damage in the ticket and he also should have noted that I get a replacement, not a repair..
+
+I didn't want to call because it said I'd have to wait about 54 mins within the hotline, the chat was more comfortable and the staff is also really nice, even if the second guy called my Tobias instead of my real name lol..",2015-08-04 15:27:22+00:00,ctr5vij,2.0,t1_ctr5oak,310.0,xboxone
+402,"Don't you have any warranty time left? 
+The Corsair support is very nice and would replace it in no time. But you'd only get the new revision with the ugly Corsair gaming logo, which even slightly scales off from the keyboard.
+
+Maybe you could negotiate with them about a repair, they are pretty courteous.",2015-08-04 15:21:54+00:00,ctr5nug,4.0,t1_ctr5g4l,337.0,MechanicalKeyboards
+403,"Sorry, didn't tell ya, I live in the EU, Germany to be precise, so the next RMA center is in Ireland I guess.
+I have been given the option repair or ""beforehand-replacement"" (dunno how they call it in english, maybe it's the advanced replacement you were speaking of?), but I would have to pay 430€, then I'd receive a replacement within a few days and would have to send my old one to them and when it arrives I get the 430€ back.
+
+But since I don't have a credit card and they don't accept PayPal, that was no option for me, I also didn't want to pay 430€ bail for a replacement Xbox, that's more than I have payed for my previous one and mine was new.. And if my old one gets ""lost"", I probably wouldn't get my 430€ back.",2015-08-04 15:17:51+00:00,ctr5iaa,2.0,t1_ctr4ofz,1350.0,xboxone
+404,"I already sent it to the Corsair RMA center to get my replacement since I still have warranty, sorry. :(",2015-08-04 15:12:20+00:00,ctr5arg,2.0,t1_ctr51br,421.0,MechanicalKeyboards
+405,"Glad to hear it's awesome, now I'm really excited!
+I've looked at pictures and it looks wonderful, but I'll look at some vids too after I get home. TBH a Ducky Shine 4 would be enough for me since the only LED color I need is red.
+
+But my german retailer will also have the DS5 until end of September so I'll wait and then decide if it's worth the extra bucks I probably have to pay for. :)",2015-08-04 14:44:48+00:00,ctr4ax3,2.0,t1_ctr0xqe,6697.0,MechanicalKeyboards
+406,"Shieeet awesome, I can wait that long!",2015-08-04 12:13:50+00:00,ctr018v,2.0,t1_ctr00s6,35.0,MechanicalKeyboards
+407,"Ohhh ahhh, thank you, since I downloaded the Aeon MQ5 Extrapack for some backgrounds it should theoretically work now when I select None. But I finally split my Anime from my TV Shows, so I'm happy af, it's awesome that the widgets even work with Smart Playlists, so I don't have to set a custom widget slot for my library. 
+
+I created a custom node which filters my unwatched and inprogress Anime and sorts them by the date I added them, but I might convert it to a playlist, so I can keep my custom widget slots for something else.
+
+I really like it too, works like a charm and is the only skin besides Eminence and the Aeon MQ Series which I found pleasurable. But Eminence doesn't support Skin Shortcuts and Aeon MQ takes forever to get a stable release, the current beta is just for Helix but Team Kodi already released Isengard.",2015-07-27 07:22:08+00:00,cthjey3,6.0,t1_ctgqpys,55756.0,xbmc
+408,"So I installed it now, it works great with the widgets!
+The only thing that bothers me, is that I have no widgets set for Settings, Power, Music or Videos but there is still the latest movie widget appearing above them, it seems like a bug..
+
+For now I used a workaround and defined an empty custom widget for every menu entry which should not contain a widget. Seems like the no widget setting doesn't work with Isengard.
+
+But it's great, I really like it, thank you!
+
+Edit: As I just found out, I can use the same method for custom widgets on Aeon Nox. But I like Arctic Zephyr a little more than Aeon Nox. And Aeon Nox can't use fanart depending on widgets.",2015-07-26 14:40:10+00:00,ctgopwk,4.0,t1_ctfnqld,90478.0,xbmc
+409,"I already use Isengard, so as much as I love Aeon MQ, I can't use it.
+And even if, it's still beta, so I can't expect everything to work..
+
+But as soon as it goes stable I think I'm gonna use it again, it was always my favorite skin before Helix came out. :)",2015-07-25 09:31:03+00:00,ctfk522,2.0,t1_ctf6ann,35886.0,xbmc
+410,"Damn it even looks great! Gonna try this, thanks. :&gt;",2015-07-25 09:27:36+00:00,ctfk3hf,2.0,t1_ctf66in,35890.0,xbmc
+411,Thank you. :),2015-06-29 18:56:54+00:00,csmo5td,6.0,t1_csmo1ju,181.0,torrents
+412,Not sure if sarcasm or Volvo is good..,2015-06-29 18:52:42+00:00,csmnzxb,4.0,t1_csmmn40,2075.0,torrents
+413,"Ok I will change the question, would a normal human with an eyesight of 90-100% see a difference in quality on a 55"" tv from a distance of 2,3 meters (7,6 ft)?
+I really wanna know if the additional 20gig per movie is worth it, or if it's just as much as adding 20 hp to a 500 hp car.",2015-06-29 18:50:55+00:00,csmnxe3,4.0,t1_csmmnap,1959.0,torrents
+414,"Attention, JDownloader resolves the links as chapters, which Mangatraders.org counts as download, so you'll reach your daily download limit with one click, if you hit the 1-500 click'n'load button.
+
+This currently is only for chapters, since I found it very difficult and annyoing to download multiple chapters, feel free to give me some feedback for improvement. (not on my codestyle please, I know it's just hacked together, this was for personal use, so I didn't really care, I just wanted to share this with the world).
+
+You also have to add your account under premium accounts in JDownloader, so JD can resolve the links.",2015-06-25 13:47:06+00:00,csi7j31,1.0,t3_3b2m5g,55.0,manga
+415,"But I can't access the Android Market with a Kindle Fire and without rooting or ugly sideloading of the Google Framework I can't install it on my Fire tablet, so I'd have to download the apk from the Play Store and manually install it and I'd have to manually reinstall it every time there is an update and that's just too much effort, I want seamless usage, which the Kindle Reader provides, I just like the simple user experience, even if it means I'd have to write code myself, which is no big deal tbh since I have a job as programmer.
+
+Thanks. the panel view bug doesn't seem to appear with KCC 4.5.1 so I only have to figure out what is causing the two volumes to appear as a single book and my problems are gone. :)",2015-06-23 10:53:53+00:00,csfrls1,7.0,t1_csfrfzt,662.0,manga
+416,"I found the error which was causing this. I've read the Kindle Publishing Guidelines and found out, that the metadata field 
+    &lt;meta name=""original-resolution"" content=""1200x1920""/&gt;
+was missing, it's included for Kindle devices but not for custom and since Kindle Fire support was dropped, you probably won't implement this for custom devices..
+
+I don't really want to change the reader software, since Perfect Viewer costs 3€ within the Amazon Store and like I said, I want to use the Kindle Reader because I can have all of my books within my library. So I probably have to fork KCC, learn Python and bring back Kindle Fire support or I'll have to implement my own application with Java. But I'll probably learn some Python, since forking your project is easier. :)
+
+But thanks for your quick replies, I really love KCC! &lt;3",2015-06-23 10:35:32+00:00,csfrc9r,5.0,t1_csfq4zl,5381.0,manga
+417,"This is pretty sad.. I didn't want to buy an eReader cause most of them have such a low internal space and the Kobo Aura H2O/HD which have a microSD slot were as expensive as my Kindle Fire HDX and I can't watch movies/anime on an eReader, so I picked the tablet..
+
+There is probably no chance of you picking Kindle Fire support back up right? Is there atleast by any chance a way where I can force disable panel view on MOBI files, which I don't need anyway? Your code already contains a noPV variable, so it probably only needs a way to force it via parameter or a checkbox in the gui.. I'm a Java dev, so I can't really do it on my own since I never used Python..",2015-06-23 08:48:12+00:00,csfpwjq,3.0,t1_csf3irq,46839.0,manga
+418,"I tried to convert some manga for my Kindle Fire HDX 7 tablet, since I like the feature of converting it to MOBI so it will be displayed in my library.
+So I set up the folder structure like in variant C in your Github Wiki, like this (I use Bleach as an example):
+
+    Bleach
+        ComicInfo.xml
+        Volume 001
+            Chapter 001
+                001.jpg
+                002.jpg
+                003.jpg
+            ...
+            Chapter 007
+                001.jpg
+                002.jpg
+                003.jpg
+        Volume 002
+            Chapter 008
+                001.jpg
+                002.jpg
+                003.jpg
+            ...
+            Chapter 016
+                001.jpg
+                002.jpg
+                003.jpg
+
+(I only used Volume 1 and 2 for testing purposes).
+Then I added the Bleach folder to my KCC queue, selected Other as device and format to MOBI and edited the other settings to my liking and then converted it.
+It correctly read the file structure and it also read the info from the ComicInfo.xml and created me a Bleach 1.mobi and a Bleach 2.mobi with the correct authors and covers, as I can see within Calibre. 
+
+**BUT** the title of the books is now Bleach [1/2] and Bleach [2/2], the problem with this is, that on my Kindle it sees them as ONE book, so it shows the cover of Bleach [1/2] in my library but its title is [Bleach 2/2] and if I open the book I can only see the contents of Bleach [2/2] and have no way of accessing Bleach [1/2].
+
+This also is a bit inconvenient, every time I add a volume it has to redo all the existing volumes which takes up so much time and for example if I only put volume 2 into the Bleach folder, it still downloads the cover of volume 2, even if I added &lt;Volume&gt;2&lt;/Volume&gt; to the ComicInfo.xml...
+
+So how can I achieve single volumes which also show up as single books within Kindle and Calibre?
+
+Also is there any way I can disable the panel view for MOBI files? It just shows the upper left corner and if I try to swipe, it just switches to the next page instead of the next panel and I always have to doubletap to see the full page, but the cover for example doesn't have any panels (of course, because it's a cover). I use KCC 4.6 btw.",2015-06-22 19:38:43+00:00,csf36dd,1.0,t3_2rbus4,14598521.0,manga

@@ -1,0 +1,26 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Btw, /r/OnePunchMan is a great looking sub.  I'm surprised it's something that would have a need to post mod logs.",2016-05-28 20:38:36+00:00,d3nb0xd,,t1_d3n99k4,3071.0,unremovable
+1,Are you sure it's not just delayed?  Check out /r/my_testing_sub.  An entry was added.,2016-05-28 19:30:57+00:00,d3n8pop,,t1_d3n6opx,3618.0,unremovable
+2,No problem. I created /r/unremovable because getting the mechanics of it functioning was fun. Thanks for making things interesting again.,2016-05-28 17:22:42+00:00,d3n4etq,,t1_d3n4498,533.0,unremovable
+3,"Seems to be working.  I made a new rss feed from:  
+
+https://www.reddit.com/r/mod/about/log/.rss?feed=5e15805fcfc206697c405f0e99ef55b091f616b4&amp;user=OPM_bot
+  
+and the empty rss:  
+  
+https://www.reddit.com/r/random_acts_of_houses.rss
+
+The rss link rssmix generated was:
+
+http://rssmix.com/u/8193599/rss.xml  
+  
+I then made a recipe at ifttt to post to /r/my_testing_sub when it found a new item.  The recipe was [accepted](http://i.imgur.com/5ojX2l1.png) without errors.  It may not function until there's something new in the rss though.
+  
+",2016-05-28 16:57:21+00:00,d3n3kf3,,t1_d3n2wxy,1165.0,unremovable
+4,"~~You don't need to mix it with anything.  rssmix will make a new rss link with just one source.~~
+  
+Sorry, they seem to have changed that.  Hmm... you need an empty rss feed to add.  Create an empty dummy sub maybe? Restrict submissions and add "".rss"" at the end of the subreddit link for a free feed.
+",2016-05-28 16:28:47+00:00,d3n2lyc,,t1_d3n0mlz,3640.0,unremovable
+5,"Check out our [wiki guide](https://www.reddit.com/r/unremovable/wiki/index). The mod log rss has to be reformatted for ifttt.com. Also, don't make your own mod rss link public.  Use a dummy mod.",2016-05-28 15:17:49+00:00,d3n0av3,,t1_d3n011i,529.0,unremovable
+6,"Now I remember. The mod log went quiet because there's nothing in it. Previously it was logging Automoderator adding link flairs, but now Automod has been integrated into a sub's normal settings. What is seen in our [mod log rss](https://www.reddit.com/r/unremovable/about/log/.rss?feed=f0391012b81286075f0873d23900ab8c1c0be005&amp;user=unremovable-log) is exactly what is in the [mod view](http://i.imgur.com/lhkBxnB.png). ",2016-05-28 14:52:46+00:00,d3mzj2a,,t1_d3mz73a,670.0,unremovable
+7,"Hmm... I honestly don't know. I'm so 'hands off' this sub, I forget to check how she's running.",2016-05-28 14:33:00+00:00,d3myxzw,,t1_d2h7v7x,,unremovable

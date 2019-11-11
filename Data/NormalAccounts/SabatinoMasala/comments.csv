@@ -1,0 +1,19 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,You will keep access forever! :),2016-06-23 11:00:11+00:00,d4kmrd4,,t1_d4gl7kb,,gamedev
+1,"The course itself is in English, and we're using Swift 2.0 (Swift 3.0 version will follow) within XCode. So you'd need a Mac runnin XCode for this course.",2016-06-15 07:14:40+00:00,d49wib8,2.0,t1_d49evw9,31739.0,gamedev
+2,"Sorry, but for the moment being we're only focussing on iOS and web technologies! We do offer game development courses with web technologies, which can easily be wrapped in a native app with Cordova.",2016-06-14 09:18:34+00:00,d48j9uo,2.0,t1_d47zcnn,36844.0,gamedev
+3,"The course will still be free after WWDC, if you claim it now ;)",2016-06-14 07:54:27+00:00,d48hrv2,2.0,t1_d48foa0,5891.0,gamedev
+4,"Once you claim it using the promo code, it'll always be free! ",2016-06-13 22:23:51+00:00,d47xo1r,2.0,t1_d47voey,2773.0,gamedev
+5,"Definitely, I was the instructor on this course, so please feel free to give me some constructive criticism or feedback!",2016-06-13 20:00:09+00:00,d47r63m,2.0,t1_d47r0vm,178.0,gamedev
+6,"You could use whatthefont https://www.myfonts.com/WhatTheFont/
+It's not perfect, but I've had some pretty good results with it.",2016-05-02 15:39:52+00:00,d2ppyjo,1.0,t3_4hhqxd,3062.0,fonts
+7,"Thanks for the great feedback, I'll definitely keep it in mind for the next course!
+
+The demo tween slider is indeed a custom tool I developed. Basically I just took a part of the game, which I then put into a simple webpage, and then I can embed those demo's anywhere I want.
+
+Take a look at this blog post to see one of those demo sliders in action: http://blog.codecaptain.io/webdevelopment/hittesting-using-the-distance-formula/57
+
+It took a while to set it up, but it was worth the effort.",2015-10-29 07:48:23+00:00,cwgxufa,2.0,t1_cwgxfx7,1651.0,gamedev
+8,"You won't regret that decision! If you have any questions or remarks, feel free to shoot me a message, I'd be glad to help!",2015-10-28 22:15:41+00:00,cwgfs0b,2.0,t1_cwgdj3v,3290.0,gamedev
+9,Thanks!,2015-10-28 22:15:00+00:00,cwgfr1b,2.0,t1_cwg9p4m,8513.0,gamedev
+10,"Thanks! If you have any questions or remarks, don't hesitate to contact me!",2015-10-28 22:14:52+00:00,cwgfqv1,2.0,t1_cwg7o1v,11287.0,gamedev

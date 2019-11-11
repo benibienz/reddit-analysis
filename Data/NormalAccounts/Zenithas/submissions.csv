@@ -1,0 +1,4 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-07-12 10:10:26+00:00,self.discordapp,https://www.reddit.com/r/discordapp/comments/4sg9rz/cant_install_on_w7x64/,False,"Have installed as admin, regularly use CCleaner, deleted Discord and SquirrelSetup folders from %appdata%, have stripped all Squirrel &amp; Discord files from drives.  Helpful crash report says ""Install failed"".  Have attempted with 0.0.292, 0.0.291, and 0.0.287, and PTB 0.0.24, no other setups available for testing.
+
+Edit: Have managed to use the workaround posted at https://www.reddit.com/r/discordapp/comments/4p3glz/discord_installer_workaround/ to bypass this issue.  Installer's failure is troubling, and would still appreciate assistance with this matter.  Thank you.",discordapp,Can't install on W7x64.,https://www.reddit.com/r/discordapp/comments/4sg9rz/cant_install_on_w7x64/
