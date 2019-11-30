@@ -2,20 +2,23 @@ import os
 import pandas as pd
 from random import randrange
 from datetime import timedelta
+import pathlib
+
+DATAPATH = pathlib.Path(__file__).parents[1].joinpath('Data')
 
 
-def load_user_posts(username):
+def load_user_posts(username, label='suspicious'):
     """ Loads submission and comment DataFrames for a given user in our database """
-    # TODO: expand this to search regular accounts dir when that is made
-    filepath = f'Data/SuspiciousAccounts/{username}'
+    dir = 'SuspiciousAccounts' if label == 'suspicious' else 'NormalAccounts'
+    filepath = DATAPATH.joinpath(dir, username)
     if not os.path.exists(filepath):
         raise ValueError(f'No data for {username} in our database')
     try:
-        subs = pd.read_csv(filepath + '/submissions.csv')
+        subs = pd.read_csv(filepath.joinpath('submissions.csv'))
     except FileNotFoundError:
         subs = None
     try:
-        comms = pd.read_csv(filepath + '/comments.csv')
+        comms = pd.read_csv(filepath.joinpath('comments.csv'))
     except FileNotFoundError:
         comms = None
     return subs, comms

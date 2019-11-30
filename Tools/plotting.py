@@ -6,11 +6,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import pandas as pd
+import pathlib
+import pickle
 from sklearn.metrics import confusion_matrix
 
 from Data.suspicious_accounts import suspicious_account_usernames_with_posts
 from Tools.util import load_user_posts
 
+DATAPATH = pathlib.Path(__file__).parents[1].joinpath('Data')
 
 def plot_confusion_matrix(cm, fig, ax, classes,
                           normalize=False,
@@ -55,13 +58,16 @@ def plot_train_test_cm(Y_train, T_train, Y_test, T_test, savepath=None):
     plt.show()
 
 
-def plot_suspicious_user_creation():
-    """ Plots hist of creation dates for suspicious accounts """
+def plot_user_creation(label='suspicious'):
+    """ Plots hist of creation dates for suspicious or normaL accounts """
 
-    df = pd.read_csv('Data/suspicious_accounts.csv', index_col='author')
-    print(len(df))
-    # there is one account made in 2010 which messes up the plot so we leave it out
-    df = df.sort_values('created').iloc[1:]
+    if label == 'suspicious':
+        df = pd.read_csv(DATAPATH.joinpath('suspicious_accounts.csv'), index_col='author')
+        # there is one account made in 2010 which messes up the plot so we leave it out
+        df = df.sort_values('created').iloc[1:]
+    else:
+        df = pd.read_csv(DATAPATH.joinpath('normal_accounts.csv'), index_col='author')
+        df = df.sort_values('created')
 
     # we need to convert dates to matplotlib friendly date format with mdates
     created = [mdates.datestr2num(ts) for ts in df['created'].values]
@@ -77,33 +83,39 @@ def plot_suspicious_user_creation():
     ax.xaxis.set_major_formatter(mdates.DateFormatter('%d.%m.%y'))
     fig.autofmt_xdate()
     ax.set_ylabel('Number of accounts created')
-    ax.set_title('Suspicious account creation')
+    ax.set_title('{} account creation'.format('Suspicious' if label == 'suspicious' else 'Normal'))
     plt.show()
 
 
-def plot_user_activity(username):
+def plot_user_activity(username, label='suspicious'):
     """ Plots hist of post activity for a given user or list of users """
 
     if type(username) is str:
         title = f'Post activity for {username}'
         username = [username]
     else:
-        title = f'Post activity for {len(username)} suspicious users'
+        title = f'Post activity for {len(username)} {label} users'
 
     created = []
     for u in username:
         try:
-            subs, comms = load_user_posts(u)
+            subs, comms = load_user_posts(u, label=label)
         except ValueError:
             continue
-        user_metadata = pd.read_csv('Data/suspicious_accounts.csv', index_col='author').loc[u]
+        # user_metadata = pd.read_csv(DATAPATH.joinpath('suspicious_accounts.csv'), index_col='author').loc[u]
         # print(f'User {u} created on {user_metadata["created"]}')
 
         # we need to convert dates to matplotlib friendly date format with mdates
         posttimes = []
         posttimes += list(subs['created'].values) if subs is not None else []
         posttimes += list(comms['created'].values) if comms is not None else []
-        created += [mdates.datestr2num(ts) for ts in posttimes]
+        for ts in posttimes:
+            try:
+                parsed_ts = [mdates.datestr2num(ts)]
+            except TypeError:
+                parsed_ts = []
+
+            created += parsed_ts
 
     fig, ax = plt.subplots(1, 1)
 
@@ -121,17 +133,10 @@ def plot_user_activity(username):
 
 
 if __name__ == '__main__':
-    # plot_suspicious_user_creation()
+    # plot_user_creation('asdr')
     # plot_user_activity(suspicious_account_usernames_with_posts)
-    import pickle
+    # normal_account_usernames = pd.read_csv(DATAPATH.joinpath('normal_accounts.csv'))['author'].values
+    # plot_user_activity(normal_account_usernames, label='normal')
+    res = pickle.load(open(DATAPATH.joinpath('LR_w2v_results.p'), 'rb'))
 
-    Y, T, y, t = pickle.load(open('Data/LRresults.p', 'rb'))
-    print(y)
-    print(t)
-    print(sum(y))
-    print(sum(t))
-
-    print(type(y), type(t))
-    print(sum(abs(y-t)))
-
-    plot_train_test_cm(*pickle.load(open('Data/LRresults.p', 'rb')))
+    plot_train_test_cm(*res, savepath=DATAPATH.joinpath('LR_w2v_results.png'))
