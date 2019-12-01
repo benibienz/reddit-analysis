@@ -6,9 +6,12 @@ from time import sleep
 from psaw import PushshiftAPI
 from pprint import pprint
 from dateutil import tz
+import pathlib
 
 from Data.suspicious_accounts import suspicious_account_usernames, suspicious_account_usernames_with_posts
 from Tools.util import random_date
+
+DATAPATH = pathlib.Path(__file__).parents[1].joinpath('Data')
 
 pd.options.display.expand_frame_repr = False
 
@@ -61,10 +64,10 @@ def generate_submission_df(username, dirname):
     if not sub_dicts:
         return  # no submissions
     df = pd.DataFrame(data=sub_dicts)
-    filepath = f'Data/{dirname}/{username}'
+    filepath = DATAPATH.joinpath(dirname, username)
     if not os.path.exists(filepath):
         os.makedirs(filepath)
-    df.to_csv(filepath + '/submissions.csv')
+    df.to_csv(filepath.joinpath('submissions.csv'))
 
 
 def generate_comment_df(username, dirname):
@@ -76,10 +79,10 @@ def generate_comment_df(username, dirname):
     if not comm_dicts:
         return  # no comments
     df = pd.DataFrame(data=comm_dicts)
-    filepath = f'Data/{dirname}/{username}'
+    filepath = DATAPATH.joinpath(dirname, username)
     if not os.path.exists(filepath):
         os.makedirs(filepath)
-    df.to_csv(filepath + '/comments.csv')
+    df.to_csv(filepath.joinpath('comments.csv'))
 
 
 def generate_suspicious_author_df(usernames):
@@ -100,13 +103,13 @@ def generate_suspicious_author_df(usernames):
                 print('No comments or submissions in election period')
         sleep(0.1)  # avoid hitting API limits
     df = pd.DataFrame(data=metadata_dicts).set_index('author')
-    df.to_csv('Data/suspicious_accounts.csv')
+    df.to_csv(DATAPATH.joinpath('suspicious_accounts.csv'))
 
 
 def generate_user_post_database(usernames, dirname):
     """ Gets comments and submissions for each user in list of usernames """
-    for u in usernames:
-        print('Querying user: {}'.format(u))
+    for i, u in enumerate(usernames):
+        print('Querying user {} - name: {}'.format(i, u))
         generate_submission_df(u, dirname)
         generate_comment_df(u, dirname)
 
@@ -117,6 +120,7 @@ def sample_normal_users(num_users):
     Users sampled by choosing a submission at a random time in the timeframe of interest
     """
     metadata_dicts = []
+    already_sampled = set([s.lower() for s in pd.read_csv(DATAPATH.joinpath('All_Accounts.csv'))['accountName'].values])
     try:
         for _ in range(num_users):
             start_time = random_date(dt.datetime.utcfromtimestamp(START_EPOCH), dt.datetime.utcfromtimestamp(END_EPOCH))
@@ -128,14 +132,14 @@ def sample_normal_users(num_users):
             if metadata is None:
                 continue
             u = metadata['author'].lower()
-            if 'bot' not in u and 'auto' not in u:
+            if 'bot' not in u and 'auto' not in u and u not in already_sampled:
                 metadata_dicts.append(metadata)
                 print(f'Saving user: {metadata["author"]}')
             sleep(0.1)  # avoid hitting API limits
     except Exception as e:
         print(e)
     df = pd.DataFrame(data=metadata_dicts).set_index('author')
-    df.to_csv('Data/normal_accounts.csv')
+    df.to_csv(DATAPATH.joinpath('normal_accounts2.csv'))
 
 
 def get_user_posts(username):
@@ -156,9 +160,8 @@ def get_user_posts(username):
 if __name__ == '__main__':
     # get_user_posts('BlackToLive')
     # generate_user_post_database(suspicious_account_usernames_with_posts)
-    # sample_normal_users(400)
-    users = pd.read_csv('Data/normal_accounts.csv')['author'].values[240:]
-    print(users)
-    # generate_user_post_database(users, 'NormalAccounts')
-    pass
+    # sample_normal_users(2000)
+    users = pd.read_csv(DATAPATH.joinpath('normal_accounts2.csv'))['author'].values
+    # print(users)
+    generate_user_post_database(users, 'NormalAccounts2')
 

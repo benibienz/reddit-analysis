@@ -1,0 +1,472 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-13 11:41:28+00:00,self.PS4,https://www.reddit.com/r/PS4/comments/5cplyk/ps4_pro_hdmi_device_link_not_working/,False,"Hi guys
+
+My old PS4 used to be able to switch my TV on but my new pro isn't doing that. Instead it actually turns itself off when I switch my TV on since I have Auto power on. I've switched it off for now so I can at least use it by switching the tv on manually but it's not great 
+
+Anyone else having HDMI link issues with their TV? ",PS4,PS4 Pro HDMI Device Link not working?,https://www.reddit.com/r/PS4/comments/5cplyk/ps4_pro_hdmi_device_link_not_working/
+1,2016-11-04 03:41:42+00:00,self.PS4,https://www.reddit.com/r/PS4/comments/5b1gvy/could_games_that_dont_have_a_pro_patch_still_see/,False,"Thinking about getting the Ps4 pro for FF15, which isn't getting a day 1 pro patch from what I heard, however could games running on pro without a pro patch still see at least a little bit of improvements framerate wise? FF15 apparently has a bit of a framerate dipping issues in certain areas, perhaps these areas would run better on the pro? ",PS4,Could games that don't have a pro patch still see some improvements?,https://www.reddit.com/r/PS4/comments/5b1gvy/could_games_that_dont_have_a_pro_patch_still_see/
+2,2016-09-07 06:26:37+00:00,self.Falcom,https://www.reddit.com/r/Falcom/comments/51jwm0/the_ironbloods_crimson_wings_and_the_horned_lions/,False,"During the prologue of ToCS II Rufus says their faction is up against 3 main groups
+
+* The Ironbloods
+* The Crimson Wings
+* The Horned Lions
+
+From their conversation I gather than the Ironbloods are those who were loyal to Chancellor Osborne (The Blood and **Iron** Chancellor), so those would most likely be the Royal Military Police (Captain Claire) and the Intelligence Division (Lechter)
+
+I believe they also spoke about Jusis and Class VII, since their jacket is red/crimson, I thought at first that the Crimson Wings must be Class VII and the group from Thors, BUT, I realised after looking up Thors Military Academy that their emblem is one of a [Horned Lion](http://i.imgur.com/AUlkulk.png) 
+
+So who are the *Crimson Wings*? 
+
+**I'm only up to the end of the prologue, so if there are spoilers, please don't tell me!**",Falcom,"The Ironbloods, Crimson Wings and the Horned Lions",https://www.reddit.com/r/Falcom/comments/51jwm0/the_ironbloods_crimson_wings_and_the_horned_lions/
+3,2016-08-24 03:43:37+00:00,self.starbound,https://www.reddit.com/r/starbound/comments/4zalvz/what_does_your_ship_look_like_what_are_you_using/,False,"Just saw [this post](https://www.reddit.com/r/starbound/comments/4z7trb/finished_my_museumship_today_what_do_yall_think/) which I thought was pretty cool, though not really what I would want to do with my ship. 
+
+I've got 2 extra rooms on my ship that I'm not using and I don't really know what I want to do with them. I have:
+
+[Screenshot](http://i.imgur.com/fJMeS5r.png)
+
+* 1 room with all my crafting stations 
+* 1 room with all my lockers/storage
+* 1 room divided into 2 for my crew to sleep in 
+* 1 room rented out to a chef (easy access to food!)
+
+..and not much else for the other 2 rooms, and my ship isn't even fully upgraded yet so I'll have even more empty rooms soon!
+
+I'm thinking maybe I'll start a little ship farm? Seems weird to have on a ship though.. 
+
+",starbound,What does your ship look like / What are you using the extra rooms for?,https://www.reddit.com/r/starbound/comments/4zalvz/what_does_your_ship_look_like_what_are_you_using/
+4,2016-08-20 12:49:23+00:00,self.starbound,https://www.reddit.com/r/starbound/comments/4yovo8/how_do_you_get_more_for_rent_payments/,False,"Been looking around all over the internet but can't find any info about this. 
+
+I've started a [small colony](http://imgur.com/a/O7UcJ) in my home world and getting quite varied amounts of rent payments. Some are paying me 100 pixels, others up to 1000 pixels. 
+
+What governs how much rent someone pays and how do I milk as much money out of my tenants? ",starbound,How do you get more for rent payments?,https://www.reddit.com/r/starbound/comments/4yovo8/how_do_you_get_more_for_rent_payments/
+5,2016-08-19 14:25:42+00:00,self.starbound,https://www.reddit.com/r/starbound/comments/4yj7cm/trying_to_understand_starbounds_player_and/,False,"Hi guys, 
+
+Just trying to understand how Starbound treats Players and Universes across different installations/servers. 
+
+
+1. Do all characters within the same server/local installation share the same universe? 
+
+1. It seems that Players are able to move around to different Universes (by using Join Game in the main menu) but Universes stay within the server - so if you join another server you only carry your character with you, not your Universe too.
+
+3. At home I've just been playing on my main PC, but I want to set up a dedicated server on my media server so my friends can join my Universe. If I just copy over the Universe folder from my PC to the server, will I be able to continue playing as my character in the same Universe? How will the game know where I last was so I'm not spawned in some random planet?
+
+Thanks!",starbound,Trying to understand Starbound's Player and Universe structure,https://www.reddit.com/r/starbound/comments/4yj7cm/trying_to_understand_starbounds_player_and/
+6,2016-08-18 12:30:38+00:00,self.starbound,https://www.reddit.com/r/starbound/comments/4ybzkx/quick_question_what_do_you_do_with_used_codex/,False,Are they worth keeping after you 'consume' them? Or can I just throw them out,starbound,Quick Question: What do you do with used Codex?,https://www.reddit.com/r/starbound/comments/4ybzkx/quick_question_what_do_you_do_with_used_codex/
+7,2016-07-26 06:09:15+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/4un6xo/teamviewer_account_assignment/,False,"Hi guys
+
+Trying to set up TeamViewer for our company at the moment, and we need to get automated account assignments to work so unattended builds can complete without having to click 'Yes' to the prompt every time. 
+
+* We've set up the Service Connection Point in AD exactly as suggested in the manual at: 
+
+&gt; CN=TrustConfigIDs,CN=TeamViewer,CN=System,DC=ad,DC=company,DC=com,DC=au 
+
+and I've tested it on a couple of PCs in the domain, installing the host (with the -idc syntax) it still prompts Yes/No to the account assignment. I've read that a few people have gotten it to work by placing the TeamViewer container outside of System - is this still what you need to do? 
+
+* Is it possible to achieve automated account assignments on full version of TeamViewer installations? The manual states you can do it with the Host module, but has no info for the full version 
+
+Thanks!
+
+",sysadmin,TeamViewer account assignment,https://www.reddit.com/r/sysadmin/comments/4un6xo/teamviewer_account_assignment/
+8,2016-07-14 13:46:54+00:00,self.starcraft,https://www.reddit.com/r/starcraft/comments/4stbq5/how_do_i_view_my_promotion_progress_bar/,False,The promotion progress bar only comes up on the score screen after a match finishes. I can't seem to find it just from the menu itself,starcraft,How do I view my promotion progress bar?,https://www.reddit.com/r/starcraft/comments/4stbq5/how_do_i_view_my_promotion_progress_bar/
+9,2016-07-06 06:25:37+00:00,self.teamviewer,https://www.reddit.com/r/teamviewer/comments/4rh6a6/implementing_teamviewer_in_a_large_enterprise/,False,"Hi guys
+
+I'm implementing TeamViewer in a large enterprise environment, got some questions:
+
+1. A lot of our staff rely on TeamViewer already to remote into and from their own assets. If we enforce installation of our host to enable unattended access with the host being bound to our corporate account wouldn't this disable their ability to log in with their own personal TeamViewer account to remote in to computers bound to their account? Is there any way around this? 
+
+2. Is there any other way to do automatic account assignment without relying on Service Connection Points through AD? 
+
+3. Is there a way to extend the management console so we can search based on their AD user name or AD description? I know there's AD integration but I'm not sure how extendable the interface is and how deep the integration goes",teamviewer,Implementing TeamViewer in a large enterprise - Some questions,https://www.reddit.com/r/teamviewer/comments/4rh6a6/implementing_teamviewer_in_a_large_enterprise/
+10,2016-07-04 13:57:17+00:00,self.AskGames,https://www.reddit.com/r/AskGames/comments/4r7bbs/is_there_a_side_scrolling_game_with_gravity/,False,"Thinking of a game idea where you get to control gravity. Either increase it, or make it non existent, particularly a side scroller.
+
+Is there one like that?",AskGames,Is there a side scrolling game with gravity control mechanics? (xpost /r/gamingsuggestions),https://www.reddit.com/r/AskGames/comments/4r7bbs/is_there_a_side_scrolling_game_with_gravity/
+11,2016-07-04 13:33:14+00:00,self.gamingsuggestions,https://www.reddit.com/r/gamingsuggestions/comments/4r782y/is_there_a_side_scrolling_game_with_gravity/,False,"Thinking of a game idea where you get to control gravity. Either increase it, or make it non existent, particularly a side scroller. 
+
+Is there one like that?",gamingsuggestions,Is there a side scrolling game with gravity control mechanics?,https://www.reddit.com/r/gamingsuggestions/comments/4r782y/is_there_a_side_scrolling_game_with_gravity/
+12,2016-07-03 16:07:02+00:00,self.Posters,https://www.reddit.com/r/Posters/comments/4r2kuv/looking_to_make_some_posters_for_myself_where_can/,False,"Is there anywhere that provides super high quality images that can be printed? I'm looking to make some A1 or A2 posters, preferably gaming related and need high quality images to print",Posters,Looking to make some posters for myself - Where can I find high quality images?,https://www.reddit.com/r/Posters/comments/4r2kuv/looking_to_make_some_posters_for_myself_where_can/
+13,2016-07-03 15:03:24+00:00,self.sonarr,https://www.reddit.com/r/sonarr/comments/4r2c0g/imported_episodes_not_matching_up_correctly/,False,"Sonarr version (exact version): 2.0.0.4146 
+
+OS: Windows 10 x64
+
+----
+
+Sonarr's having a hard time matching up existing files to episodes. 
+
+For example: 
+
+I have Season 1 of Show X in this directory: (X:\Anime\Show X\Season 1) 
+While it just has Season 1 in there, everything's fine. I then put in the Season 2 folder: (X:\Anime\Show X\Season 2) and hit refresh and scan disk. 
+Now All of Season 1 episodes are matched to the Season 2 files, and the Season 2 episodes are not matched to anything. 
+Seems to be happening to every show I test for Anime, but seems to be working fine for TV shows. I've switched and tested them to Standard/Anime but it doesn't change anything. 
+
+I was on the develop branch for a while and thought they introduced a bug at some point, so I reinstalled and used a master branch, but the same thing still happens anyway. 
+
+Also in the show info it's only detecting 19 files but there are actually 25 files across both seasons.
+I have 'Use Season Folder' turned on. Tried looking around in logs, but cannot find anything useful
+
+Any idea what's going on? ",sonarr,Imported episodes not matching up correctly,https://www.reddit.com/r/sonarr/comments/4r2c0g/imported_episodes_not_matching_up_correctly/
+14,2016-06-28 01:56:57+00:00,i.imgur.com,https://www.reddit.com/r/kindafunny/comments/4q7064/why_are_they_covering_up_shuheis_face/,False,,kindafunny,Why are they covering up Shuhei's face?,http://i.imgur.com/vOKOkk6.png
+15,2016-06-26 14:38:04+00:00,self.Megaten,https://www.reddit.com/r/Megaten/comments/4py0be/tmsfe_tiki_waifu_quest/,False,After finding tiki=waifu Chrom says he felt a strange presence. I went straight back to Tiki and the job was completed. What was the strange presence?? Did I miss on some part of the quest because I went straight back? ,Megaten,TMS#FE Tiki Waifu quest,https://www.reddit.com/r/Megaten/comments/4py0be/tmsfe_tiki_waifu_quest/
+16,2016-06-26 14:27:58+00:00,self.TMSFE,https://www.reddit.com/r/TMSFE/comments/4pxytb/tikiiswaifu_quest/,False,After finding tiki=waifu Chrom says he felt a strange presence. I went straight back to Tiki and the job was completed. What was the strange presence?? Did I miss on some part of the quest because I went straight back? ,TMSFE,TikiIsWaifu quest,https://www.reddit.com/r/TMSFE/comments/4pxytb/tikiiswaifu_quest/
+17,2016-06-14 15:06:44+00:00,youtu.be,https://www.reddit.com/r/Overwatch/comments/4o1tq4/trailer_for_new_map_and_skins_oh_wait/,False,,Overwatch,Trailer for new map and skins! ...oh wait...,https://youtu.be/6gkDeUuwS9Q?t=15
+18,2016-06-13 00:55:33+00:00,i.imgur.com,https://www.reddit.com/r/gaming/comments/4nt8jq/the_best_part_from_eas_conference/,False,,gaming,The best part from EA's conference,https://i.imgur.com/dAfvgOX.jpg
+19,2016-06-09 03:45:20+00:00,blog.us.playstation.com,https://www.reddit.com/r/Games/comments/4n923w/watchdogs_2_comes_to_ps4_november_15_and_other/,False,,Games,"Watchdogs 2 Comes to PS4 November 15, and other facts",http://blog.us.playstation.com/2016/06/08/5-things-to-know-about-watch-dogs-2-out-1115-on-ps4/
+20,2016-06-09 01:45:14+00:00,self.Overwatch,https://www.reddit.com/r/Overwatch/comments/4n8mu7/what_if_mercys_damage_increase_beam_also_hurts/,False,"Just a random thought.. wouldn't it be cool if the beam from Mercy's right click (Damage increase beam from the caduceus staff) also hurts enemies if they walk into it? 
+
+Could make for some interesting tactical decisions for Mercy players, so they have to position enemies between them and whoever they are buffing
+
+Also gives Mercy a bit more dimension rather than just rushing into allies face and running around holding left or right click ",Overwatch,What if Mercy's Damage Increase beam also hurts enemies if they walk into it?,https://www.reddit.com/r/Overwatch/comments/4n8mu7/what_if_mercys_damage_increase_beam_also_hurts/
+21,2016-05-14 14:44:06+00:00,i.imgur.com,https://www.reddit.com/r/gaming/comments/4jbnp0/all_that_adventuring_really_took_its_toll_on_elena/,False,,gaming,All that adventuring really took its toll on Elena,http://i.imgur.com/A4qMbPE.jpg
+22,2016-05-08 16:51:49+00:00,self.gamedev,https://www.reddit.com/r/gamedev/comments/4ifa3r/xbox_one_dev_kit_vs_retail_version/,False,"What is the difference between an xbone Dev kit from Microsoft and a standard retail version? We've signed up with ID@Xbox and will be getting one soon but dont really know the difference. 
+
+I assume the dev kit is basically just the standard retail version but has a 'developer mode' built in that allows it to run development builds of your games, does that sound about right? ",gamedev,Xbox One Dev kit vs retail version?,https://www.reddit.com/r/gamedev/comments/4ifa3r/xbox_one_dev_kit_vs_retail_version/
+23,2016-05-05 23:53:58+00:00,self.Overwatch,https://www.reddit.com/r/Overwatch/comments/4i2n7n/we_need_maps_that_dont_always_feature_a_single/,False,"Absolutely loving the beta so far, but if I have one critique it's the lack of map variety. 
+
+Sure, they look different and play differently to a degree, but they all have 1 major thing in common. 
+
+**At any given point, every map has just 1 single area of contest** 
+
+All 12 maps and 4 game modes will either have a payload as an area of contention or a capture point. In either case the game wants you to go to a certain area and fight it out in that area. I think this severely limits complexity of the game.
+
+Now I'm not saying that Overwatch should mimic other games, but it's worth having a look at other games. 
+
+Take for example CS:Go. Bomb defusal maps will have 2 bombsites, A or B. The attacking team can choose to go to either one, or possibly even fake going to A, but swing back around to B. 
+
+Another comparison we can make is with MOBAs. There are 3 lanes and fights are happening all over the map 
+
+*""But the game is oriented around the synergy of attack, defense, tank and support! We can't be splitting teams up!""* 
+
+So are MOBAs. The idea is you're supposed to know where your enemies are and react to where they're going. 
+
+The important thing to note is I'm not suggesting that every map/game mode becomes like this. I'm just suggesting we add a bit more variety to the maps/game modes. Hence:
+
+**My Idea:**
+
+Hybrid maps are supposed to be both Assault and Escort right? Instead of making it just Assault first, then Escort, let's make it both Assault and Escort *at the same time*. One team escorts a payload from area X to area Z, and another team must secure area Y. The payload can only reach Z if Y is taken (it keeps the door open or something)
+
+tl;dr: I wish the game didn't always just have 1 area where 1 giant fight happens, why not have 2 different areas that you have to be at so we have a bit more variety in what we can do every game?",Overwatch,We need maps that don't always feature a single area of contention,https://www.reddit.com/r/Overwatch/comments/4i2n7n/we_need_maps_that_dont_always_feature_a_single/
+24,2016-04-22 11:45:48+00:00,i.imgur.com,https://www.reddit.com/r/WTF/comments/4fy2xv/poop_or_penis_you_decide/,False,,WTF,Poop or penis? You decide,http://i.imgur.com/flRkBJG.jpg
+25,2016-04-19 10:50:52+00:00,self.starcraft,https://www.reddit.com/r/starcraft/comments/4fh0qg/other_than_twitch_and_azubu_are_there_any_other/,False,"I find twitch super laggy and stutters a lot, Azubu works somewhat alright but the video often 'skips' ahead 2 seconds, then pauses to wait for the audio to catch up. 
+
+I know the Korean stream is also available on YouTube, is the english stream available anywhere else?",starcraft,Other than Twitch and Azubu are there any other ways to watch proleague live?,https://www.reddit.com/r/starcraft/comments/4fh0qg/other_than_twitch_and_azubu_are_there_any_other/
+26,2016-04-10 06:07:11+00:00,i.imgur.com,https://www.reddit.com/r/kindafunny/comments/4e4u2f/so_i_googled_wikipedia_colin_moriarty/,False,,kindafunny,"So I googled ""Wikipedia Colin Moriarty""....",http://i.imgur.com/4Eez6gk.jpg
+27,2016-04-07 07:00:34+00:00,self.Inflatality,https://www.reddit.com/r/Inflatality/comments/4dpygt/inflatality/,False,"Hi! 
+
+Arvz here, one of the devs of Inflatality!
+
+Just wanted to get this sub started with some basic info about the game!
+
+**What is [Inflatality?](http://www.inflatality.com/images/presskit-images/image01.png)**
+
+*Inflatality is a fierce, derpy physics fighter featuring adorable inflatable wavers beating the crap out of each other*. It's a physics-based fighting game where there are no pre-set moves. YOU move the characters the way you want!
+
+**What platforms is it coming out on?**
+
+We are targetting PC, Mac, Xbox One and PS4 for launch.
+
+**When is it coming out?**
+
+We don't have a release date just yet, but sit tight! More information coming soon!
+
+**Cool! Where else can we find out more?**
+
+A few places! 
+
+* [The Inflatality Website](http://www.inflatality.com)
+* [Inflatality's Twitter Account](https://twitter.com/inflatality)
+* [Hojo Studio's Twitter Account](https://twitter.com/hojoStudio)
+* [Deepforge Studio's Twitter Account](https://twitter.com/deepforgestudio)
+* [Facebook](https://www.facebook.com/Inflatality/)
+",Inflatality,Inflatality!,https://www.reddit.com/r/Inflatality/comments/4dpygt/inflatality/
+28,2016-04-03 07:52:11+00:00,i.imgur.com,https://www.reddit.com/r/Falcom/comments/4d5en7/i_always_assumed_reans_voice_was_only_partly/,False,,Falcom,"I always assumed Rean's voice was only partly missing in the localized version due to budget but that's not the case. Also, 'more' of Rean's lines are voiced in CS2 but there are still scenes where everyone is voiced except Rean",http://i.imgur.com/ozxBt9I.png
+29,2016-03-25 13:04:53+00:00,self.blenderhelp,https://www.reddit.com/r/blenderhelp/comments/4bwcxu/alt_click_to_rotate_view_loop_select/,False,"Hi guys
+
+I am setting up Blender key bindings and I've found that I can't set Alt + Left Click to both Rotate Viewport AND keep Loop Select. Rotate View works in Object Mode, but in Edit Mode Alt Select only works for Loop Select.
+
+Is there a way to make them both work at the same time? If I'm clicking in empty space it should do Rotate View, and it should only Loop Select if I'm clicking on an edge
+
+Using Blender 2.77
+
+Thanks!",blenderhelp,Alt Click to Rotate View + Loop Select,https://www.reddit.com/r/blenderhelp/comments/4bwcxu/alt_click_to_rotate_view_loop_select/
+30,2016-03-24 12:23:41+00:00,self.kindafunny,https://www.reddit.com/r/kindafunny/comments/4brbrj/whos_jackie_t/,False,"The guys have talked about Jackie T on PSILY a few times now and Colin often imitates his accent quite a lot, but I have no idea who this Jackie T person is! 
+
+Tried googling it but nope",kindafunny,Who's Jackie T?,https://www.reddit.com/r/kindafunny/comments/4brbrj/whos_jackie_t/
+31,2016-03-16 23:29:08+00:00,self.starcraft,https://www.reddit.com/r/starcraft/comments/4aqexq/what_would_starcraft_be_like_if_the_whole_map_is/,False,"Imagine if Starcraft is played without any hidden information. 
+
+If you see your opponent rushing you, obviously you too would have to rush to get an army. 
+
+Would the game only have 1 single play style then? Would everyone just 6 pool every time?
+
+Would any race gain more advantage from this compared to the other 2?",starcraft,What would StarCraft be like if the whole map is always revealed?,https://www.reddit.com/r/starcraft/comments/4aqexq/what_would_starcraft_be_like_if_the_whole_map_is/
+32,2016-03-08 04:50:22+00:00,self.starcraft,https://www.reddit.com/r/starcraft/comments/49gu1l/what_if_medivacs_siege_tank_pickup_is_an_ability/,False,"Just my 2 cents on the whole 'Should tankivacs be removed' debate. Just putting it out there, I'm not entirely sure if it's actually a good idea, but I figure it's a way to still have siege tanks still be a bit mobile, but not so much that you can just pick up and go any time you want. 
+",starcraft,What if medivacs siege tank pickup is an 'ability' that takes 1-2 secs to cast?,https://www.reddit.com/r/starcraft/comments/49gu1l/what_if_medivacs_siege_tank_pickup_is_an_ability/
+33,2016-02-26 04:47:03+00:00,self.digimon,https://www.reddit.com/r/digimon/comments/47ngx8/why_is_angemon_a_champion_when_angewomon_is_an/,False,"Is it some kind of feminist statement? 
+
+edit: please ignore the bad joke above",digimon,Why is Angemon a Champion when Angewomon is an Ultimate?,https://www.reddit.com/r/digimon/comments/47ngx8/why_is_angemon_a_champion_when_angewomon_is_an/
+34,2016-02-25 13:59:39+00:00,self.digimon,https://www.reddit.com/r/digimon/comments/47iz77/cyber_sleuth_does_it_matter_what_level_you/,False,"Aside from learning skills which have to be learned at specific levels are there any stats benefits to not levelling up your digimon as soon as it's able to? 
+
+For example I want to digivolve my Falcomon to Stingmon. I can do this as soon as I hit level 14, but my level cap is (I think) 22. Falcomon doesn't learn any skills past level 12, so is there any point in me waiting until he is level 22? 
+
+I did one quick test comparing between leveling up at level 18 compared to level 20 - the Stingmon that I get after I digivolve at 20 is exactly the same as when I digivolve at 18, so it doesn't seem like the stats change?",digimon,[Cyber Sleuth] Does it matter what level you digivolve at?,https://www.reddit.com/r/digimon/comments/47iz77/cyber_sleuth_does_it_matter_what_level_you/
+35,2016-02-23 12:23:33+00:00,self.digimon,https://www.reddit.com/r/digimon/comments/476d0u/does_the_battle_get_more_interesting_later/,False,"In Chapter 3 now of Cyber Sleuth, I have to say the battle system in this game is the most boring I've ever played in almost every JRPG I've ever played. It's so damn easy I'm just spamming attack 100% of the time and still win everything comfortably. 
+
+I don't think changing the difficulty to hard would even make the battle system more interesting, it probably will just make it last longer.
+
+Please tell me the battles get better over time..?
+
+p.s. The whole digimon collecting and digivolving thing is awesome and it's keeping me playing for now, but gods I don't know how I'm going to play through the entire game when it's just mashing attack all the time",digimon,Does the battle get more interesting later?,https://www.reddit.com/r/digimon/comments/476d0u/does_the_battle_get_more_interesting_later/
+36,2016-02-17 01:58:31+00:00,self.kindafunny,https://www.reddit.com/r/kindafunny/comments/465wco/i_really_want_greg_to_play_trails_of_cold_steel/,False,"Is anyone else playing Trails of Cold Steel? I just finished it last night and I really wish Colin/Greg would play it as I really want to hear what Greg in particular would have to say about it.
+
+We all know he loves Persona 4. Trails of Cold Steel also does so many things that Persona 4 does, and in some ways it does it even better. The battle system in particular is far better. 
+
+Where it really shines though is in places where Persona 4 also shines. Characters, and character development. Relationships between the characters. It's got a lot of those sweet memorable moments that just grip you. 
+
+It's also just got a lot of smaller similar things, like a social-links, 'free time', school setting, the fast travel menu system, etc. 
+
+If you're reading, Greg, play this game. It's so ridiculously underrated and underhyped
+
+EDIT: Just caught up with this week's PSILYXOXO and heard Colin did start Cold Steel but that he wasn't looking for this type of game at the moment but will go back to it. ",kindafunny,I really want Greg to play Trails of Cold Steel,https://www.reddit.com/r/kindafunny/comments/465wco/i_really_want_greg_to_play_trails_of_cold_steel/
+37,2016-02-17 01:43:08+00:00,self.Falcom,https://www.reddit.com/r/Falcom/comments/465txd/zero_azure_and_cold_steel_timeline_parallel/,False,"So I know that Cold Steel supposedly takes place at the same time as Zero, but I want to know more specifically
+
+Does Cold Steel 1 = Zero and Cold Steel 2 = Azure in terms of its timeline parallel? 
+
+Or does Cold Steel cover both Zero and Azure both?
+
+Does this mean Cold Steel 3 will be sort of the first game that tells a new event in the grand scheme of things?",Falcom,"Zero, Azure and Cold Steel timeline parallel",https://www.reddit.com/r/Falcom/comments/465txd/zero_azure_and_cold_steel_timeline_parallel/
+38,2016-02-15 23:51:09+00:00,self.Falcom,https://www.reddit.com/r/Falcom/comments/45zl6c/a_really_nice_quick_tip_for_those_playing_cold/,False,"**Staying at an inn will fill up your CP.**
+
+Very useful for when you know you're about to face a boss, just stay at an inn and you'll be all filled up, no need to CP farm like I was doing for ages before I realised this. 
+
+BTW you may need to stay at the inn twice to get it to fill up all the way to 200",Falcom,A really nice quick tip for those playing Cold Steel (no spoilers),https://www.reddit.com/r/Falcom/comments/45zl6c/a_really_nice_quick_tip_for_those_playing_cold/
+39,2016-02-10 13:04:09+00:00,self.Falcom,https://www.reddit.com/r/Falcom/comments/452kuh/cold_steel_is_there_any_reason_to_continue/,False,"I've reached level 5 link with Laura is there any point in continuing to attend her bonding events other than go just watch the scenes?
+
+No spoilers please!! :) ",Falcom,[Cold Steel] Is there any reason to continue bonding after reaching max link level?,https://www.reddit.com/r/Falcom/comments/452kuh/cold_steel_is_there_any_reason_to_continue/
+40,2016-01-26 04:05:34+00:00,self.Falcom,https://www.reddit.com/r/Falcom/comments/42pqt6/just_finished_sc_question_about_renne/,False,"Just finished TitS SC, during the last chapter I noticed Renne was missing, and then at the very end Estelle says she wants to travel to try to find Renne.
+
+I don't know what happened, perhaps I was asleep, but I don't remember what happened to Renne. The last thing I remember about Renne was fighting her at one of those Towers after which she said she was going back to the Glorious. 
+
+I'm pretty sure I was supposed to fight her on the 5th floor of the Axis Pillar, right after Luciola, but instead of fighting her the game just skipped right to unlocking the door
+
+tl;dr: What the hell happened to Renne and why was she missing from the final chapter?",Falcom,"Just finished SC, question about Renne",https://www.reddit.com/r/Falcom/comments/42pqt6/just_finished_sc_question_about_renne/
+41,2016-01-19 01:21:37+00:00,self.PleX,https://www.reddit.com/r/PleX/comments/41m6mk/hama_agent_anime_tags/,False,"Hi guys
+
+I've set up Absolute Series Scanner &amp; HAMA Agent, and almost everything's working great - except HAMA doesn't seem to add the series tags. If I switch it to TVDB then it's able to download tags. 
+
+Does HAMA not support reading tags from anidb? Is there any way to make it work without having to use TVDB? ",PleX,HAMA Agent Anime Tags,https://www.reddit.com/r/PleX/comments/41m6mk/hama_agent_anime_tags/
+42,2016-01-08 13:26:12+00:00,self.GearVR,https://www.reddit.com/r/GearVR/comments/4012g4/trinus_vr_set_up_guide/,False,"I've got the app installed and the server running, everything's working fine but obviously as soon as I plug the phone into the Gear VR itself Oculus Home launches and takes over the phone.
+
+How the hell do I plug it into the Gear VR without launching Oculus?",GearVR,Trinus VR Set Up Guide?,https://www.reddit.com/r/GearVR/comments/4012g4/trinus_vr_set_up_guide/
+43,2016-01-02 11:22:47+00:00,youtu.be,https://www.reddit.com/r/starcraft/comments/3z4rjh/mcs_great_concert/,False,,starcraft,MC's Great Concert,https://youtu.be/NF0kbxMIBAw?t=35s
+44,2015-12-30 17:43:17+00:00,self.witcher,https://www.reddit.com/r/witcher/comments/3yt1x5/witcher_3_models_preassembled_in_fbx/,False,"Hi guys
+
+I'm looking for the character models to download in fbx format - I know it can be extracted using the mod tools and I've tried it, but it comes in individual body parts and they are really annoying to assemble as you have to stitch models together etc. 
+
+Does anyone have the models assembled already and can share? I'm looking for Triss or Yen in particular but would be nice if Geralt and Ciri are out there as well
+
+Thanks",witcher,Witcher 3 models preassembled in fbx,https://www.reddit.com/r/witcher/comments/3yt1x5/witcher_3_models_preassembled_in_fbx/
+45,2015-12-28 02:36:34+00:00,self.australia,https://www.reddit.com/r/australia/comments/3ygzul/medicare_cards/,False,"Hi guys
+
+When your medicare card expires and you go to the Medicare Service Centre – Are they able to give you a new card on the spot? Or do they have to send it to your address in some number of days?
+
+In Sydney btw
+
+Thanks!",australia,Medicare cards,https://www.reddit.com/r/australia/comments/3ygzul/medicare_cards/
+46,2015-11-26 03:33:45+00:00,self.starcraft,https://www.reddit.com/r/starcraft/comments/3uawc1/what_ever_happened_to_the_ttesports/,False,"A while ago Tastosis announced they were working with Tt eSports on some new Esports equipment (Mouse, keyboard and headset)
+
+Does anyone know what ever happened to that? 
+
+Artosis posted about it on an [ibuypower blog](http://blog.ibuypower.com/blog/2013/09/30/creating-mouse-part-1/) and they put up a [video about it](https://www.youtube.com/watch?v=Hf6lJpLiA2w) but since then I don't think we ever got another update?",starcraft,What ever happened to the ttesports mouse/keyboard/headset Tastosis was working on?,https://www.reddit.com/r/starcraft/comments/3uawc1/what_ever_happened_to_the_ttesports/
+47,2015-11-25 13:31:29+00:00,self.HomeServer,https://www.reddit.com/r/HomeServer/comments/3u7piy/windows_storage_spaces_what_happens_when_i_unplug/,False,"Hi guys,
+
+I'm planning to set up Storage Spaces on a new media server I'm putting together.
+I want to use no resiliency because I don't care much about losing data, it'll all be stuff I can re-download easily and I value having more space more as I don't want to spend too much money on more drives.
+
+Say I have 3 x 500GB hard drives and I set them up as a storage space, and I start filling them up and I'm at 50% capacity. Now I take the second drive out. What happens?",HomeServer,Windows Storage Spaces - What happens when I unplug one drive?,https://www.reddit.com/r/HomeServer/comments/3u7piy/windows_storage_spaces_what_happens_when_i_unplug/
+48,2015-11-25 12:39:35+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3u7k3l/no_resiliency_storage_spaces_what_happens_when_i/,False,"Hi guys,
+
+I'm planning to set up Storage Spaces on a new media server I'm putting together. 
+
+I want to use no resiliency because I don't care much about losing data, it'll all be stuff I can re-download easily and I value having more space more as I don't want to spend too much money on more drives.
+
+Say I have 3 x 500GB hard drives and I set them up as a storage space, and I start filling them up and I'm at 50% capacity. Now I take the second drive out. What happens?",techsupport,No Resiliency Storage Spaces - What happens when I unplug one drive?,https://www.reddit.com/r/techsupport/comments/3u7k3l/no_resiliency_storage_spaces_what_happens_when_i/
+49,2015-11-16 11:27:17+00:00,self.starcraft,https://www.reddit.com/r/starcraft/comments/3t0e2f/the_music_and_ost_of_lotv_gives_me_sick_nerd/,False,"LotV (and most other Blizzard's games) has amazing soundtrack. 
+
+My favourite tracks:
+
+* [The Golden Armada](https://www.youtube.com/watch?v=SP1Iz9Ysvss)
+* [Valor My Shield](https://www.youtube.com/watch?v=IfPODmLa804)
+* [Blades of Justice](https://www.youtube.com/watch?v=CqI2EOxoW3c)
+* [The Dark Voice](https://www.youtube.com/watch?v=52tDzPtra2o) 
+* [The Stars our Home](https://www.youtube.com/watch?v=s7Y1y8pKFKY)
+* [Holding up the Sky](https://www.youtube.com/watch?v=1Qe1o4RZ9lk)
+* [The Last Stand](https://www.youtube.com/watch?v=O2X23mcqXBs)
+
+Particularly in the scene where [Rohana severs her nerve cord to finally be free of the Khala](/spoiler) the use and timing of that piece was perfect and made the scene very emotional for me.",starcraft,The music and OST of LotV gives me sick nerd chills,https://www.reddit.com/r/starcraft/comments/3t0e2f/the_music_and_ost_of_lotv_gives_me_sick_nerd/
+50,2015-11-09 09:24:08+00:00,self.starcraft,https://www.reddit.com/r/starcraft/comments/3s45ld/lotv_beta_whispers_of_oblivion_progress_not/,False,"I played the Whispers of Oblivion campaign during Beta on the Beta servers (I assume this was the only place where you can play it right?) 
+
+Now that I'm opening SC2 HotS on live servers it doesn't seem to know that I've completed the missions? 
+
+Anyone else having this problem?",starcraft,LotV BETA Whispers of Oblivion progress not carrying over to live servers?,https://www.reddit.com/r/starcraft/comments/3s45ld/lotv_beta_whispers_of_oblivion_progress_not/
+51,2015-11-08 23:34:08+00:00,self.samsung,https://www.reddit.com/r/samsung/comments/3s2cvj/help_fast_wireless_qi_charger_is_this_a_fake/,False,"Hi everyone
+
+I bought [this](http://i.imgur.com/NHmTmRc.png ) from ebay. Notice how the packaging is small and tight - and it doesn't include a wall charger
+
+Is this a fake? 
+
+If you look at the [product page on Samsung's website](http://www.samsung.com/us/mobile/cell-phones-accessories/EP-PN920TWEGUS) they say this product includes a wall charger. 
+
+Also the box is supposed to look like [this](http://i.imgur.com/M58jZbu.jpg) 
+
+But I'm not sure if there is a special (official) version that doesn't include the charger? 
+
+[This guy](http://forum.xda-developers.com/s6-edge-plus/accessories/fake-real-fast-wireless-charger-beware-t3224769) also believes it's a fake. 
+
+Does anyone know about this for certain?
+",samsung,[Help] Fast Wireless Qi Charger - is this a fake?,https://www.reddit.com/r/samsung/comments/3s2cvj/help_fast_wireless_qi_charger_is_this_a_fake/
+52,2015-10-21 09:46:20+00:00,self.Android,https://www.reddit.com/r/Android/comments/3pm3sf/are_there_any_alternatives_to_the_samsung_fast_qi/,False,[removed],Android,Are there any alternatives to the Samsung Fast Qi Wireless Charger?,https://www.reddit.com/r/Android/comments/3pm3sf/are_there_any_alternatives_to_the_samsung_fast_qi/
+53,2015-10-13 15:41:37+00:00,self.VPN,https://www.reddit.com/r/VPN/comments/3oljlv/if_i_use_tunnelbear_vpn_on_the_australian_server/,False,"As some of you have heard, Australia has started its data retention regime yesterday. Luckily I have a subscription for Tunnelbear. One of their servers are in Australia, and I get very good speeds on it, hardly any speed loss at all in fact.
+
+But would there be any point in using it if their servers are in Australia? Am I 'safe' if I use it?
+
+My understanding is traffic is encrypted between my computer and Tunnelbear servers - so I should be able to do things privately correct? But is the data still being retained? ",VPN,If I use Tunnelbear VPN on the Australian server - will my data still be retained for 2 years?,https://www.reddit.com/r/VPN/comments/3oljlv/if_i_use_tunnelbear_vpn_on_the_australian_server/
+54,2015-10-13 14:54:39+00:00,self.gaming,https://www.reddit.com/r/gaming/comments/3olcuz/getting_tales_of_zestiria_on_gmg_will_i_get_the/,False,"For some reason Steam's ToZ price for me here in Australia is $69.95 USD. On GMG it's $49.99 and with a 23% discount code that just popped up on the site it brings it down to $38.50. 
+
+But will I get the pre-order bonuses on Steam?",gaming,Getting Tales of Zestiria on GMG - Will I get the pre-order bonuses?,https://www.reddit.com/r/gaming/comments/3olcuz/getting_tales_of_zestiria_on_gmg_will_i_get_the/
+55,2015-10-03 02:14:47+00:00,self.starcraft,https://www.reddit.com/r/starcraft/comments/3natwp/no_art_book_in_legacy_of_the_void_collectors/,False,"Contents of the Collector's Edition was [announced here](http://us.battle.net/sc2/en/blog/19907624/legacy-of-the-void-collectors-edition-unboxing-10-2-2015)
+
+No sign of art book :( ",starcraft,No Art Book in Legacy of the Void Collector's edition?,https://www.reddit.com/r/starcraft/comments/3natwp/no_art_book_in_legacy_of_the_void_collectors/
+56,2015-10-02 15:07:16+00:00,self.anime,https://www.reddit.com/r/anime/comments/3n8fjq/rokka_no_yuusha_how_many_of_the_ln_volumes_does/,False,[removed],anime,Rokka no Yuusha - How many of the LN volumes does the anime cover?,https://www.reddit.com/r/anime/comments/3n8fjq/rokka_no_yuusha_how_many_of_the_ln_volumes_does/
+57,2015-10-02 00:06:43+00:00,displate.com,https://www.reddit.com/r/gaming/comments/3n62vv/these_posters_are_amazing/,False,,gaming,These posters are amazing!,https://displate.com/gaming-characters
+58,2015-09-27 13:51:28+00:00,self.FinalFantasy,https://www.reddit.com/r/FinalFantasy/comments/3mkrmj/which_ff_is_this_from/,False,"https://www.youtube.com/watch?v=Ok1htuV51vI
+
+The title suggests it's from FF IX but I feel like it's not. I kind of feel like it's actually not from any of the games. Anyone know where it's from? ",FinalFantasy,Which FF is this from?,https://www.reddit.com/r/FinalFantasy/comments/3mkrmj/which_ff_is_this_from/
+59,2015-09-01 01:28:46+00:00,cdn2-www.dogtime.com,https://www.reddit.com/r/pics/comments/3j5tui/this_is_a_real_dog/,False,,pics,This is a real dog,http://cdn2-www.dogtime.com/assets/uploads/2011/01/file_23120_pekingese-460x290.jpg
+60,2015-08-30 10:54:45+00:00,self.metalgearsolid,https://www.reddit.com/r/metalgearsolid/comments/3iy0jh/gz_if_we_extract_different_people_on_different/,,,metalgearsolid,GZ: If we extract different people on different playthroughs will it all count for TPP? Or do we have to extract everyone on the same playthrough of a mission,https://www.reddit.com/r/metalgearsolid/comments/3iy0jh/gz_if_we_extract_different_people_on_different/
+61,2015-08-16 05:07:15+00:00,self.witcher3mods,https://www.reddit.com/r/witcher3mods/comments/3h683w/is_everyone_else_getting_unable_to_open_collision/,,"Every time I try to do a wcc_lite export command I get that message, though it still *seems* like it worked Ok",witcher3mods,"Is everyone else getting ""Unable to open collision cache file."" warning messages as well even though the command was successful?",http://www.reddit.com/r/witcher3mods/comments/3h683w/is_everyone_else_getting_unable_to_open_collision/
+62,2015-08-15 01:19:28+00:00,self.witcher3mods,https://www.reddit.com/r/witcher3mods/comments/3h1rf0/modkit_crashes_when_exporting_w2mesh/,,"Hi guys,
+
+I'm trying to assemble a complete Yennefer model in Maya LT by combining all of her parts (body, head, hair and eyes are separate models). When I tried to export **he_01_wa__yennefer.w2mesh** ModKit seems to crash: 
+
+&gt; Crash reason: EXCEPTION_ACCESS_VIOLATION (3221225477), Error reading location 0x400cccdd
+
+Full crash log here: http://pastebin.com/BNWvyt6m
+
+Any ideas? I've done everything else fine, but the eyes won't work!",witcher3mods,ModKit Crashes when exporting w2mesh,http://www.reddit.com/r/witcher3mods/comments/3h1rf0/modkit_crashes_when_exporting_w2mesh/
+63,2015-08-14 16:14:10+00:00,self.witcher,https://www.reddit.com/r/witcher/comments/3gzoqj/use_this_post_to_discuss_or_ask_technical/,,"Hi guys,
+
+Let's try to keep all technical ModKit questions and discussions in here so we can keep a sort of knowledge base on it. I'll try my best to keep this original post updated with any tips/news
+
+* Nexus Mods news post on ModKit: http://www.nexusmods.com/witcher3/news/12550/?
+* Download ModKit here: http://bit.ly/1Mo2noQ
+* Sample Mods made by CDPR: http://www.nexusmods.com/witcher3/mods/311/?
+
+The ModKit is released in the form of a command line tool called **wcc_lite.exe**. The tool will allow you to uncook the game into individual files which you can then modify (e.g.: Geralt's cloth textures, Roach textures, etc) and then recook it. ",witcher,Use this post to discuss or ask technical questions about ModKit,http://www.reddit.com/r/witcher/comments/3gzoqj/use_this_post_to_discuss_or_ask_technical/
+64,2015-08-14 12:34:50+00:00,self.metalgearsolid,https://www.reddit.com/r/metalgearsolid/comments/3gywys/quick_question_about_the_menu_controls_in_gz_on_pc/,,"I can't seem to do anything with the mouse in the menu system in GZ on PC, it's all only controllable via WSAD keyboard controls. Is this normal? It's very annoying... 
+
+For example I want to click ""Ok"" on one of the menu pages, but it does nothing. Left click is like 'submit' button, and that's it. ",metalgearsolid,Quick question about the menu controls in GZ on PC,http://www.reddit.com/r/metalgearsolid/comments/3gywys/quick_question_about_the_menu_controls_in_gz_on_pc/
+65,2015-08-07 13:03:04+00:00,self.gaming,https://www.reddit.com/r/gaming/comments/3g4izt/quick_question_about_the_xbox_one_controller/,,"Hi guys quick questions:
+
+1. With the Xbox One Wireless controller, does it come with a Micro USB cable? 
+2. Is it possible to use it as a wired controller without batteries using the cable?
+3. Is it confirmed that all games that support Xbox 360 controller on PC will also support Xbox One natively?",gaming,Quick question about the Xbox One controller,http://www.reddit.com/r/gaming/comments/3g4izt/quick_question_about_the_xbox_one_controller/
+66,2015-08-04 01:08:38+00:00,self.starcraft,https://www.reddit.com/r/starcraft/comments/3fowjk/to_all_australian_protoss_executors_jb_hifi_will/,,"Preordered a few weeks ago. Got my beta key a couple of weeks ago and just received the prologue key an hour ago. 
+
+Not sure if other retailers will do this as well",starcraft,"To all Australian Protoss Executors: JB Hi-Fi will send you a beta key as well as a prologue mission key for your preorders, so preorder away!",http://www.reddit.com/r/starcraft/comments/3fowjk/to_all_australian_protoss_executors_jb_hifi_will/
+67,2015-08-01 14:50:47+00:00,self.witcher,https://www.reddit.com/r/witcher/comments/3fesyo/has_anyone_managed_to_extract_the_character_models/,,"I'm trying to extract the character models from the game.
+
+There's [This](http://jlouisb.users.sourceforge.net/) tool that someone made, but it seems to be pretty early in development for its Witcher 3 features. I followed all the instructions but after choosing a w2mesh the window is still blank, and when I extract it to .obj it's just an empty file. 
+
+Anyone been able to do this?",witcher,Has anyone managed to extract the character models?,http://www.reddit.com/r/witcher/comments/3fesyo/has_anyone_managed_to_extract_the_character_models/
+68,2015-07-29 15:27:08+00:00,self.witcher,https://www.reddit.com/r/witcher/comments/3f1e67/cd_projekt_red_please_stop_giving_us_reasons_to/,,"So I've finished 1 playthrough of the game, and was about to start another on Death March when they announced patch 1.07. I thought great! I'll wait for that to come out before starting. Now Patch 1.07 is out I started playing a little bit, they announce New Game+ 
+
+Now I have to wait another couple of weeks before playing the game.
+
+God damnit CDPR stop being awesome!!! :D
+
+
+
+
+just kidding, CDPR please continue being amazing. I'll wait as long as it takes",witcher,CD Projekt Red please stop giving us reasons to wait before playing the game!!,http://www.reddit.com/r/witcher/comments/3f1e67/cd_projekt_red_please_stop_giving_us_reasons_to/
+69,2015-07-08 00:34:50+00:00,self.Unity3D,https://www.reddit.com/r/Unity3D/comments/3chs6y/has_anyone_tried_flux_cinema_director_or/,,"I want to invest in one of the assets that help in this department. The way I see it there seems to be 3 main choices: Flux, Cinema Director and uSequencer.
+
+Flux has a 'trial' that you can download from their site which I will be doing, but the other two do not. 
+
+Flux is the cheapest (especially so for the next few hours as it's on sale). 
+
+Does anyone have any experience comparing these packages and can say which one they prefer the most?
+
+*edit:* I was contacted by Cinema Director's developer (who shall be nameless lest people start messaging him to ask for codes!) and he gave me a voucher code to redeem Cinema Director. I have since downloaded it and played around with it for about 20 minutes or so and found it to be really easy to figure out. So far I am very happy with that. Cheers to Cinema Director! ",Unity3D,"Has anyone tried Flux, Cinema Director or uSequencer?",http://www.reddit.com/r/Unity3D/comments/3chs6y/has_anyone_tried_flux_cinema_director_or/
+70,2015-07-06 06:13:36+00:00,self.tennis,https://www.reddit.com/r/tennis/comments/3c9w6e/kyrgios_should_learn_a_little_from_tsonga/,,"Tsonga's interview after his third round match vs Ivo Karlovic. Apparently on Set Point on the fourth set Karlovic double hit a ball at the net: 
+
+http://www.wimbledon.com/en_GB/news/articles/2015-07-04/jowilfried_tsonga_third_round.html
+
+&gt; **Q**. It's obviously a tough defeat for you to take. Were you aware in the third set when you had set point that Karlovic appeared to double hit the ball at the net?
+&gt; 
+&gt; JO-WILFRIED TSONGA: Fourth set.
+&gt; 
+&gt; **Q.** Fourth set, set point.
+&gt; 
+&gt; JO-WILFRIED TSONGA: Yeah, but, I mean, it's the job of the umpire, you know, to see it. **If he can't see it, I can't do anything. Even if I saw it, I can't say anything, so...**
+&gt; 
+&gt; **Q.** Do you think it should be the responsibility of a player to declare that on himself? They would in golf, for instance.
+&gt; 
+&gt; JO-WILFRIED TSONGA: Not really. Otherwise we don't need umpire anymore.
+&gt; No, I think it's just about the umpire to see it if it's like this, and that's it.
+
+I was already a fan of Tsonga but man this guy's attitude is exemplary. Not to say Kyrgios's hot temper is bad for the game as I think a little drama is actually good for the scene, but the way he can just move on from losing a Set Point that could have changed the game completely... You gotta respect that. 
+
+",tennis,Kyrgios should learn a little from Tsonga,http://www.reddit.com/r/tennis/comments/3c9w6e/kyrgios_should_learn_a_little_from_tsonga/
+71,2015-07-06 04:32:37+00:00,self.witcher,https://www.reddit.com/r/witcher/comments/3c9ng2/pronounciation_of_kaer_trolde_and_the_skelligan/,,"From memory 'Kaer Trolde' is pronounced 'Kayre Trolled' by characters of the game, but I can't help but feel like this is inconsistent with the language of the Skelligans. 
+
+For instance - Skellige itself is pronounced 'Skell-e-ga', and Spikeroog is pronounced 'Speak-a-roog' It seems to me the Skelligans tend to clearly pronounce their vowels. 
+
+Seems to me that Kaer Trolde really should be pronounced 'Kayre Troll-Duh'
+
+I'm clearly nitpicking on a fictional language/accent but the Skelligans were based on real historic cultures (Vikings?) so the way words are pronounced ought to be at least based on something real. 
+
+Then again, all languages are full of inconsistencies. Anyway, it's just something that I've been thinking about since I first heard it - That's the magic of this game really, I'm so balls deep in its lore that I'm even thinking about something as dull and meaningless as word pronounciation",witcher,Pronounciation of 'Kaer Trolde' and the Skelligan 'language',http://www.reddit.com/r/witcher/comments/3c9ng2/pronounciation_of_kaer_trolde_and_the_skelligan/
+72,2015-06-30 12:45:40+00:00,self.Batch,https://www.reddit.com/r/Batch/comments/3bmjij/skipping_pause_on_an_exe/,,"I have a cmd line exe which I need to write a script around, but it has a Pause in built to it and I cannot see any way to skip this pause so the rest of my script can continue. 
+
+I have tried all sorts of things, including 
+
+* @echo | call program.exe 
+* program.exe &lt; nul 
+* variations and combinations of those
+
+Also checked the program /? to see if there's a skip pause toggle, but there is not
+
+Appreciate any advice",Batch,Skipping pause on an exe,http://www.reddit.com/r/Batch/comments/3bmjij/skipping_pause_on_an_exe/
+73,2015-06-30 02:47:42+00:00,self.tennis,https://www.reddit.com/r/tennis/comments/3bl54j/are_umpires_ever_held_liable_in_any_way_for_wrong/,,"Just caught up on the [Kyrgios news today](http://tenngrand.com/2015/06/29/kyrgios-lays-into-lahyani-during-wimbledon-win/) and I'm not sure if he was right or wrong - but with today's technology it's basically 100% possible to determine the right or wrong call at every turn in Tennis (by going back through the recording, inspecting Hawkeye data, etc) 
+
+My question is: Are they ever told afterwards that they were wrong? Do they have meetings with their supervisors where they are told they have been making wrong calls? What if an umpire makes a series of wrong calls regularly (whether on purpose or otherwise)",tennis,Are umpires ever held liable in any way for wrong calls?,http://www.reddit.com/r/tennis/comments/3bl54j/are_umpires_ever_held_liable_in_any_way_for_wrong/
+74,2015-06-28 01:29:40+00:00,youtube.com,https://www.reddit.com/r/JRPG/comments/3bczxw/cross_reverie_gameplay_prototype_version_2/,,,JRPG,Cross Reverie Gameplay Prototype Version 2 [Upcoming JRPG by Sinxsoft],https://www.youtube.com/watch?v=E3gGi-c7kUU
+75,2015-06-26 04:25:04+00:00,self.JRPG,https://www.reddit.com/r/JRPG/comments/3b5oeh/wouldnt_a_battle_system_like_this_be_perfect_for/,,"https://youtu.be/lPrXNBevqFk?t=45
+
+It's from the new Dissidia Final Fantasy game that's coming out for Arcade in Japan. 
+
+Just imagine a Cloud vs Sephiroth battle where you get to fight like they did in Advent Children, navigating freely in 360 degrees of movement, dashing around with fully destructible environments 
+
+Just think back to this: https://youtu.be/WyPlwtBTXpk?t=153 
+
+We can literally have that in game now
+
+edit: in game footage of Dissidia featuring Cloud himself: https://youtu.be/cZ86C89O9xw?t=229",JRPG,Wouldn't a battle system like this be perfect for Final Fantasy VII Remake?,http://www.reddit.com/r/JRPG/comments/3b5oeh/wouldnt_a_battle_system_like_this_be_perfect_for/
+76,2015-06-20 13:18:52+00:00,self.Unity3D,https://www.reddit.com/r/Unity3D/comments/3aiane/best_way_to_handle_multiplayer_ai_input/,,"Hi guys,
+
+I'm working on a (sort of) fighting game and need to write an input system that can handle multi player controls (2x game controllers - for multiplayer game sessions) but also be able to switch one (or both) of the 'players' into AI controlled players.
+
+Does anyone have any good tips/design ideas/know of a specific pattern on writing a system to handle this nicely?",Unity3D,Best way to handle Multiplayer + AI input,http://www.reddit.com/r/Unity3D/comments/3aiane/best_way_to_handle_multiplayer_ai_input/
+77,2015-06-17 03:45:07+00:00,self.starcraft,https://www.reddit.com/r/starcraft/comments/3a4fkz/chris_sigaty_says_theres_more_in_store_for_sc2/,,"Blizzard has said this before at Blizzcon but it's a really important point. They plan to continue support for SC2 into the future even after LotV. 
+
+Now I don't think Blizzard ever planned on 'stopping support' of SC2 the way they did for BW (no new patches or updates came out after some time even though the BW scene was still very active) but what this really means is that they are still planning to not only continue fixing bugs and tweaking balance but they are also still planning on adding new content to the game. 
+
+So there's hope guys, I am very much hopeful",starcraft,Chris Sigaty says there's more in store for SC2 even after LotV,http://www.reddit.com/r/starcraft/comments/3a4fkz/chris_sigaty_says_theres_more_in_store_for_sc2/
+78,2015-06-16 15:42:20+00:00,self.gamedev,https://www.reddit.com/r/gamedev/comments/3a1s2y/is_maya_lt_similar_enough_to_maya_to_follow_maya/,,"Hi guys
+
+I just subscribed to Maya LT as the price has dropped down low enough now that I can justify having it even if I don't plan to use it all the time.
+
+The other reason I got it was that the breadth of content and tutorial for Maya as far as I can see is by far the best for Maya than for any other 3D packages. Having said that those content are for Maya, and not Maya LT.
+
+**tl;dr**: So is Maya LT similar enough to Maya that I should be able to follow along at least 80-90% of Maya tutorials comfortably? 
+
+I understand some features are not available on LT - and that it can vary from tutorial to tutorial, but in terms of where everything is menu wise, keyboard shortcuts wise, etc, am I going to have a hard time? I have most of the basics nailed down already so I am not a complete newbie at least",gamedev,Is Maya LT similar enough to Maya to follow Maya tutorials on?,http://www.reddit.com/r/gamedev/comments/3a1s2y/is_maya_lt_similar_enough_to_maya_to_follow_maya/

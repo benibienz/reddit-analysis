@@ -1,0 +1,159 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"iRacing has offline and online practice sessions that do not affect your rating. Spend time offline getting to know the grip levels in street stock or the mazda mx5.  After that, jump in an open practice session and learn to be on track with other cars without hitting them.  From there, your goal is to get out of rookie class.",2016-11-12 06:15:47+00:00,d9wwwcq,3,t1_d9w01al,49100,iRacing
+1,"There is 50% off new memberships right now.  If now isn't the time, I am not sure when you will get a better offer than this.
+
+http://www.iracing.com/membership/",2016-11-11 00:13:34+00:00,d9v4or1,1,t3_5c8oa1,28478,iRacing
+2,There is code for a bigger screen (made by a fan) and I also ordered one on the weekend to do some more testing. ,2016-11-07 10:19:47+00:00,d9pdu17,2,t1_d9ooyv4,44642,iRacing
+3,Sadly not me... My team mate,2016-05-13 10:00:10+00:00,d33uldo,3,t1_d33tz3g,2231,iRacing
+4,"This is where it's at.
+
+https://www.instagram.com/p/BEiH5B_tZzX/",2016-05-13 09:11:06+00:00,d33ts98,1,t3_4j3ipe,34961,iRacing
+5,"You should frame it and keep it for ever.
+
+http://www.castlegalleries.com/assets/castle/r/detail/large/c_g/assets/file/uploads/PMR_WG_Nic_Joly_090415_0100.jpg",2016-04-22 08:09:11+00:00,d2ctuqy,1,t3_4fvxpc,28741,Frugal
+6,ken sent me,2016-01-22 23:30:38+00:00,cz8djsk,2,t1_cz7zsrt,19843,gaming
+7,Both the photos make it look like he has had one or two fingers removed as a child.,2016-01-01 23:55:08+00:00,cyir76e,1,t3_3z25so,8668,StarWars
+8,"Yes, these appear to be correct.",2015-11-18 22:07:07+00:00,cx50mw4,2,t1_cx4wbhy,6239,iRacing
+9,Search for an Arduino Uno on eBay.  Should be between $4 and $8...,2015-11-17 21:06:27+00:00,cx3qf0y,2,t1_cx3ju8s,9080,iRacing
+10,"to be honest, it isn't that hard and I have helped quite a few non-technical people get theirs up and running.  Basically you click two pieces together, install some code on the arduino and run an application on your computer.
+
+At this stage, not looking at manufacturing them.",2015-11-17 08:47:51+00:00,cx342f4,2,t1_cx33maq,1703,iRacing
+11,"Squeek squeek, squeeker squeeken.
+
+Yes, I have seen your acorn.
+
+https://www.youtube.com/watch?v=hrQdi7UGjvU",2015-09-17 08:42:00+00:00,cv4hywv,1,t3_3l7zz5,41124,mildlyinteresting
+12,update iRacing :D,2015-08-29 00:37:18+00:00,cuj9qjj,2,t1_cuiud8d,25194,simracing
+13,"Its a free app that people upload their setups to..
+
+Download it from here - http://iracingsetupsync.nickthissen.nl/",2015-08-28 12:24:54+00:00,cuijdkw,5,t1_cuij51p,618,iRacing
+14,"There are multiple setups posted every week, there are some in Setup Sync as well.  As the comment above said, the setup shop gives you information on how to tweak.",2015-08-28 12:00:14+00:00,cuiitrh,3,t1_cuigis0,8715,iRacing
+15,The actual data behind the graphic can be found here - https://www.reddit.com/r/MUWs/comments/3iituf/request_rsimracing/,2015-08-27 23:09:32+00:00,cui1dfe,2,t1_cuhl6c5,24665,simracing
+16,"There is actual data behind the graphic and this is how it came out.
+
+The actual data can be found here: https://www.reddit.com/r/MUWs/comments/3ig2lb/request_riracing/",2015-08-27 23:08:51+00:00,cui1clg,2,t1_cuhcx1g,39487,iRacing
+17,/r/mildlyinteresting,2015-08-27 07:59:24+00:00,cuh8yun,2,t1_cuh8u6q,524,simracing
+18,Sorry I was wrong... I just looked at the library and it *should* work with my code.  You will just have to work on the GUI which can be done with trial and error by adjusting the pixels or by using an online site like https://moqups.com/ to work it out for you.,2015-08-24 08:56:48+00:00,cudpwan,4,t1_cudp56e,3199,simracing
+19,You could work through the code and re-develop mine to suit the TFTLCD library.,2015-08-24 08:51:56+00:00,cudptv6,4,t1_cudp56e,2907,simracing
+20,"**Video of v0.5.1 in action**
+
+http://www.youtube.com/watch?v=FFvC9X74Tfs
+
+^^^^^^.
+
+[Code Repository](https://github.com/Grimzentide/iRacing-Arduino-Pit-Board)",2015-08-24 02:33:27+00:00,cudhk96,7,t1_cu15sxu,950197,iRacing
+21,"if (and a big if at that) the LCD is supported by the adafruit graphics library, you would only need to scale the GUI on the arduino side.  If you didn't do this, you would have some wasted space on the display.  The pixel locations for the graphics are currently hard coded for a 2.8"" display and I have no intention to implement it any differently.  Below is a mockup of how yours might look if you were to get it working with my code.
+
+The GUI is on the arduino side and not the python side, so you would need to understand that code in order to modify it.  
+
+http://i.imgur.com/AShovG6.png",2015-08-24 02:27:27+00:00,cudhcu2,2,t1_cucy35h,33604,simracing
+22,"I think once you start it will all start coming back.  There are plenty of tutorials around as well.
+
+If you just wanted to clone my project, you really only need copy and paste skills",2015-08-24 02:24:30+00:00,cudh99u,7,t1_cucrw4u,46764,iRacing
+23,A second uno would be required,2015-08-24 02:20:04+00:00,cudh3tv,2,t1_cucvc31,38441,simracing
+24,[Code Repository](https://github.com/Grimzentide/iRacing-Arduino-Pit-Board),2015-08-23 04:36:09+00:00,cucj3wu,2,t1_cu0dqvj,915069,iRacing
+25,"**Video of v0.5.1 in action**
+
+http://www.youtube.com/watch?v=FFvC9X74Tfs
+
+^^^^^^.
+
+[Code Repository](https://github.com/Grimzentide/iRacing-Arduino-Pit-Board)",2015-08-23 04:35:05+00:00,cucj2y8,5,t1_cucip2k,894,iRacing
+26,"Here is the snap shot data from the game I use to help me code - https://www.dropbox.com/s/fadd8qdgdq0jgan/data.txt?dl=0
+
+I used the following process to make the snap shot
+
+^^^^^^^^^^^^^^.
+
+&gt; When you installing pyirsdk you also got irsdk.exe script in X:\Python33\Scripts directory, which you can use for:
+&gt; 
+&gt; Dump current iRacing state to binary file irsdk.exe --dump data.bin
+&gt; 
+&gt; Parse dumped binary file to txt file irsdk.exe --test data.bin --parse data.txt
+&gt; 
+&gt; Parse current iRacing state to readable txt file irsdk.exe --parse data.txt
+&gt; 
+&gt; Now, when you write your own scripts, for test purposes you can pass binary file to irsdk, instead of keep iRacing simulator always running
+&gt; 
+&gt; #!python3
+&gt; import irsdk
+&gt; ir = irsdk.IRSDK()
+&gt; ir.startup(test_file='data.bin')
+&gt; print(ir['Speed'])",2015-08-13 22:33:22+00:00,cu24ndl,5,t1_cu1l1da,29687,iRacing
+27,"I also use iSpeed on my laptop and BrassMonkey on my phone as displays.. 
+
+Thanks for the feedback.",2015-08-13 08:36:23+00:00,cu1e3yc,2,t1_cu1cpi4,5175,iRacing
+28,Yes... or wait for me to release my code for everyone to use.,2015-08-13 02:51:31+00:00,cu16a1e,7,t1_cu15sxu,881,iRacing
+29,"**Where to start:**
+
+You can start on the python side without spending any money.  Install python, yaml and the iRacing SDK and start getting data out of iRacing.  Quick, easy and documented at the [Python iRacing SDK GitHub](https://github.com/kutu/pyirsdk).
+
+You can make the exact same program but print it to a console instead of sending it to an arduino.  This is exactly what I did before I even started looking at directing the output to another device.
+
+
+
+
+
+
+
+",2015-08-13 01:36:55+00:00,cu13sa3,3,t1_cu0r4cx,20857,iRacing
+30,"Sorry I was wrong... $12.13.. Just find similar on your local ebay in the right currency.
+
+US $3.80 - [Arduino Uno Clone](http://www.ebay.com/itm/NEW-ATmega328P-CH340G-UNO-R3-Board-USB-Cable-for-Arduino-DIY-NEWSS-/221804315610?hash=item33a49143da) &lt;- I have the code working on a 2 Uno clones and a genuine Arduino Uno.
+
+AU $8.33 - [Uno 2.8"" TFT Shield](http://www.ebay.com.au/itm/381238351575?_trksid=p2060353.m2749.l2649&amp;ssPageName=STRK%3AMEBIDX%3AIT)  &lt;-- This is the exact TFT shield I am using.",2015-08-13 01:27:51+00:00,cu13hkz,5,t1_cu105hm,5973,iRacing
+31,I have considered this... ,2015-08-12 22:43:05+00:00,cu0xwbx,2,t1_cu0wmvf,2073,iRacing
+32,Happy to share the source code one I have it finalised.,2015-08-12 22:19:16+00:00,cu0x1aa,3,t1_cu0r4cx,8998,iRacing
+33,This is about $12 :),2015-08-12 22:00:56+00:00,cu0wcve,3,t1_cu0dcx7,28018,iRacing
+34,I am using the Python iRacing SDK - https://github.com/kutu/pyirsdk,2015-08-12 21:58:31+00:00,cu0w9jx,2,t1_cu0dqvj,27211,iRacing
+35,"I thought I would share a little project I have been working on and seek some advice on what else to include in it. 
+
+Recently I have been working on an Arduino based TFT device that can help me with pit strategies. A python program runs in the background and updates the Arduino Uno via USB serial port and displays the information on a small touch screen. 
+
+So far I have implemented: 
+
+* session laps 
+* laps completed 
+* laps remaining 
+* fuel remaining 
+* laps until I run out of fuel 
+* how much fuel I will require at the next stop 
+* which lap I should pit on 
+* 5 lap average fuel burn 
+* race fuel burn 
+
+ 
+
+I am thinking of using the blank box in the to show information such as current flag (I'm colorblind and find it somewhat difficult), incident count, and what ever this thread can come up with? 
+
+I still have a lot of coding to do to make it work for timed races, practice sessions, exception handling, optimization of the code and GUI alignment. 
+
+I would love to hear what you all think. ",2015-08-12 07:32:10+00:00,cu05huo,1,t3_3gp4ib,122,iRacing
+36,Something with more functionality compared to the current forum poll and google forms.,2015-06-25 07:28:57+00:00,csi0u7e,3,t1_csi02h2,2674,iRacing
+37,I am after a better poll system that uses your iRacing credentials and has the ability to limit the number of votes each user can have.  Something in between the current forum poll and google forms.,2015-06-24 22:35:05+00:00,cshllzc,1,t3_3ay4bt,34540,iRacing
+38,Not the same circuit or not in there?,2015-06-23 21:47:35+00:00,csgdujf,4,t1_csg3p2y,15331,iRacing
+39,It is in there under *Lago Potrero de los Funes* and I voted for it too :),2015-06-23 10:27:00+00:00,csfr800,2,t1_csfq973,4334,iRacing
+40,"**Update**
+
+* Circuit de la Sarthe, Le Mans, France - 	85	votes	 - 12.26%
+* Red Bull Ring, Spielberg, Austria - 	28	votes	 - 4.04%
+* Adelaide Street Circuit, Adelaide, South Australia, Australia - 	22	votes	 - 3.17%
+* Circuit de Monaco, Monte Carlo, Monaco - 	21	votes	 - 3.03%
+* Hockenheimring, Hockenheim, Germany - 	16	votes	 - 2.3%
+* Belle Isle, Detroit, Michigan, United States - 	16	votes	 - 2.3%
+* Albert Park Street Circuit, Melbourne, Victoria, Australia - 	15	votes	 - 2.16%
+* Knockhill, Fife, United Kingdom - 	13	votes	 - 1.87%
+* Circuit de Catalunya, Montmeló (Barcelona), Spain - 	12	votes	 - 1.73%
+* Sydney Motorsport Park, Eastern Creek, New South Wales also known as Eastern Creek Raceway, Australia - 	9	votes	 - 1.29%
+* Sepang International Circuit, Kuala Lumpur, Malaysia - 	9	votes	 - 1.29%
+* Mugello Circuit, Tuscany, Italy - 	9	votes	 - 1.29%
+* EuroSpeedway Lausitz, Klettwitz, Germany - 	9	votes	 - 1.29%
+* Autodromo Enzo e Dino Ferrari, Imola, Italy - 	9	votes	 - 1.29%
+* Thunderhill Raceway Park, Willows, California, United States - 	8	votes	 - 1.15%
+* Surfers Paradise Street Circuit, Surfers Paradise, Queensland, Australia - 	8	votes	 - 1.15%
+* Karakoram Motors Grand Prix, Rawalpindi, Pakistan - 	8	votes	 - 1.15%
+* Exhibition Place, Toronto, Canada - 	8	votes	 - 1.15%
+* Circuit Paul Ricard, Le Castellet, France - 	8	votes	 - 1.15%
+* Sandown Raceway, Melbourne, Victoria, Australia - 	7	votes	 - 1.01%
+* Guia Circuit, Macau, Macau - 	7	votes	 - 1.01%
+* Evergreen Speedway, Monroe, Washington, United States - 	7	votes	 - 1.01%",2015-06-22 22:11:55+00:00,csf8z6c,1,t3_3ap217,44009,iRacing

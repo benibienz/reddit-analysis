@@ -1,0 +1,87 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,Not a problem. I found his videos incredibly helpful so I thought I'd share. ,2016-11-01 01:10:34+00:00,d9g83fi,3,t1_d9g7rqk,454,recordthis
+1,"Mike Delgaudio talks a lot about reaper on his YouTube account called Booth Junkie. It's where I learned most of my stuff. 
+
+I believe he goes over what you are talking about there. ",2016-11-01 00:46:37+00:00,d9g72w7,1,t3_59zg0m,235188,recordthis
+2,"What do you do for music in this situation? Is this free stuff? Also, calm, confident and collected all the way through. Then you say the word Nissan and I got ""mild surprise."" Only thing that stuck out in a very strong demo.",2016-10-27 21:07:59+00:00,d9aj5j5,1,t3_58kkae,590658,recordthis
+3,"This is so funny, thanks for sharing! Well done!",2016-10-13 16:31:20+00:00,d8qfmc1,1,t3_578q52,39910,animation
+4,"I've got a div with an id=""pictures"". When the button that has the rel=""pictures"" attached to it is clicked, jquery adds a # infront of the target so that it ends up reading $('#pictures').toggleFade(); and it shows that div. That's what I'm doing at least.",2016-08-31 07:21:42+00:00,d73q4zb,2,t1_d73py57,591,javascript
+5,"It's alright! Got it solved in webdev. A div that contained the content was becoming hidden and as a result hiding it. I'm a fool, but it's fixed now.",2016-08-31 05:06:48+00:00,d73n3yy,2,t1_d73mw6d,474,javascript
+6,"YES! Inspect element saved me! The div containing the content was being hidden for some reason! Realized I didn't need that div, cut it, and it works now! Thanks for these steps!",2016-08-31 05:05:07+00:00,d73n2c0,4,t1_d73msp4,577,webdev
+7,"Thanks, it is registering the element. Seems to be reading it perfectly fine. It's just not executing. ",2016-08-31 04:49:27+00:00,d73mmnx,2,t1_d73mcga,587,webdev
+8,Thanks!,2016-08-29 04:34:29+00:00,d70ubg0,2,t1_d70shw1,3516,buildapc
+9,Thanks so much for this. I wasn't expecting to get a response so quickly. ,2016-08-29 04:34:07+00:00,d70ub2v,2,t1_d70shss,3499,buildapc
+10,"If you're really wanting to make a day of it, flights from John Lennon airport to Belfast/Dublin are very cheap. So you could look into walking Ireland as well. The Antrim Coast and the Glens are absolutely stunning. Beyond that suggestion, I'm no help. Hope you find what you are looking for!",2016-08-05 05:56:37+00:00,d6510c7,1,t3_4w5dl6,48429,Liverpool
+11,"That's actually really put things in perspective for me. Thanks for saying that, I think it's what I needed to hear. ",2016-08-03 13:42:23+00:00,d62fva9,4,t1_d62fcu1,816,webdev
+12,"I don't think I will break those requirements, it's the user limit that I think is restricting, unless of course I'm miss understanding their meaning. If I have more the 3 different sites for 3 different people then that's when it becomes expensive. ",2016-08-03 08:08:57+00:00,d6287vp,4,t1_d6273vr,3324,webdev
+13,"Hey! Thanks for your reply. Contentful looks great, but the pricing is a bit steep for where I am currently at. However, definitely something to keep on my radar for the future! Thanks!",2016-08-03 07:04:07+00:00,d626wva,2,t1_d625z9d,2478,webdev
+14,"Thanks. All my clients are currently friends who are doing me a solid by letting me build websites for them as I'm trying to build a portfolio right now so I can charge people later. Or is this a poor way to go about things do you think? (I will probably stick with surreal, it's ticking all my boxes and is relatively cheap.)",2016-08-03 07:00:59+00:00,d626uj6,2,t1_d625y94,2359,webdev
+15,Thanks! I will definitely have a look.,2016-08-03 06:59:07+00:00,d626t2b,2,t1_d6264sz,1785,web_design
+16,This is exactly the sort of thing that I am trying to accomplish. I have figured out how to create a log in page using a PHP file and mySQL. How did you manage to create the editing side of it all so that his changes were saved on the server? Was this accomplished with Angular as well? A link to a tutorial would also be welcome if you don't want to write it all out. Thanks a bunch!,2016-07-16 21:49:34+00:00,d5ez0ac,2,t1_d5czjoy,144558,webdev
+17,Here's hoping I can lead an easy(er) life from now on. ,2016-07-16 12:07:42+00:00,d5egid5,1,t3_4t1qu8,49059,millionairemakers
+18,"I've also just realized that Create.js was built for CMS in mind. I guess I have tried to stay away from things like wordpress because I like the idea that I have full control, which, in a way, I guess I am still sort of trying to maintain by having my editing function run on my page. Again, any help would be fantastic. Thanks!",2016-07-15 02:12:49+00:00,d5ct35l,1,t3_4swxsw,283,webdev
+19,"I was sure that this one was going to work, yet it didn't.
+
+    $(document).ready(function(){
+    
+      $('div.dropdown').each(function() {
+        var $dropdown = $(this);
+    
+        $(""a.dropdown-link"", $dropdown).click(function(e) {
+          e.preventDefault();
+          $div = $(""div.dropdown-container"", $dropdown);
+          $div.toggle();
+          $(""div.dropdown-container"").not($div).hide();
+          return false;
+        });
+    
+    });
+        
+      $('html').click(function(){
+        $(""div.dropdown-container"").hide();
+      });
+         
+    });
+
+http://jsfiddle.net/NFTFw/29/
+
+I actually dropped the whole jsfiddle in my page and the code itself isn't working on my page. Which is curious. My other jquery is working just fine. Very confusing. ",2016-07-06 15:41:23+00:00,d51hf08,2,t1_d51gp3u,919,webdev
+20,I don't know much about video cards but I'm looking to build a new PC so hopefully I win the first lottery drawing of my life. ,2016-06-29 16:43:52+00:00,d4sr2n5,1,t3_4qfy9d,6308,pcmasterrace
+21,"Gotta pay my moms student loans. Here's hoping. 
+",2016-06-18 13:43:53+00:00,d4e9j50,1,t3_4omf0f,45093,millionairemakers
+22,They were all in the same place. My stupid self just didn't check the properties to see if they would execute. They work now. Thanks!,2016-05-22 14:46:57+00:00,d3f7kne,2,t1_d3f78ft,678,webdev
+23,Solved it! Checked the properties and I didn't have the files checked for execute. Thanks for the help!,2016-05-22 14:45:33+00:00,d3f7j50,2,t1_d3f6zcz,1125,webdev
+24,"Read [A Practical Handbook for the Actor](http://www.amazon.com/Practical-Handbook-Actor-Melissa-Bruder/dp/0394744128) to help understand what it is an actor needs to do in a seen. In this way, you can guide your actors in the direction you want by using their vernacular or one that makes sense to them. Not to say every actor uses this book, but it is a damn good one. Hope this helps. ",2016-05-01 15:52:48+00:00,d2oi407,2,t1_d2odnyp,8954,Filmmakers
+25,I BELIEEEEEVE,2016-04-16 06:30:23+00:00,d24zudc,1,t3_4ez9pp,27428,millionairemakers
+26,Any relation to the stage play Proof by David Auburn? Just curious if you had made it into a film.,2016-04-07 14:49:03+00:00,d1tkqls,3,t1_d1ti9tu,3497,Filmmakers
+27,"I'd say The Witcher. Absolutely one of the best games for story that I have ever played. Be warned that you will want to keep coming back so this might end up not being a ""just today"" sort of thing.",2016-03-20 12:37:23+00:00,d16nk56,1,t3_4b7ap7,863,makemychoice
+28,"Definitely study abroad. The friends that really matter and would have been/will be your true support network will always be there. This is an opportunity you might never have again, so definitely go for it. 
+
+If in the end you lose some friends because you were away doing something great for you, then do you really want people like that in your life? You will make better friends than that and they might even be the ones you meet when you study abroad. 
+
+I guess my mentality is life is all about experiences and if you have the opportunity to have a completely new one over something you are comfortable with than go for the former. 
+
+Best of luck with your decision, all the best. ",2016-01-07 10:03:06+00:00,cyp6jpd,1,t3_3zufo5,9805,makemychoice
+29,1969,2015-09-13 19:26:23+00:00,cv0bbqu,1,t3_3ksyxm,7183,pcmasterrace
+30,"I agree with everything you had to say but for the sake of time I am going to make it into an easy list of things to improve.
+
+-If you are worried about view count, look for topics that are topical with today's society. For instance, currently you could make a video on what Islam really is. Guaranteed views and you get to stick with your educational show. Just a thought, you don't have to go with it.
+
+-Record higher quality audio (this is crucial, sound can make or break a video.) This includes your intro. Rerecord it with higher quality sounds.
+
+-Utilize better lighting (Good lighting grabs the attention) The most recent video on Art Explains, about headaches looked very amateur immediately because of the natural light on one side, and then the room light on the other. 
+
+-Look into getting a higher quality camera to record with. Fixing your light setup might help you out with this, or getting a better camera might fix your light situation. Figure out which is more affordable right now and go for it.
+
+-Really Bill Nye the shit out of your info, love it every word of it and we will love it too.
+
+-Don't push your jokes, and don't make too many of them.
+
+One last thing and this is just another suggestion, but perhaps try an episode where you are stood instead of sat. Or at least record a bit of it and see if you like the look of it better. Right now I feel as if you are tied to a chair and I think this might be due to the fact that you never use your arms. I feel like a fishing line is tied around your torso.
+
+However, maybe once other things have been addressed this won't feel as weird! Best of luck to you man!
+
+-",2015-06-28 06:40:55+00:00,csl80ql,2,t1_csl1zzb,15818,makemychoice
+31,So how did it turn out?,2015-06-28 00:39:32+00:00,cskzfse,4,t1_csh3799,294579,Broadway
+32,"If you know what part you would like to audition for, listen to their songs. Get a feel for the genre and then find an artist that has something very similar to that style or feel. I don't know Kinky Boots well enough to help you out I'm afraid, but that is the best advice I can give. If, however, you would only like to be ensemble, get a general feel for the overall musical genre of the show and find a band that embodies that and use a song from them.",2015-06-28 00:35:00+00:00,cskzbgh,1,t3_3bcs7k,1463,Broadway
+33,Which makes it slightly more interesting because I live in the PNW.,2015-06-19 22:23:46+00:00,csccnh4,2,t1_cscclab,117,mildlyinteresting

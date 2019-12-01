@@ -1,0 +1,94 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-10 18:29:51+00:00,self.fcpx,https://www.reddit.com/r/fcpx/comments/5c9fx1/adjusting_channel_configuration_in_fcp_x/,False,"I had a problem in which only background music would play, voices wouldn't on mobile devices.
+A vimeo staff member told me this:
+""Sorry you're experiencing trouble with your video's audio. It seems likely that the culprit is a phenomena known as ""phase cancellation."" This means that the audio in the your left and right channels is exactly 180 degrees out of phase. (To get technical, this means the crest of the waveform in the left channel aligns exactly with the trough in the right channel.) This is usually okay when your audio is played back on stereo speakers, but when mixed down to mono (like on an iPad or iPhone), this can result in some parts of the audio being inaudible. You'll need to go back and re-examine your audio mixing to resolve this issue. If you have access to the raw audio, you should be able to fix this by shifting over one of the channels (left or right), so that they line up.""
+but i don't know how to mix, i usually don't do it myself. Can anyone tell me how to do this in FCP?
+
+I've been told to adjust the actual position of the waveform, but don't really know what this means or how to do so.",fcpx,Adjusting Channel Configuration in FCP X?,https://www.reddit.com/r/fcpx/comments/5c9fx1/adjusting_channel_configuration_in_fcp_x/
+1,2016-11-10 18:15:17+00:00,self.Filmmakers,https://www.reddit.com/r/Filmmakers/comments/5c9crj/adjusting_channel_configuration_in_fcp_x/,False,"I had a problem in which only background music would play, voices wouldn't on mobile devices.
+
+A vimeo staff member told me this:
+
+""Sorry you're experiencing trouble with your video's audio. It seems likely that the culprit is a phenomena known as ""phase cancellation."" This means that the audio in the your left and right channels is exactly 180 degrees out of phase. (To get technical, this means the crest of the waveform in the left channel aligns exactly with the trough in the right channel.) This is usually okay when your audio is played back on stereo speakers, but when mixed down to mono (like on an iPad or iPhone), this can result in some parts of the audio being inaudible.
+You'll need to go back and re-examine your audio mixing to resolve this issue. If you have access to the raw audio, you should be able to fix this by shifting over one of the channels (left or right), so that they line up.""
+
+but i don't know how to mix, i usually don't do it myself. Can anyone tell me how to do this in FCP?",Filmmakers,Adjusting Channel Configuration in FCP X?,https://www.reddit.com/r/Filmmakers/comments/5c9crj/adjusting_channel_configuration_in_fcp_x/
+2,2016-10-26 21:02:03+00:00,self.halloween,https://www.reddit.com/r/halloween/comments/59k2b1/giant_shoe_both_feet_can_fit_in_for_siamese_twin/,False,"Making a siamese twin costume, both people are going to make up one leg, both legs of one person inside one pant leg of big pants, and was thinking their feet would go inside a giant pair of shoes. Any ideas as to where to get an appropriate pair or make them?",halloween,Giant shoe both feet can fit in for siamese twin costume?,https://www.reddit.com/r/halloween/comments/59k2b1/giant_shoe_both_feet_can_fit_in_for_siamese_twin/
+3,2016-10-13 17:40:15+00:00,self.DIY,https://www.reddit.com/r/DIY/comments/57bjx4/siamese_twins_costume_help/,False,[removed],DIY,Siamese Twins Costume Help?,https://www.reddit.com/r/DIY/comments/57bjx4/siamese_twins_costume_help/
+4,2016-10-13 17:24:00+00:00,self.halloween,https://www.reddit.com/r/halloween/comments/57bgq8/siamese_twins_costume/,False,"Ok, this is for halloween but also for a play I'm directing for a school project. The twins are co-joined at the hip and share a leg. They come out at the waist, their bodies like the arms of a ""Y."" I was thinking just have them hop and put both legs in one pant leg? Any suggestions, needs to be funny, but also look decent aesthetically?",halloween,Siamese twins costume,https://www.reddit.com/r/halloween/comments/57bgq8/siamese_twins_costume/
+5,2016-10-10 14:28:54+00:00,self.Halloween_Costumes,https://www.reddit.com/r/Halloween_Costumes/comments/56s7sf/siamese_twins_cojoined_at_hips/,False,"Halloween/theatre costume. Calls for two twins, co-joined at and below hip, bodies coming out like the arms of a ""Y."" Only have two legs. Any ideas for how to pull this off?",Halloween_Costumes,Siamese Twins Co-joined at hips,https://www.reddit.com/r/Halloween_Costumes/comments/56s7sf/siamese_twins_cojoined_at_hips/
+6,2016-09-27 18:37:28+00:00,self.suggestmeabook,https://www.reddit.com/r/suggestmeabook/comments/54s2lg/ten_minute_play_suggestion/,False,"Looking for a short, hysterical ten minute play for my directing class. 
+
+Any recs? (Brief description maybe too?)",suggestmeabook,Ten minute play suggestion?,https://www.reddit.com/r/suggestmeabook/comments/54s2lg/ten_minute_play_suggestion/
+7,2016-09-27 18:19:25+00:00,self.Theatre,https://www.reddit.com/r/Theatre/comments/54rz95/ten_minute_play_recommendation/,False,"Looking for a hilarious ten minute play to direct for a class. Any recommendations, can you give me a brief description as well?
+
+Thanks!",Theatre,Ten minute play recommendation,https://www.reddit.com/r/Theatre/comments/54rz95/ten_minute_play_recommendation/
+8,2016-06-01 22:49:10+00:00,self.HelpMeFind,https://www.reddit.com/r/HelpMeFind/comments/4m41wj/help_me_find_this_mod_for_halo_3/,False,https://youtu.be/hAuQa8i37m8 how do i download this to my xbox 360,HelpMeFind,Help me find this mod for halo 3?,https://www.reddit.com/r/HelpMeFind/comments/4m41wj/help_me_find_this_mod_for_halo_3/
+9,2016-05-27 21:20:53+00:00,self.projects,https://www.reddit.com/r/projects/comments/4lcw4q/storytelling_project_with_homeless_shelters/,False,[removed],projects,Storytelling Project With Homeless Shelters,https://www.reddit.com/r/projects/comments/4lcw4q/storytelling_project_with_homeless_shelters/
+10,2016-05-26 19:40:36+00:00,self.mac,https://www.reddit.com/r/mac/comments/4l73et/best_macbook_pro_specs_for_4k_video_editing/,False,"I'm looking to get a 15inch macbook pro for editing on final cut pro x. I work with 4k video and plugins. Could someone help me figure out which builds I could consider both for performance and cost?
+
+http://www.apple.com/shop/buy-mac/macbook-pro",mac,Best macbook pro specs for 4k video editing?,https://www.reddit.com/r/mac/comments/4l73et/best_macbook_pro_specs_for_4k_video_editing/
+11,2016-05-26 18:22:33+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/4l6pgh/sd_card_format_set_up/,False,"I recently made a short film on a Panasonic GH4 with a Sandisk Extreme 64 gb SD card. When i put it into my PC to view it says i need to format it. 
+
+Viewing on Lenova Yoga laptop
+
+Please tell me I still have the footage? How do I view it? I'm panicking",techsupport,SD Card format set up?,https://www.reddit.com/r/techsupport/comments/4l6pgh/sd_card_format_set_up/
+12,2016-04-15 22:33:45+00:00,self.Filmmakers,https://www.reddit.com/r/Filmmakers/comments/4ez6ul/urgent_help_with_set_dec/,False,Everyone on my short film screwed up. The temporary wallpaper that was supposed to come in didn't. instead i got real wallpaper. The people who were going to cut it bailed too. The walls naturally are very boring ugly pale yellow. How can I make a gorgeous last minute film set. I've spent $3000 and it will all go to waste if the set is ugly. Any suggestions are much appreciated!,Filmmakers,URGENT help with set Dec,https://www.reddit.com/r/Filmmakers/comments/4ez6ul/urgent_help_with_set_dec/
+13,2016-04-15 20:58:21+00:00,self.howto,https://www.reddit.com/r/howto/comments/4eysgc/decorate_a_set_last_minute/,False,Everyone on my short film screwed up. The temporary wallpaper that was supposed to come in didn't. instead i got real wallpaper. The people who were going to cut it bailed too. The walls naturally are very boring ugly pale yellow. How can I make a gorgeous last minute film set. I've spent $3000 and it will all go to waste if the set is ugly. Any suggestions are much appreciated!,howto,Decorate a set last minute,https://www.reddit.com/r/howto/comments/4eysgc/decorate_a_set_last_minute/
+14,2016-04-06 14:41:02+00:00,self.DoMyHomework,https://www.reddit.com/r/DoMyHomework/comments/4dm0nz/religion_journals_by_6pm_tonight/,False,[removed],DoMyHomework,Religion Journals by 6pm tonight,https://www.reddit.com/r/DoMyHomework/comments/4dm0nz/religion_journals_by_6pm_tonight/
+15,2016-04-05 02:33:45+00:00,self.Filmmakers,https://www.reddit.com/r/Filmmakers/comments/4dehzz/resolution_requirement_for_oscar_and_festival/,False,"Does this requirement (found on the Oscars short film rules page) mean every shot must be a minimum of 2048x1080?
+
+I ask because I want to use stock footage for a shot but its only 1080p 
+
+""All eligible motion pictures must be publicly exhibited by means of 35mm or 70mm film, or in a 24-
+or 48- frame progressive scan Digital Cinema format with a minimum projector resolution of 2048 
+by 1080 pixels, source image format conforming to ST 428-1:2006 D-Cinema Distribution Master
+– Image Characteristics; image compression (if used) conforming to ISO/IEC 15444-1 (JPEG 
+2000), and image and sound file formats suitable for exhibition in commercial Digital Cinema 
+sites.""",Filmmakers,Resolution requirement for Oscar and festival short films?,https://www.reddit.com/r/Filmmakers/comments/4dehzz/resolution_requirement_for_oscar_and_festival/
+16,2016-03-14 21:41:02+00:00,self.travel,https://www.reddit.com/r/travel/comments/4af9r6/beach_camping_and_hunting/,False,"My brother , dad I love camping and survival type stuff. Is there anywhere you can kind of have a fake ""Castaway"" experience where we could build a fire and camp on a beach, fish and maybe hunt small game with bows?
+
+Anything comparable any of you have done?
+
+We'd go in June or July",travel,Beach camping and hunting?,https://www.reddit.com/r/travel/comments/4af9r6/beach_camping_and_hunting/
+17,2016-03-02 01:29:30+00:00,self.Filmmakers,https://www.reddit.com/r/Filmmakers/comments/48jryz/how_to_accomplish_lighting_style/,False,"I'm working on a film, but don't have a lot of background in lighting can any of you give me tips on how to create these kind of lighting situations, first, the short film ""Method Actor"" on vimeo vimeo.com/19966855 and also the shots in this video youtu.be/p5M61JeMCyY at times 00:28, 00:32 and 1:01. Thanks for any help!
+Links: vimeo.com/19966855,https://youtu.be/p5M61JeMCyY",Filmmakers,How to accomplish lighting style?,https://www.reddit.com/r/Filmmakers/comments/48jryz/how_to_accomplish_lighting_style/
+18,2016-02-12 02:50:40+00:00,self.hacking,https://www.reddit.com/r/hacking/comments/45cmr7/can_brutus_crack_my_internet_password/,False,[removed],hacking,Can Brutus crack my internet password?,https://www.reddit.com/r/hacking/comments/45cmr7/can_brutus_crack_my_internet_password/
+19,2016-02-07 20:01:29+00:00,self.explainlikeimfive,https://www.reddit.com/r/explainlikeimfive/comments/44n9yf/eli5_why_does_raw_meat_make_us_sick/,False,"I thought the point of a liver was so we could handle raw meat, so then why does raw meat make us sick?",explainlikeimfive,ELI5: why does raw meat make us sick?,https://www.reddit.com/r/explainlikeimfive/comments/44n9yf/eli5_why_does_raw_meat_make_us_sick/
+20,2016-01-15 04:04:30+00:00,self.appdev,https://www.reddit.com/r/appdev/comments/411ent/can_someone_explain_the_process_of_adding_ads_in/,False,"I'm having an app created and I want to monetize it with ads, do I need to have the developer set that up or do I do that on my own after the dev has created the app? Also does anyone have suggestions about ad services, like AdMob vs InMobi as far as making more profit? ",appdev,can someone explain the process of adding ads in an app?,https://www.reddit.com/r/appdev/comments/411ent/can_someone_explain_the_process_of_adding_ads_in/
+21,2016-01-12 23:28:47+00:00,self.creative,https://www.reddit.com/r/creative/comments/40p3gx/need_help_with_game_idea/,False,"Making a card game (not for sale but for playing with friends)
+I'ts stupid and simple but I'm having a little trouble with it. 
+
+Basically Someone turns over a card and on the card is the name of a color for instance ""GREEN"" but either the letters are a different color or the card is. 
+
+I can't decide what would make it harder to guess right, especially with increasing speed.
+
+I also don't know whether the player should have to say the color of the card or letters or the name of a color written on the card.
+
+Anyone have any ideas?",creative,Need Help With Game Idea,https://www.reddit.com/r/creative/comments/40p3gx/need_help_with_game_idea/
+22,2016-01-05 17:52:27+00:00,self.appdev,https://www.reddit.com/r/appdev/comments/3zl9hk/what_to_know_when_having_an_app_developed/,False,"I am about to have an app developed, but I'd like to know from developers what one would need to give a developer in order to have one efficiently made. 
+
+What details do they need? 
+
+How should I outline what I want?
+
+The app involves using pgp encryption to send discrete messages, is this possible and how would I best explain this?
+
+I'm sorry if this seems like novice stuff I just want to be easy to work with
+
+Also are NDAs considered rude?",appdev,What to know when having an app developed?,https://www.reddit.com/r/appdev/comments/3zl9hk/what_to_know_when_having_an_app_developed/
+23,2015-12-09 22:26:48+00:00,self.GiftIdeas,https://www.reddit.com/r/GiftIdeas/comments/3w4w6u/gift_ideas_for_nerdy_family/,False,"I'm looking for stuff similar to old out items on dudeiwant that's site. There's stuff like assault rifle nerf blowguns, rubberband guns modeled after the ppk, and other nerdy but fun toys/gadgets. We all like to do stuff like airsoft indoors and we also like fighting games. My cousin and brother are both teenagers, and while I'm in my twenties we all like this sort of nerdy fun. Anyone have any really cool toy/gadget type gifts for them? nothing over $100 though",GiftIdeas,Gift Ideas for Nerdy Family,https://www.reddit.com/r/GiftIdeas/comments/3w4w6u/gift_ideas_for_nerdy_family/
+24,2015-12-03 14:52:52+00:00,self.scrivener,https://www.reddit.com/r/scrivener/comments/3vaahr/compiling_format_issue/,False,"I've been working a novel and I recently went to compile it as a word doc (novel with parts) but when I open it in word there are a bunch of weird line breaks especially in dialogue, what gives and whats an easy fix other than going through and manually going line by line.",scrivener,Compiling Format Issue,https://www.reddit.com/r/scrivener/comments/3vaahr/compiling_format_issue/
+25,2015-12-02 22:36:07+00:00,self.TheScrivener,https://www.reddit.com/r/TheScrivener/comments/3v7dbs/compiling_issue/,False,"I've been working a novel and I recently went to compile it as a word doc (novel with parts) but when I open it in word there are a bunch of weird line breaks especially in dialogue, what gives and whats an easy fix other than going through and manually going line by line.",TheScrivener,Compiling issue,https://www.reddit.com/r/TheScrivener/comments/3v7dbs/compiling_issue/
+26,2015-11-03 00:18:59+00:00,self.droidturbo,https://www.reddit.com/r/droidturbo/comments/3ra8u5/error_message/,False,"Hey I recently started getting the error message ""unfortunately messaging has stopped working"" almost every time I attempt to send a text . I have no idea what has changed in my settings to cause this. Any fixes?",droidturbo,Error message,https://www.reddit.com/r/droidturbo/comments/3ra8u5/error_message/
+27,2015-08-19 20:48:14+00:00,self.dating_advice,https://www.reddit.com/r/dating_advice/comments/3hmsio/kissed_then_dissed/,,"Excuse the lame title, but the other night this girl and I who met recently were hanging out and she started putting out obvious signs she was into me. Leaning into me, resting her head on me, etc.
+
+We left the room where a bunch of people were hanging out and went into my dorm. I went in for a kiss and she kissed back, but a minute later I came in again and she backed away suddenly. I figured that she was worried it was going to go to far (though those weren't my intentions) and so I backed off. We were both buzzed anyway.
+
+Later that night I hung out with her more and she kept meaning in on me and I played with her hair, that sorta thing.
+
+The next day she acted weird. We had a playful teasing\banter sort of relationship before and this continued the next day, but it seemed more like she actually meant some of the teasing. And when I'd brush into her while walking (which actually wasn't intentional) she very obviously try to put distance between us.
+
+What's going on? Is there any chance with her? Should I just move on? I'm not emotionally invested, barely know her but she seems cool. How should I proceed??",dating_advice,Kissed then dissed...,http://www.reddit.com/r/dating_advice/comments/3hmsio/kissed_then_dissed/
+28,2015-08-19 20:36:37+00:00,self.AskWomen,https://www.reddit.com/r/AskWomen/comments/3hmqln/kissed_then_dissed/,,,AskWomen,Kissed then dissed,http://www.reddit.com/r/AskWomen/comments/3hmqln/kissed_then_dissed/
+29,2015-08-08 23:57:16+00:00,self.AskMen,https://www.reddit.com/r/AskMen/comments/3ganvw/how_do_you_reopen_a_door_after_a_girl_has_closed/,,,AskMen,How do you reopen a door after a girl has closed it if you don't see her?,http://www.reddit.com/r/AskMen/comments/3ganvw/how_do_you_reopen_a_door_after_a_girl_has_closed/

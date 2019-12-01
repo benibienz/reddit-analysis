@@ -1,0 +1,82 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,Nice! The twins from Outlast in drag ,2016-10-31 17:12:31+00:00,d9fl4tc,1,t3_5act79,6854,pics
+1,"Now that's metal 
+",2016-10-29 04:42:10+00:00,d9cfn90,1,t3_59xf48,22084,pics
+2,Makes sense,2016-09-25 05:04:18+00:00,d810794,2,t1_d80zh73,1579,photography
+3,"A good start for consideration, thank you! ",2016-09-25 05:03:59+00:00,d8106xj,2,t1_d80zp5e,1086,photography
+4,"He feels the need...the need for speed...
+
+
+zoom zoom ",2016-09-15 04:28:51+00:00,d7nfjb9,1,t3_52s56s,33585,WTF
+5,"Time is not a line...it's a cake. 
+
+Can confirm am geologist. ",2016-08-11 03:48:42+00:00,d6cszbi,1,t3_4x4qhq,20197,pics
+6,"Yes sob story 
+",2016-06-25 00:06:03+00:00,d4my9in,1,t3_4pnqbl,27880,no_sob_story
+7,"What's this from? 
+",2016-06-13 08:12:10+00:00,d472pqe,1,t3_4nu0wl,13756,gifs
+8,Have a source for this?,2016-06-07 02:21:57+00:00,d3yxr0i,3,t1_d3yl4hg,18478,pics
+9,"""Happy thirsday""",2016-05-06 04:11:38+00:00,d2ura3v,1,t3_4hzykv,51899,AskReddit
+10,[First Thought](https://www.youtube.com/watch?v=bAIbvlobWDM),2016-05-04 18:01:42+00:00,d2spt2f,1,t3_4huuq2,10853,gifs
+11,Or you'll just look out of place :/ ,2016-04-18 18:06:56+00:00,d27sl16,2,t1_d27owbs,4835,geology
+12,"This is actually kinda cool, not wtf.",2016-02-02 21:18:55+00:00,czlgl8u,1,t3_43v7oz,14172,WTF
+13,Afrikaans is a splinter of Dutch.,2016-01-21 08:05:57+00:00,cz6aq6n,5,t1_cz6a9l3,1498,funny
+14,Same! Just with different colored hair.,2016-01-17 07:21:02+00:00,cz1bquj,2,t1_cz0cb1o,65966,AskReddit
+15,"When ball is life, you get your practice in anytime you can.",2016-01-17 05:02:44+00:00,cz18cn5,1,t3_41c3by,855,WTF
+16,"Because you wouldn't just vaporize 10 feet away from lava irl? It's hot stuff yes, but not THAT hot.",2016-01-11 17:48:06+00:00,cyu8moj,6,t1_cytvow0,30876,gaming
+17,"It is very real, but spends most of its time serving as a helicopter pad. ",2016-01-06 00:38:44+00:00,cyngl78,3,t1_cynb35k,8209,pics
+18,So long overdue ,2015-12-19 21:51:39+00:00,cy4ulab,2,t1_cy4eh49,37902,Warhammer40k
+19,"As someone living in said region, I can confirm that the majority of those ""slaves"" have better phones than I do (and I'm a westerner). These guys have it a lot better in Qatar than they would in their own countries. 
+
+Western media just enjoys taking a steamy dump on the Middle East whenever and wherever it can.",2015-12-19 21:44:02+00:00,cy4ucwv,3,t1_cy4sxz8,2698,PerfectTiming
+20,Aww you scared him away,2015-12-12 05:51:43+00:00,cxw8b2t,3,t1_cu6edpc,10048869,AskReddit
+21,Christmas Dress Tree Dress ,2015-12-09 04:07:31+00:00,cxsgaeu,1,t3_3w06ly,13633,pics
+22,"Super, post what you would do in this situation. 
+
+",2015-12-05 18:11:32+00:00,cxo80fl,6,t1_cxo7nor,630,matlab
+23,"Found the solution I was looking for on Matlab's forums. Thanks anyway.
+
+&gt;text = Pancakes for Fran
+
+&gt;num2cell(text(lower(text)&gt;='a' &amp; lower(text)&lt;='z'))
+
+&gt;ans = 'P' 'a' 'n' 'c' 'a' 'k' 'e' 's' 'f' 'o' 'r 'F' 'r' 'a' 'n'",2015-12-05 17:52:14+00:00,cxo7d77,5,t1_cxnwlyz,33845,matlab
+24,"Found the solution I was looking for on Matlab's forums. Thanks anyway.
+
+&gt;text = Pancakes for Fran
+
+&gt;num2cell(text(lower(text)&gt;='a' &amp; lower(text)&lt;='z'))
+
+&gt;ans = 'P' 'a' 'n' 'c' 'a' 'k' 'e' 's' 'f' 'o' 'r 'F' 'r' 'a' 'n'",2015-12-05 17:51:46+00:00,cxo7cnd,4,t1_cxnwm4h,33800,matlab
+25,"Found the solution I was looking for on Matlab's forums. Thanks anyway. 
+
+&gt;text = Pancakes for Fran
+
+&gt; num2cell(text(lower(text)&gt;='a' &amp; lower(text)&lt;='z'))
+
+&gt;ans = 'P' 'a' 'n' 'c' 'a' 'k' 'e' 's' 'f' 'o' 'r 'F' 'r' 'a' 'n'
+",2015-12-05 17:48:45+00:00,cxo78ys,4,t1_cxnwbsm,34759,learnprogramming
+26,"""Error using text
+
+Invalid parameter/value pair arguments""",2015-12-05 07:59:29+00:00,cxnw69w,2,t1_cxnvqkf,1602,matlab
+27,"In matlab, your example would result in this:
+
+A = strsplit('your string')
+
+A = 'your'  'string'
+
+You can modify strsplit it to split sentences based on specific phrases or specific letters, but how you could make it split everything is beyond me. 
+",2015-12-05 07:54:09+00:00,cxnw36y,2,t1_cxnvi23,2100,learnprogramming
+28,"Plot twist, they're cripplingly dyslexic.
+ ",2015-11-18 18:46:13+00:00,cx4s7sb,1,t3_3t9uau,35886,firstworldanarchists
+29,"Wow, I think I'll just watch a let's play of it and leave it at that.
+
+Thanks! ",2015-07-27 06:35:41+00:00,cthikob,2,t1_cthf709,8514,ShouldIbuythisgame
+30,It's not random if the action was intended ,2015-07-17 09:49:42+00:00,ct6e95i,7,t1_ct5o6ho,53508,Steam
+31,Strugglesnuggle ,2015-07-05 14:51:15+00:00,cssujhx,5,t1_cssgx09,47143,AskReddit
+32,I just want to be cool with the kids. ,2015-07-04 17:20:17+00:00,css3aia,2,t1_css34hk,336,AskReddit
+33,"Poor guy, just wants to be cool with the kids.",2015-07-04 15:53:15+00:00,css0q0r,1,t3_3bx041,153876,facepalm
+34,Kaitlin Jenner ,2015-06-22 15:29:45+00:00,csetu7l,2,t1_csal69g,359555,AskReddit
+35,"One or the other, but not both sorry. ",2015-06-20 16:00:06+00:00,cscyq5z,2,t1_cscu499,12611,RandomActsOfGaming
+36,It's a conspiracy by Obama to cover over his Christian death camps.,2015-06-20 05:02:20+00:00,cscnhtq,3,t1_csal6t6,149058,AskReddit
+37,It puts that meat in your mouth ,2015-06-20 04:53:02+00:00,cscna8a,3,t1_csal6k9,148523,AskReddit

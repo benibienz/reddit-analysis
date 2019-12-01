@@ -1,0 +1,34 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Hey /r/dataisbeautiful/! For the visualizations we used Tarsier, a simple tool that uses the Twitter API to extract thousands of tweets every day, MonkeyLearn to analyze those tweets with machine learning and Plotly to create the visualizations.
+
+You can learn more about Tarsier here: https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/",2016-11-10 00:33:01+00:00,d9tn419,1,t3_5c4u21,187,dataisbeautiful
+1,"Hi /r/dataisbeautiful/!
+
+For creating Tarsier, we used Tweepy for extracing tweets using the Twitter Public API, we used MonkeyLearn for analyzing the tweets and finally used Plotly for creating the visualizations.
+
+You can see some of the insights we got using Tarsier here: https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/ ",2016-11-03 16:09:36+00:00,d9k4936,1,t3_5axldz,17,dataisbeautiful
+2,"Hi /r/dataisbeautiful/! 
+
+For creating Tarsier, we used Tweepy for extracing tweets using the Twitter Public API, we used MonkeyLearn for analyzing the tweets and finally used Plotly for creating the visualizations.
+ 
+You can see some of the insights we got using Tarsier here: https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/",2016-11-03 00:42:42+00:00,d9j80lv,1,t3_5atqsz,64,dataisbeautiful
+3,this is correct!,2016-11-02 21:29:39+00:00,d9iyy7j,2,t1_d9iaaim,29696,textdatamining
+4,Thanks!,2016-10-26 18:20:07+00:00,d98u01c,2,t1_d98tysl,41,The_Donald
+5,It is :),2016-10-22 17:11:08+00:00,d9379js,3,t1_d92zjtg,13934,textdatamining
+6,"Hi /r/dataisbeautiful/! For creating Tarsier, we used Tweepy for extracing tweets using the Twitter Public API, we used MonkeyLearn for analyzing the tweets and finally used Plotly for creating the visualizations.  
+
+Would be awesome if you can play around the tool and provide feedback. You can check it out here: http://tarsier.monkeylearn.com/#/?_k=awrvky",2016-10-20 18:30:18+00:00,d90nlox,1,t3_58igtx,366,dataisbeautiful
+7,Glad that you liked the post! ,2016-10-04 19:54:16+00:00,d8dzjcf,2,t1_d8dv1a3,5517,DigitalMarketing
+8,"Hi r/dataisbeautiful! The awesome Maëlle Salmon used the rtweet R package to extract thousands of #firstsevenjob and #first7jobs tweets, used MonkeyLearn for the analysis and ggplot2 for creating the visualizations. Hope you like it!",2016-09-01 18:48:40+00:00,d75qrdj,1,t3_50otl8,143,dataisbeautiful
+9,"Yes, with this in mind, we analyzed reviews only in English.",2016-07-21 17:08:45+00:00,d5l6bal,2,t1_d5l5b79,1257,Python
+10,"Unfortunately, we cannot share the dataset as we don't own the data. We have shared the source code for the TripAdvisor spider, so you can run it and build your own dataset. I don't remember exactly the cost of Mturk, but I believe it was something like USD 100-200? Cheers",2016-07-20 21:43:04+00:00,d5k4s0d,2,t1_d5k3j3n,1676,MachineLearning
+11,"Hey! Glad that you liked it! The scraping bit was fast, it took a few hours maybe? We also believe that we only scratched the surface here, we think there are a lot more interesting and deeper insights within this dataset + machine learning analysis! For the moment, we don't have any plans for further analysis of this data, but this one of the reasons we shared the source code, so anyone can continue and extend the analysis. Cheers!",2016-07-20 21:39:42+00:00,d5k4mmz,2,t1_d5k41o7,783,dataisbeautiful
+12,"I don't think so as we aren't sharing the data and we are not selling it, just analyzing it :)",2016-07-20 21:36:01+00:00,d5k4gqm,2,t1_d5k4a4p,246,Python
+13,Hey /r/DataIsBeautiful! We made some pretty interesting visualizations analyzing +1 million hotel reviews from TripAdvisor. In the post we went through how we got the data and how we made the visualization using Kibana. We shared the source code so you can make your own analysis. Hope you like it :),2016-07-20 17:03:42+00:00,d5jrg2f,1,t3_4ts5da,132,dataisbeautiful
+14,"Not that I think of, but it would be really interesting to see those results",2015-10-09 18:58:49+00:00,cvu08t6,2,t1_cvtpyav,15454,textdatamining
+15,"Their free plans gives 100,000 queries per month for free. This means that in this case, you can process up to 100,000 different texts per month for free with their sentence extractor.",2015-09-28 21:23:32+00:00,cvhcm5o,2,t1_cvhazhs,2455,programming
+16,LETS DO IT,2015-09-15 23:45:57+00:00,cv2xv6c,4,t1_cv2weii,2604,learnprogramming
+17,Sorry! Didn't mean to double post! ,2015-09-15 21:58:56+00:00,cv2u69q,2,t1_cv2roed,3903,learnprogramming
+18,its great! Glad you liked it :),2015-09-10 17:28:28+00:00,cuwy480,2,t1_cuwxauc,1254,textdatamining
+19,no worries :),2015-09-09 16:48:49+00:00,cuvr43r,2,t1_cuuw9gf,68511,webmarketing
+20,awesome! thanks for sharing!,2015-07-30 00:52:38+00:00,ctkzu8w,2,t1_ctktddk,10599,textdatamining

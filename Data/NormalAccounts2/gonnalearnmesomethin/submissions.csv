@@ -1,0 +1,74 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-01-29 15:03:55+00:00,self.excel,https://www.reddit.com/r/excel/comments/4394tk/trying_to_create_a_macro_that_will_run_solver/,False,"I have a document that the user needs to change one cell until 2 cells are equal.  
+
+I have created a cell to the right of the cell the users needs to change that subtracts the 2 cells and set solver to manipulate the cell as an integer until the subtraction cell is within -1 and 1.
+
+I was hoping to create a macro keyboard shortcut that would run the solver for whatever cell is currently selected.
+
+Here is what I created with the actual cells referenced:
+
+    Sub Solver2()
+    '
+    ' Solver2 Macro
+    '
+
+    '
+
+        SolverOk SetCell:=""$D$13"", MaxMinVal:=2, ValueOf:=0, ,yChange:=""$E$13"", Engine _:=1, EngineDesc:=""GRG Nonlinear""
+        SolverAdd CellRef:=""$D$13"", Relation:=1, FormulaText:=""1""
+        SolverAdd CellRef:=""$D$13"", Relation:=3, FormulaText:=""-1""
+        SolverAdd CellRef:=""$E$13"", Relation:=4, FormulaText:=""integer""
+        SolverOk SetCell:=""$D$13"", MaxMinVal:=2, ValueOf:=0, ByChange:=""$E$13"", Engine _:=1, EngineDesc:=""GRG Nonlinear""
+        SolverOk SetCell:=""$D$13"", MaxMinVal:=2, ValueOf:=0, ByChange:=""$E$13"", Engine _ :=1, EngineDesc:=""GRG Nonlinear""
+        SolverSolve UserFinish:=True
+        SolverFinish KeepFinal:=1
+    
+     End Sub
+
+And here is what I tried and can not get to work:
+
+    Sub Solver2()
+    '
+    ' Solver2 Macro
+    '
+    
+    '
+    SolverReset
+    
+        SolverOk SetCell:=""ActiveCell.Offset(0, -1).Activate"", MaxMinVal:=2, ValueOf:=0, ByChange:=""ActiveCell.select"", Engine _
+            :=1, EngineDesc:=""GRG Nonlinear""
+        SolverAdd CellRef:=""ActiveCell.Offset(0, -1).Activate"", Relation:=1, FormulaText:=""1""
+        SolverAdd CellRef:=""ActiveCell.Offset(0, -1).Activate"", Relation:=3, FormulaText:=""-1""
+        SolverAdd CellRef:=""$E$13"", Relation:=4, FormulaText:=""integer""
+        SolverOk SetCell:=""ActiveCell.Offset(0, -1).Activate"", MaxMinVal:=2, ValueOf:=0, ByChange:=""ActiveCell.select"", Engine _
+            :=1, EngineDesc:=""GRG Nonlinear""
+        SolverOk SetCell:=""ActiveCell.Offset(0, -1).Activate"", MaxMinVal:=2, ValueOf:=0, ByChange:=""ActiveCell.select"", Engine _
+            :=1, EngineDesc:=""GRG Nonlinear""
+        SolverSolve UserFinish:=True
+    SolverFinish KeepFinal:=1
+        
+    End Sub
+
+
+Everytime I try to run the above code, the only thing that happens is excel turns to manual calculations and ""Setting up problem..."" is displayed in the bottom left corner.
+
+Does anyone have an input?  Can I create what I am actually trying to do?
+
+Thank you for your help!",excel,Trying to create a macro that will run solver with the active cell.,https://www.reddit.com/r/excel/comments/4394tk/trying_to_create_a_macro_that_will_run_solver/
+1,2015-12-01 01:47:12+00:00,self.spicy,https://www.reddit.com/r/spicy/comments/3uxrok/what_is_the_hottest_sauce_or_extract_i_can_get/,False,"I have a friend, and she is supper human when it comes to spicy. I have see her take on wing challenges and not sweat while I chugged a pitcher of water.
+
+I jokingly told her I was going to find the hottest sauce possibly and see if it would even make her blink. She took the bluff. 
+
+So I figured who better to know what I could get for her then here.  Any suggestions?",spicy,What is the hottest sauce or extract I can get?,https://www.reddit.com/r/spicy/comments/3uxrok/what_is_the_hottest_sauce_or_extract_i_can_get/
+2,2015-11-02 15:09:35+00:00,self.Darts,https://www.reddit.com/r/Darts/comments/3r7u1m/how_do_yall_watchkeep_up_with_professional/,False,"I am getting hooked on watching professional darts.  
+
+I was going crazy watching Larry Butler in the youtube video, ""Winmau World Masters 2015 Day 3"" starting around 5:50:00.  I know it is rare for an American to make it that far.  His quarter final match vs Martin Adams was crazy (I loved that announcer! I have never heard someone so into something!).
+
+I came on here and saw the post ""Who are your top 3 active players you love and hate the most?"" I realized that I didn't really know any of them.  I basically only know MVG, Taylor and now Bulter and Adams, but I would like to start watching and following more.
+
+So in my roundabout way,  what do y'all do in the States or do the fellow darters from across the pond have any suggestions?  Would also be really interested in following the big American Tournaments if you have any suggestions.
+
+Thank you!",Darts,How do y'all watch/keep up with professional matches in the States?,https://www.reddit.com/r/Darts/comments/3r7u1m/how_do_yall_watchkeep_up_with_professional/
+3,2015-08-29 19:42:01+00:00,self.pdf,https://www.reddit.com/r/pdf/comments/3ivles/is_there_a_program_that_allows_you_to_merge/,,"I have multiple pdf pages (20+) of maps with drawings laid over them.  They are almost all different scales but over lay slightly with each other.  I was wondering if y'all knew of a program I could use that would allow me to overlay all the maps into one giant map with the same scale?
+
+I do not have any access to the original format of the maps/drawings were created in.  I only have the PDFs.  Any ideas?",pdf,Is there a program that allows you to merge multiple pdf pages into one page?,https://www.reddit.com/r/pdf/comments/3ivles/is_there_a_program_that_allows_you_to_merge/

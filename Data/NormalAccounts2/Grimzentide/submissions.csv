@@ -1,0 +1,138 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-05 23:17:23+00:00,youtu.be,https://www.reddit.com/r/iRacing/comments/5bcst1/arduino_pit_board_review_by_charlie_sears/,False,,iRacing,Arduino Pit Board Review by Charlie Sears,https://youtu.be/R-eyylf9FOw?t=3m35s
+1,2015-11-17 00:41:17+00:00,self.iRacing,https://www.reddit.com/r/iRacing/comments/3t3cil/iracing_arduino_pit_board_v14_update/,False,"Hey guys, for those that don't know I built and coded a small hardware device that I call the iRacing Arduino Pit Board. The hardware costs about $13 for the 2 parts on eBay and the software I developed for it is free and open source.
+
+^^^^^.
+
+[Concept](http://i.imgur.com/RbkATGB.png)
+
+[Image 2](http://i.ytimg.com/vi/9efugS8fZ8E/maxresdefault.jpg)
+
+[Image 3](http://i.imgur.com/T8s2CUm.jpg)
+
+[Image 4](http://i.imgur.com/1vuYq9U.jpg)
+
+[Image 5](http://i.imgur.com/HT7e6C7.jpg)
+
+[Hardware](http://i.imgur.com/gJoKIZf.jpg)
+
+^^^^^.
+
+The iRacing Arduino Pit Board is an Arduino based device that can help with pit strategies by giving you live up to date information about your fuel requirements in any session online or offline, including those races that require one or more pit stops. An executable program runs in the background on your computer and reads the live telemetry data coming out of any iRacing session and calculates when you should and/or need to stop and how much fuel you need to add to finish. The application then sends updates to the Arduino Uno via the USB serial port and displays the information on a small touch screen.
+
+^^^^^.
+
+Here is v0.9 in action (current version is v1.4):
+https://www.youtube.com/watch?v=jrubmpEYgn8
+
+^^^^^.
+
+Features: 
+
+* session laps / time 
+* laps completed 
+* laps / time remaining 
+* fuel remaining 
+* laps until you run out of fuel 
+* how much fuel you will need to add at the next stop 
+* imperial and metric fuel calculations 
+* 5 lap average fuel burn 
+* race fuel burn 
+* which lap you should pit on 
+* pit windows to make it to the end with only one more stop 
+* weather and session information 
+* Information on when your last stop was 
+* shows the amount that should be in your tank when you leave the pits 
+* target burn rate if you need a splash and dash for less than 1 lap worth of fuel 
+* warning flashes to help inform the driver that something critical needs attention (eg box this lap)
+
+^^^^^.
+
+**Note:** The calculations for required fuel automatically includes an extra half of a lap to ensure you can cross the finish line. The half lap fuel figure is calculated using half of the current 5 lap average fuel burn rate.
+
+^^^^^.
+
+More information can be found on the [GitHub Site](https://github.com/Grimzentide/iRacing-Arduino-Pit-Board) or in the [iRacing forum](http://members.iracing.com/jforum/posts/list/3326740.page)",iRacing,iRacing Arduino Pit Board [v1.4 Update],https://www.reddit.com/r/iRacing/comments/3t3cil/iracing_arduino_pit_board_v14_update/
+2,2015-08-27 07:38:36+00:00,i.imgur.com,https://www.reddit.com/r/simracing/comments/3ikmhx/word_map_of_the_mostused_words_for_rsimracing/,,,simracing,Word map of the most-used words for /r/SimRacing,http://i.imgur.com/Ndgg3dc.png
+3,2015-08-27 07:38:33+00:00,i.imgur.com,https://www.reddit.com/r/iRacing/comments/3ikmho/word_map_of_the_mostused_words_for_riracing/,,,iRacing,Word map of the most-used words for /r/iRacing,http://i.imgur.com/hHrAJA2.png
+4,2015-08-26 22:16:45+00:00,self.MUWs,https://www.reddit.com/r/MUWs/comments/3iituf/request_rsimracing/,,,MUWs,[Request] /r/simracing,https://www.reddit.com/r/MUWs/comments/3iituf/request_rsimracing/
+5,2015-08-26 09:11:58+00:00,self.MUWs,https://www.reddit.com/r/MUWs/comments/3ig2lb/request_riracing/,,,MUWs,[Request] /r/iRacing,https://www.reddit.com/r/MUWs/comments/3ig2lb/request_riracing/
+6,2015-08-22 23:08:05+00:00,self.simracing,https://www.reddit.com/r/simracing/comments/3i0rg6/racing_arduino_pit_board_update_and_code/,,"The iRacing Arduino Pit Board is a small Arduino based device designed to give you live up to date information about your fuel requirements in a race that requires one or more pit stops.  It is designed to work on a 2.8 inch (320 x 240) TFT or LCD screen or shield that is supported by the Adafruit graphics library.
+^^^^^^.
+
+**Original GUI Design**
+
+http://i.imgur.com/8rCyOwG.png
+
+^^^^^^.
+
+**Video of v0.5.1 in action**
+
+http://www.youtube.com/watch?v=FFvC9X74Tfs
+
+^^^^^^.
+
+[Code Repository](https://github.com/Grimzentide/iRacing-Arduino-Pit-Board)",simracing,Racing Arduino Pit Board - Update and Code,http://www.reddit.com/r/simracing/comments/3i0rg6/racing_arduino_pit_board_update_and_code/
+7,2015-08-22 23:01:02+00:00,self.iRacing,https://www.reddit.com/r/iRacing/comments/3i0qn5/iracing_arduino_pit_board_update_and_code/,,"The iRacing Arduino Pit Board is a small Arduino based device designed to give you live up to date information about your fuel requirements in a race that requires one or more pit stops.  It is designed to work on a 2.8 inch (320 x 240) TFT or LCD screen or shield that is supported by the Adafruit graphics library. 
+
+^^^^^^.
+
+**Original GUI Design**
+
+http://i.imgur.com/8rCyOwG.png
+
+^^^^^^.
+
+**Video of v0.5.1 in action**
+
+http://www.youtube.com/watch?v=FFvC9X74Tfs
+
+^^^^^^.
+
+[Code Repository](https://github.com/Grimzentide/iRacing-Arduino-Pit-Board)",iRacing,iRacing Arduino Pit Board - Update and Code,http://www.reddit.com/r/iRacing/comments/3i0qn5/iracing_arduino_pit_board_update_and_code/
+8,2015-08-12 07:30:08+00:00,youtube.com,https://www.reddit.com/r/iRacing/comments/3gp4ib/my_diy_iracing_arduino_pit_board_wip/,,,iRacing,My DIY iRacing Arduino Pit Board [WIP],https://www.youtube.com/watch?v=LvWgkR6iDcc
+9,2015-06-25 22:33:20+00:00,youtube.com,https://www.reddit.com/r/iRacing/comments/3b4kr4/59_cars_in_a_star_mazda_league_race_smac_at/,,,iRacing,59 cars in a Star Mazda league race (SMAC) at Suzuka and we all make it through the first lap,https://www.youtube.com/watch?v=fFWEORgmgQc&amp;feature=youtu.be&amp;t=10m16s
+10,2015-06-22 09:58:26+00:00,self.iRacing,https://www.reddit.com/r/iRacing/comments/3ap217/ultimate_trackcircuit_request_survey/,,"This is a survey I made on a slow day at work and is designed to ask the iRacing community a simple question... Which track(s) would you purchase if iRacing were to lazer scan and then release? 
+
+^^^^.
+
+The form asks you to answer two (2) simple questions. 
+
+1) Select where in the world the circuit/track is located? 
+
+2) Select the name of the circuit/track from the list? 
+
+^^^^.
+
+I have tried to capture as many oval, road and street circuits from around the world as I can, but if you have one that is not listed, feel free to add it in the form. 
+
+^^^^.
+
+Feel free to make multiple submissions and I will post the results every few days. 
+
+[Link to Ultimate Track/Circuit Survey](https://docs.google.com/forms/d/1DahBIB7Csyufbkv3GDLaWSKTrDGS9bEc3n5ia4pP2g8/viewform)
+
+**Update**
+
+* Circuit de la Sarthe, Le Mans, France - 	85	votes	 - 12.26%
+* Red Bull Ring, Spielberg, Austria - 	28	votes	 - 4.04%
+* Adelaide Street Circuit, Adelaide, South Australia, Australia - 	22	votes	 - 3.17%
+* Circuit de Monaco, Monte Carlo, Monaco - 	21	votes	 - 3.03%
+* Hockenheimring, Hockenheim, Germany - 	16	votes	 - 2.3%
+* Belle Isle, Detroit, Michigan, United States - 	16	votes	 - 2.3%
+* Albert Park Street Circuit, Melbourne, Victoria, Australia - 	15	votes	 - 2.16%
+* Knockhill, Fife, United Kingdom - 	13	votes	 - 1.87%
+* Circuit de Catalunya, Montmeló (Barcelona), Spain - 	12	votes	 - 1.73%
+* Sydney Motorsport Park, Eastern Creek, New South Wales also known as Eastern Creek Raceway, Australia - 	9	votes	 - 1.29%
+* Sepang International Circuit, Kuala Lumpur, Malaysia - 	9	votes	 - 1.29%
+* Mugello Circuit, Tuscany, Italy - 	9	votes	 - 1.29%
+* EuroSpeedway Lausitz, Klettwitz, Germany - 	9	votes	 - 1.29%
+* Autodromo Enzo e Dino Ferrari, Imola, Italy - 	9	votes	 - 1.29%
+* Thunderhill Raceway Park, Willows, California, United States - 	8	votes	 - 1.15%
+* Surfers Paradise Street Circuit, Surfers Paradise, Queensland, Australia - 	8	votes	 - 1.15%
+* Karakoram Motors Grand Prix, Rawalpindi, Pakistan - 	8	votes	 - 1.15%
+* Exhibition Place, Toronto, Canada - 	8	votes	 - 1.15%
+* Circuit Paul Ricard, Le Castellet, France - 	8	votes	 - 1.15%
+* Sandown Raceway, Melbourne, Victoria, Australia - 	7	votes	 - 1.01%
+* Guia Circuit, Macau, Macau - 	7	votes	 - 1.01%
+* Evergreen Speedway, Monroe, Washington, United States - 	7	votes	 - 1.01%",iRacing,Ultimate Track/Circuit Request Survey,http://www.reddit.com/r/iRacing/comments/3ap217/ultimate_trackcircuit_request_survey/

@@ -1,0 +1,151 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-08-31 04:43:29+00:00,self.javascript,https://www.reddit.com/r/javascript/comments/50fgzj/one_fadein_wont_work_causing_permanent_hiding_of/,False,"Hello.
+So I'm using jquery to fade in some elements on a single page site. When I load up the site from www.example.com, the jquery in a certain section doesn't work on 1 line permanently hiding some content. The console has nothing to say about this.
+However, when I load the page to go directly to the parent div of the hidden content: www.example.com/#gallery, that single line works just fine.
+The code that I am using to hide and show different galleries. The '.gallerySection' selector is the class for the title pictures of each gallery section, just for some clarity. Click on the gallery section title picture, the gallery should fade in.
+
+
+        $('.gallerySection').on('click', function(){
+            var target = $(this).attr('rel');
+            $('#'+target).fadeIn(600);
+            $(this).siblings('div').fadeToggle(600);
+            $('.hideTop').fadeToggle(600);
+        });
+
+The $('#'+target).fadeIn(600); is the line that consistently fails on me if I load the page without #gallery in the url. This is the code I am using to load the #gallery from the url because that whole parent div with the title pictures is hidden from the start.
+
+    if(window.location.href.indexOf(""gallery"") &gt; -1) {
+           $('#gallery, #menu, #title').show();
+            $(""#enterButton, #tagLine, #homeImg"").hide();
+            $(""#title"").animate({
+            position:""absolute"",
+            margin:""0px auto"",
+            marginTop:""0px"",
+        },500);
+
+Any clue? Need more of the code? Anything, just ask. I've been racking my brain on this one and have no idea why it won't work. Thanks in advance for any help offered.",javascript,One .fadeIn() won't work causing permanent hiding of content. Please help Xpost /r/webdev,https://www.reddit.com/r/javascript/comments/50fgzj/one_fadein_wont_work_causing_permanent_hiding_of/
+1,2016-08-31 04:33:30+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/50ffnv/im_completely_clueless_as_to_why_one_fadein_isnt/,False,"Hello. 
+
+So I'm using jquery to fade in some elements on a single page site. When I load up the site from www.example.com, the jquery in a certain section doesn't work on 1 line permanently hiding some content. The console has nothing to say about this. 
+
+However, when I load the page to go directly to the parent div of the hidden content: www.example.com/#gallery, that single line works just fine. 
+
+The code that I am using to hide and show different galleries. The '.gallerySection' selector is the class for the title pictures of each gallery section, just for some clarity. Click on the gallery section title picture, the gallery should fade in. 
+
+        $('.gallerySection').on('click', function(){
+            var target = $(this).attr('rel');
+            $('#'+target).fadeIn(600);
+            $(this).siblings('div').fadeToggle(600);
+            $('.hideTop').fadeToggle(600);
+        });
+
+The $('#'+target).fadeIn(600); is the line that consistently fails on me if I load the page without #gallery in the url. This is the code I am using to load the #gallery from the url because that whole parent div with the title pictures is hidden from the start.
+
+
+
+    if(window.location.href.indexOf(""gallery"") &gt; -1) {
+           $('#gallery, #menu, #title').show();
+            $(""#enterButton, #tagLine, #homeImg"").hide();
+            $(""#title"").animate({
+            position:""absolute"",
+            margin:""0px auto"",
+            marginTop:""0px"",
+        },500);
+
+Any clue? Need more of the code? Anything, just ask. I've been racking my brain on this one and have no idea why it won't work. Thanks in advance for any help offered.",webdev,I'm completely clueless as to why one .fadeIn() isn't working.,https://www.reddit.com/r/webdev/comments/50ffnv/im_completely_clueless_as_to_why_one_fadein_isnt/
+2,2016-08-29 03:30:39+00:00,self.buildapc,https://www.reddit.com/r/buildapc/comments/5032e8/new_to_building_just_want_to_be_shown_where_i_was/,False,"###Build Help/Ready:
+
+**Have you read the sidebar and [rules](http://www.reddit.com/r/buildapc/wiki/rules)? (Please do)**
+
+Yes
+
+**What is your intended use for this build? The more details the better.**
+
+Gaming
+
+**If gaming, what kind of performance are you looking for? (Screen resolution, FPS, game settings)**
+
+I just want to be able to play The Witcher 3 and Star Citizen.
+
+**What is your budget (ballpark is okay)?**
+
+I wanted it to be around 700, but as you'll see it has gone over.
+
+
+**In what country are you purchasing your parts?**
+
+USA.
+
+**Post a draft of your potential build here (specific parts please). [Consider formatting your parts list.](http://www.reddit.com/r/buildapc/wiki/pcpp) Don't ask to be spoonfed a build (read the rules!)**.
+
+[PCPartPicker part list](http://pcpartpicker.com/list/QngrD8) / [Price breakdown by merchant](http://pcpartpicker.com/list/QngrD8/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i5-6500 3.2GHz Quad-Core Processor](http://pcpartpicker.com/product/xwhj4D/intel-cpu-bx80662i56500) | $198.99 @ SuperBiiz 
+**CPU Cooler** | [ARCTIC Freezer 7 Pro Rev.2 45.0 CFM Fluid Dynamic Bearing CPU Cooler](http://pcpartpicker.com/product/VRPfrH/arctic-cooling-cpu-cooler-freezer7prorev2) | $18.88 @ OutletPC 
+**Motherboard** | [Asus B150M-A D3 Micro ATX LGA1151 Motherboard](http://pcpartpicker.com/product/pCL7YJ/asus-motherboard-b150mad3) | $64.98 @ Newegg 
+**Memory** | [Kingston HyperX FURY 16GB (2 x 8GB) DDR3-1600 Memory](http://pcpartpicker.com/product/Fjp323/kingston-memory-hx316lc10fbk216) | $76.99 @ Newegg 
+**Storage** | [Western Digital AV-GP 1TB 3.5"" 5400RPM Internal Hard Drive](http://pcpartpicker.com/product/jt2kcf/western-digital-internal-hard-drive-wd10evds) | $54.25 @ Amazon 
+**Video Card** | [Asus GeForce GTX 960 4GB Video Card](http://pcpartpicker.com/product/YqkwrH/asus-video-card-strixgtx960dc2oc4gd5) | $209.99 @ SuperBiiz 
+**Case** | [Corsair SPEC-01 RED ATX Mid Tower Case](http://pcpartpicker.com/product/pDphP6/corsair-case-spec01redled) | $34.98 @ Newegg 
+**Power Supply** | [Corsair Gaming 700W 80+ Certified ATX Power Supply](http://pcpartpicker.com/product/9KtCmG/corsair-power-supply-cmpsu700g) | Purchased For $0.00 
+**Operating System** | [Microsoft Windows 10 Home OEM 64-bit](http://pcpartpicker.com/product/96RFf7/microsoft-os-kw900139) | $99.98 @ OutletPC 
+**Wireless Network Adapter** | [TP-Link TL-WDN4800 PCI-Express x1 802.11a/b/g/n Wi-Fi Adapter](http://pcpartpicker.com/product/G4H323/tp-link-wireless-network-card-tlwdn4800) | $38.33 @ OutletPC 
+**Monitor** | [Acer G226HQLBbd 21.5"" 60Hz Monitor](http://pcpartpicker.com/product/7cw323/acer-monitor-umwg6aab01) | $90.98 @ Newegg 
+**Keyboard** | [Dell 0DJ425 Wired Standard Keyboard](http://pcpartpicker.com/product/x3PfrH/dell-keyboard-0dj425) | Purchased For $0.00 
+**Mouse** | [Targus AMU51US Wired Laser Mouse](http://pcpartpicker.com/product/9NJwrH/targus-mouse-amu51us) | Purchased For $0.00 
+**Headphones** | [Turtle Beach PX22  Headset](http://pcpartpicker.com/product/q48H99/turtle-beach-headphones-tbs323001) | Purchased For $0.00 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $913.35
+ | Mail-in rebates | -$25.00
+ | **Total** | **$888.35**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2016-08-28 23:23 EDT-0400 |
+
+**Provide any additional details you wish below.*
+
+All of the ""purchased for""'s are simply things that I already own. So as my title says, please tell me where I have been stupid. It is the best way for me to learn.
+
+**NOTE: You do not have to follow this format, but please be sure to answer these questions. Please do not ask to simply be given a build. You are welcome to delete this section.**",buildapc,New To Building - Just Want To Be Shown Where I Was Stupid - Part List,https://www.reddit.com/r/buildapc/comments/5032e8/new_to_building_just_want_to_be_shown_where_i_was/
+3,2016-08-03 05:29:45+00:00,self.web_design,https://www.reddit.com/r/web_design/comments/4vwyg5/using_a_chrome_or_firefox_ftp_addon_as_a_cms_for/,False,"Hello,
+
+I've been trying to find the perfect CMS for my very basic needs. Basically something I could just pop on top of my already built stuff, define editable regions and allow my clients (friends who don't pay me anything, just pay for their site to be live) to edit those regions of text or what have you. Services like Perch, Sitecake, and Surreal seemed like the perfect solution.
+
+I tried out the 14 day free trial of Surreal and when I was setting up I realized that it basically goes through my FTP to make the changes. So I am wondering if any of you know of an FTP addon that has a nice WYSIWYG editor that might serve my needs?
+
+I'm trying to avoid a service I have to pay for because as I mentioned above, I'm not making anything from these sites as this is just a hobby of mine right now and I am just making some portfolio sites for friends.
+
+
+Any help would be greatly appreciated! Thanks so much!",web_design,Using a chrome or firefox fTP addon as a CMS for clients? (x-post /r/web-dev),https://www.reddit.com/r/web_design/comments/4vwyg5/using_a_chrome_or_firefox_ftp_addon_as_a_cms_for/
+4,2016-08-03 05:17:48+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/4vwx3q/using_a_chrome_or_firefox_addon_as_a_cms_for/,False,"Hello,
+
+I've been trying to find the perfect CMS for my very basic needs. Basically something I could just pop on top of my already built stuff, define editable regions and allow my clients (friends who don't pay me anything, just pay for their site to be live) to edit those regions of text or what have you. Services like Perch, Sitecake, and Surreal seemed like the perfect solution. 
+
+I tried out the 14 day free trial of Surreal and when I was setting up I realized that it basically goes through my FTP to make the changes. So I am wondering if any of you know of an FTP addon that has a nice WYSIWYG editor that might serve my needs? 
+
+I'm trying to avoid a service I have to pay for because as I mentioned above, I'm not making anything from these sites as this is just a hobby of mine right now and I am just making some portfolio sites for friends. 
+
+Any help would be greatly appreciated! Thanks so much!",webdev,Using a Chrome or Firefox addon as a CMS for clients?,https://www.reddit.com/r/webdev/comments/4vwx3q/using_a_chrome_or_firefox_addon_as_a_cms_for/
+5,2016-07-15 02:08:06+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/4swxsw/how_to_allow_my_client_to_edit_the_webpage_on/,False,"Hey everyone.
+
+I have recently built a portfolio website for a friend and he has already asked on multiple occasions that I update phrasing or wording in sections of the site. I would like if I could give him a username and password to have so that he could ""log in"" to his own site and edit the simple stuff himself. Hopefully so that it shows up something like this demo from Create.js :
+
+http://createjs.org/demo/hallo/
+
+I don't know much about mySQL and from what I have read, it sounds like this might be something I need to study up a bit more on.
+
+I've also seen a bunch about using a CMS; however, seeing as how I have written the files and uploaded them to my host, I am not sure how this would work. Besides, I really like the idea of my client signing in and navigating through the pages editing at will.
+
+Other than that, what sorts of things should I be looking at when going about achieving this. Even links to (up to date) tutorials would be more than welcome. Thanks for any and all help provided.",webdev,How to allow my client to edit the webpage on their own with a password protection?,https://www.reddit.com/r/webdev/comments/4swxsw/how_to_allow_my_client_to_edit_the_webpage_on/
+6,2016-07-03 23:15:10+00:00,self.askscience,https://www.reddit.com/r/askscience/comments/4r4cpv/if_bacteria_have_evolved_to_eat_plastic_bottles/,False,[removed],askscience,If bacteria have evolved to eat plastic bottles in the 70 years that they have been around how come they haven't evolved to eat living humans yet?,https://www.reddit.com/r/askscience/comments/4r4cpv/if_bacteria_have_evolved_to_eat_plastic_bottles/
+7,2016-05-22 14:15:02+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/4kiplr/help_needed/,False,"Hey, so I am relatively new to all of this but I have purchased my first domain and have set up the homepage with a menu linking to other parts of the website. About,contact,etc.
+
+My problem is when I click on these links in the menu I get this:
+**Not Found
+**
+The requested URL /example was not found on this server.
+
+I am anchoring it correctly as the menu works locally. I've uploaded all of the files using the firefox FTP addon and am using EcoWebHosting. Is there something that I am missing? Thanks for any help you can provide.",webdev,Help Needed!,https://www.reddit.com/r/webdev/comments/4kiplr/help_needed/
+8,2016-04-28 19:34:26+00:00,imgur.com,https://www.reddit.com/r/RoastMe/comments/4gvokv/now_she_wants_in_on_it_give_her_your_best_shot/,False,,RoastMe,Now she wants in on it. Give her your best shot.,http://imgur.com/idPiQei
+9,2016-04-28 18:12:38+00:00,imgur.com,https://www.reddit.com/r/RoastMe/comments/4gva40/he_thinks_you_will_all_think_hes_beautiful/,False,,RoastMe,He thinks you will all think he's beautiful.,http://imgur.com/345ZFhX
+10,2015-06-19 22:05:37+00:00,i.imgur.com,https://www.reddit.com/r/mildlyinteresting/comments/3ag8lc/found_an_albino_moth_on_my_step/,,,mildlyinteresting,Found an albino moth on my step.,http://i.imgur.com/rHBsVbr.jpg

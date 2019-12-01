@@ -1,0 +1,115 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-10 19:47:53+00:00,self.RelayForReddit,https://www.reddit.com/r/RelayForReddit/comments/5c9wb4/some_gifs_gfycat_related_lock_up_shortly_after/,False,"This seems to happen with gfycat gifs...but not all of them.  Here is an example https://www.reddit.com/r/Overwatch/comments/5c83qm/sombras_ult_needs_a_nerf/
+
+The gif *does* load if I click on the link and then watch it on the relay browser, but not if I try to open it from the thumbnail. 
+
+I'm running android 6.0.1 on a Nexus 7.
+
+Any ideas?
+
+Edit: it usually loads up to about 1s, but I've had them stop at 5/7/10s as well.
+
+Edit 2: I first noticed this happening around the time the zooming for gifs was enabled, is that related?
+
+Edit 3: Here is another thread/gif that is also on gphycat, slightly longer that works with no issues: https://www.reddit.com/r/Overwatch/comments/5c8afu/til_dvas_mech_can_emote_while_exploding/
+
+Edit 4: I downloaded the mobile + HD files for both links to do a size comparison.  The one that doesn't work is 1.12MB SD, 4.3MB HD.   The one that *does* work is 1.72MB SD and 2.76MB HD.  Interesting that the one that works is larger, however it also appears to be less compressed?  Only cut in 1/2 whereas the one that doesn't work is almost 4x smaller than it's original.",RelayForReddit,"Some gifs (gfycat related?) ""lock up"" shortly after pressing thumbnail to expand. Others don't. Android 6.0.1 Nexus7.",https://www.reddit.com/r/RelayForReddit/comments/5c9wb4/some_gifs_gfycat_related_lock_up_shortly_after/
+1,2016-11-07 19:28:40+00:00,self.hextcg,https://www.reddit.com/r/hextcg/comments/5bo86a/up_to_date_tournament_calendar/,False,"Hi all, does anyone know of any up to date tournament calendars? I believe there is another lixil-type tournament series going on, but I'm having trouble finding the details.  I also searched through the subreddit history to see if there was a tournament calendar, but all I found was stuff that was a bit out of date.  Any help would be great.  Thanks!",hextcg,Up to date tournament calendar?,https://www.reddit.com/r/hextcg/comments/5bo86a/up_to_date_tournament_calendar/
+2,2016-10-16 16:28:02+00:00,nbcnews.com,https://www.reddit.com/r/space/comments/57s6lq/can_we_discuss_the_recent_oct_13_executive_order/,False,,space,Can we discuss the recent (Oct 13) Executive Order to deal with space weather?,http://www.nbcnews.com/news/us-news/president-obama-orders-government-plan-space-weather-chaos-n665801
+3,2016-10-13 19:35:48+00:00,self.hextcg,https://www.reddit.com/r/hextcg/comments/57c6k6/how_does_cosmic_portion_of_ladder_work/,False,"I just hit Cosmic yesterday and was ranked 647.  I won my first game and was still ranked 647.
+
+Can anyone explain how ranks work in cosmic? Suppose I win 65% of my matches, how many games is it going to take to get to 100?  Does winning 2-0 vs 2-1 matter at all for these rankings?
+
+Overall, does anyone have information on how the Cosmic ladder is set up? I tried searching but didn't see anything.
+
+Thanks!",hextcg,How Does Cosmic Portion of Ladder Work?,https://www.reddit.com/r/hextcg/comments/57c6k6/how_does_cosmic_portion_of_ladder_work/
+4,2016-09-30 00:26:55+00:00,self.forza,https://www.reddit.com/r/forza/comments/555crh/fh3_how_do_i_initiate_a_coop_group_with_my_friend/,False,"Neither of us can figure it out, we've both sent invites to each other, but neither of us ever see the other's invite.  We are both playing on Windows 10.  Has anyone had success?",forza,FH3 How do I Initiate a co-op group with my friend on PC?,https://www.reddit.com/r/forza/comments/555crh/fh3_how_do_i_initiate_a_coop_group_with_my_friend/
+5,2016-09-26 22:23:22+00:00,self.hextcg,https://www.reddit.com/r/hextcg/comments/54nb6i/meta_removal_of_negative_posts/,False,"Hey guys, 
+
+First of all,  I love Hex. I think it's a great game with tons of value. However, over the past few days I've noticed a few negative posts.  I don't see them on the sub anymore and it concerns me that they may have been removed.  If they weren't removed, I apologize! If they were removed, then I'm a bit disappointed.
+
+We have a great community surrounding this game and I think we handled those threads pretty well. I took about 20 minutes of my lunch to respond to one of those topics today and I don't see the thread anymore.  Now, it's not really a big concern for me that my response was lost, but I AM worried that negative threads are (apparently) being silenced.  While the initial post may have seemed shallow and ""trolling"" the op actually did take some time to defend his positions in the comments. Furthermore, I could see people who have heard some of those complaints or issues being exaggerated elsewhere coming here to do research. Shouldn't we as a community be open to talking about these subjects?  I think reddit, at its core, is very well suited to handle this kind of thing.
+
+Lastly,  we can tolerate negative opinions because everyone has a different perspective.  Maybe coming to understand someone's motivations and thought process will allow us to help them overcome their issues with the game.  Maybe the game is just not for them.  That's ok.  If someone is actually trolling, I'd encourage the community to let reddit handle it by itself. We have down votes :).
+
+TL:DR I don't believe we should delete threads.  People provide valuable perspective that can be useful later and Reddit is already built to push undesirable content to the bottom by itself.",hextcg,[META] Removal of Negative Posts,https://www.reddit.com/r/hextcg/comments/54nb6i/meta_removal_of_negative_posts/
+6,2016-09-25 15:37:24+00:00,gfycat.com,https://www.reddit.com/r/engineering/comments/54flms/a_good_example_of_laminar_flow_xpost_from/,False,,engineering,A good example of laminar flow (xpost from /r/interestingaf),http://www.gfycat.com/DeepCheapKronosaurus
+7,2016-09-23 02:38:29+00:00,self.RocketLeagueExchange,https://www.reddit.com/r/RocketLeagueExchange/comments/542nxx/pc_h_champions_crate_1_champions_crate_2_w_keys/,False,Any Takers?,RocketLeagueExchange,"[PC] [H] Champions Crate 1, Champions Crate 2 [W] Keys",https://www.reddit.com/r/RocketLeagueExchange/comments/542nxx/pc_h_champions_crate_1_champions_crate_2_w_keys/
+8,2016-09-07 21:59:49+00:00,youtu.be,https://www.reddit.com/r/coversongs/comments/51nume/2pacs_thugz_mansion_covered_by_justin_bieber/,False,,coversongs,"2Pac's ""Thugz Mansion"" covered by Justin Bieber",https://youtu.be/vjQZn4WNFE4
+9,2016-09-01 18:48:43+00:00,m.imgur.com,https://www.reddit.com/r/misleadingthumbnails/comments/50ou30/sirmixalot_would_approve/,False,,misleadingthumbnails,Sir-mix-a-lot would approve,http://m.imgur.com/HFyDSzG
+10,2016-08-25 18:15:44+00:00,self.findareddit,https://www.reddit.com/r/findareddit/comments/4zjylc/subreddit_for_gifs_that_make_you_wait_for/,False,"I think these would be a subset of perfect loop gifs.  Where you're expecting something to happen, but it never does. Anyone know if there's a subreddit full of these?
+
+For some examples:
+
+http://imgur.com/vaz5qtn
+http://i.imgur.com/1q32kus.gifv",findareddit,Subreddit for gifs that make you wait for something to happen yet never happens,https://www.reddit.com/r/findareddit/comments/4zjylc/subreddit_for_gifs_that_make_you_wait_for/
+11,2016-06-24 15:25:12+00:00,self.ideasfortheadmins,https://www.reddit.com/r/ideasfortheadmins/comments/4pnfl9/deleted_comments_should_be_treated_like_spoilers/,False,"I Understand the need and desire for subreddits to be able to remove comments that do not conform to their/reddit's rules.
+
+However, I have been increasingly frustrated with the amount of deleted comments on many subreddits.
+
+Perhaps treating deleted comments like spoilers, where you don't have to look at the deleted comments if you don't want to would be good enough? A prime example is the *main* David Cameron resignation thread.  The top 2 comments are (were) deleted with over 500 replies and enough upvotes to get them to the top of that thread.  Using some 3rd party websites to check some of the deleted comments leaves me confused as to why they were deleted in the first place.  For example:
+
+""Corbyn has to go too, the useless fucking prick. (Did you do all you could to prevent this disaster, Jeremy? Did you fuck.) The country desperately needs an effective opposition.""
+
+"" It's literally like putting all your chips on black on the roulette table.. The gamble might pay off... but it also might totally go tits up""
+
+"" If the EU was what it should have been, which is a free trade agreement within its members that helped support and grow business it would have been great. In reality, it has become a draconian group that tells independent nations the laws the must pass and follow. Everyone is saying the pound will be affected, wait until this hits the Euro. They are being carried by the UK and Germany, its going to be tough.""
+
+Maybe there is some reason the mods of that sub don't want people to see these opinions, perhaps some of them could be considered offensive? Either way, I don't think it would hurt anyone to allow people to opt into reading a deleted comment on a case by case basis.
+
+Lastly, in the event of comments that need to be removed to prevent witch hunting/ exposing real people's information -- perhaps a seperate ""purge"" option could be given to mods that requires them to input a (visible to readers) explanation for removal of the comment?  Yes, this is more work, but it probably should be...the ""spoiler"" delete would be the fast easy way for them to delete comments.",ideasfortheadmins,Deleted Comments Should be Treated Like Spoilers,https://www.reddit.com/r/ideasfortheadmins/comments/4pnfl9/deleted_comments_should_be_treated_like_spoilers/
+12,2016-06-21 15:10:06+00:00,self.hextcg,https://www.reddit.com/r/hextcg/comments/4p52ky/accurate_gold_value_index/,False,"Is there an accurate index that tracks the value of gold?
+
+In my head it's always 115:1, but the other day I saw people selling 140:1 on trade chat.  hexprice.com always seems to be a little bit screwed up with it's estimation ... for example it's saying 24:1 right now, which I know is not correct.
+
+Where do you guys get info from on how much gold is worth at the time?",hextcg,Accurate Gold Value Index?,https://www.reddit.com/r/hextcg/comments/4p52ky/accurate_gold_value_index/
+13,2016-06-02 15:39:27+00:00,self.ebooks,https://www.reddit.com/r/ebooks/comments/4m7r7m/looking_for_info_about_ebookmar/,False,"Hi,
+
+I just recently started reading a lot more thanks to the convenience of carrying my tablet around with me.  I am interested in checking out the wheel of time series, and was exploring options for purchasing it.  I used google shopping to search for it and it returned a seller, ebookmar (http://ebookmar.com/products/16187037-the-complete-wheel-of-time) that seems to have the product at a considerable discount compared to the big sellers like amazon's kindle store and google play.
+
+Has anyone used this seller before? It seems too good to be true, so I'm very wary about using the site, but if someone can vouch for it as legit, I would feel more comfortable.
+
+Thanks!",ebooks,Looking for info about ebookmar,https://www.reddit.com/r/ebooks/comments/4m7r7m/looking_for_info_about_ebookmar/
+14,2016-05-03 14:32:18+00:00,hex.tcgbrowser.com,https://www.reddit.com/r/hextcg/comments/4hniqj/my_bros_human_campaign_deck/,False,,hextcg,My Bro's Human Campaign Deck,http://hex.tcgbrowser.com/#!/deck=09c0257f870f30dba747dc679181e135
+15,2016-04-28 20:12:50+00:00,self.hextcg,https://www.reddit.com/r/hextcg/comments/4gvv3q/some_napkin_math_comparing_the_value_of_evolving/,False,"I saw a few people saying Evo Gauntlet was good value, and some others saying that it was good value as an ""introduction"" to sealed, but that it's better value to play regular sealed...so I decided to do some quick math.
+
+Assumptions:
+
+1) All packs won are sold for 167p on the AH
+
+2) All entry fees are paid for by submitting your own packs (bought for 167p from the AH) + the entry fee
+
+3) the 3 ""common &amp; uncommon"" packs are each worth opening a 1/4 pack?
+
+4) Since you can't go infinite in either format, the comparison will be made based on how much platinum was spent for each ""opened"" pack.
+
+So, Here's how my numbers broke down based on number of wins you achieve in (regular|evo) cost-per-pack opened format [lower is better]:
+
+Win 0, (200.33|157.82)
+
+Win 1, (172.5  |115.73)
+
+Win 2, (144.67|115.73)
+
+Win 3, (116.83| 91.37)
+
+Win 4, (89      |  91.37)
+
+Win 5, (33.33  | 56.21)
+
+So, the Evo gauntlet is a more cost effective way to open packs until you get to 4 wins, at 4 wins they are more or less the same, and at 5 wins (because of the bonus pack) the conventional gauntlet is more cost effective.  Hopefully this helps you decide what to play!
+
+Edit: valuing the 3 ""common and uncommon"" packs as 0 opened packs instead of 3/4 of an opened pack, the values are (200|217)(172|145)(145|145)(116|108)(89|108)(33|66).  However, I don't think it's fair to count them as 0 since they do have *some* value.",hextcg,Some napkin math comparing the value of evolving Sealed Gauntlet value to regular Sealed Gauntlet,https://www.reddit.com/r/hextcg/comments/4gvv3q/some_napkin_math_comparing_the_value_of_evolving/
+16,2016-03-03 04:11:52+00:00,self.lrcast,https://www.reddit.com/r/lrcast/comments/48qagp/congrats_to_the_lr_clan_on_sealed_leagues/,False,"As of tonight (the pools that are still active), we are 172-126 a ~58% win rate!  Ha, I know it doesn't mean much, but this could be a very cool metric to track for clans.
+
+Obviously you guys who rushed and 5-0d your pool before 11 weren't counted in this.
+
+I'm really enjoying this game mode.",lrcast,Congrats to the LR clan on Sealed Leagues,https://www.reddit.com/r/lrcast/comments/48qagp/congrats_to_the_lr_clan_on_sealed_leagues/
+17,2015-09-22 20:05:53+00:00,self.suggestions,https://www.reddit.com/r/suggestions/comments/3lz7uy/increase_comment_visibility_in_popular_threads/,False,"There is almost no point commenting on a popular thread with more than 200 replies -- unless you're making a direct reply to someone inside of a thread. While most people will not read past the first few threads anyway, it would be helpful if some of the newer posts got a little bit of exposure.  Maybe the the second comment in a thread could be a random comment? or a newer comment that has more upvotes than those submitted around the same time (1 hour block?) ",suggestions,Increase Comment Visibility in Popular Threads,https://www.reddit.com/r/suggestions/comments/3lz7uy/increase_comment_visibility_in_popular_threads/
+18,2015-06-18 06:10:42+00:00,self.heroesofthestorm,https://www.reddit.com/r/heroesofthestorm/comments/3a9911/hero_idea_the_inkeeper_hearthstone/,,"Hey guys,
+
+What do you think of a hero called ""The Inkeeper"" where your abilities would represent a 5 card ""hand"". Using abilities causes the Innkeeper to ""discard"" that skill and draw a new one from a pool of skills.
+
+The pool could be anything, not sure how to limit it right now...but if you guys think this is a good idea, it would be great if you could help think of cool mechanics for this type of hero.
+
+I think it would be a blast to play! I made a thread on the HotS forums as well if you want to share opinions there as well: http://us.battle.net/heroes/en/forum/topic/18121287293",heroesofthestorm,[Hero Idea] The Inkeeper: Hearthstone,http://www.reddit.com/r/heroesofthestorm/comments/3a9911/hero_idea_the_inkeeper_hearthstone/

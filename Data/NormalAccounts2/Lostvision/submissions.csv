@@ -1,0 +1,848 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-17 15:22:39+00:00,self.Cisco,https://www.reddit.com/r/Cisco/comments/5dgccm/cisco_phone_7841_userexperience_config_change/,False,"Hey guys,
+
+I'm hoping someone can help me understand whether or not a specific configuration option can be implemented for ease-of-use for my office.
+
+I was recently asked to have hanging up a call immediately return you to the main screen on the phone.
+
+For example: You go into directory and search a name, dial the person and have a nice chat but when you hang up you're still in the directory. Now rather than having to hit Cancel&gt;Exit&gt;Back so you can call someone from speed dial (or whatever) just have the action of hanging up auto-return you to the main screen.
+
+Is this kind of behaviour configurable?
+
+Thanks!",Cisco,Cisco Phone 7841 user-experience config change,https://www.reddit.com/r/Cisco/comments/5dgccm/cisco_phone_7841_userexperience_config_change/
+1,2016-11-15 16:12:14+00:00,self.ipad,https://www.reddit.com/r/ipad/comments/5d3ba1/requesting_a_bit_of_help_monitoring_multiple/,False,"Hey Guys and Girls,
+
+I'm wondering if you all know a way in which I can monitor the status of multiple iPads (battery/charging status/uptime etc) from my iphone and/or desktop.
+
+I was browsing some apps but a lot of the ones that appear to have this functionality either are only demo'd using 1 other device, or haven't been updated in half a decade.
+
+Thanks for your time and help!",ipad,Requesting a bit of help monitoring multiple devices,https://www.reddit.com/r/ipad/comments/5d3ba1/requesting_a_bit_of_help_monitoring_multiple/
+2,2016-11-11 18:54:59+00:00,self.subnautica,https://www.reddit.com/r/subnautica/comments/5cg6hf/the_only_thing_preventing_me_from/,False,"I don't know about you guys but I've seen a distinct lack of RECENT letsplays or streams for this game. I think I would really enjoy trying to do something with this game but there is a massive problem I run into on the reg.
+
+I drop frames, have pop-in, load lag like a mofo. Is it just me?!
+
+Sometimes this game will freeze for a solit 15-30 seconds as it loads the next area and it really kills the immersion for the player, I can only imagine how frustrating it'd be for an audience.",subnautica,The only thing preventing me from steaming/letsplay this game.,https://www.reddit.com/r/subnautica/comments/5cg6hf/the_only_thing_preventing_me_from/
+3,2016-11-04 18:54:14+00:00,self.Callmanager,https://www.reddit.com/r/Callmanager/comments/5b5ftu/noob_using_rtmt_to_see_current_call_volume/,False,"Hi guys,
+
+I'm the newly branded administrator of our voip system and I have absolutely zero experience so please forgive me if I sound ridiculously underinformed, because the truth is I probably am...
+
+My call manager + unity system directs all calls out a PRI with ~50 lines available for calls to and from external sources. We have no satellite offices coming over a WAN or anything exciting like that.
+
+My CIO recently asked me if there is a way that I can monitor the number of lines currently in use on our PRI, just so we can be aware that we're running low and get another (you know, be proactive). I've found the RTMT but there seem to be at least a half dozen performance monitors in here that *could* be the data I'm looking for but who knows!?
+
+Basically I guess I'm just hoping someone else who is more experienced with these tools can lead me in the right direction.
+
+thanks!
+
+tl;dr: can I monitor current PRI lines in use in my environment, and if so how?
+
+",Callmanager,Noob using RTMT to see current call volume,https://www.reddit.com/r/Callmanager/comments/5b5ftu/noob_using_rtmt_to_see_current_call_volume/
+4,2016-10-03 15:33:32+00:00,self.wow,https://www.reddit.com/r/wow/comments/55o7ek/spoiler_at_the_end_of_emerald_dream_raid/,False,"Okay so I might be crazy, and spoilers are below so you've been warned.
+
+Ysera dies after she gets corrupted by the shadow of Xavius (and let's be real, he's slimming that shadow down a bit, total photoshop job), but at the end of the dream if you cross the pond there are a couple of things that I noticed in the cave!
+
+There appears to be a flower emanating void energy, which makes me think the nightmare might not be quite over yet... and the most important bit: A night-elven ghost flickers in and out of existence and I'm *PRETTY SURE* it is Ysera's humanoid form. Now I could be wrong, but I think Ysera is still alive within the dream, and perhaps we'll find a way to restore her in the waking world.
+
+What do you all think?",wow,[Spoiler] At the end of Emerald Dream Raid,https://www.reddit.com/r/wow/comments/55o7ek/spoiler_at_the_end_of_emerald_dream_raid/
+5,2016-09-20 14:00:34+00:00,self.Cisco,https://www.reddit.com/r/Cisco/comments/53nha9/cisco_unity_autodial_9_from_addressbook_plz_help/,False,"Hey everyone,
+My manager asked me today to find a way to get our phones to autodial the 9 to dial out when dialing from the addressbook. I asked him if we could just add the 9 prefix to numbers in the address book and he said that wasn't an option.
+
+Have any of you done anything like this? My initial thought is just to give people access to their own speed-dial creation and they can be responsible for their own lists but then I'm forced to rely on users to make good decisions.",Cisco,"[Cisco Unity] Autodial 9 from addressbook, plz help.",https://www.reddit.com/r/Cisco/comments/53nha9/cisco_unity_autodial_9_from_addressbook_plz_help/
+6,2016-08-24 01:43:57+00:00,self.JourneysInTheDark,https://www.reddit.com/r/JourneysInTheDark/comments/4za2xj/is_closing_setup_to_heroes/,False,"Hello fellow overlords!
+
+Today I'm wondering how much you choose to disclose about setup to the dastardly thieves who call themselves heroes.
+
+For example in Rellegars Rest pt ii, do you tell them about the relic in the bottom right, or any other hidden things?
+
+My instinct is not to, but I'm wondering what you guys think!!",JourneysInTheDark,Is closing setup to heroes,https://www.reddit.com/r/JourneysInTheDark/comments/4za2xj/is_closing_setup_to_heroes/
+7,2016-08-11 12:28:41+00:00,self.NoMansSkyTheGame,https://www.reddit.com/r/NoMansSkyTheGame/comments/4x7q1h/i_found_a_weird_bug_with_my_new_ship/,False,"I found a crashed short-nosed ship with the round spoiler at the back crashed on a planet. I patched it back together and flew it off world and tried to refill supplies from the asteroids in orbit.
+
+For some reason it seems like my ships turrets kind of... clip through the hull because as I fired I started taking shield damage. I think I was shooting myself with my own guns...",NoMansSkyTheGame,I found a weird bug with my new ship,https://www.reddit.com/r/NoMansSkyTheGame/comments/4x7q1h/i_found_a_weird_bug_with_my_new_ship/
+8,2016-08-10 14:16:54+00:00,giphy.com,https://www.reddit.com/r/NoMansSkyTheGame/comments/4x2buk/how_it_feels_walking_around_with_buffed_up_plasma/,False,,NoMansSkyTheGame,How it feels walking around with buffed up plasma grenades.,http://giphy.com/gifs/season-11-the-simpsons-11x2-xT5LMXZiK24YcGZqyA
+9,2016-07-17 22:59:29+00:00,self.dogs,https://www.reddit.com/r/dogs/comments/4tc1av/help_new_dog_dad_kind_of_nervous/,False,"Hi /r/dogs!
+My wife and I just adopted a 6 year old collie/shepherd yesterday. She's playful and lovey and can fetch for hours. This is an amazing dog. We also have two cats and the thing that has me very nervous is an interaction between the dog and one of the cats.
+The cat walked over to check the dog out, the dog snarled and lunged for the cat. My wife was able to intervene but I'm really afraid that this dog might hurt my cats (after all, it was their home first). Is this the kind of behavior that can be trained out of a dog, or have I made a big mistake?",dogs,"[Help] New dog dad, kind of nervous.",https://www.reddit.com/r/dogs/comments/4tc1av/help_new_dog_dad_kind_of_nervous/
+10,2016-07-17 22:49:11+00:00,self.dogs,https://www.reddit.com/r/dogs/comments/4tbzq2/new_dog_dad_and_a_bit_nervous/,False,[removed],dogs,New dog dad and a bit nervous,https://www.reddit.com/r/dogs/comments/4tbzq2/new_dog_dad_and_a_bit_nervous/
+11,2016-07-14 20:15:13+00:00,self.NoMansSkyTheGame,https://www.reddit.com/r/NoMansSkyTheGame/comments/4svczv/this_mans_sky/,False,I finally decided to take the plunge and preorder the game last night! See you out there (probably won't actually) pilots!,NoMansSkyTheGame,This Mans Sky,https://www.reddit.com/r/NoMansSkyTheGame/comments/4svczv/this_mans_sky/
+12,2016-07-12 17:53:23+00:00,self.WildStar,https://www.reddit.com/r/WildStar/comments/4sid4l/addon_or_howto_request/,False,"Hey there fellow adventurers. I'm a humble Exile Spell Slinging Settler and I've got a question for y'all. 
+
+When I'm in battlegrounds healing I like to wear my support gear, but when I'm out exploring or raiding some dungeons I like to wear my Assault gear. Is there an addon or menu that I'm missing that allows me to have different gear sets?
+
+Scrambling through my bag to find all my other gear is starting to get a little... old.",WildStar,Addon or How-To request,https://www.reddit.com/r/WildStar/comments/4sid4l/addon_or_howto_request/
+13,2016-06-25 17:12:02+00:00,self.Eve,https://www.reddit.com/r/Eve/comments/4ptdvw/asta_has_almost_surpassed_ffxiv/,False,"Don't forget to vote for ASTA to combat the despicable treatment of EvE and Runescape players :)
+
+http://www.mmogames.com/topmmos/best-mmorpg-2016-far/",Eve,ASTA has almost surpassed FFXIV!!,https://www.reddit.com/r/Eve/comments/4ptdvw/asta_has_almost_surpassed_ffxiv/
+14,2016-06-13 13:15:33+00:00,imgur.com,https://www.reddit.com/r/whatisthisthing/comments/4nvk5y/found_on_beach_in_southern_ontario_canada_bird/,False,,whatisthisthing,"Found on beach in Southern Ontario, Canada. Bird bone? Fish tooth? WTF is this?",http://imgur.com/TSQYyPv
+15,2016-05-22 21:20:04+00:00,self.XWingTMG,https://www.reddit.com/r/XWingTMG/comments/4kkk8h/soontir_fel_what_they_arent_telling_you/,False,"This weekend I discovered something about a 3 Interceptor Ace build featuring the Baron himself that I hadn't read anywhere prior to practicing with him.
+
+Let me set the stage:
+3 named aces, all rocking stealth device+auto thrusters.
+
+Up against me, a Firespray with heavy laser turret and Gunner flanked by Omega and Zeta ace.
+
+That Firespray made its goal to engage at range 2 with secondary weapons (when able) and the TIEs positioned themselves to defend the Firesprays flank inside flank.
+
+The interceptors, piloted by myself... We're horribly ineffective against this tactic for one simple reason.
+
+THE THING NO ONE TELLS YOU:
+
+If you're going to play a high agility 3 interceptor fleet it is desperately important that you don't suck at the game in general! Reading some shit-hot list online will mean nothing if you don't have a good understanding of arc dodging and the movement phase.
+
+Seriously, a tourney winning build isn't going to help you if you don't have a good understanding of game mechanics...
+
+Back to the academy for this commander...",XWingTMG,Soontir Fel: What They Aren't Telling You,https://www.reddit.com/r/XWingTMG/comments/4kkk8h/soontir_fel_what_they_arent_telling_you/
+16,2016-05-16 13:45:29+00:00,self.XWingTMG,https://www.reddit.com/r/XWingTMG/comments/4jl7wq/new_academy_pilot_empire_noob_post/,False,"Hey everyone!
+
+My friends and I recently decided to get our feet wet and join in on some X-Wing TMG. I of course have opted to crush the pitiful rebellion and bring peace and order back to a broken galaxy!
+
+The problem is... I don't really know what I'm doing. So I'm hoping I can convince you guys to give me some help.
+
+I have the following:
+Original Core Set
+
+2x TIE/fo
+
+Imperial Aces expansion
+
+TIE Interceptor pack
+
+Slave I pack
+
+What I'm looking for is some advice on what kinds of things you look for when building lists, are there specific things empire excels at? Are there any noobie friendly lists that will help me get more familiar with the game? Is there any way to get Autothrusters than buying a $20 pack that I can't use in my fleet?(lol)
+
+I appreciate any insight you guys can give me, and I look forward to one day being able to provide some substance to this reddit!
+
+Thank you,
+
+For the Empire o7",XWingTMG,New Academy Pilot [Empire noob post],https://www.reddit.com/r/XWingTMG/comments/4jl7wq/new_academy_pilot_empire_noob_post/
+17,2016-05-05 13:40:09+00:00,self.JourneysInTheDark,https://www.reddit.com/r/JourneysInTheDark/comments/4hzxn7/summary_of_our_first_game/,False,"My wife and I took a Journey into the Dark earlier this week, I thought I'd take a minute to share it with you guys.
+
+I played as the glorious Duo, Syndrael and Avric, bound by honor to stop the evil sorceress Eliza Farrow from completing her dark blood magic ritual and end her rein of terror.
+
+The adventure begins as our heroes make for the closest magic barrier protecting the sorceress, when a pair of hellhounds spring forth!
+
+Our heroes pause for a moment, Syndrael slices through the smaller of the two-wolf pack like a hot knife through butter as Avric prepares to shatter the nearby rune.
+
+Emboldened by their early victory, the two make short work of the remaining wolf, destroy the protective rune and sprint off down the hall towards the next objective.
+
+*CRASH* Avric is sent flying as a giant club smashes between the heroes. A giant 2 headed troll emerges from the shadows. The duo look behind, and contemplate retreat, any ideas of that are dashed as they see a pair of undead staggering towards them reeking of death.
+
+Syndrael goes low, slicing at the Ettin's legs. The monstrosity stumbles and falls onto its hands and knees and Avric delivers a blow to the back of the skull. The Ettin vanishes in a cloud of dust, vanquished, and the duo sprint away from the approaching minions towards the pulsing rune.
+
+Meanwhile in her sanctuary Eliza weaves dark magicks, blood pours from her face and mouth, slowly collecting in the altar before her as sorcerers work tirelessly to keep her from dying. Her screams of pain grow louder and more shrill as the ritual continues.
+
+Our heroes explore the darkest most filthy of all the corridors, moving towards a *click click click* sound in the distance, and away from the tortured screams behind them. At last they come to the room that must contain the final rune. When Avric opens the door, Syndrael shoves him to the side as an enormous eight legged beast buries its fangs into her wooden shield.
+
+Syndrael tries to slice through but her blade found no flesh, Avric weaves healing magicks, and Syndrael's flesh knits back together as fast as it is cut apart by the monsters. One, Two, Three! The pair burst through the door in a frenzy, dropping two of the spiders at once! Syndrael dismantles an undead and races to crack the rune as she hears Avric cry out from behind her. She shatters the rune with the hilt of her blade and looked behind her to see Avric struggling with a rotted corpse, unable to free himself from its grasp as he desperately fights for his life.
+
+Syndrael rushs to his side and as she separates the horrors head from its shoulders. Sparing a moment to rest, the pair drink and heal before pushing on. For the first time since entering this cursed place they heard, silence.
+
+No snarling of beasts, no clicking of fangs, no dragging of limbs. The floor was littered with blood and corpses and then all at once... laughter.
+
+The blood from the fallen began to gather into streams and etched dozens, hundreds, of glowing symbols into the floor and walls. The two made to sprint for the cursed chapel but found themselves frozen in place. Blood began to stream from their wounds and carved magic symbol in their own flesh.
+
+Avric peered out through his helm and saw the undead piecing themselves back together. Two had already begun feasting on his partner and the largest of them began to make its way over to him. Terrified and unable to scream he closed his eyes, trying to find inner peace.
+
+He found his new reality contained darkness...
+Darkness, and laughter...
+
+TL;DR My wife REKT me at our first game of descent. Those goddamn spiders locked me down in that one room for WAY too long!",JourneysInTheDark,Summary of our first game,https://www.reddit.com/r/JourneysInTheDark/comments/4hzxn7/summary_of_our_first_game/
+18,2016-04-29 15:53:58+00:00,self.Eve,https://www.reddit.com/r/Eve/comments/4h012a/is_world_war_bee_over/,False,"I've been considering resubbing so I could get in on the war. You know, so when my friends ask about EvE I can tell them ""I was there"" and ""EvE is real"". I saw a GIF showing Goonswarm space is all but gone and if the war is pretty much over I've got no real interest in resubbing so I was wondering if you capuleers could give me an unbiased opinion on the state of the Goon bash.
+
+Thanks :)",Eve,Is World War Bee over?,https://www.reddit.com/r/Eve/comments/4h012a/is_world_war_bee_over/
+19,2016-04-20 17:48:36+00:00,self.JourneysInTheDark,https://www.reddit.com/r/JourneysInTheDark/comments/4fokqt/i_need_help_to_not_get_burned/,False,"If you have a minute can you please check the below link and let me know if this is the full game or just an expansion? I don't want to accidentally buy an expansion but this seems like a really good price for a full game:
+
+http://www.amazon.com/Descent-Journeys-Dark-Second-Edition/dp/1616611898
+
+Thanks for your help :)",JourneysInTheDark,"I need help, to not get burned",https://www.reddit.com/r/JourneysInTheDark/comments/4fokqt/i_need_help_to_not_get_burned/
+20,2016-04-02 05:34:29+00:00,self.thedivision,https://www.reddit.com/r/thedivision/comments/4d0aes/an_open_letter_to_dz_player_51737/,False,"Dear Player,
+
+I didn't quite get your name, bobbybabybizzleboybob on PS4 or something like that.
+
+I saw you running away from me with a yellow backpack and thought to myself, my I would quite like to take whatever he's got...
+
+So I shot you, and what followed was about 10 minutes of both of us exercising our best imitations of the 5 D's of dodgeball.
+
+I hit you like a freight train and juuuuust before I could finish it you'd get to cover and heal. You'd tear me up some and with just under a bar remaining I pop first aid.
+
+Well done sir, I tip my Pom Pom beanie to you as we part ways, each of us grown bored with the clash of the Titans. 
+
+Farewell friend, keep your trinkets for you do indeed deserve them.
+
+Most sincerely,
+
+Lostvision
+Rogue, Scholar, Gentleman.",thedivision,An open letter to DZ player #51737,https://www.reddit.com/r/thedivision/comments/4d0aes/an_open_letter_to_dz_player_51737/
+21,2016-04-01 17:49:56+00:00,self.Jokes,https://www.reddit.com/r/Jokes/comments/4cwz1m/netflix_the_clairvoyant/,False,"Donald Trump is raking in the votes and winning primaries like we haven't seen since 2008 when Obama started his sweep of the nation.
+
+Which proves that Netflix was right all along...
+
+Orange is the new Black.",Jokes,Netflix the clairvoyant!,https://www.reddit.com/r/Jokes/comments/4cwz1m/netflix_the_clairvoyant/
+22,2016-03-30 13:11:26+00:00,self.thedivision,https://www.reddit.com/r/thedivision/comments/4ckoop/the_best_of_intentions_a_rogues_diary/,False,"I see you there, agent. I see you struggling to kill Short Fuse in DZ 3. I see you sniping out Zeke in the sports store. I see you taking down Boomerang at the library.
+
+But you don't see me. Not yet.
+
+I'm not here to ruin your day, I don't want to just be an asshole and end your fun. In fact you and I have something in common.
+
+We both want loot.
+
+Unfortunately for one of us, you're the one with the loot and I'm the one with the Crit+Crit+Healing SMG.
+
+The thing about this game, is that it's a game of resources. DZ chests, boss drops, Division tech. Only one of us can monopolize the resources and keep rolling the RNG dice, especially in over-populated DZ 1-3.
+
+Your job isn't as simple as mine, you need to know the map. Know it better than me, know every alley and subway, every dead end and NPC trap you can lure me to if I chase you. I can walk the streets uncontested, and if you manage to extract enough of that loot then one day you may turn the tables and find me running from you.
+
+I'm a rogue both because I know you have loot, and because I don't want you to take any potential loot from me. I want the drops, I want the kills, I want the tech, I want it all. And because of my gear I can, at least for the moment, ensure my continued monopoly of these resources in the Dark Zone.
+
+Yes agent, I see you looting, and I'm going to come down and take what's mine.
+
+Run now, and good luck.",thedivision,The best of intentions - A Rogues Diary,https://www.reddit.com/r/thedivision/comments/4ckoop/the_best_of_intentions_a_rogues_diary/
+23,2016-03-11 19:05:22+00:00,self.thedivision,https://www.reddit.com/r/thedivision/comments/4a07bg/storytime_how_a_race_to_a_dz_chest_ended_in_a/,False,"Deep in the bowels if NYC my fireteam and I had just finished clearing a helipad and extracting some loot before migrating to the subway to check for some DZ chests. 
+
+There were 3 of us so we split up to attempt to open all of the DZ and medium chests before everyone else who was at the pad.
+
+The party leader was sprinting for a chest closely behind a neutral agent who just barely got to the chest ahead of him. He made the split second decision we've all had to make.
+
+&amp;nbsp;
+
+""F*** you, that's my loot!"" he says, emptying his AK-47 magazine into the agents spine, turning us all rogue!
+
+All 3 of us turn and run out of the subway, hoping our timer will tick down and we can help our comrade extract his ill gotten loot as neutral. It turns out, however, that we exited the subway in the wrong direction and ran right into 4 other agents who immediately began to rain hellfire down upon us. We escaped into an alley and holed up at the top of a ladder and here's where the fun began.
+
+&amp;nbsp;
+
+There was 1 entrance and 3 of us with ammo-refreshing health boxes, and range increasing pulses. every time someone tried to get up to attack us we ended the assault before it could begin.
+
+It wasn't long before it became a manhunt. People constantly trying to climb up to assault us and getting cut down before they could mount an effective attack. Once a gentleman decided he wanted to peak his head up the ladder to draw some fire, which worked. He ate 2 M1A headshots and fell to his death.
+
+~5 minutes and &gt;20 kills later (they kept respawning and coming back) our final agent left rogue status, and we extracted without incident shortly after.
+
+All of this because someone beat our leader to a medium sized chest in the subway.
+
+Emergent gameplay at its finest!",thedivision,Storytime! How a race to a DZ chest ended in a massacre.,https://www.reddit.com/r/thedivision/comments/4a07bg/storytime_how_a_race_to_a_dz_chest_ended_in_a/
+24,2016-03-09 17:22:40+00:00,self.thedivision,https://www.reddit.com/r/thedivision/comments/49p2w6/please_help_me_understand_a_mechanic/,False,"The little healing deployable that does a healing pulse in an AOE has an addon that allows players to use it to self-revive if downed. Does this work for players that are not in your group as well, or did I just leave two people to their fate while we were all chasing after a rogue agent?",thedivision,Please help me understand a mechanic.,https://www.reddit.com/r/thedivision/comments/49p2w6/please_help_me_understand_a_mechanic/
+25,2016-02-22 16:53:51+00:00,self.TheDivisionPomPoms,https://www.reddit.com/r/TheDivisionPomPoms/comments/471pl7/betraying_the_pompom_brotherhood/,False,"After a weekend of cruising through the Dark Zone enforcing our own brand of Justice, my friend and I found ourselves on a dead end behind cover when a fellow PomPomer approaches us.
+
+He walks over and gets behind cover with us, having very low health and seemingly no way to regenerate it we took pity on the poor soul and decided to let him be for now.
+
+As we turned to leave, the Pom Pom brother shot a sticky bomb at us and with a single explosion, betrayed the fragile trust that holds our brotherhood together.
+
+We executed him with extreme prejudice.
+
+If you betray the Pom Pom, you'd better watch out, 'cuz we're coming for you...",TheDivisionPomPoms,Betraying the PomPom brotherhood,https://www.reddit.com/r/TheDivisionPomPoms/comments/471pl7/betraying_the_pompom_brotherhood/
+26,2016-02-14 23:45:15+00:00,imgur.com,https://www.reddit.com/r/EliteDangerous/comments/45tpgw/a_journey_begins_the_shaky_beginnings_of_a_cmdrs/,False,,EliteDangerous,A Journey begins: The shaky beginnings of a CMDR's career,http://imgur.com/a/KsiRL
+27,2016-02-09 20:15:08+00:00,imgur.com,https://www.reddit.com/r/sysadmin/comments/44ynxl/when_you_finally_finish_the_migration_from/,False,,sysadmin,When you finally finish the migration from Exchange 2003 to Office 365,http://imgur.com/7drHiqr
+28,2016-02-08 04:23:09+00:00,imgur.com,https://www.reddit.com/r/ffxiv/comments/44parc/my_path_as_a_ninja_has_come_far/,False,,ffxiv,My path as a ninja has come far,http://imgur.com/a/Oa6p7
+29,2016-02-07 23:32:13+00:00,self.canada,https://www.reddit.com/r/canada/comments/44o9eh/eli5_why_do_some_parties_con_lib_ndp_have/,False,"http://www.elections.ca/content2.aspx?section=can&amp;dir=part/pollim&amp;document=index&amp;lang=e
+
+Is there some calculation that gets done based on the number of ridings you won in the last election? If so, doesn't that just perpetuate a static unchanging government where the same guys always win?
+
+Solid answer provided by /u/jellicle:
+
+""That expense limit is based on the number of ridings where the party had a candidate confirmed to run for office. (It's the number of electors that can vote for a candidate of that party, actually.) Some parties only had two or so candidates in total running for office.""",canada,"ELI5 - Why do some parties (Con, Lib, NDP) have drastically higher expense limits than other parties",https://www.reddit.com/r/canada/comments/44o9eh/eli5_why_do_some_parties_con_lib_ndp_have/
+30,2016-01-26 17:38:17+00:00,self.diabetes,https://www.reddit.com/r/diabetes/comments/42smxo/something_i_dont_understand_about_cost_of_diabetes/,False,"According to diabetes.org 43% of the cost of diabetes is in the form of hospital inpatient care, where the cost of diabetes supplies including anti-diabetic agents like insulin account for 12% of the cost so...
+
+Wouldn't it be more fiscally responsible for governments to provide funding to cover insulin and supplies which would (admittedly hypothetically, but not unreasonably) dramatically decrease the need to budget so much towards inpatient care?
+
+Do I just not understand... numbers?
+
+Comments in the form of ""Lostvision you don't know WTF you're talking about"" are acceptable, as I admittedly don't know WTF I'm talking about.
+
+*Not a person with diabetes and I don't play one on T.V.*
+src: http://www.diabetes.org/advocacy/news-events/cost-of-diabetes.html",diabetes,Something I don't understand about cost of diabetes.,https://www.reddit.com/r/diabetes/comments/42smxo/something_i_dont_understand_about_cost_of_diabetes/
+31,2016-01-26 14:53:59+00:00,self.Showerthoughts,https://www.reddit.com/r/Showerthoughts/comments/42rssf/ive_never_known_what_its_like_to_work_in_a_good/,False,,Showerthoughts,"I've never known what it's like to work in a good economy, and as a result probably would never recognize one.",https://www.reddit.com/r/Showerthoughts/comments/42rssf/ive_never_known_what_its_like_to_work_in_a_good/
+32,2016-01-25 15:57:13+00:00,self.ffxiv,https://www.reddit.com/r/ffxiv/comments/42m1kr/help_requested_trying_to_buy_heavensward_on_steam/,False,I originally purchased ffxiv ARR from a non-steam source but now when I try to get the expansion from steam it gives me an error saying I need to own the core to buy the x-pack. Is there no way around this? 50% off is a sweet deal and I don't want to miss it :(,ffxiv,Help Requested! Trying to buy Heavensward on Steam,https://www.reddit.com/r/ffxiv/comments/42m1kr/help_requested_trying_to_buy_heavensward_on_steam/
+33,2016-01-14 05:34:36+00:00,self.bloodborne,https://www.reddit.com/r/bloodborne/comments/40w9dc/shameless_pride_my_first_pvp_experience/,False,"My first steps into the nightmare brought forth a new foe. These were no Beasts or otherworldly nightmares. These were something much worse.
+
+In the distance an eerie bell tolled menacingly and before long three other bells began to resonate with it. I could sense a change, I was not alone...
+
+The Hunters descended upon me in an instant! The first one, brandishing a spear, lunged at me with ferocity while one of his allies peppered me with buckshot. Rolling to the side to avoid the attacks I began to sprint, my intention was to attempt to split the three of them up and I would stand a better chance 1v1.
+
+After a skirmish which left us both fairly bloodied the spear wielding foe slipped into a pit of poison and aside from the screams that escaped the pit I can only guess what was awaiting him down there. The other two had followed me, drunk on blood and aching for battle the front man chambered a menacing attack with his axe!
+
+Fearing for my life I dodged away between a stone wall and a gravestone, and he followed, snarling and baring his teeth.
+
+Now safe from the shotgun wielding hunter I dodge back out of reach of the axe hunter, sprinting back in a moment later to sink my daggers into his flesh. I follow up with a flurry of quick slices and stabs, piercing his knees and elbows and dodge again narrowly avoiding a skull splitting swing. I'm back in, slicing at his arms and torso before finally landing an ending blow to his neck, the hunter falls and vanishes before my eyes, back to the dream with him.
+
+The last of the trio attempts to box me in, the safe cove I found soon to be a prison if I let him succeed.
+
+I sprint out right past him, whipping around and rolling to my right to avoid another blast from his blunderbuss.
+
+This hunter swipes at me with a saw cleaver, predictably draining all of his energy in a misguided flurry of attacks which met only air. I begin to feed him the same meal I'd just given to his counterpart when he dodges backwards but I'll give him no time to prepare another assault. I charge after him and bleed him dry.
+
+As he retreats back to the dream I realize there was a moment where this could have gone differently. When these intruders first saw me and gauged me, seeing my feather adorned cape and twin daggers. There was a chance for them, but they readily threw it away. Perhaps next time they dream they'll give thought, if they do they'll realize that I learned from the best.
+
+I am a hoonter of hoonters.",bloodborne,Shameless Pride - My first PvP experience.,https://www.reddit.com/r/bloodborne/comments/40w9dc/shameless_pride_my_first_pvp_experience/
+34,2016-01-07 17:13:18+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3zwe99/q_can_i_get_disk_io_collector_set_with/,False,"So, I don't really know what I'm doing because I'm a very junior sysadmin (is there a /r/juniorsysadmin?) but I'm trying to figure out what process is destroying my disk IO at 10pm-3am without sitting in the office over night.
+
+I'm familiar with data collector sets in perfmon and I was hoping to find something like that in resource monitor but I've been thus-far unable to locate it.
+
+I've also started poking around with Process Explorer which gives me incredible amounts of information but I've been unable to find anything like a data collector set in this software either.
+
+Am I missing something silly (Like a big yellow button that says ""Record"" or something) or is this just not something I can do?
+
+Thanks for your help, oh mighty sultans of the server rooms and clouds!",sysadmin,Q: Can I get Disk IO Collector set with resmon/process explorer?,https://www.reddit.com/r/sysadmin/comments/3zwe99/q_can_i_get_disk_io_collector_set_with/
+35,2016-01-07 02:53:02+00:00,self.EldritchHorror,https://www.reddit.com/r/EldritchHorror/comments/3ztfvm/newbie_question_game_seems_too_easy/,False,"I must be missing something. My wife and I are pretty decent at board games but we're not exceptional or anything, still we're able to take down Azathoth with relative ease. Just got the game for Xmas and I imagine we must be doing something wrong.
+
+We've been able to avoid all conditions (except one instance of debt and some short lived paranoia) and rarely fell below 1/3 health. Monsters seem easy to keep under control if one person just globe trots keeping portals closed and the doom counter hasn't made it below 10.
+
+Today I recognized that we weren't moving the doom counter when gates* correlated with the omen counter but even then it would have gotten down to 8 or so tops.
+
+Is there any super obvious mistakes that you guys have seen newbies making that seems to make the game super easy? Thanks!
+
+edit: changed ""it"" to ""gates"" because English is hard...",EldritchHorror,Newbie Question: Game seems too easy...,https://www.reddit.com/r/EldritchHorror/comments/3ztfvm/newbie_question_game_seems_too_easy/
+36,2016-01-06 13:27:12+00:00,self.bloodborne,https://www.reddit.com/r/bloodborne/comments/3zprl1/spoilerfree_advice_requested/,False,"I'm not very far into the game, and one of my friends has asked me what I think. So far I really love this game but I know he's really into challenging single player games with great mechanics and well told stories.
+
+
+We can all agree that Bloodborne's mechanics are really well done as are the controls, but being so early in the game I can't really tell him if the story is any good.
+
+So I ask you, dear hunters, please without spoiling things for me. Does the story of Yarnham ever start making sense? As it stands for me, I'm just walking around killing werewolves and people who are  changing into monsters because if I don't then they'll kill me first.
+
+
+Does this begin to make sense? When (if) it does, is it a good story?",bloodborne,Spoiler-Free advice requested!,https://www.reddit.com/r/bloodborne/comments/3zprl1/spoilerfree_advice_requested/
+37,2015-12-31 14:32:17+00:00,imgur.com,https://www.reddit.com/r/StarWars/comments/3ywx4p/a_friend_of_mine_requested_i_share_this_episode/,False,,StarWars,"A friend of mine requested I share this Episode 2-3 theory, so here it is.",https://imgur.com/Zi2KEl3
+38,2015-12-24 04:49:15+00:00,self.StarWars,https://www.reddit.com/r/StarWars/comments/3y1r19/not_a_spoiler_post_regarding_tfa/,False,"I just wanted to say, I watched TFA for the second time today and was grinning ear to ear from the moment ""Lucasfilm"" appeared on the screen, to the credit roll at the end.
+
+I don't know if any of the people who worked on the movie ever frequent this subreddit but if you do, I got chills frequently throughout the movie, I absolutely loved it! You made the 8 year old inside me very happy. May the force be with you :)",StarWars,Not a spoiler post regarding TFA,https://www.reddit.com/r/StarWars/comments/3y1r19/not_a_spoiler_post_regarding_tfa/
+39,2015-12-22 13:18:24+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3xty6w/so_to_the_guy_in_robigo_last_night/,False,"You followed me because you couldn't find the outpost, and then you were bummed out because your Clipper was too big to land on the medium pads.
+
+Then you bumped me a couple of times, I assumed it was an accident while trying to get some pretty legit screenshots and while it did some wear on my Asps shields no real damage was done.
+
+&amp;nbsp;
+
+Then I finally got accepted to a docking pad, lined up and started down thrusting. Ahh, here we go, time to stock up on some smuggling missions, sorry you couldn't do the same pal.
+
+Then it came, the knife in the dark, right in my spine. You unloaded 4 multi-cannons right through my hull shredding my ships FSD and leaving me adrift waiting for the end.
+
+And it came.
+
+Well played CMDR... Well played...",EliteDangerous,SO to the guy in Robigo last night,https://www.reddit.com/r/EliteDangerous/comments/3xty6w/so_to_the_guy_in_robigo_last_night/
+40,2015-12-16 15:12:54+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3x34b5/wanted_for_bounty_hunting_and_destruction_of/,False,"I'm hoping someone can help me understand why I keep getting bounties on me for killing skimmers at sites on planets, but I also get credited for a bounty for destroying them. I R Confuzzled.",EliteDangerous,"Wanted, for Bounty Hunting and Destruction of Property",https://www.reddit.com/r/EliteDangerous/comments/3x34b5/wanted_for_bounty_hunting_and_destruction_of/
+41,2015-12-16 13:23:06+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3x2r8a/i_abandoned_you_cmdr_and_im_sorry/,False,"Last night my friend and I were hanging out, outside a station. This epic looking corvette came over and greeted us, I responded with a happy ""o7"". You then asked if you could join our wing, and for some reason I couldn't figure out how to reply to direct messages. I wanted to politely tell you that we didn't expect to be online for very much longer but I couldn't figure out how to respond to your direct message before just blasting off into the void.
+
+Sorry about that CMDR Northsomethingsomething.",EliteDangerous,"I abandoned you CMDR, and I'm sorry",https://www.reddit.com/r/EliteDangerous/comments/3x2r8a/i_abandoned_you_cmdr_and_im_sorry/
+42,2015-12-10 01:40:14+00:00,self.wow,https://www.reddit.com/r/wow/comments/3w5ofh/i_need_help_cant_login/,False,"I keep getting error 113 when attempting to log in. I tried to post on the forum but it says no license is found so I can't post. I went to the support page but live support is offline (even through it's not even close to 10PM...)
+
+Is anyone else experiencing 113 errors? I'm super confused right now...",wow,I need help - Can't login,https://www.reddit.com/r/wow/comments/3w5ofh/i_need_help_cant_login/
+43,2015-12-07 14:15:45+00:00,news.nationalpost.com,https://www.reddit.com/r/canada/comments/3vsiy6/in_syria_people_faced_us_with_live_bullets_a/,False,,canada,"‘In Syria, people faced us with live bullets’: A refugee’s long journey to Canada, in his own words",http://news.nationalpost.com/news/canada/in-syria-people-faced-us-with-live-bullets-a-refugees-long-journey-to-canada-in-his-own-words
+44,2015-12-01 17:27:14+00:00,self.StarWars,https://www.reddit.com/r/StarWars/comments/3v0s36/spoilers_a_theory_on_the_destiny_of_piett/,False,"Spoilers include events that occur at the end of episode 4, through to end of episode 6. If you haven't seen those yet... well my 9 year old nephew has seen more Star Wars than you so what's your excuse?
+
+*Tinfoil hat On* 
+
+
+(all below is speculation... obviously...)
+After the death of Grand Moff Tarkin, Vader saw an opportunity to take full control of the Navy and eventually use it to support him in overthrowing the Emperor.
+
+
+To assist with this he systematically executed people above Piett eventually promoting him to Admiral to ensure he had a competent and fully loyal commander of a large portion of his naval forces once he took over control of the Empire.
+
+Perhaps he might have even promoted him to Grand Moff after securing the mantle of Emperor. Vader was probably hoping the Emperor would be able to succeed in turning Luke to the dark side, so he and Luke could team up and take out Palpatine, then he Vader, would take control of the empire and give his old role to Luke, his apprentice. Having Piett in control of the navy would ensure any rebellion or change of heart from Luke would be limited in scope.
+
+*Tinfoil hat off*",StarWars,[Spoilers] A theory on the destiny of Piett,https://www.reddit.com/r/StarWars/comments/3v0s36/spoilers_a_theory_on_the_destiny_of_piett/
+45,2015-11-16 18:58:44+00:00,self.Cisco,https://www.reddit.com/r/Cisco/comments/3t1xe6/question_do_sg200_series_switches_support_netflow/,False,"Basically I'm just trying to decide on what type of switches I am going to implement at remote offices, I would prefer switches with NetFlow capabilities as I already have some monitoring configured to use it.
+
+I'm having a heck of a time finding a list of devices that use netflow/sflow/jflow/netflow lite and I'm wondering if any of you peeps have been using the SG200 series and can tell me if I can leverage these protocols off of them.
+
+Thanks!!",Cisco,[Question] Do SG200 series switches support NetFlow,https://www.reddit.com/r/Cisco/comments/3t1xe6/question_do_sg200_series_switches_support_netflow/
+46,2015-11-12 22:29:57+00:00,self.Plumbing,https://www.reddit.com/r/Plumbing/comments/3sl8gx/help_request_winterize_outside_tap_leaky_inside/,False,"I'm wondering if any of you clever guys can help me out. I recently bought my first home, this is my first winter in it.
+
+I went about shutting off the water to the outside for the winter but when I opened the outside valve there is still a small but not insignificant trickle of water coming from the tap.
+
+I can't really replace the tap/washer inside as it is tucked tightly in my basement ceiling.
+
+Where I live it regularly gets below -20C in the winter and can stay that cold for days.
+
+For added complexity my external water cutoff is just above my breaker panel making any maintenance to it.... Well not ideal....
+
+Any ideas on a workaround for this?
+
+Thanks!",Plumbing,"[Help Request] Winterize outside tap, leaky inside cut off.",https://www.reddit.com/r/Plumbing/comments/3sl8gx/help_request_winterize_outside_tap_leaky_inside/
+47,2015-11-09 20:41:09+00:00,self.anno2205,https://www.reddit.com/r/anno2205/comments/3s6hjm/i_feel_like_2205_desperately_needs_an_xpack/,False,"This game feels right but light...
+
+I know the maps are bigger and the islands are bigger and there are more areas/resources/production lines etc etc etc but it still feels a little light on content.
+
+2070 is my benchmark, it's the first Anno I played. Random generated maps, underwater cities, finite resources, and natural disasters (tidal waves, fires, sickness) all added depth to the game. Being able to create a geothermal power station was sweet, and a little risky! You could spend time and resources learning how to build Hydro-Electric dams, and if you made a surplus you could ship them over to other games via the Ark!
+
+I like 2205, I think it has a lot of potential and I'm nowhere NEAR done playing it, but I can't wait until they reinstate some of my old favorite functions like the research labs and underwater buildings. Even above water buildings would be cool! Imagine being able to spend superalloys to build above ocean platforms or something like that.
+
+What are some cool things you hope will be coming in future releases for this title? I love hearing other people's ideas!
+
+tl;dr I'm excited about 2205, I'm having a blast, and I can't wait to see what cool stuff comes in the X-Packs! ",anno2205,I feel like 2205 desperately needs an X-Pack,https://www.reddit.com/r/anno2205/comments/3s6hjm/i_feel_like_2205_desperately_needs_an_xpack/
+48,2015-11-09 01:54:53+00:00,reddit.com,https://www.reddit.com/r/nocontext/comments/3s2vkw/im_down_2_play_with_a_gay_man/,False,,nocontext,I'm down 2 play with a gay man,https://www.reddit.com/r/DestinyTheGame/comments/3s2a58/please_stop_kicking_me_because_of_my_voice/cwtg4ep
+49,2015-11-06 00:36:14+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3rp8y1/discount_python_any_clearance_sales_going_on/,False,[removed],EliteDangerous,"Discount Python, any clearance sales going on?",https://www.reddit.com/r/EliteDangerous/comments/3rp8y1/discount_python_any_clearance_sales_going_on/
+50,2015-11-05 17:09:43+00:00,self.anno2205,https://www.reddit.com/r/anno2205/comments/3rnegz/idea_globalization_and_specialization/,False,"I'm going to try this out tonight, and if anyone is interested I'll report my findings.
+
+Basically my plan comes down to this:
+
+Rather than attempt to create a self sustaining codependent group of colonies all feeding off each other, I'm going to try to specialize in a handful of high tier industries (executives or higher) and mass produce these goods to the global market. Then I'll reinvest that income in purchasing lower quantities of goods required for each of my regions.
+
+Has anyone else tried this? did you have any luck? I expect there to be a cap of population supportable through this method but it will be interesting to see.",anno2205,Idea: Globalization and Specialization,https://www.reddit.com/r/anno2205/comments/3rnegz/idea_globalization_and_specialization/
+51,2015-11-04 16:50:48+00:00,self.anno2205,https://www.reddit.com/r/anno2205/comments/3rif2c/are_the_maps_dynamic/,False,"In Anno 2070 (God I hope I don't get strung up for this comparison) the maps appeared to generate dynamically. I'm wondering if the 9 maps available in the campaign are all the same for everyone on every playthrough, or if you can restart until you get a seed you like.
+
+If no one knows the answer to this question it's cool I'll just test it when I get home from work.
+
+Thanks!",anno2205,Are the maps dynamic?,https://www.reddit.com/r/anno2205/comments/3rif2c/are_the_maps_dynamic/
+52,2015-11-03 05:41:28+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3rbgeg/in_defense_of_solo_play_i_know/,False,"I love PvP. Coming from an EvE online background I relish the fight between two commanders and let the best man win.
+
+Pull me over to check my cargo? I've handed over dozens of tons to ships better equipped than me and tucked my tail running to a station to mitigate my losses.
+
+Blow me out of the sky if I look at you wrong? I'd be insulted if you DIDN'T!
+
+There is however one reason I think Solo play needs to remain in the game for now... Docking request denied.
+
+This is my damn pet peeve. I've spent the 20 minutes trying to get to this outpost before this courier mission expires in 4 minutes and you're telling me all the docking bays are full? I'm sorry that's not good enough, I'll switch to solo to finish the mission and then swap back.
+
+If FD can make that not happen then I'm totally up for separating solo and private from open servers because I agree that it's less immersive (especially in powerplay) when no matter how badly you want to pirate, fight, or even just gank someone, they can just slip into solo and avoid you.
+
+tl;dr : Station docking bays full are baloney when doing missions.",EliteDangerous,In defense of solo play (I know...),https://www.reddit.com/r/EliteDangerous/comments/3rbgeg/in_defense_of_solo_play_i_know/
+53,2015-10-29 03:44:50+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3qnpp4/spent_some_time_tonight_breaking_the_law/,False,"Those haulers and Type 6's don't know when they're beat! Especially strange that once they say ""Fine, go ahead and take the cargo, my life isn't work this"" they keep shooting...
+
+Well, at least they don't shoot for too much longer...
+
+I love pirating but my grand total haul tonight was somewhere around 10k, and I had to rack up a 16k bounty just to get that much. Sadly as things are... crime just doesn't pay (outside of missions).
+
+http://imgur.com/x9qT2yj
+
+My favorite Pirate Ships is, by no coincidence, the best bang-for-your-buck swiss army knife ship in the game. One could argue Asp, but those people have too many credits :)",EliteDangerous,Spent some time tonight breaking the law...,https://www.reddit.com/r/EliteDangerous/comments/3qnpp4/spent_some_time_tonight_breaking_the_law/
+54,2015-10-28 12:52:58+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3qjyxj/time_to_run_up_the_jolly_roger/,False,"Coming to a star system near you:
+
+http://coriolis.io/outfit/cobra_mk_iii/24A4A4D3D3A3A4C1b1b18180c000303456eC56q.Iw1-kA==.Aw1-kA==
+
+Not to worry, I'll be sure to give any CMDR's a chance to drop their cargo before I open fire :)
+
+I'll make a video showing how I do pirating if anyone's interested :)",EliteDangerous,Time to run up the Jolly Roger!,https://www.reddit.com/r/EliteDangerous/comments/3qjyxj/time_to_run_up_the_jolly_roger/
+55,2015-10-27 14:58:08+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3qfczo/lets_talk_about_smuggling/,False,"I love smuggling, every single chance I get.
+
+I see a smuggling mission and I take it. I don't care if it's 2,000 cr or 200,000 cr I will smuggle whatever you want wherever you want.
+
+Here's the problem I'm having: I don't really see many 'sandbox' ways to smuggle. I guess I could buy Imp slaves and take them over to Fed to sell them and be naughty, but there's more steady cash in just selling them between empire stations.
+
+So, with the recent legalization of Onionhead in the Empire, do you think we might see a new market for those of us with hidden compartments and special modifications inside our freighters, or are we going to remain bound to the randomly generated mission queue for hopes of a decent smuggling run?",EliteDangerous,Let's talk about smuggling,https://www.reddit.com/r/EliteDangerous/comments/3qfczo/lets_talk_about_smuggling/
+56,2015-10-26 03:43:43+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3q8igc/finally_saved_up_my_pennies_and_now/,False,"A thank you to all the slaves who made this possible.
+I'd like to thank the Emperor, and the Academy.
+
+http://imgur.com/0yofEUu?",EliteDangerous,Finally saved up my pennies and now...,https://www.reddit.com/r/EliteDangerous/comments/3q8igc/finally_saved_up_my_pennies_and_now/
+57,2015-10-24 01:48:04+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3pzdy5/arjuna_sold_out_of_clippers/,False,"I just swung by Arjung looking for the fabled 15m clipper and they were sold out.
+
+Happily Gunapa (Haber Orbital) has some in stock for ~15.5  no rank required :)",EliteDangerous,Arjuna sold out of clippers,https://www.reddit.com/r/EliteDangerous/comments/3pzdy5/arjuna_sold_out_of_clippers/
+58,2015-10-20 19:57:36+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3pjb9m/help_with_skype_for_business_monitoring/,False,"Does anyone know if there's a way to force message logging for Skype to Business to remain turned on, and not able to be purged by the end user? Is there a functionality in the administration console to remove that functionality and keep logging turned on?",sysadmin,Help with Skype for Business monitoring,https://www.reddit.com/r/sysadmin/comments/3pjb9m/help_with_skype_for_business_monitoring/
+59,2015-10-20 19:47:34+00:00,self.skype,https://www.reddit.com/r/skype/comments/3pj9m1/help_with_skype_for_business/,False,"Does anyone know if there's a way to force message logging for Skype to Business to remain turned on, and not able to be purged by the end user? Is there a functionality in the administration console to remove that functionality and keep logging turned on?",skype,Help with Skype for Business,https://www.reddit.com/r/skype/comments/3pj9m1/help_with_skype_for_business/
+60,2015-10-06 15:16:54+00:00,self.Eve,https://www.reddit.com/r/Eve/comments/3nps51/idea_rags_to_wrecks_competition/,False,"So I had this idea a little while ago and I was wondering if there would be any other interest in it. It would work completely on the honor system because there's no real way to enforce any rules except to disqualify someone for blatant cheating.
+
+&amp;nbsp;
+
+So the idea is this. Start with a fresh clone, a rookie ship, and no money at all. You have 8 hours to make as much money as possible and fit out the best possible combat ship for a FFA fight between all participants after the 8 hours. Last man standing gets the ""prize"" whatever it might be.
+
+Depending on where your skills are your ability to get money through different paths would determine what kind of ship you're able to fit for the final FFA at a pre-arranged location. 
+
+The idea is that you're going to start from complete scratch, no implants no money none of your ships or mods and you can't use any of the LP you've accumulated so far to scrounge together the best fighting vessel you can in a short time-frame, but like I said it would be completely on the honor system as I can't very well police how much people spend.
+
+&amp;nbsp;
+
+Well that's the idea anyways, let me know what you guys think or what changes you'd make to it to make it even more fun!",Eve,Idea: Rags to Wrecks competition,https://www.reddit.com/r/Eve/comments/3nps51/idea_rags_to_wrecks_competition/
+61,2015-10-05 12:18:51+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3nkf29/sword_kills_complete_come_on_armsday/,False,"Mayhem playlist made it exceptionally easy to get the rest of my sword kills, and a special shout-out to the titan that saw me coming towards him with a sword and proceeded to turn his back to me and crouch. Clearly he knows the struggle, thanks buddy ♥
+
+In a few more days me and my 240 spinmetals will be ready to welcome a new exotic into our family and I CAN'T WAIT!!!",DestinyTheGame,"Sword kills complete, come on Armsday!",https://www.reddit.com/r/DestinyTheGame/comments/3nkf29/sword_kills_complete_come_on_armsday/
+62,2015-10-02 13:35:42+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3n83zq/cloning_question_so_pcmanufacturer_doesnt_put/,False,"Im wondering if any of you have run into this and would be willing to give me a push in the right direction.
+
+&amp;nbsp;
+
+We order desktops from a manufacturer with Windows 7 installed. Now since it's 2015 and we're being all futuristic they have decided to just tattoo the activation in the BIOS. My concern is now that I don't have an activation key readily available to me in simple text format, I won't be able to activate any new devices I clone an image to.
+
+&amp;nbsp;
+
+
+In the good ol' days I would just change the activation key and enter the one on the sticker but these new fangled whatchamacallits have made it a bit trickier!
+
+Anyone found a way to get the key from the BIOS SLIC to activate on a cloned image of windows 7?",sysadmin,[Cloning question] So %pcManufacturer doesnt put stickers on windows 7 computers...,https://www.reddit.com/r/sysadmin/comments/3n83zq/cloning_question_so_pcmanufacturer_doesnt_put/
+63,2015-09-24 00:44:07+00:00,self.Fireteams,https://www.reddit.com/r/Fireteams/comments/3m512p/ps4_265_lf_help_getting_black_spindle/,False,I'm a 265 gunslinger hoping someone will be willing to help me grab spindle tonight. if so please message Wraith-Of-Hearts and thanks!,Fireteams,[ps4] 265 LF help getting Black Spindle!,https://www.reddit.com/r/Fireteams/comments/3m512p/ps4_265_lf_help_getting_black_spindle/
+64,2015-09-24 00:34:01+00:00,self.Fireteams,https://www.reddit.com/r/Fireteams/comments/3m4zp5/265_gunslinger_wants_black_spindle_plz_halp/,False,[removed],Fireteams,265 Gunslinger Wants Black Spindle plz halp!,https://www.reddit.com/r/Fireteams/comments/3m4zp5/265_gunslinger_wants_black_spindle_plz_halp/
+65,2015-09-23 14:13:34+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3m2gtp/thank_you_rngesus/,False,[removed],DestinyTheGame,Thank you RNGesus!,https://www.reddit.com/r/DestinyTheGame/comments/3m2gtp/thank_you_rngesus/
+66,2015-09-21 13:25:32+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3lsw9z/ttk_or_destiny_full_release/,False,"Bungieeeeee! you guys did it :) you made the game I wished I was playing all along! Thank you!
+
+I'm running around hitting things with my laser sword and stuff, finding new gear and not just grinding marks to buy stuff like before. You guys... &lt;3.
+
+Now please for the love of Oryx please don't spend the next year bending me over for $40 expansions every 4 months...
+
+Also Misters Fillion and North. Excellent job gents.",DestinyTheGame,"TTK, or Destiny Full Release",https://www.reddit.com/r/DestinyTheGame/comments/3lsw9z/ttk_or_destiny_full_release/
+67,2015-08-25 14:35:59+00:00,self.Eve,https://www.reddit.com/r/Eve/comments/3ic68a/i_expect_terror_i_expect_chaos/,,"Conflict In Providence.
+
+**“… I expect terror, I expect chaos”**
+
+By: Lostvision – Wingspan Delivery Services
+
+&amp;nbsp;
+
+As of 13:34 a manhunt is in full effect in Providence region following a series of terrorist attacks in the region by GoonSwarm in coordination with the Imperium. 
+
+&amp;nbsp;
+
+The total tally of damages is not yet known. The nature of the manhunt appears to be a group of local alliances making a concerted effort to halt the Imperium onslaught in the region, one source was quoted as saying:
+
+&amp;nbsp;
+
+**“…these idiots don't even have Intelligence I trained when going to war in Providence.”**
+
+&amp;nbsp;
+
+While an effort is being made to stop these harassing incursions into Providence space, Imperium forces are undaunted following a recent announcement from Imperium command marking the beginning of a coordinated assault on Providence’s forces. Imperium leadership stated: 
+
+&amp;nbsp;
+
+**“… I don’t expect there to be much of a defense fleet [in Providence].”**
+
+&amp;nbsp;
+
+Even if a defense force is marshaled, the distribution and diversity of the Imperium fleets may pose a fair challenge when the sheer numbers of a full Imperium invasion is underway. The current time table for the engagement should have the campaign wrapped up by the end of 28/08/2015, depending on the defense forces that Providence leadership can marshal.
+
+&amp;nbsp;
+
+When questioned about long term occupation and staging plans the invading leadership responded:
+
+&amp;nbsp;
+
+**“… We are living in Providence, this is offensive occupation… kill everything, ruin the game-play for the people who are in Providence, reduce indexes, blow up their hubs, TCUs, shut down Station Services. Just burn it to the ####ing ground.”**
+
+&amp;nbsp;
+
+
+The commander then continued to encourage his navy's commitment to a shock and awe strategy stating:
+
+&amp;nbsp;
+
+**“When you are sitting there in your system, and you’ve hacked everything, you’ve burned everything, you’ve trolled in local as much as you can and there’s nothing to do there, you go NEXT DOOR, and you find something to burn.”**
+
+&amp;nbsp;
+
+
+What is still unknown is that with the bulk of their forces committed to a campaign in Providence, if Imperium will be able to mount an effective defence of their own territory should a rival navy move in to strike while their forces are out of position.
+
+&amp;nbsp;
+
+Further action on this campaign is expected to begin later today.
+
+&amp;nbsp;
+
+Full audio of the public statement can be found at: https://www.themittani.com/news/imperium-invasion-providence-announced
+
+*edited at 16:00 to reflect more accurate alliance identities*",Eve,"""...I expect terror, I expect chaos"".",http://www.reddit.com/r/Eve/comments/3ic68a/i_expect_terror_i_expect_chaos/
+68,2015-08-25 14:30:09+00:00,self.test,https://www.reddit.com/r/test/comments/3ic5ep/test/,,"Conflict In Providence.
+
+**“… I expect terror, I expect chaos”** – The Mittani
+
+By: Lostvision – Wingspan Delivery Services
+
+&amp;nbsp;
+
+As of 13:34 a manhunt is in full effect in Providence region following a series of terrorist attacks in the region by GoonSwarm and Clusterfuck Coalition in coordination with the Imperium. 
+
+&amp;nbsp;
+
+The total tally of damages is not yet known. The nature of the manhunt appears to be a group of local alliances making a concerted effort to halt the Goon and CFC onslaught in the region, one source was quoted as saying:
+
+&amp;nbsp;
+
+**“…these idiots don't even have Intelligence I trained when going to war in Providence.”**
+
+&amp;nbsp;
+
+While an effort is being made to stop these harassing incursions into Providence space, Imperium forces are undaunted following a recent announcement from CFC and Imperium command marking the beginning of a coordinated assault on Providence’s forces. CFC leadership stated: 
+
+&amp;nbsp;
+
+**“… I don’t expect there to be much of a defense fleet [in Providence].”**
+
+&amp;nbsp;
+
+Even if a defense force is marshaled, the distribution and diversity of the Imperium fleets may pose a fair challenge when the sheer numbers of a full Imperium invasion is underway. The current time table for the engagement should have the campaign wrapped up by the end of 28/08/2015, depending on the defense forces that Providence leadership can marshal.
+
+&amp;nbsp;
+
+When questioned about long term occupation and staging plans CFC leadership responded:
+
+&amp;nbsp;
+
+**“… We are living in Providence, this is offensive occupation… kill everything, ruin the game-play for the people who are in Providence, reduce indexes, blow up their hubs, TCUs, shut down Station Services. Just burn it to the ####ing ground.”**
+
+&amp;nbsp;
+
+
+The commander then continued to encourage his navy's commitment to a shock and awe strategy stating:
+
+&amp;nbsp;
+
+**“When you are sitting there in your system, and you’ve hacked everything, you’ve burned everything, you’ve trolled in local as much as you can and there’s nothing to do there, you go NEXT DOOR, and you find something to burn.”**
+
+&amp;nbsp;
+
+
+What is still unknown is that with the bulk of their forces committed to a campaign in Providence, if CFC and the Imperium will be able to mount an effective defence of their own territory should a rival navy move in to strike while their forces are out of position.
+
+&amp;nbsp;
+
+Further action on this campaign is expected to begin later today.
+
+&amp;nbsp;
+
+Full audio of the public statement can be found at: https://www.themittani.com/news/imperium-invasion-providence-announced
+",test,test,http://www.reddit.com/r/test/comments/3ic5ep/test/
+69,2015-08-21 23:31:34+00:00,self.Fireteams,https://www.reddit.com/r/Fireteams/comments/3hwsi5/ps4_lf2m_nightfall/,,Leave psn or msg wraith-of-hearts for invite,Fireteams,[ps4] lf2m nightfall,http://www.reddit.com/r/Fireteams/comments/3hwsi5/ps4_lf2m_nightfall/
+70,2015-08-14 14:06:10+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3gz7fk/rngesus_loves_me_happy_gjallarhorn_day/,,"""RNGesus Loves Me.""
+
+&amp;nbsp;
+
+RNGesus loves me this I know,
+
+For Agent Xur tells me so,
+
+Exoticless 'til he came along,
+
+We were weak, he made us strong.
+
+&amp;nbsp;
+
+**Refrain**
+
+Yes, RNGesus loves me!
+
+Yes, RNGesus loves me!
+
+Yes, RNGesus loves me!
+
+Agent Xur tells me so.
+
+
+&amp;nbsp;
+
+RNGesus loves me this I know,
+
+He sold this horn first long ago,
+
+Later on he heard our plea,
+
+Sold Gjallarhorn again to thee.
+
+
+&amp;nbsp;
+
+**refrain**
+
+&amp;nbsp;
+
+Xur served the Nine well today,
+
+but before he sent us on our way,
+
+Gave us a wolfpack with which to pwn,
+
+and told us his will is not his own.
+
+
+&amp;nbsp;
+
+**refrain**",DestinyTheGame,"""RNGesus Loves Me"" - Happy Gjallarhorn Day!",http://www.reddit.com/r/DestinyTheGame/comments/3gz7fk/rngesus_loves_me_happy_gjallarhorn_day/
+71,2015-08-13 23:00:24+00:00,self.canada,https://www.reddit.com/r/canada/comments/3gwpzn/is_anyone_else_sick_of_our_democracy/,,"I can't be the only one who is fed up with this. One group gets 39% of the votes and makes 100% of the choices for 100% of the country. Even if it ends up being a minority government we can just slide right on passed the elected bodies and use the senate, who no one even checked off on a ballot, to override the decisions of officials elected in a horribly inefficient FPTP electoral system that in no way represents the will of the people!
+
+&amp;nbsp;
+
+Every few years we get to elect the next temporary 'dictator' who can choose what (s)he wants to do with the country for a few years, usually with little to no real trouble from the opposition. As it stands regardless of what the voters want, the Conservative majority senate can just overturn all of the bills that go through the elected body anyways.
+
+&amp;nbsp;
+
+There are far too many tools at the disposal of the powerful minority to completely subvert the will of the majority of Canadians. Once 1/3+1 of Canucks decide on something your vote means nothing for half of a decade.
+
+&amp;nbsp;
+
+I'm fed up with this unrepresentative, unfair, and  phony excuse for a democracy whose silly construction is a relic of a bygone age where most Canadians were not educated enough to make informed decisions about our desired direction for our country.
+
+&amp;nbsp;
+
+The world is changing at an impressive rate and we're still stuck in 1867 when we were a few scattered farming communities and 1 or 2 big cities. Is there any wonder why the younger generations feel that their votes are worthless? They aren't far from the truth.
+
+&amp;nbsp;
+
+It's time to move this country forward, with better structures to chose our leaders, make votes truly count with a Single Transferable Vote, and if we must keep the senate then we ensure that they too represent the will of the people and make it an elected body while limiting their power to influence policy.
+
+&amp;nbsp;
+
+I've had enough of it, but maybe I'm alone. If I am just scroll on by and ignore me, but if not... if you think we can do better then SAY SOMETHING! Tell your representatives! Tell them that to get your vote they have to prove they care about DEMOCRACY! That you don't want to be ruled by the minority of Canadians any longer! Tell them. (#myvoicematters)
+
+
+
+&amp;nbsp;
+
+http://politwitter.ca/page/canadian-politics-twitters/mp/house  &lt;Find your MP on twitter
+
+&amp;nbsp;
+
+http://www.parl.gc.ca/Parlinfo/Compilations/HouseOfCommons/MemberByPostalCode.aspx?Menu=HOC  &lt; Find your MP's information",canada,"Is anyone else sick of our ""democracy""?",http://www.reddit.com/r/canada/comments/3gwpzn/is_anyone_else_sick_of_our_democracy/
+72,2015-08-11 17:47:40+00:00,twitter.com,https://www.reddit.com/r/iamverysmart/comments/3gm9us/skipped_ap_language_and_literature_i_think/,,,iamverysmart,Skipped AP Language and Literature I think...,https://twitter.com/HistoryCarper/status/631155896572182529
+73,2015-08-10 22:56:17+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3gitdu/sorry_frontier_i_cant_give_you_more_support/,,"Because apparently the Canadian Dollar is worth, in British Pounds, about as much as bellybutton lint!
+
+I loaded up my cart with about as much as I felt comfortable with, ignoring the different monetary symbol by the prices and, upon checkout, found out that I might as well have been paying with a doodle of money scribbled hastily on a napkin with crayons.
+
+Sorry Frontier, I can't buy stuff from your online store until our economy recovers a bit...
+
+CAD$1.00 = BPD0.49
+
+:(",EliteDangerous,"Sorry Frontier, I can't give you more support.",http://www.reddit.com/r/EliteDangerous/comments/3gitdu/sorry_frontier_i_cant_give_you_more_support/
+74,2015-08-10 20:31:54+00:00,self.DestinyJournals,https://www.reddit.com/r/DestinyJournals/comments/3gia6w/taken_king_a_call_to_arms_poem/,,"In Cosmodrome the Fallen grew,
+
+Stronger than the towers knew,
+
+and you could hear the battle cry,
+
+They thirst for blood, their throats were dry.
+
+
+ &amp;nbsp;
+
+
+Bold stand the Hive, up on the Moon,
+
+Their 'Taken King' comes at us soon,
+
+Grieves, and hates, for his late son,
+
+The dreadnought comes, the war's begun.
+
+
+ &amp;nbsp;
+
+
+Rally to the light my brothers!
+
+Gather here, allied with others!
+
+Our strength is yours, be ignited!
+
+Retake our Moon that has been blighted!
+
+
+ &amp;nbsp;
+
+
+Atheon's beat, the Cabal are scared,
+
+Rasputin waits for us to dare
+
+Stare at the night and brave to think:
+
+'We shall not flinch, we shall not blink'
+
+*We shall not flinch, we shall not blink*",DestinyJournals,Taken King: A Call To Arms (Poem),http://www.reddit.com/r/DestinyJournals/comments/3gia6w/taken_king_a_call_to_arms_poem/
+75,2015-08-10 19:31:10+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3gi1up/taken_king_a_call_to_arms/,,"In Cosmodrome the Fallen grew,
+
+Stronger than the towers knew,
+
+and you could hear the battle cry,
+
+They thirst for blood, their throats were dry.
+
+&amp;nbsp;
+
+Bold stand the Hive, up on the Moon,
+
+Their 'Taken King' comes at us soon,
+
+Grieves, and hates, for his late son,
+
+The dreadnought comes, the war's begun.
+
+&amp;nbsp;
+
+Rally to the light my brothers!
+
+Gather here, allied with others!
+
+Our strength is yours, be ignited!
+
+Retake our Moon that has been blighted!
+
+&amp;nbsp;
+
+Atheon's beat, the Cabal are scared,
+
+Rasputin waits for us to dare
+
+Stare at the night and brave to think:
+
+'We shall not flinch, we shall not blink'
+
+*We shall not flinch, we shall not blink*
+
+&amp;nbsp;
+&amp;nbsp;
+
+edits 1-25: formatting.",DestinyTheGame,Taken King: A Call to Arms.,http://www.reddit.com/r/DestinyTheGame/comments/3gi1up/taken_king_a_call_to_arms/
+76,2015-08-10 18:39:21+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3ghuil/20_feels_bittersweet/,,"When my first Gjallarhorn dropped I was ecstatic. I hollered so loud my wife looked at me as if I had finally lost my mind and I finally felt like I had achieved the holy grail of Destiny, because I had. Shortly after that Mr. Xur sold me an Ice Breaker for the low low price of: all of my strange coins.
+
+However, from that point it meant that I was one of the ""Gjallarhorn guys"".
+
+No more MIDA Multitools or Hard Lights, I'd have to save my exotic slot for the Gjallarhorn. I can't be sword bearer because they need me to use Gjallarhorn. Better to let someone else use the relic. No more Hawkmoon or Bad Juju. I asked around if there was a way that I could use something other than G-horn and still be the most optimized hunter I could be and no one had any Super Good Advice for me.
+
+So I'm actually looking forward to the few best exotics being brought in line with the others, so I can give my Montecarlo and The Last Word an honest shot, but I also can't help feel like they aren't just nerfing my weapons, but nerfing me as well. Over time I've become one of the reliable heavy hitters, one of the wolf pack shooting, ice breaking, super powered pigeon holed guardians people have been able to rely on.
+
+It feels like Bungie has unlocked my cage, and now I'm afraid to leave my home.
+
+edit: Said Nighthawk, meant Hawkmoon... &gt;.&lt;",DestinyTheGame,2.0 feels bittersweet,http://www.reddit.com/r/DestinyTheGame/comments/3ghuil/20_feels_bittersweet/
+77,2015-08-07 13:43:05+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3g4nb5/interesting_article_on_balancing_games_while/,,"This article made me reconsider the way I think things should get balanced in Destiny and other games, I hadn't really thought about it this way before.
+
+http://www.forbes.com/sites/davidthier/2015/07/17/nerfing-gjallarhorn-and-thorn-is-the-exact-wrong-move-for-destiny/
+
+Specifically using mechanics to devalue specific weapons/abilities rather than just make it weaker/add more hit points.",DestinyTheGame,Interesting article on balancing games while keeping it fun.,http://www.reddit.com/r/DestinyTheGame/comments/3g4nb5/interesting_article_on_balancing_games_while/
+78,2015-07-20 23:12:06+00:00,i.imgur.com,https://www.reddit.com/r/EliteDangerous/comments/3e0778/share_your_lunar_landing_day_screenshots_with_me/,,,EliteDangerous,Share your Lunar Landing day screenshots with me!,http://i.imgur.com/VazBZoj.png
+79,2015-07-15 14:46:15+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3ddwxn/smuggling_tales_slaves_guns_and_drugs/,,"Below is a romanticized version of my first smuggling mission in Elite. I loved it so much I believe I've found a new calling.
+
+--------------------------------------------------------- 
+
+Earth UTC 02:32 - Met a contact in LTT 7488, member of some resistance faction pushing back against the Empire. He wanted my help smuggling out a handful of slaves before the Guard showed up, had a contact a few stars over willing to help relocate these souls.
+
+I'm no freedom fighter but if the money's right I'll carry just about anything, just about anywhere, regardless of who's in my way.
+
+Undocking with cargo is always more fun than the other direction, blasting through the security on the outside of the airlock faster than a bat out of hell and running the engines hotter than a red giant. Every ship in 100km runs a scan on you but they've got no chance to chase you down and by time they can yaw around and burn after you the FSD has already got you two systems over, and so it was for us today, me and my cargo are en route to the destination system.
+
+Earth UTC 03:12 - A detour to keep outside of civilization left us a little low on fuel. Scooping hydrogen from a star while running with no shields is always a little nerve wracking but we made it through, albeit with a slightly cooked port thruster.
+
+Now we sit, my cargo and I, 10,000m from the airlock slowly drifting to match the rotation of the station waiting for my heat sig to cool down. 
+
+Docking is, as it should be, the exact opposite of undocking. Where Undocking is a full throttle, high adrenaline filled version of flashing your arse at the law, docking is much more subtle. Cooling your signature down to below freezing, powering off every LED and slowly drifting as silent as a ghost.
+
+The rest is all up to the pilot.
+
+Thrusters online and a seven second burn puts us at 160m/s. All thrusters offline and we're sent drifting towards the dock.
+
+7000m - Enable sensors and comms array just long enough to get docking clearance from the station computer, cleared for landing at bay 14.
+
+6000m - Close thermal vents to hide any residual signature, and slowly melting my electronics in the process.
+
+2000m - Watch as a Security Force Eagle comes so close to us that I could read his insignia on the hull, and pray to any of the ancient gods who might be listening that he doesn't see the light from my HUD.
+
+500m - Thrusters online and sensor controls enabled, a few last second adjustments to correct my vector and I'm right on course with the airlock, I punch the throttle and blast through the last few meters while scraping the paint on the topside of my hull on the way through thanks to my damaged attitude thruster.
+
+I align myself with bay 14 and prep landing gear while venting heat from my ship into the atmosphere around me, a safe and secure landing.
+
+Unloading cargo is always more sketchy than bringing it on-board, no one knows who they can trust, whether or not it's a sting, and if I'm going to get paid in credits, or bullet wounds. We negotiate the price around a little and I decide to cut my contact a deal after one of his boys offers to fix the thruster I melted a couple of jumps back. 
+
+Before I leave they offer me a new job, it seems there's more people that need freeing in LTT 7488, but they don't want to run and hide like the lot I brought here. They want to stand and fight back, and I'm to bring the arsenal.",EliteDangerous,"Smuggling Tales: Slaves, Guns and Drugs",http://www.reddit.com/r/EliteDangerous/comments/3ddwxn/smuggling_tales_slaves_guns_and_drugs/
+80,2015-07-10 20:29:40+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3cu79f/im_really_trying_to_love_this_game/,,"The reason all my friends who played this game no longer do is because of the immense hurdles you have to jump through to try to do things together. The only feasible interaction between players was predator and prey. I understand PP tried to get people involved in factions to make you kind of work together for the greater good of your faction but wings still feel clunky and clans/guilds are nonexistent.
+
+Worse yet I don't even know what you'd do together if you COULD fleet up with 16 other pilots and storm around the galaxy since there aren't really any big goals to work towards other than the next big ship, or part/mod. It's not like by working together we can raise enough credits to run the %item name% market or blockade the %star name% system.
+
+Lack of kill-mail means it's fun to shoot pilots but really you have little knowledge of how much impact you had on the player.
+
+Basically this game feels like it was intended to be a single player game and that the online universe was just tacked on to make it modern and maybe this is the case.
+
+I'm going to keep trying to love this game, I recently became infatuated with FA off smuggling and I've got a decent bounty-hunting Cobra MK III in storage. 
+
+I'll see you in the sky.",EliteDangerous,I'm really trying to love this game...,http://www.reddit.com/r/EliteDangerous/comments/3cu79f/im_really_trying_to_love_this_game/
+81,2015-06-22 17:56:13+00:00,self.swtor,https://www.reddit.com/r/swtor/comments/3aqgh6/question_shadow_of_revan_quests/,,"From what I read online I believe I should expect a mission to begin the Shadow Of Revan quests when I reach level 55. I have not completed the Makeb story, or the one about the crazy sith on the lava planet.
+
+Are there prerequisite quests that I should complete before this becomes available to me?
+
+Is it possible the quests are already in my quest log and I'm just an idiot? (yes)
+
+Do you guys have any insight as to why I'm unable to pick up the quest in my ship right now?
+
+Thanks for your help, and see you out there.",swtor,[Question] Shadow of Revan quests,http://www.reddit.com/r/swtor/comments/3aqgh6/question_shadow_of_revan_quests/
+82,2015-06-17 22:45:46+00:00,imgur.com,https://www.reddit.com/r/gaming/comments/3a7x0s/how_i_imagine_indy_studios_get_started_on_steam/,,,gaming,How I imagine indy studios get started on Steam,http://imgur.com/knF5A7q
