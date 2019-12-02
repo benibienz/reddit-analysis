@@ -132,11 +132,62 @@ def plot_user_activity(username, label='suspicious'):
     plt.show()
 
 
+def plot_user_activity_distribution(filepath, label='suspicious'):
+    """
+    Plots distribution of posting acitivty for a given group of users
+    Args:
+        filepath: name of file
+        label: suspicious or normal
+    """
+
+    df = pd.read_csv(DATAPATH.joinpath(filepath))
+    print(df.describe())
+    num_subs = df['submissions'].values
+    num_comms = df['comments'].values
+    fig, axes = plt.subplots(2, 1, figsize=(12, 6))
+
+    bin_edges = range(0, max(num_subs) + 50, 50)
+    axes[0].hist(num_subs, bins=bin_edges)
+    axes[0].set_xticks(bin_edges)
+    axes[0].set_ylabel('Number of submissions')
+    axes[0].set_title(f'Submission activity distribution for {len(df)} {label} users')
+    bin_edges = range(0, max(num_comms) + 50, 50)
+    axes[1].hist(num_comms, bins=bin_edges)
+    axes[1].set_xticks(bin_edges)
+    axes[1].set_ylabel('Number of comments')
+    axes[1].set_title(f'Comment activity distribution for {len(df)} {label} users')
+
+    fig.tight_layout()
+    plt.show()
+
+
+def boxplot_outlier_elimination(filepath, col_names):
+    df = pd.read_csv(DATAPATH.joinpath(filepath), index_col=0)
+    IQRs = []
+    for col_name in col_names:
+        print(df.head())
+        Q1 = df[col_name].quantile(0.25)
+        Q3 = df[col_name].quantile(0.75)
+        IQRs.append(Q3 - Q1)
+
+    for i, col_name in enumerate(col_names):
+        IQR = IQRs[i]
+        # Filtering Values between Q1-1.5IQR and Q3+1.5IQR
+        df = df.query(f'(@Q1 - 1.5 * @IQR) <= {col_name} <= (@Q3 + 1.5 * @IQR)')
+        # df.join(filtered, rsuffix='_filtered').boxplot()
+        print(df.head(10))
+
+    df.to_csv(DATAPATH.joinpath(filepath[:-4] + '_filtered.csv'))
+
+
 if __name__ == '__main__':
     # plot_user_creation('asdr')
     # plot_user_activity(suspicious_account_usernames_with_posts)
     # normal_account_usernames = pd.read_csv(DATAPATH.joinpath('normal_accounts.csv'))['author'].values
     # plot_user_activity(normal_account_usernames, label='normal')
-    res = pickle.load(open(DATAPATH.joinpath('LR_w2v_results.p'), 'rb'))
 
-    plot_train_test_cm(*res, savepath=DATAPATH.joinpath('LR_w2v_results.png'))
+    # res = pickle.load(open(DATAPATH.joinpath('LR_w2v_results.p'), 'rb'))
+    # plot_train_test_cm(*res, savepath=DATAPATH.joinpath('LR_w2v_results.png'))
+    # plot_user_activity_distribution('normal_accounts2_filtered.csv', label='normal')
+    plot_user_activity_distribution('suspicious_accounts.csv', label='suspicious')
+    # boxplot_outlier_elimination('normal_accounts2.csv', col_names=['submissions', 'comments'])

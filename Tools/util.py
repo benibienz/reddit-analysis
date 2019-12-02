@@ -9,7 +9,7 @@ DATAPATH = pathlib.Path(__file__).parents[1].joinpath('Data')
 
 def load_user_posts(username, label='suspicious'):
     """ Loads submission and comment DataFrames for a given user in our database """
-    dir = 'SuspiciousAccounts' if label == 'suspicious' else 'NormalAccounts'
+    dir = 'SuspiciousAccounts' if label == 'suspicious' else 'NormalAccounts2'
     filepath = DATAPATH.joinpath(dir, username)
     if not os.path.exists(filepath):
         raise ValueError(f'No data for {username} in our database')

@@ -9,7 +9,7 @@ from dateutil import tz
 import pathlib
 
 from Data.suspicious_accounts import suspicious_account_usernames, suspicious_account_usernames_with_posts
-from Tools.util import random_date
+from Tools.util import random_date, load_user_posts
 
 DATAPATH = pathlib.Path(__file__).parents[1].joinpath('Data')
 
@@ -120,9 +120,11 @@ def sample_normal_users(num_users):
     Users sampled by choosing a submission at a random time in the timeframe of interest
     """
     metadata_dicts = []
-    already_sampled = set([s.lower() for s in pd.read_csv(DATAPATH.joinpath('All_Accounts.csv'))['accountName'].values])
+    already_sampled = set(
+        [s.lower() for s in pd.read_csv(DATAPATH.joinpath('All_Accounts.csv'))['accountName'].values] +
+        [s.lower() for s in pd.read_csv(DATAPATH.joinpath('normal_accounts2.csv'))['author'].values])
     try:
-        for _ in range(num_users):
+        for i in range(num_users):
             start_time = random_date(dt.datetime.utcfromtimestamp(START_EPOCH), dt.datetime.utcfromtimestamp(END_EPOCH))
             end_time = start_time + dt.timedelta(minutes=5)
             submission = next(API.search_submissions(limit=1,
@@ -132,14 +134,14 @@ def sample_normal_users(num_users):
             if metadata is None:
                 continue
             u = metadata['author'].lower()
-            if 'bot' not in u and 'auto' not in u and u not in already_sampled:
+            if 'bot' not in u and 'auto' not in u and 'network' not in u and u not in already_sampled:
                 metadata_dicts.append(metadata)
-                print(f'Saving user: {metadata["author"]}')
+                print(f'Saving user {i}: {metadata["author"]}')
             sleep(0.1)  # avoid hitting API limits
     except Exception as e:
         print(e)
     df = pd.DataFrame(data=metadata_dicts).set_index('author')
-    df.to_csv(DATAPATH.joinpath('normal_accounts2.csv'))
+    df.to_csv(DATAPATH.joinpath('normal_accounts3.csv'))
 
 
 def get_user_posts(username):
@@ -157,11 +159,28 @@ def get_user_posts(username):
         print(r.id)
 
 
+def add_post_numbers(filename):
+    df = pd.read_csv(DATAPATH.joinpath(filename))
+    users = df['author'].values
+    num_subs, num_comms = [], []
+    for u in users:
+        subs, comms = load_user_posts(u, label='suspicious')
+        num_subs.append(0 if subs is None else len(subs))
+        num_comms.append(0 if comms is None else len(comms))
+
+    df['submissions'] = num_subs
+    df['comments'] = num_comms
+    print(df)
+    df.to_csv(DATAPATH.joinpath(filename[:-4] + 'new' + '.csv'))
+
+
 if __name__ == '__main__':
     # get_user_posts('BlackToLive')
     # generate_user_post_database(suspicious_account_usernames_with_posts)
-    # sample_normal_users(2000)
-    users = pd.read_csv(DATAPATH.joinpath('normal_accounts2.csv'))['author'].values
+    # sample_normal_users(1000)
+    # users = pd.read_csv(DATAPATH.joinpath('normal_accounts3.csv'))['author'].values
     # print(users)
-    generate_user_post_database(users, 'NormalAccounts2')
+    # generate_user_post_database(users, 'NormalAccounts2')
+    add_post_numbers('suspicious_accounts.csv')
+    # pass
 
