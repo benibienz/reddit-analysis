@@ -1,0 +1,217 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-14 18:14:10+00:00,self.RealEstate,https://www.reddit.com/r/RealEstate/comments/5cxei7/mortgage_payment_missing_md_xpost_rlegaladvice/,False,"The short version: My first mortgage payment was never transferred from Company A to Company B along with the mortgage, so B thinks I'm 14 days late. The loan is about to be transferred again and I want to protect myself from any potential issues.
+
+---
+
+The longer version:
+
+I recently purchased a new home in Maryland.  My first payment was due on 11/1.  Because I was going to be travelling abroad at the end of October, I mailed my mortgage payment to Company A (who originated the loan) on 10/14.  My bank shows the check was cashed on 10/18.
+
+Around the time I made that payment, I received notice that my loan was being transferred to Company B, and that they would accept all payments made on/after 11/1, but that any payments before that date should be sent to Company A (which I did).
+
+Well it turns out that Company A never transferred my payment to Company B, so as far as Company B is concerned, I'm 14 days late.
+
+And now it turns out that Company B is transferring my mortgage to Company C effective 12/1.  I don't really mind another transfer, but I'm very concerned about how this missing payment will affect things.
+
+I have two questions:
+
+1. Is there anything I should do to protect myself from any negative actions caused by Company A not transferring that payment?
+2. Assuming Company A fails to locate or transfer that payment in a timely fashion, should I ""re-pay"" that payment directly to Company B or C, or should I keep waiting &amp; pushing for a resolution by Company A?
+
+---
+
+**Update:** https://www.reddit.com/r/RealEstate/comments/5cxei7/mortgage_payment_missing_md_xpost_rlegaladvice/da0f5vw/",RealEstate,Mortgage payment missing (MD) [x/post /r/legaladvice],https://www.reddit.com/r/RealEstate/comments/5cxei7/mortgage_payment_missing_md_xpost_rlegaladvice/
+1,2016-11-14 16:21:59+00:00,self.legaladvice,https://www.reddit.com/r/legaladvice/comments/5cwrn5/md_mortgage_payment_missing/,False,"The short version: My first mortgage payment was never transferred from Company A to Company B along with the mortgage, so B thinks I'm 14 days late. The loan is about to be transferred again and I want to protect myself from any potential issues.
+
+---
+
+The longer version:
+
+I recently purchased a new home in Maryland.  My first payment was due on 11/1.  Because I was going to be travelling abroad at the end of October, I mailed my mortgage payment to Company A (who originated the loan) on 10/14.  My bank shows the check was cashed on 10/18.
+
+Around the time I made that payment, I received notice that my loan was being transferred to Company B, and that they would accept all payments made on/after 11/1, but that any payments before that date should be sent to Company A (which I did).
+
+Well it turns out that Company A never transferred my payment to Company B, so as far as Company B is concerned, I'm 14 days late.
+
+And now it turns out that Company B is transferring my mortgage to Company C effective 12/1.  I don't really mind another transfer, but I'm very concerned about how this missing payment will affect things.
+
+I have two questions:
+
+1. Is there anything I should do to protect myself from any negative actions caused by Company A not transferring that payment?
+2. Assuming Company A fails to locate or transfer that payment in a timely fashion, should I ""re-pay"" that payment directly to Company B or C, or should I keep waiting &amp; pushing for a resolution by Company A?",legaladvice,[MD] - Mortgage Payment Missing,https://www.reddit.com/r/legaladvice/comments/5cwrn5/md_mortgage_payment_missing/
+2,2016-11-03 12:47:36+00:00,self.HomeImprovement,https://www.reddit.com/r/HomeImprovement/comments/5awi2k/slow_leak_in_tjoint_between_expansion_tank_and/,False,"I recently purchased my first home. During the home inspection, we found that a new water heater was installed without an expansion tank, so the seller had one installed.
+
+Fast-forward 6 weeks and I notice there's a leak - water is pooling on top of the water heater and there's obvious water marks on the floor: https://imgur.com/a/PsNvp
+
+I was able to trace the leak to top of the T-joint (by drying the pipe and feeling for where the wetness starts).
+
+So I guess I have a few questions:
+
+1. Should I find the person who installed this and ask them to fix it, or did they do a really terrible job and shouldn't be trusted?
+2. Is this something a non-handy person like myself can easily fix, or would you recommend getting a pro?  (I do have a home warranty with a $100 deductable that I wouldn't mind using if needed).
+3. Does the rusted pipe going into the heater need to be replaced?
+4. If a pro does come to fix this, what other questions should I ask them besides ""why did this happen""?
+
+Thanks in advance!",HomeImprovement,Slow leak in T-joint between expansion tank and water heater,https://www.reddit.com/r/HomeImprovement/comments/5awi2k/slow_leak_in_tjoint_between_expansion_tank_and/
+3,2016-10-27 14:16:47+00:00,nhl.com,https://www.reddit.com/r/hawwkey/comments/59o723/alex_ovechkin_flips_stick_to_young_fan_in_edmonton/,False,,hawwkey,Alex Ovechkin flips stick to young fan in Edmonton,https://www.nhl.com/news/alex-ovechkin-flips-stick-to-young-fan-in-edmonton/c-283135728?tid=281396148
+4,2016-10-10 19:43:00+00:00,github.com,https://www.reddit.com/r/PHP/comments/56txtv/dontbug_a_reversible_debugger_for_php/,False,,PHP,Dontbug - a reversible debugger for PHP,https://github.com/sidkshatriya/dontbug#dontbug-debugger
+5,2016-09-23 16:58:07+00:00,self.homeautomation,https://www.reddit.com/r/homeautomation/comments/545pyx/showing_zwave_sensor_status_in_home_assistant/,False,"I've finally got Home Assistant working with my Aeotec Z-Stick Gen 5.  I've installed a recessed door sensor, added it to the network, and when I open/close the door I see the following in the HA logs:
+
+    2016-09-23T16:41:18.463002273Z [32m16-09-23 12:41:18 INFO (Dummy-5) [homeassistant.core] Bus:Handling &lt;Event zwave.node_event[L]: object_id=__2, basic_level=255&gt;[0m
+    2016-09-23T16:41:21.611310181Z [32m16-09-23 12:41:21 INFO (Dummy-5) [homeassistant.core] Bus:Handling &lt;Event zwave.node_event[L]: object_id=__2, basic_level=0&gt;[0m
+
+So I know HA is detecting the sensor changes.  However, **I don't see the sensor listed as a device anywhere in HA** - there's no little widget to see the current state, and it doesn't appear in the States tab of the Developer Tools?
+
+Am I missing something here?  How do I make it appear as a regular ol' HA sensor?",homeautomation,Showing Z-Wave sensor status in Home Assistant,https://www.reddit.com/r/homeautomation/comments/545pyx/showing_zwave_sensor_status_in_home_assistant/
+6,2016-09-09 14:28:21+00:00,self.frederickmd,https://www.reddit.com/r/frederickmd/comments/51xo77/looking_for_a_contractor_to_run_ethernet_cables/,False,"I know running ethernet isn't that difficult, but I'm not handy at all so I'd like to hire someone (perhaps a general contractor, electrician, etc.) who can do the job properly.
+
+I've talked to a couple companies, but they wanted $300 per drop.  I'm hoping to get this done for $150-$200 per drop instead.
+
+**Does anyone have recommendations for a reliable contractor with decent prices that this type of work?**  (Preferably someone with positive online reviews)",frederickmd,Looking for a contractor to run ethernet cables in townhome,https://www.reddit.com/r/frederickmd/comments/51xo77/looking_for_a_contractor_to_run_ethernet_cables/
+7,2016-09-07 16:43:34+00:00,self.Showerthoughts,https://www.reddit.com/r/Showerthoughts/comments/51m76r/dr_pepper_has_23_flavors_so_does_that_mean_dr/,False,[removed],Showerthoughts,"Dr. Pepper has 23 flavors, so does that mean Dr. Pepper Cherry has 23 or 24 flavors?",https://www.reddit.com/r/Showerthoughts/comments/51m76r/dr_pepper_has_23_flavors_so_does_that_mean_dr/
+8,2016-09-01 15:40:58+00:00,externals.io,https://www.reddit.com/r/PHP/comments/50nt9j/php_710rc1_is_available_for_testing/,False,,PHP,PHP 7.1.0RC1 is available for testing,http://externals.io/thread/270
+9,2016-08-31 00:08:39+00:00,self.homelab,https://www.reddit.com/r/homelab/comments/50eaqg/advice_needed_on_creating_a_simple_docker_server/,False,"I hope this subreddit is a proper place to ask my question. (I also [posted to /r/docker](https://www.reddit.com/r/docker/comments/50e696/advice_needed_on_creating_a_simple_docker_server/).)
+
+---
+
+**TL;DR:** Is CoreOS + Shipyard overhead for a single Docker host running a few containers?
+
+---
+
+I'm currently running a few Docker hosts on my QNAP NAS:
+
+ - CrashPlan
+ - Confluence
+ - Home Assistant
+ - Mosquitto
+ - Let's Encrypt certbot (runs on cron)
+
+(I'll eventually be adding a couple others)
+
+The QNAP NAS has a really nice tool called Container Station  ([screenshot](https://www.qnap.com/solution/container_station/_images/carousel/3.png)) for managing containers, viewing the consoles of them, etc.  However, I'm maxing out the NAS's resources and would therefore like to create a separate box to house my Docker apps.
+
+The new box I'm building is fairly simple - it'll have an Intel Quad-Core Pentium N3700, 8 GB RAM, and a 500 GB SSD.  The problem is I don't know what software I'll need to get functionality similar to QNAP's, but I don't want to waste CPU/RAM unnecessarily.
+
+**Is CoreOS + Shipyard overkill for a single server like this?** I really just want a low-overhead OS and a decent web-based GUI to manage the containers.  If you think another distro (Ubuntu perhaps?) and a different web GUI would be better (and wouldn't hog too many resources) I'd love to hear your suggestions!
+
+Thanks in advance!
+
+
+
+",homelab,Advice needed on creating a simple Docker server similar to QNAP's Container Station [x-post /r/docker],https://www.reddit.com/r/homelab/comments/50eaqg/advice_needed_on_creating_a_simple_docker_server/
+10,2016-08-30 23:40:37+00:00,self.docker,https://www.reddit.com/r/docker/comments/50e696/advice_needed_on_creating_a_simple_docker_server/,False,"**TL;DR:** Is CoreOS + Shipyard overhead for a single Docker host running a few containers?
+
+---
+
+I'm currently running a few Docker hosts on my QNAP NAS:
+
+ - CrashPlan
+ - Confluence
+ - Home Assistant
+ - Mosquitto
+ - Let's Encrypt certbot (runs on cron)
+
+(I'll eventually be adding a couple others)
+
+The QNAP NAS has a really nice tool called Container Station  ([screenshot](https://www.qnap.com/solution/container_station/_images/carousel/3.png)) for managing containers, viewing the consoles of them, etc.  However, I'm maxing out the NAS's resources and would therefore like to create a separate box to house my Docker apps.
+
+The new box I'm building is fairly simple - it'll have an Intel Quad-Core Pentium N3700, 8 GB RAM, and a 500 GB SSD.  The problem is I don't know what software I'll need to get functionality similar to QNAP's, but I don't want to waste CPU/RAM unnecessarily.
+
+**Is CoreOS + Shipyard overkill for a single server like this?** I really just want a low-overhead OS and a decent web-based GUI to manage the containers.  If you think another distro (Ubuntu perhaps?) and a different web GUI would be better (and wouldn't hog too many resources) I'd love to hear your suggestions!
+
+Thanks in advance!",docker,Advice needed on creating a simple Docker server similar to QNAP's Container Station,https://www.reddit.com/r/docker/comments/50e696/advice_needed_on_creating_a_simple_docker_server/
+11,2016-07-13 12:24:59+00:00,pcgamer.com,https://www.reddit.com/r/Overwatch/comments/4smvlu/overwatchs_new_219_support_actually_reduces_field/,False,,Overwatch,Overwatch's new 21:9 support actually reduces field of view,http://www.pcgamer.com/overwatchs-new-219-support-actually-reduces-field-of-view/
+12,2016-07-08 14:25:56+00:00,racksburg.com,https://www.reddit.com/r/PHP/comments/4ruws3/choosing_an_http_status_code_stop_making_it_hard/,False,,PHP,Choosing an HTTP Status Code - Stop Making It Hard,http://racksburg.com/choosing-an-http-status-code/
+13,2016-06-12 00:11:36+00:00,kickstarter.com,https://www.reddit.com/r/esp8266/comments/4nnz0h/kickstarter_esp8266_programmer_by_domco/,False,,esp8266,"Kickstarter: ESP8266 Programmer by DomCo Electronics, Inc.",https://www.kickstarter.com/projects/2109711639/esp8266-programmer
+14,2016-05-12 20:01:17+00:00,blog.fullstory.com,https://www.reddit.com/r/webdev/comments/4j2jzf/code_reviews_arent_just_for_catching_bugs/,False,,webdev,Code reviews aren’t just for catching bugs,http://blog.fullstory.com/2016/04/code-reviews-arent-just-for-catching-bugs/
+15,2016-05-03 14:25:33+00:00,openssl.org,https://www.reddit.com/r/netsec/comments/4hnhmk/openssl_security_advisory_3rd_may_2016/,False,,netsec,OpenSSL Security Advisory [3rd May 2016],https://www.openssl.org/news/secadv/20160503.txt
+16,2016-05-02 16:44:28+00:00,teslamotors.com,https://www.reddit.com/r/technology/comments/4hiitd/putting_the_tesla_hepa_filter_and_bioweapon/,False,,technology,Putting the Tesla HEPA Filter and Bioweapon Defense Mode to the Test,https://www.teslamotors.com/blog/putting-tesla-hepa-filter-and-bioweapon-defense-mode-to-the-test
+17,2016-05-01 15:30:14+00:00,i.imgur.com,https://www.reddit.com/r/orlybooks/comments/4h9j9q/working_in_production/,False,,orlybooks,Working In Production,http://i.imgur.com/fHtdp9N.png
+18,2016-05-01 15:24:01+00:00,i.imgur.com,https://www.reddit.com/r/orlybooks/comments/4h9i6f/refactoring_applications/,False,,orlybooks,Refactoring Applications,http://i.imgur.com/IsGmJpJ.png
+19,2016-05-01 15:12:33+00:00,i.imgur.com,https://www.reddit.com/r/orlybooks/comments/4h9g38/concurrent_programming/,False,,orlybooks,Concurrent Programming,http://i.imgur.com/cwhyqZp.png
+20,2016-04-30 18:34:47+00:00,hackster.io,https://www.reddit.com/r/raspberry_pi/comments/4h5ln4/multidashboard_display_with_a_pi_3_and/,False,,raspberry_pi,Multi-dashboard display with a Pi 3 and Arduino-based controller,https://www.hackster.io/colinodell/multi-dashboard-display-with-arduino-controller-efb4a5
+21,2016-04-30 18:20:56+00:00,i.imgur.com,https://www.reddit.com/r/orlybooks/comments/4h5jmf/practical_testing/,False,,orlybooks,Practical Testing,http://i.imgur.com/h9hf9lJ.jpg
+22,2016-04-29 17:51:26+00:00,i.imgur.com,https://www.reddit.com/r/ProgrammerHumor/comments/4h0lr5/practical_testing/,False,,ProgrammerHumor,Practical Testing,http://i.imgur.com/h9hf9lJ.jpg
+23,2016-04-22 23:46:22+00:00,self.AskElectronics,https://www.reddit.com/r/AskElectronics/comments/4g15at/how_to_boost_33v_serial_output_to_5v/,False,"I've got a Particle Photon running at 3.3v and [an LCD screen](https://www.adafruit.com/products/782) which runs at 5v and accepts data via serial.
+
+The Photon does have a 5v pin I can use to successfully power the display, but when I transmit data nothing happens - I suspect it's because the display wants 5v output for the serial data.
+
+**How can I go about boosting this signal from 3.3v to 5v?**  Can I do this through some combination of resistors, transistors, and diodes?  Or will I really need to purchase some kind of level-shifting chip?
+
+**Edit:** Thanks for all the help!  [As I commented here](https://www.reddit.com/r/AskElectronics/comments/4g15at/how_to_boost_33v_serial_output_to_5v/d2drb0h), it turns out the sample code I was given had a bug - fixed that and everything worked just fine, no level shifting needed.",AskElectronics,How to boost 3.3v serial output to 5v?,https://www.reddit.com/r/AskElectronics/comments/4g15at/how_to_boost_33v_serial_output_to_5v/
+24,2016-04-21 16:05:02+00:00,drupal.org,https://www.reddit.com/r/PHP/comments/4ftnl8/drupal_810_is_now_available/,False,,PHP,Drupal 8.1.0 is now available,https://www.drupal.org/blog/drupal-8-1-0
+25,2016-03-24 18:08:12+00:00,3v4l.org,https://www.reddit.com/r/PHP/comments/4bsrf3/you_can_use_emojis_to_name_your_variables_and/,False,,PHP,You can use emojis to name your variables and functions,https://3v4l.org/EPd61
+26,2016-03-24 12:44:13+00:00,news.php.net,https://www.reddit.com/r/PHP/comments/4bre0k/rfcvote_var_deprecation/,False,,PHP,"[RFC][VOTE] ""var"" deprecation",http://news.php.net/php.internals/91889
+27,2016-03-19 04:36:38+00:00,self.raspberry_pi,https://www.reddit.com/r/raspberry_pi/comments/4b1toa/psa_remove_your_micro_sd_card_before_putting_your/,False,"Some cases don't have enough room to install the Pi with the card inserted.  Your initial reaction might be to push a little harder. **DON'T!!**  You might end up creating a hairline fracture in the card  (breaking it) which then causes the  slot to short-circuit and overheat immediately.
+
+Yeah, I found this out the hard way.
+
+(My Pi seems okay, but the SD card is toast.)",raspberry_pi,PSA: Remove your micro SD card before putting your new Raspberry Pi 3 in a case,https://www.reddit.com/r/raspberry_pi/comments/4b1toa/psa_remove_your_micro_sd_card_before_putting_your/
+28,2016-03-10 17:20:20+00:00,wiki.php.net,https://www.reddit.com/r/PHP/comments/49uer7/rfc_deprecating_var_in_favor_of_public/,False,,PHP,"RFC: Deprecating ""var"" in favor of ""public""",https://wiki.php.net/rfc/var_deprecation
+29,2016-03-03 14:26:01+00:00,secure.php.net,https://www.reddit.com/r/PHP/comments/48s6fk/php_704_has_been_released_contains_several/,False,,PHP,PHP 7.0.4 has been released; contains several security fixes,https://secure.php.net/ChangeLog-7.php#7.0.4
+30,2016-03-02 15:53:50+00:00,blog.jetbrains.com,https://www.reddit.com/r/PHP/comments/48mpq1/phpstorm_11_public_preview/,False,,PHP,PhpStorm 11 Public Preview,http://blog.jetbrains.com/phpstorm/2016/03/phpstorm-11-public-preview/
+31,2016-02-17 20:15:29+00:00,github.com,https://www.reddit.com/r/webdev/comments/46apug/github_has_introduced_issue_and_pull_request/,False,,webdev,Github has introduced issue and pull request templates,https://github.com/blog/2111-issue-and-pull-request-templates
+32,2016-02-14 14:39:36+00:00,self.Showerthoughts,https://www.reddit.com/r/Showerthoughts/comments/45qy82/if_my_house_uses_electric_heat_wouldnt_that_mean/,False,"Most of the energy consumed by incandescent bulbs is given off as heat.  But if I'm already using electric heat, then what's the difference between those KW being converted to heat through my heater versus a lightbulb?",Showerthoughts,"If my house uses electric heat, wouldn't that mean incandescent lightbulbs are actually 100% energy efficient?",https://www.reddit.com/r/Showerthoughts/comments/45qy82/if_my_house_uses_electric_heat_wouldnt_that_mean/
+33,2016-02-10 17:53:50+00:00,phpversions.info,https://www.reddit.com/r/PHP/comments/453z4v/phpversionsinfo_now_highlights_php_versions_with/,False,,PHP,phpversions.info now highlights PHP versions with known security issues,http://phpversions.info/
+34,2016-02-09 19:46:03+00:00,self.PickAnAndroidForMe,https://www.reddit.com/r/PickAnAndroidForMe/comments/44yij3/nexus_5x_galaxy_s7_or_something_else/,False,"I currently have a Galaxy S4 and am looking for something that's roughly the same size (no phablets).  Other than size, the phone I would should ideally have:
+
+- At least 32GB storage
+- A great camera
+- Android 6.0
+- Fingerprint scanner
+- Verizon compatibility
+
+I don't game or stream often, so I don't need the best performance or screen, but it should still look good and perform well.  Primary usages will be:
+
+- Checking email
+- Surfing the web / Reddit
+- Navigation
+- Podcast listening
+- Taking pictures
+
+Would the Nexus 5X be a good fit?  Are there any compelling reasons why I should wait for the S7 instead, even though it's more than I need and costs more?  Or is there perhaps a different phone I should consider (like the G4)?",PickAnAndroidForMe,"Nexus 5X, Galaxy S7, or something else?",https://www.reddit.com/r/PickAnAndroidForMe/comments/44yij3/nexus_5x_galaxy_s7_or_something_else/
+35,2016-01-22 18:49:15+00:00,tek.phparch.com,https://www.reddit.com/r/PHP/comments/426xwa/phptek_2016_schedule_and_speakers_have_been/,False,,PHP,php[tek] 2016 schedule and speakers have been announced,https://tek.phparch.com/schedule/
+36,2016-01-10 02:24:36+00:00,imgur.com,https://www.reddit.com/r/cats/comments/409f67/jacoby_watching_me_watching_hockey/,False,,cats,Jacoby watching me watching hockey,http://imgur.com/qTYslqZ
+37,2015-12-04 12:07:36+00:00,colinodell.com,https://www.reddit.com/r/PHP/comments/3veogy/installing_php_700_on_ubuntu_debian_centos_rhel/,False,,PHP,"Installing PHP 7.0.0 on Ubuntu, Debian, CentOS, RHEL, OS X, and Windows",http://www.colinodell.com/blog/2015-12/installing-php-7-0-0
+38,2015-12-03 02:46:35+00:00,colinodell.com,https://www.reddit.com/r/PHP/comments/3v8av1/five_lesserknown_features_of_php_7/,False,,PHP,Five Lesser-Known Features of PHP 7,http://www.colinodell.com/blog/2015-12/five-lesser-known-features-of-php-7
+39,2015-12-01 14:11:25+00:00,github.com,https://www.reddit.com/r/PHP/comments/3uzykd/the_php_700_release_has_been_tagged/,False,,PHP,The PHP 7.0.0 release has been tagged,https://github.com/php/php-src/releases/tag/php-7.0.0
+40,2015-11-30 21:56:08+00:00,symfony.com,https://www.reddit.com/r/PHP/comments/3uwsdd/symfony_300_released/,False,,PHP,Symfony 3.0.0 released,http://symfony.com/blog/symfony-3-0-0-released
+41,2015-11-29 14:08:34+00:00,gse-compliance.blogspot.com,https://www.reddit.com/r/netsec/comments/3upot2/oral_b_toothbrush_security_advisory/,False,,netsec,Oral B toothbrush security advisory,http://gse-compliance.blogspot.com/2008/06/craig-wright-security-advisory-0002.html
+42,2015-11-15 16:07:03+00:00,self.PHP,https://www.reddit.com/r/PHP/comments/3swn5x/my_php_7_upgrade_guide_ebook_is_essentially/,False,"Hey all,
+
+I've spent several months writing a comprehensive e-book on PHP 7 and all of its features &amp; changes.  Writing my first book was much harder than I thought, but I'm quite pleased with the result. The book is pretty much done - I'm just waiting for the PHP 7 stable release before adding the relevant installation instructions.
+
+If you're interested in supporting my work and learning about PHP 7 in depth, you can read the free sample or grab a discounted copy here:
+
+**https://leanpub.com/php7/c/reddit**
+
+I'd love to hear your feedback on it!
+
+(If you're a student who'd like a copy but can't really afford it, just PM me I'll hook you up.)
+
+Lastly, I'd just like to thank everyone here (and the entire PHP community) for all of your help and encouragement over the years.  There's no way I'd have the knowledge and experience to undertake this effort without everything I've learned from you.  **This book simply wouldn't be possible without you.**
+
+---
+
+**Edit:** Wow, I am overwhelmed by all the positive support!  Thank you all so much :)",PHP,"My ""PHP 7 Upgrade Guide"" e-book is (essentially) complete!",https://www.reddit.com/r/PHP/comments/3swn5x/my_php_7_upgrade_guide_ebook_is_essentially/
+43,2015-10-19 03:34:07+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/3pb66h/what_nonfree_software_is_totally_worth_the_money/,False,,AskReddit,What non-free software is totally worth the money?,https://www.reddit.com/r/AskReddit/comments/3pb66h/what_nonfree_software_is_totally_worth_the_money/
+44,2015-10-05 23:41:42+00:00,self.legaladvice,https://www.reddit.com/r/legaladvice/comments/3nn1nl/false_noise_complaints_from_neighbors_md/,False,"My fiance and I live in the top floor of a 4 story apartment building in Maryland.  We've just received a second noise complaint from the property manager alleging that there's ""loud arguing, stomping, and banging"" coming from our unit late at night.
+
+The first complaint alleged that this happened on a night when both my fiance and I were out-of-state.  Upon receiving the letter, we immediately went to the leasing office and gave our side of the story.  We promised to be more considerate anyway, and asked that if anyone had any complaints to come knock on our door and get them resolved.  We haven't received a single knock or note on our door.
+
+Even though the alleged noises definitely aren't coming from our unit, we've taken steps to be even quieter than usual, but that doesn't seem to have helped us - we've got a second complaint here threatening eviction.
+
+We feel this is either a case of mistaken identity or malicious bullying by some grumpy neighbor.
+
+**What can we possibly do in this situation to exonorate ourselves, or at least make the complaints stop?**  I feel so helpless here...",legaladvice,False noise complaints from neighbors [MD],https://www.reddit.com/r/legaladvice/comments/3nn1nl/false_noise_complaints_from_neighbors_md/
+45,2015-10-05 19:37:31+00:00,self.askscience,https://www.reddit.com/r/askscience/comments/3nm2rp/why_doesnt_the_weather_reach_equilibrium/,False,"Shouldn't things eventually settle into a stable weather pattern?
+
+Or, put another way, why does the weather change in different, unpredictable ways?",askscience,Why doesn't the weather reach equilibrium?,https://www.reddit.com/r/askscience/comments/3nm2rp/why_doesnt_the_weather_reach_equilibrium/
+46,2015-09-22 15:17:40+00:00,unihabitat.jp,https://www.reddit.com/r/shutupandtakemymoney/comments/3ly0vs/mewgaroo_hoodie_lets_you_carry_your_cat_wherever/,False,,shutupandtakemymoney,Mewgaroo Hoodie lets you carry your cat wherever you go,http://www.unihabitat.jp/products/upa32/
+47,2015-08-26 17:43:43+00:00,abdullin.com,https://www.reddit.com/r/programming/comments/3ihq4z/erlang_basics/,,,programming,Erlang Basics,https://abdullin.com/erlang/basics/
+48,2015-08-26 17:39:23+00:00,thenextweb.com,https://www.reddit.com/r/technology/comments/3ihph8/facebooks_m_is_a_sirilike_personal_assistant_for/,,,technology,Facebook’s M is a Siri-like personal assistant for Messenger,http://thenextweb.com/facebook/2015/08/26/facebook-is-testing-m-a-siri-like-personal-assistant-for-messenger/
+49,2015-08-24 14:48:28+00:00,magento.stackexchange.com,https://www.reddit.com/r/Magento/comments/3i7h45/the_magento_stackexchange_2015_community/,,,Magento,The Magento StackExchange 2015 community moderator election is underway — nominations now being accepted,https://magento.stackexchange.com/election
+50,2015-08-24 12:51:09+00:00,techcrunch.com,https://www.reddit.com/r/technology/comments/3i72yx/farewell_to_flash_what_it_means_for_digital_video/,,,technology,Farewell To Flash: What It Means For Digital Video Publishers,http://techcrunch.com/2015/08/23/farewell-to-flash-what-it-means-for-digital-video-publishers/
+51,2015-08-20 22:24:20+00:00,phproundtable.com,https://www.reddit.com/r/PHP/comments/3hry2i/php_roundtable_episode_028_the_alcoholic_unfit/,,,PHP,PHP Roundtable Episode 028: The Alcoholic &amp; Unfit PHP Culture,https://www.phproundtable.com/episode/the-alcoholic-and-unfit-php-culture
+52,2015-07-09 14:02:43+00:00,self.Ubuntu,https://www.reddit.com/r/Ubuntu/comments/3coe31/any_word_on_whether_ubuntu_is_affected_by_the/,,"I found [this article](https://ma.ttias.be/openssl-cve-2015-1793-man-middle-attack/) claiming that Ubuntu is probably okay, but I'd like more-concrete confirmation.",Ubuntu,Any word on whether Ubuntu is affected by the latest OpenSSL vulnerability (CVE-2015-1793)?,http://www.reddit.com/r/Ubuntu/comments/3coe31/any_word_on_whether_ubuntu_is_affected_by_the/
+53,2015-06-24 12:47:56+00:00,blog.codeship.com,https://www.reddit.com/r/programming/comments/3ay39d/discovering_the_computer_science_behind_postgres/,,,programming,Discovering the Computer Science Behind Postgres Indexes,https://blog.codeship.com/discovering-computer-science-behind-postgres-indexes/

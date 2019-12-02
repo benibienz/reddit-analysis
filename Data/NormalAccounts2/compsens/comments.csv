@@ -1,0 +1,49 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Roughly:
+
+Yes, for the first case, it is equivalent to taking a subset of the rows of the Fourier matrix (F(x)  is really Fx where F is the fourier operator) so this operation is akin to S F x where S is a binary mask matrix.
+
+For the second case, you could also do what you propose but it would work well if the x is sparse in the fourier space -i.e if Fx is sparse -
+
+M can be a random gaussian matrix. F could be any wavelet dictionary. What is important initally is for x to be sparse in the space of F -i.e Fx is sparse-
+
+Hope this helps.",2016-08-26 20:07:21+00:00,d6xylgz,1.0,t3_4yie5a,635718.0,CompressiveSensing
+1,"I haven't seen people using the A* algorithm. Rather from its inception, people have been using convex optimization. Here is a non exhaustive list of solvers that do perform the image reconstruction given compressive measurements: https://sites.google.com/site/igorcarron2/cs#reconstruction  Hope this helps.",2016-08-26 08:32:05+00:00,d6x9oge,1.0,t3_4xgk7g,1154779.0,CompressiveSensing
+2,"does your friend have a DMD ? or something that can perform the multiplexing ?
+",2016-08-15 19:00:35+00:00,d6inrdu,1.0,t3_4xgk7g,242089.0,CompressiveSensing
+3,"Thanks dharma-1,
+
+Yes, another proof of concept was tested successfully on our breadboard. The very promising results will be unveiled later this Summer. And, yes, we are aware of Nando de Freitas et al's very nice paper.
+
+Igor.",2016-06-28 14:56:06+00:00,d4r90nc,2.0,t1_d4r63r4,4581.0,MachineLearning
+4,"Hi,
+
+We are building a hardware technology that computes, at first, random projections. The technology can go very fast and does not need the complexity of memory storage. Furthermore, operations can be performed at a fraction of the typical power consumption of current systems. 
+
+A first Proof Of Concept (POC) was put on ArXiv a while back: https://arxiv.org/abs/1510.06664
+
+Igor.
+PS: Thanks for the mention pierrelux !",2016-06-28 10:12:14+00:00,d4r13cx,2.0,t1_d4qwznh,13908.0,MachineLearning
+5,"If they do make it available, don't hesitate to let me know and I will feature it on Nuit Blanche. Thanks.
+",2016-05-27 16:42:00+00:00,d3lxm7w,3.0,t1_d3l6q2p,57534.0,CompressiveSensing
+6,"No, it never was released in the open as far as I know. I would directly ask the group leader: https://www.ualberta.ca/~msacchi/",2016-05-26 14:42:50+00:00,d3kgn1v,1.0,t3_4knqix,266501.0,CompressiveSensing
+7,"You say that you are interested in ""multiple measurement vector (B = AX, rather than b = Ax) case."" but do you care whether B is row sparse or has some other structure ?
+",2016-03-22 16:51:03+00:00,d19beti,1.0,t3_49rmbm,1086977.0,CompressiveSensing
+8,it was trained on the entire dataset as far as I know. ,2016-01-17 22:01:47+00:00,cz1youv,3.0,t1_cz1eqo8,41343.0,MachineLearning
+9,Good question. I'll ask.,2016-01-16 15:41:52+00:00,cz0fw1e,2.0,t1_cz0c8bo,9892.0,MachineLearning
+10,I like it :-),2016-01-16 00:41:05+00:00,cyzvyje,,t1_cynex5z,,CompressiveSensing
+11,here is a recent one: http://arxiv.org/abs/1511.03890 that ought to provide earlier references.,2015-11-18 06:23:25+00:00,cx49r1y,1.0,t3_3rx35s,904097.0,CompressiveSensing
+12,"What is your definition of ""published online"" ? a link is a link, is there another way to do this ?",2015-10-31 19:01:28+00:00,cwjp1g2,2.0,t1_cwidzxl,101850.0,MachineLearning
+13,The blog post also contains the link to the C++ and R implementation which curiously is not listed in the paper.,2015-08-22 10:33:57+00:00,cuboiki,2.0,t1_cub7jpu,42627.0,MachineLearning
+14,"these phase transitions occur in many matrix factorizations used in ML. The point of the entry was to say that one of these factorization (sparse clustering) is known to have these phase transitions too and that whatever Reddit has to do, they  ought to make sure that the right measure is used to see if they are making progress. 
+
+No statistician wrote that blog entry.  ",2015-07-16 09:21:11+00:00,ct56iho,2.0,t1_ct53wgz,9424.0,MachineLearning
+15,"great ! I add your page to the highly technical page list: http://nuit-blanche.blogspot.com/p/reference-page.html
+
+also some of my blog entries on random forests can be found under this tag:
+http://nuit-blanche.blogspot.com/search/label/RandomForest",2015-07-15 13:05:03+00:00,ct43583,1.0,t3_3db8y3,51352.0,MachineLearning
+16,Third point is great. Where can I find something on the first one ?,2015-07-07 15:49:22+00:00,csv2cyh,2.0,t1_csv1o06,1063.0,MachineLearning
+17,No. The only requirement is that it must be elements sampled from gaussian with mean 0 and variance 1/n.,2015-06-26 15:11:10+00:00,csjgmcr,2.0,t1_csjedst,3707.0,MachineLearning
+18,It is now available on the same blog entry (I have added the time at which speakers did their presentations). http://nuit-blanche.blogspot.com/2015/06/tonight-paris-machine-learning-meetup.html,2015-06-18 09:47:31+00:00,csajj2i,4.0,t1_cs9jyy0,70528.0,MachineLearning
+19,"more info here: http://www.meetup.com/Paris-Machine-learning-applications-group/events/219637693/
+you need to register.",2015-06-17 10:58:12+00:00,cs9fbng,2.0,t1_cs9e8jk,4489.0,MachineLearning

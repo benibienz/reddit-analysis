@@ -1,0 +1,267 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Can you verify which direction you turn to make the spread wider or narrower, and also, which of these is preferred to kill a bubble and those inside?",2016-11-18 15:19:27+00:00,da5pr2w,2.0,t1_da4cnu0,82193.0,CruciblePlaybook
+1,"No, the builder assumes you'll level the gear. Otherwise you've no chance of achieving T11/12 so there's no point.",2016-11-18 01:01:19+00:00,da50yxi,1.0,t3_5d7bht,160317.0,DestinyItemManager
+2,"You are wrong, that is not how this probability is calculated.  
+To illustrate: If your math were correct, say that we were instead concerned with who is in the top 30%. Is there a 180% chance of having a top 30% player on the other team? No, that is nonsense.  
+To illustrate further, the reason it is calculated the way that I laid out:  We want to know the chance that at least one person in the lobby is a 1%er. That is the same as wanting to know the chance that NOT every person is NOT a 1%er. The chance that every person is NOT a 1%er is .99 x .99 x .99 x .99 x .99 x .99 = .9414 (note that we are not adding .99 + .99 ... that is not how probabilities are combined). Then, the chance of NOT that is 1 - .9414 = .0586 or 5.86%
+He did the incorrect calculation and got close to the correct answer by chance.  
+",2016-11-16 22:15:42+00:00,da3d89h,6.0,t1_da34jwm,10488.0,DestinyTheGame
+3,"You may be rounding, which is great. It appears though that you are instead multiplying 1% chances by the number of slots available. This is not the correct way to determine the chance of having a 1%er in a lobby or on a team.  
+You need to take the inverse probability, raise it to the x power (where x is the number of samples, or slots on a team/lobby in this case) and then take the inverse again.  
+So, the chance of having a 1%er on the other team is 1 - (.99)^6 = 5.85%  
+The chance of one in your lobby (assuming you are not one, as then the chance is 100%) is 1 - (.99)^11 = 10.47%  
+Since we're talking about small sample and small chances, the answer is similar, but with bigger samples or chances closer to 50%, you'd get much different answers.",2016-11-16 18:41:40+00:00,da32m3k,4.0,t1_da2vpyh,8289.0,DestinyTheGame
+4,broodax-,2016-11-16 14:31:36+00:00,da2qqed,1.0,t3_5d9gfq,69.0,Fireteams
+5,"400 titan  
+psn: broodax-",2016-11-16 04:33:27+00:00,da2ciz7,1.0,t3_5d7bha,252.0,Fireteams
+6,"400 titan w/2 previous CM clears  
+psn: broodax-",2016-11-11 15:31:15+00:00,d9vx0fi,1.0,t3_5cf11g,137.0,Fireteams
+7,"You absolutely need to know where each empowered person is and that all three spots are covered every teleport. If you miss a single slam or Supercharged, it's a wipe.  
+It's doable, but if you can't communicate, you are expecting a group to always look at your guardian to see if you're empowered, guess where you're going to go, and then adjust.",2016-11-11 14:27:36+00:00,d9vufqz,3.0,t1_d9vuccx,154.0,Fireteams
+8,"Ugh... I am not sure you can successfully do CM without a Mic. I'm not saying it's not possible - I actually did my first run with a deaf guardian in the group - but it makes it so much more difficult it's not even fun anymore.  
+Seriously... get a mic. Good luck to you.",2016-11-11 14:22:27+00:00,d9vu8y7,1.0,t3_5ceozb,183.0,Fireteams
+9,"have 5 looking for 1 if you want, psn: broodax-  
+or post yours and i'll invite",2016-11-10 16:05:43+00:00,d9ugb93,1.0,t3_5c8kz8,140.0,Fireteams
+10,"psn:  broodax-  
+know strat well, just need aksis to not misadventure people. 400 lock.",2016-11-08 19:18:07+00:00,d9rhddp,1.0,t3_5bv9ts,102.0,Fireteams
+11,"SGA: When he says Inside, he means Front. When he says Outside, he means Back. Took me a while to understand when I watched the video what the heck he was talking about.
+  
+(slight j/k - great video, watched it and would have had it work if people didn't get misadventured slamming Aksis)",2016-11-08 17:49:11+00:00,d9rcnx1,1.0,t3_5btcaj,13629.0,DestinyTheGame
+12,that is not a psn,2016-11-08 17:39:40+00:00,d9rc5fj,2.0,t1_d9rc3sh,51.0,Fireteams
+13,"invited you, have 5",2016-11-08 17:37:08+00:00,d9rc0i3,1.0,t3_5buimy,1100.0,Fireteams
+14,"I have a brain but no thumbs.  
+psn: broodax-",2016-11-08 06:20:03+00:00,d9qr7kr,1.0,t3_5brnxj,256.0,Fireteams
+15,"It probably isn't coded to allow this - but wouldn't it be great if engrams decrypted as Year 2 versions at the Tower, but Year 3 versions at the Temple?  
+You could even do year 1 at the Tower, Year 2 at the Reef, Year 3 at the Temple if you wanted to add year one items back to the pool.",2016-11-07 16:13:24+00:00,d9polk3,1.0,t3_5bl9ij,24693.0,DestinyTheGame
+16,"400 hunter - have done it twice already  
+psn: broodax-",2016-11-02 17:20:09+00:00,d9im06h,1.0,t3_5ar6u1,118.0,Fireteams
+17,"400 hunter  - have done it twice already
+psn: broodax-",2016-11-02 17:15:07+00:00,d9ilqgg,1.0,t3_5ar5s2,90.0,Fireteams
+18,"When throwing bombs, you need to aim extremely low. The throw heads way up and to the left, and if you miss by even a little the explosion will not close the room.
+",2016-11-01 20:49:30+00:00,d9hdatn,1.0,t3_5aksmr,8227.0,DestinyTheGame
+19,"400 warlock  
+psn: broodax-",2016-11-01 19:51:30+00:00,d9ha8uy,1.0,t3_5al9ro,31.0,Fireteams
+20,We tried this and it did not work.,2016-11-01 18:52:15+00:00,d9h768x,3.0,t1_d9h71j6,153.0,DestinyTheGame
+21,psn: broodax-,2016-11-01 13:17:41+00:00,d9gqvoy,1.0,t3_5aizjo,57.0,Fireteams
+22,And you did it on a week when Angel of Mercy doesn't do anything!,2016-11-01 12:30:12+00:00,d9gpd9q,1.0,t3_5aes8y,57443.0,DestinyTheGame
+23,Mostly because I'm salty that re-rolling the armor rarely gives different stats (and that armor never drops in the first place).,2016-10-28 02:22:39+00:00,d9aweb4,1.0,t3_59pkqd,28877.0,DestinyTheGame
+24,"400 hunter  
+psn: broodax-",2016-10-26 02:57:46+00:00,d9804nq,1.0,t3_59fasv,89.0,Fireteams
+25,Have to wait for next year and the peanut butter quest.,2016-10-25 22:18:06+00:00,d97o23q,3.0,t1_d96z669,31801.0,DestinyTheGame
+26,"Beautiful, thank you. I'd expect it to come out of his body, not his crotch, but now I see it!",2016-10-25 14:07:23+00:00,d970oxx,5.0,t1_d94kp14,154314.0,DestinyTheGame
+27,"400 lock
+psn: broodax-",2016-10-25 14:06:00+00:00,d970mv9,1.0,t3_59b6p1,44.0,Fireteams
+28,"Is this like a white dress/blue dress thing? Because I cannot make out anything that would indicate where he's going. If anything, in that clip at 5:33 there's a helix going to the right, and then he goes left. If anyone's got a video where it's clearly visible that would be lovely to see.",2016-10-23 16:37:00+00:00,d94dk5u,3.0,t1_d9396h2,81389.0,DestinyTheGame
+29,"399 titan  
+psn: broodax-",2016-10-22 05:09:29+00:00,d92qplh,1.0,t3_58rows,153.0,Fireteams
+30,It's the only sophisticated way to play. You can mess with people and call them Green Duck. Laughs for days.,2016-10-21 14:36:49+00:00,d91s7bh,6.0,t1_d91ogyx,5801.0,DestinyTheGame
+31,"psn: broodax-  
+399 titan",2016-10-21 03:58:02+00:00,d91cci1,1.0,t3_58lb0z,164.0,Fireteams
+32,"398 titan  
+psn: broodax-",2016-10-20 14:29:45+00:00,d90bkun,1.0,t3_58h4ca,147.0,Fireteams
+33,"39x Titan  
+psn: broodax-  
+Bacon",2016-10-20 14:24:47+00:00,d90bcj5,1.0,t3_58h3j7,96.0,Fireteams
+34,"psn: broodax-  
+398 hunter
+",2016-10-19 20:00:57+00:00,d8z837h,1.0,t3_58cf4x,185.0,Fireteams
+35,"psn: broodax-  
+397 or something warlock",2016-10-19 14:05:05+00:00,d8yq2vd,1.0,t3_58af12,121.0,Fireteams
+36,"psn: broodax-  
+394 warlock",2016-10-19 05:33:31+00:00,d8ye7y5,1.0,t3_588p86,386.0,Fireteams
+37,Tell yourself about missed opportunities. Ghost shells only have 10 options.,2016-10-18 14:32:42+00:00,d8x8h5g,6.0,t1_d8x6ox7,2475.0,DestinyTheGame
+38,"I could use some major help on what I assume is actually the easiest piece of this. I cannot make the jump in the abyss. I'm on a warlock, using maximum possible agility, and an upgraded MIDA. I wait until my last stack is about to fall off, jump just as it does, and I don't come particularly close to making it. I could be early or late, but I tried enough times that I'd think I'd have made it once - however, I am really no where close even on those when I think I do well.
+
+What could I be missing? Should I be jumping from somewhere different *on* the rock? Do I need to jump diagonally instead of straight at the wall? Did something change in RoI?",2016-10-16 00:37:51+00:00,d8tqa9k,1.0,t3_4v89cp,6759076.0,DestinyTheGame
+39,"I had posted this previously: https://www.reddit.com/r/DestinyTheGame/comments/54qiz0/spoiler_rerolling_raid_armor_does_not_appear_to/  
+
+Some report that they can change, but it must be a reduced chance to change stats at all.",2016-10-13 21:34:52+00:00,d8qugeq,1.0,t3_578u4q,56120.0,DestinyTheGame
+40,"387 titan  
+psn: broodax-",2016-10-12 03:33:01+00:00,d8obsy2,1.0,t3_57267g,70.0,Fireteams
+41,"387 titan  
+psn: broodax-",2016-10-12 03:29:26+00:00,d8obo5y,1.0,t3_5725mx,92.0,Fireteams
+42,"387 Titan  
+psn: broodax-
+
+I can meet 32% of your criteria, but I did stay at a Holiday Inn Express last night.",2016-10-12 03:25:17+00:00,d8obigr,1.0,t3_5724w1,143.0,Fireteams
+43,"386 hunter  
+psn: broodax-",2016-10-11 17:59:49+00:00,d8nmcmf,1.0,t3_56zdf0,45.0,Fireteams
+44,"386 hunter  
+psn: broodax-",2016-10-11 17:57:45+00:00,d8nm8z0,1.0,t3_56zck2,191.0,Fireteams
+45,"387 titan  
+psn: broodax-",2016-10-11 13:59:56+00:00,d8nay2f,1.0,t3_56y43e,30.0,Fireteams
+46,"387 titan  
+psn: broodax-",2016-10-11 13:55:24+00:00,d8narrz,1.0,t3_56y3be,58.0,Fireteams
+47,did you not include the hyphen?,2016-10-11 13:52:27+00:00,d8nanrg,3.0,t1_d8nalye,80.0,Fireteams
+48,"broodax-  
+387 titan",2016-10-11 13:50:29+00:00,d8nal25,1.0,t3_56y2kp,40.0,Fireteams
+49,"386 of any class  
+psn: broodax-",2016-10-10 18:29:24+00:00,d8m6vcx,1.0,t3_56thvh,142.0,Fireteams
+50,"387 lock  
+psn: broodax-",2016-10-09 03:52:19+00:00,d8k2nnb,1.0,t3_56kmwe,86.0,Fireteams
+51,"titan  
+psn: broodax-",2016-10-08 03:48:02+00:00,d8iu1q7,1.0,t3_56fboq,140.0,Fireteams
+52,"titan -  
+psn: broodax-",2016-10-07 19:02:35+00:00,d8i98yk,1.0,t3_56d12f,36.0,Fireteams
+53,"387 titan  
+psn: broodax-",2016-10-07 18:00:03+00:00,d8i6685,1.0,t3_56cpjv,64.0,Fireteams
+54,"386 hunter  
+psn: broodax-",2016-10-07 13:31:06+00:00,d8htvfz,1.0,t3_56bakl,912.0,Fireteams
+55,"386 hunter, psn:broodax-",2016-10-07 13:26:59+00:00,d8htq3g,1.0,t3_56bbok,215.0,Fireteams
+56,I am a Titan. I am looking for a Hunter and Warlock.,2016-10-07 02:40:57+00:00,d8hdryu,2.0,t1_d8hdqh3,64.0,Fireteams
+57,"387 lock  
+psn: broodax-",2016-10-06 13:19:50+00:00,d8gdrfr,1.0,t3_565bgz,154.0,Fireteams
+58,"Also looking, 387 Lock.  
+psn: broodax-
+",2016-10-06 13:17:35+00:00,d8gdoj2,1.0,t3_565b9d,106.0,Fireteams
+59,"hunter
+broodax-
+",2016-10-04 14:47:14+00:00,d8dkomk,1.0,t3_55tt2o,225.0,Fireteams
+60,385 hunter - added you psn: broodax-,2016-10-04 13:23:55+00:00,d8dhald,1.0,t3_55tf46,439.0,Fireteams
+61,"385 Titan, psn: broodax- 
+",2016-10-03 04:19:38+00:00,d8bqqil,1.0,t3_55m22t,41.0,Fireteams
+62,"385 Titan, psn: broodax-",2016-10-02 04:55:27+00:00,d8ag9ap,1.0,t3_55gxfz,60.0,Fireteams
+63,"384 Titan, psn:broodax-",2016-09-30 20:11:25+00:00,d88qtta,1.0,t3_559t95,85.0,Fireteams
+64,"warlock, psn:broodax- ",2016-09-30 03:20:14+00:00,d87uvrz,1.0,t3_5561nz,126.0,Fireteams
+65,"Is there a way for two of you to group with someone on step 6 (the previous step) to get that done? I'd seen some say you could talk to Shiro and get an engine with a new puzzle or some such thing.
+
+If so I'm a 364 Warlock for you... psn: broodax-",2016-09-30 03:11:24+00:00,d87ujsb,1.0,t3_55609v,201.0,Fireteams
+66,"384 warlock, psn: broodax- (real hyphen)",2016-09-29 19:44:41+00:00,d87bvzf,1.0,t3_554193,49.0,Fireteams
+67,"384 warlock if you have monitors
+psn: broodax-",2016-09-29 19:40:33+00:00,d87boxx,1.0,t3_55407y,146.0,Fireteams
+68,384 warlock if you have monitors psn: broodax-,2016-09-29 18:56:04+00:00,d879lk3,1.0,t3_553s1y,65.0,Fireteams
+69,384 warlock. PSN: broodax-,2016-09-29 18:35:06+00:00,d878meg,1.0,t3_553nvq,124.0,Fireteams
+70,"383 Warlock if you have monitors done
+psn: broodax-",2016-09-29 18:18:03+00:00,d877tf7,1.0,t3_553kip,171.0,Fireteams
+71,"Do you have monitors done? If so, psn: broodax-  
+383 Warlock",2016-09-29 18:08:37+00:00,d877dg6,1.0,t3_553j8v,31.0,Fireteams
+72,383 warlock - psn: broodax- (real hyphen),2016-09-29 17:56:51+00:00,d876t3f,1.0,t3_553g3t,340.0,Fireteams
+73,"I don't think I'd use any of them, no.",2016-09-29 14:04:38+00:00,d86w28l,3.0,t1_d8692c8,50545.0,DestinyTheGame
+74,"Cocytus Rolls:  
+Roll 1: Candle/Flash/Signal : Life Support : Lightweight/Rifled Barrel : Grenadier/Underdog  
+Roll 2: Candle/Torch/Impulse : Life Support : Lightweight/Casket Mag : Grenadier/Eye of the Storm  
+Roll 3 : Spark/Torch/Impulse : Rescue mag : Snapshot/HLS : Grenadier/Underdog  ",2016-09-28 17:45:29+00:00,d85rxam,1.0,t3_54w191,19527.0,DestinyTheGame
+75,"371 Warlock, psn: broodax-",2016-09-26 18:00:03+00:00,d82xjcb,1.0,t3_54lwp9,299.0,Fireteams
+76,"371 lock, psn: broodax- ",2016-09-26 04:08:53+00:00,d828y9k,1.0,t3_54iwe7,141.0,Fireteams
+77,"371 lock, psn: broodax- (actual hyphen)
+Have watched strats, etc. but not done it yet.",2016-09-26 04:05:18+00:00,d828ubp,1.0,t3_54iw3d,71.0,Fireteams
+78,371 lock - psn: broodax- (actual hyphen),2016-09-26 04:03:02+00:00,d828ru4,1.0,t3_54ivlk,175.0,Fireteams
+79,"broodax- (real hyphen) 353
+",2016-09-21 05:37:36+00:00,d7vogsp,1.0,t3_53rq80,75.0,Fireteams
+80,"This is true, but may not matter. If you have full spirit no matter what, which it appears you do according to the simulation, then getting more from EoP does you no good.",2016-08-29 14:48:31+00:00,d718szq,2.0,t1_d710e8y,18830.0,Diablo3Monks
+81,"I forgot about max spirit on the off-set helm. As it turns out, once you take that into the consideration, the two setups are almost identical - I think that in reality CoE in cube would end up to be the best if you had reasonable gear, as again, you'd get a perfect roll from it. ",2016-08-28 04:31:33+00:00,d6zmgcp,2.0,t1_d6zeao6,15178.0,Diablo3Monks
+82,Finally got a pair of ancient gloves (I of course have seen about 15 Uliana's). I'm really conflicted about the lack of secondary resist and don't know how big a survivability hit that'll be if I reroll the RCR to CHD.,2016-08-22 18:14:53+00:00,d6s5itw,1.0,t3_4z1wp6,83.0,Diablo3Monks
+83,"This is not correct, exactly. Secondary stats also benefit, which is particularly important for monks (harmony resistances and globe bonus).",2016-08-19 14:40:19+00:00,d6o36lh,4.0,t1_d6nqnoy,30578.0,Diablo3Monks
+84,"http://i.imgur.com/mzVwNds.png Thanks to, I believe, Dav's thread. I'm moderately annoyed that the actual data isn't available - the chart just shows that the BP is somewhere between 4.54 and 4.58. I think you can get the exact number playing around on d3planner, though.",2016-08-15 18:34:56+00:00,d6imiwn,1.0,t3_4xv0sm,470.0,Diablo3Monks
+85,"One issue you've got is that you're missing spirit guard bracers, that's a pretty huge chunk of damage reduction. I have also noticed a few issues, even with all the necessary gear. It seems to me that there are a lot of things you just can't stand in. I also think it makes a pretty huge difference if you've got a barbarian in the group, too, which I've not had the opportunity to try yet.",2016-08-14 22:26:37+00:00,d6hkpsd,1.0,t3_4xq4dm,4317.0,Diablo3Monks
+86,"Unfortunately the guide is nothing but a list of gear. It assumes that one already knows the playstyle well, which I do not.",2016-08-14 14:13:34+00:00,d6h1zl3,2.0,t1_d6flir6,117424.0,Diablo3Monks
+87,"Here it is in spreadsheet format with some additional in-between levels when runes open up added. Yellow shaded items I think are optional depending on whether you're hardcore (keep more movement speed if not).
+https://docs.google.com/spreadsheets/d/1K_qOkNKnvwThd62aNi_eSaQ8va2BNcY9P3nnJs_ulaQ/edit?usp=sharing",2016-07-18 14:19:33+00:00,d5gt60v,2.0,t1_d5g37uk,58702.0,Diablo
+88,Any advice on how to keep Massacre up? I seem to have it drop between groups 2-3 times per map at least no matter how early I run away from things. It's particularly annoying when I gain a level and blow up the whole screen and there's nothing within range to get into combat with.,2016-07-15 20:00:12+00:00,d5dqkop,1.0,t3_4ss918,127401.0,Diablo
+89,I'd actually recommend wizard. I started one about a week ago and the only thing I have left to do to get stash space is level three gems to 55 (they're at 50). I was able to solo 75 easily and get a 2-minute rift for conquests.  The free starter set gets you going very quickly and any of the sets will let you get into 50-60 grifts and TX - I ended up using firebug for solo just because it requires so little gear optimization.,2016-07-07 17:34:21+00:00,d532k8c,3.0,t1_d52ms8h,26500.0,diablo3
+90,I'd love to know what traits and talents you're using for this.,2016-05-12 23:32:58+00:00,d33d3fq,1.0,t3_4j30h3,7031.0,DivinityOriginalSin
+91,What traits are you using with this (besides lone wolf)?,2016-05-12 16:12:08+00:00,d32trle,1.0,t3_4h5xnh,1023249.0,DivinityOriginalSin
+92,"Good thoughts there - I also hope to play through again once I finish, making my own plans as I'll actually have a good idea of what works then. 
+
+I still don't quite understand how anyone would ever survive *without* CC constantly up - any time 2 or 3 enemies decide to attack one of my characters on a given turn it can be pretty much game over. And trying to do massive AOE damage seems extremely difficult - once I light things up there's smoke so I can't see, and fire on the ground so I can't go after anyone. The fact that some enemies seem to be able to attack through smoke without trouble is particularly tough.",2016-05-05 15:39:31+00:00,d2twfoj,,t1_d2qofsu,,DivinityOriginalSin
+93,"Thank you all for the advice. As it so happens, I went back in, my CC succeeded twice in a row, and the fight was a cakewalk. I think you may be very right /u/giant_marmoset - some of the CC abilities are vastly overrated.",2016-05-02 17:02:18+00:00,d2ptgl2,1.0,t3_4hgvtz,15792.0,DivinityOriginalSin
+94,Why can't I play against these folks? It seems like any time I go in to spin someone to death their main gun is glued to me whether I'm warping or not and I die instantly. It seemed they were rarely even shooting you.,2016-04-18 12:40:53+00:00,d27fj1v,1.0,t3_4f1odw,173862.0,DeadStarGame
+95,Could you post details of your gear? This seems to be about as high-end as one can get and I'm wondering just how perfect your rolls are.,2016-04-02 22:34:38+00:00,d1ng3qp,,t1_d1kacoy,,thedivision
+96,"psn: broodax-
+180/50 55% armor - done it plenty of times, dps not accuracy inflated.",2016-03-31 13:43:38+00:00,d1ke3qq,1.0,t3_4cpzgx,1213.0,TheDivision_LFG
+97,"I appreciate all you've done here, it helps a ton to have a starting point.  There are two potential improvements I'd suggest that have another major impact on dps, similar to what you've found about headshots: % damage to armor and % damage to elites.
+
+Both of these have major impacts on dps and for PvE content can be far more effective than incremental gains in crit chance or damage.",2016-03-27 14:10:25+00:00,d1f84ix,1.0,t3_4bqmk8,284433.0,thedivision
+98,"A good rule of thumb is 10x more crit damage than crit chance, so... always prioritize crit damage unless you have no crit chance at all.",2016-03-23 12:57:11+00:00,d1ae9mj,3.0,t1_d18ljz5,128763.0,thedivision
+99,This is incorrect based on some PSA previously posted. +dmg does not scale with firearms.,2016-03-21 14:51:51+00:00,d17vl21,3.0,t1_d15ajim,217503.0,thedivision
+100,318 lock psn: broodax- (that is a real hyphen),2016-03-02 18:03:39+00:00,d0kyb6z,1.0,t3_48nc2h,64.0,Fireteams
+101,Psn?,2016-02-25 14:42:23+00:00,d0d9je7,2.0,t1_d0d9ije,40.0,Fireteams
+102,"When do the various drops unlock? I see below that gloves drop at rank 2. When are Helmets, Rocket Launchers, and Snipers unlocked?",2016-02-24 00:30:33+00:00,d0bb746,1.0,t3_477t79,23766.0,DestinyTheGame
+103,Huh- mine does not show actual values for anything. Android version?,2016-02-23 14:13:41+00:00,d0akm4t,7.0,t1_d0ajhon,2335.0,DestinyTheGame
+104,What app is this that actually shows stats including perks?,2016-02-23 13:33:10+00:00,d0ajg4r,5.0,t1_d0ai6i6,3294.0,DestinyTheGame
+105,319 warlock psn: broodax-,2016-02-16 16:05:05+00:00,d01zoe8,1.0,t3_4632sd,89.0,Fireteams
+106,"318 Titan, psn: broodax-",2016-02-15 21:22:49+00:00,d013jwe,1.0,t3_45ytj5,118.0,Fireteams
+107,"I've made it to 6 wins before! (might have been carried...)
+psn: broodax-",2016-02-09 03:36:22+00:00,czt1z91,1.0,t3_44uqen,80.0,Fireteams
+108,"87 please
+Never been, best I've been able to manage is 6 wins - rather new player (3-months).
+
+psn: broodax-",2016-02-08 19:04:07+00:00,czsi7so,1.0,t3_444gsk,382746.0,CrucibleSherpa
+109,Have a group of 3 315+ invite broodax-,2016-02-04 03:20:16+00:00,czn57rr,1.0,t3_443i1c,73.0,Fireteams
+110,"Have 3 in a group right now, invite broodax-",2016-02-04 03:18:23+00:00,czn551n,1.0,t3_443hiy,168.0,Fireteams
+111,"318 warlock, psn: broodax-",2016-02-04 02:51:30+00:00,czn4487,1.0,t3_443dhd,286.0,Fireteams
+112,"I picked it up. The roll is perfect as far as I'm concerned (don't need stability, don't really need extended mag AND triple tap, and nothing better exists in the first column), but damn if I don't miss the Torch site...",2016-02-03 15:37:12+00:00,czmbq3x,1.0,t3_43z2jv,22933.0,DestinyTheGame
+113,"1 has perfect balance/hand laid stock, but wasted perk on private eye.
+Neither of the others is anything to write home about.",2016-02-03 14:24:14+00:00,czm93dg,2.0,t1_czm84i7,1912.0,DestinyTheGame
+114,"Man, roll one is perfect, except it doesn't have torch. I wonder if I can live with spark...
+
+What do you think of roll 3 for pvp? Smallbore/third eye seems pretty good, but I don't know about rescue mag.",2016-02-03 14:22:00+00:00,czm90rn,3.0,t1_czm8jlz,915.0,DestinyTheGame
+115,"318 lock or 315 Titan, psn: broodax-",2016-02-02 14:05:56+00:00,czkywgz,1.0,t3_43ubef,218.0,Fireteams
+116,314+ hunter and lock psn: broodax-,2016-01-19 21:16:22+00:00,cz4dwcq,1.0,t3_41qs01,76.0,Fireteams
+117,"Broodax-
+That's a real dash. 314 hunter, lots of exp and two thumbs.",2016-01-19 04:55:02+00:00,cz3m3b6,1.0,t3_41n0sk,85.0,Fireteams
+118,"313 hunter, tom and 2 thumbs. Psn: broodax-",2016-01-19 04:51:30+00:00,cz3lzk4,1.0,t3_41mzvs,284.0,Fireteams
+119,"Are you suggesting that any attack above the light level of the content is wasted? Is this only true in some places, e.g. The raid? The linked post suggests that higher attack weapons do provide value in some places, such as strikes.",2016-01-17 15:05:54+00:00,cz1jb6o,2.0,t1_cz15rue,40443.0,DestinyTheGame
+120,"315 warlock, ToM, experienced, have opposable thumbs
+psn: broodax-",2016-01-15 15:16:09+00:00,cyz8sct,1.0,t3_413gh1,346.0,Fireteams
+121,"Broodax-
+315 warlock",2016-01-15 01:58:57+00:00,cyyp3y8,1.0,t3_410wpq,25.0,Fireteams
+122,"broodax-
+315 Warlock",2016-01-14 21:03:30+00:00,cyyderj,1.0,t3_40zkhf,520.0,Fireteams
+123,broodax-,2016-01-11 20:13:18+00:00,cyueuhi,1.0,t3_40ilvy,170.0,Fireteams
+124,"Use the shard on your ""second"" character, but do it right away. Then start your ""first"" character and you'll have a choice of sub-classes right away rather than needing to wait.",2016-01-08 18:59:35+00:00,cyqwt1p,1.0,t3_40212n,5754.0,DestinyTheGame
+125,"315 warlock, psn: broodax-",2016-01-06 03:03:22+00:00,cynlxt3,1.0,t3_3znrmo,441.0,Fireteams
+126,"Broodax-
+Dash is real. 315 lock with multiple cm strat kills.",2016-01-06 02:56:52+00:00,cynlpfl,1.0,t3_3znrib,107.0,Fireteams
+127,"315 lock, have done cm strat 3 times before. Psn: broodax-",2016-01-06 02:50:29+00:00,cynlh9w,1.0,t3_3znqmz,89.0,Fireteams
+128,"psn: broodax-
+that's a dash",2016-01-05 15:57:53+00:00,cymurcl,1.0,t3_3zkq07,112.0,Fireteams
+129,"psn: broodax-
+that's a dash",2016-01-05 15:26:38+00:00,cymtlv0,1.0,t3_3zkl99,24.0,Fireteams
+130,"312 hunter, done bits of hm but not the whole thing. 
+Psn: broodax-
+",2015-12-29 14:15:16+00:00,cyey20b,1.0,t3_3ynnbe,106.0,Fireteams
+131,"Me three. Psn: broodax-
+
+313 hunter
+",2015-12-28 19:02:50+00:00,cye1wi7,1.0,t3_3yjz65,168.0,Fireteams
+132,"psn: broodax-
+313 hunter",2015-12-28 18:58:26+00:00,cye1qbo,1.0,t3_3yjykv,149.0,Fireteams
+133,"308 warlock, psn: broodax-, lowish light thanks to 280 ghost but have done hm through daughters before.",2015-12-22 19:46:51+00:00,cy83qkd,1.0,t3_3xvdx2,189.0,Fireteams
+134,"[ps4] broodax-  that is a dash. I'd love some help getting this, 308 warlock with a sword.",2015-12-22 14:56:39+00:00,cy7ses4,1.0,t3_3xte9k,20492.0,DestinySherpa
+135,"Broodax-
+That is a dash, I'd love some help if you're still running",2015-12-22 14:37:08+00:00,cy7rtqj,1.0,t3_3xtwkt,5784.0,Fireteams
+136,"psn: broodax-
+
+that's a real dash in the name. 306 Warlock with ToM (will be 310+ if a ghost drops :-/ )",2015-12-21 19:42:27+00:00,cy6wjsp,1.0,t3_3xqnzb,74.0,Fireteams
+137,"295 Hunter, have ToM and 297 1000 Yard Stare. PSN: Broodax-
+
+That is an actual hyphen in my name, btw.",2015-12-17 18:33:40+00:00,cy2h6c6,1.0,t3_3x8ozb,1919.0,DestinySherpa
+138,"303 lock w/ToM, PSN: Broodax-",2015-12-17 03:49:05+00:00,cy1uycs,1.0,t3_3x60el,2139.0,Fireteams
+139,"Also looking, 302 Lock w/ToM, PSN: Broodax-",2015-12-17 03:35:23+00:00,cy1uhsi,1.0,t3_3x62fz,320.0,Fireteams
+140,"303 lock w/ToM - have done non-challenge once before. PSN: broodax-
+",2015-12-16 20:42:30+00:00,cy1f20w,1.0,t3_3x4eg9,1259.0,DestinySherpa
+141,broodax- 303 lock w/ToM (that is an actual dash in my PSN),2015-12-16 20:11:58+00:00,cy1dqsz,1.0,t3_3x4cer,231.0,Fireteams
+142,"Thanks, sir, I'll take a look at the other times!",2015-12-16 00:13:37+00:00,cy0eozm,3.0,t1_cy0c9ti,3894.0,DestinySherpa
+143,Would love to come to 12/17 at 8 UTC. I've been sherpa'd once before and would love to actually learn some of the stuff now that I've been hand-held through it. Have a reasonable sniper and ~300 light Warlock PSN: Broodax-  (that dash at the end of the name is real),2015-12-15 18:35:38+00:00,cy00ety,1.0,t3_3wxmsb,20231.0,DestinySherpa
+144,On ps4 looking for a group for bs now- kinderguardian but have done all the obvious things and got to 299 light. Psn : broodax-,2015-12-14 04:22:06+00:00,cxybrdt,1.0,t3_3wmp2r,68849.0,DestinySherpa
+145,"you have my name above as ""broodax"" it is actually ""broodax-"" with a hyphen, just in case it was missed",2015-12-09 17:32:24+00:00,cxt0m9s,3.0,t1_cxsshy4,12614.0,DestinySherpa
+146,"PSN: Broodax- 
+I'd love to come - I'm a kinderguardian.",2015-12-09 14:11:22+00:00,cxssrab,1.0,t3_3w2hmw,4284.0,DestinySherpa
+147,"Here's my resource list, as I've run a session 0 and will be running session 1 next week. If you read some of these and other reviews you'll learn that the adventure is quite good, but somewhat poorly set up. If you want to have a really great session, you need to spend quite a bit of time reading and re-reading, noting where things are, etc.
+
+http://thecampaign20xx.blogspot.com/2015/04/elemental-evil-guide-to-princes-of.html?m=1 tons of stuff and links to more.
+
+http://detectmagic.blogspot.com/search/label/Princes%20of%20the%20Apocalypse mostly options to expand on some elements. Also has a great reference sheet of hook locations AND a ""Quick Start"" guide that will help you think about how to run the thing.
+
+http://my-realms.blogspot.com/2015/03/princes-of-apocalypse-dessarin-valley.html More info including downloads of not-great versions of the maps. If you want good maps you need to buy them.
+
+
+",2015-10-22 13:12:58+00:00,cw8s53g,1.0,t3_3pm2n8,99683.0,DnD
+148,"I was pondering this today and I'm going to have the cultists simply dump the body in the river when they cross it. The other members of the delegation, when found, might know that this happened since they were still with the cultists at that point.",2015-10-21 19:05:45+00:00,cw7xqr3,1.0,t3_3ff9r1,7004670.0,DnDBehindTheScreen
+149,Do you stomp+hota every 6 second then? Or does stomp not lose the snapshot?,2015-07-05 21:10:46+00:00,cst5dhe,2.0,t1_cssyjrb,13742.0,Diablo3Barbarians
+150,"I hate you. I have 30+ gifts in my bank (no telling how many I've used... 15 at least), and have never seen an ancient Krider. Point being, save your first for an ancient weapon that you actually want to use, and don't feel bad about using it. You will eventually have way more gifts than you need.",2015-06-27 05:25:29+00:00,csk9ao7,2.0,t1_csjiofm,48136.0,Diablo3DemonHunters
+151,"/u/munch243 and /u/stav23 that's a huge help. Thank you! Do either of you happen to have a video showing the play, or would you be willing to make one? ;-)",2015-06-25 15:34:34+00:00,csibcw2,1.0,t3_3ayfg0,89823.0,Diablo3Crusaders
+152,"You kind of got there, but for 3:1 you want just 2.2% AS in paragon, and for 2:1 you want 4.6%. You don't want any AS on gear at all, it's wasted.",2015-06-19 13:05:53+00:00,csbsuqb,1.0,t3_3adojx,20666.0,Diablo3DemonHunters
+153,"Do you by any chance have some tips on how to actually play this? I tried for the first time in 2-man last night and it seems overwhelming to try to keep shield glare up, keep buffs up, AND gather up the ranged that are ripping me apart or pestering the DH. Do you use a num-lock trick for blind? 
+Also, does anyone know how much RCR and Wrath regen is actually required? I thought I had enough, but I am missing RCR on one piece, and I was running out of Wrath even on a single guardian.",2015-06-19 12:30:32+00:00,csbs0xr,1.0,t3_39dett,733769.0,Diablo3Crusaders

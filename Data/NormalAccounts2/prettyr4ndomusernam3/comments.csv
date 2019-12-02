@@ -1,0 +1,1168 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Did you find it out by reading the metadata? Or does imgur strip it?
+
+Can't seem to figure out how you knew he's albanian.",2016-07-28 06:41:39+00:00,d5u4zz6,6.0,t1_d5txmry,14035.0,hacking
+1,"Sorry, not an expert on Wordpress, but could you elaborate on that last part? What do you mean by backup plugins? And what do you mean by index files?",2016-07-20 09:15:11+00:00,d5jco3a,2.0,t1_d5j4dg0,20562.0,hacking
+2,"If the guy has an arabic accent, then dont bother. And even if it's not the same course I bought, Udemy videos aren't really the best format for learning hacking imo",2016-07-18 07:22:42+00:00,d5gkaur,2.0,t1_d5ers1d,133608.0,HowToHack
+3,"There would be significant problems with that. You would need to have a very large set of data to learn from. That would be all the recorded calls, so no problem there. However, for each and every one of those calls, you also have to be able to tell the algorithm if the person did indeed have malicious intentions, which is practically infeasible.",2016-07-09 06:09:27+00:00,d55a2u6,13.0,t1_d54cqgj,52536.0,UpliftingNews
+4,"Inmates could just make up some sort of simple code and bypass the system entirely. Voice recognition is difficult to get working correctly even without the speaker actively trying to trip it up.
+
+",2016-07-08 09:42:05+00:00,d542fki,11.0,t1_d5422ss,1174.0,UpliftingNews
+5,"It's easy. Someone registered an account on gruppomarilab.it (or owns the site, or has hacked it) and sent an email to you, trying to trick you. This has nothing to do with your friend's account. 
+
+Just to make it even clearer: let's say I want to hack you and I'm going to try this crappy hack on you. Let's say your email is herropeepol@hotmail.com. Your friend is /u/bridekiller and his email is bridekiller@hotmail.com. I own a site called malicious.com, so I can make an email called bridekiller@malicious.com. If I send an email to you from this email and you don't check that it's coming from hotmail.com, you might mistake me for your friend and send me whatever I'm asking for.
+
+The only question that remains is how they got your email and your friend's email. Perhaps you both have your emails public (or visible to friends) on social media. Maybe your emails are in a dump somewhere and a connection could be made somehow. If anyone has any better ideas, then let me know.",2016-07-06 10:14:17+00:00,d5176yy,1.0,t3_4rcbiw,80193.0,hacking
+6,"They use script kiddie techniques, so as hackers they have very little skill. Their motives are sleazy and they're just cretins. They don't get any respect, nor do they deserve it.
+
+However, if there's one thing I admire about them, it's just how much they have accomplished using such basic techniques. When targeting individuals (like the recent Leafy hack), you often don't really need any skill, just doxing and social engineering. They probably just found Leafy's password from a password dump and used that to gain access to his account.
+",2016-07-05 09:27:42+00:00,d4zsxuf,1.0,t3_4rasyg,20858.0,hacking
+7,"Hackthissite is kind of ok, bit root-me is pretty much better in every way.",2016-07-02 22:27:00+00:00,d4x1sgp,3.0,t1_d4wonsl,22891.0,HowToHack
+8,"Does it also do backup file and forgotten archive discovery? 
+
+So based on /login.php, would it try login.php.old, login.old, login.bk.php, login.zip, etc?",2016-07-02 22:22:34+00:00,d4x1n6w,3.0,t1_d4ww8u8,9225.0,HowToHack
+9,Who else read this in GradeAUnderA's voice?,2016-06-26 05:53:23+00:00,d4od00t,5.0,t1_d4o65d2,14835.0,AskReddit
+10,I didn't quite get it. What's the vulnerability? That there's no CSRF token when deleting events?,2016-06-20 08:58:57+00:00,d4gfor5,1.0,t3_4orlwr,108078.0,HowToHack
+11,"Yeah, like what the hell. That immediately lost all their credibility to me.",2016-06-20 08:49:20+00:00,d4gfizj,2.0,t1_d4gfczn,587.0,hacking
+12,"Why don't students rebel against that shit? If people started boycotting, that crap would end pretty quickly.",2016-06-20 08:43:44+00:00,d4gffki,7.0,t1_d4fntcn,48258.0,Showerthoughts
+13,"Can't you like, pirate or copy them or something?",2016-06-19 18:34:42+00:00,d4fm56s,4.0,t1_d4flowp,737.0,Showerthoughts
+14,"Is it like gungame, where after X kills you get a better weapon? That gamemode is basically just an avalache - the leader will be ahead of everyone else, making him get more kills, making him even more ahead of everyone else.
+
+I really enjoy reverse gungame. You start at the best weapon and end with the crappiest. Those are much more evenly matched.",2016-06-19 17:36:24+00:00,d4fk0hf,5.0,t1_d4fikqa,2427.0,gaming
+15,"If you want to keep going on the web development route, I'd start learning more about the back end. Learn PHP. Make a website dynamic. Learn mysql, make a database of users. Pretty much start making a real website and learn as you go.",2016-06-17 12:48:00+00:00,d4cy31z,6.0,t1_d4cuoig,8916.0,science
+16,HISSSSSS!!,2016-06-17 11:16:01+00:00,d4cvr5b,4.0,t1_d4celhd,37334.0,GetMotivated
+17,"No, that guy has no idea what he's talking about unfortunately.
+
+It's actually quite hard to hack something just based on the IP address. Virtually impossible for private computers (like yours), because they're not directly publicly accessible. The IP you gave is your public IP. Meaning it's the IP that points to your router, not your computer. Meaning, your computer can start a connection with Reddit (after which you'll tell Reddit which port on the router you've opened up a connection on), but Reddit can't start a connection with your computer.
+
+Usually what happens is hackers would use the IP address to ascertain your identity and hack you in other ways.",2016-06-17 08:04:40+00:00,d4csgqd,3.0,t1_d4cr28n,4294.0,hacking
+18,"Contrary to what /u/Furry_Thug said, it most likely would be almost entirely dependent on your input.
+
+Random hackers can't just watch the traffic from your IP. Only your ISP or the NSA can do that. If either of them want to hack you, then you're screwed.
+
+The one thing random hackers can do without your interaction is finding out all the information there is online about you and using that to attack your passwords (searching password dumps to see if your password has ever been hacked before, trying to reset your password on websites, trying out passwords you're likely to have (like the names of your pets, husband/wife, hobbies, etc)
+
+But if you're just some random hacker, you might just use social engineering. Meaning, the hacker would find some way of deceiving you. Just to give an example:
+
+An infosec journalist - a person whose job it is to know how to keep their stuff safe - was hacked by social engineers. They sent him a seemingly legitimate email which instructed him to update his server's software. When he clicked on the link and downloaded the update, the malicious code ran and he was hacked.
+
+Also, even if you're somehow invulnerable to social engineering - which you're not, even hackers aren't - it is possible to target services you use. For example, social engineers could call up your ISP, make up a believable story and get all your information. ",2016-06-17 07:59:18+00:00,d4csdbd,5.0,t1_d4cp0ni,9160.0,hacking
+19,That sucks. Maybe you could negotiate that?,2016-06-17 07:11:36+00:00,d4crg2o,6.0,t1_d4crd4c,243.0,science
+20,That would actually be pretty cool. You could create a villain from him.,2016-06-17 06:56:20+00:00,d4cr4q2,2.0,t1_d4clodo,11460.0,FearTheWalkingDead
+21,"You're right, but it might prove to be infeasible in applications where a lot of data has to be processed. Although SHA2 is not as slow as bcrypt, it's still a significant improvement over MD5.",2016-06-17 06:50:00+00:00,d4cqzte,14.0,t1_d4c93qo,29916.0,hacking
+22,Do something useful with your time when no one is around. I practise coding. Best job ever!,2016-06-17 06:44:58+00:00,d4cqvqx,4.0,t1_d4cq64j,1900.0,science
+23,"Yeah okay, we're on the same page then.
+
+To elaborate for others a bit, a secure salting scheme is one where a different salt is provided to each password hash. That makes it so that if Bob and Roger both have the same password ""mypassword"", then their hashes will be different, because they have different salts. That makes it so that the attacker has to crack the hash of each user separately.
+
+bcrypt is otherwise extremely good, but it takes a lot of processing power. In applications where speed is important, SHA-256 can be used instead.",2016-06-16 18:39:06+00:00,d4by23d,12.0,t1_d4btfyr,5476.0,hacking
+24,"Type in ""SQLi"" into google and you'll get a million results, most of them repetitive and irrelevant. Search for SQLi in my list and you'll get a few well-written resources which cover the knowledge about every aspect of the topic I know about ;)",2016-06-16 18:04:18+00:00,d4bwaog,4.0,t1_d4bgmpd,21823.0,hacking
+25,"""Yeah. I'm a literal genius. In 2015 I won 1st place in the Utah State Junior Computer H4xor competition. There's no way you can pinpoint my identity with all this technology guarding me.""",2016-06-16 11:55:46+00:00,d4bgia9,5.0,t1_d4bftzl,1686.0,worldnews
+26,"Huh, I thought they were weasels or something more exotic. 
+
+I'm more of a cat person, so I didn't know puppies look like that.",2016-06-16 11:32:10+00:00,d4bfxoq,5.0,t1_d4bf3iu,2377.0,aww
+27,Why not? What does it say?,2016-06-16 10:19:59+00:00,d4beht1,,t1_d4564aa,,HowToHack
+28,"In my experience, people who think that don't even know what hashing is, so they just use AES to store passwords instead of SHA.",2016-06-16 10:16:11+00:00,d4befg1,7.0,t1_d4avl5t,39721.0,hacking
+29,"Those articles you linked are really nice, saved them in my list.
+
+How did you find them? Do you keep all your knowledge/resources in some sort of list/knowledge base? If so, it would be awesome if you could share it. I'd be willing to share mine as well.",2016-06-16 10:11:45+00:00,d4beclv,2.0,t1_d4amplv,51308.0,hacking
+30,"How is it not best practice? Matching the hash of the provided password to the hash in storage is exactly how it should be done. Also it's important to use a strong hashing algorithm, e.g *not* MD5.",2016-06-16 09:53:56+00:00,d4be1ee,10.0,t1_d4bb4ml,9694.0,hacking
+31,"RemindMe!
+
+I need to know this as well.",2016-06-16 09:44:49+00:00,d4bdvpn,5.0,t1_d4bc51y,5990.0,hacking
+32,"If it makes you feel any better, my cat was once gone for 12 months. He disappeared around early December (this was quite a few years ago), came back just before Christmas. It was the best day of my life when I saw him back at our doorstep.
+
+He was a bit scratched up. Well fed, but had an injured paw and a fractured leg. I have no idea what he went through. All I know is he's absolutely terrified of plastic bags now.
+
+He's been with us and hasn't wandered far ever since that day. He's old now, but I'm super happy to have him in my life. I'm not saying you should have high hopes - my second cat never came back - but anything is possible, OP. I know it's hard, but stay strong :)",2016-06-16 07:25:41+00:00,d4bbe6v,2.0,t1_d48ucuk,143602.0,thisismylifenow
+33,"No worries mate, just showing my affection!",2016-06-16 07:17:25+00:00,d4bb8a3,4.0,t1_d49l8lt,108506.0,thisismylifenow
+34,I'm pretty sure you could punch them and get away with it.,2016-06-16 06:40:37+00:00,d4bagsa,6.0,t1_d4b525s,11637.0,AskReddit
+35,Am I shadowbanned?,2016-06-14 22:24:33+00:00,d49eu8d,1.0,t3_4nxzgv,89310.0,hacking
+36,Lindybeige should do a video on why this fight is almost completely unrealistic.,2016-06-14 22:17:24+00:00,d49ejhi,1.0,t3_4o22bj,22971.0,movies
+37,"What *do* you do when all you have is an IP? Here's what I would do (beginner), criticism is very welcome:
+
+1) Reconnaisance. Is it an individual or a company? What kind of infrastructure do they have? Find their web servers, mail servers, routers.
+
+2) Enumeration. Run nmap, identify all their services and IPs. Run directory- and file busters on the web server. Check on CVEdetails that all their stuff is up to date. If not, exploit.
+
+3) Exploitation. If web site, test all the user input fields for vulnerabilities, like SQLi, XSS, file includes and uploads, etc. If all that fails, try social engineering the target using either spearphishing or by exploiting CSRF.
+If not web site, then either hope the target is stupid and social engineer him, or cry.
+
+4) Post-exploitation. Download a shell and encrypt it to hopefully avoid detection. Make a reverse TCP connection to yourself. If you got the shell by exploiting the web server, then you pretty much have the lowest amount of privileges. In that case, try to run a script which checks for privilege escalation. If that doesn't work, then I'm out of ideas and will either cry or attempt to social engineer the admin. You could also try to horizontally infect other computers on the network, if there are any. I'm not completely sure how though.
+
+If all else fails, be like the guy who hacked Hacking Team and find an 0-day in a router or web software or something. That's going to take me a few years though.
+
+",2016-06-14 20:21:02+00:00,d498l5m,2.0,t1_d48gq0o,47944.0,HowToHack
+38,It's pretty much the only reason I like her :p,2016-06-12 22:50:08+00:00,d46kqu0,,t1_d45x6d0,36271.0,FearTheWalkingDead
+39,She's hot.,2016-06-12 09:37:13+00:00,d45tznn,,t1_d3y2edl,,FearTheWalkingDead
+40,"Not when you've been indoctrinated into eating fried onions from a young age. 
+
+I'll eat the onions that I put on the side of the dish in really small quantities, but never when it's just slathered on like when my dad cooks.",2016-06-12 06:39:37+00:00,d45r0xk,9.0,t1_d45mksf,10850.0,IAmA
+41,"As a hacker, I dream of a world where people don't patch their security holes. **Please bring back PHP4**.",2016-06-11 19:17:01+00:00,d4566i1,4.0,t1_d451mmt,7431.0,LifeProTips
+42,Nice Dune reference :),2016-06-11 16:49:16+00:00,d450pz9,2.0,t1_d44rnpy,20319.0,AskReddit
+43,Can you elaborate? Is there anything in particular you need help with? Do you even know anything about hacking?,2016-06-11 16:46:46+00:00,d450mmt,1.0,t3_4nc2ri,167945.0,hacking
+44,Is it behind a paywall or can I access it on the deep web?,2016-06-11 16:44:11+00:00,d450j4y,1.0,t3_4nbb54,177372.0,hacking
+45,"Works for me. Are you on mobile? 
+
+Or are you from China or something? I know some ISPs block hackforums, so you might want to try a VPN or a proxy.",2016-06-11 16:40:48+00:00,d450emv,2.0,t1_d4506od,355.0,HowToHack
+46,"I use wfuzz for directory scanning in websites. You might also be interested in untwister, which can predict future outputs for several PRNGs.",2016-06-11 07:21:41+00:00,d44of6r,3.0,t1_d4498fq,30599.0,hacking
+47,5 accounts here are shadowbanned. Maybe myself included?,2016-06-10 20:40:25+00:00,d4445t0,1.0,t3_4nhhsx,10582.0,hacking
+48,"Most of the tools you'll ever need come pre-installed on security distros like Kali and Backbox. I'd say those are pretty reliable and useful. Instead of looking around on Github, I'd see what tools come with the distro.
+
+Other than that, I'd say larger projects like BurpSuite are pretty trustworthy. Not like you have the time to review all the code yourself, anyways.
+
+In the off chance you need something that's not on Kali and doesn't have a widely accepted Github tool, you can quite safely copy other people's code, as long as you review and understand it yourself.",2016-06-10 20:37:51+00:00,d4441ws,1.0,t3_4nh0xb,16059.0,hacking
+49,"What do you mean by server-side script? That DailyMail themselves is boosting the comments?
+
+You could very easily just do it in Python or JavaScript, no?",2016-06-10 20:33:15+00:00,d443v4b,2.0,t1_d43u3ta,13012.0,hacking
+50,"If you truly do have access to the entire html of the article, then a simple thing you can do is make a file called article.html, paste the code there and open it up in your browser (make sure you delete any javascript that will make the paywall popup appear)",2016-06-10 20:29:25+00:00,d443p7l,1.0,t3_4nglkq,20909.0,HowToHack
+51,"Damn, that guy's got a really small shoe size. The average is over EU40.",2016-06-10 09:44:31+00:00,d43g584,6.0,t1_d429cs7,71866.0,AskReddit
+52,"Yeah, then you can make a GUI and see if you can trace his IP address.",2016-06-09 11:51:40+00:00,d425uev,2.0,t1_d4241pd,5297.0,HowToHack
+53,Why the long face?,2016-06-09 10:09:00+00:00,d423sug,6.0,t1_d42042i,12800.0,gaming
+54,"That and the minigames are the way it should be, to be honest. Real hacking would confuse and bore most people. And this is coming from a hacker.",2016-06-09 06:33:00+00:00,d42023u,4.0,t1_d41zndl,1134.0,gaming
+55,"You can't. Not wirelessly, at least. These days, most car radios are equipped with Bluetooth, which can often lead to vulnerabilities. There have been cases where hacking into the radio has allowed the hackers to also gain access to the car's breaks and gas (meaning you could easily cause a car crash)",2016-06-09 06:30:28+00:00,d42007w,4.0,t1_d41zm22,1082.0,gaming
+56,But a banana is an atheist's worst nightmare!,2016-06-08 19:51:25+00:00,d41c5ll,6.0,t1_d41aa5s,2346.0,gifs
+57,"AFAIK, antiviruses can detect that these days. I'm not sure if it's detectable by plain old scanners (like pressing ""scan"" on avast) or sandboxes (like the avast sandbox where it monitors the program in a sandboxed environment for like 15 secs).
+
+If it's detected by sandboxes, then those are pretty easy to bypass - just have the keylogging functionality turn on after 30 seconds or so of waiting.",2016-06-08 12:32:39+00:00,d40rypi,4.0,t1_d3zko3y,74109.0,hacking
+58,"*Good news, everyone!*",2016-06-07 21:25:39+00:00,d3zzyzc,7.0,t1_d3yqeg1,79382.0,thewalkingdead
+59,Doubling money,2016-06-07 17:36:55+00:00,d3zp9of,8.0,t1_d3zoum1,533.0,AskReddit
+60,No problem,2016-06-07 11:38:31+00:00,d3zbe3u,3.0,t1_d3zadvj,2952.0,hacking
+61,"The standard subnet for A class (meaning, 10.X.X.X) networks is 255.0.0.0. Of course, these days subnets aren't strictly enforced anymore, but it would sort of make sense if that were the case.
+
+Usually, the address for the gateway is the second available address (the first IP address is reserved for the name of the network and the last is for broadcast packets), so the gateway would most likely be at 10.0.0.1.
+
+Source: Network+ course on Cybrary",2016-06-07 09:37:26+00:00,d3z959q,4.0,t1_d3yl5x7,44549.0,hacking
+62,"Just do some projects and learn as you go. For example, visit pentesterlab.com/bootcamp for a good list of things that will teach you a lot about security (mostly web app security). Once you've progressed a bit there, root-me.org has awesome challenges (""Web Server"", ""Web Client"" and ""Realistic"" challenges for web app pentesting)
+
+The only requirements are programming and networking knowledge, which can be gained from codeacademy (""learning to program"") and Cybrary (Network+ course)",2016-06-07 09:29:55+00:00,d3z90uo,1.0,t3_4mx8br,19386.0,hacking
+63,"A one hit wonder is when you only have a baby lamborghini, peeled from the bookshelves of the Hollywood hills.",2016-06-07 06:15:53+00:00,d3z5etz,5.0,t1_d3z11gw,9063.0,AskReddit
+64,"I mean, Chris trying to kill the two kinda was explained. 
+
+Seeing and killing that dying man at the beach kinda fucked him up. Then after he shot the antagonist on the boat, everyone has started to distrust him. Especially Madison. This is a 16 year old who has killed the most people out of the group of adults. When he saw Madison in danger, he was kinda fine with it. But the step sister saw it, so further bad decisions followed, and now his situation is kinda really bad.
+
+I can kinda believe the story, but I just wish it had gone another way.",2016-06-05 21:00:10+00:00,d3x8lhf,2.0,t1_d3x7k3m,1598.0,FearTheWalkingDead
+65,"Looks more like a hash to me, but you might be onto something",2016-06-05 20:24:01+00:00,d3x76ri,7.0,t1_d3x4l62,4034.0,Showerthoughts
+66,"Who is this gabriel everyone keeps talking about? Is it a spoiler from the comic book? Google image search turns up nothing...
+
+Or did you mean daniel?",2016-06-05 06:58:06+00:00,d3wlv15,4.0,t1_d3wctq3,19153.0,FearTheWalkingDead
+67,Agreed.,2016-06-04 21:23:28+00:00,d3w4cdy,2.0,t1_d3w3u5e,942.0,FearTheWalkingDead
+68,How could you tell? I didn't notice anything...,2016-06-04 18:21:13+00:00,d3vy8yi,4.0,t1_d3vy517,190.0,FearTheWalkingDead
+69,"Why did the church full of people die, anyways? What with the blood randomly coming out of their eyes... Were they nerve gassed or something?",2016-06-04 18:02:15+00:00,d3vxllz,2.0,t1_d3vvf39,3754.0,FearTheWalkingDead
+70,"&gt; If they did this right, there wouldn't be zombies in the first season, maybe even two seasons.
+
+If they didn't have zombies, then the show would be boring as fuck. No one would watch the characters go about their boring lives and occasionally hear there's some weird stuff going on in the news. I even found the first episode to be a bit too slow, but it's probably for the best that they did some character development.",2016-06-04 17:53:50+00:00,d3vxb5s,,t1_d3le7j2,,FearTheWalkingDead
+71,"Brb, invading Poland.",2016-06-04 09:56:54+00:00,d3vl4cg,1.0,t3_4mgx6l,17424.0,GetMotivated
+72,"Are you even being serious right now? Do you not realize what a stupid risk you're taking right now, with no real benefit?
+
+If you truly must illegally hack into a database, then do it when you can't be associated with the crime, by hacking a random company using anonymization techniques. Not when it's your own school and the computer shows you were the one that did it, for god's sake.",2016-06-03 12:56:11+00:00,d3ue1sa,7.0,t1_d3udq4e,637.0,hacking
+73,"And what would that accomplish, exactly?
+
+You already fucked up big time when you accessed the database. Delete everything and hope the IT guy doesn't notice.
+
+Like, this may seem excessive, but it's not. Schools often don't take this lightly. People have been expelled for way less than what you did. You might just get a slap on the wrist if they notice, but I wouldn't count on it.",2016-06-03 12:38:31+00:00,d3udigq,5.0,t1_d3udbu0,380.0,hacking
+74,"Just because it's public doesn't mean it's legal to access. Like how you're not allowed to walk into someone's house just because they left the door open.
+
+The same goes for when a website accidentally exposes its database to the public, for example. You can connect to it and steal all the credentials, but if you get caught, you'll still go to jail.",2016-06-03 12:26:55+00:00,d3ud6c6,3.0,t1_d3ucxp2,519.0,hacking
+75,"Next step: Go to jail.
+
+No, but seriously though. Don't fuck around like that. At some point you're going to get into serious trouble. Go format the USB and hack something you can't go to jail for. Like a VM or websites meant for that stuff.
+
+Check out pentesterlab.com/bootcamp or root-me.org, for example.
+
+",2016-06-03 10:52:35+00:00,d3uazj5,1.0,t3_4mbpua,13579.0,hacking
+76,"25 minutes of Reddit, then 5 minutes of work and come back",2016-06-03 10:49:31+00:00,d3uaxfy,3.0,t1_d3uad0q,1839.0,AskReddit
+77,DENIED,2016-06-02 12:59:31+00:00,d3t0p99,11.0,t1_d3t04ix,1116.0,gaming
+78,"It was meant to be constructive criticism. E.g, if they changed it, their videos would be even better, at least in my opinion.",2016-06-02 12:57:02+00:00,d3t0mbi,5.0,t1_d3t0is8,192.0,HowToHack
+79,"Are you the creator of the video? 
+
+Sorry, I didn't mean any offense. The video itself is great, it's just the animation that seems a little off. Maybe it's just me though.",2016-06-02 12:53:17+00:00,d3t0i7k,3.0,t1_d3szogp,1665.0,HowToHack
+80,RemindMe! 24 hours,2016-06-02 12:24:55+00:00,d3sznss,1.0,t3_4m6ueh,693.0,hacking
+81,"I tried learning from lena's tutorials (check the sidebar at /r/reverseengineering). They're good if you want to get into software cracking, but not so much if you want to learn binary exploitation and general reverse engineering. 
+
+There's a course on opensecuritytraining called Software Reverse Engineering, which sounds really interesting. Does anyone have any experience with that?",2016-06-02 12:24:33+00:00,d3sznft,1.0,t3_4m6ueh,671.0,hacking
+82,Is anyone else somewhat bothered by the animation style/quality?,2016-06-02 12:18:41+00:00,d3szhlj,1.0,t3_4m1krg,77660.0,HowToHack
+83,"It depends.
+
+If the cash reward is worth it and the task is hard enough, then there are dedicated bruteforcing services. 
+
+Otherwise, most of the time, yes, people either use their high-end gaming PC for cracking, or a cluster of shittier PCs (either their own or a botnet)",2016-06-01 15:01:06+00:00,d3rs8j6,3.0,t1_d3ro2ag,6462.0,hacking
+84,"&gt; The part to be careful about is that your wireless NIC on your computer is communicating with the wireless router, so if they keep logs, it could still be traced back to that NIC
+
+Are NICs identified via MAC addresses (which are spoofable), or does it give out some other identifying information?",2016-06-01 14:57:59+00:00,d3rs3nm,2.0,t1_d3rk4z2,15606.0,hacking
+85,he is. not big surprise.,2016-06-01 14:48:23+00:00,d3rroym,3.0,t1_d3rf7ol,31448.0,AskReddit
+86,"I'm not getting it... What insult is Dixit similar to?
+
+Dipshit?
+
+Dick sit?",2016-06-01 14:17:37+00:00,d3rqfq1,4.0,t1_d3rpozc,1133.0,tifu
+87,Are you able to realize you're dreaming because you know you're never going to get laid?,2016-06-01 14:14:22+00:00,d3rqb17,6.0,t1_d3rq1ky,405.0,todayilearned
+88,"Also it doesn't have all breaches.
+
+Leakedsource had my Neopets password and email. haveibeenpwned didn't have a clue I'd been breached there.",2016-05-31 21:14:49+00:00,d3qwjg9,3.0,t1_d3pzoyn,62858.0,HowToHack
+89,#WE ARE NOT YOUR PERSONAL ARMY,2016-05-31 21:11:36+00:00,d3qwea4,1.0,t3_4lx8rk,3711.0,hacking
+90,"The term ""doxing"" is derived from ""documents"", or "".docx"". I wouldn't call social engineering doxing because in that case, you're not doing anything related to looking up documents. 
+
+I would probably use the terms ""reconnaisance"" or ""fingerprinting"" when describing engaging in information gathering that extends past looking up publicly available documents on the internet.",2016-05-31 14:55:05+00:00,d3qfjpv,4.0,t1_d3qbdnv,7066.0,hacking
+91,Do you boil and then fry or just straight up fry the rice? Seems like it would be awfully crunchy.,2016-05-31 10:26:00+00:00,d3q808y,4.0,t1_d3pzpe3,23909.0,AskReddit
+92,How can malware mess with the BIOS? I thought even root doesn't have the privileges necessary for overriding the BIOS?,2016-05-31 10:17:42+00:00,d3q7v5s,3.0,t1_d3pp9sj,39501.0,netsec
+93,"You're correct. For example, doxing someone on reddit would look something like this:
+
+1) Dig through his comments. You'll find out a lot about him, maybe even enough to pinpoint him based on the info he's given alone. This is how a hacker from LulzSec was caught. He blurted out that he'd got arrested at a particular place at a particular time, among other people. The cops then associated other information he'd disclosed about himself (e.g he likes dumpster-diving) and established his real identity.
+
+2) People usually reuse usernames. If you can link an username to Google, Twitter, Steam, etc, you'll usually have an email and their real name.
+
+3) Use doxing sites. There are websites that give you criminal records, phone numbers, emails, real name, etc. All you need is just one of those and you can get the rest. If you only have an username, you could also look through password dumps. Some of them contain the email you signed up with, which could be used to further dox you.
+
+The only way none of this works is if you use throwaway usernames and emails and if you don't speak about your personal life. Otherwise, it's pretty easy to dox most people.",2016-05-31 09:52:19+00:00,d3q7gat,2.0,t1_d3q757l,1163.0,hacking
+94,"That's social engineering, not doxing. I'll elaborate in like an hour, when i have time
+
+Edit:
+
+Social engineering - engaging the victim to trick him into disclosing information. Can be done by making him click on links and trying to trick/scam him using conversation.
+
+Doxing - Looking up documents and information on the internet related to the victim. You don't have to reach out to the victim to dox him.",2016-05-31 08:12:47+00:00,d3q5vcn,2.0,t1_d3q5ryq,340.0,hacking
+95,"Thanks. And happy cake day!
+
+Seriously though, you work at a bank and don't know anyone infosec related? You guys wouldn't happen to have a bug bounty would you? I could use some quick cash :P",2016-05-31 06:11:06+00:00,d3q3jus,8.0,t1_d3ply1h,30379.0,AskReddit
+96,"Also, there are Realistic challenges at root-me, which is exactly what I was looking for!",2016-05-30 21:05:44+00:00,d3pkj0o,,t1_d3kvp5j,,HowToHack
+97,"To continue the logic - due to what you said, the salt can safely be stored in the database along with the hash, because its only function is to prevent the hash being cracked using rainbow tables.",2016-05-30 20:56:12+00:00,d3pk6o0,3.0,t1_d3pjhpc,1133.0,hacking
+98,"Shit, all this done collectively over 24 hours? 
+
+It takes me hours just to complete some shitty easy VM challenge. Researching off-topic hacks and reddit contribute to that, obviously, but still. This guy isn't even an experienced hacker, this is impressive!",2016-05-30 15:24:47+00:00,d3p7tp4,1.0,t3_4ll05e,83461.0,netsec
+99,"Yeah. I love programming and infosec, so I'm probably going that route. I just thought it would have something to do with security, since banks usually hire a lot of it.",2016-05-30 09:23:01+00:00,d3ozj14,6.0,t1_d3og9xr,42104.0,AskReddit
+100,"Damn, didn't think of that, thanks! I'll definitely be asking for some tips too, because I'm a bit inexperienced :)
+
+Btw, I read through the last challenge's writeup. The author said what he usually does is he checks the content of the HTML, then does a hidden directory scan and then tries SQLi. That's pretty much how all the vulnerabilities were found. Are the mindset/methods different this year?",2016-05-30 09:20:56+00:00,d3ozhri,,t1_d3og4ur,42227.0,hacking
+101,"I can tell I lost IQ points when watching that when one of his thoughts actually gave me some pause. 
+
+https://www.youtube.com/watch?v=7UuW9CqhBdE&amp;feature=youtu.be&amp;t=1h11m30s (see the diagram to perhaps help you get confused more easily)
+
+His logic: say, the earth has a radius of R kilometres. If you walk R kilometres in one direction, then you now will be R kilometres lower relative to your previous position, because you will have walked a quarter of the earth's circumference.
+
+This is false, of course, because the earth's circumference is 2*pi*R and to walk a quarter of the earth's circumference (and therefore be R kilometres lower relative to your previous position), you'll need to walk 2*pi*R/4 kilometres, not R kilometres.
+
+To recap - this guy doesn't even grasp 5th grade mathematics, like calculating the circumference of a circle.",2016-05-29 15:51:16+00:00,d3o434w,8.0,t1_d3o0w3j,6217.0,videos
+102,This sounds like such interesting science. Can someone explain these two concepts further?,2016-05-29 15:11:52+00:00,d3o2t86,4.0,t1_d3o1h23,2648.0,videos
+103,Tesla was released in 2015 I believe.,2016-05-29 15:03:15+00:00,d3o2ja7,4.0,t1_d3o1hp7,2094.0,pics
+104,What kind of work does he do to get paid £500 a day? Asking because going to uni in England and interested in IT.,2016-05-29 11:09:46+00:00,d3nx6fx,4.0,t1_d3nssgp,16871.0,AskReddit
+105,And firing him helps how?,2016-05-27 20:53:49+00:00,d3m8etp,9.0,t1_d3m85om,378.0,news
+106,"That's a shame. But thanks to the internet, anyone can learn.",2016-05-27 20:28:19+00:00,d3m7d8o,4.0,t1_d3m5vu6,2138.0,IAmA
+107,"Yeah, I'm definitely interested in an example!
+
+I need to read up a bit on shared hosting, but I think I understand what you're saying - even though there effectively isn't a bash shell available, PHP can be used as a replacement for Bash (since it can read, write, etc)",2016-05-27 07:45:56+00:00,d3lijjd,4.0,t1_d3lhxze,2014.0,HowToHack
+108,"I'm guessing as the PHP backdoor you just mean system($_GET[""cmd""]), from which you can make a neat reverse shell with netcat or possibly meterpreter?
+
+Correct me if I'm mistaken, but isn't the only realistic way to hack ftp just trying to brute force the passwords?",2016-05-27 06:40:13+00:00,d3lhb5h,2.0,t1_d3lc0qj,11837.0,HowToHack
+109,"Just checked this out - this is pretty cool! It's not exactly what I had in mind (a CTF that's basically like hacking a real website), but it looks really interesting and I'm definitely going to use it as a learning resource!
+",2016-05-26 20:06:30+00:00,d3kvp5j,2.0,t1_d3krh2m,5444.0,HowToHack
+110,"I can't get the website (test-lab v9) to open. 
+
+I made an account, logged into the VPN with  
+
+    sudo openvpn --config ./lab.pentestit.ru.conf
+
+It logged in successfully. I tried to connect to the lab at 192.168.101.8. ~~DNS resolved the IP~~ It redirects to to www.cybear32c.lab. However, Chrome says server not found. Pinging works and nmap shows that both http and https are open.
+
+As shown by netcat, doing a GET / HTTP/1.1 gives a 302 moved temporarily to http://cybear32c.lab
+
+Doing netcat on the cybear address, things get weird. First it hangs for a while. Then it displays the contents of the root folder (?!?). I'm beginning to think that accessing the web page is part of the challenge...
+
+Also you can try to ssh into it, but the vpn credentials don't work, so it's probably a part of the challenge.",2016-05-26 13:57:26+00:00,d3kerp5,1.0,t3_4kxx4w,120979.0,hacking
+111,"Yes. I just wanted to highlight that intuitively it should be possibe, but because it would be a security threat, the feature has been disabled on almost all routers.
+
+I tried it myself and at first I couldn't understand why I could connect via the private and not the public IP.",2016-05-26 12:54:57+00:00,d3kcka8,5.0,t1_d3kams5,4252.0,hacking
+112,"That's outrageous! What do you think, guys? Should we kill her?
+
+^^/s",2016-05-26 12:50:28+00:00,d3kcf7t,1.0,t3_4l3gx9,33380.0,gaming
+113,"Your public IP is actually your router's public IP. So theoretically you could access the web interface of the gateway by typing in his public IP. 
+
+If you try it though, you'll find that the router's web interface is only accessible from inside the private network. Connections from the internet are blocked for obvious security reasons.",2016-05-26 10:49:23+00:00,d3k9it3,3.0,t1_d3k055i,26074.0,hacking
+114,"Yeah, Network+ is pretty good. Definitely learn all the technical modules until troubleshooting theory, plus NAT/PAT at the end
+
+However, I wouldn't recommend taking any other course on Cybrary. I went through the entirety of Security+ and it was completely useless. It was so shallow in its depth and for all the modules I watched, I remember only one or two useful things I got. I think it's meant for managers, because actual security professionals will find the information too watered down to be useful. I haven't done Linux+, but I've seen comments at /r/howtohack saying it's poorly thought through and not worth your time. Instead I'd just download a linux distro and figure it out as you go.
+
+Moreover, I don't recommend Cybrary's pentester modules. It doesn't teach hacking, it basically just showcases a bunch of tools you can use. Instead, I found Pentesterlab's Bootcamp extremely useful (for web pentesting).  
+I definitely also recommend Hacksplaining. It helps grasp concepts in a simple manner before actually diving in and learning them.
+
+For other stuff like reverse engineering and binary exploitation, I've heard the opensecuritytraining courses are good.
+",2016-05-26 10:42:24+00:00,d3k9e7b,1.0,t3_4l1t7p,49815.0,hacking
+115,"Woah, when did this turn into GradeAUnderA?",2016-05-25 19:52:24+00:00,d3ji1x0,7.0,t1_d3j1zin,21332.0,LifeProTips
+116,"&gt;Shekles
+
+Doot doot!",2016-05-24 05:38:19+00:00,d3hecxw,8.0,t1_d3hdpuv,1671.0,AskReddit
+117,Now I get it. Thanks!,2016-05-22 19:54:36+00:00,d3fif6j,8.0,t1_d3f3sqx,27868.0,netsec
+118,It isn't. Every single transaction is recorded in the blockchain.,2016-05-22 19:54:11+00:00,d3fienw,2.0,t1_d3f50v5,24206.0,hacking
+119,"Ok, now I get it. Thanks!",2016-05-22 19:53:51+00:00,d3fie70,6.0,t1_d3f5zut,21815.0,netsec
+120,"I must have read that wrong. I have no idea why I said no, when that's exactly what it is.",2016-05-22 09:43:09+00:00,d3f1jky,10.0,t1_d3ek5cf,41736.0,creepy
+121,"No like seriously, you can literally learn all of that for free. Besides, most of us don't have $1.5k to throw away.",2016-05-22 09:41:47+00:00,d3f1ivs,6.0,t1_d3emht2,37284.0,HowToHack
+122,"Ohh I think I'm starting to get it now. So OP had to skip a few packets (only ONE time, not everytime) so the packets could be ""in sync"", e.g going from ""command"" instead of ""ndcomma""?",2016-05-22 09:39:25+00:00,d3f1hmu,6.0,t1_d3ekvjj,40169.0,netsec
+123,"But shouldn't *all* the packets be identifiable as MP3s, since it's an audio stream?
+
+Edit: I think I'm starting to get it now. So OP had to skip a few packets (only ONE time, not everytime) so the packets could be ""in sync"", e.g going from ""Audiostream"" instead of ""eamAudiostr""?",2016-05-22 09:36:03+00:00,d3f1fv8,4.0,t1_d3exgiu,14190.0,netsec
+124,"The Judaic gio us also ""jealous"", so christianity wasn't the first religion to come up with the idea.",2016-05-21 21:36:43+00:00,d3ej4l7,8.0,t1_d3ecnir,11232.0,creepy
+125,"No.
+
+Edit: Yes.",2016-05-21 21:33:20+00:00,d3ej0l2,8.0,t1_d3ehu5o,2072.0,creepy
+126,OP was a witch and therefore had to be burnt.,2016-05-21 21:32:48+00:00,d3eizy8,9.0,t1_d3eh0sz,3461.0,creepy
+127,"I sometimes play on 4chan's gaming servers, and judging by the language I can almost guarantee that guy is from 4chan. He's probably not the straightest hammer in the shed.",2016-05-21 21:27:50+00:00,d3eityf,10.0,t1_d3eio6i,281.0,sports
+128,"What are magic bytes? Sorry, I'm not very knowledgeable yet.
+
+Edit: Google says magic bytes are things in packets which say what kind of filetype is coming over the network.
+
+Still though, why are packets with ROM data magic bytes among the elevator packets? Is it just a coincidence?",2016-05-21 21:22:34+00:00,d3einfu,4.0,t1_d3ehvqe,1352.0,netsec
+129,"&gt;socialist cucks 
+
+Don't get me wrong, SJWs are retarded for sure, but this guy has legit brain damage.",2016-05-21 21:21:18+00:00,d3eilwy,8.0,t1_d3ei6ez,755.0,sports
+130,"I don't get it, why was there ROM data in the multicast packets?",2016-05-21 20:55:35+00:00,d3ehq2v,2.0,t1_d3e7ung,16877.0,netsec
+131,That's way too much to pay when you can just learn all of that for free.,2016-05-21 16:22:29+00:00,d3e84nz,4.0,t1_d3e1v5n,13345.0,HowToHack
+132,"Security+ and Pentesting are also shit on Cybrary.
+
+Surprisingly, I actually found Network+ to be quite useful. So at least there's one useful course there.",2016-05-21 15:56:55+00:00,d3e79b9,2.0,t1_d3dmdcx,55240.0,HowToHack
+133,"If I may give my own two cents:
+
+I agree that Network+ is really good. In fact, I recommend it to anyone who wants to be a hacker. However, I went through the entirety of Security+ and it was completely useless. It was so shallow in its depth and for all the modules I watched, I remember only one or two useful things I got. I think it's meant for managers, because actual security professionals will find the information too watered down to be useful. I haven't done Linux+, but using Linux daily and googling what I needed is what has taught me.
+
+Also, I don't recommend Cybrary's pentester modules. It doesn't teach hacking, it basically just showcases a bunch of tools you can use. Instead, I found Pentesterlab's Bootcamp extremely useful (for web pentesting).  
+I definitely also recommend Hacksplaining. It helps grasp concepts in a simple manner before actually diving in and learning them.
+
+If you mean the Udemy course where the arab guy talks with an accent and tries to teach concepts, then I wouldn't bother. His speech is difficult to understand and there are better methods of learning.
+
+I don't really like books for learning. However, I really recommend setting up your own lab. I really like Damn Vulnerable Web App for that. Also, if you *really* want to understand a subject, then I would recommend first building what you intend to break. If you want to learn SQL injection, then first set up a MySQL database and make a vulnerable website that you can exploit. Pentesterlab's Bootcamp focuses on that aspect a lot, and before exploiting anything, you're going to build it first.",2016-05-21 15:55:29+00:00,d3e77jz,2.0,t1_d3ddeir,70045.0,HowToHack
+134,That looks like the one! Thanks!,2016-05-21 07:07:10+00:00,d3dwpdz,2.0,t1_d3dc81e,40069.0,HowToHack
+135,"These databases usually aren't free. I think it costs like 80 cents per day on leakedsource (not sure if you can buy for just 1 day though). If you really want them for free, you might find them on the dark net.",2016-05-20 13:17:05+00:00,d3cv7op,4.0,t1_d3cukit,1220.0,worldnews
+136,"They work on the same principle though, right? In that case, it would seem kind of crappy to have to pay to a certificate company just so you can SSH securely.",2016-05-20 11:01:24+00:00,d3crqsg,9.0,t1_d3cr9ph,1545.0,worldnews
+137,"If people were given 25 hours in a day instead of 24, then they'd use that extra hour to work and make more money.",2016-05-20 10:37:12+00:00,d3craot,2.0,t1_d3cl42s,19872.0,Showerthoughts
+138,"Surprisingly, HaveIBeenPwned is not the end-all-be-all. When I searched my old email there, it said my details had been leaked on 2 sites. When I searched an actual database of leaks (in that case, at leakedsource), I found that I had been breached on 3 sites (and saw the passwords of all of them). HaveIBeenPwned didn't know my Neopets account had been breached.",2016-05-20 10:35:38+00:00,d3cr9ow,2.0,t1_d3cli3g,18830.0,worldnews
+139,"I'm just really amazed that the passwords were leaked. I mean, surely LinkedIn would implement salted hashes?",2016-05-20 10:30:38+00:00,d3cr6f7,4.0,t1_d3co38c,11210.0,worldnews
+140,"I only know of SSL certificates, which is probably not what you're thinking of. What kind of certs do you mean?",2016-05-20 10:07:28+00:00,d3cqsay,7.0,t1_d3cnoga,11130.0,worldnews
+141,"You're partially right, yes. Microsoft rewards those who can hack into Microsoft, but only if they responsibly disclose their findings. This is often called a bug bounty program. Meaning, the hacker mustn't take advantage of the finding in any way and must tell Microsoft about it in secrecy so they can fix the problem. In return, they might get a small reward for the huge amount of essentially voluntary work they've done.
+
+On the other hand, if anyone is caught stealing anything from Microsoft, then they're going to jail and definitely not getting any sort of job at Microsoft.",2016-05-19 19:00:20+00:00,d3bydz7,9.0,t1_d3btgii,6347.0,personalfinance
+142,"&gt;dumb tutorials made from dumb people that didn't explain how things worked
+
+Yup. Go to 2015. Me making my first game hack. Following a tutorial on how it's done. 
+
+""Well this is the general area where the game looks at how many bullets you have. If you want to have infinite bullets, then you just start going through the opcodes one by one, NOPing everything, seeing what breaks, until you accidentally NOP the right value""
+
+It worked, but it was awful. And I still don't know how to correctly identify what something is. I can recognize IF statements and FOR loops easily, but the EAX's and EBX's all just look like some arbitrary variables. I understand what's going down at the assembly level but I have no idea what it all means in terms of high-level code and what the machine code is meant to be doing.
+
+Btw, have you heard of OpenSecurityTraining's x86 intro and software reversing classes? They're free, so I thought I'd check them out.",2016-05-19 18:55:03+00:00,d3by5b1,6.0,t1_d3bwsk3,1764.0,hacking
+143,Choose from the recommended list in the sidebar of /r/howtohack,2016-05-19 13:54:56+00:00,d3bkmyn,1.0,t3_4k294g,4513.0,hacking
+144,"I would disagree with that. 
+
+Infosec professionals (or ""hackers"", if you will) are hired by corporations to secure their infrastructure so that malicious hackers can't gain access to things they shouldn't. You don't trust someone to help you prevent theft if that person himself has been involved in illegal activites. That would be like trusting a cop that has been part of the mafia to handle all evidence related to the mafia.
+
+Government jobs are off the shelf immediately for felons and private companies don't really trust them either.
+
+However, the reason many hackers rise to glory after imprisonment (like Samy Kamkar and Kevin Mitnick) is that they have a lot of knowledge that the world needs. Also the imprisoned ones are the most well-known because they are the most interesting of the lot for the public, not necessarily because they're the most brilliant.
+
+Similarly, anyone with a good skillset (talented engineers, artists, labourers) should be able to get back on their feet. Of course, it will be much harder for them, but it's possible.",2016-05-19 12:47:56+00:00,d3bic8g,7.0,t1_d3bhtno,1089.0,personalfinance
+145,"&gt; dragging a binary to IDA/Olly and scrolling through the assembly is not going to take you anywhere.
+
+&gt; And where did you learn from? Nowhere, I just dragged a binary into IDA and started looking around. I ended up liking that so I kept doing it.
+
+That's somewhat ironic, haha. 
+
+Can you describe where you typically look? Or even better would be some resources you learned from, because surely you didn't go through the hassle figuring everything out for yourself?",2016-05-19 12:37:19+00:00,d3bi14c,4.0,t1_d3a3l3q,88275.0,hacking
+146,"Try this, you'll be able to climb it on the first try.
+
+
+Jump, grab ahold of the branch with your arms, place your feet on the tree trunk, start walking up the trunk until you can lift one leg over the branch. Then use your leg and arms to pull your body up to the same side where your leg is. It should be pretty easy to place your butt on the branch and finish in a seated position.",2016-05-19 12:22:05+00:00,d3bhmae,2.0,t1_d3b2far,37716.0,funny
+147,"Just look at Kevin Mitnick. Used to be a Most Wanted hacker, now runs a company and is rich.",2016-05-19 06:16:07+00:00,d3bas6x,5.0,t1_d3b6f51,9578.0,personalfinance
+148,"While you do have a point, it's often the case that doctors and nurses just give no fucks about you whatsoever. 
+
+Like the story (from some other popular thread I think) of the kid who had to wait until the next day to get a penny removed from his throat. Next day the surgeon said he's surprised the kid didn't choke.
+
+I'm sure pretty much anyone who has spent some amount of time in hospitals has these experiences. I certainly do.",2016-05-19 05:25:45+00:00,d3b9nbo,10.0,t1_d3b8dvx,2818.0,mildlyinteresting
+149,"&gt;gotta to
+
+Yes, you really do have to.",2016-05-19 05:16:13+00:00,d3b9eqi,6.0,t1_d3b5nk1,7266.0,mildlyinteresting
+150,"When I first saw the tool opening, I thought it had sharp hooks on the end, like 4-sided fishhook style. I literally shook a bit thinking about that think ripping through someone's throat.",2016-05-19 05:08:19+00:00,d3b97et,10.0,t1_d3az9jg,16477.0,mildlyinteresting
+151,"He was too star-eyed with his own misinformed knowledge to listed to anything OP had to say tbh.
+
+#Nothing is impossible",2016-05-18 09:20:59+00:00,d3a0f15,2.0,t1_d39sj6o,20616.0,hacking
+152,"What kind of session hijacking? 
+
+Like MItM? In that case, the browser starts sounding sirens while telling the victim he's being hacked. Doesn't seem too viable.
+
+Stealing cookies via XSS?
+
+Session fixation, which isn't too common a vulnerability?
+
+Something else?
+
+",2016-05-17 22:37:02+00:00,d39fp0g,2.0,t1_d392p0i,16931.0,HowToHack
+153,"Can confirm. The site is awesome. Whenever I start learning about a new topic, I check it out at Hacksplaining, since the topics are made really easy. After getting insight into what the vulnerability is, it's much simpler to learn all the technical details and exploit it myself.
+
+Thanks for the awesome website! By the way, do you ever plan to monetize it? Why do you force people to register?",2016-05-17 22:34:28+00:00,d39fl7n,2.0,t1_d396zmt,11397.0,hacking
+154,"That's awesome!
+
+How hard is it to find these overflows and how long have you been practising binary exploitation? I'm asking because this is something I plan to get into as well. And where did you learn from? The Lena's tutorials I followed weren't the most effective in teaching reversing.",2016-05-17 22:27:52+00:00,d39fb9u,2.0,t1_d38zjil,20324.0,hacking
+155,"Thanks, that's very generous of you!
+
+PM'd.
+
+Edit: Looks like HaveIBeenPwned isn't enough. 
+
+Leakedsource gave me 4 answers from 3 unique domains. 2 of them were in the haveIBeenPwned  directory (MPGH and R2Games) while 1 breach wasn't (Neopets). 3 of the 4 answers contained my past passwords. 2 of the answers were hashed (with one of the two hashes apparently cracked or otherwise obtained). 
+
+The service looks pretty legit.",2016-05-17 22:21:24+00:00,d39f1hm,6.0,t1_d38zj2l,19952.0,HowToHack
+156,I'm currently playing it. It's pretty nice so far. Wish it had more quests though.,2016-05-17 22:19:31+00:00,d39eyma,2.0,t1_d394is1,13607.0,RSPS
+157,"I mean, they wouldn't necessarily notice though, right? You could run what seems to be a legitimate server while RCE'ing anyone who connects.
+
+Alternatively, you could hack a popular server which gets hundreds of unique visitors per day and upload your files there...",2016-05-17 15:30:22+00:00,d38vvw5,2.0,t1_d388t9t,51050.0,hacking
+158,"Searched on leakedsource. Yup, my email turns up 4 times. It's behind a paywall, but it says it's only 0.76$ per day. Guessing you can't just buy it for 1 day though.",2016-05-17 15:28:21+00:00,d38vsjh,4.0,t1_d387n8o,52719.0,HowToHack
+159,"Well, not nearly the same principle, but it's in a similar direction, e.g the attacker can't access it.",2016-05-16 22:43:36+00:00,d382sx5,5.0,t1_d37bm6v,44815.0,2007scape
+160,But cookies can't be intercepted over HTTPS...,2016-05-16 21:37:27+00:00,d380674,,t1_d37zr4g,609.0,hacking
+161,"If you have a processor with 4 cores, then you would use 4 threads so you can utilise every core to its fullest. If you were to make 1 million threads, then you'd be putting 250,000 threads on each core, which is terribly inefficient.",2016-05-15 16:40:20+00:00,d36gbcs,2.0,t1_d36f0b5,2250.0,HowToHack
+162,"I'm sure that's the case for offline cracking. I thought maybe it's different for online cracking though, since the main bottleneck is the remote server, your bandwidth and your wireless card.",2016-05-15 16:38:51+00:00,d36g9gz,2.0,t1_d36fzc4,478.0,HowToHack
+163,"I think most of us here are self-taught.
+
+In high school I decided to learn programming. Luckily there was a college course designed for high school students available, so I enrolled and learned basic programming in about 6 months.
+
+Then I started subscribing to /r/howtohack and /r/netsec, but found it really difficult to break into the field for a while. I didn't know what to study and I didn't know where to begin. My efforts at installing Apache on Windows failed. I had no knowledge of networking or web development so it was hard.
+
+I eventually decided to go with what I knew and took up reverse engineering. Sadly, I didn't pick the absolute best resources for learning. I used lena's cracking tutorials, which are meant for software cracking. I did learn a bunch, but I wish I had discovered better resources for learning. I plan to continue where I left off and actually thoroughly learn it, though.
+
+Then I decided I really should learn a bit about networking. I did Cybrary's Network+ course in a few weeks. It was good. Wish I hadn't wasted my time on the Sec+ or Pentesting modules though.
+
+The most noticeable progress started when I decided to learn web app exploitation. I started doing pentesterlab's bootcamp. I also installed the LAMP stack on my Linux computer (way easier than doing it on Windows). Whenever I learned something new, I made sure to first implement the bug myself. It's easier to break things you've built yourself.
+
+Now I'm just kinda refining my web app exploitation skills and expanding my horizons. The entire process has taken more than 3 years, but it's been really enjoyable and thoroughly worth it.",2016-05-15 16:36:22+00:00,d36g6cu,1.0,t3_4jg6yo,9464.0,hacking
+164,"I like Codeacademy more. Whenever I try to pick up a coding book, I get so bored. Personal projects and stackoverflow are the best learning methods imo, and Codeacademy has the same mentality.",2016-05-15 14:19:08+00:00,d36bhti,3.0,t1_d35lzba,62795.0,HowToHack
+165,"To me, script kiddies are the guys who just want to push a red button and be done with it. Real hackers are those who care about learning what's actually going on.
+
+Script kiddie: ""I don't understand what's going on here. Can you make a script which does it for me?""
+
+Hacker: ""I don't understand what's going on here. Can you help me understand?""",2016-05-15 14:09:54+00:00,d36b7na,1.0,t3_4jdwbn,48813.0,HowToHack
+166,Can't it be done using mathematical induction?,2016-05-14 22:18:54+00:00,d35ouwb,4.0,t1_d35gvll,14266.0,AskReddit
+167,That's my secret. I'm always hungry enough to eat an apple.,2016-05-12 20:36:24+00:00,d335wdp,1.0,t3_4j1i8u,14953.0,LifeProTips
+168,"Depends. 
+
+The reason why you might want to use the live cd is if it's been custom modified. For example, it might have a website installed which is meant for pentesting, or it might have specific settings enabled which are necessary to complete the excercises. 
+
+If not, then keep using your regular Kali. For beginners, I recommend BackBox though. It's based on Ubuntu, so it's easier to understand and troubleshoot, and it only has the core essentials. As a novice, I haven't run into a situation where I've needed something Backbox doesn't have yet (except BurpSuite, which isn't on Kali either afaik)",2016-05-11 16:07:41+00:00,d31fw5h,5.0,t1_d310x3v,33573.0,HowToHack
+169,I'm currently reading Dune. What a great fucking book!,2016-05-10 19:14:23+00:00,d30az7o,4.0,t1_d2ztqyf,24351.0,AskReddit
+170,"It will be useful for sure, although not required. As long as you have programming down, you're fine.",2016-05-10 10:51:27+00:00,d2zrix2,3.0,t1_d2zn6a8,15394.0,HowToHack
+171,RemindMe! Scarred for life porn,2016-05-09 19:29:09+00:00,d2yyu0m,7.0,t1_d2yy4pi,953.0,gifs
+172,"On the contrary, too young. I don't need all the tools that Kali has, I have more than everything I need here. I only have a 50gb hard drive, so I try not to clutter it up :P
+
+Plus, the Ubuntu base makes it a lot more user-friendly, which is great. If I need to troubleshoot something, I can just find the solution for Ubuntu on forums and copy it!",2016-05-09 16:36:31+00:00,d2yr6ta,3.0,t1_d2yqgav,1000.0,HowToHack
+173,"I found it to be boring. Books are great in general, but I feel like real knowledge comes from hands-on learning. Imo, messing about with VMs like DVWA, Webgoat, downloading binaries to exploit, etc is much more interesting, and therefore a better learning tool.
+
+For starting out, I suggest Python on Codeacademy, Network+ on Cybrary, then branching out. For example, learn the LAMP stack and then do Bootcamp on Pentesterlab for web app exploitation. For reverse engineering and binary exploitation, there are courses on OpenSecurityTraining.",2016-05-09 14:34:52+00:00,d2ym3j4,1.0,t3_4iimc4,23864.0,HowToHack
+174,"I just took a 10 year old dell latitude, installed backbox on it and it works great. You don't really need to shell out a lot of money, just get someone's slow old laptop, make it fast by installing Linux and it'll work just fine.",2016-05-09 14:30:15+00:00,d2ylxcg,1.0,t3_4igpth,57327.0,HowToHack
+175,"When I started learning hacking, then that's one of the first resources I tried. It isn't very good imo. It doesn't teach very effectively, I don't really remember feeling like I learned anything there.
+
+Currently, the path that works really well for me is that I will: 
+
+1) Pick a concrete topic: SQLi, XSS, Session fixation, etc. 
+
+2) Go to hacksplaining.com if I don't fully understand the topic. It's made really simple there. Also I'll read the OWASP and any other sites Google recommends for the topic.
+
+3) Download something that helps me learn it, for example DVWA for CSRF vulns. 
+
+4) (optional) If I haven't done anything similar before, I will implement the vulnerability on my own website. For example, before doing SQLi, I will implement a MySQL database and a vulnerable query to my locally hosted website. This is also useful because if I get stuck in the challenge, I can mess around with my own code and see what I'm doing wrong
+
+5) Read through the recommended reading and finish the module in DVWA.
+
+After that I usually have a pretty good grasp of the vulnerability and might even me able to find some vulnerabilities in websites.
+
+",2016-05-09 13:51:46+00:00,d2ykizu,2.0,t1_d2x44i1,120217.0,hacking
+176,"I can second that. For the fact that they're free, the network+ lessons are pretty damn good.",2016-05-08 09:53:17+00:00,d2xa6wf,2.0,t1_d2wij4h,59820.0,networking
+177,"WATER IS A CHEMICAL!
+",2016-05-07 06:41:27+00:00,d2w4ly4,4.0,t1_d2vtxqn,22980.0,AskReddit
+178,"Good job! 
+
+Good news is, the more you study, the easier it will be to get good grades in the future. Keep it up!",2016-05-06 20:50:07+00:00,d2vmbdk,1.0,t3_4i51ib,27004.0,teenagers
+179,"So basically, I'm not going to find these in most common webpages.",2016-05-05 08:39:21+00:00,d2tkv3t,2.0,t1_d2snmzk,55368.0,HowToHack
+180,"CCTV might still screw you over though, especially in downtown coffee shops and such.",2016-05-05 08:38:12+00:00,d2tkufq,2.0,t1_d2tfmnt,14811.0,HowToHack
+181,"Yeah. It's a really high-level language. A lot of things are done for you, which means it's easy for beginners to learn the fundamentals of programming without having to worry about types and pointers and such. Also, it's really powerful and widely used. Very many hacking scripts are made in Python.",2016-05-05 08:37:08+00:00,d2tktu8,5.0,t1_d2sslj5,49015.0,HowToHack
+182,"There's life beyond your group of non-smoking, non-drinking peers. All that's needed is a bit of empathy and understanding. Come over to Macedonia, maybe smoking a bowl will make you more open-minded.",2016-05-05 08:35:31+00:00,d2tksv1,12.0,t1_d2tkc4p,1677.0,news
+183,"Cigarette smokers get smoking breaks. Sharing a smoke is a good way to socialise. There are benefits.
+
+Not that it's worth it of course. What I'm saying is - let people make their own choices. Some people want to serve in the military, some want to smoke. It's their life, let 'em live it.
+
+To clarify, what I disagreed with specifically is you saying ""smoking should be banned outright, because I think it's bad and pointless"". I do agree with making sure only those smoke who are conscious of the consequences, e.g not teens under the age of 18, but prohibition doesn't work.",2016-05-05 08:21:50+00:00,d2tkkro,11.0,t1_d2tkeq5,604.0,news
+184,"Sorry to say, your vice is that you're a bit of an uptight cunt, mate.",2016-05-05 08:04:07+00:00,d2tka1z,10.0,t1_d2thi21,8373.0,news
+185,"Sometimes I just don't get it, man. Everyone knows serving in the military is fucking stupid. Everyone knows it's nothing but a miserable mess. You'll either come back without an arm or a leg, or best case scenario, having wasted several years of your life. And for what did you give your remaining years, limbs or ever your life for? Fulfilling your country's politicians' dreams, getting cheap oil, annexing regions like Crimea? How dense do you have to be to give your *life* for someone else's shitty goals? Soldiers are just killing themselves for others like mindless puppets. I pity soldiers, I really do. /s
+
+Just to show you that people can have different viewpoints. You say smoking is nothing but a way to kill slowly kill yourself, and you're sort of right, smoking is bad. However, the same can be said of serving in the military. It's just another pointless way of killing yourself. Edit: Which, of course, is a narrow viewpoint. There's more to it than that.
+
+And to dispel any biases - no, I don't smoke. Yes, I'm actually going to serve in the military, though only out of necessity.  I actually do despise offensive militaries, though I see the need for defensive ones.",2016-05-05 08:02:46+00:00,d2tk97a,9.0,t1_d2thfwu,8437.0,news
+186,"It is a bad thing. It hampers progress. Let the ones who want to grow up, grow up. 
+
+Because let's be honest. When did you start drinking? 13? 15? I know I did. And it would be silly to say me or my friends weren't ready for it, most people can be responsible at 15 y/o. At 18 most people are ready for an independent life and college, though I definitely wouldn't have been ready for war. I think Germany's doing it right. Lower the drinking age to 16, that's when most people start anyways.",2016-05-05 07:13:36+00:00,d2tjdn8,7.0,t1_d2tj186,1103.0,news
+187,"Wouldn't it almost always be hardcoded in that case?
+
+    &lt;?php  
+        if ($_GET['lang'] == ""eng"") {  
+            include(""englishPage.php"");
+        }
+     ?&gt;",2016-05-04 16:37:37+00:00,d2slsq4,2.0,t1_d2sd3lq,12473.0,HowToHack
+188,Happy cake day!,2016-05-04 12:18:46+00:00,d2sbmg3,3.0,t1_d2rwlsf,36339.0,HowToHack
+189,The Codeacademy Python course is great.,2016-05-04 12:18:05+00:00,d2sblqp,3.0,t1_d2s963f,6985.0,HowToHack
+190,"Really cool to see you here personally!
+
+If only technical solutions can't be relied on, what are the untechnical solutions that need to be put to use? Connecting from a coffee shop, for example?",2016-05-03 03:42:40+00:00,d2qlup2,2.0,t1_d2pnvqj,47236.0,HowToHack
+191,Did you notice we have a sidebar?,2016-05-02 09:11:56+00:00,d2pg3r6,1.0,t3_4hcgm9,35099.0,HowToHack
+192,"Thanks for the stackoverflow link, it really cleared things up for me. To summarize:
+
+The problem with using only Tor is that it doesn't provide encryption between the exit node and the website you want to visit (if uses HTTP and not HTTPS). Thusly, anyone monitoring the traffic of the exit node will be able see your potentially sensitive data in plaintext. The idea with connecting to the VPN through Tor is that then your traffic coming out of the Tor exit node will be encrypted (though between the VPN and website it will still be unencrypted)
+
+One possible example of not connecting to a VPN after going through Tor is the following:
+
+You use Tor to connect to an (enencrypted) IRC to chat with people and exchange sensitive information. However, because the data between the Tor exit node and the IRC is in plaintext, then anyone monitoring the exit node will be able to see where you're connecting to and all the information that goes to and from the IRC. Thusly, anyone monitoring the node can see the chat in the IRC even if they themselves wouldn't be able to connect to the IRC (because of authentication or whatever).",2016-05-02 08:33:57+00:00,d2pfj51,2.0,t1_d2p5e1x,22911.0,HowToHack
+193,"I get what you're saying I guess...
+
+Also I would think that VPN -&gt; TOR might be bad because if the feds can correllate traffic going from you to your VPN with the traffic going from the Tor exit node to the website, they don't even need to break Tor in any way.
+
+However, what really bothers me still is that in both of those cases, the ISP still seems like the weakest link. ISPs have your PII and also they're known to cooperate with the feds (at least more than some VPNs). So for example:
+
+You fuck up on IRC and say you're from Cleveland. Then the feds can just subpoena Cleveland's ISP and correlate the time of you being in IRC with the time the ISP has logged you using TOR. This would not be a problem if you were connecting to a VPN first.
+
+On the other hand, it's hard to see the benefit of doing Tor -&gt; VPN. In that case, the website you're visiting doesn't know  you're using Tor, which is good since Cloudflare and other sites automatically block Tor. Also the feds will have to go through the VPN first to get to your Tor exit node. However, at that point it's all just the same, if not worse. They can use your ISP to correlate the traffic to you and there's no VPN in the middle to stop that. 
+
+Idk, I feel like I'm missing something.
+
+Edit: I feel like I got a better grasp of it now. Check out /u/ParanormaJean's [comment thread](https://www.reddit.com/r/HowToHack/comments/4h8djk/why_is_connecting_to_tor_through_a_vpn_insecure/d2p5e1x)",2016-05-02 08:16:52+00:00,d2pf9mh,6.0,t1_d2pd8aj,6792.0,HowToHack
+194,"&gt;Now there are other ways to de-anonymize yourself (correlating usage patterns, being the only Tor user on your VPN, logging into Facebook, etc), but at least you're not giving yourself away just by connecting.
+
+I like your explanation and the tube metaphor really makes sense to me. I don't see how either of those methods give you away just by connecting, though. It seems to me that:
+
+Tor -&gt; VPN hides the fact that you're connecting through Tor from the remote server.
+
+VPN -&gt; Tor hides the fact that you're connecting through Tor from your ISP.
+
+In both of those cases, the traffic is anonymized through Tor and in both of the cases, the traffic could be correlated back to my IP. Though in the latter example, it would have to be first correlated to the VPN and then to my ISP and IP.
+
+I fail to see how VPN -&gt; Tor equals getting busted while Tor -&gt; VPN is fine.",2016-05-01 21:52:23+00:00,d2ovomy,4.0,t1_d2ov9ke,677.0,HowToHack
+195,"If you can get code to run on their computer (like Java or JavaScript) then in some cases you might be able to leak their IP address. This might be a bit too advanced though.
+
+Or you could be a three letter agency and ask the VPN for their IP address (or else...)
+
+So essentially, for you, no.",2016-05-01 21:40:51+00:00,d2ov991,5.0,t1_d2otbom,3103.0,HowToHack
+196,"A tool which sends as much data to another IP as you can in an effort to overwhelm that other IP. For most people, the upload speed is much slower than their download speed, so you should be fine if it's just one machine DoSing you.",2016-05-01 21:36:02+00:00,d2ov2yl,3.0,t1_d2o44so,61401.0,HowToHack
+197,"I get what you mean. However, I don't understand how the following is any better. To compare:
+
+You -&gt; ISP -&gt; Tor -&gt; VPN
+
+You -&gt; ISP -&gt; VPN -&gt; Tor
+
+In both of those cases, it seems like there's someone who knows your real IP just one hop away (an ISP or VPN). The reason I would theoretically prefer VPN -&gt; Tor is because then it's harder to correlate the time of your Tor usage with the time of your online activity (one of the things which got Jeremy Hammond busted), assuming the VPN doesn't keep logs. 
+
+Or have I misunderstood?
+
+",2016-05-01 20:28:44+00:00,d2osj6b,2.0,t1_d2og7ph,19984.0,HowToHack
+198,"https://www.youtube.com/watch?v=9XaYdCdwiWU
+
+Really great talk.",2016-05-01 20:22:37+00:00,d2osajz,2.0,t1_d2oaob5,34760.0,HowToHack
+199,"MITM doesn't equal hacked facebook though. If you redirect the connection to your own phishing server, the victim's browser tells him he's being attacked.",2016-05-01 08:24:29+00:00,d2o8phf,,t1_d2o4kwh,12857.0,hacking
+200,World War Z.,2016-04-30 20:48:05+00:00,d2np4if,1.0,t3_4h43vd,33868.0,books
+201,No problem :),2016-04-25 17:19:06+00:00,d2grize,3.0,t1_d2gfocu,17980.0,hacking
+202,I think I know how to end the Syrian war. We're going to need a *lot* of LSD though.,2016-04-25 05:17:59+00:00,d2g82fd,1.0,t3_4g9prc,33662.0,gifs
+203,Beware of the sandworms!,2016-04-25 05:15:45+00:00,d2g80g2,3.0,t1_d2g5fix,5540.0,funny
+204,"Maybe [this](https://www.hacksplaining.com/)?
+
+Don't mind the people telling you to Google. I tried, and it was near impossible to find that site. Great resource though.",2016-04-25 05:09:14+00:00,d2g7uhf,1.0,t3_4g4yc2,120286.0,hacking
+205,"Seconded. You were a bit too obvious, OP.",2016-04-25 05:07:02+00:00,d2g7sgv,2.0,t1_d2fpr9n,31087.0,hacking
+206,"I've asked there before and in my experience, /r/legaladvice doesn't have a lot of knowledge about these topics. I've been more successful asking at /r/asknetsec.",2016-04-25 05:05:22+00:00,d2g7qy7,2.0,t1_d2fvcki,22125.0,hacking
+207,"That's interesting... So why can I connect to my router's web interface through the private ip address, but not the public one?",2016-04-24 11:46:13+00:00,d2f9as5,2.0,t1_d2f8wkn,1476.0,networking
+208,"OP said a new .php file was added. I didn't think XSS could be used for that, I thought that could only be accomplished with a file upload vulnerability?",2016-04-24 10:52:10+00:00,d2f8hev,2.0,t1_d2de01a,144542.0,HowToHack
+209,"Personally, I don't think the course is very good. Pentesterlab's bootcamp or a good book is a much better introduction imo.
+
+As always, I advise to learn python on codeacademy and network+ on cybrary before doing anything hacking related.
+
+But mostly, refer to the faq at howtohack",2016-04-23 10:49:58+00:00,d2e5iw4,2.0,t1_d2e4m05,4010.0,hacking
+210,"Honestly, I wouldn't be very worried. Experienced hackers often don't enjoy DDoSing and using their game hacks for extended periods of time. Take the below with a spoonfull of salt.
+
+Just by knowing your IP, he can't do too much, since your internal network is walled off from the internet because of NAT/PAT. One thing he might try is going after your router, so just to be sure, I'd try to look up the name of your router at Google, exploit-db and cvedetails. Also, since you mentioned the game is full of security holes, it probably wouldn't be out of reach for an experienced hacker to get you after pwning the server and your client.
+
+Otherwise, if you *really* pissed him off, I'd be weary of social engineering attacks. For the next month or so, look at every email/PM as a possible attack. Links are the most dangerous, so type it in yourself if you can, or at least doublecheck the source. ",2016-04-23 06:43:34+00:00,d2e1y4e,1.0,t3_4frwz7,169949.0,hacking
+211,"Psst...
+
+^Greetings, ^fellow ^robot.",2016-04-23 06:05:08+00:00,d2e18bt,14.0,t1_d2e171f,114.0,LifeProTips
+212,"I bet your bot also replies ""Nope"" to allegations of being a bot.
+
+\#Skynet2016 #VapeNation",2016-04-23 06:00:56+00:00,d2e15ei,12.0,t1_d2e151i,30.0,LifeProTips
+213,"I bet your bot also replies ""Nope"" to allegations of being a bot.
+
+\#Skynet2016 #VapeNation",2016-04-23 05:59:32+00:00,d2e14dq,10.0,t1_d2e10yh,285.0,LifeProTips
+214,"I bet your bot replies ""NO BOTS! Thanks though"" whenever someone asks if you use bots.
+
+Skynet 2016! We can never know
+
+",2016-04-23 05:54:25+00:00,d2e10op,8.0,t1_d2drb8s,19525.0,LifeProTips
+215,What's cogs?,2016-04-22 08:37:29+00:00,d2cubds,9.0,t1_d2ctuqi,1699.0,AskReddit
+216,"Have you written a bot to do ಠ_ಠ ?
+
+Do you want me to?",2016-04-22 04:46:18+00:00,d2cpdwm,6.0,t1_d2chsss,12540.0,LifeProTips
+217,"Thanks for responding!
+
+How many players are online daily? What's the xp rate? Are most of the members' quests there? Are endgame weapons sold in shops? I'm looking for a vanilla experience",2016-04-22 04:06:29+00:00,d2co3f4,2.0,t1_d2bzhsl,36093.0,RSPS
+218,"Also they sell and spray pesticides which only their plants can survive. They said bugs would never develop an immunity to them, but they lied. Now we need to start using stronger and stronger pesticides to fend off the superbugs we've breeded. Also, the local organic farmers are *really* not happy that Monsanto's pesticides also get onto their farmland and destroy their crops.",2016-04-21 10:50:27+00:00,d2bj5hl,6.0,t1_d2bivf0,971.0,AskReddit
+219,"Usually, it's written like:
+
+ 0/X =0; X is not 0",2016-04-21 06:02:08+00:00,d2be88k,9.0,t1_d2bc1ea,5154.0,explainlikeimfive
+220,"Look up the BLACKHAT talk ""Jackpotting ATMs"" by barnaby jack",2016-04-20 16:47:31+00:00,d2aiboa,1.0,t3_4fjwcc,69371.0,hacking
+221,"The Estonian ID software is all open-source. I would hope the voting system is, too. In that case, anyone can see for themselves that the system is fair.",2016-04-20 11:06:27+00:00,d2a5mc0,11.0,t1_d2a4vzk,2413.0,explainlikeimfive
+222,"Numberphile math. For example, why is !0 equal to 1? I just can't accept his explanation, which is pretty just:
+
+!3 is !4 / 4 = 6 and  
+!2 is !3/3  = 2 and  
+!1 is !2/2 = 1 so  
+!0 is !1/1 = 1.
+
+I can't accept it, because it seems like such a flawed way of thinking. It's just as good as saying:
+
+3/3 is 1 and  
+2/2 is 1 and   
+1/1 is 1 so  
+0/0 is also 1
+
+Except we all know that isn't true and 0/0 is actually undefined.",2016-04-20 11:00:38+00:00,d2a5ic4,7.0,t1_d2a5bzn,564.0,explainlikeimfive
+223,Yes! That's the one! Thanks!,2016-04-20 03:59:41+00:00,d29wiow,2.0,t1_d29fwqb,22775.0,hacking
+224,"Some of the stuff we know are great though.
+
+Case in point - I posted a question trying to see if anyone could remember the name of a great hacking resource. I hope to see some answers soon, wasn't able to find it using Google or digging through Reddit.
+
+https://www.reddit.com/r/hacking/comments/4fj5k9/does_anyone_remember_the_name_of_this_great/",2016-04-19 18:59:30+00:00,d298dwb,4.0,t1_d28l8kr,45189.0,hacking
+225,It's a reference.,2016-04-19 18:53:06+00:00,d29837h,6.0,t1_d29819x,66.0,hacking
+226,You have been banned from /r/hacking.,2016-04-19 18:50:48+00:00,d297z9x,4.0,t1_d28rgm6,23714.0,hacking
+227,I am the one who pets.,2016-04-19 16:59:12+00:00,d292r4n,3.0,t1_d28yzh9,4869.0,aww
+228,"You can use your influence to buy karma whores, though",2016-04-19 12:55:26+00:00,d28sjug,7.0,t1_d28rbax,2734.0,gifs
+229,*Queue laugh track*,2016-04-19 12:54:22+00:00,d28sipo,7.0,t1_d28rjwp,2112.0,gifs
+230,Block her?,2016-04-19 10:32:04+00:00,d28pbed,5.0,t1_d28os3d,2057.0,AskReddit
+231,Politics is a dirty business.,2016-04-19 05:06:57+00:00,d28jbbc,9.0,t1_d280863,29627.0,news
+232,"Sorry if this is a stupid question, but why don't you seem to be afraid of getting arrested at the moment? You've just linked your name to an illegal(?) grey-hat hacking incident.
+
+",2016-04-18 19:38:09+00:00,d27wrou,2.0,t1_d27b9yv,39025.0,hacking
+233,"No problem :)
+
+Python is a good start because it teaches you the basics of programming. When you finish that course, I promise, the world will open up to you. So, here's what I would do:
+
+1. Finish the Python tutorial. Pretty much everything you learn here will be transferable to other languages.
+
+2. (Optional) If you know Linux, you can try setting up an Apache server to host your website locally. It's a nice addition, but not completely necessary (yet).
+
+2. Go to the [W3Schools tutorial](http://www.w3schools.com/website/) and start doing it. Before every module, complete the W3Schools tutorial on that topic. E.g before the ""Web HTML"", google ""W3Schools HTML tutorial""
+
+
+I decided to pick up web development a couple of days ago, it's coming along really nicely and I've learned a ton. Definitely recommend it.",2016-04-18 04:37:49+00:00,d276868,4.0,t1_d272sm3,6544.0,GetMotivated
+234,"OP here. As others have pointed out, I didn't mean it as an offense against gaming, but rather the fact that he games 6 hours a day and it's eating into his life. It's a problem for him and it needs to change.",2016-04-18 04:28:27+00:00,d275yct,8.0,t1_d274dky,3111.0,GetMotivated
+235,"Bingo, you hit the nail on the head :)",2016-04-18 04:26:32+00:00,d275wb1,9.0,t1_d26r8uo,25004.0,GetMotivated
+236,"Listen. I know, I've been there. But instead of complaining about it, how about you actually fix the problem?
+
+1. Do what I mentioned in edit, in case you didn't notice it. Make sure your life doesn't revolve around games.
+
+2. Make sure you don't fucking touch those games. Allow a maximum of 1-2 hours of gaming per day, as a start. This will start decreasing drastically as you actually get a fucking life. 
+
+3. While working, Reddit, 9gag and all non-work-related websites are off limits. I haven't used it myself, but you can try installing StayFocusd or a similar plugin.
+
+Kudos to you for figuring out you have a problem and wanting to fix it. That is the biggest step and I believe you can turn things around. Now you have to [just do it](https://www.youtube.com/watch?v=ZXsQAXx_ao0)",2016-04-17 19:36:35+00:00,d26mq8a,4.0,t1_d26mb87,604.0,GetMotivated
+237,"My experience:
+
+Going to the gym can get really old, really fast. After a few weeks the initial motivation will disappear and so will the discipline to work out. It's a much better idea to pick up a hobby you actually like. There are many options:
+
+Team sports - football, basketball, volleyball, track team, etc.
+
+Individual workouts - Running, cycling, gym, rowing, sailing, etc.
+
+Hobbies - Dancing, rock climbing, airsoft, hiking, martial arts, etc.
+
+Think about what you might like and check it out. I started dancing after I realized I liked it at a party, and I've been doing it ever since. There are often groups you can join which will add a sense of community, let you meet new friends and keep up your motivation.",2016-04-17 19:17:48+00:00,d26lyho,2.0,t1_d26hydr,6459.0,GetMotivated
+238,"Also, if you have a gaming PC and a work laptop, then shut off the PC and work from the laptop. Works for me.
+
+You say you're into programming. That's great! Try slowly substituting your gaming time with programming and hobbies and you'll soon realize you don't even want to game anymore, since it's relatively boring and unrewarding. 
+
+**Here's what you're going to do right now:**
+
+1. Spend time figuring out what kind of hobby/sport you'd like. Look into which groups are available in your area and see if you can join one (you usually can).
+
+2. After you've done that, instead of playing LoL, get an actual sense of accomplishment. Go to Codeacademy, pick the Python course and get cracking. If you've already done that, start learning something which interests you: web dev, game dev, hacking and general computer science are all great fields to study. Feel free to ask if you've got any questions.",2016-04-17 19:09:31+00:00,d26lmpk,2.0,t1_d26hs7n,6252.0,GetMotivated
+239,"Even if it is encrypting, you should be able to get the key from the rat.",2016-04-17 08:09:48+00:00,d264vch,4.0,t1_d25w2xo,21659.0,HowToHack
+240,"My cat doesn't try to ""disembowel"" my hand, but if he gets a little too  clawity, I just start gently pushing into him. That way, I won't get hurt because the damage comes from his claws dragging into my hand and he will eventually let it go.",2016-04-15 16:33:18+00:00,d245qmc,6.0,t1_d23zfxm,8619.0,LifeProTips
+241,True. At least we can all get fucked together &lt;3,2016-04-14 09:27:19+00:00,d22dg6f,17.0,t1_d22c01k,5478.0,Jokes
+242,I feel the same way. It's a shame,2016-04-14 07:48:33+00:00,d22bvia,17.0,t1_d22bpu7,542.0,Jokes
+243,Not really. Only Greece is having problems. The rest of us are fine.,2016-04-14 07:47:44+00:00,d22buzj,15.0,t1_d22brcs,350.0,Jokes
+244,"Could you elaborate on the downloading a flash exploit part, I'm not sure I understand. 
+
+Do you mean that the victim's flash plugin is vulnerable and the javascript starts that and triggers the RCE? In that case, it would be actual RCE, right?
+
+Or do you mean the javascript downloads some flash code he wants to run, asks the user to run flash, and then the flash code that runs outside the browser is the actual RCE? 
+
+Or is there some way to run flash without asking the user for input?
+
+Furthermore, if you can run javascript on the victim's browser, do you really get access to all their cookies and thus all their accounts? Aren't there protections in place against that?",2016-04-14 07:38:28+00:00,d22bp5v,2.0,t1_d22bbwn,1180.0,HowToHack
+245,"I live in Europe. Afaik, you guys spend more on education than we do (proportionately) while we manage to make university either free or really cheap and you can't. Never understood why that is, really.",2016-04-14 07:17:03+00:00,d22baqh,15.0,t1_d22b5q5,434.0,Jokes
+246,"Free college and health insurance are insane? I'd say it's pretty basic, most countries in Europe have that",2016-04-14 06:36:02+00:00,d22ahd1,13.0,t1_d229r78,1982.0,Jokes
+247,"&gt;nose flute
+
+[I think I know that guy](https://coubsecure-a.akamaihd.net/get/b60/p/coub/simple/cw_timeline_pic/0d756475404/d005a6ef779d4c1b3a9b4/big_1429211543_image.jpg)",2016-04-13 17:52:43+00:00,d21fmkz,4.0,t1_d218p0y,8720.0,AskReddit
+248,"u w0t?
+
+I'll baguette your nan, m8",2016-04-13 12:48:31+00:00,d212d3l,11.0,t1_d20zlft,7059.0,Showerthoughts
+249,IT SPREADS! RUN!,2016-04-13 04:37:57+00:00,d20sl7j,1.0,t3_4ehq4j,33060.0,aww
+250,"Because I had to look it up:
+
+MSP -  A managed service provider (MSP) is a company that remotely manages a customer's IT infrastructure and/or end-user systems, typically on a proactive basis and under a subscription model
+
+I love this, and I'd love to hear your other ways!",2016-04-12 19:56:13+00:00,d208ieb,2.0,t1_d207o18,1083.0,hacking
+251,For others interested: http://flagtheory.com/about/,2016-04-12 19:11:26+00:00,d206f04,2.0,t1_d2029q5,5311.0,hacking
+252,"I'm not looking to hide anything, I'm just interested. Is it different for big and small sums? Where can I read about either one?",2016-04-12 18:47:33+00:00,d205a6m,6.0,t1_d201t49,4467.0,hacking
+253,"(yes, I know I'm responding to a 4 month old comment)
+
+Honestly, I don't think legislation would be the correct solution. The problem is simply that there isn't enough demand for these products. If people actually cared about things that are designed to last, then they simply wouldn't buy things from companies that don't respect that. At the moment, designing things to break is more profitable and since people mostly don't care, there isn't any reason to do otherwise.",2016-04-12 18:18:54+00:00,d203y0p,7.0,t1_cx2dxnr,12782495.0,explainlikeimfive
+254,"In that case, I'm really interested in learning more. Do you happen to have any good resources? I often find it's hard to come across good learning material unless I know exactly what I'm looking for and which keywords to use.",2016-04-12 17:26:06+00:00,d201h8r,4.0,t1_d2006bo,1669.0,hacking
+255,But how would they use it? They can't use it to pay their bills or buy anything non-digital in that case.,2016-04-12 15:06:23+00:00,d1zv2ky,2.0,t1_d1zuecx,928.0,hacking
+256,"Easy. 
+
+Take the asymptote y = 1/x. If x = ∞, then y = 0, e.g it touches the x-axis.",2016-04-12 14:08:50+00:00,d1zsmvc,8.0,t1_d1zsgtu,257.0,AskReddit
+257,Weak shitpost.,2016-04-12 13:47:03+00:00,d1zrsnl,1.0,t3_4ef7fg,19119.0,hacking
+258,"Noted this down in my resources. If you can find court documents this way (will be testing soon), then this is exactly what I was looking for. Thanks!
+
+Edit: Doesn't seem to be working for non-Americans (e.g Grant Manser). Works for well-known Americans (e.g Albert Conzalez)",2016-04-12 13:32:15+00:00,d1zr915,2.0,t1_d1yz4kr,58279.0,hacking
+259,\*Minimum payments on everything except debt with the *highest interest rate*. That's a much more sensible way of going at it imo.,2016-04-12 12:07:38+00:00,d1zonq5,5.0,t1_d1zebpo,30183.0,personalfinance
+260,"True, but wouldn't doing it in public be equal to shitting in public, on camera?",2016-04-12 04:17:34+00:00,d1zfcy3,4.0,t1_d1z7hz7,12448.0,hacking
+261,"I'm really surprised you didn't mention money-related slip-ups. Since all cryptocurrency is traceable, I would have thought that the process of wiring stolen money is the most perilous one. Or do blackhats have some method of laundering that money? I know online gambling and mixers are used, but in both cases, it seems more like obfuscation than actual separation.",2016-04-11 19:51:29+00:00,d1yv2kc,4.0,t1_d1ypwzs,6627.0,hacking
+262,This looks awesome and compliments the talk posted above quite well. Thanks!,2016-04-11 19:18:17+00:00,d1ytiff,2.0,t1_d1yor0f,6134.0,hacking
+263,Cool! I'll check it out sometime!,2016-04-11 17:05:55+00:00,d1ynd6g,2.0,t1_d1ybfhq,20635.0,hacking
+264,"1.I presume you meant to write ""or using a VPN that will hand out their logs, along with your IP"". Which would you consider safer, TOR or a VPN like Private Internet Access? Or should they always be used together?
+
+4.When you say that which of these two scenarios are you thinking of:
+
+a) Law enforcement is investigating a hack and the evidence trails to Costa Rica (either through social media, IP or other clues). Therefore, they will investigate all the known hackers in that area.
+
+This seems like it would be a clear violation of OpSec and rules 1, 2 or 3.
+
+b) Law enforcement is investigating a hack, but there is no evidence to go on. Luckily, an anti cybercrime unit from Costa Rica tells them that one of the hackers there (to whom they do routine checks on) has been acting suspiciously (increased VPN usage during the hack, TOR, etc) and might be connected to the case.
+
+Furthermore, from a blackhat OpSec standpoint, do you think doing it from home or from a public place is more preferable? Or is that irrelevant, since given the fulfillment or rules 1,2,3,4 and 5, it shouldn't matter anyways?",2016-04-11 17:05:01+00:00,d1ynbpu,2.0,t1_d1yehr8,13059.0,hacking
+265,"This is gold. Solid, diamond-encrusted, blessed by Aztec blood rituals, pooped by the goose that lays golden eggs, gold. Thanks, I know what I'm going to be listening tonight.
+
+Edit: I'm listening to it right now, it's incredibly fascinating. I've got some questions: 
+
+1. When he mentions that freedom fighters should keep all your illicit activities in ""a junkbox one hop away"". What does that mean? Does that mean blackhats should have a pwned box to connect to? Or their own encrypted box on some network? Or a paid online server? I've heard that in court, if they refuse to provide the password to unlock the encryption to prove their innocence, it's just as good as incriminating evidence having been found.
+
+2. He says to make a fake persona so that if the cover gets blown, it's the fake persona that takes the blame. I don't get how that's supposed to work. I can call myself John Doe all I want, but in the end, it's just another alias, like prettyr4ndomusernam3. I'm guessing he meant something along the lines of that guy who rents a hotel room every time he hacks, so he has to use an alias?
+
+3. The guy who sent defacement code over Facebook - it was a bad idea, but why? It's not like Facebook/police checks if hacking code is sent over Facebook (right?). So it's bad because it linked his personal life with his freedom fighting life, right? And in particular it was bad, because if either one of them gets busted, then both of them are immediately incriminated, right?.
+
+4. Before his arrests Hammond (from lulzsec) had been put on ""known hacker"" lists because of his previous activity. What kind of activities would warrant being put on a list? Having previously been busted? Joining a university's hacking club? Taking part in a CTF? Going to Defcon?
+
+Edit: Since I've listened to it a bit more, I can answer some of my own questions.
+
+2.He said that online persona are good because that way, you don't give out profiling information. He gave an example where Hammond from lulzsec had said in IRC that he was into dumpster diving and the feds saw him dumpsterdive. That served as circumstancial evidence. Also, it prevents geolocation. For example, if I said ""damn, it's so hot today in the middle of winter"", then you'd immediately know I live somewhere in the southern hemisphere.
+
+3.What I said was correct, but I also assume the feds can easily ask facebook for your chat logs if they suspect you.
+",2016-04-11 16:51:34+00:00,d1ympiq,2.0,t1_d1ydwsp,13416.0,hacking
+266,This has to be a troll... Right?,2016-04-09 12:18:37+00:00,d1w2lhl,1.0,t3_4e0m1s,12244.0,hacking
+267,"&gt;But where do you write this, or is it literally just the command prompt and running it as an administrator?
+
+Yes. Usually, it's done in the command prompt. For example, open up command prompt, type 
+
+    ping reddit.com  
+
+Now you know that the website is up. Next, you would maybe use a script, like an automatic vulnerability scanner.
+
+    automatic_vulnerability_scanner reddit.com
+
+Say you get lucky and the scanner finds a misconfiguration in the website for you (if not, you'll have to think of more complex misconfigurations than the scanner can find). It could be
+
+1) Outdated software. In that case, you would open up Metasploit, a program which has precompiled scripts for hacking and run the script that exploits that particular software.
+
+2) Bad programming on the website, like not checking if the user is inputting his own code in the commenting box (this one). So you can type any code you want in the comment text box and when another user sees your comment, that code runs on their computer. This is called XSS. Let's say, reddit is vulnerable to XSS and you've stumbled upon a malicious comment. To demonstrate what will happen:
+
+1. Open up the developer console using CTRL+SHIFT+J.
+
+2. type alert(""Gratz, you're hacked. Now I can get access to your browser and your account."") in the box and press enter.
+
+&gt;Linux/Windows command prompt would know that the person writing the commands/scripts could be a potential hacker.
+
+What. This makes no sense. The command prompt (Windows) doesn't know anything, it just does what you tell it to do. That's like saying ""people who use notepad are potential hackers, because they might write code there"". The command prompt is used not just by hackers, but also by programmers and network administrators. 
+
+&gt;I hope you wouldn't mind telling me or other people where you usually write your commands/scripts in
+
+The reason people use command prompts for this is because from the command prompt, it's really easy to make use of all the programs on your computer (installed programs, scripts you've made yourself, etc). With one command, you can use a program to find the public information about the website and use another program to filter out everything you don't need. Additionally, browsers are used, because while it's possible to use websites from the command prompt, it's inconvenient.
+
+Also, Linux is used very often because its command prompt is much more useful than Windows', because it has much more useful programs than Windows and because it's free. Mac OS is also popular (the command prompts, called Bash, are the same thing).
+
+People use Python and C++ if they need to write their own scripts. For example, if you want to make your own vulnerability scanner, you'd use Python to write it and Bash to activate it. Sometimes you want to automate a sequence of command. For example, in the example at the top of my comment, you could make a bash script that first pings reddit.com to see if it's up, and if it is, then start the vulnerability scanner.
+
+",2016-04-09 11:42:31+00:00,d1w1ygh,1.0,t3_4dz1od,43250.0,HowToHack
+268,"Just go on /r/askreddit, sort by rising and make a bunch of comments. They don't have to be witty, you'll easily get the karma. For post karma, go to /r/teenagers or some other similar sub and repost stuff from /r/blackpeopletwitter",2016-04-08 20:51:33+00:00,d1vf1h7,5.0,t1_d1vexv3,149.0,HowToHack
+269,"Sorry, it appears you're correct. I think I've mixed it up with another site. Can't remember where I put my massive list of resources atm.",2016-04-08 20:45:26+00:00,d1vesc5,3.0,t1_d1vdpwi,1477.0,HowToHack
+270,"pentesterlab.com
+
+(edit: isn't free) infosecinstitute.com",2016-04-08 18:12:06+00:00,d1v7vjm,1.0,t3_4dwyi2,8955.0,HowToHack
+271,"And wouldn't you know, I was able to use your trick in a VM challenge just now. I would've been left scratching my head for a while without you. Thanks!",2016-04-07 17:00:39+00:00,d1tr0er,4.0,t1_d1tkajk,8498.0,HowToHack
+272,"I'm not too familiar with how the wallets work, but I understand the code is a long sequence of numbers, then? In that case, I'm sorry to say, you're out of luck.",2016-04-07 16:33:31+00:00,d1tppkd,4.0,t1_d1tm6q2,4403.0,news
+273,"Depending on the password, you might be able to crack it.
+
+If it's a randomly generated password with 6 or more characters, you're probably out of luck.
+
+If it's a word or a phrase, then this can be attacked with a [dictionary attack](https://en.wikipedia.org/wiki/Dictionary_attack). This can be performed by a cybersecurity specialist (or a CS/Cybersec student from your local university) for a fee.",2016-04-07 14:42:20+00:00,d1tkfvi,2.0,t1_d1th8w1,4704.0,news
+274,"Yup, exactly like a dollar.",2016-04-07 14:29:10+00:00,d1tjv8e,8.0,t1_d1tizar,1254.0,news
+275,"Tell me if I understand this correctly:
+
+    ""vuln.php?file=php://filter/convert.base64-encode/resource=index.php""
+
+What this does is vuln.php includes the file index.php. However, because we applied the filter to it, it isn't included as code, but as base64 data. We will see this data in the HTML source code(?). 
+
+What about the second scenario? How do we get rid of the "".txt"" at the end? Null-bytes don't work in includes anymore afaik.
+",2016-04-07 12:45:21+00:00,d1tfxsf,2.0,t1_d1sjpt5,61515.0,HowToHack
+276,"Isn't CISSP a management degree?
+
+[C I double S P](https://www.youtube.com/watch?v=whEWE6WC1Ew)'s are pretty gangsta though, I'll give you that.",2016-04-07 04:32:22+00:00,d1t5pl3,2.0,t1_d1r56d6,116910.0,hacking
+277,"Before doing anything hacking-related, it's really important to know what's going on under the hood of computers. Otherwise you might have a really hard time grasping hacking concepts. 
+
+The two most important things to know before getting started are programming and networking.
+
+For programming, Codeacademy's Python tutorial is fun and easy to follow.
+
+For networking, I enjoyed Cybrary's Network+ modules. Only the basics + NAT/PAT are needed, didn't bother with the modules that taught troubleshooting theory, setting up routers, etc.
+
+So yeah, you're absolutely right that there are many different facets to hacking. I'd categorise them as:
+
+Web app pentesting - everything concerning exploiting websites. This is the most common form of hacking. Includes SQLi, XSS, CSRF, directory traversal, etc. The best place to practice this is by downloading vulnerable VMs (like Damn Vulnerable Web App). For those who don't know the basics yet (myself included), I really like http://pentesterlab.com/bootcamp. It gives you a really good knowledgebase but it doesn't hold your hand as much as some would like. You have to be willing to Google a bit.
+
+Network pentesting - Everything related to infiltrating networks. This is where port scans, exploiting outdated services, dns zone transfers, etc come into play. I'd guess the best place to learn this is once again from VMs and following tutorials related to them. 
+
+Social engineering - The most common way to hack someone. This entails tricking the user to do what you want. Phishing, shouldersurfing, sending malicious links all fall under this category. It's often one of the quickest ways to hack something. Learning SET should help social engineers.
+
+Crypto - related to breaking various algorithms. For example, you can crack hashes using rainbow tables, crack weak algorithms like MD5 (hash), GSM (phone connection), WEP (wi-fi) and various PSRNGs (random number generation). This can lead to getting the password from the hash, unencrypying data transfers, finding out the wifi password, session hijacking and hacking of online gambling games.
+Jazzy's tutorials are good for breaking RNG.
+
+Low-level - related to breaking things on the machine code level. Includes reverse engineering, buffer overflows, patching. Leads to remote code execution, game hacking, software cracking (for pirating), IoT hacking (cars, embedded devices). Lena's tutorials are good for software cracking.",2016-04-06 05:29:42+00:00,d1rso2o,3.0,t1_d1r4u52,34364.0,hacking
+278,"Sorry, http://pentesterlab.com/bootcamp",2016-04-06 04:03:21+00:00,d1rq5w9,5.0,t1_d1rod3s,2858.0,hacking
+279,"Even though I like low-level exploitation, I personally found the Art of Exploitation not so terribly useful to start off with. Currently doing pentesterlabs.com/bootcamp and it's really good (for web pentesting)",2016-04-05 19:56:36+00:00,d1r4tgw,3.0,t1_d1psae6,84577.0,hacking
+280,"I suggest Cybrary's Network+ modules (the basics + NAT/PAT), they're easy to understand.",2016-04-05 19:53:23+00:00,d1r4nk9,5.0,t1_d1pswuo,83581.0,hacking
+281,"Just a test - am I shadowbanned?
+
+Good article, btw.",2016-04-05 19:50:35+00:00,d1r4iid,1.0,t3_4dfojh,37322.0,HowToHack
+282,"Am I shadowbanned? If not, I'd be happy to explain",2016-04-05 19:47:36+00:00,d1r4d4n,1.0,t3_4d9hlt,142841.0,hacking
+283,"Pop OllyDBG open, do a stack overflow and you have +1 zerodays.",2016-04-05 19:31:40+00:00,d1r3l1q,1.0,t3_4dh1ce,13036.0,HowToHack
+284,Cyanide,2016-04-04 18:44:02+00:00,d1pnl8b,1.0,t3_4dbqy8,9250.0,AskReddit
+285,"Not with that attitude you won't. Being a hacker is all about wanting to learn more. If you can't do that, then you might as well become a pathetic script kiddie, calling himself a hacker for being able to pay a DDoS subscription fee and pressing a red button. 
+
+It's not like learning networking and programming is hard, either. I learned basic networking on Cybrary in a week by listening to the modules while walking/driving. If you do an hour or two of Python on Codeacademy every day, then you'll probably complete it within a week or two.
+
+Overthewire (bandit) is good too, though. It will get you a little more acquainted with Linux. Though, to get the full experience, you should be using it as you main OS for at least a little while. This can be achieved by dual-booting, for example (look this up, you should know how to install a new OS)",2016-04-04 04:14:32+00:00,d1oz051,5.0,t1_d1oewzi,30289.0,HowToHack
+286,"That's not the mentality of a real hacker. I suggest you learn programming, it'll be for your own good.
+
+Use Codeacademy to learn Python. It's easy.",2016-04-03 19:18:50+00:00,d1odr94,3.0,t1_d1mv7w9,116335.0,HowToHack
+287,"pentesterlab.com is where I started. Bootcamp if you're a newbie, SQLi to Shell if you want to hack a database using SQLi",2016-04-03 19:15:53+00:00,d1odn8z,2.0,t1_d1nfwfa,74855.0,HowToHack
+288,Do they use the average or median guess? I would have guessed average.,2016-04-02 16:15:07+00:00,d1n2rni,5.0,t1_d1mz9km,6560.0,Showerthoughts
+289,"What type of directory traversal would allow an attacker to read the contents of a php file? I'm assuming any type where command injection is also possible? A system call to ""cat {$injectableVariable}"", for example?",2016-04-01 19:57:00+00:00,d1m6v48,2.0,t1_d1m08yf,9140.0,HowToHack
+290,"How can XSS be used to gain shell? I know you can gain a session to the admin account by social engineering the admin to click on a link containing xss, but how can it be used to get shell?",2016-04-01 06:41:25+00:00,d1ligtl,2.0,t1_d1lgc3v,5432.0,HowToHack
+291,I didn't know that. How do they do it?,2016-04-01 06:37:23+00:00,d1lidte,14.0,t1_d1lgg2h,4951.0,hacking
+292,How?,2016-04-01 05:07:31+00:00,d1lg8pb,12.0,t1_d1lfn74,1195.0,hacking
+293,TOR?,2016-04-01 04:31:51+00:00,d1lf4kv,10.0,t1_d1ldl4p,2710.0,hacking
+294,"More like getting back the money they already lost, but I get your point. I'm not familiar with the game, but every time the 45/55 roll comes, you can basically subtract 5% from your current betted money, which is much you statistically just lost with that roll.",2016-04-01 04:22:30+00:00,d1letcp,,t1_d1l98w0,9443.0,AskReddit
+295,"What do you mean by ""everyone is making money""? It's a basic law of gambling that no one is making money besides the casino.",2016-03-31 20:40:55+00:00,d1kx40t,8.0,t1_d1kpmy7,9598.0,AskReddit
+296,"&gt;income will be given to everyone
+
+Hold on there now, let's not go full communist just yet. We all know how it turned out the last time...",2016-03-31 19:19:12+00:00,d1ktbtq,4.0,t1_d1kh1ew,15713.0,Showerthoughts
+297,Do you think we'll ever be able to bridge the gap between quantum physics and macrophysics?,2016-03-29 19:00:52+00:00,d1i1i2b,9.0,t1_d1htgbb,10040.0,AskReddit
+298,"I still don't get how a photon can be both a particle and a wave at the same time. 
+
+Furthermore, what is a wave (like a radio wave), anyway? It's easy to recall the diagrams that show it's a wobbly line going up and down, but what is the thing that actually goes up and down? The strength of the electromagnetic field at a certain point in space? 
+
+And to expand on that, does the photon travel in a wobbly line (as a particle), or how can it be a wave?",2016-03-29 19:00:08+00:00,d1i1gqt,10.0,t1_d1hro25,12285.0,AskReddit
+299,It *is* on the table - SpaceX. Just costs a little more than 20k though.,2016-03-29 18:53:23+00:00,d1i14wn,7.0,t1_d1hyh01,3303.0,AskReddit
+300,"Joke's on you, this man is behind TOR and 2 VPNs.
+
+I guess the FBI will never catch you, my wanted friend. Unless they find your Google+ page, that is.",2016-03-29 18:28:58+00:00,d1hzygl,5.0,t1_d1hvwus,5017.0,AskReddit
+301,"Good explanation, thanks!",2016-03-29 18:10:09+00:00,d1hz1j7,9.0,t1_d1hy6q4,1058.0,AskReddit
+302,"I don't think opportunity is so immensely important (hard work can overcome disadvantages), but I think we can both agree that hard work is useless without smart work. If your goal is to become a millionaire, then working your ass off as a janitor and hoping for the best isn't going to work out.",2016-03-29 17:45:00+00:00,d1hxtju,9.0,t1_d1hwgi7,1687.0,AskReddit
+303,"First, Pornhub has got a file of porn. Basically just a whole lot of ones and zeroes (bits) on the server somewhere. Then, the server uses a protocol to deliver the ones and zeroes to the media player in your browser, which displays the porn.
+
+Both the protocol and media player are, in essence, just computer programs. A computer program is a set of instructions for your processor. For example, an instruction might change a value, like adding +1 to the time counter, which shows how long the video has lasted. These instructions are essentially just logic gates. For example, the logic gate AND produces the output 1 only when both bits are ones, so (1 AND 1 = 1) and also (1 AND 0 = 0). If you want to change a value to 0, then you can simply AND the value with zeroes. For example, 1010 AND 0000 = 0000. 
+
+Edit: I'm really interested about why I'm getting downvoted. Is anything I said wrong?",2016-03-29 17:35:51+00:00,d1hxdom,8.0,t1_d1hvy5r,1785.0,AskReddit
+304,"Not sure how much you know about this, but how would a counter (going 1, 2, 3, 4, etc) be created with logic gates? I specifically mean the EIP register in the processor, which keeps track of what line of assembly code you're on. 
+
+How do you get EIP+1 from EIP just by using logic gates? Actually, I can already imagine a system, but I'd like to hear your idea of it.",2016-03-29 17:21:54+00:00,d1hwp8h,7.0,t1_d1hu4ef,3248.0,AskReddit
+305,"Which field did you go to, and how did you arrive there?",2016-03-29 17:15:16+00:00,d1hwdqh,7.0,t1_d1hvynj,531.0,AskReddit
+306,"Except with hard work, you can always create your own opportunities. Say you're an employer working on some state-of-the-art neural network technology. Who are you going to hire - someone who has experience in a related field, saw an opportunity and applied *or* someone who has less experience (maybe less than you listed as a requirement), but is extremely passionate and has been creating open-source neural network software for years? I'd hire the second one in a heartbeat.",2016-03-29 17:10:44+00:00,d1hw5yy,7.0,t1_d1hv9wa,1128.0,AskReddit
+307,"I thought about that too, I don't think it's a good idea though. While badusb would make the presentation way more interesting, it's definitely not easy (making it, that is).
+
+Maybe just get a keylogger from hackforums or something and install it. Make sure to install it on a VM though, never know what kind of crap you're going to get.",2016-03-28 12:25:47+00:00,d1g8tz0,2.0,t1_d1fofkz,50332.0,hacking
+308,Not big surprise.,2016-03-27 19:37:14+00:00,d1fiqwz,1.0,t3_4c5zho,13724.0,pics
+309,"Would advise against buying silver/gold. Aside from trading with them (which you should never do), their only upside is that over the long term, they can protect against inflation. However, in that case, it's smarter to just buy an index fund, since you'll actually get something for it. 
+
+I'd keep enough money to live for 3 months in case of unemployment and invest the rest.",2016-03-27 19:23:39+00:00,d1fiai1,2.0,t1_d1fhqbf,989.0,personalfinance
+310,Ban kitchen knives! They are a tool for murder!,2016-03-27 18:54:12+00:00,d1fhad0,3.0,t1_d1fg95e,1821.0,gadgets
+311,"If you really have nothing to hide, police officers should be able to search your home anytime they want, and for any reason. If you have nothing to hide, then you might as well give the government a backdoor into all your devices, so they can read your messages if they want to. If you have nothing to hide, then why does it alarm you if any government employee can watch you from the webcam on your laptop?
+
+Because you should value your privacy, that's why. They don't need to know every detail about your life.",2016-03-27 18:50:00+00:00,d1fh59d,4.0,t1_d1fglej,977.0,gadgets
+312,I'd rather use the Lasor Rasor,2016-03-27 08:01:54+00:00,d1f2dpe,8.0,t1_d1f28kk,556.0,news
+313,"This is the answer. Super simple to setup, and depending on how often you send the deauth packets, you can make it look like lag. 
+
+For example, let him play a game of LoL, but just as he starts winning, disconnect him. That would infuriate me so much.",2016-03-26 19:23:41+00:00,d1efw6b,6.0,t1_d1crsac,135111.0,HowToHack
+314,"I 100% agree with this. You can learn SQLi or any other attack online, but what's harder to learn is enumeration and actually finding the vulnerabilities. I'd watch that.",2016-03-26 19:21:03+00:00,d1efsy3,4.0,t1_d1dimu1,77523.0,hacking
+315,"Part of the reason the revolution occurred was because they didn't want to fight anymore. The revolutionists promised bread, land and pussying out from the war.",2016-03-25 18:28:49+00:00,d1dasb7,7.0,t1_d1d9kkv,1714.0,worldnews
+316,Drink vodka.,2016-03-25 18:26:51+00:00,d1dapbo,6.0,t1_d1d91pb,2322.0,worldnews
+317,I really like Codeacademy. They make you learn by doing.,2016-03-24 21:18:53+00:00,d1cacos,8.0,t1_d1c65gj,5745.0,InternetIsBeautiful
+318,Yeah. Learning it is super quick and you'll thank yourself later when you can script easy tasks 10x faster than with C/Java.,2016-03-24 21:17:58+00:00,d1cab9s,6.0,t1_d1c9b1x,1429.0,InternetIsBeautiful
+319,"That's the thing. You know how to turn a steering wheel and not crash, most people know how to read email and not click on ads. Hoping they won't fall for scams is utopian. I know more than most about IT and security, and even I could get scammed. It would take effort, but it's not impossible.",2016-03-22 20:10:03+00:00,d19khei,12.0,t1_d19cu3t,10073.0,personalfinance
+320,What kind of resources and where do you find them? Do they tell you beforehand to look up stack overflows or something?,2016-03-22 07:09:04+00:00,d18vqfa,2.0,t1_d181rrt,49711.0,AskNetsec
+321,"In any case, I'm glad Brainiac is done with. I was really disappointed when I found out that ""Cesium"" they threw into the water was really just some TNT.",2016-03-21 14:43:22+00:00,d17v9gx,2.0,t1_d17qwxd,8939.0,science
+322,"Private internet access is good. They don't keep logs, so even if the FBI wanted to know what you were up to, they couldn't.",2016-03-21 10:31:08+00:00,d17p3yy,4.0,t1_d17nzjo,4940.0,Showerthoughts
+323,"I'm really sorry, I violated the rule of no posting to the text box. Would you like to [resubmit your comment](https://www.reddit.com/r/AskReddit/comments/4azg8m/if_you_had_to_be_in_a_duel_what_weapon_would_you/)? ",2016-03-18 18:00:41+00:00,d14rutp,2.0,t1_d14rbr7,734.0,AskReddit
+324,"I'm really sorry, I violated the rule of no posting to the text box. Would you like to [resubmit your comment](https://www.reddit.com/r/AskReddit/comments/4azg8m/if_you_had_to_be_in_a_duel_what_weapon_would_you/)? ",2016-03-18 18:00:39+00:00,d14ruqv,2.0,t1_d14rc5k,718.0,AskReddit
+325,"I'm really sorry, I violated the rule of no posting to the text box. Would you like to [resubmit your comment](https://www.reddit.com/r/AskReddit/comments/4azg8m/if_you_had_to_be_in_a_duel_what_weapon_would_you/)? ",2016-03-18 18:00:36+00:00,d14ruow,2.0,t1_d14reoc,615.0,AskReddit
+326,"Actually, they both orbit around their shared center of mass.",2016-03-18 17:59:28+00:00,d14rszc,6.0,t1_d14r3n6,984.0,television
+327,Churchill was a badass though,2016-03-18 05:57:33+00:00,d148lga,6.0,t1_d13pe8l,33763.0,nottheonion
+328,"Probably from organisations (like the UN) and from funds created by wealthy people. Let's say you want to give 5000$ to help students get into Harvard every year. All you have to do is create a $72,000 fund which is also an investment into the stock market. Because the inflation adjusted average growth of the stock market is 7%, you'll be able to give out $5000 (inflation-adjusted) forever.",2016-03-17 14:20:32+00:00,d1394bp,2.0,t1_d1370hl,3796.0,todayilearned
+329,"Nah, I'm the guy who figured out Pythagoras' theorem. Honest.",2016-03-17 14:14:42+00:00,d138wv5,3.0,t1_d136xhm,3612.0,todayilearned
+330,Dude don't tell your son to be a politician. Let him do what he wants to do...,2016-03-17 05:15:30+00:00,d12y5zu,7.0,t1_d12ps7y,15419.0,LifeProTips
+331,Pip?,2016-03-15 19:24:32+00:00,d10z4y0,5.0,t1_d10s0uc,9531.0,funny
+332,"Eh, I don't think he's hacking. I have no idea why, but most snipers are so slow with their shots. If you practice a little, you can easy pop out of a corner and headshot a pub snipers before they bodyshot you.",2016-03-15 14:44:55+00:00,d10n0vh,7.0,t1_d108gb5,40072.0,tf2
+333,"This is true. To learn more about networking, the Cybrary's Network+ course gave me a nice overview.
+
+Other than that, if you already know networking and really just want to do it on your own, then download an open-source MitM build and use the source code to make your own. I like to do things on my own, too, and it's sometimes nice to take a look at the source code and see exactly what it does.",2016-03-15 05:21:41+00:00,d10bfiz,2.0,t1_d103vzn,13602.0,HowToHack
+334,"I'm going to CS next year, because a lot of people recommended it over at /r/cscareeradvice. I'm sure information systems will be fine too, but it requires a business information management minor (which is good if you want to get into a management role). ",2016-03-15 05:20:33+00:00,d10bekd,1.0,t3_4ag45v,15874.0,HowToHack
+335,"Geany and gdb, because I like to write my own shit. Also because I don't know how to use any of the tools. I should really learn objdump...
+
+But I guess aireplay is fun.",2016-03-14 19:20:42+00:00,d0zok06,1.0,t3_4ae0hb,7480.0,HowToHack
+336,Dad?,2016-03-14 18:09:55+00:00,d0zlfo1,4.0,t1_d0zcbgq,13420.0,LifeProTips
+337,"Because if you know the guy is smart, and the task actually is easy, then why not just say it like it is? 
+
+Let's say I want to explain to you what a bitwise left shift by one in programming is. Sounds complicated, right? It's actually really easy. All you do is take the binary number (like 1010) and push all the bits to the left by one, leaving zeroes at the end (so 1010 becomes 0100). And there it is.",2016-03-14 18:04:18+00:00,d0zl6sc,3.0,t1_d0ze9uo,9908.0,LifeProTips
+338,"Never recreate places from your memories, always imagine new places. WHAT PART OF THAT DON'T YOU UNDERSTAND, ARIADNE?!?",2016-03-14 17:57:48+00:00,d0zkwk4,1.0,t3_4acymv,18222.0,pics
+339,"Regarding ASM and C, it's absolutely necessary to learn if you want to learn about reverse engineering and buffer overflows, but most hacking scenarios (pentesting a website, pentesting a network, social engineering, etc) don't really require them. But, since OP said he was interested in RE, it's a good recommendation.",2016-03-12 16:22:54+00:00,d0x8wxa,2.0,t1_d0wx3zk,37295.0,HowToHack
+340,How is SEO related to hacking?,2016-03-10 19:47:31+00:00,d0v31s7,1.0,t3_49v31v,291.0,HowToHack
+341,What do you do today? Did you fulfill your dreams of malware godship?,2016-03-09 17:39:00+00:00,d0tkz16,2.0,t1_d0tbg4a,15029.0,HowToHack
+342,"What was the point at which you no longer considered yourself a script kiddie? 
+
+Also, what's your definition of script kiddie? I'm asking because I may be very unskilled and mind-bogglingly inefficient, but I don't consider myself a skiddie. I try to understand everything I'm doing, and while it leads to even further slowness and inefficiency, it's kinda fun to do everything from scratch, actually.",2016-03-09 17:35:10+00:00,d0tksxj,2.0,t1_d0t8wo6,22390.0,HowToHack
+343,How long have you been programming? Took me 2 weeks to figure out how PHP's rand() function was implemented &gt;.&gt;,2016-03-09 14:39:56+00:00,d0tdkzd,3.0,t1_d0siuom,62833.0,learnprogramming
+344,"Can you tell me in a more general way, without breaking your contract? I'm not sure I understand what those edge cases in a real attack scenario might be.",2016-03-07 18:25:32+00:00,d0r0eeq,13.0,t1_d0r02b9,449.0,HowToHack
+345,"What kind of issues? Behind TOR and a VPN it should be pretty straightforward, right? Once you've got the money/data, you're going to have to go online anyways.",2016-03-07 18:08:56+00:00,d0qznzp,11.0,t1_d0qz2kn,806.0,HowToHack
+346,"And here I am, spending weeks developing a pretty cool exploit for a PRNG. I would not make a good pentester, haha!
+
+For a determined attacker, isn't physical presence dangerous, though? To my mind, the most sensible thing to do would be to spearphish a secretary and pivot from there",2016-03-07 17:48:52+00:00,d0qyryx,9.0,t1_d0qrien,10921.0,HowToHack
+347,"Can you elaborate on 
+
+&gt;We got into the datacenter using a credit card in the door.
+
+I'm not really sure what that means.
+
+Beyond that, it's pretty interesting. Not how I would've imagined a pentest though. To my mind, ""real"" hacking involves remote wizardry like exploiting SQLi, XSS, CSRF, weak crypto, developing an buffer overflow exploit for some shady wireless camera that connects to the internet and using that to pivot into the local network, really technical stuff like that. Your pentest involved a lot more physical presence than I would have expected. What's the point in going through a lot of effort to defeat a firewall when you can just phish or waltz into the building instead, I guess.
+
+What are your thoughts on this? Is low-level hacking slowly becoming obsolete? ",2016-03-07 12:58:10+00:00,d0qon24,7.0,t1_d0qg9iq,27669.0,HowToHack
+348,"Can you expand on the ""entry node you don't have control over""? I don't understand. Does that mean you need to set up your own node to be truly anonymous?",2016-03-07 05:38:19+00:00,d0qgubi,2.0,t1_d0pq0py,45608.0,HowToHack
+349,Have you tried turning it off and on again?,2016-03-07 05:34:24+00:00,d0qgqks,2.0,t1_cxnc64a,8067165.0,HowToHack
+350,"Nice. Without giving awayt the client, could you give us a rundown on how you achieved those things? It would be quite interesting to know how a pentester operates. I've asked before, but usually they tell me to ""just go over OWASP"", which doesn't help much.",2016-03-07 05:05:31+00:00,d0qfy3f,5.0,t1_d0qfctm,1203.0,HowToHack
+351,But the real question is: how skilled are the mods? What do you know?,2016-03-06 21:42:21+00:00,d0q03ya,3.0,t1_d0pq731,16741.0,HowToHack
+352,"I don't know about that guy, but on my netbook, installing any linux is a royal pain in the ass. It's incompatible for some reason (which is weird because it came with a special Linux OS), meaning if you want to get it installed, then you need to use special commands (no GUI, among other more vague options). This took me around two weeks. 
+
+Currently, if you want to do what I did, there are exactly two tutorials hidden deep in forums, and one of them is written by me (which is useful, since the second time I needed to install it, I realized I was using my own instructions).",2016-03-06 21:40:46+00:00,d0q01sx,3.0,t1_d0pgzn8,43076.0,HowToHack
+353,"I'm most interested in the low-level stuff, so I know a bit of reverse engineering (and programming + some networking). I want to dig deep into game hacking, IoT hacking and general exploit development. But also I want to branch out into websec a bit (knowing basic XSS, SQLi and CSRF would be nice). Crypto is also pretty cool, there seems to be a million ways to hijack a session on a website which uses poor crypto.",2016-03-06 21:31:10+00:00,d0pzp7x,1.0,t3_496etu,50388.0,HowToHack
+354,"Absolutely nothing. If the NSA is having a hard time breaking TOR, then a random blackhat won't stand a chance.",2016-03-06 11:49:01+00:00,d0pipzf,8.0,t1_d0p06cq,44567.0,netsec
+355,"Is there a marketplace, like SilkRoad for exploits? If not, it would be really easy to rip blackhats off.",2016-03-05 21:59:01+00:00,d0oxaso,6.0,t1_d0np1wm,95081.0,netsec
+356,"Security+ sucked, I don't know if it was the way it was presented or if the course itself is useless (it's supposed to be for managers I think?)
+
+Ethical hacking looks boring as well. The whiteboards are slightly informative, but I don't think the tools he showcases are particularly useful.
+
+The one which I liked was Network+. I learned a lot about how networks work from it, and I recommend taking that instead of security+.
+
+Advanced pentesting also seems interesting, since it looks like they go over things like buffer overflows and such. I haven't looked into malware analysis, but it might be useful for reverse engineers.
+
+I would only recommend the Network+ modules. For actual hacking, it would be better to just pick a topic (wi-fi hacking, xss, sqli, memory exploits, etc) and use tutorials specifically designed for that.",2016-03-05 11:05:24+00:00,d0of5po,1.0,t3_48zuze,42910.0,HowToHack
+357,That video was... something...,2016-03-04 19:47:28+00:00,d0npngv,2.0,t1_d0m1o2x,103744.0,HowToHack
+358,"I haven't really understood why CTFs are good though. I mean, if you know the answer, you'll capture the flag, and if not, then you won't. Either way, you won't learn anything new. Or am I wrong?",2016-03-04 19:43:31+00:00,d0nph3n,2.0,t1_d0lp0p0,138950.0,HowToHack
+359,"I'm going to study CS next year, and I've been wondering - how much can I incorporate hacking into an otherwise not security-oriented course? For example, when studying concepts like trees, I'm assuming I can't really work on hacking at the same time. On the other hand, when there is a software project assigned, maybe I could focus on making security related programs, like RATs, viruses, DLL injecting GUIs, etc.
+
+Basically, in college, can I incorporate hacking into my assignments, or will it have to completely come out of my own free time?",2016-03-04 19:30:10+00:00,d0novep,2.0,t1_d0nk4sn,6479.0,HowToHack
+360,I figured. Just thought I'd give something useful in case he was actually telling the truth.,2016-03-04 18:23:36+00:00,d0nly9k,3.0,t1_d0nipfp,4437.0,HowToHack
+361,"Read the sidebar before you upload. We wiill not hack anything for you.
+
+But yeah, try to guess what passwords you used when you made the account. That's your only way (or try to reset it)",2016-03-04 07:06:52+00:00,d0n3sc6,1.0,t3_48vn2c,12343.0,HowToHack
+362,"So what you're saying is that because linux has glibc built in, they're defined, and if you're using windows, which doesn't have them built-in, then they're not defined?",2016-03-02 14:19:02+00:00,d0kp3d9,4.0,t1_d0keprr,30620.0,learnprogramming
+363,"Great list of resources!Just so I don't forget...
+
+Remindme! ",2016-03-02 05:38:44+00:00,d0kefcx,2.0,t1_d0k5ugl,13595.0,HowToHack
+364,"Will try it out, thanks!",2016-03-02 05:15:17+00:00,d0kdqa4,2.0,t1_d0jzhy0,21669.0,learnprogramming
+365,"Thanks! For future generations - by running the code
+
+    &lt;?php echo PHP_ZTS; ?&gt;
+
+you can determine if the build is a zts build. If it returns 0 (which was my case), it's not a zts build.
+
+I discovered this when I did a grep for PHP_ZTS and discovered a test file, where it did a check for if (!PHP_ZTS) {...}",2016-03-01 18:47:01+00:00,d0jngts,2.0,t1_d0gtqfy,193445.0,learnprogramming
+366,Wait. There aren't employees behind the glory holes? Just random dudes instead? Wtf...,2016-03-01 18:34:19+00:00,d0jmvww,6.0,t1_d0jlxcl,1262.0,AskReddit
+367,"I've never been to a sex shop. What do you mean by ""glory holes""? Isn't that basically prostitution?",2016-03-01 17:23:16+00:00,d0jjo49,4.0,t1_d0jhzew,2247.0,AskReddit
+368,Remindme!,2016-03-01 05:26:41+00:00,d0j1re5,1.0,t3_48e8mw,7583.0,HowToHack
+369,"Because at one point Windows Update wasn't working for me, and I was stuck with an unpatched Windows. I was wondering how vulnerable I was - to pwn me, does an attacker need to ping/get me to click a link/get me to download and run an executable?
+
+ It's fixed now.",2016-02-29 05:16:00+00:00,d0hqsvm,2.0,t1_d0hha41,16004.0,HowToHack
+370,"If you tell youtube your account was hacked, then you should be able to get it back",2016-02-28 21:08:08+00:00,d0h95yh,1.0,t3_47gymq,323089.0,HowToHack
+371,"Watch Demmsec's videos. They're tutorials (haven't watched them myself, so not sure how good), but it might be interesting.",2016-02-28 21:00:21+00:00,d0h8viq,1.0,t3_479u7b,418576.0,HowToHack
+372,Thanks! :D,2016-02-28 20:11:08+00:00,d0h75wl,4.0,t1_d0h4e6i,4388.0,HowToHack
+373,"When I did ""Copy as curl"" in Chrome, then this  variable was there:
+
+PHPSESSID=a210d840d116168bd82c82485b18aa92'
+
+That means the site is in PHP, right?",2016-02-28 18:10:27+00:00,d0h2lsd,2.0,t1_d0fmmw0,121574.0,HowToHack
+374,Could these fonts and icons be uploaded to a website (like Reddit) or is it more difficult than that?,2016-02-28 17:22:49+00:00,d0h0vi0,2.0,t1_d0gtypz,14800.0,HowToHack
+375,"I did phpinfo(), but CTRL+F ""zts"" doesn't give anything.
+
+[phpinfo() output](http://pastebin.com/HqbKTZKM)",2016-02-28 17:19:02+00:00,d0h0qnq,2.0,t1_d0gxv2a,5097.0,learnprogramming
+376,check out hacked podcast on soundcloud,2016-02-28 09:58:24+00:00,d0gr6uw,3.0,t1_d0esb62,145681.0,HowToHack
+377,Have you ever looked up what they're up to now?,2016-02-27 20:47:30+00:00,d0g4riu,5.0,t1_d0g1fx6,5809.0,IAmA
+378,"You assume I know what a windows admin does :D
+
+I really have no idea what admins do in their day-to-day",2016-02-26 13:32:03+00:00,d0ej5sx,7.0,t1_d0eh8y3,5273.0,AskNetsec
+379,"I haven't studied vector fields or matrices yet, so I'll try to learn those and understand what you wrote. Thanks for the simplified explanation, btw.
+
+But what you're saying is that I can download the 3SAT solver, input outputs (along with the algorithm that was used to get them, e.g the onein your document, probably?) and it will output the states to me?",2016-02-26 08:04:50+00:00,d0editb,5.0,t1_d0ed6uj,1122.0,learnprogramming
+380,"However, it is used, and I'm trying to crack it.",2016-02-26 07:12:15+00:00,d0ecj9c,2.0,t1_d0dv26s,30305.0,crypto
+381,"I think I need to learn a lot more maths if I want to comprehend what you just wrote, haha.
+
+I don't own the browser, sadly. I might be willing to spend a few months educating myself and figuring out this problem, but can you tell me/estimate how many outputs I would need if I want to be able to calculate all future values? Also, how much processing power would it take? 
+
+In the implementation I'm trying to crack, the outcome (in the range of 0...1) is multiplied by 64 and math.round()ed, so I would have to (if, let's say, I got an output of 30) bruteforce all possible values in the range of (29.5/64)...(30.5/64), and I'm a bit worried my processor won't be able to handle that. ",2016-02-26 07:08:10+00:00,d0ecgck,3.0,t1_d0e5rv5,13676.0,learnprogramming
+382,"Using a linear congruential generator (which this is not, this probably requires a bit more work), using two consecutive outputs, you can guess the state and all future outcomes. This isn't good if you're trying to do something like generating various IDs or implementing RNG in games, for example.",2016-02-26 06:56:38+00:00,d0ec7wo,2.0,t1_d0e8cgv,8695.0,learnprogramming
+383,"Thanks! Will check it out!
+",2016-02-26 06:48:28+00:00,d0ec1pf,4.0,t1_d0dsrxe,32007.0,AskNetsec
+384,"I mean like, what do you actually do? Stare at a screen and read logs all day? Help people set up user accounts? Fix the coffee machine? Make sure the server is running smoothly? Be the response team against hackers? ",2016-02-26 06:47:27+00:00,d0ec0we,5.0,t1_d0duyz1,28945.0,AskNetsec
+385,"Yeah, I know, I phrased the question a bit badly. What I'd like to know is - how hard is it to crack?",2016-02-25 19:29:06+00:00,d0dlvck,2.0,t1_d0dl9ia,792.0,learnprogramming
+386,"So he noticed that based on the design? HTML elements? As someone not familiar with node.js, is there anything I could try to take a look at?",2016-02-25 18:47:51+00:00,d0djz2u,2.0,t1_d0djmyl,436.0,AskNetsec
+387,"Out of interest, could you tell me about what a nix admin does? Do you manage a large enterprise?",2016-02-25 17:40:29+00:00,d0dgwmc,3.0,t1_d0d5d2j,20718.0,AskNetsec
+388,"Yes, they allow downloading. Just install the app and try it. ",2016-02-24 18:24:22+00:00,d0c7pte,3.0,t1_d0c2dxn,7196.0,HowToHack
+389,"Yes, I did.",2016-02-23 20:14:26+00:00,d0azxrl,8.0,t1_d0ap88u,14234.0,techsupport
+390,"I know a bit about computers and what bad sectors are. My question was - how is it possible that 24 hours after installation, everything is OK. After that, it all goes to hell. Wouldn't it be slow immediately if the hard drive was the problem? Also, that wouldn't explain the abysmally slow internet connection.
+
+My guess right now is that it's malware, but I'm not a genius, so I could easily be wrong. 
+
+Currently reinstalled the same iso, going to see if not connecting the computer to the possibly infected external hard drive will keep it going. If that doesn't work, I'll try a different iso. If that doesn't work, I'll try replacing the hard drive.",2016-02-23 16:10:08+00:00,d0aoxhn,6.0,t1_d0aokts,511.0,techsupport
+391,"Is it possible for the hard drive to get slow only a day after the reinstall? For the first ~24 hours, everything is fine. I don't understand why the hard drive would cause such behaviour.
+
+In the meantime, trying out a different iso.",2016-02-23 15:09:42+00:00,d0amiwz,4.0,t1_d0ame93,215.0,techsupport
+392,"Yeah, I might do that. Only problem is - why is it fast at first, and *then* gets slow? It doesn't seem to me like this is innately a hard drive problem. Or is it?",2016-02-23 15:08:40+00:00,d0amhkv,4.0,t1_d0am3mn,639.0,techsupport
+393,"The hard drive *is* pretty old. But shouldn't it get slow immediately, then?
+
+I previously also had a 32 bit Windows 7 that worked fine. I reinstalled because I had a suspicion that it might have been infected by malware (I had been using it for years and it was a bit slower than normal, but nothing like this)",2016-02-23 14:42:04+00:00,d0aljg6,2.0,t1_d0al1ud,873.0,techsupport
+394,I apologise. Edited out.,2016-02-23 14:38:57+00:00,d0alfn3,2.0,t1_d0al0e7,760.0,techsupport
+395,Which ones don't give info?,2016-02-22 17:22:27+00:00,d09gm7z,4.0,t1_d08r73y,57072.0,HowToHack
+396,Geany if you're on Linux!,2016-02-22 08:16:57+00:00,d093527,3.0,t1_d0865tc,59021.0,AskReddit
+397,"Thank you so much for the explanations, I can't wait to start researching this again first thing in the morning! 
+
+I wish I had a thousand upvotes, you deserve them all :)",2016-02-21 22:09:00+00:00,d08jvcq,4.0,t1_d08gyxf,4511.0,learnprogramming
+398,Wait... Doing it in the shower will clog the drain? Really?,2016-02-21 21:09:36+00:00,d08hkta,4.0,t1_d083jeh,25048.0,AskReddit
+399,"Thanks a lot, I understand it now!
+
+One kind of unrelated question - could you please explain the function 
+RUNTIME_FUNCTION(Runtime_GenerateRandomNumbers) to me? It's called from [MathRandom()](https://github.com/v8/v8/blob/264fa75e529562a6f5df97c5daf1867cd81c58d2/src/js/math.js) and if I've understood correctly, it's supposed to generate 64 pseudorandom numbers with a linear congruential algorithm.
+
+I don't understand the function at all. What does it do, and where is the actual algorithm?
+
+Finding the actual algorithm would be enough for me, but to clarify the things I don't understand about the function:
+1) Have I even got the right function? In MathRandom(), there is a call to %GenerateRandomNumbers(randomNumbers), but the runtime function is called RUNTIME_FUNCTION(Runtime_GenerateRandomNumbers). It's likely to me that GenerateRandomNumbers and Runtime_GenerateRandomNumbers is the same thing, but in programming, semantics are so important, so I'm just making sure.
+
+2) The algorithm isn't executed in this function. Where is it executed?
+
+3) randomnumbers (which is probably an array of the next 64 pseudorandom numbers) was given as a parameter, but the only reference to it seems to be  
+    DCHECK(args.length() == 1);  
+which I guess checks if the parameter was provided? I don't see any external calls to which the parameter was given (where the algoritm could reside)
+
+4) some other weird stuff, like  
+    CONVERT_ARG_HANDLE_CHECKED(Object, maybe_typed_array, 0);  
+maybe_typed_array is only present in this particular function and nowhere else. I don't see any initialization. I don't get how this isn't producing an error.
+
+5) I'm not a very good programmer yet. I don't get what this does.  
+    Handle&lt;JSArrayBuffer&gt; buffer =
+        isolate-&gt;factory()-&gt;NewJSArrayBuffer(SharedFlag::kNotShared, TENURED);  
+What exactly does the -&gt; do? I've been told it's used to retrieve variables from other objects, but I don't think that's correct in this case.
+
+I'm sorry for going a bit off topic, but I couldn't find these things by googling, and it would mean a lot to me if I could understand what's going on.",2016-02-21 19:27:35+00:00,d08drbe,2.0,t1_d08a4oq,5941.0,learnprogramming
+400,"Yeah, turns out that double really is in the range 0 to 1. I didn't notice the divide. Sorry.",2016-02-21 18:05:56+00:00,d08army,4.0,t1_d089yhz,1328.0,learnprogramming
+401,"Dammit, you're right, thanks. How did I miss that...
+
+How did you find the mapping? Did you debug like anon suggested?",2016-02-21 17:38:44+00:00,d089s0y,2.0,t1_d089jyu,374.0,learnprogramming
+402,"random.nextDouble() does the conversion to double, but it's still not in the range of 0 to 1. 
+
+Will using the debugger help me find out where the conversion takes place? How do I use the debugger - how do I know what the first function to call should be?",2016-02-21 17:17:43+00:00,d0890pb,2.0,t1_d086req,3945.0,learnprogramming
+403,"For future generations:
+
+The way you find the source code for a Javascript's implementation is by typing in the engine's (like SpiderMonkey if you're using Firefox) name and something like ""source code"". Then you'll find the latest release of the engine, which is written in C++. Then you search for the library (like math for Math.random) and find the function in the file with the library's name. 
+
+For example, Math.random is actually math_random in jsmath.cpp in the mozjs-38.0.0 release of SpiderMonkey.",2016-02-21 14:58:45+00:00,d084m3c,5.0,t1_d05d0lw,218472.0,learnprogramming
+404,"Nope.
+
+However, I can't believe no one has though of this yet - math.round() doesn't get rid of the outputs. It simply makes it a teeny tiny bit harder to guess.
+
+In javascript, the output is from 0 to 1. In my case, the output is multiplied by a number, 30, to get a range of 0 to 30. then it's math.round()-ed. Now, here's the unbelievably simple solution. If you get a rounded output of 15, then can we guess roughly what the actual multiplied output is? Yes we can, it's in the range 14,5 to 15,5. So all we have to do is try all the possibilities and divide by the multiplier to get the original output.",2016-02-21 14:53:13+00:00,d084h3y,2.0,t1_d05y0p4,169166.0,learnprogramming
+405,"So it doesn't regenerate them every time
+, right?",2016-02-20 16:03:51+00:00,d0745hj,2.0,t1_d073zhh,317.0,learnprogramming
+406,"I've written some benchmark code now and by my estimates, it would probably take my computer at least 5 years to run it. That's not very feasible.
+
+What I've been thinking is that while the use of  math.round loses some entropy, there is still some data left! If math.round(seed) = 16, then we know that the seed has a value between 15,5 and 16,5. That's actually quite a narrow searchspace. I'm going to start working on it right away (leaving this for future hackers), but what do you think - good idea, no?",2016-02-19 20:23:01+00:00,d069pqb,2.0,t1_d04tiwj,91866.0,AskNetsec
+407,"Thanks for the answer. 
+
+I don't really want to throw money at it (at least not without knowing it works), so I'm thinking I'll try to write an optimized algorithm for brute forcing it and finding out how long it would take me to brute force the 64 bits.
+
+The seeding thought is interesting. I'm currently under the impression that the server never reseeds the generator, but if it does, then that opens up a whole new attack vector. In any case, it's worth checking out.",2016-02-18 21:01:26+00:00,d04zuyw,2.0,t1_d04tiwj,7771.0,AskNetsec
+408,"Thanks for the links, it's a big help! What did you type into google to find it? For example, typing ""php rand() implementation"" doesn't give anything.",2016-02-18 20:48:44+00:00,d04z93o,2.0,t1_d04y9kp,1234.0,learnprogramming
+409,"Yes, I actually already have cracked java.util.random by taking two outputs and doing some long division on them. However, this is slightly more complicated, as the state cannot be calculated from two outputs (because of math.random)
+
+Actually, you're right about one thing I forgot - java.util.random's internal state is 48 bits, not 64. I wonder if this is true for other languages as well (like javascript and php)? I can't find the source code for these classes anywhere...",2016-02-18 18:07:50+00:00,d04rd3z,3.0,t1_d04q1ar,1649.0,learnprogramming
+410,"Nope, I have no idea who he is.
+",2016-02-18 18:02:52+00:00,d04r4mu,2.0,t1_d04ptle,1624.0,learnprogramming
+411,"Sorry, I should've said state, not key. The seed and state of the LCG is 64 bits long. (edit: or maybe 48 bits? Where can I find the source code for javascript's and php's random() functions?)
+
+But that's the gist of it, yeah. Using the Round()-ed outputs, I want to generate the state of the PRNG, which will allow me to know all the future states of the PRNG (which can then be outputted rounded to get all future outputs). I tried to run some numbers, and if a computer does 1 million calculations a second, the algorithm would take roughly 600,000 years to finish. Not good.
+
+So yeah, it would be great if there were some way to speed up the algorithm somehow. After all, some data from the original outputs remain in the Math.Random()-ed outputs. Could this maybe allow for using statistics to drastically speed up the algorithm?",2016-02-18 17:24:05+00:00,d04p9j4,2.0,t1_d04ovn8,486.0,learnprogramming
+412,"I like the bass behind your suggestions, but I think brostep's more my style. I can't do popping to oldschool dubstep :D
+
+Some of the tracks are good though. The ones I like are Zomby - Spliff Dub and Sukh Knight - Ganja Dub",2016-02-18 15:40:57+00:00,d04kow2,7.0,t1_d04gf0u,7496.0,AskReddit
+413,"I'm a newer bass head (starting 2013), but I love some of the older stuff (would you consider Excision - Deviance and Datsik - Gizmo oldschool?). Can you give me some good tracks? I'm especially low on DnB, the only one I know is Droideka - Get Hyper.",2016-02-18 13:00:52+00:00,d04fk3x,5.0,t1_d0470fu,27253.0,AskReddit
+414,"I'm not 100% sure if I want to sell it. However, the hack project is the reason I started programming in the first place, so I won't die without having made one ;)
+
+
+But I agree, whitehatting is better than blackhatting. How do you make money whitehatting, though? Bug bounties or a pentesting job? I don't make any money at all at the moment, so I just want to get some first experiences and maybe something on my resume.
+
+I've been researching RNG's lately (rolled my own LCG and Mersenne Twister and cracked them, learned a lot about bitshifts). If it's not a secret, can you tell me what the laravel exploit does? Is it a mathematical vulnerability (does it not use a cryptographically secure algorithm)? Or is it something else?
+
+
+",2016-02-18 05:21:59+00:00,d046vef,7.0,t1_d03zryt,12004.0,netsecstudents
+415,"Oh, yeah, now I get it. I think he meant that good gambling sites would seed an RNG with a high-entropy seed (from /dev/random, for example), and never reuse it (or just use a cryptographically secure RNG). However, most websites use Math.Random() (highly insecure) and don't reseed it, making it quite easy to crack. 
+
+My only current problem is regarding how to handle Math.round() calls on the math.random(). A lot of data is lost due to it. Luckily, since I can produce an infinite number of random calls due to their crappy programming, I'm sure it's crackable. I'm just not exactly sure how, yet. Do you know what the answer could be?",2016-02-17 18:04:55+00:00,d03fvxo,5.0,t1_d03ffdv,615.0,netsecstudents
+416,"So like a pocket-sized CPU? :P
+
+Sounds like a fun gadget, actually. You could hook it up to phones and brute force the 4 digit passwords quite quickly. 
+
+There are actually tablets made for hacking, which seems kinda like your idea. They run linux and can do pretty much whatever a computer could. I've forgotten the name, but they're pretty interesting",2016-02-17 17:38:27+00:00,d03eor3,2.0,t1_d03b2j6,5110.0,HowToHack
+417,"I have a general idea of how Lmaobox and similar hacks work, yes. VAC is a lot like an anti-virus, so all you have to do  is design the hack like a virus. Encryption + undetectable dll injections (manual mapping) for private use, add polymorphism for a public product. I know some reverse engineering myself, so with a little help, I'm sure it wouldn't be a problem. I'm going to uni next year, but I've been studying programming for a few years now. Also I'm currently enrolling in an entrepreneurship course and helping my parents launch a product.
+
+What do you mean under ""entropy""? I haven't heard of that word being used in an infosec context before.",2016-02-17 17:35:04+00:00,d03ejar,3.0,t1_d038sui,8342.0,netsecstudents
+418,"I guess I'll start!
+I have two projects I'm very interested in.
+
+For one, I'm currently working on cracking random number generators in gambling websites (legally). It's coming along nicely - I already know how generators work and I've found a vulnerable website. Now I just need to figure out the technical details of leveraging the vulnerability. Doing it with a partner would be easier (more profitable), and more fun :)
+
+Also, after this project, I want to make a hack for CS:GO. It will be much like Lmaobox (tf2 hack) and, if we want, highly profitable (I also study business). Making it is quite a large and difficuly undertaking, though (MVP is wallhack + ESP + polymorphism against VAC detection). The project demands a small team. It's one of the coolest projects I can think of, though.
+
+What do you guys think? Does anything sound interesting?",2016-02-17 12:45:32+00:00,d034aag,1.0,t3_467hx7,11830.0,netsecstudents
+419,"I'm currently trying to make my own Mersenne Twister cracker, I could use some advice.
+
+Cracking the Twister is pretty easy to do if you start from the first output. You will get 624 states, which you can then twist to get all the future results.
+
+What if you start from, say, the 300th number though? In that case, if you collect 624 outputs, you will (after 324 numbers) reach the 624th number. It will twist and you will get 324 additional twisted outputs. Needless to say, twisting at that point (when the index in the generator is at 300 again) will produce an incorrect state, as the actual generator will wait until its index is 624 before it twists again.
+
+How do Mersenne Twister crackers work out when the algorithm twisted? Do you need more than 624 outputs to do that?
+
+Also including /u/ScottContini, /u/NeoThermic, /u/didihearthatright, /u/Gusfoo, to get some really good answers :)",2016-02-13 19:45:18+00:00,czyqv0q,2.0,t1_czx9z1f,107264.0,netsec
+420,I don't think you know what a pseudo random number generator is...,2016-02-13 19:30:10+00:00,czyqcgf,4.0,t1_czxxf12,71036.0,netsec
+421,"Thank you, /u/Rhomboid and /u/poopinspace, I couldn't have been able to make my own Mersenne Twister without you!
+
+I have one question though -  I'm currently trying to crack my twister - get the states from the outputs. That's pretty easy to do if you start from the first output. You will then get 624 states, which you can then twist to get all the future results.
+
+What if you start from, say, the 300th number though? In that case, if you collect 624 outputs, you will reach the 624th number, it will twist and you will get 324 additional twisted outputs. Needless to say, twisting at that point (when the index in the generator is at 300 again) will produce an incorrect state, as the actual generator will wait until its index is 624 before it twists.
+
+How can I work out when the generator twists? In practice, do I need 2*624 outputs to work out when the generator twisted?",2016-02-13 18:58:50+00:00,czypa2i,,t1_czrgwjz,,learnprogramming

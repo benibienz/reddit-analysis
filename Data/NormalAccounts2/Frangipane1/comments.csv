@@ -1,0 +1,745 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Do you have a good airflow ? 
+
+My first PC had a GPU with high rpm and high temps. The noise was so annoying ! Especially during the summer. 
+
+The problem was that I only has a case with 1 fan. I bought a new case where I could put 7 fans. I filled every slot and my problem got fixed. 
+
+Good airflow is important !",2016-11-20 11:36:17+00:00,da82nod,1.0,t3_5dx3pz,13466.0,Amd
+1,I understand them. DX 12 has more comfort to develop. Vulkan is a very efficient API (in some cases better than  DX 12) but is more tricky to use than DX 12.,2016-11-19 08:00:04+00:00,da6reko,1.0,t3_5dpcdl,33662.0,linuxmasterrace
+2,"Am I the only one that loves Julia programming language ?
+
+I came from MATLAB and I'm happy that I changed to Julia. It is faster, syntax is familiar with MATLAB and it is open-source ! ",2016-11-13 17:52:46+00:00,d9ymzt8,1.0,t3_5cmmt3,72602.0,math
+3,"JavaScript is maybe not the best for math (matrix operations, data analysis, ...) but has a enormous advantage.
+
+For example if you need to script some calculations on a computer that isn't yours. Then you just open the browser and start writing. No need to install something like Julia, Octave, MATLAB, Python, ... 
+",2016-11-13 17:47:11+00:00,d9ymrir,3.0,t1_d9ybpjf,24370.0,math
+4,"I'm just saying this because I would love to replay the whole universe. One time was not enough. If they do that then they also should let evolve the game with respect to Vanilla game mechanics. 
+
+I think that blizzard suggested something like pristine servers. I honestly think that it is a good idea. ",2016-11-07 09:28:03+00:00,d9pczhm,7.0,t1_d9p9q3b,9987.0,wow
+5,"Then what ?
+
+Tell that to the people playing counter strike or skyrim since years. ",2016-11-07 06:38:41+00:00,d9p9nix,3.0,t1_d9ogbf0,42086.0,wow
+6,"Solar panels have a warranty of minimum 80% efficiency for 25 years. 
+However some nuclear power plants lasted more than 60 years. 
+New generations are getting better and are expected to last even longer. 
+
+Solar panels aren't cheap, a solar power plant is more expensive than a nuclear power plant. In Germany, generating electricity from a nuclear power plant cost 7 cents for 1kWh which is 5 times less than what is generated with solar power plants.
+
+The problem is that nuclear energy is still has to evolve and be better. The ideal nuclear power plant should not cause any pollution and should be entirely safe. 
+
+In my opinion, there is still a need of major breakthrough whether it is for nuclear or solar power. Because to this day, there isn't any ideal solution for generating power. But nuclear power is closest one (when you don't look only to pollution but also price/performance/lifespan/...).",2016-11-05 06:24:34+00:00,d9mm1x8,4.0,t1_d9lzpod,36432.0,albania
+7,"Solar panels are not the most eco thing that can be used. The efficiency degrades really fast. They have a relatively short life expectancy and throwing them away causes a lot of pollution. 
+
+EDIT: remember the rules about voting: If you think something contributes to conversation, upvote it. If you think it does not contribute to the subreddit it is posted in or is off-topic in a particular community, downvote it.
+
+I'm not being off topic so why those downvotes ? If you downvote this post it's because you are not willing participate to Reddit like it has to be.",2016-11-04 18:24:42+00:00,d9ltx86,2.0,t1_d9libit,13787.0,albania
+8,"Check krita, you will love it. ",2016-10-31 07:35:30+00:00,d9f2wf2,2.0,t1_d9ezmyn,9223.0,linux
+9,Playing halo 3 together. ,2016-10-27 08:07:07+00:00,d99q0hm,1.0,t3_59k92r,37860.0,AskReddit
+10,Why is that bullshit ? I do not understand.,2016-10-22 17:11:55+00:00,d937ana,2.0,t1_d9336us,6604.0,Entrepreneur
+11,"You have dlc like blood and wine for the witcher, legion for WoW, ... That's okay.
+
+
+But wtf 3 map for $15 !?",2016-10-20 12:22:58+00:00,d906v2m,1.0,t3_58f7iq,25385.0,pcgaming
+12,"For me it is the opposite since bash is now integrated in Windows 10, I have no reason to install Linux anymore. 
+
+I can work with Linux commands, work with Autodesk, game, ... with the same OS. ",2016-10-17 10:47:33+00:00,d8vjlxa,1.0,t3_57vkho,22748.0,programming
+13,"Where is ""here"" ?",2016-10-17 10:38:12+00:00,d8vjfd3,4.0,t1_d8vjbiv,342.0,funny
+14,"Try programming in asm with dosbox. It's a x86 emulator. 
+
+To get started you will need a .asm file but also a makefile that refers to your asm files in order to make a object that you can then execute with the emulator.
+
+I made a flappy bird game for learning purposes. It took like 3 full days. The most difficult part is finding documentation. 
+
+Ps: don't draw with function 21h, it's slow. You need do to buffering, thus drawing to the memory and then copying the data from the memory to the screen once the vertical raytrace (refresh screen) is done. ",2016-10-16 05:51:47+00:00,d8u15hb,1.0,t3_57prc3,7861.0,gamedev
+15,Artificial intelligence for humans: nature inspired algorithms,2016-10-16 05:36:23+00:00,d8u0rl4,1.0,t3_57nj06,38092.0,albania
+16,"Your kid is right. Star wars, lord of the rings and Harry Potter are **bad** movies",2016-10-16 05:25:07+00:00,d8u0gz1,2.0,t1_d8twh1a,7498.0,Showerthoughts
+17,"I had almost the same problem with another service (not kinepolis but something with massage). 
+
+As a client it is your right to ask a 'conditions de ventes' document. If you didn't ask it and it was written on it then it is your fault. You can not claim your money back. 
+
+
+But if you did ask it and it was not written on it then you win. 
+
+So I lost :(",2016-10-12 06:34:10+00:00,d8ohbub,2.0,t1_d8o9jps,14339.0,belgium
+18,"""They don't have a level 110 cap and demon hunters in Vanilla mr OP""
+
+But that why we prefer vanilla, goddammit !",2016-10-08 20:12:08+00:00,d8jl379,1.0,t3_56ggt3,33878.0,wowservers
+19,"The chrome on iOS uses not the Chrome rendering or JavaScript engines — the App Store rules forbid that. It’s the iOS system version of WebKit wrapped in Google’s own browser UI. So no V8 and a single process model. 
+
+In short it's safari with chrome UI.",2016-10-08 16:34:43+00:00,d8jc92h,4.0,t1_d8jbpsp,790.0,explainlikeimfive
+20,C# is not a functional language. F# is a functional language. ,2016-10-02 17:01:17+00:00,d8axzpb,4.0,t1_d8awu10,1618.0,csharp
+21,"The difficulty in vanilla was that you could not pull multiple mobs. You had to be careful when walking around. You also often had to hide in order to regenerate. In short you had to be strategic. You had to think. You had to be social and team up. You couldn't just walk around and kill everything. So yes, in my opinion this is difficulty. ",2016-09-16 04:37:21+00:00,d7out5u,4.0,t1_d7ocv4c,27167.0,wowservers
+22,"I agree but a minimum of difficulty would be great. 
+The reason why Vanilla/BC/... WoW feeled alive was not only because the zones weren't instanced. But alao because leveling was hard and thus took a long time. 
+
+Now leveling has no challenge. You just have to do it. It feels like a chore. ",2016-09-15 20:54:56+00:00,d7ocerj,2.0,t1_d7o78h3,6376.0,wowservers
+23,I never heard of him and I'm glad that I didn't watch any of his vids. He doesn't deserve it. ,2016-09-14 21:21:01+00:00,d7myu4s,2.0,t1_d7mwunx,2452.0,pcmasterrace
+24,Or $0,2016-09-10 06:38:05+00:00,d7gp27o,3.0,t1_d7g17sp,40726.0,linux
+25,Only true for the beginning of windows phone. After a while he even had a iPhone. ,2016-09-08 15:39:12+00:00,d7eatub,3.0,t1_d7dinc4,56790.0,windowsphone
+26,I would kiss you if I could.,2016-09-07 19:48:39+00:00,d7d7xag,3.0,t1_d7d700g,1155.0,Unity3D
+27,"Amazing, I love it!",2016-09-07 13:57:32+00:00,d7cs664,1.0,t3_51knkb,11377.0,Unity3D
+28,"So why should I call someone that knows a lot of things but is average ? 
+
+I prefer to call someone specialised in one domain with a lot of experience.",2016-09-04 21:17:49+00:00,d79iyy9,3.0,t1_d79g686,4526.0,Entrepreneur
+29,"Don't do that. Get at least some experience by working somewhere. You need to see with your own eyes how a company works. 
+
+
+A friend of mine is a EE and has a company that installs electrical wires in buildings. But before doing that he worked in a company that did the same job for almost 10 years. ",2016-09-04 21:13:18+00:00,d79it0w,1.0,t3_515lzu,5353.0,engineering
+30,"That's the only way to do it. 
+
+If you have a appointment at 6 pm and if he is not there by 6:10 pm then just leave and go without him. After a while he will know that you won't wait and that he really has to be on time. ",2016-09-04 20:54:02+00:00,d79i3j8,2.0,t1_d79560o,21366.0,LifeProTips
+31,Yes I know but I expect that they change it. Because I really can't imagine how they could push 4k 30 fps with 6 Tflops. ,2016-08-16 03:35:19+00:00,d6j98ck,4.0,t1_d6j8unf,648.0,pcmasterrace
+32,"4k at 3 meters is more beautiful than 1080p at 3 meters. (With a 40"" TV). And the eye can see it. 
+
+It's not just about making the difference on some pixels. But 4k adds a lot of quantization, the color is a lot richer.
+4k has more information about the color in the same cm^2 than a 1080p screen. If you go far away you to the point that you can't differentiate pixels.  Light from the pixels will start to mix. On the 4k you will have a mix of 4 RGB pixels. On a 1080p you just have 1 RGB pixel. 
+
+
+This is the main reason why 4k looks so rich and great. ",2016-08-16 02:15:46+00:00,d6j698t,4.0,t1_d6itkif,18617.0,pcmasterrace
+33,It wouldn't be true 4k. It will be like 900p for 1080p. ,2016-08-16 02:02:50+00:00,d6j5qpo,2.0,t1_d6iq91g,22038.0,pcmasterrace
+34,No actually edge is completely redesigned from ground up. It has nothing to do with internet explorer. It's not a rebrand or an update of IE. ,2016-08-14 21:47:05+00:00,d6hj7uy,2.0,t1_d6hhxdo,2088.0,NoStupidQuestions
+35,"set max fps 90 and not 60. I don't know why but if I set mine to 90 I got 60 and if I lock it to 60 I got 45 fps +-
+
+hope it helps",2016-08-13 08:47:45+00:00,d6fpatj,2.0,t1_d6etfjk,54246.0,NoMansSkyTheGame
+36,"Don't forget that if you get in you have to prepare +-$1000 a month in order to have a place that is well situated. I stayed 3 months. Since you have to live there without having a real job I personally spend almost 5k in 3 months (without flight tickets). I was lucky that the place had a couch, bed, ... 
+
+So prepare your grades but also the money. 
+
+Good luck
+
+
+
+Ps: I'm also Belgian :)",2016-08-03 21:57:34+00:00,d6335vr,6.0,t1_d62yz2q,5348.0,nvidia
+37,Didn't know that. Thought it sounded good. I searched Google but there were a lot of people using pokemon and pokemons. My first language is not English. ,2016-07-19 17:22:38+00:00,d5idve0,2.0,t1_d5i43wa,13396.0,pokemongo
+38,I hate it when I get really sick in Albania. Always a ton of needles in my butt. ,2016-07-12 06:53:38+00:00,d58xhh9,2.0,t1_d58qsgi,14298.0,albania
+39,Yes I can reschedule it. ,2016-07-03 18:03:15+00:00,d4xvfbr,2.0,t1_d4x6xp4,60923.0,legaladvice
+40,Good idea thank you for the help :),2016-07-02 19:07:43+00:00,d4wuuq2,2.0,t1_d4wsz6d,3319.0,legaladvice
+41,"World of Warcraft is a popular game that exist since almost 12 years. 
+
+
+Since then, the game had a lot of updates to the point, that for some players, it doesn't feel the same anymore. 
+
+A team of players replicated the game like it was in 2004-2006 for free. Everyone could play it together and for free. There was a huge amount of active players. 
+
+
+Blizzard, the creators of World of Warcraft, did close this replicated game because it was illegal. 
+A lot of players and the creators of this replicated game signed a petition. 
+
+The petition was in hope to push Blizzard making this ""classic"" game available. 
+
+
+In short: Blizzard did respond that they are listening and they are looking for solutions. But nothing more. 
+This is fairly recent so it might work.
+
+
+The game runescape had the same story and it did work. Btw classic runescape servers are more playes than the actual one.  ",2016-06-27 17:08:48+00:00,d4q21fs,1.0,t3_4q2urq,20619.0,NoStupidQuestions
+42,"I just wanted to add some information (if I'm correct):
+
+Today, DRAM does not ""save"" data with flip-flops but with capacitors. That's why they are relatively slow compared to cache. Cache ""saves"" data with flip-flops witch are very fast because unlike to capacitors they don't have to load/unload. 
+
+
+The main advantage using a capacitor system to ""save"" data is because it's cheap. 
+
+
+Note that I wrote *""save""* and not *save* because it doesn't really save since it loses his data once the power goes off. ",2016-06-27 16:21:52+00:00,d4pzvn2,2.0,t1_d4op0fy,88492.0,engineering
+43,"I'm in a endless cycle of:
+
+Not in shape =&gt; insanity =&gt; in shape =&gt; profit of summer =&gt; do nothing once summer is over =&gt; not in shape =&gt; insanity =&gt; in shape =&gt; profit of summer =&gt; ...
+
+Programs like insanity are very intensive, it's hard to keep it up without a break.",2016-06-26 23:55:43+00:00,d4p6mw3,1.0,t3_4pwp5z,60158.0,insanity
+44,Cata was better than WoD. You had content... ,2016-06-26 00:26:18+00:00,d4o3mi3,2.0,t1_d4no2ci,26817.0,wow
+45,Ssa or msaa x8 or x4 coukd be the problem,2016-06-19 11:11:29+00:00,d4f9jwo,1.0,t3_4oow8h,71530.0,nvidia
+46,technically the npc is not a player so it's still pve.,2016-06-14 16:51:17+00:00,d48y6nk,3.0,t1_d48witu,2009.0,wow
+47,"Not sure why your are downvoted when this is part of the game. Game designers did not forget to make npc unkillable. There is a reason that we can kill them and that's like you said: it's WARcraft. 
+
+But here we are on r/wow and it's a place where we cry if the game is with no mercy, too difficult or demands too long investment. ",2016-06-14 15:11:30+00:00,d48tear,2.0,t1_d48rl2n,2435.0,wow
+48,"Not really, back in the day Blizzard stated that casuals could run from 0 to 60 solo. But hardcore could play more by doing raids when they hit 60.",2016-06-14 10:22:58+00:00,d48kdwo,2.0,t1_d482e21,36183.0,wow
+49,it had a lot of potential.,2016-06-14 10:19:16+00:00,d48kbjw,3.0,t1_d47wg8n,44629.0,wow
+50,"The problem with WoD is that even without flying mounts you can take the fly 10 meters nearby every dungeon. 
+
+
+In Vanilla, most of the dungeons, where not close to places where you could take the fly. You had a lot of mobs to kill before entering the dungeon, which made it even more epic. And of course you could not TP so much, there was no stone...
+
+
+So removing the ability to fly (in WoD) didn't change so much. Because you could still TP people, fly was nearby the dungeon, no mobs to kill before entering the dungeon, ... ",2016-06-14 10:17:35+00:00,d48kafh,3.0,t1_d483b34,34496.0,wow
+51,Yes theth is beautiful! I love this place!,2016-06-12 12:55:38+00:00,d45xe82,2.0,t1_d45wgyp,2675.0,albania
+52,"English is second language at school. But this is relatively recent so young people would normally speak English. 
+
+If you like the sea you should go to ksamil or dhermi. 
+
+If you like mountains you should go to valbona. 
+
+Check Google images for a first impression. ",2016-06-12 10:30:11+00:00,d45ut2s,1.0,t3_4npmh3,2991.0,albania
+53,"You have to take those results with a grain of salt. The AA is set to the maximum. x8 MSAA (or x4 SSA) on 4K monitor takes a looooot of VRAM. 
+
+You don't need x8 MSAA (or x4 SSA) on a 4K monitor. 
+",2016-06-11 19:05:39+00:00,d455rxi,6.0,t1_d44w8hw,16020.0,Amd
+54,"I have a dual gpu SLI setup with a 3440x1440 ultrawide monitor. 
+No regrets, no problems and I'm very happy with the results that I got. 
+
+I know that a lot of people don't love SLI/CF because they had a bad experience or something else. But in my case it just works so well and I'm satisfied. No complains.",2016-06-11 18:56:29+00:00,d455g60,2.0,t1_d44utb7,18572.0,Amd
+55,I'm 23 but most people of my guild are above 35. ,2016-06-11 07:46:42+00:00,d44olai,1.0,t3_4nkied,2274.0,wow
+56,"I have a sli of 2x970 and a 3440x1440 monitor. When the 3.5gb thing showed up, a lot of people told me that the card will have problems very soon. 
+
+I didn't encounter any problems. So I didn't return my cards. 
+
+I don't regret it, for example: fallout 4, GTA V, Witcher 3, WoW, dragon age, skyrim, tomb raider,... runs without any problem. Witcher 3 takes about 2Gb vram so there is plenty of room. ",2016-06-11 01:41:07+00:00,d44ew4b,2.0,t1_d447fgy,13171.0,pcmasterrace
+57,"I really hope that there will be a movie about Arthas with the ""invincible"" music as introduction.  ",2016-06-10 16:36:16+00:00,d43t6vd,1.0,t3_4nfsxm,19540.0,wow
+58,It's a [MSI Z97 Gaming-5](https://www.msi.com/Motherboard/Z97-GAMING-5.html#hero-overview),2016-06-06 15:31:19+00:00,d3y5d9h,2.0,t1_d3y3pyv,2324.0,watercooling
+59,"The transfert price has to be high otherwise everyone would change server very often. Server population will be unpredictable. 
+
+
+The thing that they can do is close some servers or DELIVER ACTUAL CONTENT so people have reason to play. 
+
+No content =&gt; no players =&gt; dead servers ",2016-06-01 16:21:18+00:00,d3rvt9k,1.0,t3_4m12te,12570.0,wow
+60,they should give a free month instead of the boost. ,2016-05-31 15:11:52+00:00,d3qg8rd,2.0,t1_d3q80mz,17114.0,wow
+61,"The thing is that it was worth paying 15$ a month because you received the extra content on a regular basis. 
+
+But now it isn't worth paying, updates are in existent...",2016-05-31 15:09:33+00:00,d3qg5ac,1.0,t3_4luavd,22426.0,wow
+62,Need for a ultrawide support :(,2016-05-29 20:41:07+00:00,d3oe74m,1.0,t3_4lk0j0,35645.0,pcmasterrace
+63,"I will add my apologies for the vertical video. 
+
+And also that my watercooling loop does look fine. No air in the tubing's, no vortex in the reservoir, the water flows beautifully, ... 
+
+I did some benchmarks and my CPU and 2 GPUs have correct temps I presume (30-40 Celsius).
+
+The loop is reservoir &gt; pump &gt; GPU 1 &gt; GPU 2 &gt; CPU &gt; radiator &gt; reservoir &gt; ... 
+
+The pump has a fanlike input pin (for pwm) which is attached to a cpufan pin. The pump also has a molex pin (for 12V) which is attached to a molex.
+
+EDIT: I've found the problem. I was using the PWM hub of the nzxt h440 case. It caused my pump to run at high speed like it wasn't attached to anything. I connected the pin directly to the main mobo and now everything is great!",2016-05-27 12:18:08+00:00,d3lngr1,1.0,t3_4lafwx,383.0,watercooling
+64,"You don't have do use the terminal but it is by using the terminal that you can use Linux at full power. 
+
+The terminal is one of the reasons that I prefer Linux.",2016-05-25 06:29:16+00:00,d3isb6d,2.0,t1_d3imf6u,12016.0,linux
+65,"15% of 12k is 1800. So 10,2k population in the server is still huge.",2016-05-07 19:19:34+00:00,d2wmu8r,4.0,t1_d2wm3hp,1305.0,wowservers
+66,On which boss do you use your fire spec instead of arcane?,2016-04-30 10:42:47+00:00,d2n76d0,3.0,t1_d2m0klg,77113.0,wow
+67,They can make mobs hit harder. ,2016-04-26 10:26:08+00:00,d2hqrm4,2.0,t1_d2hncdi,12564.0,wowservers
+68,And windows Mobile???,2016-04-25 21:25:55+00:00,d2h30n0,1.0,t3_4gdam9,28817.0,microsoft
+69,"Totally agree. 
+
+As a dev I did choose to spend 200$ on a chromebook. I installed elementary OS (ubuntu linux). Works very well, is very light (0.98 kg), portable and well build. 
+
+If I had bought a Mac to have a unix environment I would have spend 1000$ minimum. With those 800$ that I saved I bought a little gaming PC with a 950 GTX (and a new display) for my girlfriend and I bought myself a new smartphone Honor X7 which is a amazing phone btw.",2016-04-25 06:33:16+00:00,d2g9qi7,3.0,t1_d2ft8v7,30885.0,pcmasterrace
+70,"You forgot a important step: Making the game solo. 
+
+Mobs are so easy to kill that you don't need any interaction with other players. ",2016-04-25 05:12:14+00:00,d2g7x95,1.0,t3_4g8txr,45362.0,Nostalrius
+71,I always thought that they should make a dungeon finder where you are just grouped and aren't teleported to the dungeon with a 15% more damage. You should still have to walk. ,2016-04-25 05:10:56+00:00,d2g7w29,2.0,t1_d2fik0d,42914.0,Nostalrius
+72,And community is what makes a online game great.,2016-04-20 22:33:25+00:00,d2aypkv,4.0,t1_d2aut5p,5524.0,pcgaming
+73,"at least you had something to do next if you weren't in those 5%. Now 100% sees end content and kinda ""finish"" the game.",2016-04-20 22:31:21+00:00,d2aymol,6.0,t1_d2awc4x,3322.0,pcgaming
+74,Thank you for sharing this information.,2016-04-20 22:17:05+00:00,d2ay2b9,4.0,t1_d2au22d,5485.0,wow
+75,Tldr of what he has done before? :/,2016-04-20 20:35:12+00:00,d2atjhs,2.0,t1_d2aoyhi,5603.0,wow
+76,I had the same impression as you. WoD leveling was the worse of all expansions.,2016-04-20 14:11:40+00:00,d2ab5qi,3.0,t1_d2a2z1w,20827.0,wow
+77,Yes 980 is overkill for WoW.,2016-04-20 14:09:50+00:00,d2ab2zm,4.0,t1_d2a4r8i,13893.0,wow
+78,Thanks for the answer :),2016-04-20 14:04:47+00:00,d2aavg6,3.0,t1_d2aas7z,134.0,wow
+79,Why did they remove multi strike?,2016-04-20 14:00:19+00:00,d2aaozu,1.0,t3_4fn9xu,2375.0,wow
+80,"Ah didn't know that. On my PC if I deactivate my onboard Intel graphics then my gpu renders the screen automatically. Thus I don't have a black screen. 
+
+Sorry that it didn't help you :/",2016-04-20 13:50:25+00:00,d2aaaul,3.0,t1_d2a4fvv,13925.0,KronosWoW
+81,"Had this problem too. 
+
+I went to device manager and desactivated the Intel HD onboard graphics in the display adapters section. 
+
+Problem is that this is not a real fix, you always have to put your onboard graphics back on and off but at least you can play at your resolution. 
+
+Tell me if it worked. ",2016-04-20 05:52:21+00:00,d29zy56,1.0,t3_4fd5to,128793.0,KronosWoW
+82,"A little uplifting of textures, light- and water effects would not harm.  ",2016-04-19 19:50:23+00:00,d29as3h,1.0,t3_4fix67,5856.0,Nostalrius
+83,"Yes sure it has to have a good balance. There has to be a little bit of everything. 
+Short raid, single boss raid, long raid, ... ",2016-04-19 17:11:18+00:00,d293bao,6.0,t1_d28thlr,13603.0,wow
+84,"I prefer having 3 raids with 4 bosses rather than 1 raid with 12 bosses. 
+
+Because raids are another environment, another lore, another story another place to go, another design of loots, another faction involved and quests. It feels different and it doesn't feel doing the same thing again and again. 
+
+
+So it may seem stupid to you to count raids instead of bosses but for me it isn't.",2016-04-19 12:04:02+00:00,d28r6a6,4.0,t1_d28lj4e,19420.0,wow
+85,"Previous expansion had no update during more than one year. They promised that it wouldn't happen again. 
+
+But hellfire citadel will have 1 year pretty soon...",2016-04-19 06:21:55+00:00,d28l59a,3.0,t1_d28dqsj,14223.0,wow
+86,"I prefer more patches. 
+
+Why can't they keep up like with WotLK, BC of Vanilla? Back then we had more or less 8 raids. Now 3...",2016-04-19 05:30:43+00:00,d28jyhw,2.0,t1_d283dje,26607.0,wow
+87,It depends if you are prepared. ,2016-04-18 17:25:10+00:00,d27qnjn,2.0,t1_d27myko,4955.0,wow
+88,"&gt; ""Casuals don't deserve content""
+
+Did they had any content with WoD? Because 6.1 didn't had any real content and hellfire citadel will have his first anniversary birthday party pretty soon. 
+
+50$ + 2 x 15$ + 12 x 15$ + 4 x 15$ = 320$ since the launch of WoD.
+This is a pretty expensive game to play **casually** the three same raids.",2016-04-18 06:58:18+00:00,d279hsd,2.0,t1_d27184z,17661.0,wow
+89,"They should first fix their updates and make it last some months instead of one year like 5.4, 6.2 and 6.0 (yes also 6.0 because 6.1 was a fake update dat brought just useless gimmicks so it doesn't really exist)",2016-04-17 22:59:37+00:00,d26ukv2,2.0,t1_d26bpxy,30848.0,Nostalrius
+90,"Wow, so much people are saying no because they are scared that Blizzard will have less time for the retail WoW and thus make less content. 
+
+Like WoD had content... ",2016-04-17 22:24:00+00:00,d26tb64,1.0,t3_4f6vf4,27074.0,Nostalrius
+91,"I also saw on MMO champ that they did the same survey. They asked if they would be interested in Vanilla WoW but the results are almost 50% yes and 50% no.  
+
+Which is a lot different than this french survey. ",2016-04-17 15:08:45+00:00,d26d2ee,8.0,t1_d26cxv4,247.0,Nostalrius
+92,There was a poll about that but I can't seem to find it right now. I will edit this post if I find it. ,2016-04-17 14:56:26+00:00,d26conl,6.0,t1_d26ck2o,246.0,Nostalrius
+93,"They play it for free because it was free. A lot of people would pay for it. 
+
+Btw this website ""Mamytwink"" is made for retail WoW. It delivers information and guides for the actual WoW. Most of the people that visit this website are probably playing on retail and still there is almost 70% that says ""Yes"" to the survey. ",2016-04-17 14:46:59+00:00,d26cdz0,4.0,t1_d26c5hp,467.0,Nostalrius
+94,"Translation of the survey:
+
+&gt; **Would you be interested in a Vanilla server?**
+
+* Yes (69% atm)
+
+* No, but it would not bother me (20% atm)
+
+* No and I think that it isn't a good idea (9% atm)
+
+* Not pronounced (2% atm)",2016-04-17 14:34:04+00:00,d26bzqm,1.0,t3_4f6sbb,239.0,Nostalrius
+95,"WoD, they promised so much but they made 6.1 which in reality is a minor patch with almost no content just gimmicks and 6.2 with one raid.
+
+They said that MoP 1 year no content thing wouldn't happen anymore but it did happen again.
+
+Wtf, get your shit together Blizzard. 
+
+No content = less subscribers. ",2016-04-17 06:54:01+00:00,d263jai,1.0,t3_4f5hm7,3388.0,Nostalrius
+96,"I had the same problem the game only showed options for max 1280x1024.
+
+I did found a work around and it was pretty simple. 
+
+Right click on Windows start button &gt; open device manager &gt; display adapters &gt; disable your Intel onboard graphics by right clicking on it and selecting ""disable"". 
+After this your problem is ""solved"". 
+
+If you have a SLI setup it is possible thar your computer detects 2 displays while having just 1 display (don't know why). In that case I also disable the second (fake) display.
+
+This is a work around and not a fix so after playing you have to enable your onboard Intel graphics to set everything back to how it should be. ",2016-04-16 22:00:43+00:00,d25o0xz,1.0,t3_4ezyae,72558.0,KronosWoW
+97,"Okay, let us know. ",2016-04-16 13:46:55+00:00,d257b1s,,t1_d256hmz,2037.0,nvidia
+98,"You aren't the only one. Wait for next drivers. There are some beta drivers 364.91 (if I'm not wrong) if those don't help wait for the next version of drivers 365.xx or something like that.
+
+And if that one too does not help then I would buy another card... :/",2016-04-16 11:46:26+00:00,d254ssn,,t1_d20rwol,,nvidia
+99,And did you had any problems before?,2016-04-16 11:34:21+00:00,d254lip,3.0,t1_d23jrbr,116653.0,nvidia
+100,"My girlfriend has the same issues as him. Nothing did help and now she is waiting for next drivers. 
+
+But your saying that it's kind of too late? A new driver from nvidia can't debug her gpu? :( ",2016-04-16 11:30:49+00:00,d254jh9,5.0,t1_d245k1k,68488.0,nvidia
+101,"I also started with retail at WotLK. 
+I tried Vanilla when I heard of Nostalrius and I prefer it because feels and is a real mmorpg. Those are two completely different games. You don't experience the same thing. There is nothing to do in retail compared to Vanilla. Everything is so assisted and easy to achieve. 
+
+Today's WoW is almost becoming a solo street fighter game where you choose your character and you pop in front of the boss. ",2016-04-14 07:23:06+00:00,d22beu6,1.0,t3_4eory4,22027.0,Nostalrius
+102,"Indeed, I was shocked. ",2016-04-13 23:03:24+00:00,d21tzyi,6.0,t1_d21tkpt,621.0,pcmasterrace
+103,"The RPG side of the game, some examples:
+
+* The fact that you needed your professions while leveling. You could make good gear with it that you would use. Today maxing a profession is not as useful in leveling and it feels almost like a chore to level it up.
+
+* I prefer that leveling is a little bit harder/longer. I don't mean dumb chain quest ""bring me 3 rocks from place x"" not in that sens but today you can solo anything in few days, it's also becoming a chore instead of fun and social. It also used to be a big thing having just 2 level 60. Today it's becoming like a street fighter game where you choose your character and you're ready to go. 
+
+* I prefer the lack of transmog. Because your look represent your game experience. That's a good RPG feature. You could see people with stuff from a certain raid and say to your friend: ""wow look at this dude, he has this weapon...""
+
+* You don't count copper and silver anymore. And there is a serious problem with ""infinite money"" in WoW. It's too easy to get gold and too hard to get rid of it. In Vanilla it was hard to get gold but too easy to spend. 
+
+* Everyone has now a repair robot thanks to the mounts. You don't need to move in order to repair. Btw everyone has 100 different mounts. It used to be a thing just having a mount from another faction. 
+
+* LFG tool is great but the tool for queuing in dungeons and being teleported is awful. It kills the RPG side of the game where you had to walk to the dungeons and kill a hundred of mobs before entering in. 
+
+* Spells that needed to be learn with quest or spells that required a object in order to cast. 
+
+* ... 
+
+
+I could continue for a long list, but like you see all of them are in relation with RPG. Blizzard is focusing too much in end content. But it kills the game that they, 12 years ago, promised to be.",2016-04-13 22:30:05+00:00,d21snsl,3.0,t1_d21nkxg,6870.0,wow
+104,"The game WoW now (WoD) versus back then (Vanilla) is almost not the same game. They have completely different game values. 
+
+You can try WoD and if you don't like it and if some day legacy servers exist then come back and try it. 
+
+Remember WoD is for casual, that's why it's also easy to catch up. Vanilla is pretty hard so start in time (if those servers will exist). ",2016-04-13 17:45:06+00:00,d21f9dz,1.0,t3_4ej5g7,61020.0,wow
+105,Even the MMO side of the game died in some way...,2016-04-13 17:34:19+00:00,d21eqt1,2.0,t1_d1ztiva,97430.0,wow
+106,I think that WoW should have evolved with the same games values as Vanilla. ,2016-04-13 17:08:39+00:00,d21dim0,1.0,t3_4elr92,10303.0,wow
+107,"I agree, but players will always complain for something. Not everyone will be happy. 
+
+So it's not because some players want something that it should be implemented. ",2016-04-13 16:11:02+00:00,d21ar49,2.0,t1_d216cow,5761.0,wow
+108,It's not nostalgia. I discovered Vanilla after I discovered retail since WotLK,2016-04-12 14:37:19+00:00,d1zttbr,4.0,t1_d1zqit4,5136.0,AskReddit
+109,"Your talking about nostalgia. But I discovered WoW on retail since WotLK. And then I discovered Vanilla with Nostalrius. 
+
+So I don't prefer Vanilla because of nostalgia. For me it was better. Just the fact that it requires you to interact with players is a great. Even if you need to grind sometimes. ",2016-04-11 23:08:42+00:00,d1z3iox,4.0,t1_d1yysov,6918.0,wow
+110,"Yes low level zones are invaded since Nost died but once over 15-20 everything would be more ""normal"". ",2016-04-11 19:36:47+00:00,d1yudg0,3.0,t1_d1yrw83,3186.0,Nostalrius
+111,"No, you are wrong. It was great.
+
+People did know each other. Reputation was important so people had to be nice. When you did your first dungeon, and if it was a success, people would add you as a friend. After a while when you connect to WoW you always got some whispers from people that wanted to invite you to do a raid/dungeon. 
+
+Because finding a group was sometimes not easy and also going to the dungeon itself took a lot of time because of trash that were outside the dungeon + distance that you had to do which was most of the time enormous. People didn't quit a dungeon after first wipe. They we're ready to learn and cooperate. ",2016-04-11 16:30:41+00:00,d1ylrge,2.0,t1_d1yh7gd,6424.0,wow
+112,Next expansion: no leveling and free legendary! ,2016-04-11 16:12:57+00:00,d1ykyhf,2.0,t1_d1y0nhh,48589.0,wow
+113,With WoD they took the mmo side of the game away. Now they taking the RPG side of the game :( ,2016-04-11 16:05:07+00:00,d1ykm1b,1.0,t3_4e7qpx,66274.0,wow
+114,"Leveling should also be harder to the point that it requires you to be social and interact with people in order to succeed. 
+
+Same goes for professions, making money, dungeons,... 
+
+That would bring a good Vanilla feeling. ",2016-04-11 15:57:25+00:00,d1yk9qs,2.0,t1_d1yev1v,8300.0,wow
+115,Kronos :),2016-04-11 15:52:10+00:00,d1yk1db,1.0,t3_4ea251,21497.0,Nostalrius
+116,Great vid,2016-04-11 15:48:33+00:00,d1yjvly,1.0,t3_4eb2jr,2683.0,wowservers
+117,"The problem isn't even nostalgia. I never played Vanilla before. 
+WoD is a mess right now compared to Vanilla. The WoW back then is a real game, a real mmorpg. You don't get bored. There is so much to do. The game requires you to be social in order to level up and do things. Now everything is assisted. You almost don't need any interaction with other players to level up. 
+
+I'm pretty sure that the retail version would be a huge success if previous extensions and WoD were designed with the same game values of Vanilla WoW.",2016-04-11 08:50:15+00:00,d1y91kn,1.0,t3_4e90xm,19681.0,pcgaming
+118,I play horde and today (Sunday 10 April) I saw 3800.,2016-04-10 23:30:36+00:00,d1xtzy5,3.0,t1_d1xtup2,254.0,wowservers
+119,"Same here.
+
+I discovered WoW at WotLK. I saw that Nostalrius existed and I thought to test it, to see how it was before I started the game. It was out of curiosity. 
+
+Turns out it was better. I didn't thought that I would play it for so long but Vanilla WoW has so much more content and things to do compared to WoD. So many things happened and I never felt bored.
+
+Thanks Nostalrius.  ",2016-04-10 22:56:04+00:00,d1xss2y,2.0,t1_d1xpeck,5406.0,Nostalrius
+120,"ok, thanks for the information.",2016-04-10 17:20:18+00:00,d1xfy90,4.0,t1_d1xdxox,3210.0,nvidia
+121,Nice! :),2016-04-10 16:17:22+00:00,d1xdlcg,5.0,t1_d1xdg98,237.0,nvidia
+122,860m is equivalent to 750 not the 750Ti  (in performance) ,2016-04-10 16:10:19+00:00,d1xdcc9,4.0,t1_d1waika,83809.0,nvidia
+123,Did you install 364.71 or 364.91 ?,2016-04-10 16:08:15+00:00,d1xd9n8,1.0,t3_4e2gnn,76959.0,nvidia
+124,"Have a friend that has the same problem as you man since he installed the drivers 364.
+He tried everything, even reinstall windows but nothing worked.
+",2016-04-10 16:04:42+00:00,d1xd51g,3.0,t1_d1x58in,20550.0,nvidia
+125,Did you had any problems with the previous drivers 364.72 or 364.51? ,2016-04-10 15:47:51+00:00,d1xcjxo,2.0,t1_d1x47cm,23979.0,nvidia
+126,"The website is also in english. ;)
+
+April 7, 2016
+They have defeated — no, rather,
+killed — Nostalrius.
+Although we are a competing server, this wasn't met with glee or joy at all. We're sad and even a bit angry at Blizzard, actually. However, no one can actually destroy Nostalrius' legacy - not any time soon. Neither Valkyrie nor Kronos nor other vanilla WoW servers will back down - we'll keep going on. We're in the business of making Blizzard realize with dismay that the best WoW - the TRUE WoW - was vanilla back in 2006. Vanilla is here to stay, and so are we. Valkyrie-WoW administration sends their condolences to Nostalrius' players and wishes to congratulate Nost's team for a job well done. If Nost's account database goes public, we will be happy to offer free transfer to our server without losing any in-game progress. We're always here to help those who wish to return to World of Warcraft once again. ",2016-04-10 12:17:17+00:00,d1x704v,2.0,t1_d1uim04,203224.0,wowservers
+127,no there isn't,2016-04-10 12:12:22+00:00,d1x6wxw,5.0,t1_d1wqiya,42648.0,wowservers
+128,Gracias senior,2016-04-10 08:34:10+00:00,d1x3pql,5.0,t1_d1wv5j9,21530.0,Nostalrius
+129,"4,5k player cap? :o
+
+Where did you saw it? On nost forums?",2016-04-10 01:30:01+00:00,d1wsu3u,3.0,t1_d1whdtm,19987.0,Nostalrius
+130,Classicwarcraft looks really promising.,2016-04-10 01:28:48+00:00,d1wss79,2.0,t1_d1wcr2f,27337.0,Nostalrius
+131,Yes the 7x XP was a one time thing ,2016-04-09 22:17:44+00:00,d1wmblx,5.0,t1_d1w9qyl,20725.0,Nostalrius
+132,"Everything on Kronos is like a real blizzlike server. It's the best option for now. 
+
+The only problem is the shop mount but I can live with it because the rest is excellent and I can understand that they somehow want money to invest in things. 
+
+Even retail is worst with their instant level 100, buy gold feature, ...
+
+What I can't accept is boosted xp, pay2win features and things like that. ",2016-04-09 15:21:02+00:00,d1w7b2t,3.0,t1_d1w27cy,12220.0,Nostalrius
+133,Does it also fix the recent driver related problems?,2016-04-09 08:51:45+00:00,d1vzl3m,1.0,t3_4e0evf,5911.0,nvidia
+134,I would go for Kronos because the population is high. It feels like a real mmo when you see people everywhere. ,2016-04-09 08:35:56+00:00,d1vzdh5,1.0,t3_4e0fxz,4170.0,wowservers
+135,I personally didn't like my mage until I used fire in PvP and raid. I love the tech combustion!,2016-04-08 17:57:02+00:00,d1v76qs,1.0,t3_4dweym,15471.0,wow
+136,"I have a friend who has a fury x and he plays witcher 3 on ultra at 45-55 fps depending on the scene (3440x1440). 
+
+I personally have two 970 in SLI and I also play on a ultrawide 3440x1440 and I get +/- the same results as my friend. 
+
+I googled it and two 970 in sli have +/- the same amount of power as one 980 Ti.",2016-04-07 22:25:22+00:00,d1u657j,1.0,t3_4dtdza,1698.0,nvidia
+137,retail servers had 1000 different players on average. Check this [proof](http://www.warcraftrealms.com/activity.php?serverid=-1),2016-04-07 21:54:54+00:00,d1u4vvi,2.0,t1_d1tcse5,41027.0,wowservers
+138,this is so sad. :(,2016-04-07 21:46:56+00:00,d1u4jdt,1.0,t3_4dr9co,26468.0,wowservers
+139,"I came here to say thank you, it was one of the best gaming experience that I had. ",2016-04-07 19:27:43+00:00,d1ty1hz,1.0,t3_4droz4,12433.0,wow
+140,kronos,2016-04-07 18:49:35+00:00,d1tw985,1.0,t3_4ds4z5,4665.0,wowservers
+141,"I do not agree.
+
+Over the years, vanilla WoW became more and more famous. 
+We don't have legal old expansion servers today but some day our ""vanilla fan community"" will be important enough to make it happen. 
+
+And to do so, we have to make noise. Blizzard has to hear that we want those servers. We have to continue playing and sharing every moment that we enjoy. We don't have to hide. Don't stop playing.
+
+It's sad that nostalrius died, but somehow it's maybe the first step to make the Blizzard team change their mind about old expansion servers.
+
+
+
+Sorry for my bad english, french guy here. ",2016-04-07 18:04:36+00:00,d1tu4ke,1.0,t3_4dri2s,9977.0,wowservers
+142,And even if they know where the donjons are. They can fly and if they pay the fly they land just nearby and there is still no challenge to get there. You just walk 20 seconds.,2016-04-07 12:32:49+00:00,d1tfjxh,3.0,t1_d1suq9y,45817.0,wow
+143,retail WoW is really dead compared to that. I'm so sad that nost has to shut down. :(,2016-04-07 12:29:20+00:00,d1tfg7z,2.0,t1_d1stnr2,47162.0,wow
+144,I can confirm.,2016-04-07 08:41:51+00:00,d1tb232,2.0,t1_d1t85gi,9337.0,NSFWFunny
+145,"I bought my 970 when it was released so I could play at max settings on my 1080p screen. 
+After some months I received a ultrawide screen 3440x1440 as a gift.
+I couldn't play any game on ultra with one 970. Even WoW played at medium-high. 
+
+
+So after some weeks I found a guy that wanted to sell his 970 which was the exactly the same 970 as mine. I bought it and since then everything is maxed out. 
+
+
+I totally don't regret it. ",2016-04-05 15:22:42+00:00,d1qrp62,2.0,t1_d1qmzt4,6896.0,nvidia
+146,Thank you! :),2016-04-03 14:25:32+00:00,d1o2tz3,3.0,t1_d1o0f6u,5882.0,buildapc
+147,Nice build! But how many water coolent did you use? ,2016-04-03 10:13:44+00:00,d1nxyzb,1.0,t3_4d3qui,40696.0,buildapc
+148,"Okay, thank you for sharing this information I will try it. :)",2016-04-03 09:51:04+00:00,d1nxo0i,4.0,t1_d1muv4o,83868.0,nvidia
+149,So it is safe if we do custom install without 3D drivers? ,2016-04-02 00:34:46+00:00,d1mh8od,2.0,t1_d1mgcli,1632.0,nvidia
+150,"Yes I value this. 
+
+But there isn't only Mac that has good build quality, battery life, costumer support and perfect touchpad. 
+
+Some windows PCs cloned the Mac touchpad and in my opinion some did it even better than Mac.
+
+
+At the end, Mac is too expensive for what it is. That's my opinion. I can understand that people buy it because they love their design or because there is Unix. But again I find it too expensive for the price I'm paying just to have Unix.",2016-04-01 17:31:05+00:00,d1m0j15,8.0,t1_d1lzkug,1305.0,pcmasterrace
+151,The only other aspect that justify the price is marketing. ,2016-04-01 16:59:55+00:00,d1lz659,6.0,t1_d1lt6hj,8486.0,pcmasterrace
+152,Is there a release date?,2016-03-31 10:43:40+00:00,d1k9k2g,1.0,t3_4cls2p,62361.0,microsoft
+153,"I have the same problem. Reverting back or reformatting windows does not solve anything. Everything started with 364.
+
+btw I friend of mine has a computer repair store. He told me that a lot of his costumers are having trouble with the latest nvidia drivers. He also informed me that he tried reformatting or reverting back but nothing did it. 
+
+So while I understand that drivers cannot damage hardware. How can we explain this situation? Where so much people are having so much trouble with 364 drivers to the point that even reformatting doesn't work?
+
+I did some research but I only found out that this isn't the first time that something like this happened. ",2016-03-31 00:25:20+00:00,d1jtdi3,5.0,t1_d1j7n7d,29211.0,nvidia
+154,"Not in Belgium, most of the time you have to pay even if you're a costumer.",2016-03-29 20:13:16+00:00,d1i50l7,2.0,t1_d1i3yy0,1286.0,Showerthoughts
+155,"It used to be an mmorpg. Now it's just a mmo. 
+
+You can buy the game, with Legion you directly have a lvl 100. Few days later you are already raiding in lfr and then you find yourself quitting the game because you saw everything. 
+
+It's almost like a call of duty game. You buy the game and you finished it after few hours playing. ",2016-03-29 18:14:12+00:00,d1hz8ke,1.0,t3_4cf6s2,20888.0,wow
+156,Nice tool. I will try it before doing a full windows reset. Hope it works! ,2016-03-22 07:28:42+00:00,d18w1wl,6.0,t1_d18vype,338.0,nvidia
+157,Thank you for your answer. I will try a windows reset. :D,2016-03-22 07:11:45+00:00,d18vrzm,4.0,t1_d18vp0q,301.0,nvidia
+158,Did the system restore worked? I'm thinking of doing it but I'm not sure if the problem will be solved. ,2016-03-22 07:01:15+00:00,d18vlt4,2.0,t1_d16j37z,171748.0,nvidia
+159,So you did a fresh windows install and you still have the problem?,2016-03-22 06:47:14+00:00,d18vd5i,6.0,t1_d1862io,42627.0,nvidia
+160,why isn't my girlfriend like her? :(,2016-03-16 14:42:32+00:00,d11zfx5,1.0,t3_4ahmir,107841.0,NSFWFunny
+161,"Goku isn't the main character of Dragon ball Z anime. 
+In fact Dragon ball Z is the story of Gohan. The original Dragon ball is the story of goku. You see him growing up and ending as a married men with a son. In Dragon Ball Z it's all about Gohan. You see Gohan growing up and ending with a relation. ",2016-03-12 09:29:36+00:00,d0x0y98,2.0,t1_d0wajpo,51492.0,AskReddit
+162,Everything from Apple,2016-02-06 09:39:03+00:00,czpuyge,1.0,t3_44cijr,49741.0,AskReddit
+163,"I had to make a simple side scroller game in assembly x86 masm syntax. 
+
+
+In assembly, in order to draw on screen, you have to first draw in a video memory buffer. Then, when the screen is refreshing, you copy the buffer on the screen. This is done in order to avoid screen tearing. This is  technique is called ""double buffering"" (if I remember well).
+
+
+Things went wrong because it was one of my first time as game dev in the assembly programming world. The double buffering did not work very well and I still had lot of screen tearing. To  make things more fun: importing sprites did not work at all.
+
+
+I had only 2 days left to finish the game. The game had to work. So I worked the whole night and day. The solution for avoiding screen tearing was to draw with the bios function ""int 10h"" and not ""int 21h"". The difference between the two functions is that int 21h is the correct one. It is fast and don't take a lot of the CPU compared to draw with ""int 10h"".The ""int 10h"" function takes a lot of the CPU and it is very slow, people would laugh at you if you use ""int 10h"" for game dev. But because ""int 10h"" is slow it did magically solve my screen tearing problem. 
+And the solution for the sprite problem? I did draw every pixel of the game manually. 
+
+
+As an user you did enjoy the game and you could never guess that I did a shitty job.",2016-02-04 09:59:59+00:00,czndyjc,1.0,t3_442b09,41047.0,gamedev
+164,"I am an electronic engineer specialised in embedded systems. 
+
+I can say that your method is inefficient for avoiding thermal shock. 
+It is not a ""24h burn in"" that will save your computer from thermal shock. 
+
+
+Thermal shock happens mainly because of fast changes in temperatures. And this happens every time when you start your computer, for example: some chips go from 20°c to 85°c in less than 30 minutes. The same thing happens when you power off the computer. 
+The only real solution to avoid thermal shock is to keep you computer constantly at the same temperature. Which is impossible because sometimes you play games, sometimes you browse Facebook, ...
+
+So I really don't see why your ""24 hours burn in"" will help my home computer significantly avoiding thermal shock for the rest of my life. ",2016-01-31 18:14:37+00:00,czirl3j,2.0,t1_cziobel,5809.0,buildapc
+165,thank you for sharing this information. I can't wait to play halo on ultrawide :D,2016-01-24 20:20:57+00:00,czabwcd,3.0,t1_cza7q10,6687.0,pcgaming
+166,Nice but does it support ultrawide screens? ,2016-01-24 10:50:00+00:00,cz9wm0k,1.0,t3_42cmi5,50748.0,pcgaming
+167,"Xbox = Microsoft.
+
+DirectX = Microsoft.
+
+
+""X""box -
+Direct""X"".
+
+I hope that you now understand why Xbox will support dx12 and not vulkan or something else.",2016-01-22 18:27:37+00:00,cz80zs2,7.0,t1_cz7sgm8,12315.0,xboxone
+168,"You don't need any of them. Most of payed anti-virus are crap. Windows defender comes with the OS (if you have windows) and it's all what you need. 
+Just be careful on the internet.",2016-01-20 08:19:44+00:00,cz505ee,1.0,t3_41t4cg,6783.0,NoStupidQuestions
+169,Do you have any experience in c++?,2016-01-13 23:31:03+00:00,cyx9mtq,2.0,t1_cyx0ac8,12441.0,unrealengine
+170,Not the right place to be on nye. There will be 738292847382 people per square meter. ,2015-12-31 09:14:00+00:00,cyh5jxi,7.0,t1_cygulcg,25406.0,belgium
+171,Look up for fcknyefestival. :),2015-12-31 09:13:15+00:00,cyh5jjb,6.0,t1_cygpffm,34506.0,belgium
+172,"Had the same problem as you. 
+I came from c# and I started with blueprints. 
+I did regret because once you are used to blueprints it will very demotivating to start c++. 
+It's a lot more difficult to learn c++ than blueprints. 
+But once you are comfortable with c++ you can do things very quickly and it will be (for you) as simple as blueprints.",2015-12-27 08:10:08+00:00,cycl5ds,1.0,t3_3yd44k,13493.0,unrealengine
+173,Programming,2015-12-27 07:54:07+00:00,cyckvk3,1.0,t3_3ybrhz,37248.0,AskReddit
+174,"No problem for me. I love Arch Linux. 
+
+Arch Linux has the big advantage to be very light. That's one of the purposes why a lot of people are using Arch. And that's why it is not included with any software. 
+Sure, they could add an option where the user has the choice to include preinstalled software but maybe they have other priority than that. Who knows? 
+
+Linux mint has grown of popularity like crazy in few years. One of the main reasons why Mint is so popular is because of the interface. 
+So why could papyros not follow the same success as mint? ",2015-12-26 23:37:22+00:00,cyc7jhs,5.0,t1_cyc5svj,3647.0,linux
+175,Same goes for a smartphone. One of $100 is more than enough. ,2015-12-24 12:18:19+00:00,cy9ysnq,2.0,t1_cy9vnri,13576.0,Showerthoughts
+176,"""Few people have ever want to buy the systems""
+
+But technically there are just development kits in the market. Real VR headset haven't been released yet.",2015-12-21 11:56:03+00:00,cy6hxjo,2.0,t1_cy65j6y,34027.0,gamedev
+177,I would love to see it for VS2013. ,2015-12-07 07:07:03+00:00,cxq1ngw,2.0,t1_cxpb5yp,44434.0,csharp
+178,I hope the same thing for you.,2015-11-29 14:01:04+00:00,cxgqh8v,3.0,t1_cxgq00d,1510.0,sex
+179,"I personally would be so devastated.
+
+I think I wouldn't help her in life anymore. I wouldn't see her as my daughter anymore. And she can not live with us (her parents) anymore. 
+
+She is 18. She has the choice to live with her parents or to live alone. 
+If she decides to live with her parents there are rules. And she has to respect them. There is no excuses. 
+
+She knows that it was bad because she invited the 2 guys when you normally weren't there so you would know nothing. 
+That is a big disrespect to parents. ",2015-11-29 09:43:36+00:00,cxgmqjj,1.0,t3_3uneyd,34256.0,sex
+180,I hope that you are right. ,2015-11-29 05:30:27+00:00,cxgi2ug,3.0,t1_cxfl301,74094.0,AskReddit
+181,"I hate concerts. 
+
+* No body is really dancing. Most of people are just standing and looking at the stage for 4 hours
+* Music quality is awful compared to CD quality mastering with a good headset.
+* You can be so far away from the stage that you can't see anything. 
+* There isn't as much going on to keep you focused and interested to what's happening on the stage.
+* Too much people: going to the bar or bathroom can sometimes be mission impossible. 
+* It can easily be too expensive.
+* Stages can be so empty and having only 2 light effects,...
+* The weird people that can be there.
+* ...
+
+",2015-11-28 07:52:21+00:00,cxfk5bz,2.0,t1_cxez2hk,43976.0,AskReddit
+182,Amd :(,2015-11-27 17:50:33+00:00,cxevlxz,1.0,t3_3ugjop,20276.0,AskReddit
+183,"Playing Halo 3 together. 
+
+
+I loved that game, so many good memories. ",2015-11-17 00:25:08+00:00,cx2paw2,1.0,t3_3t28nm,15241.0,sex
+184,"Blizzard just annouced that the WoW team never was so big (250 people). 
+Also, not long ago, they annouced that they are making good money despite the subs loss. I presume this is thanks to the online store, boost to max level, ...",2015-11-12 19:42:15+00:00,cwy0v7y,2.0,t1_cwxxok2,4644.0,wow
+185,"Amazing .946! 
+The subs numbers came from mmo-champion subs over time graph. ",2015-11-12 10:55:51+00:00,cwxkeel,2.0,t1_cwxj6v8,5467.0,wow
+186,Yes but Blizzard said in an interview that the team never was so big (250 people) than now. ,2015-11-12 06:06:31+00:00,cwxfo81,2.0,t1_cwx7gz7,16275.0,wow
+187,I have exact the same opinion as you. ,2015-11-12 06:02:41+00:00,cwxfkxs,2.0,t1_cwx59a8,19948.0,wow
+188,"It is a usefull comparison.
+There is a big difference by comparing number of raid bosses and number of raids.
+Raids are another place to travel, another story, another design for the place &amp; stuff,... 
+
+You can have 12 bosses in the same raid and have the feeling to do the same thing more quickly.
+Or 4 bosses in 3 completly different designed et storytelling raids. ",2015-11-11 23:28:08+00:00,cwx34gr,2.0,t1_cwx2e6b,1226.0,wow
+189,Yes autocorrect. Can never trust that thing. ,2015-11-11 23:17:08+00:00,cwx2qcu,2.0,t1_cwx2ihh,367.0,wow
+190,"I understand your opinion but I don't think that WoW is ""old"". They did bring 10million players back  when WoD launched. ",2015-11-11 21:03:53+00:00,cwwxmhl,2.0,t1_cwww9qk,2033.0,wow
+191,"Hello my girlfriend and I lived exact the same story except for hpv.
+
+She had pain at the bottom of the opening. She had pain even by touching with a finger. Sex was very painful for her but, like you, pleasure often took over.
+
+We went to several doctors. The first one saw nothing. The second one thought that it was vaginimus but it wasn't. Another one thought it was the pill. But it wasn't. And then we discovered vulvodynia. 
+
+Check Wikipedia for more information. 
+You will know everything you will need. 
+
+My girlfriend tried all kind of treatments but no one worked. She lived 3 years long with this disease. After 3 years I don't know why but it did go away for no reason. Luckily for us. 
+
+I hope that you don't have vulvodynia but if you have it: be strong. The most important thing is finding the right doctor that understand this disease. Try most of the treatments, it may work for you. Keep masturbating to maintain the sex drive. Pain will be worse over time so chances are that sex drive will be nearly no existent if you don't keep up with masturbating (our doctor advice).  
+
+Hope it helps. 
+Sorry for my English. French guy here. ",2015-11-10 18:00:18+00:00,cwvj8c2,1.0,t3_3sagmf,4790.0,sex
+192,Same thing here. :(,2015-10-18 23:53:30+00:00,cw4kepp,4.0,t1_cw4gbz9,6602.0,windowsphone
+193,"My girlfriend has a 750Ti and a 300W PSU since a year. 
+She plays a lot of different games. From WoW to Witcher 3.
+The gpu is also overclocked. 
+No problem at all.
+
+You will be fine.",2015-10-05 17:28:46+00:00,cvp3r1y,1.0,t3_3nks3s,11820.0,nvidia
+194,Thank you. This information is just what I needed. Cannot wait for part 3. ,2015-09-30 15:21:16+00:00,cvjcnm9,1.0,t3_3kktsa,1627805.0,asm
+195,Always did the stretch ,2015-09-22 10:06:35+00:00,cva14h0,1.0,t3_3lw7b1,23281.0,insanity
+196,"""I have to end the relationship""",2015-09-19 08:13:18+00:00,cv6rem1,1.0,t3_3lhzvu,28829.0,AskReddit
+197,Car windows don't explode. They have a layer of plastic that hold every broken piece together. ,2015-09-18 21:51:47+00:00,cv6ca1g,1.0,t3_3lf4rg,37443.0,AskReddit
+198,Thank you :o),2015-09-05 11:01:45+00:00,curet0w,1.0,t3_3jpfi0,25247.0,gpgpu
+199,"Skyrim. 
+
+Such an amazing game.",2015-09-05 05:24:51+00:00,cura12o,1.0,t3_3johsm,22885.0,AskReddit
+200,"9/11 isn't a huge change for ""the world"" but just for the USA because the rest of the world doesn't care. It does not involve them. 
+Cell phones and internet, those are big changes for the whole world.  But not 9/11",2015-09-04 09:54:53+00:00,cuq9qfm,1.0,t3_3jk3hy,33694.0,Showerthoughts
+201,Thank you :),2015-09-03 12:27:35+00:00,cup634o,2.0,t1_cup3vgi,7969.0,learnmath
+202,Merci beaucoup !  :-),2015-09-01 21:15:13+00:00,cungawe,3.0,t1_cunf953,1609.0,sex
+203,"Not me but someone I know. 
+
+
+She and her whole family are very religious. She hold herself until her 20. She did it before mariage with a guy because she believed that he was the one. And that sex before or after didn't make any difference. This was because, in her eyes, they already we're together for life and nothing could separate them. 
+
+She was wrong and the guy did brake up and go away before any marriage. 
+
+The girl is now looking for someone with the same culture. Her family wants a religious man for her and she also wants someone religious. 
+She dated some guys but when it came to sex. She said that she did it. At the other side the guy sayed that he didn't do it and wanted to do it only after marriage.
+The guys quickly left. 
+
+Sometimes she confess to me that she regret her past and one time she said that she rather be dead. She also said that she is getting older and older and isn't finding someone. 
+
+It's surely sad. 
+
+Sorry for my bad English. Cool french guy here.
+",2015-09-01 20:00:06+00:00,cundc1o,1.0,t3_3j850t,18242.0,sex
+204,You can go to university with TSO. ,2015-08-29 14:18:17+00:00,cujq19k,2.0,t1_cujkpe5,20103.0,belgium
+205,Sadly true :(,2015-08-27 18:32:19+00:00,cuhqprg,2.0,t1_cuhin1a,11802.0,AskReddit
+206,"I have had one relation that was exactly as yours. I couldn't handle it the fact that she was a easy girl with someone so random to my eyes and not me. While I did everything for her happiness and he didn't. I couldn't handle it so I broke up despite the fact that I loved her very much. At the end it's up to you. She may be sorry and all but it would not change your mind about it. If you can't handle it then end the relationship. If you can handle it then continue. Don't do something in between as continuing the relationship while you are not accepting what happened. Sorry for my English, french guy here. Hope it helps.",2015-08-26 12:37:05+00:00,cug6e13,3.0,t1_cufv4s2,34402.0,sex
+207,Thank you. :),2015-08-24 16:36:20+00:00,cue16m1,1.0,t3_3gsj7h,1007294.0,gpgpu
+208,"Yes you can do that but it does not mean that the app will work. 
+The Facebook apk works. You can emulate the Facebook Android app on Windows 10 mobile. But you can't read a video. 
+Same with snapchat. I need some permissions from play store to connect my account. :/",2015-08-17 06:40:18+00:00,cu5ng1p,8.0,t1_cu5m95h,3617.0,windowsphone
+209,kinect would be a hit if it cost 50$ instead of 150$,2015-08-16 15:53:49+00:00,cu4x1x8,1.0,t3_3h6xga,14726.0,xboxone
+210,Yes you should be fine. Max settings and 60fps guaranteed. The 960 is a very good gpu!,2015-08-16 11:54:42+00:00,cu4rmkv,1.0,t3_3h6j2s,15403.0,nvidia
+211,"The comparison is not correct. 
+The first picture you have to open your pc to instal the hdd or you will need a hdd dock station to connect it. 
+The second picture shows a ""plug and play"" usb hdd. The second one is always more expensive even for pc.",2015-08-13 05:59:34+00:00,cu1bbdj,1.0,t3_3grtgo,30860.0,pcmasterrace
+212,This needs an update post.,2015-08-12 12:58:05+00:00,cu0b2ds,1.0,t3_3gop2e,30084.0,funny
+213,"You will always have the ""Intel graphics"". It's a ""default"" graphical unit that comes ""free"" with every Intel cpu. And you need it on a laptop. It uses very little power and when you need more graphical power the r9 m370x will do the work instead of the Intel graphics.
+The intel Iris pro graphics is in most ways a better version of the Intel graphics hd series. 
+To put it on perspective the Intel hd iris pro should be able to play world of warcraft on a 1920x1080 resolution at low settings with 30-40 fps. But will be powerfriendly.
+The r9 m370x should play WoW at medium/high but would consume a lot more your battery.  
+
+You don't need 16gb of ram. 12 or 8 is fine. Even 4gb is fine if you don't game and just produce. 
+Again if you don't game or do something else you also don't need the r9 m370x. 
+
+In fact your actual laptop is fine and shouldn't be slow even if you have a first gen i5 or not. Try cleaning your whole laptop (not just a simple reinstallation).
+And if you really want a ssd try replacing your hdd.
+
+Sorry for bad English, French guy here. ",2015-08-11 15:50:24+00:00,ctz8r5h,1.0,t3_3glmre,2290.0,edmproduction
+214,"I used this company: http://aircleanservice.be/
+
+Very good work, fast, and cheap in comparison with other compagnies. I rate it 9/10",2015-08-11 15:29:09+00:00,ctz7xd6,1.0,t3_3gl3ps,10417.0,belgium
+215,"Yes but in my opinion it's part of the game. 
+It's like a fps you need ammo to shoot. Yes it's sucks, sometimes you don't really play the game because you're looking around for ammo during 5 minutes. 
+Worst, sometimes it can be the reason why you die. But hey that's part of the game and it isn't real gameplay.
+And I understand your opinion. Maybe your right and it was a bit too hard (never had a demo) but they could at least improve this and find a good balance instead of removing it. 
+
+Sorry for bad English, French guy here.",2015-08-08 17:59:37+00:00,ctw38cx,6.0,t1_ctvzez3,7368.0,wow
+216,"No it's part of the game. 
+And if it's a good guild he wouldn't be the lonely. Every member must farm a little bit. 
+It's about helping each other. You give your potions to take some gems or food.
+It's about real teamwork to defeat the enemies.",2015-08-08 17:48:55+00:00,ctw2vu8,6.0,t1_ctvxkkz,10713.0,wow
+217,Yes it sucks to be you. Some games aren't made for people that don't have time to play. You have to accept that.,2015-08-08 14:42:57+00:00,ctvxdkm,4.0,t1_ctvwdkf,2455.0,wow
+218,"Chaman was for horde and paladin for alliance. 
+I don't know about the lore and facts. But I liked that idea from a role play perspective. It was special and unique. ",2015-08-08 14:36:59+00:00,ctvx80k,1.0,t3_3g8nez,5792.0,wow
+219,It's delicious,2015-08-08 13:47:31+00:00,ctvw1j9,2.0,t1_ctv8l63,60494.0,albania
+220,"Had the high end lumia 1520. 
+Switched to LG g3. 
+I love everything in Windows Phone but apps aren't updated or added. It's been 3 months now and no regrets.",2015-07-30 21:27:49+00:00,ctm1c0j,1.0,t3_3f7bab,4553.0,windowsphone
+221,"Not true. I'm atheist and I am against gay. 
+But it's my opinion. I would never kill someone for it and I would be ok if majority of people want to allow gay in my country. 
+But if I can vote for it I would vote against gay. ",2015-07-30 21:21:26+00:00,ctm12z2,3.0,t1_ctlyoj8,3459.0,WTF
+222,"Batman, ironman and superman aren't translated but if I'm not wrong spiderman is translated word for word",2015-07-30 12:43:05+00:00,ctlgerb,1.0,t3_3f589w,8265.0,albania
+223,That she had a high number of partners before me.,2015-07-29 07:40:06+00:00,ctk10d8,1.0,t3_3eys51,27377.0,AskReddit
+224,Export your solidwork model in a .stl then import to Maya then export as .fbx and finally import the .fbx into unreal engine. ;-),2015-07-28 22:32:13+00:00,ctjk5j2,1.0,t3_3ewjqz,27933.0,unrealengine
+225,"Was almost in the same situation as you. 
+Some people can handle it some not. I tried for almost 2 years to accept it and to change my perspective about it but I couldn't. I thought that it would be better over time but it even get worse. 
+So I broke up.
+
+It's up to you but don't waste your time. You have to know if you can accept it or not. How longer you will wait how more difficult it will be to broke up.
+
+And changing your perspective isn't easy. You lived your whole life thinking in a certain way. That way of thinking is made with experiences, culture, friends, family,... You can't change that 25 years long way of thinking with some simple reddit comments.
+
+Sorry for my English, French guy here.",2015-07-28 22:29:58+00:00,ctjk2fp,1.0,t3_3ewa5t,32311.0,sex
+226,"Unreal engine is very well build. But the only performance problem that I have is when building light. 
+The cpu does all the job and it takes a lot of time. 
+Why isn't there the possibility to let you use gpu power to process those calculations? Wouldn't it take seconds instead of minutes? 
+
+If you can achieve that for your project I'm sure epic would hire you. :-p",2015-07-28 21:53:16+00:00,ctjin6a,1.0,t3_3expg8,8659.0,unrealengine
+227,Totally agree,2015-07-28 21:30:13+00:00,ctjhp9z,2.0,t1_ctjdhmk,5959.0,halo
+228,"Hate those villains in halo 4 and their weapons were very bad. They are the reason why gameplay sucked. 
+",2015-07-28 21:28:22+00:00,ctjhmmn,2.0,t1_ctj9x3d,10683.0,halo
+229,One of best characters of all halo,2015-07-28 21:18:13+00:00,ctjh7o7,3.0,t1_ctjgux5,528.0,halo
+230,"I personally would never do my life with someone that has such a high number when being only 20. 
+Some people can. I can't. The reason is simple: culture and vision about this. 
+
+For me sex is the biggest personal gift that someone can give. 
+And like any other personal gift: the gift will lose all value if 50 people that weren't important to you received the same gift. It wouldn't be special anymore. 
+
+Now that vision depends on culture and it is very hard to change that. I lived my whole life thinking that way and almost everyone around me here thinks that way. 
+
+Don't lie about your number because otherwise he will find out and be very upset. If you find someone make sure he has no problem with it. 
+
+
+
+Sorry for my English, French guy here.",2015-07-28 14:10:32+00:00,ctiz811,1.0,t3_3evk9s,20483.0,sex
+231,"This particular kind of mid bass sound in the following drum and bass track (the sound starts at 1:11)
+track: original sin - mad world
+http://www.youtube.com/watch?v=K1a-uUURIiQ",2015-07-28 12:57:24+00:00,ctiwx2l,1.0,t3_3etbr3,59332.0,edmproduction
+232,I'm serious,2015-07-23 11:42:59+00:00,ctd8n0v,3.0,t1_ctd570v,13301.0,belgium
+233,I don't understand why are you depressed. You have no or few friends because you find yourself ugly? Is that what you mean with feeling like an alien? ,2015-07-23 07:28:17+00:00,ctd4mxz,1.0,t3_3e9zwm,16999.0,belgium
+234,+1,2015-07-21 17:47:25+00:00,ctb40wz,5.0,t1_ctb2li5,2008.0,wow
+235,"It's because of people like you that WoW is dying. 
+Traveling is a big part of WoW. If your not happy with it then change game. It's not made for people like you that just want to ""loot purples"".",2015-07-21 17:46:02+00:00,ctb3yst,4.0,t1_ctaznw9,6201.0,wow
+236,"You need to export your 3d models from cinema 4d as fbx. Once you have them you import those fbx files into unreal engine. I see YouTube videos explaining how to export from cinema 4d to Unity. So yes you can use cinema 4d.
+Unity is a program like unreal engine and works ""mostly"" the same. 
+
+Unreal engine is free since March 2015 so you will never find as much information than unity 3d. Unity 3d is free since it is launched (i think).",2015-07-21 09:00:47+00:00,ctapb0f,7.0,t1_ctajvyx,16552.0,wow
+237,"Yes try it. 
+But to make your own characters, objects,... you have to use Maya or 3dsmax or blender. Those 3 are the most famous one. The creation of the 3d models happens with one of those programs. 
+Once you have all of your 3d models you can import it in unreal engine and assemble everything to make your very own map. 
+You can download unreal engine for free. It comes with some already made 3d models should be enough to make a lot of basic stuff. :)
+
+Sorry for my English, French guy here.",2015-07-20 21:08:57+00:00,cta52jr,5.0,t1_cta42v2,1463.0,wow
+238,"It isn't ""hard"". The big problem with creating a zone like this with such details is that it requires a lot of your time.",2015-07-20 20:43:10+00:00,cta40r1,3.0,t1_cta2sp6,1812.0,wow
+239,You don't need more than 8Gb for gaming. ,2015-07-14 17:21:16+00:00,ct34hzb,3.0,t1_ct2xwh3,9645.0,buildapc
+240,Did he really needed to go by car? I wouldn't use my car for Jette to Madou. ,2015-07-13 22:27:47+00:00,ct28moh,1.0,t3_3d5f4n,16960.0,belgium
+241,Thanks for sharing. I didn't know that.  ,2015-06-24 14:14:54+00:00,csh1yqs,7.0,t1_csh0sla,2185.0,buildapc
+242,"Those benchmarks doesn't mean a lot. The card is designed for dx 12.
+Wait and see. ",2015-06-24 13:28:06+00:00,csh0hqo,1.0,t3_3ay1fb,3617.0,buildapc
+243,"University won't put you directly into gpu programming. University will help but that's it. You need a lot of experience. You can start today by learning parallel programming, DirectX, C, C++, game physics (gpu gem3 is one of those free online book that does a great job by learning game physics) 
+Try to learn making your own game? Or make a game engine?
+You just have to buy a book, or check tutorials on internet, or even check for online documentation. Just try it.
+Save everything of what you make so you can show it.
+Here an example of what skills they may seek: http://en.cdprojektred.com/jobs/tools-programmer/
+They ask a lot experience and skills but no university. ",2015-06-19 18:05:35+00:00,csc3fip,1.0,t3_3ae5gh,23507.0,nvidia
+244,Yes most gpu temps can go 90,2015-06-19 16:18:46+00:00,csbzbf2,2.0,t1_csby6ia,1821.0,nvidia
+245,You made a mistake in your description. You can't create energy. ,2015-06-17 23:18:39+00:00,csa4cfd,1.0,t3_3a5ee8,44952.0,science

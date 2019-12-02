@@ -1,0 +1,857 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"I posted an update just before seeing your comment: https://www.reddit.com/r/RealEstate/comments/5cxei7/mortgage_payment_missing_md_xpost_rlegaladvice/da0f5vw/
+
+I basically contacted A, lit a small fire under them, and they finally confirmed they found the payment and would send it along this week.  I'll definitely stay proactive, but it looks like things are moving in the right direction now :)
+
+Thanks for the advice!",2016-11-14 22:33:22+00:00,da0fvxi,2.0,t1_da0ezag,1166.0,RealEstate
+1,"Thanks, that advice was really helpful!
+
+[Per the update I just posted](https://www.reddit.com/r/RealEstate/comments/5cxei7/mortgage_payment_missing_md_xpost_rlegaladvice/da0f5vw/), Company A was basically going really slow and not communicating their status to B.  Both A and C advised me to make the other payments as usual and that this would resolve itself over the next couple weeks, so I'll do just that.",2016-11-14 22:27:31+00:00,da0fm4y,2.0,t1_da03czx,14886.0,RealEstate
+2,"Thank you so much, this was extremely helpful!
+
+Several emails and phone calls later, it turns out that CompanyA was just being really slow and not communicating with anyone else - they're planning to transfer the funds to CompanyB this week.
+
+Despite CompanyC sending the mortgage to their collections department immediately, the rep I spoke to was extremely helpful explaining the situation and assuring me that everything would work out provided the ""missing"" payment arrives in January.
+
+So it looks like my next steps are:
+
+1. Wait for that transfer to go through
+2. Once received by CompanyB, follow up and ensure they send it to CompanyC by January.
+3. Continue making all other payments as usual",2016-11-14 22:17:49+00:00,da0f5vw,2.0,t1_da087v1,8435.0,RealEstate
+3,"If it's only visible once a year, why isn't anyone else there to see it?",2016-11-11 17:38:22+00:00,d9w2xi0,1.0,t3_5cev5a,9703.0,interestingasfuck
+4,"This looks great, thanks for sharing it!",2016-11-11 13:45:32+00:00,d9vsza3,1.0,t3_5capxy,56195.0,arduino
+5,Cat.,2016-11-11 13:41:35+00:00,d9vsuuo,2.0,t1_d9vqued,4425.0,CatsStandingUp
+6,This is what happens when you Reddit before coffee,2016-11-09 15:57:15+00:00,d9sy523,2.0,t1_d9su7ju,5380.0,PHP
+7,"&gt; If the rusty pipe out of the water heater is leaking, it's going to get more complicated.
+
+It doesn't seem to be leaking, though I am a bit concerned about the long-term ramifications of having a rusty pipe there. Hopefully it's not a big deal (or if so, I hope it's easily replaceable.)",2016-11-03 20:28:40+00:00,d9khudp,2.0,t1_d9jwhii,25648.0,HomeImprovement
+8,"&gt; replace the bad joint with a stainless flexible line
+
+Interesting idea!  I'll be sure to mention that.",2016-11-03 20:27:13+00:00,d9khrql,2.0,t1_d9jxyd3,23335.0,HomeImprovement
+9,"&gt; Sweating pipes is fairly easy, but it you're uncomfortable working with an open flame, and what appears to be a tight-ish space. Hire a pro.
+
+I wouldn't mind trying it if there wasn't a gas line a foot away.  I think I'll call out a pro.  Thanks so much for your insight!",2016-11-03 20:26:35+00:00,d9khqlo,2.0,t1_d9jxi6g,23952.0,HomeImprovement
+10,"According to the article, Shopify's market share is quickly increasing whereas Magento is slowly decreasing: https://s.aolcdn.com/hss/storage/midas/de949a351b4ce6f04d62e401facd10ce/204541781/6.png",2016-11-03 20:24:51+00:00,d9khnb3,1.0,t3_5axv4d,12664.0,Magento
+11,"If you're using Magento 1.x, you could modify the `index.php` file to show the actual errors instead of hiding them.  But we don't want to show errors to anybody visiting your site for two reasons:
+
+1. It can scare non-technical users away.
+2. Bad guys could potentially use that information against you.
+
+So instead of showing the errors to everyone, let's make it so you need to add some special text to the URL in order to enable the errors.
+
+To do this, find this line:
+
+    #ini_set('display_errors', 1);
+
+And change it to:
+
+    if (isset($_GET['show_errors']) {
+        Mage::setIsDeveloperMode(true);
+        ini_set('display_errors', 1);
+    }
+
+Save this change and fire up your browser.  Go to any page which exhibits the issue and add this to the end of the URL: `?show_errors=1`  You should now be able to see the error!
+
+Now go ahead and search the usual sites for the error you see :)
+
+(As others have mentioned, the `file.php` and `local.xml` changes did not help and probably made things worse - undo those changes first if you can)
+
+Hope that helps!
+
+**Edit:** When you're done debugging the issue, undo the changes to `index.php` so that nobody accidentally finds your secret workaround to show errors.",2016-11-03 03:15:16+00:00,d9jfhnv,1.0,t3_5arm64,31610.0,Magento
+12,These line changes between innings take FOREVER!,2016-11-03 02:11:25+00:00,d9jcblj,1.0,t3_5at6v9,11709.0,hockey
+13,David Ross iced the ~~puck~~ ball for a point!,2016-11-03 02:08:47+00:00,d9jc6oc,1.0,t3_5at6v9,11551.0,hockey
+14,I like that glowing trail they add to the ball during replays.  They should totally add that during the live action. /s,2016-11-03 02:07:47+00:00,d9jc4fl,1.0,t3_5at6v9,11491.0,hockey
+15,Nice dive by P.K. Subban at the end of that play!,2016-11-03 02:01:21+00:00,d9jbstj,1.0,t3_5at6v9,11105.0,hockey
+16,Why isn't Pierre in between the benches tonight? Is he okay?,2016-11-03 01:58:57+00:00,d9jbo4n,1.0,t3_5at6v9,10961.0,hockey
+17,The defense threw that out-of-bounds - is that a delay of game?,2016-11-03 01:58:35+00:00,d9jbnie,1.0,t3_5at6v9,10939.0,hockey
+18,"I missed the first three periods, but now it looks like there's some sort of shootout going on in the 5th? Except the lone offensive player is facing the entire defense? I'm so confused.",2016-11-03 01:53:51+00:00,d9jbfgc,1.0,t3_5at6v9,10655.0,hockey
+19,"Wait, why are they hitting the ball **away** from the goaltender?",2016-11-03 01:47:01+00:00,d9jb3wh,1.0,t3_5at6v9,10245.0,hockey
+20,What's the context here? Why is he on the ground?,2016-10-30 04:33:37+00:00,d9dmfdc,1.0,t3_5a132d,45208.0,hawwkey
+21,"Google Home isn't compelling enough for me to make the switch right now.  I've already got Google Now on my wrist and Alexa does everything else I'd want (cooking timers, Spotify streaming, home automation integration with HASS, custom skills).  Perhaps once Google Home matches/exceeds the capabilities of the Echo I'll make the switch, but right I'm content with what I have.",2016-10-27 14:12:00+00:00,d99yvwz,1.0,t3_59nwnd,3245.0,amazonecho
+22,Or a wireless wifi adapter.,2016-10-27 00:24:44+00:00,d99b3in,4.0,t1_d994x2d,8681.0,raspberry_pi
+23,And they're cheaper in Canada too.  Or so I hear.,2016-10-26 20:47:43+00:00,d991g7c,8.0,t1_d990k23,1066.0,videos
+24,Downtown Frederick is really nice.,2016-10-17 01:46:02+00:00,d8v53yq,1.0,t3_57unog,3352.0,maryland
+25,[Same gif in reverse](https://i.redd.it/5vdv1r0t8arx.gif),2016-10-14 13:06:54+00:00,d8ro8b1,1.0,t3_57a76e,85712.0,hawwkey
+26,I came here to say this.  It's like you have ESPN or something.,2016-10-10 19:55:33+00:00,d8mb47z,2.0,t1_d8manha,570.0,AskReddit
+27,"This was announced on the Internals mailing list: http://externals.io/thread/368
+
+&gt; Dontbug allows you to run PHP scripts forwards and backwards in the 
+debugger. Practically speaking, you can step over/out backwards, step 
+backwards, run backwards, run to cursor backwards, set breakpoints in the 
+past and so forth (apart from the usual debugging capabilities when running 
+forward).
+&gt; 
+&gt; Additionally, you don't need to learn to use a new IDE/User Interface and 
+you can continue using PhpStorm, Netbeans, Eclipse PDT etc. debugging front 
+ends.
+&gt; 
+Project Page:
+&gt; 
+https://github.com/sidkshatriya/dontbug
+&gt; 
+Short Demo Video (1m35s):
+&gt; 
+https://www.youtube.com/watch?v=DA76z77KtY0
+&gt; 
+Longer Demo Video (9m04s)
+&gt; 
+https://www.youtube.com/watch?v=ggo9s3ug-k4
+&gt; 
+Discussion on Hacker News
+&gt; 
+https://news.ycombinator.com/item?id=12678230
+
+I haven't tried it myself, but it's certainly an interesting concept.",2016-10-10 19:45:10+00:00,d8malys,1.0,t3_56txtv,130.0,PHP
+28,Corn on the cob.  I hate getting that shit stuck in my teeth.,2016-10-07 23:39:27+00:00,d8il9zq,1.0,t3_56e81s,1971.0,AskReddit
+29,"Well, it was 2 minutes too long!",2016-10-07 23:36:14+00:00,d8il5l2,3.0,t1_d8ikw3i,422.0,AskReddit
+30,There are so many IPv6 addresses that we could assign one to every individual atom on the surface of Earth and still have enough left for 100 more Earths.,2016-10-07 23:33:48+00:00,d8il2b0,1.0,t3_56e34n,3497.0,AskReddit
+31,Cans of can openers.,2016-10-07 23:28:20+00:00,d8ikuw6,1.0,t3_56dzrq,4400.0,AskReddit
+32,"The same things sold at convenience stores, but everything is in blister packs.",2016-10-07 23:27:08+00:00,d8ikt9h,1.0,t3_56dzrq,4328.0,AskReddit
+33,Morgan Freeman as every role he's played.,2016-10-07 16:57:17+00:00,d8i33d5,2.0,t1_d8i1ezm,2065.0,AskReddit
+34,It's worth every dollar IMO.,2016-10-01 17:09:39+00:00,d89qlnw,2.0,t1_d89ludd,7644.0,webdev
+35,"US, 32GB, Carbon.",2016-10-01 17:07:48+00:00,d89qj19,,t1_d87ba54,,nexus5x
+36,"I was replying to a tweet when it happened - the screen went black and the bootloops started.  Now it doesn't even loop.  It doesn't seem to take a charge either (though I can't confirm this 100%)
+
+A couple months ago I enrolled in the Android Beta program.  The day before the Big Crash I had installed the latest 7.0 update.  Not sure if this is relevant though.
+
+Called Google Support (since I purchased it through them) and RMA'ed it.",2016-10-01 17:06:51+00:00,d89qhpi,1.0,t3_55duta,3141.0,nexus5x
+37,I just subscribed to your shop's mailing list - I suppose you'll make an announcement there once it's available?,2016-10-01 16:58:04+00:00,d89q5i9,2.0,t1_d89bdrn,38603.0,esp8266
+38,"I also do this often, but use phpbrew to switch between different versions of PHP as needed.  I'm starting to get more into virtualization though, but having a local LAMP stack is just so damn convenient.",2016-09-25 21:05:06+00:00,d81s4yc,2.0,t1_d7ysvgq,200597.0,PHP
+39,"This reminds me of when I first started programming and thought it was a great idea to multiply two random numbers together to get a ""more random"" result...",2016-09-25 21:02:54+00:00,d81s1cv,1.0,t3_54b1em,100116.0,PHP
+40,Cat.,2016-09-25 17:46:33+00:00,d81islg,4.0,t1_d81hs5a,1308.0,youtubehaiku
+41,"I haven't tried any newer versions, but I still enjoy my first gen Paperwhite. The slowness doesn't bother me when reading, you quickly learn to change the page a few words early do that it flips as soon as you finish the line). Navigating the menus sites require some patience though...",2016-09-17 03:09:21+00:00,d7q5d6o,1.0,t3_5353k7,7795.0,kindle
+42,"Yeah, let's get back on track.",2016-09-16 16:55:20+00:00,d7pg2nl,4.0,t1_d7pdvdb,2695.0,nottheonion
+43,"When do you need them?  I'm moving next week, so if you can wait until next Thursday or Friday I'd be happy to give you whatever I've unpacked.",2016-09-14 19:33:39+00:00,d7mth2p,1.0,t3_52pttt,32566.0,frederickmd
+44,Where did you get that xbox controller stand?,2016-09-12 13:11:13+00:00,d7jhn8f,1.0,t3_52ceii,35020.0,battlestations
+45,"It turns out one of my coworkers is really handy with these sort of projects, so he's offered to help me run the cable :)  Personally I have 0 experience with these things (and am fairly anxious about messing something up), which is why I was willing to pay somebody experienced.
+
+I will be using wireless for most of my personal devices, but I'd strongly prefer a wired connection for gaming, my NAS, and a small home server I run.  The wireless in my new neighborhood is fairly congested and I've got three levels to cover, but I think that should be fine for casual internet usage on laptops/tablets/etc.",2016-09-12 12:44:52+00:00,d7jguwv,2.0,t1_d7g78ra,227569.0,frederickmd
+46,"how is babby formed, how girl get pragnent?",2016-09-09 13:00:32+00:00,d7fkch4,1.0,t3_51uy2d,40340.0,AskReddit
+47,# I'VE GOT A JAR OF DIRT AND GUESS WHAT'S INSIDE IT,2016-09-09 12:59:01+00:00,d7fkaqx,2.0,t1_d7fex70,15354.0,AskReddit
+48,Because these halaby cant jhiad back?,2016-09-08 00:39:50+00:00,d7dkj9a,5.0,t1_d7dfzx4,6849.0,funny
+49,Cat.,2016-09-07 15:44:10+00:00,d7cwmfy,3.0,t1_d7bmqp6,84407.0,CatsStandingUp
+50,"Mine is the opposite.  If your head is the only thing outside of blankets, you'll get bopped on the mouth with his paw until one of your arms comes out.
+
+You'd think it's because he wants to get pet, but no - he just wants to see a hand or arm sticking out before he'll lie down and sleep.",2016-09-07 14:37:51+00:00,d7ctqr9,2.0,t1_d7clzmg,17939.0,AskReddit
+51,"Humans must sleep with at least one arm outside the covers, otherwise the cat will bop you on the mouth until you do so.",2016-09-07 14:35:42+00:00,d7ctnmc,1.0,t3_51kep8,18758.0,AskReddit
+52,Humans sleep on the sides of the bed and must share pillows.,2016-09-07 14:34:39+00:00,d7ctm4a,1.0,t3_51kep8,18695.0,AskReddit
+53,"Whoa, netdata is really cool!!  Thanks for the recommendation :)",2016-09-04 12:56:47+00:00,d791x5x,4.0,t1_d78txv2,27808.0,docker
+54,"Thanks for the advice!
+
+I started with CoreOS and it worked really well! However, I couldn't figure out how to install upsmon (so I could share a UPS and have my NAS alert the Docker host of power outages), so I ended up switching to Ubuntu Server. Resource usage on Ubuntu is less than I expected, so I'm happy ☺
+
+Shipyard was also really easy to install and seems to fit my needs perfectly!",2016-09-03 21:13:03+00:00,d78elg4,2.0,t1_d77v666,37200.0,docker
+55,"Thanks for the info!
+
+I've got the 451+ and it's upgraded to 8 GB - I didn't realize that 16 was possible, so that's good to know!  Although I am approaching the memory limit with 8 gigs, the CPU seems to be a bigger bottleneck (thanks to CrashPlan and Plex, and maybe Transmission too).  I'll likely keep those particular services running on the QNAP and move the other containers over to this new machine.",2016-08-31 01:55:14+00:00,d73gjzh,2.0,t1_d73g3v0,653.0,homelab
+56,We did it Reddit!,2016-08-30 12:28:56+00:00,d72hy8j,2.0,t1_d72f7dl,7455.0,pics
+57,"Quick, somebody create an app for this!",2016-08-29 02:32:32+00:00,d70q99h,2.0,t1_d70id2w,12744.0,InternetIsBeautiful
+58,"&gt; That never goes away. FYI, if you're ever curious about things you don't use because you might not know about them, you can go to Help -&gt; Productivity Guide and then sort by Used. You can see features and tricks that you've never used before.
+
+That's awesome!  (But how are we supposed to know the feature to find unused features exists if we've never used it before? lol)",2016-08-26 22:24:15+00:00,d6y4dja,9.0,t1_d6w1q9a,117419.0,PHP
+59,That's awesome!,2016-08-25 21:31:33+00:00,d6wnnlw,3.0,t1_d6wmjpz,1481.0,AskReddit
+60,Soldering electrical components,2016-08-25 17:01:21+00:00,d6warth,1.0,t3_4zjhxd,683.0,AskReddit
+61,Thank you! :),2016-08-25 16:00:31+00:00,d6w7s38,3.0,t1_d6w4y29,3538.0,AskReddit
+62,/r/youtubehaiku ,2016-08-25 14:45:38+00:00,d6w47q3,1.0,t3_4zirwd,772.0,AskReddit
+63,Insurance policies.,2016-08-25 14:45:25+00:00,d6w47dc,1.0,t3_4ziryp,737.0,AskReddit
+64,Paper money.,2016-08-25 14:45:08+00:00,d6w46w3,1.0,t3_4ziryp,720.0,AskReddit
+65,Driving my car while I'm in it.,2016-08-25 14:43:25+00:00,d6w4446,1.0,t3_4zin1v,2343.0,AskReddit
+66,Unless your buddy is also a professional fisherman.,2016-08-25 14:43:02+00:00,d6w43hf,2.0,t1_d6w2htn,2216.0,AskReddit
+67,The house I'm closing on next month!,2016-08-25 14:41:59+00:00,d6w41sq,1.0,t3_4zimof,2389.0,AskReddit
+68,"Op's example with lots of logic on the view is intended to be an example of what you should NOT do.
+
+By creating a voter, you get the same ""return true/false"" logic you're already building, but it's available:
+
+- In views via the is_granted function
+- In controllers via the @Security annotation
+- Anywhere else via an injectable service
+
+IMO it's not overkill once you understand and try it.",2016-08-23 01:41:05+00:00,d6sopbh,2.0,t1_d6sfxbd,13203.0,phpsec
+69,Washing your hands after using the bathroom.,2016-08-19 18:20:12+00:00,d6ocnn9,1.0,t3_4yk2ix,4514.0,AskReddit
+70,"I have to hide the pillows under the sheets in the morning, otherwise my cat will lick his butt and sleep there after using the litterbox.",2016-08-19 13:44:36+00:00,d6o0v8g,3.0,t1_d6npnf0,29622.0,AskReddit
+71,/r/youtubehaiku,2016-08-19 02:51:50+00:00,d6nk6ck,1.0,t3_4ygfkj,736.0,AskReddit
+72,Sleep on the edge of the bed so they can sleep in the middle.,2016-08-19 02:50:53+00:00,d6nk4z9,1.0,t3_4ygggh,376.0,AskReddit
+73,[Petrichor](https://en.wikipedia.org/wiki/Petrichor),2016-08-19 02:43:03+00:00,d6njtvb,1.0,t3_4yg5sq,3625.0,AskReddit
+74,"Rules:
+
+1. Go fast
+2. Only turn left",2016-08-19 02:42:03+00:00,d6njseq,2.0,t1_d6nh3ht,4062.0,AskReddit
+75,"I wouldn't know, I waste all my time on Reddit.",2016-08-19 02:40:55+00:00,d6njqt7,1.0,t3_4ygd6d,916.0,AskReddit
+76,Time spent driving versus time spent living in a nicer town.,2016-08-19 02:38:02+00:00,d6njmrh,1.0,t3_4ygcw5,844.0,AskReddit
+77,P ≠ NP,2016-08-19 02:35:22+00:00,d6njj19,1.0,t3_4yg5a1,3358.0,AskReddit
+78,My public library card number from when I was 10.,2016-08-19 02:22:50+00:00,d6nj1hi,1.0,t3_4yczry,38013.0,AskReddit
+79,Finding Emo - a documentary about teenagers who discover Dashboard Confessional for the first time.,2016-08-19 02:22:14+00:00,d6nj0lu,1.0,t3_4yg1mg,3868.0,AskReddit
+80,"Use a turn signal.  It sounds easy, but most people in Massachusetts don't know how to do it.",2016-08-19 02:13:44+00:00,d6nioi9,1.0,t3_4yfx2y,4964.0,AskReddit
+81,Towards the edge of the bed because your cat came in and plopped himself in the middle which was kinda annoying but he looks so comfy so you're okay with it because if you didn't let him sleep there he'll start running around destroying everything with his sharp claws and scratching at your feet which would definitely not be comfortable so it's probably best to just stay on the edge where you can actually get some sleep without getting mauled.,2016-08-19 02:10:30+00:00,d6nijrj,1.0,t3_4yg7ha,1059.0,AskReddit
+82,"&gt; Thanks! Yeah their documentation is pretty bad :|:
+
+FTFY ;-)",2016-08-17 19:44:44+00:00,d6lll1z,5.0,t1_d6lie18,3649.0,PHP
+83,This seems to be from a custom template engine for [IPS Community Suite](https://invisionpower.com/).  I'd recommend checking their documentation or their development community for more information about how their templating syntax works.,2016-08-17 15:03:00+00:00,d6l7263,1.0,t3_4y5wb5,1841.0,PHP
+84,/r/FixMyPrint might be able to help.,2016-08-17 04:53:55+00:00,d6kr3pb,1.0,t3_4y1o9c,30213.0,Ask3D
+85,"Haha!
+
+I always develop and test locally, but sometimes a bug slips through and the quickest way to extinguish the fire is `ssh` + `vim`.",2016-08-11 20:55:42+00:00,d6drdsq,3.0,t1_d6dp34a,2882.0,AskReddit
+86,"I sometimes edit code in production.  It's very rare, but still...",2016-08-11 12:24:47+00:00,d6d4q4r,1.0,t3_4x4kls,53172.0,AskReddit
+87,It really depends on your knowledge and past experience.,2016-08-09 13:54:41+00:00,d6acxzg,1.0,t3_4wuyho,23668.0,PHP
+88,"Good call, I wasn't aware of this attack. I've updated my comment accordingly.",2016-08-09 13:50:24+00:00,d6acs6p,,t1_d6absoo,1649.0,phpsec
+89,"To be fair, I haven't used NetBeans in a couple years, so I'm unaware of any improvements they may have added.
+
+At the time when I made the switch, PhpStorm simply had more/better features that I as a power user appreciated.",2016-08-07 16:33:02+00:00,d67wzb3,3.0,t1_d67wfq2,893.0,PHP
+90,"I used Netbeans before switching to PhpStorm.  It's not nearly as nice as PhpStorm (which is totally worth the price IMO), but for very basic development it's fine.",2016-08-07 14:36:56+00:00,d67t0tw,1.0,t3_4wkt8y,4535.0,PHP
+91,~~Hashids are a great choice.~~  You could also look into using [auto-generated slugs](https://en.wikipedia.org/wiki/Semantic_URL#Slug) (commonly used on blogs) or [UUIDs](https://github.com/ramsey/uuid#about).,2016-08-06 15:08:34+00:00,d66pqbs,1.0,t3_4wfw8h,5525.0,phpsec
+92,"Meh, I thought Lanny Lancaster was better.",2016-08-01 00:16:37+00:00,d5yydg1,2.0,t1_d5yqcqi,12714.0,xiongbing
+93,You just need to science the shit out of it.,2016-07-30 16:26:50+00:00,d5xac6n,10.0,t1_d5x938v,2161.0,space
+94,Cat.,2016-07-27 13:14:07+00:00,d5swa1y,3.0,t1_d5suxph,2584.0,CatsStandingUp
+95,Cat.,2016-07-26 13:37:54+00:00,d5rfn96,4.0,t1_d5rf02u,1049.0,CatsStandingUp
+96,"Sometimes I'll do the same but dead-center.  Defender sometimes gets the block, but it comes straight back to me for a second chance (meanwhile he's still spinning around on the ground somewhere).",2016-07-25 19:25:11+00:00,d5qdnwz,2.0,t1_d5q6tlu,8622.0,RocketLeague
+97,Cat.,2016-07-24 02:05:33+00:00,d5oalhn,11.0,t1_d5o9ato,2412.0,CatsStandingUp
+98,"Great advice!  If I could add a few notes:
+
+&gt; Do not wear anything metallic. Keep your jewelry/watch in your carry-on and put it on after you get past TSA.
+&gt;
+&gt; Have all your electronics ready to put into the little tray. 
+
+Honestly, just put everything that's normally on your person (phone, sunglasses, keys, belt, etc.) into your carry-on before entering the security line - the only exception should be your ID and boarding pass.  This way you won't need to scramble to get everything into an extra bin.
+
+&gt; Do not take drinks or anything liquid on the plane with you.
+
+If you need to take tolietries in your carry-on, put them at the very top in a single ziploc bag so you can remove them quickly and easily.
+
+&gt; Leave for the airport three hours earlier so that that you will have plenty of time to get through without a rush. I usually arrive at the airport 4-5 hours before my flight, depending on the length and distance. 
+
+Personally, I like to arrive 2 hours before (large, non-major-hub airport).  Sometimes I'll arrive extra early if that means avoiding peak times - it makes getting through security and navigating the airport less stressful.",2016-07-23 22:59:37+00:00,d5o4cvx,2.0,t1_d5nu5kg,17447.0,Anxiety
+99,"It looks like this is using a battery.  If so, any electricity it *could* generate would be less than the energy of the battery, making it less efficient than just using the battery.",2016-07-20 17:46:50+00:00,d5jthgn,2.0,t1_d5jt6oh,376.0,Damnthatsinteresting
+100,"I loved using Windows 7 and was very skeptical about upgrading to 10, but now that I've upgraded I can't imagine going back.
+
+I don't use Cortana or the live tiles in the start menu, but everything else just works really well for me.",2016-07-19 18:11:29+00:00,d5ig89y,2.0,t1_d5hapa7,75982.0,buildapc
+101,Cat.,2016-07-18 01:24:54+00:00,d5ga6hm,4.0,t1_d5g5h9p,8345.0,StartledCats
+102,"&gt; They're not going to give 21:9 players a competitive advantage by giving them a larger FoV.
+
+So instead they give 16:9 players a competitive advantage with a larger vertical FoV...",2016-07-15 21:29:09+00:00,d5dualw,2.0,t1_d5d2qxq,47616.0,Overwatch
+103,Can I get this as a bumper sticker?,2016-07-13 13:10:54+00:00,d5aiqui,2.0,t1_d59rkg2,56044.0,GaryJohnson
+104,Count me in for $25: http://i.imgur.com/uR5rZYF.png,2016-07-13 12:50:05+00:00,d5ai38h,1.0,t3_4skl4t,40464.0,GaryJohnson
+105,"Players with 21:9 monitors will essentially have two options:
+
+1. Full FOV with black bars (as usual)
+2. Lower FOV but full screen (essentially 16:9 stretched and cropped)
+
+I'm not sure I'd call that full 21:9 support...",2016-07-13 12:28:27+00:00,d5ahg7u,1.0,t3_4smvlu,208.0,Overwatch
+106,Noooo I loved that site! :-(,2016-07-11 16:21:29+00:00,d580h8z,1.0,t3_4sa5yp,22945.0,PHP
+107,"Thanks for putting this together!
+
+I've got a couple projects in the works and hope to add them once I make good progress.",2016-07-11 16:20:36+00:00,d580fud,1.0,t3_4sabd9,19984.0,PHP
+108,"From the sidebar:
+
+&gt; /r/PHP is not a support subreddit. Please visit /r/phphelp for help, or connect to ##php on Freenode IRC (nickserv registration required).",2016-07-11 14:58:19+00:00,d57ww0d,1.0,t3_4savgj,5900.0,PHP
+109,[There might be one last 5.5 release on July 21st](https://www.mail-archive.com/internals@lists.php.net/msg86531.html).,2016-07-10 12:49:02+00:00,d56lgy0,1.0,t3_4s4wqw,10267.0,PHP
+110,"My primary machine has an i5-2500K (overclocked to 4.2 GHz with a Corsair H60).  I'm going to have a spare i5-3570K in a few days from a machine I'm decommissioning.  **Is it worth the time, hassle, and installation anxiety to swap the newer CPU into my main build?**
+
+From what I gather, I'd only get a minor performance increase, and I don't really care about power usage or graphics capabilities.  My gut says it's not worthwhile but I would like a second opinion on this.",2016-06-26 09:31:27+00:00,d4ogs1r,1.0,t3_4ps8jb,77281.0,buildapc
+111,But if you donate today they can end their drive sooner! And you get a really nice tote bag!,2016-06-21 21:11:00+00:00,d4iixhh,5.0,t1_d4ifron,3851.0,technology
+112,"I think it means ""misguided attempt at job security"". Just a guess though.",2016-06-21 11:17:37+00:00,d4hu6rc,1.0,t3_4p0q67,54355.0,ProgrammerHumor
+113,I'm sure the local Postmaster would be interested in seeing this.,2016-06-20 18:02:18+00:00,d4gwqt7,1.0,t3_4ozozy,4300.0,videos
+114,AOPA has a great article on this topic: http://www.aopa.org/go-fly/aircraft-and-ownership/drones/best-practices-for-flying-your-drone-near-an-airport,2016-06-15 19:23:59+00:00,d4al39x,8.0,t1_d4ad5bg,9728.0,frederickmd
+115,Great choice!,2016-06-15 11:23:59+00:00,d4a10qd,2.0,t1_d49ni43,33332.0,ultrawidemasterrace
+116,Still waiting for 21:9 support...,2016-06-15 11:09:03+00:00,d4a0pow,1.0,t3_4o1uiv,71869.0,Overwatch
+117,"I do.  Then again, I'm literally just getting started with this platform.",2016-06-12 23:20:09+00:00,d46lvcm,2.0,t1_d465515,23573.0,esp8266
+118,So if I start my car remotely (on a really cold or hot day) I'd technically be violating seat belt laws the moment I get in the car?,2016-06-11 23:41:25+00:00,d45f9jf,4.0,t1_d4512iz,24183.0,offbeat
+119,I'm also able to find this toy by searching for `4971413005639` or `4971413012118` - no English versions though.,2016-06-09 14:58:59+00:00,d42cd0j,2.0,t1_d42790x,8034.0,whatisthisthing
+120,"I agree, it's virtually impossible to avoid seeing the spoilers in post titles.",2016-06-09 01:50:07+00:00,d41r6q2,2.0,t1_d418zqo,25451.0,asoiaf
+121,I can't even process it.,2016-06-09 01:30:33+00:00,d41qcoa,2.0,t1_d418ujr,24392.0,ProgrammerHumor
+122,"You may want to look into using web sockets instead of a REST API.  This would allow your frontend (and bots) to interact with the server in real-time instead of needing to ping every `X` seconds for updates.
+
+Here's an example of how Slack lets you use Web Sockets for building bots on their platform: https://api.slack.com/rtm
+
+I'm certainly not saying you can't do REST, just that it has some drawbacks when it comes to relaying bi-directional information in real time.",2016-06-07 17:01:30+00:00,d3znmcw,1.0,t3_4mzxge,1391.0,PHP
+123,Did you post the photo? I'd love to see if your workaround is good enough - I may consider re-purchasing the game.,2016-06-07 14:25:27+00:00,d3zgnsk,,t1_d3tsuvc,,ultrawidemasterrace
+124,Braavos,2016-06-03 17:05:59+00:00,d3uolc1,,t1_d3r6dfu,,asoiaf
+125,The [Grumpy Testing books](https://leanpub.com/b/grumpy) are pretty good.,2016-06-02 18:39:00+00:00,d3tfdsv,1.0,t3_4m67qy,36545.0,PHP
+126,"Would you be open to a single ultrawide monitor?  I recently upgraded from dual 24"" monitors to a Dell UltraSharp U3415W 34"" monitor and can't imagine going back.  IMO the 21:9 aspect ratio is perfect for both work (one application snapped to the left and right) and gaming.",2016-06-02 18:27:33+00:00,d3teuhn,1.0,t3_4m7snz,9587.0,AskBattlestations
+127,JetBrains has a nice PDF reference card you can print out: https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf,2016-06-02 14:25:11+00:00,d3t3vpi,1.0,t3_4m5zzk,26140.0,PHP
+128,"Could you make that a secondary voting option?  For example:
+
+**Main vote:** Should libsodium be added as a core extension?
+
+**Secondary vote:** Should libsodium be placed globally or within the `Sodium` namespace?",2016-06-01 13:41:33+00:00,d3rp1r7,4.0,t1_d3row99,253.0,PHP
+129,"All of the other `array_` functions which take a callback are fairly consistent.  I think `array_map` is a special case because you can pass in any number of arrays, so that variadic parameters ends up being the second one.",2016-05-31 22:28:39+00:00,d3qznuh,,t1_d3khllz,,PHP
+130,"As a new C developer, I find the `*` syntax confusing.  `int* foo` means ""I'm pointing to foo"" but `*foo` means ""Here's the value of `foo`"".
+
+Wouldn't it make more sense to define pointers with an `&amp;` instead?  Or am i missing something here?",2016-05-31 19:28:45+00:00,d3qroum,4.0,t1_d3qccs3,21584.0,AskReddit
+131,"&gt; These functions are a mess of quirks. This one just adds up to the pile.
+
+While this would add a new internal function, I don't think it adds any new quirks.",2016-05-31 13:40:14+00:00,d3qcq16,6.0,t1_d3q9h9r,7100.0,PHP
+132,"Thanks for providing a more-accurate benchmark.  I can confirm that `foreach` is indeed faster in almost every case. The one exception seems to be when using `md5($key)` as the new key - weird!
+
+I'll update the RFC with these new stats right now.  Thanks again!",2016-05-31 01:09:58+00:00,d3pt87l,2.0,t1_d3pjanq,16683.0,PHP
+133,"I'm proposing this general-purpose function for that exact reason - we don't need a dozen variations of this.
+
+Removing the array_change_key_case would be nice in an ideal world, but that would break BC and should therefore be avoided.",2016-05-30 16:37:33+00:00,d3pagsj,2.0,t1_d3p7y2u,4158.0,PHP
+134,It's such a weirdly specific function. I'm honestly surprised this exists but a more-general version (like the proposed function) doesn't.,2016-05-30 16:34:09+00:00,d3pac7r,3.0,t1_d3oovb1,51945.0,PHP
+135,Yeah I'd love to see what results others get! I'll try a few additional variations tonight too in case my original tests were a fluke.,2016-05-30 16:30:54+00:00,d3pa7zy,4.0,t1_d3p808j,3657.0,PHP
+136,"Sorta like leftpad? :-P
+
+Seriously though, I might do this regardless of the RFC's outcome (especially if it passes to provide BC).",2016-05-30 16:25:40+00:00,d3pa12n,4.0,t1_d3p7ynx,3418.0,PHP
+137,"Yep, but no extra boilerplate required :-)",2016-05-30 16:18:25+00:00,d3p9rh8,4.0,t1_d3p6j5r,5505.0,PHP
+138,It could potentially be more if you need additional lines to create the new key.,2016-05-30 03:48:57+00:00,d3os6x6,2.0,t1_d3ooe7s,6804.0,PHP
+139,I find myself needing something like this every week or two.,2016-05-30 03:45:44+00:00,d3os3e1,2.0,t1_d3ophje,4819.0,PHP
+140,"Here's a userland implementation:
+
+    $newArray = array_combine(
+        array_map(
+            function ($key, $value) {
+                return 'someValue'; // Whatever custom logic is needed
+            },
+            array_keys($oldArray),
+            $oldArray
+        ),
+        $oldArray
+    );
+
+**Possible** to implement? Yes.  But **easy** to write and understand?  I'm not so sure.
+
+This, on the other hand...
+
+    $newArray = array_change_keys($oldArray, function ($key, $value) {
+        return 'someValue'; // Whatever custom logic is needed
+    });
+
+Is simple and obvious.",2016-05-30 03:41:07+00:00,d3oryb6,2.0,t1_d3o9kq2,33129.0,PHP
+141,"&gt; I'd much rather see some basic datatypes like fixed array being optimised
+
+I agree, there are other more-important improvements that can be made to PHP.  I unfortunately don't have the expertise to implement those, otherwise I would try to put my efforts there.  Just trying to improve the things that I can :)
+
+&gt; If PHP array performance is a must for your application then maybe PHP isn't the right solution for your use-case.
+
+Performance is a nice benefit of this RFC but its not the primary one.",2016-05-30 03:36:52+00:00,d3orto5,2.0,t1_d3oa72e,31811.0,PHP
+142,"I benchmarked this while writing the RFC and found that `array_change_keys` was significantly faster than `foreach`, although it's entirely possible that my benchmark doesn't represent all possible cases.",2016-05-30 03:16:02+00:00,d3or5uy,2.0,t1_d3of0z1,22258.0,PHP
+143,Why do you feel you need multiple sessions?  What's the particular use case or feature you're trying to implement?,2016-05-23 13:41:11+00:00,d3gcdwg,5.0,t1_d3gc84k,291.0,PHP
+144,My cat has those same mice and does the same thing with them!,2016-05-20 13:23:45+00:00,d3cvfu2,1.0,t3_4k5409,53759.0,cats
+145,/r/ultrawidemasterrace ,2016-05-18 17:31:09+00:00,d3agtaq,1.0,t3_4jvvtm,27912.0,battlestations
+146,"Yeah, my extension is still working just fine.",2016-05-14 23:40:12+00:00,d35rfrk,2.0,t1_d35m6gc,9722.0,geek
+147,Looks like he's programming something with a JetBrains IDE using the Darcula theme.,2016-05-14 23:33:11+00:00,d35r82k,1.0,t3_4jcvci,13033.0,ANormalDayInRussia
+148,Everything is highly abstracted which can be good or bad depending on who you are and what you're trying to do.,2016-05-13 15:14:23+00:00,d343wkw,2.0,t1_d33xebz,10782.0,PHP
+149,"&gt; One this that comes to mind would be a metal slab, maybe no more than a 1/4"" thick which has a larger surface area than the mount's original base to slip in between the mount and the desk in order to distribute the weight along a great surface area on the desk (on both sides of the desk.)
+
+I was thinking the same thing, but with wood.  Either approach would probably work.",2016-05-12 20:28:04+00:00,d335itv,1.0,t3_4j0udw,22736.0,AskBattlestations
+150,Cat.,2016-05-12 18:31:25+00:00,d33065o,4.0,t1_d32wma0,4658.0,CatsStandingUp
+151,+1 to Gitlab.  Their omnibus package makes it stupid simple to install and keep up-to-date.,2016-05-12 13:46:12+00:00,d32nhoy,2.0,t1_d32jles,8067.0,PHP
+152,Wow!,2016-05-11 21:08:54+00:00,d31ua77,1.0,t3_4ieul6,281271.0,battlestations
+153,[3564020356.org](http://3564020356.org/).  Great little site to learn about breaking ciphers and reverse engineering.,2016-05-11 20:02:43+00:00,d31r3o5,1.0,t3_4iubue,33424.0,AskReddit
+154,"Yeah, I really wish he had come clean.",2016-05-11 18:41:13+00:00,d31n6mn,2.0,t1_d31lx3s,1599.0,PHP
+155,"&gt; No, we don't want a generic ""negative impact"" in there, because that's too ill-defined. It could mean quite literally anything at any moment that someone doesn't like for whatever reason. Fraud, on the other hand, is pretty specific, especially when it is in-the-group behavior.
+
+That's a great point and I totally agree. I should've worded that differently (along the same lines you mentioned)
+
+&gt; Concern-trolling over the logo was dumb and unwarranted, IMO, and does not belong in there either.
+
+That's fair.  I only mentioned it because it was a concern some folks had during the entrance vote (regardless of whether it was warranted) and therefore ""could"" (not ""should"") be a factor that those same people might consider.",2016-05-11 17:56:34+00:00,d31l2na,3.0,t1_d31kddw,879.0,PHP
+156,"&gt;on the grounds that the project's adoption numbers were misrepresented, whether intentionally or not, prior to the entrance vote
+
+IMO I think other factors could also be considered:
+
+- Admission of past fraudulent behavior
+- Strong evidence of current fraudulent behavior by a PHP-FIG representative
+- ~~PHPixie's membership negatively impacting~~  *Fradulent behavior was continued within the group to the detriment of* the FIG's focus and productivity ~~as a result of this ""scandal""~~
+- The logo controversy",2016-05-11 17:31:30+00:00,d31jvg9,1.0,t3_4iw0uf,454.0,PHP
+157,"""If you find yourself in a hole, the first thing to do is stop digging.""",2016-05-11 17:26:00+00:00,d31jlve,1.0,t3_4iuw3p,14286.0,PHP
+158,I get the impression /u/pmjones is trying to end the drama (by requesting concrete proof) instead of allowing the back-and-forth to drag on indefinitely.,2016-05-11 15:57:28+00:00,d31ffb3,4.0,t1_d31a289,7406.0,PHP
+159,"Other data on Packagist seems to support /u/AndrewCarterUK's claims.  Here's a quick comparison of `dev-master` installs for several frameworks:
+
+ - Symfony: [~48 per day](https://packagist.org/packages/symfony/symfony/stats#dev-master)
+ - Laravel: [~30 per day](https://packagist.org/packages/laravel/framework/stats#dev-master)
+ - CakePHP: [~1 per day](https://packagist.org/packages/cakephp/cakephp/stats#dev-master)
+ - PHPixie: [~2,000+ per day](https://packagist.org/packages/phpixie/framework/stats#dev-master)
+
+I find it hard to believe that literally 99% of users would prefer using the bleeding edge of `dev-master` over stable releases...",2016-05-09 20:41:07+00:00,d2z20oe,1.0,t3_4iju97,21545.0,PHP
+160,I'm really disappointed that someone would abuse and mislead the community like this.,2016-05-09 15:34:44+00:00,d2yoite,1.0,t3_4iju97,3162.0,PHP
+161," - Other platforms (Drupal, Magento, Symfony, Silex)
+ - Custom integrations (ERP systems, CRMs, etc.)
+ - Hosting
+ - Performance audits &amp; optimization
+ - SEO/SEM",2016-05-09 14:15:23+00:00,d2yld7o,1.0,t3_4ibo0h,149198.0,PHP
+162,"Advisory mirrors:
+
+ - [Cached version from Google](https://webcache.googleusercontent.com/search?q=cache:I3M170FkOTUJ:https://www.openssl.org/news/secadv/20160503.txt+&amp;cd=1&amp;hl=nl&amp;ct=clnk&amp;gl=nl)
+ - [GitHub Gist](https://gist.github.com/FiloSottile/99ad6b52688f5a1f0a5fa2009a891490)
+
+Patch: https://github.com/openssl/openssl/commit/70428eada9bc4cf31424d723d1f992baffeb0dfb",2016-05-03 14:27:14+00:00,d2r10k0,1.0,t3_4hnhmk,101.0,netsec
+163,"Debian, Ubuntu, RHEL, and CentOS seem to have the best community support IMO.",2016-05-02 16:39:06+00:00,d2pseev,1.0,t3_4hi93q,2278.0,PHP
+164,"Short version of my project:
+
+- Raspberry Pi 3:
+  - Runs Dashing (a Ruby-based dashboard framework).
+  - Iceweasel shows the dashboard.
+- Arduino-based controller:
+  - Talks to a Python script on the Pi via USB serial.
+ - Pressing one of the four buttons shows one of four dashboards.
+ - Motion sensor detects movement and wiggles the mouse cursor to stop the screensaver.",2016-04-30 18:38:10+00:00,d2nkia6,1.0,t3_4h5ln4,203.0,raspberry_pi
+165,"&gt; Am not a big fan of moving to their namespace myself
+
+I've moved two packages over to the League and it wasn't actually that bad!
+
+Packagist and Github are really good at allowing your package to live under a different namespace without breaking dependents, so the technical aspect of moving isn't that difficult.  On a personal level I can understand not wanting to move away from your personal namespace, but you still retain full attribution and control over your project.",2016-04-29 17:18:30+00:00,d2marcl,3.0,t1_d2kxy35,85401.0,PHP
+166,\o,2016-04-28 12:18:02+00:00,d2kl13h,2.0,t1_d2kjygu,2629.0,redsox
+167,"In that scenario, I'd hope there'd be some sort of penalty for ANGRY EX, similar to how filing false police reports is a crime.",2016-04-27 23:48:58+00:00,d2k0vjp,2.0,t1_d2jg5l2,28127.0,Firearms
+168,Cat.,2016-04-27 12:38:04+00:00,d2j86c6,3.0,t1_d2iqoiw,41379.0,CatsStandingUp
+169,"Thank you for this info!  I'm a hobbyist with a programming background, so learning these types of things is a huge help.
+
+After /u/speleo_don's suggestion didn't work, I ended up finding a bug in the sample code provided by the LCD vendor.  Fixed that and the default transmission voltage works just fine!  It's output-only, so it sounds like I'm in business.
+
+Thanks again for the helpful explanation!",2016-04-23 02:11:36+00:00,d2dusma,2.0,t1_d2drj4t,5763.0,AskElectronics
+170,"Thanks!
+
+I tried that, but it didn't work.  Turns out the initialization part of Adafruit's sample code doesn't work on the Photon, but a simple `Serial.print()` worked just fine.  Removed the boosting circuit and it still works.
+
+Thank you anyway!  I learned something new, even if I don't need to use it :)",2016-04-23 00:28:49+00:00,d2drb0h,2.0,t1_d2dqccv,1661.0,AskElectronics
+171,Woohoo!,2016-04-21 16:31:14+00:00,d2buzmh,1.0,t3_4ftqs0,486.0,Ubuntu
+172,16.04 has not been released yet. I'd recommend waiting for the release announcement and try installing that version.,2016-04-21 15:47:35+00:00,d2bsxof,1.0,t3_4ftd43,2630.0,Ubuntu
+173,16.04 has not been released yet.  I'd recommend waiting for the release announcement and try installing that version.,2016-04-21 15:43:06+00:00,d2bspyk,1.0,t3_4fti6c,582.0,Ubuntu
+174,"Even if these are the final files, it's still not the final release until the announcement is made.",2016-04-21 15:34:59+00:00,d2bsccm,5.0,t1_d2bs2p8,345.0,Ubuntu
+175,Proof?,2016-04-21 15:24:16+00:00,d2brubi,3.0,t1_d2bqtc0,1352.0,Ubuntu
+176,What kind of recipe is this?,2016-04-17 15:19:25+00:00,d26dema,1.0,t3_4f642h,17366.0,oddlysatisfying
+177,"My local Microcenter is an hour away.  I almost wish it were closer, until I realize I'd have $0 from making several trips a month.",2016-04-14 22:37:58+00:00,d238ipi,2.0,t1_d22w8qa,15626.0,arduino
+178,"I'll buy simple, cheap parts from ebay - things like breadboard wires, headers, piezo buzzers, resistors, buttons, etc.
+
+But if I want something reliable with full documentation, I'm going straight to Adafruit or Sparkfun.",2016-04-14 22:36:48+00:00,d238h1u,1.0,t3_4es1r4,20969.0,arduino
+179,I hope the Bruins show up too.,2016-04-05 17:12:23+00:00,d1qwtq7,3.0,t1_d1qpyb5,8974.0,BostonBruins
+180,I haven't had any problems with battery life.,2016-04-05 12:06:45+00:00,d1qklqe,1.0,t3_4dfw28,4416.0,nexus5x
+181,"Paperwhites are on sale now for Prime customers.
+
+If you're not a Prime customer, or you really want the latest-and-greatest models, you may want to wait as Amazon is going to announce new models very soon: http://thenextweb.com/gadgets/2016/04/04/amazon-set-unveil-8th-generation-kindle-next-week/
+
+IMHO the current models are just fine, so even if you buy now I think you'll be happy with your purchase.",2016-04-04 19:37:47+00:00,d1pq0vu,1.0,t3_4db0bq,22948.0,kindle
+182,"Links for the lazy:
+
+- http://php70.webhosting.be/phpinfo.php
+- http://php56.webhosting.be/phpinfo.php
+- http://php55.webhosting.be/phpinfo.php",2016-04-01 03:44:27+00:00,d1ldigb,1.0,t3_4csqss,14653.0,PHP
+183,"&gt; Why she even have the right to vote?
+
+https://wiki.php.net/RFC/voting#who_can_vote
+
+She has every right to vote, especially given her contributions to PHP.  Voters also have every right to amend or remove their vote without needing to explain it, which is probably for the best.
+
+&gt; Now I would be more than happy to know the reasoning behind rasmus, andi, zeev and others ""NO"" votes. Why no?
+
+I can't speak for them, but you might find their reasons in the discussion threads, on Twitter, or other places.",2016-03-31 17:02:39+00:00,d1kmsw9,3.0,t1_d1kk2fg,3467.0,PHP
+184,"Yeah, I thought it was going to sound more like [the Bobaflex cover](https://www.youtube.com/watch?v=y-1D5N7Bzrk).  Still pretty good though!",2016-03-29 21:38:45+00:00,d1i8zdt,2.0,t1_d1hr0o5,22649.0,videos
+185,"I agree.  In fact, you'd need to deprecate the current usage first before you could change what it does.",2016-03-28 14:36:24+00:00,d1gcpvg,3.0,t1_d1f69iz,93110.0,PHP
+186,"&gt; ""Yes"" doesn't make sense, because the keyword harms nothing by existing.
+
+It may not harm anything, but it also doesn't help with consistency or reducing technical debt of legacy features.  So for me the question becomes ""does the pain of upgrading code for PHP 8 (with an automatic script) outweigh the benefit of removing legacy features from the language?"".  There's no absolute answer, but I do think it's a valid question to consider.
+
+&gt; So I abstain and leave it to others to decide.
+
+I appreciate your careful consideration of both sides.  However, the vote is really close right now; if you're leaning more towards one side than the other, your vote could be the one to guarantee that outcome (regardless of what that might be).
+
+If you'd still like to abstain then I totally respect that position :)",2016-03-28 14:35:03+00:00,d1gco0x,2.0,t1_d1forih,57510.0,PHP
+187,Wow!,2016-03-27 13:03:30+00:00,d1f6mhd,1.0,t3_4c4ive,28057.0,androidthemes
+188,"The current models are fantastic.  Hell, even the last couple generations are great.  I don't think you'd get much benefit from waiting until a new one comes out - you'll be just as happy with the current offerings.",2016-03-27 00:08:56+00:00,d1epq7t,1.0,t3_4c1y87,25232.0,kindle
+189,"Deleting popular repositories is intentionally disabled - see this comment from 2014: https://github.com/composer/packagist/issues/115#issuecomment-37274264
+
+&gt; It is possible to delete a package when it has only a few downloads (I don't remember the threshold). For packages with a lot of downloads, there is no button to delete it to avoid mistakes affecting lots of people
+
+Instead, maintainers would use the ""abandon"" button to mark the package as deprecated.
+
+Now it could be possible for the maintainer to delete their repository from Github, but the Composer cache and Toran Proxy can mitigate that damage.
+
+Because repositories cannot be deleted, they therefore cannot be hijacked in the same way.
+
+Additionally, Packagist will reserve namespaces, preventing other people from releasing packages under a name/organization they really aren't.",2016-03-24 19:17:32+00:00,d1c50et,1.0,t3_4bsu3b,3208.0,PHP
+190,Looks like voting has been closed to address a few issues: http://news.php.net/php.internals/91914,2016-03-24 18:52:57+00:00,d1c3x6r,1.0,t3_4bsvhg,1214.0,PHP
+191,"&gt; I am not fimiliar with RFCs and the voting process, do the voters give a reason for why they vote yes/no?
+
+There's always a discussion period before the RFC enters the voting phase.  This is when folks have the opportunity to voice their concerns and why they might vote yes/no.  However, there's no requirement to explain their vote (and that's probably for the best).
+
+&gt; Cant see a reason why anyone would vote no even if working with legacy where it is a simple search and replace on var -&gt; public
+
+It's even easier than that - the RFC includes a tool which does this automatically (and it doesn't touch JS code using `var`, even if it's embedded in PHP files!)",2016-03-24 18:39:52+00:00,d1c3c8p,2.0,t1_d1bx1a4,8232.0,PHP
+192,I just commented here: https://www.reddit.com/r/PHP/comments/4bre0k/rfcvote_var_deprecation/d1c2cvr,2016-03-24 18:19:10+00:00,d1c2ee0,2.0,t1_d1bssf2,12780.0,PHP
+193,"Releasing the keyword would allow anyone to use it for function/class names in PHP 8.0.  This would have two major drawbacks:
+
+1. Such code would not be backwards-compatible with PHP 7.x and below (you'd get a `syntax error, unexpected T_VAR`).
+1. As /u/nikic mentions, there could be a valid use case in the future.
+
+Reserving the keyword simply protects against both of these issues.  **Reserving the keyword does not mean that it WILL be used**, just that it could be.  (That would require a whole other RFC though).",2016-03-24 18:18:14+00:00,d1c2cvr,4.0,t1_d1bvp2m,8719.0,PHP
+194,Please don't actually do this.,2016-03-24 18:08:23+00:00,d1c1wv2,1.0,t3_4bsrf3,11.0,PHP
+195,"Me too, though I have a feeling this vote will be extremely close (possibly even 50/50, which isn't enough to pass).",2016-03-24 13:13:37+00:00,d1bpbmx,2.0,t1_d1bp9vr,89.0,PHP
+196,"&gt; Emus can't walk backwards.
+
+Neither can my cat.",2016-03-18 01:19:02+00:00,d140fwg,3.0,t1_d135xpo,45664.0,AskReddit
+197,"&gt; Is it right for me to keep this much?
+
+Your grandparents certainly thought so.  How would they feel if they could see how your cousins are acting?",2016-03-18 01:05:37+00:00,d13zylh,1.0,t3_4at6b8,39495.0,relationships
+198,Banning underage drinking worked pretty well too.,2016-03-16 21:44:07+00:00,d12iabi,2.0,t1_d12cp8p,7337.0,maryland
+199,"They only become less-available for honest, law-abiding folks.  (You know, the types of people who are probably responsible enough to have them.)",2016-03-16 21:40:24+00:00,d12i4ho,2.0,t1_d12fm22,3364.0,maryland
+200,Thanks for the heads-up!  I will place my order right away.,2016-03-16 18:42:21+00:00,d12a1tx,3.0,t1_d129tce,315.0,raspberry_pi
+201,"The refs were probably like ""eff this nonsense, let's confirm the call so we can go home"" (jk)",2016-03-16 02:43:49+00:00,d11i998,6.0,t1_d11i294,287.0,hockey
+202,"&gt; The replay from behind the net clearly shows it.
+
+From what I saw the replay wasn't any more conclusive than tonight's.  (It's entirely possible that I didn't see the camera angle you're referencing though, in which case I ~~will eat my hat~~ withdraw my previous comment.)",2016-03-16 02:41:59+00:00,d11i6kl,4.0,t1_d11g2yl,2970.0,hockey
+203,"&gt; so that picture should be a few frames ahead to get a better picture
+
+I agree, it's not the best picture - it was the best I could find.
+
+&gt; These are two completely different plays.
+
+Very true.  I guess I'm just more frustrated about the perceived inconsistency of close offside calls this season, regardless of the situation.",2016-03-16 02:34:17+00:00,d11hv98,4.0,t1_d11fyky,2670.0,hockey
+204,I was literally about to checkout and they just sold out :-/,2016-03-16 02:28:00+00:00,d11hlwg,1.0,t3_4akt6l,14632.0,raspberry_pi
+205,That was onside but [this play](https://i.imgur.com/ioVYnF2.png) (from the 3/5 game against the Bruins) wasn't?! SMH.,2016-03-16 01:43:01+00:00,d11fnuo,2.0,t1_d11f7f4,617.0,hockey
+206,"Your current solution is technically secure.  HTTPS will encrypt the entire HTTP request, including the two POST variables.
+
+But I do agree with /u/bKSTEENN - using a token would be more secure.  If the token were compromised (for whatever reason), it would (ideally) only be valid for a limited time and can easily be revoked if needed.",2016-03-16 00:45:01+00:00,d11cybk,1.0,t3_4aky5i,6510.0,PHP
+207,"Thank you, I appreciate that :)",2016-03-15 19:46:26+00:00,d1104k5,4.0,t1_d10zhp5,836.0,PHP
+208,That sounds awesome!,2016-03-15 19:17:55+00:00,d10yubw,2.0,t1_d10w2d3,3687.0,PHP
+209,"&gt; Some of that guide is almost copied from the PHP manual's own migration guide
+
+Author here.  **I did not plagarize the PHP manual**, so I'd appreciate if you could avoid implying that.  I began writing in April and [was just over 55% complete](https://twitter.com/colinodell/status/630058247572062208) when [the PHP manual pages arrived in August](https://twitter.com/colinodell/status/631997677912375296).  My primary sources were [the RFCs](https://wiki.php.net/rfc), [php-src repository](https://github.com/php/php-src), and my own experience.
+
+Unless you're referencing [the IntlChar documentation](https://svn.php.net/viewvc?view=revision&amp;revision=337779) which I wrote for both the PHP manual and my book.  I suppose those might look similar.
+",2016-03-15 19:06:48+00:00,d10ycd8,2.0,t1_d10lfaf,18408.0,PHP
+210,"Self defense isn't that clear cut.  For starters, some jurisdictions might not pursue charges whereas others may be required to do so.  If the case does go to court, ""self-defense"" can only be invoked as an affirmative defense - you must first admit to your actions and **then** prove you were justified in doing so.  
+
+Furthermore, if you act in the defense of others, you could be liable if the person you defended didn't fear for their life (even if you did) or if their defense wasn't necessary.
+
+If I had to guess, this person probably took a plea deal instead of facing attempted murder charges.
+
+**Edit:** Removed a couple of redundant words.",2016-03-14 00:02:54+00:00,d0yrhuk,3.0,t1_d0yngw1,6801.0,AskReddit
+211,Oh? Why is that?  (I'm genuinely curious.),2016-03-11 13:53:44+00:00,d0vxwhl,2.0,t1_d0uzelg,69866.0,PHP
+212,"But what if that egg is 14 years old and kinda funky smelling, and you already have a perfectly good egg you can use instead?",2016-03-10 21:17:14+00:00,d0v7anj,5.0,t1_d0v5357,2800.0,PHP
+213,"`public` can be used for normal class variables, static ones, and even constants (in 7.1).
+
+`var` can only be used for normal class variables.  When this happens, it acts as an alias for `public`.
+
+So in all cases where `var` is allowed, it acts identically to `public`.",2016-03-10 21:10:30+00:00,d0v6z9p,2.0,t1_d0v29uz,5981.0,PHP
+214,You aren't allowed to do that in the US either.,2016-03-10 16:14:48+00:00,d0utawo,5.0,t1_d0upwoo,5146.0,offbeat
+215,You don't need to track depreciation if you don't want to. I have a single line item for my car and just update that line's amount (from KBB) once every months.,2016-03-01 04:02:06+00:00,d0iz2cm,5.0,t1_d0ixma6,2347.0,ynab
+216,But then you'd have no life.,2016-02-27 23:45:18+00:00,d0gb0mo,3.0,t1_d0fyhx4,21517.0,AskReddit
+217,"&gt; The joys of dealing with million settings
+
+I usually only have to change 1 or 2.  You might be doing something wrong...
+
+&gt; Did you just include 'procedural' to increase the paradigm count?
+
+Well it is a paradigm, and I'm counting them, so yes?
+
+&gt; if I write all my code inside one class, my program cease to be procedural and becomes oop, right?
+
+No, it becomes a mess.
+
+&gt; You cannot even pass a function object with out making an anonymous function in Php (or use a string as the function name)
+
+Not true - you can also create a function object by implementing the `__invoke` method.",2016-02-26 22:25:51+00:00,d0f55j2,3.0,t1_d0f1nor,5086.0,PHP
+218,"&gt; Eh, functional programming isn't very well supported in PHP.
+
+Yes, it's not *true* functional programming like you'd find in other languages, but it's still possible to use many functional paradigms in some way.",2016-02-26 15:09:05+00:00,d0ema4v,3.0,t1_d0el6y6,1812.0,PHP
+219,"1. It's easy to install and configure.
+2. It supports procedural, object-oriented, and functional programming.
+3. It integrates with virtually every modern service and technology.
+4. You can ignore the bad parts or use abstraction layers (like Symfony's HttpFoundation) instead.
+5. The PHP community is fantastic.",2016-02-26 13:44:49+00:00,d0eji52,1.0,t3_47p121,581.0,PHP
+220,"I had this issue happen last week on Verizon in Columbia, MD.  The top bar showed I had cell service but not LTE icon.  Toggling the Cellular Data option did not fix it, but toggling airplane mode did.  I don't recall what might have happened beforehand to trigger this state, and it hasn't happened again recently.",2016-02-21 23:24:29+00:00,d08mnml,1.0,t3_46ieyx,248389.0,nexus5x
+221,Or 6 + 4 = 11 (in base 9),2016-02-18 12:49:44+00:00,d04fbdl,5.0,t1_d04dhae,6209.0,ProgrammerHumor
+222,"Whatever variant of Linux runs on my [QNAP 451](http://smile.amazon.com/gp/product/B00KXP9RJC).
+
+Bought it for ~$400 and [upgraded it to 8 GB RAM](http://smile.amazon.com/dp/B005LDLVAO).  It has an ""app store"" which includes Plex, and it runs great for me.  (I'm also running Transmission and CrashPlan at the same time).  I can't recommend this thing enough.",2016-02-16 22:53:50+00:00,d02hmff,1.0,t3_464och,5405.0,PleX
+223,"Try replying with ""STOP"".  Many SMS platforms (like Twilio) will automatically and permanently unsubscribe you.",2016-02-16 22:12:20+00:00,d02fvg5,1.0,t3_460url,62725.0,nexus5x
+224,"This might be a really bad extrapolation of the popular ""1 in 5 women will be raped or sexually assaulted in their lifetime"" stat.  It doesn't take much word-smithing to imply the new meaning.",2016-02-16 17:08:59+00:00,d022c79,1.0,t3_461win,23835.0,MensRights
+225,"There's a nice list of the changes here: https://github.com/tpunt/PHP7-Reference
+
+I've also written a book which covers similar material with real-world examples: [PHP 7 Upgrade Guide](https://leanpub.com/php7)
+
+If these resources aren't exactly what you're looking for, might I suggest creating a Github project to compile your resources instead of a Reddit post?  It'll make it easier for others to view and submit changes.",2016-02-16 14:49:44+00:00,d01wxay,1.0,t3_462mpu,1723.0,PHP
+226,"If you shop on Amazon, look for reviews by a guy named ""Benson"".  It'll usually be the top review.  He regularly buys and tests different cables to see which ones are trustworthy.",2016-02-15 14:53:07+00:00,d00o0kt,1.0,t3_45iapn,216987.0,nexus5x
+227,"I'd leave feedback if [it wasn't already on the homepage](http://i.imgur.com/f3cI4HZ.png) :P
+
+Seriously though, I love the concept!  We've got a couple users who like to abuse bots in the wrong channels which is why I've been hesitant to add it.  Perhaps I'll just need to have a quick chat with them before adding this to ensure we don't have to remove it later.",2016-02-14 18:52:52+00:00,czzsgzd,1.0,t3_45o0xs,60322.0,startup
+228,That's the best movie I never want to watch again.,2016-02-14 17:53:49+00:00,czzqcd7,2.0,t1_czzhjho,19294.0,AskReddit
+229,I've run Magento 1.9+ sites on PHP 5.6.  Just disable the E_DEPRECATION notices and things should work fine.  (YMMV with third-party modules though),2016-02-12 20:47:24+00:00,czxqns4,1.0,t3_45erzy,25289.0,Magento
+230,"&gt; Go Stars, thanks for Seguin
+
+:,-(",2016-02-12 13:35:12+00:00,czx9cxw,2.0,t1_czwxa3k,34846.0,battlestations
+231,"The website is a static Github Pages site (powered by Jekyll).  This means the pages are only updated whenever changes are pushed.  However, we want the colors to reflect the latest available data, even if the site content hasn't been changed recently.  I worked around this limitation by checking versions and applying colors via JS.
+
+If/when the site is rebuilt onto PHP then it shouldn't be a problem to run this code server-side.",2016-02-11 19:28:51+00:00,czwcs4x,5.0,t1_czw9662,4936.0,PHP
+232,Feel free to submit a PR to update it :),2016-02-11 04:07:17+00:00,czvnl9u,2.0,t1_czvmu9k,1357.0,PHP
+233,I believe that title goes to Safari.,2016-02-10 20:28:53+00:00,czv60dw,3.0,t1_czv2c2o,5058.0,PHP
+234,Submit a PR :) https://github.com/philsturgeon/phpversions.info/blob/master/_data/operating_systems.yml,2016-02-10 20:26:29+00:00,czv5wim,2.0,t1_czv327c,3916.0,PHP
+235,"This is what I get for doing things late at night...  submitting a PR now.  Sorry about that!
+
+**Edit: This has been fixed.**",2016-02-10 20:22:03+00:00,czv5ph2,3.0,t1_czv232f,4991.0,PHP
+236,http://sandbox.onlinephpfunctions.com/code/7d2ccbcf82121c7a07407119f10d52e378900cb2,2016-02-10 17:35:30+00:00,czuyevt,1.0,t3_452c7q,20614.0,PHP
+237,"Touchwiz is nice but I'm not particularly in love with it.  If the decision came down to the UI, I'd lean towards the stock Android UI.",2016-02-10 01:54:27+00:00,czu8nhm,2.0,t1_czu8ka0,130.0,PickAnAndroidForMe
+238,"It supports procedural, functional, and object-oriented programming. You could even mix-and-match styles if needed.
+
+Sure, it might not do them all 100% perfectly, but it does them well enough to get things done.",2016-02-09 14:59:23+00:00,cztgqyn,1.0,t3_44qmao,96959.0,PHP
+239,Who will be performing during the second intermission?,2016-02-08 01:38:38+00:00,czrowps,1.0,t3_44nwz4,12052.0,hockey
+240,"That New Relic graph shows that virtually all CPU usage is from PHP, which suggests that it is CPU intensive. Either the framework has more overhead than you think, or your algorithms are causing the (relatively) high CPU usage. Can you offload some of that to another system? Or maybe pre-calculate or cache the suggestions? Perhaps a graph database might be a better fit?",2016-02-07 15:41:00+00:00,czr3hky,3.0,t1_czqwfwi,25192.0,PHP
+241,They added support a few days ago: https://twitter.com/blackfireio/status/694543152221417473,2016-02-07 15:37:29+00:00,czr3e43,3.0,t1_czqytpm,14366.0,PHP
+242,"&gt; What exactly is impressive about being able to debug an API?
+
+Having the REST client built into the IDE and integrated with xdebug.  I'm currently doing this with xdebug exactly as you've described (in combination with Postman), but it's a multi-step process that requires a separate REST client.
+
+I'm impressed because PhpStorm keeps making it easier to debug code in various scenarios (CLI, web browser, individual PhpUnit tests, REST APIs, etc.) with minimal configuration on my end.  This saves time and makes my job easier.",2016-02-07 13:51:44+00:00,czr0vyv,3.0,t1_czq16i7,80051.0,PHP
+243,PhpStorm has a REST API debugger?! Mind = blown.,2016-02-06 15:34:30+00:00,czq13hb,1.0,t3_44geh0,3778.0,PHP
+244,I'm not upgrading until the new version proves to be worthwhile. I don't think it's quite there yet.,2016-02-04 23:46:20+00:00,czo6tzz,4.0,t1_cznkhu9,31633.0,personalfinance
+245,Relevant RFC: https://wiki.php.net/rfc/nullsafe_calls,2016-02-04 03:10:58+00:00,czn4uj4,1.0,t3_443a1s,2896.0,PHP
+246,The Symfony documentation has a fantastic [tutorial on building your own framework](http://symfony.com/doc/current/create_framework/index.html) using the individual Symfony components.  It seems very similar to the No Framework tutorial that /u/todayiwrotenothing linked to.,2016-02-03 18:07:19+00:00,czmi3xi,1.0,t3_440olm,4326.0,PHP
+247,"The updated Roku app looks nice.  I just wish it wouldn't get stuck ""loading"" every 5 minutes.",2016-02-03 14:03:52+00:00,czm8git,1.0,t3_43x4yk,50041.0,hockey
+248,"We test our candidates (of all levels) by asking them to write a simple link shortner (like Bitly).  It must do three things:
+
+1. Create a shortened version of the URL and store it in the database
+2. Redirect from the shortened version to the long URL
+3. Any additional feature of their choosing (QR codes, stats page, etc)
+
+We then review their code and look for things like:
+
+1. Are the short URLs guaranteed to be unique?
+2. Is validation being used?
+3. Does the database table have an index on the short URL column?
+4. Did they use any frameworks or libraries? If so, why?
+5. Did they understand the requirements?
+6. Is the UX/UI good?
+
+Things like that.
+
+It's not a pass/fail test, just a simple exercise to help us gauge their knowledge and abilities.",2016-01-30 16:19:33+00:00,czhmyhc,1.0,t3_433n8d,177246.0,PHP
+249,Read the article.,2016-01-29 17:37:24+00:00,czglfs5,4.0,t1_czglb7k,177.0,AskReddit
+250,The PHP League has a great template for creating new packages: https://github.com/thephpleague/skeleton,2016-01-22 18:48:16+00:00,cz81w6y,1.0,t3_41w3ju,168118.0,PHP
+251,This looks like a nice PHP-based alternative to Capistrano.,2016-01-22 18:32:21+00:00,cz8173a,1.0,t3_426kjb,3600.0,PHP
+252,Wow!  Nice shot!,2016-01-22 16:47:07+00:00,cz7wn4k,1.0,t3_422w45,59644.0,battlestations
+253,"Most Blackvue devices audibly play this clip on start up:
+
+&gt; Blackvue for your safe driving.  Starting normal recording.",2016-01-22 16:44:02+00:00,cz7wi6d,2.0,t1_cz7vz9o,735.0,legaladvice
+254,I don't understand why he didn't pull Condon during the PP to get another attacker.  He must really not want his job.,2016-01-20 03:32:27+00:00,cz4sp4s,2.0,t1_cz4s5gn,906.0,BostonBruins
+255,Screencap if anyone missed it: http://i.imgur.com/VEkd2Yw.png,2016-01-20 03:23:37+00:00,cz4sdm5,2.0,t1_cz4rx5p,756.0,BostonBruins
+256,H,2016-01-20 03:14:36+00:00,cz4s1t6,8.0,t1_cz4s1c1,22.0,BostonBruins
+257,The Habs are now 4-16-1 in their last 21 games.,2016-01-20 03:14:14+00:00,cz4s1br,1.0,t3_41sdm6,243.0,BostonBruins
+258,/r/hawwkey ,2016-01-16 15:22:53+00:00,cz0fcs1,1.0,t3_414rcd,70303.0,PerfectTiming
+259,"Usually the Boston Bruins, but sometimes the Washington Caps.",2016-01-11 04:09:48+00:00,cytovdz,2.0,t1_cytngeu,2560.0,cats
+260,/r/ofcoursethatsathing ,2016-01-08 18:43:48+00:00,cyqw3oc,3.0,t1_cyq4dr6,59590.0,OutOfTheLoop
+261,"Fair enough, thanks for the reply!",2016-01-06 20:22:52+00:00,cyofv37,3.0,t1_cyofr3f,140.0,PHP
+262,"Is all of this really necessary?  Why can't the CoC establish some basic guidelines which the community as a whole can interpret and enforce on their own?  Is it even possible to come up with a list of well-defined examples?
+
+I'm reminded of this quote by Supreme Court Justice Potter Stewart regarding the definition of an observable yet subjective fact/event:
+
+&gt; I shall not today attempt further to define the kinds of material I understand to be embraced within that shorthand description, and perhaps I could never succeed in intelligibly doing so. But [I know it when I see it](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it).
+
+Perhaps we don't need to come up with a strict, all-encompassing definition of what ""bad conduct"" is.
+
+I'm also curious as to why some folks are proposing that a CoC team/tribunal/panel/court/whatever be created.  Is our community not capable of identifying and dealing with bad conduct ""when we see it""?  Perhaps there are examples I'm unaware of where the community failed to act, but I'd like to think that the onus is on **everyone** to deal with bad conduct instead of offloading that responsibility to some bureaucratic group.
+
+Furthermore, it seems like creating a CoC team is the reason some of these controversial issues are coming up:
+
+ - The need to have well-defined rules
+ - Determining who will enforce the rules
+ - Requiring some sort of ""due process"" or appeal procedure
+
+Again I ask whether it would be better or easier to educate and empower the community to act and hold people accountable instead of empowering only a handful of individuals.
+
+---
+
+**Disclaimer:** I'm not disagreeing or being confrontational, just trying to better understand the reasoning behind this approach and why it might be necessary or better than some alternative approach.",2016-01-06 19:04:36+00:00,cyocej5,1.0,t3_3zr3ae,2185.0,PHP
+263,Is there a way to receive notifications when an RFC enters the voting phase (or any phase)?,2016-01-05 18:23:00+00:00,cyn0o6p,1.0,t3_3zl7vn,2423.0,PHP
+264,"I like the idea of having a CoC, but I really don't understand why the ~~tribunal~~ ""response team"" is necessary.  Is our community really not capable of calling out or ignoring the trolls and bad actors?",2016-01-05 16:36:48+00:00,cymw9v7,1.0,t3_3zhapd,61512.0,PHP
+265,"Preferably one on-site backup and another off-site (or in the cloud).
+
+Also, RAID is not backup!",2015-12-22 21:09:19+00:00,cy874hs,2.0,t1_cy85res,1983.0,intj
+266,Cat.,2015-12-18 18:10:50+00:00,cy3mid1,3.0,t1_cy38cei,33309.0,StartledCats
+267,"It doesn't seem that dopey to me.
+
+Okay, maybe just a little bit.",2015-12-11 00:28:04+00:00,cxure75,2.0,t1_cxuakby,24674.0,PHP
+268,The backwards-compatibility promise is also huge.,2015-12-10 15:06:57+00:00,cxu4ggp,2.0,t1_cxrhp8i,177376.0,PHP
+269,Would it have been better to publish 2-3 caching standards with varying levels of features and complexity?,2015-12-10 14:59:56+00:00,cxu47oe,2.0,t1_cxs5qpw,142507.0,PHP
+270,Cash,2015-12-09 22:41:36+00:00,cxte93z,1.0,t3_3w2prc,30914.0,AskReddit
+271,"Kindles are great for reading books (like novels, biographies, etc.) front-to-back, but horrible when it comes to flipping around or looking things up.  You'll be much happier with a physical copy of a text book.",2015-12-09 03:09:44+00:00,cxse9v5,1.0,t3_3vzsj7,15800.0,kindle
+272,"IMO this will take 100+ hours to script, so you honestly might be better off just doing it manually.
+
+Could you get some other coworkers (or perhaps interns) to help out?  It won't save man-hours, but you'll get it done sooner.",2015-12-09 03:06:03+00:00,cxse4xb,1.0,t3_3w0i9l,5123.0,programmingchallenges
+273,"Sorry, I should've been more specific. I was referring to how some objects will cache data in a private array property.",2015-12-08 02:04:30+00:00,cxr0vvn,3.0,t1_cxqhu1z,28225.0,PHP
+274,"PHP 7 doesn't introduce any new caching methods, so your favorite approaches from 5.x are still equally valid.  Memory usage is more efficient though, so any in-memory caching you're doing should be a little faster.",2015-12-07 17:50:53+00:00,cxqgv32,1.0,t3_3vt6iq,2652.0,PHP
+275,I'd highly recommend using [phpbrew](https://github.com/phpbrew/phpbrew).,2015-12-05 00:28:41+00:00,cxnki4w,2.0,t1_cxnkg9n,96.0,PHP
+276,"Same here, though I'm slightly hesitant on #5 leading to unintended consequences (like longer delays for those who would pass the checks, or defaulting to ""DENY"" instead of taking more time to dig deeper).",2015-12-04 20:43:47+00:00,cxnc9ag,2.0,t1_cxmf0go,67383.0,SandersForPresident
+277,He published the new builds this morning: https://twitter.com/oerdnj/status/672718876359176192,2015-12-04 13:43:30+00:00,cxmw0iz,2.0,t1_cxm4u48,58237.0,PHP
+278,[Ubuntu 14.04 is stuck on 5.5.9](https://launchpad.net/ubuntu/trusty/+source/php5).  You'll want to use a PPA like this one: https://launchpad.net/~ondrej/+archive/ubuntu/php-7.0,2015-12-03 20:25:49+00:00,cxm1x9x,2.0,t1_cxm1tgm,146.0,PHP
+279,"Obligatory ""IT'S HAPPENING"" gif: https://i.imgur.com/7drHiqr.gif",2015-12-03 20:23:35+00:00,cxm1tre,1.0,t3_3vbn82,150.0,PHP
+280,"&gt; Your article is literally 5 random points taken out of the migration guide
+
+Actually, the content is straight out of the book, and some of these topics were written and published before the migration guide came out.  I'm literally giving away some of that content for free.  Not to mention that the `IntlChar` stuff is based directly on the PHP docs I wrote.  So I'm sorry to hear you find my original content and contributions to be shallow.  If you have any constructive criticism I'd be happy to hear it.",2015-12-03 14:52:08+00:00,cxlod5s,4.0,t1_cxllupv,5416.0,PHP
+281,"Thanks! I'm using [PrismJS](http://prismjs.com/) with the Okaida theme.  It's really similar to [the custom PhpStorm color scheme I use](https://github.com/colinodell/phpstorm-colors), which is why I chose it.",2015-12-03 12:54:53+00:00,cxll9il,2.0,t1_cxlbtn9,29396.0,PHP
+282,"Thank you, I really appreciate that! :)",2015-12-03 12:51:19+00:00,cxll6us,4.0,t1_cxlkj02,2132.0,PHP
+283,"I'm consistently impressed by every new async thing you release. Well done, this looks awesome!",2015-12-03 11:55:52+00:00,cxlk7bx,1.0,t3_3v8q92,25624.0,PHP
+284,"&gt; Just some ""buy my book"" clickbait.
+
+I'm disappointed to hear you say this Dracony.
+
+I've literally spent hundreds of hours trying to learn **everything** about PHP 7 so I can help share that knowledge with my colleagues and the broader PHP community.  This includes time [contributing to the PHP docs](https://secure.php.net/manual/en/class.intlchar.php), testing new features, [submitting](https://bugs.php.net/bug.php?id=69891) [bug](https://bugs.php.net/bug.php?id=70451) [reports](https://bugs.php.net/bug.php?id=70452), discussing RFCs with others, and [giving presentations on PHP 7](https://world.phparch.com/speakers/#67228).
+
+My e-book is not some ""get rich quick scheme"".  I've set the price fairly low, [given away free copies](http://i.imgur.com/h5mOtdX.png), and [even donated some proceeds to PHP Women](https://twitter.com/colinodell/status/671728042918547456).  The e-book is simply another avenue for me to disseminate my knowledge to others while also supporting my work for the community.
+
+&gt; The ""features"" are not really that much of a features to merit an article (dividing by zero returning INF is not a feature at all)
+
+True, they're certainly not the most-popular features, but I'm sure some folks will find this information useful.
+
+---
+**Edit:** I totally forgot to censor someone's email address in one of my links - I'm so sorry! It has been corrected.",2015-12-03 11:48:38+00:00,cxlk365,2.0,t1_cxlhc5u,11442.0,PHP
+285,"Yeah, a release tag !== the official final release.",2015-12-02 17:16:14+00:00,cxkjytm,2.0,t1_cxkafv8,18340.0,programming
+286,"Thanks for the purchase, and good luck with your project :)",2015-12-02 15:40:53+00:00,cxkg44s,2.0,t1_cxkdivq,4561.0,PHP
+287,I've heard it only runs on Windows 9.,2015-12-01 18:25:46+00:00,cxjd4bq,3.0,t1_cxjbwf5,1702.0,PHP
+288,Only if you want it to be :),2015-12-01 15:39:43+00:00,cxj6f2o,5.0,t1_cxj6cnx,110.0,PHP
+289,"&gt; It's like the nerd version of waiting for white smoke from pope's chimney. ""Breaking news, Jim, I think we're seeing white smoke coming out... Wait, nope, just a cloud is passing by. Again.""
+
+Except that this is definitely white smoke.  Tagging a release indicates that the final release is likely imminent, which is certainly newsworthy to those of us tracking the release process.",2015-12-01 14:49:46+00:00,cxj4q8n,2.0,t1_cxj4dxe,662.0,PHP
+290,"Yep, the goal is to release on the 3rd.  It may come sooner or even be delayed.  Regardless, it's still exciting to see the version tagged in the repository!",2015-12-01 14:36:52+00:00,cxj4bxn,2.0,t1_cxj43bm,485.0,PHP
+291,"Correct, this is just a tag.  I'm sure the php.net folks will publish a full release notice when they're ready.",2015-12-01 14:30:08+00:00,cxj44qg,2.0,t1_cxj3tlw,630.0,PHP
+292,"Yep, and Magento 2.",2015-12-01 12:01:57+00:00,cxj0ws9,2.0,t1_cxisbnh,27049.0,PHP
+293,"My ""PHP 7 Migration Guide"" e-book is also half-price today: https://leanpub.com/php7/c/cybermonday",2015-11-30 22:03:02+00:00,cxie02g,1.0,t3_3unfzz,164555.0,PHP
+294,How can you tell this round was in a magazine and not a clip?,2015-11-25 02:00:41+00:00,cxc4nlh,2.0,t1_cxc4e1m,505.0,handguns
+295,Shameless self-promotion: https://www.reddit.com/r/PHP/comments/3swn5x/my_php_7_upgrade_guide_ebook_is_essentially/,2015-11-23 13:48:52+00:00,cxa3xfy,1.0,t3_3txi00,9620.0,PHP
+296,Losing friends.,2015-11-18 12:14:21+00:00,cx4f4v8,3.0,t1_cx4b7he,16513.0,LearnUselessTalents
+297,Thank you!,2015-11-18 01:56:14+00:00,cx41hlv,2.0,t1_cx3y0j5,5738.0,PHP
+298,Thanks! :D,2015-11-17 17:03:40+00:00,cx3fzcp,2.0,t1_cx3az80,7801.0,PHP
+299,Thank you so much for that feedback!  Would you mind if I quoted this on the e-book's page?,2015-11-17 02:46:21+00:00,cx2ugv4,2.0,t1_cx2tkn9,1429.0,PHP
+300,Thank you!,2015-11-16 22:37:32+00:00,cx2lcs9,2.0,t1_cx2k107,2040.0,PHP
+301,"Hmm thanks for pointing that out.  I think that's happening because the comments are too long, and the Leanpub converter doesn't know how to wrap them to a second line.  I'll see if I can make the comments shorter without impacting readability for users with wider screens.",2015-11-16 19:25:37+00:00,cx2dgju,2.0,t1_cx1za6h,26576.0,PHP
+302,Thank you for catching that! I will make sure that gets corrected.,2015-11-16 11:54:33+00:00,cx1z5q5,2.0,t1_cx1wxvb,9841.0,PHP
+303,And there's at least 565 lines of that...,2015-11-16 02:00:21+00:00,cx1llqb,2.0,t1_cx1gru6,7864.0,ProgrammerHumor
+304,Thank you!,2015-11-15 22:00:06+00:00,cx1cmir,2.0,t1_cx1c0tu,933.0,PHP
+305,Direct link to the online sample chapters: https://leanpub.com/php7/read#leanpub-auto-part-1---new-features,2015-11-15 20:45:13+00:00,cx19k5l,1.0,t3_3swn5x,16690.0,PHP
+306,You might have a better chance posting this to a larger sub like /r/hockey.,2015-11-15 20:28:16+00:00,cx18v66,1.0,t3_3sxmul,94.0,BostonBruins
+307,Cat.,2015-11-15 16:11:02+00:00,cx0zrvr,7.0,t1_cx0znpb,250.0,aww
+308,"No, I don't use it.  I found that it ""awoke"" too often, probably because my wrist was upright most of the day while I was working on the computer.  It would die after about 8-10 hours during weekdays.  On weekends I'd get about 14-16 hours on ambient mode, which was better.
+
+Now I just keep ambient mode disabled, and it easily lasts the whole day with 40% battery to spare.",2015-11-14 03:29:39+00:00,cwzlxfr,3.0,t1_cwzkjdx,2889.0,moto360
+309,/r/edc,2015-11-13 03:22:56+00:00,cwyife6,1.0,t3_3smaqj,462.0,AskReddit
+310,It's a great device as-is. Don't be surprised if the battery life seems poor the first day - it's because you keep playing with it.,2015-11-13 03:16:41+00:00,cwyi7pd,1.0,t3_3sm7m5,1610.0,moto360
+311,"Such a great game, I highly recommend it.",2015-11-13 03:11:46+00:00,cwyi1hw,1.0,t3_3sm8dp,934.0,patientgamers
+312,Tamagotchis,2015-11-13 03:08:41+00:00,cwyhxnw,1.0,t3_3sm9a4,307.0,AskReddit
+313,"&gt; 2nd best decision I ever made.
+
+Alright, I'll bite.  What's the 3rd best decision you've ever made?",2015-11-12 23:19:47+00:00,cwy9nko,2.0,t1_cwy8cuj,1972.0,AskMen
+314,"There's a draft RFC for making PHP 100% case-sensitive, but it seems to be abandoned: https://wiki.php.net/rfc/case-sensitivity",2015-11-12 22:42:34+00:00,cwy86pj,1.0,t3_3sae2x,195535.0,PHP
+315,"Poor kid, that must've been traumatizing.",2015-11-12 03:14:04+00:00,cwxaqsb,1.0,t3_3sg44b,24943.0,progun
+316,Opting-out of receiving the offers is also free and doesn't require any shredding: https://www.optoutprescreen.com/,2015-11-08 05:06:29+00:00,cwslbnb,3.0,t1_cws6cqg,27114.0,YouShouldKnow
+317,IMO installing the RAM requires the most pushing force.  If you can do this with one hand then the rest should be a breeze.,2015-11-05 02:39:36+00:00,cwoycvr,2.0,t1_cwotkpg,7949.0,buildapc
+318,"Pizza dough. It doesn't matter how I measure the flour or bake the pie, the crust is always bad. I just buy the store-made stuff now.",2015-11-01 18:07:50+00:00,cwklo2y,1.0,t3_3r1yuk,43702.0,AskCulinary
+319,Where the rules are made up and the points don't matter.,2015-11-01 17:50:52+00:00,cwkl2gk,4.0,t1_cwkeqzz,12290.0,linux
+320,That doesn't work for me in the US.,2015-11-01 14:53:15+00:00,cwkffde,4.0,t1_cwkbtkz,11614.0,quiteinteresting
+321,"&gt; It also said that **all gun deaths** -- murder, suicide, **police** and accidental -- have dropped **30 percent** since 1993.
+
+I'm going to assume you didn't bother reading the article.",2015-10-26 21:58:36+00:00,cwdvedu,2.0,t1_cwdnc9b,11890.0,Firearms
+322,I think the technical term is kleptomania.,2015-10-25 21:54:35+00:00,cwcnlum,2.0,t1_cwck79u,5235.0,offbeat
+323,Only in some states.  Wikipedia has a great article on the topic: https://en.wikipedia.org/wiki/United_States_license_plate_designs_and_serial_formats,2015-10-22 19:25:27+00:00,cw96vjm,4.0,t1_cw93ybz,4177.0,CrazyIdeas
+324,"Maybe we can replace ""OMG!"" with that?  I feel like nobody really uses that macro.",2015-10-21 21:12:15+00:00,cw83878,1.0,t3_3pn0t6,23067.0,RocketLeague
+325,"&gt; /r/PHP is not a support subreddit. Please visit /r/phphelp for help, or connect to ##php on Freenode IRC (nickserv registration required)",2015-10-21 21:02:47+00:00,cw82ud7,1.0,t3_3po3ed,7878.0,PHP
+326,"I love open-source software too, but that doesn't mean there's not a single worthwhile commercial product out there.",2015-10-19 03:39:34+00:00,cw4sxgc,2.0,t1_cw4suw8,129.0,AskReddit
+327,"Some of my personal favorites:
+
+ - [Bins](http://www.1upindustries.com/bins/) for grouping taskbar icons
+ - [Bvckup 2](https://bvckup2.com/) for automatically copying files onto my backup disks
+ - [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [PhpStorm](https://www.jetbrains.com/phpstorm/) for programming",2015-10-19 03:37:57+00:00,cw4svjy,1.0,t3_3pb66h,230.0,AskReddit
+328,I picked one up myself last month for about $120-130ish.  It's a really nice chair for the price - much more comfortable than the padded ones.  It reclines nicely too.,2015-10-19 02:31:09+00:00,cw4qdos,1.0,t3_3pa69v,13520.0,buildapcsales
+329,"Haha yep, Magento 1 is still like that.  Magento 2 seems to have really useful docs though, which is a nice change.",2015-10-16 14:28:09+00:00,cw1ur90,5.0,t1_cw1txqu,1434.0,PHP
+330,Magento works really well for retail merchants who manage hundreds or thousands of SKUs and need traditional e-commerce features.  If you try using it for something else you're gonna have a bad time.,2015-10-16 13:30:03+00:00,cw1sv71,3.0,t1_cw0wlh9,69061.0,PHP
+331,"I'm glad to see Howard County spending taxpayer dollars on the important things, like collecting more taxpayer dollars.",2015-10-16 13:25:00+00:00,cw1spor,1.0,t3_3ozcmp,3830.0,ColumbiaMD
+332,"&gt; I doubt he'd win his own state right now.
+
+His poll numbers for MD are within the margin of error.",2015-10-14 14:10:47+00:00,cvze4bd,3.0,t1_cvzbw5k,4411.0,politics
+333,I loved how he bragged about lowering the arrest rate.,2015-10-14 13:58:55+00:00,cvzdq2j,3.0,t1_cvzd1au,1274.0,politics
+334,"&gt; /r/PHP is not a support subreddit. Please visit /r/phphelp for help, or connect to ##php on Freenode IRC (nickserv registration required)",2015-10-14 02:35:48+00:00,cvyyzyd,1.0,t3_3oltr1,35202.0,PHP
+335,[lstrojny/functional-php](https://github.com/lstrojny/functional-php),2015-10-14 02:34:38+00:00,cvyyy8l,1.0,t3_3on4pm,16857.0,PHP
+336,Thank you!,2015-10-14 01:01:09+00:00,cvyv4ba,1.0,t3_3om36k,25791.0,changelog
+337,"Mushrooms.  I always thought they'd be slimy and gross, but they're actually amazing.  My personal favorites are sauteed mushrooms on steak as well as stuffed mushrooms. Yum!",2015-10-13 15:50:11+00:00,cvy8d2x,1.0,t3_3oko0a,15986.0,AskReddit
+338,TIL this is not a bug,2015-10-10 13:12:55+00:00,cvuqk87,3.0,t1_cvu2q9g,61889.0,RocketLeague
+339,"&gt; People with guns can commit murder much, much more easily and much greater distance with much less effort.
+
+I don't disagree.
+
+&gt; This asinine play on words to try and somehow exculpate guns from any part in crime is just daft.
+
+It's equally daft to exculpate the criminal from the crime (as the parent commenter implied).",2015-10-09 15:45:59+00:00,cvtshde,4.0,t1_cvtl7c4,13746.0,news
+340,"That's exactly my point - people are murdered **with** guns **by** people, not **by** guns.",2015-10-09 15:34:17+00:00,cvts0g0,4.0,t1_cvtoap6,6054.0,news
+341,"Guns don't commit murder, people do.
+
+**Edit:** The last time I consulted a dictionary, ""murder"" was defined as:
+
+&gt; the unlawful premeditated killing of one human being by another
+
+A gun cannot premeditate the killing of a human, but somebody with a gun can.",2015-10-09 11:23:28+00:00,cvtkld0,2.0,t1_cvtkcgm,900.0,news
+342,I use Wunderlist for notes. I really wish MapMyRide supported navigation...,2015-10-08 14:19:40+00:00,cvshhmy,1.0,t3_3nyv2o,4120.0,moto360
+343,"I definitely plan on doing that for the first complaint - we've got more than enough proof for that.
+
+The second complaint is a different story - while they haven't (yet) informed us of the specific date/time for the alleged violation, both of us have been home every single night, so we don't have any way to prove it wasn't us.
+
+Hypothetically, let's say the complains keep rolling in despite all of our best efforts.  Is there anything proactive we can do to protect ourselves from ""further action"" or eviction besides trying to work things out with letters and meetings?",2015-10-06 01:53:24+00:00,cvpmped,2.0,t1_cvpknf9,3452.0,legaladvice
+344,"Good idea, I will start on that immediately.
+
+Now what if the complaints persist?  Is there anything I can/should do to protect myself?  (Besides video recording my apartment 24/7 which doesn't seem feasible or reasonable.)",2015-10-06 01:48:37+00:00,cvpmjdk,4.0,t1_cvpid1h,7164.0,legaladvice
+345,"I considered the sun and moon, but don't those push and pull with some kind of regularity?  If so, why wouldn't the atmosphere eventually reach some state which it too reaches some pattern of regularity?
+
+I also considered man's effect on the environment, but I can't imagine it would've been significant enough (a few centuries ago, that is - not so much today).",2015-10-06 01:46:46+00:00,cvpmh4d,2.0,t1_cvpl7t2,2122.0,askscience
+346,"The second letter was from the landlord.  The actual wording states:
+
+&gt; If continual disturbances occur, we may be required to take additional action up to, and including termination of your lease agreement.
+
+**Edit:** The first letter was also from the landlord, but it just suggested being more considerate - there was no mention of possible eviction.",2015-10-05 23:46:51+00:00,cvpia6y,2.0,t1_cvpi8jp,80.0,legaladvice
+347,"Just line with phones, the battery life is going to depend on your usage patterns, the apps you install, and how long the screen and radio are on.",2015-10-01 12:44:32+00:00,cvkey0a,1.0,t3_3n33sn,8983.0,moto360
+348,Anything is better than nothing.  A little more is better than just a little bit.,2015-09-30 18:45:22+00:00,cvjl8re,3.0,t1_cvjcme0,12298.0,AskReddit
+349,Thanks!,2015-09-27 22:38:20+00:00,cvga0xq,6.0,t1_cvg8pdb,2306.0,secretsanta
+350,Link please?,2015-09-27 21:53:48+00:00,cvg8hp0,4.0,t1_cvg6tgx,2756.0,secretsanta
+351,EVERYBODY CLAP YOUR HANDS,2015-09-27 21:51:42+00:00,cvg8f1d,1.0,t3_3mkxuw,25225.0,StartledCats
+352,"Apparently ArtsCow stores passwords **in plain text**.  I tried resetting mine and received this email: https://i.imgur.com/hT6Hbt1.png
+
+If you do take advantage of this offer, I'd strongly recommend using a brand-new, unused password exclusively for this site.",2015-09-13 14:17:31+00:00,cv00aul,1.0,t3_3kqhqs,44358.0,DealsReddit
+353,I'm pretty sure the USDA still regulates this.,2015-09-13 13:39:19+00:00,cuzze3i,4.0,t1_cuzo76i,37522.0,AskReddit
+354,Male Answer Syndrome,2015-09-13 13:11:22+00:00,cuzyt25,2.0,t1_cuzfc6m,52956.0,AskReddit
+355,https://jsfiddle.net/ahohu3Lj/2/embedded/result/,2015-09-11 20:29:38+00:00,cuyb9uv,2.0,t1_cuyb0q7,404.0,bestof
+356,(S)he is one good looking kitty!,2015-09-02 12:03:07+00:00,cuo1ge7,1.0,t3_3jbmkc,21554.0,cats
+357,Even if he does take those keys back I would still change the locks. Who knows if somebody else made a copy of them.,2015-09-01 12:14:26+00:00,cumxh5r,2.0,t1_cumi3ht,40759.0,legaladvice
+358,Don't we have enough of these already?,2015-08-26 17:38:34+00:00,cughd2i,1.0,t3_3ihngt,756.0,technology
+359,I like vanilla...,2015-08-23 11:13:08+00:00,cucpnhq,4.0,t1_cubz9ii,62444.0,Minecraft
+360,You monster!,2015-08-21 00:58:49+00:00,cua5lxd,1.0,t3_3hrb5y,18806.0,hockey
+361,"&gt; Processors are the of the PHPixie runtime
+
+I think you accidentally a word.",2015-08-19 15:08:37+00:00,cu8b3oh,3.0,t1_cu88hz4,4400.0,PHP
+362,"I'm using Ubuntu 12.04 and 14.04, but this poll won't let me select both options.",2015-08-17 12:58:51+00:00,cu5thhj,1.0,t3_3hb6ex,339.0,PHP
+363,"This is basically the book I've been writing for the past couple months... (http://leanpub.com/php7) While I'm happy there's an official guide, I'm personally kinda bummed about this.",2015-08-14 01:00:29+00:00,cu29lfe,1.0,t3_3guabr,46302.0,PHP
+364,"I misread the last name as ""Jimmy Carr"" and thought it was a fantastic idea.",2015-08-12 17:43:57+00:00,cu0lrga,1.0,t3_3gpm2q,22494.0,CrazyIdeas
+365,"One of my clients only has 8 SKUs in their Magento shop, and they've found it to be a perfect fit. Yes, Magento handles several thousand SKUs just fine, but that's definitely not a minimum.",2015-08-07 02:30:11+00:00,ctud741,1.0,t3_3g10mz,32217.0,Magento
+366,"`json_decode` supports emoji just fine: http://3v4l.org/MiPhh
+
+/u/professor_simmons is correct, something is probably wrong with your JSON.
+
+*Ninja edit:* Also see https://en.wikipedia.org/wiki/JSON#Data_portability_issues",2015-08-05 15:31:24+00:00,ctse1g9,3.0,t1_ctsbeo8,4182.0,PHP
+367,"Same thing happened to me moving from Rhode Island (401) to Maryland (410).  I'll usually give out my number like ""four zero ... (long pause) one"", which still only works about 50% of the time.",2015-07-27 00:13:42+00:00,cth7giq,3.0,t1_ctgr816,29061.0,AskReddit
+368,Thanks for putting this together!,2015-07-26 21:46:08+00:00,cth2jwk,1.0,t3_3eog8v,14055.0,tldr
+369,I moved from EC to Frederick a couple months ago for that exact reason.,2015-07-24 00:22:38+00:00,cte0ns0,3.0,t1_ctdu2y0,10997.0,ColumbiaMD
+370,I found this thread comparing the same bikes: https://www.reddit.com/r/whichbike/comments/398jj7/cannondale_quick_vs_specialized_sirrus_for_a_tour/,2015-07-18 22:05:56+00:00,ct82fqe,1.0,t3_3dricc,9459.0,whichbike
+371,"I also tried a Specialized Sirrus today and really liked it.  I'm new too, so I can't provide much advice except that it seems good to a novice like me.  I really like the handlebar design, it's really comfortable.  The only ""negative"" I saw was that the base model doesn't have locking handlebars (they slip a little if you twist them).  The Sport model does, but it's $80 more.  Trying weigh whether or not that's worth it.",2015-07-18 22:01:25+00:00,ct82av0,1.0,t3_3dricc,9188.0,whichbike
+372,"Apparently guns aren't the only thing they want to control - have you seen their sidebar rules?
+
+&gt; **Pro-gun arguments are allowed if and only if:**
+&gt;
+&gt; - Account is &gt; 1 month old.
+&gt; - Account has &gt; 5k karma.
+&gt; - You haven't commented in any other thread in the last 24 hours.
+&gt; - You haven't followed a link from another subreddit.
+
+",2015-07-18 21:41:58+00:00,ct81p6n,1.0,t3_3dr860,13149.0,progun
+373,Perfect - thanks!,2015-07-09 15:34:35+00:00,csxhmtm,2.0,t1_csxg7oq,2206.0,Ubuntu
+374,"Here are some links to help you find projects:
+
+- http://up-for-grabs.net/
+- http://www.codetriage.com/
+- http://www.lookingforpullrequests.com/project/
+- https://openhatch.org/search/
+- https://help.github.com/articles/where-can-i-find-open-source-projects-to-work-on/
+",2015-07-08 15:57:00+00:00,cswaj99,1.0,t3_3ck24c,3557.0,PHP
+375,Hodor,2015-07-07 19:30:14+00:00,csvbm92,10.0,t1_csvbkbl,74.0,gameofthrones
+376,Stick him with the pointy end!,2015-07-07 12:22:10+00:00,csuvvxj,3.0,t1_csugo8z,40883.0,pics
+377,"I found a couple links which explain the principle:
+
+- http://mocpa.com/inversion.html
+- http://www.acs.psu.edu/drussell/Demos/refract/refract.html
+
+Essentially the sound waves that are supposed to go straight up get refracted downwards/outwards, causing the sound to travel further than usual.",2015-06-28 14:37:01+00:00,cslf271,3.0,t1_csled52,1843.0,ColumbiaMD
+378,Cat.,2015-06-24 20:33:39+00:00,cshh1zd,2.0,t1_csha7hh,10093.0,CatsStandingUp

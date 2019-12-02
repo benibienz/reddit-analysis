@@ -1,0 +1,241 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-07-01 21:54:47+00:00,self.askscience,https://www.reddit.com/r/askscience/comments/4qu9bf/why_doesnt_a_match_strip_surface_ignitespark_when/,False,[removed],askscience,Why doesn't a match strip surface ignite/spark when I grind against it?,https://www.reddit.com/r/askscience/comments/4qu9bf/why_doesnt_a_match_strip_surface_ignitespark_when/
+1,2016-06-10 20:27:09+00:00,root-me.org,https://www.reddit.com/r/HowToHack/comments/4nia0z/best_website_for_practicing_and_learning_new/,False,,HowToHack,Best website for practicing and learning new exploitation techniques,https://www.root-me.org/?lang=en
+2,2016-06-04 18:27:04+00:00,self.FearTheWalkingDead,https://www.reddit.com/r/FearTheWalkingDead/comments/4mjjnn/does_anyone_else_feel_like_chris_could_have_been/,False,"Back in the boat episodes where he was the first to really be willing to kill things, I felt like he was going to become my favourite character. 
+
+I really hoped that after the blunder with failing to shoot the pregnant woman, he would become one of the cold, calculating members of the group. Someone who, facing danger, shoots first and asks questions later. Chris even seemed to bond with Daniel, who could've embraced his violent past and used his skills to the group's advantage.
+
+I'm really sad they ruined that opportunity by turning him against the group...",FearTheWalkingDead,Does anyone else feel like Chris could have been an awesome character?,https://www.reddit.com/r/FearTheWalkingDead/comments/4mjjnn/does_anyone_else_feel_like_chris_could_have_been/
+3,2016-05-30 09:46:34+00:00,self.askscience,https://www.reddit.com/r/askscience/comments/4lotq2/why_dont_airborne_objects_stabilize_and_take_on/,False,"When you've thrown a bottle and it's now flying sideways, shouldn't it try to fly the path of least resistance and correct its shape to fly head first? When imagining the forces affecting the bottle, then it would seem like the most aerodynamic position offers the path of least resistance. Kinda like a pendulum that always starts to move toward the bottom.",askscience,Why don't airborne objects stabilize and take on the most aerodynamic position?,https://www.reddit.com/r/askscience/comments/4lotq2/why_dont_airborne_objects_stabilize_and_take_on/
+4,2016-05-26 14:44:45+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4l5mvz/best_place_to_learn_realistic_web_exploitation/,False,"My goal is to become more proficient at being able to get shell on websites. I've already done DVWA and now I'm thinking it would be great to find vulnerabilities in realistic-looking websites (where I actually have to find the vulnerabilities). What would be the best place to do this?
+
+For example, realistic (but not too difficult for a non-professional) hackable VMs, CTFs, etc would be very appreciated. It would be a great help if walkthroughs are also available in case I get stuck.",HowToHack,Best place to learn realistic web exploitation?,https://www.reddit.com/r/HowToHack/comments/4l5mvz/best_place_to_learn_realistic_web_exploitation/
+5,2016-05-20 12:52:47+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4k83cb/directory_traversal_include_php_without_it/,False,"Someone once told me how you can use a trick to view PHP files when doing directory traversal. Usually, you wouldn't be able to. When the server's PHP application includes PHP files they just get executed on the server without the client seeing the code (as opposed to including normal text, which will get pasted to the HTML code for the client to see).
+
+The trick he used was that when having the vulnerable application include the file, he would tell it to encode it in base64. Since PHP doesn't see the base64 encoded code as valid code, it gets pasted to the browser, just like normal text would. After that you can decrypt the base64 and you're able to read the PHP code. I tested it and it works.
+
+The reason I'm asking help from you guys is I can't remember how it's done. I also can't for the life of me find how it's done on Google. If I remember correctly, the URL for it went something like this:
+
+    www.site.com/directorytraversal.php?file=filetype::base64:/path/to/file/somefile.php
+
+I'm somewhat sure it had the words ""filetype"" (or ""filestream"" or something) and ""base64"" in it, but Google turned up nothing. I'm pretty sure I got the syntax of the base64 encoding command wrong, but I hope this info is enough. 
+
+I can't believe I didn't write this trick down, it's so useful. If anyone knows how to do it, I would be so grateful.
+
+Tl;dr: Need help remembering how to tell PHP to include a file in base64 encoding. This is done from the URL bar.
+
+Edit: Not sure, but maybe this is relevant? https://secure.php.net/manual/en/wrappers.php
+
+On second thought, I think the trick used php:// in front of the filetype to get it done. Still can't find the correct syntax though
+
+Edit2: I think this is it: https://secure.php.net/manual/en/wrappers.data.php
+
+There you can see the option to convert to base64.",HowToHack,Directory traversal - include PHP without it getting executed on the server (allowing you to see it),https://www.reddit.com/r/HowToHack/comments/4k83cb/directory_traversal_include_php_without_it/
+6,2016-05-18 20:09:01+00:00,self.hacking,https://www.reddit.com/r/hacking/comments/4jynvm/any_good_hacking_podcasts_out_there/,False,"I'm sure many of you know of Hacked Podcast. For those who don't, I urge you to check it out. The content, while pretty basic and easy to understand, is still conveyed in an interesting fashion, so both novice and advanced hackers might enjoy it.
+
+The problem is, new episodes are churned out *so* slowly. The last release was I think 3 months ago. I need more.
+
+If you know any other listenable content which discusses interesting  hacking related topics, then please do share! ",hacking,Any good hacking podcasts out there?,https://www.reddit.com/r/hacking/comments/4jynvm/any_good_hacking_podcasts_out_there/
+7,2016-05-16 23:04:59+00:00,self.hacking,https://www.reddit.com/r/hacking/comments/4jnv7y/is_it_possible_to_pwn_people_by_having_them/,False,"So once upon a time, many years ago, I was playing some cracked Counter Strike 1.6. I connected to this polish server, it downloaded some resources and poof - from that point on my game overlay was changed to polish and a link to their webpage was added.
+
+That got me thinking - wouldn't it be really easy to pwn a bunch of boxes by hosting a malicious game server? Games often allow you to create your own resources that clients will automatically download - MP3s and map files, for example. If you were to find a flaw in the way the game loads these files, couldn't you get RCE on every client that connects to you? Has this been done before?",hacking,Is it possible to pwn people by having them connect to a malicious game server?,https://www.reddit.com/r/hacking/comments/4jnv7y/is_it_possible_to_pwn_people_by_having_them/
+8,2016-05-16 22:52:45+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4jntaj/where_to_find_password_dumps/,False,"HaveIBeenPwned says my email has appeared in 2 password dumps - MPGH and R2Games.
+
+However, searching for ""R2Games breach/dump/pastebin"" turns up nothing. Similarly, the only reference to the MPGH dump is a satoshibox downloadable which costs 5 bitcoins. 
+
+Is there any place where I can download these password dumps and take a look at my compromised password (that has since been changed)?",HowToHack,Where to find password dumps?,https://www.reddit.com/r/HowToHack/comments/4jntaj/where_to_find_password_dumps/
+9,2016-05-15 14:01:38+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4jg7cw/hydra_fails_to_identify_correct_password_help/,False,"I'm trying to bruteforce the web form of my website with Hydra. Problem is, it can't seem to identify the correct password. The login is user:pass. I did this:
+
+    hydra 192.168.8.103 http-form-post ""/login.php:username=^USER^&amp;password=^PASS^:Wrong login."" -l user -p pass -t 10
+
+Which returns ""1 of 1 target completed, 0 valid passwords found.""
+
+I then tried changing the postback message ""Wrong login"" to ""testing postback"". Sure enough, doing this:
+
+    hydra 192.168.8.103 http-form-post ""/login.php:username=^USER^&amp;password=^PASS^:testing postback"" -l user -p testing
+
+returns valid password found (because I changed the postback message to a nonexistant one, so any combination should return a valid password found message). However, when doing the same command with the correct combination, it still returns ""0 valid passwords found"".
+
+How is that even possible? Can anyone explain what the hell is going on?
+
+
+
+A bit more info about the website, since I'm guessing my programming is at fault. In my browser, this combination username=user&amp;password=pass logs in successfully. It redirects the browser by changing the header:
+
+    header('Location: /walledoff.php');
+
+The login form itself is pretty standard.
+
+Before I removed ""0"" from the password wordlist, I was getting a false positive, because putting user:0 as a login didn't generate a postback message. I think that's unrelated but I'm just mentioning it.
+
+**Tl;dr: Hydra is behaving oddly. It marks the correct login as an invalid one. I need some help figuring out what's going on.**",HowToHack,Hydra fails to identify correct password. Help?,https://www.reddit.com/r/HowToHack/comments/4jg7cw/hydra_fails_to_identify_correct_password_help/
+10,2016-05-15 12:31:39+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4jfwfb/how_many_threads_should_brute_forcing_tools_like/,False,"Brute forcing is made faster by using multiple threads. So when you want to crack an online login form, hash, etc, then 2 threads will be twice as fast as 1. Obviously it's not a good idea to run a million threads, though. 
+
+How to determine what the optimal number of threads is for brute forcing? I'm guessing the answer will be different for online and offline cracking.",HowToHack,How many threads should brute forcing tools (like THC Hydra) use?,https://www.reddit.com/r/HowToHack/comments/4jfwfb/how_many_threads_should_brute_forcing_tools_like/
+11,2016-05-08 09:19:46+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4idy2o/how_to_make_a_csrf_attack_more_unnoticeable/,False,"I managed to successfully exploit a CSRF vulnerability in a VM website. The way I did that was by making a HTML POST form that linked to myvmsite.com/change_password. 
+
+However, there was one problem - if the victim clicks the HTML form's ""submit"" button (or Javascript does it for them), then their browser will redirect them to vmsite.com/change_password, which will then tell them their password has been successfully changed. The attack is really obvious.
+
+Is there any way to make it so the victim doesn't immediately know he's being attacked? For example, I tried making the request in the background with AJAX, but I'm assuming the reason it didn't work was because of same-origin policy.
+
+",HowToHack,How to make a CSRF attack more unnoticeable?,https://www.reddit.com/r/HowToHack/comments/4idy2o/how_to_make_a_csrf_attack_more_unnoticeable/
+12,2016-05-04 12:13:30+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4hu6n0/examples_of_where_file_inclusion_vulnerabilities/,False,"I'm currently studying file inclusion vulnerabilities on [pentesterlab](https://pentesterlab.com/exercises/php_include_and_post_exploitation/) and DVWA. They're pretty great. 
+
+However, as someone who hasn't created very many websites, I can't think of a single case where I'd need to allow the user to give input for including something. So for example, instead of this common example:
+
+    www.mysite.com/fileinclusion.php?page=blah.php  
+
+I'd just make a link to blah.php like this:
+
+    www.mysite.com/blah.php
+
+In which situations do web devs need to/want to allow the user to give input for including a file? In other words, in what kinds of websites (blogs, forums, eShops) or situations are file inclusion vulnerabilities commonly found?
+
+Also, how are file inclusion vulnerabilities discovered? Can automated tools be used or does it have to be done automatically?",HowToHack,Examples of where file inclusion vulnerabilities can be found?,https://www.reddit.com/r/HowToHack/comments/4hu6n0/examples_of_where_file_inclusion_vulnerabilities/
+13,2016-05-01 08:59:24+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4h8djk/why_is_connecting_to_tor_through_a_vpn_insecure/,False,"In a talk, The Grugq said that Tor -&gt; VPN is safe, but VPN -&gt; TOR equals busted.
+
+Why does connecting to TOR over VPN get you busted while the other way around is safe?
+
+Moreover, can you help me visualize how making multiple encrypted connections at the same time looks like? So if I do VPN -&gt; TOR, is it sort of like tunneling (like HTTP being put inside SSL) or is it like having proxies (where first there's an encrypted connection from me to the VPN and then there's another encrypted connection from the VPN to TOR)?
+
+I guess my problem is I don't fully understand how encryption tunnels work. Either an explanation or pointing me to a good resource for learning would be greatly appreciated.",HowToHack,Why is connecting to TOR through a VPN insecure? Would like some help visualizing how using TOR in conjunction with a VPN looks like.,https://www.reddit.com/r/HowToHack/comments/4h8djk/why_is_connecting_to_tor_through_a_vpn_insecure/
+14,2016-04-29 08:42:16+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4gyj3v/how_to_modify_password_cracking_wordlists/,False,"I have a wordlist of really simple passwords (all lowercase, no numbers). I'd like to make the list a bit better by also adding uppercase variants of each word, adding numbers at the end, substituting characters with l33tspeak, etc.
+
+Is there a program that can easily do this for me on linux or do I need to script it myself? I'm currently not sure how I should go about this.
+
+I want to use it with THC Hydra btw.",HowToHack,How to modify password cracking wordlists?,https://www.reddit.com/r/HowToHack/comments/4gyj3v/how_to_modify_password_cracking_wordlists/
+15,2016-04-24 11:14:07+00:00,self.networking,https://www.reddit.com/r/networking/comments/4g7s8r/does_a_public_ip_address_point_to_a_specific/,False,"Sorry for the beginner question, but I found it difficult to find an answer to this on Google.
+
+I know that public IP addresses are converted to private addresses through port address translation. My question is at point does the PAT take place, e.g what does the public address point to.  
+Does your public IP address point directly to your router, from where the public address is converted into a private address?  
+Or does your public IP address point to an ISP's main router, where PAT is used to identify your router, where PAT is used a second time to identify which device the data is supposed to go to?",networking,Does a public IP address point to a specific router or an ISP's main router?,https://www.reddit.com/r/networking/comments/4g7s8r/does_a_public_ip_address_point_to_a_specific/
+16,2016-04-21 17:08:37+00:00,self.RSPS,https://www.reddit.com/r/RSPS/comments/4ftyoi/what_is_the_best_runescape_remake_out_there/,False,"I know there are a bunch of runescape remakes out there, but few of them are complete. What are the best vanilla runescape remakes? I'm basically looking for OSRS without having to pay for membership.
+
+Many thanks in advance! :)",RSPS,What is the best runescape remake out there?,https://www.reddit.com/r/RSPS/comments/4ftyoi/what_is_the_best_runescape_remake_out_there/
+17,2016-04-19 18:59:22+00:00,self.hacking,https://www.reddit.com/r/hacking/comments/4fj5k9/does_anyone_remember_the_name_of_this_great/,False,"Hi all!
+
+A few months ago, someone posted a link to a great new learning website either here or at /r/howtohack (I think it was over here though). It got over 100 karma, but I've forgotten the name and I've been unable to dig it back up (no luck with the search engines). I'm hoping you guys remember it, it was an awesome resource.
+
+The site had a good design, it was mainly meant for developers. It explained hacking concepts in really simple and understandable terms and used these two cartoonish figures to demonstrate - a green figure sipping a soda as the victim and a red waterdrop-like figure as the hacker. The site was free, though to see every explanation, you had to create an account (around 5 were available for anyone).
+
+I think some of you may already know which site I mean. I loved using it and I'd be really grateful if you guys could help me remember its name.",hacking,Does anyone remember the name of this great website?,https://www.reddit.com/r/hacking/comments/4fj5k9/does_anyone_remember_the_name_of_this_great/
+18,2016-04-14 07:07:53+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4eq0zr/what_can_be_accomplished_with_malicious_javascript/,False,"Could you give me examples about what can an attacker accomplish if he can get the victim to visit a site containing malicious javascript? For example, can he steal all the victim's cookies and gain acces to the victim's accounts? Phish login credentials? Gain RCE outside the browser somehow? Any other possibilities?",HowToHack,What can be accomplished with malicious javascript?,https://www.reddit.com/r/HowToHack/comments/4eq0zr/what_can_be_accomplished_with_malicious_javascript/
+19,2016-04-12 14:04:37+00:00,self.hacking,https://www.reddit.com/r/hacking/comments/4eg81k/how_do_blackhats_get_hold_of_their_stolen_money/,False,"I've always wondered how blackhats get a hold of the money they've stolen. All digital currency is traceable, after all.   
+I've heard of methods like mixing bitcoins and laundering money through shady Russian casinos. How effective are these methods? What other methods are out there?
+
+Why is it that I have never heard a hacker get busted for tax fraud/suspicious monetary activity? It seems to me like that would be one of the biggest pitfalls.
+
+",hacking,How do blackhats get hold of their stolen money?,https://www.reddit.com/r/hacking/comments/4eg81k/how_do_blackhats_get_hold_of_their_stolen_money/
+20,2016-04-11 08:32:47+00:00,self.hacking,https://www.reddit.com/r/hacking/comments/4e9v1x/how_to_research_how_an_individual_got_caught_what/,False,"Sometimes I'll read an article about a blackhat who got caught. Unless he did something stupid like tweeted his hack, the articles don't usually mention how the police found out his identity. Where do I have to look to find information about the forensics process? Is the information in the court documents? Where can I read them?
+
+Furthermore, what are the most common slip-ups that blackhats make? 
+
+Regarding the social media slip-up, does the police monitor social media or do people who come across them report it to the police?",hacking,How to research how an individual got caught? What are the most common ways hackers get caught,https://www.reddit.com/r/hacking/comments/4e9v1x/how_to_research_how_an_individual_got_caught_what/
+21,2016-04-04 10:03:19+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4dafo2/sqli_medium_difficulty_challenge_help_zixem/,False,[removed],HowToHack,SQLi medium difficulty challenge help? (zixem altervista lvl7),https://www.reddit.com/r/HowToHack/comments/4dafo2/sqli_medium_difficulty_challenge_help_zixem/
+22,2016-04-02 17:26:05+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4d2e72/need_help_with_sqli_challenge_zixem_altervista/,False,[removed],HowToHack,Need help with SQLi challenge (zixem altervista lvl 7),https://www.reddit.com/r/HowToHack/comments/4d2e72/need_help_with_sqli_challenge_zixem_altervista/
+23,2016-04-01 05:06:40+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4cu21e/most_common_ways_to_get_shell_on_a_webserver/,False,"As the title says, I want to learn about getting shell on websites. What are the most common ways to accomplish that?
+
+Also, besides getting shell, are there any other ways to gain read access to files on a webserver? I know about directory traversal vulnerabilities, but if I'm not mistaken, reading a PHP file (code) isn't possible with directory traversal.",HowToHack,Most common ways to get shell on a webserver?,https://www.reddit.com/r/HowToHack/comments/4cu21e/most_common_ways_to_get_shell_on_a_webserver/
+24,2016-03-18 17:48:14+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/4azei0/if_you_had_to_be_in_a_duel_what_weapon_would_you/,False,[removed],AskReddit,"If you had to be in a duel, what weapon would you choose for both you and your opponent to have?",https://www.reddit.com/r/AskReddit/comments/4azei0/if_you_had_to_be_in_a_duel_what_weapon_would_you/
+25,2016-02-28 20:46:17+00:00,self.linux4noobs,https://www.reddit.com/r/linux4noobs/comments/485ff4/where_are_the_functions_defined_by_stdlibh/,False,"I'm trying to find where the rand() function, initialized in stdlib.h, is located on my linux build of the C libraries. Stdlib.h is located in /usr/include, but there is no rand.c in the same folder. I'm a bit puzzled by this, since I can't figure out where the code for rand() might be located. 
+
+I did a grep search for ""rand"" in /usr/include, but nothing significant showed up ([output](http://pastebin.com/aQGuKEtr)). I looked in the following paths:
+
+     /usr/local/include
+     libdir/gcc/target/version/include
+     /usr/target/include
+     /usr/include
+
+only /usr/include had the library files. I'm not sure where else to look.
+
+    ",linux4noobs,"Where are the functions defined by stdlib.h located on a linux build? Looking for rand(), specifically.",https://www.reddit.com/r/linux4noobs/comments/485ff4/where_are_the_functions_defined_by_stdlibh/
+26,2016-02-28 11:30:04+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/481eyc/is_zts_mode_enabled_when_you_call_phps_rand_need/,False,"I've been trying to understand how php's rand() works, but I've been stuck on a problem for a few days now.
+
+When you call rand() in PHP, you go [here](https://github.com/php/php-src/blob/50482d66e024c5f4beb8dbe04cc88d99f313a8f3/ext/standard/rand.c#L289), which in turn will direct you to [php_rand](https://github.com/php/php-src/blob/50482d66e024c5f4beb8dbe04cc88d99f313a8f3/ext/standard/rand.c#L62). In php_rand, depending on if ZTS, HAVE_RAND, HAVE_LRAND48 or none of them is defined, you will go to different functions (php_rand_r(), random(), lrand48() or rand()). I have tried everything I can think of, but I just can't figure out which one of those functions is called under normal circumstances. I even tried downloading the code and doing a grep seach on ""define ZTS"", but all that got me was some configuration file, which I didn't know what to do with.
+
+
+Help would be very much appreciated!",learnprogramming,Is ZTS mode enabled when you call PHP's rand()? Need a lesson in understanding codebases.,https://www.reddit.com/r/learnprogramming/comments/481eyc/is_zts_mode_enabled_when_you_call_phps_rand_need/
+27,2016-02-28 10:33:17+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/4819vm/what_can_happen_to_someone_who_doesnt_update/,False,"Say you've got someone with windows 7 with no service packs. What kind of attacks does that open them up to? Can you remotely compromise them via a vulnerability, or do you still need them to execute a program, and the vulnerabilities will allow you to escalate privileges?",HowToHack,What can happen to someone who doesn't update Windows?,https://www.reddit.com/r/HowToHack/comments/4819vm/what_can_happen_to_someone_who_doesnt_update/
+28,2016-02-25 19:07:59+00:00,reddit.com,https://www.reddit.com/r/crypto/comments/47ko1q/link_how_cryptographically_secure_is_javascripts/,False,,crypto,"[Link] How cryptographically secure is Javascript's (V8 engine) new Math.Random, implementing Xorshift128? Who wants to be the first crack it? [X-post /r/learnprogramming]",https://www.reddit.com/r/learnprogramming/comments/47ki9f/how_cryptographically_secure_is_javascripts_v8/
+29,2016-02-25 18:46:00+00:00,reddit.com,https://www.reddit.com/r/algorithms/comments/47kk1j/link_how_cryptographically_secure_is_javascripts/,False,,algorithms,"[Link] How cryptographically secure is Javascript's (V8 engine) new Math.Random, implementing Xorshift128? Who wants to be the first crack it? [X-post /r/learnprogramming]",https://www.reddit.com/r/learnprogramming/comments/47ki9f/how_cryptographically_secure_is_javascripts_v8/
+30,2016-02-25 18:35:42+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/47ki9f/how_cryptographically_secure_is_javascripts_v8/,False,"[Math.random](https://github.com/v8/v8/blob/5683974925930bdc634c6b1c029a77faba1e1ae0/src/js/math.js#L69)'s generating algorithm starts [here](https://github.com/v8/v8/blob/2160429fd458e3c095475e718c97f77ac90d906f/src/runtime/runtime-maths.cc#L267), Xorshift128 is implemented [here](https://github.com/v8/v8/blob/8cd3cf297287e581a49e487067f5cbd991b27123/src/base/utils/random-number-generator.h#L102).
+
+The new algorithm is quite an interesting one. I won't try to explain it in words (lengthy and a bit complicated), you can check it out for yourself.
+
+How many outputs are needed to crack the state of the generator (64?)? How much bruteforcing is necessary for it? (state1 is xor'd with state0, so that's probably not good, right?)
+
+Searching Google, it seems no one has cracked this yet. I'm not the most skilled guy around, but I'm trying my best trying to crack it by myself. If anyone is interested by this, then I would be very interested in working together with you to be the first on the internet to crack V8's Math.Random!
+
+Edit: fixed link",learnprogramming,"How cryptographically secure is Javascript's (V8 engine) new Math.Random, implementing Xorshift128? Who wants to crack it?",https://www.reddit.com/r/learnprogramming/comments/47ki9f/how_cryptographically_secure_is_javascripts_v8/
+31,2016-02-25 17:38:35+00:00,self.AskNetsec,https://www.reddit.com/r/AskNetsec/comments/47k43i/how_to_guess_the_serverside_architecture_from_the/,False,"Based on  [this](https://jonasnick.github.io/blog/2015/07/08/exploiting-csgojackpots-weak-rng/) article, I was wondering how he was able to conclude the server was running node.js (by looking at the HTML), and how I could do the same.",AskNetsec,"How to guess the server-side architecture from the client side (using HTML, for example)?",https://www.reddit.com/r/AskNetsec/comments/47k43i/how_to_guess_the_serverside_architecture_from_the/
+32,2016-02-25 17:16:29+00:00,self.HowToHack,https://www.reddit.com/r/HowToHack/comments/47jy7l/is_it_posssible_to_guess_the_serverside/,False,"Based on  [this](https://jonasnick.github.io/blog/2015/07/08/exploiting-csgojackpots-weak-rng/) article, I was wondering how he was able to conclude the server was running node.js (by looking at the HTML), and how I could do the same.",HowToHack,Is it posssible to guess the server-side architecture on the client-side?,https://www.reddit.com/r/HowToHack/comments/47jy7l/is_it_posssible_to_guess_the_serverside/
+33,2016-02-23 14:14:54+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/476qy1/computer_slows_down_1_day_after_os_reinstall_what/,False,"I installed Windows 7. After downloading all the drivers and necessary updates it worked fine. However, about a day after that (after having installed something I needed) it slowed down enormously. TF2 went from okay to completely laggy. Chrome slowed down so much that it's basically unusable.
+
+Then I reinstalled the same OS. Sure enough, a day later the same thing happened - this time after I installed OSBuddy from the official website.
+
+On both occasions, I copied the backup of important files I have (stored on an external hard drive) to my desktop and installed TF2 using Steam backup. The second time, I disabled all incoming connections in the firewall before I installed every single security update. On both occasions, Google Chrome and Avast were the first programs I installed.
+
+I can't really pinpoint what is going wrong. Right now I'm suspecting either the OS or Steam backup contains malware, but I'm not sure (problems start to arise a day after they're installed). Maybe it could also just be some problem that's not related to malware?
+
+I should also note that Google Chrome seems to be
+ unusable mostly because connecting to websites takes ages. Maybe I'm part of a botnet?
+
+What should I do?
+
+***
+
+On both occasions I installed a  32 bit Windows 7 Home Basic [The reason I installed the 32 bit version is because the ISO was burned onto a usb on a 32 bit computer, and the WinUsb installer said ""formatting iso for 32bit system"" for some reason.
+
+Specs:
+AMD Athlon 64 3700+, 2.2Ghz  
+2GB RAM  
+GeForce 7800GT, 1GB memory
+
+",techsupport,Computer slows down ~1 day after OS reinstall. What could be the cause?,https://www.reddit.com/r/techsupport/comments/476qy1/computer_slows_down_1_day_after_os_reinstall_what/
+34,2016-02-21 17:30:42+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/46w8g3/javascript_what_does_the_percentage_sign_in_front/,False,"     randomNumbers = %GenerateRandomNumbers(randomNumbers);
+
+[Taken from the V8 Javascript engine](https://github.com/v8/v8/blob/264fa75e529562a6f5df97c5daf1867cd81c58d2/src/js/math.js)
+
+What does the percentage sign mean? There is no function with that name there, and I can't see any imports, either. Where does it find the function?
+
+",learnprogramming,[Javascript] What does the percentage sign in front of a function call mean?,https://www.reddit.com/r/learnprogramming/comments/46w8g3/javascript_what_does_the_percentage_sign_in_front/
+35,2016-02-21 14:04:43+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/46vd1v/how_does_a_dynamically_typed_languages_like/,False,"I'm trying to understand how some functions (like SpiderMonkey Javascript's Math.random) are implemented, and I couldn't find an answer to the following question:
+
+I'm wondering where can I find how each Javascript function maps to the engine's function? For example, when I call Math.random() in Javascript, then what actually gets called is math_random() in jsmath.cpp. Where is it written down that Math maps to jsmath.cpp and Math.random() maps to math_random in jsmap.cpp?
+
+Edit: Math.random outputs a value from 0 to 1, but I don't get it - when you look in math_random,  then it outputs a uint64 (long), which is bitshifted to 32 bits. How is this possible?
+
+http://pastebin.com/NKVzGWdR",learnprogramming,How does a dynamically typed language's (like Javascript's) functions map to the engine's functions (in C++)?,https://www.reddit.com/r/learnprogramming/comments/46vd1v/how_does_a_dynamically_typed_languages_like/
+36,2016-02-20 15:54:46+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/46qlxc/javascript_does_mathrandom_generate_new_seeds/,False,"I've been trying to understand the source code of Javascript's Math.random and I'm a bit confused. In Java, you have a Random object, which you will seed using setSeed. In javascript, you can just call Math.random() without initializing or seeding it. 
+
+When you make multiple calls to Math.random, does it use the previous seed, or does it generate a new seed every time? Based on what data is the first seed generated?
+
+Edit: based on [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random), it looks like it's only chosen initially?",learnprogramming,[Javascript] Does Math.Random generate new seeds every single time it's called?,https://www.reddit.com/r/learnprogramming/comments/46qlxc/javascript_does_mathrandom_generate_new_seeds/
+37,2016-02-18 20:19:56+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/46gqoh/where_to_find_documentation_source_code_of_a/,False,"I've been trying to understand how some libraries (like javascript's Math.Random) work recently, but I've found that the source code for this library (or most other libraries) isn't uploaded to the internet. Only the documentation is available, but that only says what the library does, not how exactly it does it. 
+
+Where can I find the implementation details (source code) of a programming language's official libraries? ",learnprogramming,Where to find documentation (source code) of a programming language's official libraries?,https://www.reddit.com/r/learnprogramming/comments/46gqoh/where_to_find_documentation_source_code_of_a/
+38,2016-02-18 17:30:27+00:00,reddit.com,https://www.reddit.com/r/algorithms/comments/46fvqy/link_how_to_crack_a_prng_when_the_output_is/,False,,algorithms,[Link] How to crack a PRNG when the output is Math.Round()ed? (Linear Congruential Generator) [/r/learnprogramming x-post],https://www.reddit.com/r/learnprogramming/comments/46fmii/how_to_crack_a_prng_when_the_output_is/
+39,2016-02-18 16:41:16+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/46fmii/how_to_crack_a_prng_when_the_output_is/,False,"The PRNG I'm trying to crack is a linear congruential generator. I can get however many outputs I want, but the only obstacle is that the output (range 0-1) is multiplied by 62 and rounded to get an integer (range 0-62). Obviously, this loses some data. However, since I have an infinite number of outputs at my disposal, I'm thinking it should be possible to logically/statistically determine what the correct state is.
+
+My first thought was to brute-force the state. I would go through each potential seed and see if it would produce the following x (maybe, 10?) correct outputs. I'd end up with a handful of potential candidates, which could be investigated further. However, I don't know how to estimate it, but I suspect brute forcing a 64 bit state would take a long time.
+
+What are my options? Is there any way to brute force quicker and more efficiently?
+
+Edit: replaced the word ""key"" for ""state""
+
+
+",learnprogramming,How to crack a PRNG when the output is Math.Round()ed? (Linear Congruential Generator),https://www.reddit.com/r/learnprogramming/comments/46fmii/how_to_crack_a_prng_when_the_output_is/
+40,2016-02-18 16:31:12+00:00,reddit.com,https://www.reddit.com/r/HowToHack/comments/46fkhv/how_to_crack_a_prng_when_the_output_is/,False,,HowToHack,How to crack a PRNG when the output is Math.Round()ed? (Linear Congruential Generator) [xpost /r/asknetsec],https://www.reddit.com/r/AskNetsec/comments/46es22/how_to_crack_a_prng_when_the_output_is/
+41,2016-02-18 13:43:05+00:00,self.AskNetsec,https://www.reddit.com/r/AskNetsec/comments/46es22/how_to_crack_a_prng_when_the_output_is/,False,"The PRNG I'm trying to crack is a linear congruential generator. I can get however many outputs I want, but the only obstacle is that the output (range 0-1) is multiplied by 62 and rounded to get an integer (range 0-62). Obviously, this loses some data. However, since I have an infinite number of outputs at my disposal, I'm thinking it should be possible to logically/statistically determine what the correct state is.
+
+My first thought was to brute-force the state. I would go through each potential seed and see if it would produce the following x (maybe, 10?) correct outputs. I'd end up with a handfull of potential candidates, which could be investigated further. However, I don't know how to estimate it, but I suspect brute forcing the 64 bit state would take a long time.
+
+What are my options? Is there any way to brute force quicker and more efficiently?
+
+
+
+",AskNetsec,How to crack a PRNG when the output is Math.Round()ed? (Linear Congruential Generator),https://www.reddit.com/r/AskNetsec/comments/46es22/how_to_crack_a_prng_when_the_output_is/
+42,2016-02-17 12:50:06+00:00,reddit.com,https://www.reddit.com/r/HowToHack/comments/468adb/if_you_had_the_chance_to_start_one_project_no/,False,,HowToHack,"If you had the chance to start one project, no matter how difficult, what would it be? : netsecstudents",https://www.reddit.com/r/netsecstudents/comments/467hx7/if_you_had_the_chance_to_start_one_project_no/
+43,2016-02-17 09:28:22+00:00,self.netsecstudents,https://www.reddit.com/r/netsecstudents/comments/467hx7/if_you_had_the_chance_to_start_one_project_no/,False,"I'm sure we all have projects we've been wanting to do for ages, that are a tad bit too difficult to undertake by just ourselves. What's something you'd like to work on, if you were knowledgeable enough?
+
+The reason I'm asking this is that learning netsec is a lot easier if you're working together with someone. If you see someone in this thread with mutual interests, don't be afraid to get in touch with the person. Maybe you can get the ball rolling together :)",netsecstudents,"If you had the chance to start one project, no matter how difficult, what would it be?",https://www.reddit.com/r/netsecstudents/comments/467hx7/if_you_had_the_chance_to_start_one_project_no/

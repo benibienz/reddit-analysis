@@ -1,0 +1,75 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-08-10 06:57:01+00:00,self.raspberry,https://www.reddit.com/r/raspberry/comments/4x0wf9/anyone_know_a_good_touchscreen_case_like_a/,False,"I have a modmypi case, and the display is upside down. You can flip the screen, using kernel parameters, but the viewing angle blows when its upside down. Its hard to find out if a case is upside down or not. Does anyone have a suggestion? thanks!",raspberry,Anyone know a good touchscreen case (like a photoframe) that is not upside down?,https://www.reddit.com/r/raspberry/comments/4x0wf9/anyone_know_a_good_touchscreen_case_like_a/
+1,2016-08-01 07:24:08+00:00,self.ultrawidemasterrace,https://www.reddit.com/r/ultrawidemasterrace/comments/4vlc1j/need_some_advice_for_purchasing_a_ultrawide/,False,"Hello there. I am currently in the market for a ultrawide monitor. Currently I have a BenQ XL2420G and a DELL 27"" (can not remember the exact model) which I want to replace with one screen. I run a Gefore 980Ti and I have some questions;
+
+2560x1440 vs 3440x1440
+
+- Is the ppi acceptable for 2560?
+- Is the screen resolution too 'fine' for normal desktop use? e.g. small chars
+- The 980Ti would drive the 2560 obviously better then 3440, isnt that a huge plus?
+- price would be cheaper?
+
+That said, once its clear which resolution is preferrable, what is the best quality of all those techs?
+
+- VA(?)
+- IPS/TN
+- LED/OLED
+
+What tech should I pursue? e.g. no 'bleeding' and/or the higest color quality.
+My BenQ has G-sync which is great, but the DELL has way better color quality.
+
+I am lost in choosing, thanks in advance for any tips and/or advice.
+",ultrawidemasterrace,Need some advice for purchasing a ultrawide monitor,https://www.reddit.com/r/ultrawidemasterrace/comments/4vlc1j/need_some_advice_for_purchasing_a_ultrawide/
+2,2016-05-23 09:21:28+00:00,self.3dsmax,https://www.reddit.com/r/3dsmax/comments/4kn4uu/a_little_beginners_help_on_importing_models_from/,False,"Hi all
+
+I am a beginner using 3Ds max, but I am loving it. I try to import free assets from www.tf3dm.com, but I get a grey model without any material. I have worked with materials and multitiles, but with this model I am clueless in how to fix it. Can someone point me in the right direction? What stuff do I connect in the mat. editor to get a working render?
+
+(model link: http://tf3dm.com/3d-model/audi-r8-14024.html)
+
+Thanks",3dsmax,A little beginners help on importing models from free sites. Getting all grey renders,https://www.reddit.com/r/3dsmax/comments/4kn4uu/a_little_beginners_help_on_importing_models_from/
+3,2016-05-21 07:54:23+00:00,self.unrealengine,https://www.reddit.com/r/unrealengine/comments/4kcnxg/exporting_from_3ds_max_2017_to_unreal_engine/,False,"Hi,
+
+I have been trying to get a workflow from Daz3D-&gt; Unreal. So far, I export in Daz3D using FBX and import into 3DS fist. This is mainly to either delete all the bones (because I plan to use the Maximo rigger) or to rename the duplicate bones. Then I want to export it to either Unreal, to use as the seketon, or to Mixamo fist, and create animations.
+
+The issue is that the eyes are white. Some other parts, like the lips, are also white, but these can be fixed by editing the created material (lips) and dragging the face texture into the editor, then linking it to the base color. This sometimes also goes for the arms.
+
+The eyes though are a different matter. I followed some guides and I managed ONCE to get it to work. I think I removed all reflection in Daz3D and fiddled with the materials, by dragging different materials into the eyes and Iris (and sometimes the Sclera).
+Then setting the blend top Translucent and hooking a constant of 0 or 0.1 to the opacity. The thing is, I cannot reproduce it.
+
+Does anyone have a workflow for Daz3D -&gt; UE that I can follow, using the latest versions and Genesis 3 in Daz.
+
+I am trying to create a VR demo and it would be nice to be able to use those characters.
+
+Thanks.",unrealengine,Exporting from 3DS MAX 2017 to Unreal Engine causes eyes to become totally white,https://www.reddit.com/r/unrealengine/comments/4kcnxg/exporting_from_3ds_max_2017_to_unreal_engine/
+4,2016-04-13 11:45:43+00:00,self.oculus,https://www.reddit.com/r/oculus/comments/4el63m/when_launching_a_game_in_steamvr_it_stays_you_are/,False,"The CV1 works with SteamVR, you can see the interface fine. With the XBOX controller's back button, you can bring up the interface. But when I select any of the games or apps, it complains saying ""This game supports native VR, but you are launching the desktop version"". This is when launching it from VR! wtf..",oculus,"When launching a game IN SteamVR, it stays ""You are running the desktop version""",https://www.reddit.com/r/oculus/comments/4el63m/when_launching_a_game_in_steamvr_it_stays_you_are/
+5,2016-04-13 06:42:43+00:00,self.oculus,https://www.reddit.com/r/oculus/comments/4ekeba/all_good_content_outside_of_oculus_home/,False,"Hey guys, really carefully I ask what the best/good content is outside of the Home store? Is there a list these days? Because looking for stuff on Google hits so many old stuff, because of the DK2 being out there for so long. I really mean only 1.3.0 CV1 stuff?",oculus,all good content outside of Oculus Home?,https://www.reddit.com/r/oculus/comments/4ekeba/all_good_content_outside_of_oculus_home/
+6,2016-04-12 16:21:09+00:00,self.oculusnsfw,https://www.reddit.com/r/oculusnsfw/comments/4egu6y/anyone_have_xstoryplayer_35_running_on_the_cv1/,False,"It should support it, but it does not work on my machine (Windows 8.1 installation) The game does detect the rift, but the display with the two 'eyes' is displayed on the monitor and the rift shows cross-eyed 2d..",oculusnsfw,Anyone have XStoryPlayer 3.5 running on the CV1?,https://www.reddit.com/r/oculusnsfw/comments/4egu6y/anyone_have_xstoryplayer_35_running_on_the_cv1/
+7,2016-04-09 18:05:44+00:00,self.oculus,https://www.reddit.com/r/oculus/comments/4e2alc/another_your_order_has_been_processed_mail/,True,"I was not sure about making a separate post on this, but since the shipping threads are no longer sticky, I guess some people might still find this usefull. My 26 order, 06:40 (mins/sec)(  in the Netherlands was processed by Oculus last night, at 00:38 09-04-2016. The payment was also charged (PayPal). I noticed this in the morning. So who knows..
+
+Edit: added mins/sec for clarity",oculus,Another 'Your order has been processed' mail.,https://www.reddit.com/r/oculus/comments/4e2alc/another_your_order_has_been_processed_mail/
+8,2016-03-30 19:46:34+00:00,self.oculus,https://www.reddit.com/r/oculus/comments/4cmgb4/did_anyone_from_eu_order_aroundbefore_800am_and/,True,,oculus,Did anyone from EU order around/before 8:00AM and have a confirmation yet? Or is it all US only?,https://www.reddit.com/r/oculus/comments/4cmgb4/did_anyone_from_eu_order_aroundbefore_800am_and/
+9,2016-02-12 09:53:27+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/45e1p9/it_has_begon/,False,,pcmasterrace,It has begon..,http://imgur.com/a/eaB0f
+10,2016-02-01 07:17:13+00:00,self.oculus,https://www.reddit.com/r/oculus/comments/43negv/will_the_rift_ship_from_deposits_located_in_the/,False,"I wonder, since, as I understand it, some of the import costs, not sure how to exactly name these, are included in the price, wouldn't this mean they will ship from the countries instead of the US? Or can they still take care of those costs, while shipping from the US? It makes more sense that they will make sure it gets into the country, pay those fees, and then ship it.
+
+As far as I know, there where no official statements done about this right? I imagine there is no big issue if someone official could confirm this. I think a lot of people like myself, are planning time off from work for this and it would be very nice to plan accordingly.",oculus,Will The Rift ship from deposits located in the 20 countries or all directly from the US?,https://www.reddit.com/r/oculus/comments/43negv/will_the_rift_ship_from_deposits_located_in_the/
+11,2016-01-03 10:06:11+00:00,self.buildapc,https://www.reddit.com/r/buildapc/comments/3z9ce0/build_help_vr_aimed_pc_advice/,False,"This PC is aimed at Virtual Reality (Oculus Rift)
+
+I run games 1080, on 144hz on the monitor
+
+I am aiming at 2000 euros for the case, all parts purchased in the Netherlands
+
+http://pcpartpicker.com/p/gxn4xr
+
+http://imgur.com/xSdSFru
+
+Additional I am looking at the Razer Deathstalker and Razer Naga Epic Chroma.
+
+Any suggestion about this build is welcome, appreciate all comments.
+
+edit: link to screenshot",buildapc,[Build Help] VR aimed PC advice,https://www.reddit.com/r/buildapc/comments/3z9ce0/build_help_vr_aimed_pc_advice/
+12,2015-11-02 09:53:28+00:00,self.Vive,https://www.reddit.com/r/Vive/comments/3r6zva/vive_preorder_outside_usgermanyuk_use_eg/,False,"Like many of us, I was certain I would attempt to order the Vive, once it was available for pre-order, even if it was not in my country. I now have to rethink this because for one, it will cost an additional 20% VAT. Even if I am willing to pay that, I would have to ship it to another address in the US, or use the UK. Then, from there it will be shipped to my country, the Netherlands. When this thing hits customs, this can take quite long before they clear it. So when they ship the 15th, it can take a couple of weeks before it actually arrives for 120% of the price. By the we are in January.. Does it still make sense to do this? Are more people in my situation? What do you guys think?",Vive,"Vive Pre-order, outside US/Germany/UK, use eg Borderlinx or wait?",https://www.reddit.com/r/Vive/comments/3r6zva/vive_preorder_outside_usgermanyuk_use_eg/
+13,2015-10-19 16:42:53+00:00,self.mixes,https://www.reddit.com/r/mixes/comments/3pdehb/slamfm_mix_marathon_2_october_around_1700/,False,Does anyone have this mix recorded? I can't find it for the live of me. Would be greatly appriciated.,mixes,SlamFM Mix Marathon 2 October around 17:00,https://www.reddit.com/r/mixes/comments/3pdehb/slamfm_mix_marathon_2_october_around_1700/
+14,2015-08-29 15:43:58+00:00,self.EliteDangerous,https://www.reddit.com/r/EliteDangerous/comments/3iurig/i_want_to_respec_my_cobra_can_i_rebuy_my_upgrades/,,"So I want to mine for a bit, but I collected all kinds of upgrades I found on different stations. Is it possible to respec for mining and then buy it all back after a few hours/days? Or should I get another Cobra?",EliteDangerous,"I want to respec my Cobra, can I rebuy my upgrades when I spec back?",https://www.reddit.com/r/EliteDangerous/comments/3iurig/i_want_to_respec_my_cobra_can_i_rebuy_my_upgrades/
+15,2015-07-24 06:16:26+00:00,self.oculus,https://www.reddit.com/r/oculus/comments/3ef0h6/from_virtual_real_porn_different_versions_gearvr/,,"I am not sure if its me, meaning my lenses, settings or just really me, but it seems that all the content for the GearVR, is much more realistic, or more 3D then the, often bigger, Oculus rift versions. VRP supplies several links for you to download, and I tried them, but in my experience, the GearVR stuff is REALLY 3D, and the other stuff is just 'nice'. How can this be?
+
+I am comparing the content, the movies, not devices, I run the content on the Oculus Rift",oculus,"from Virtual Real Porn different versions, GearVR is the most realistic 3d? (using Oculus Rift)",http://www.reddit.com/r/oculus/comments/3ef0h6/from_virtual_real_porn_different_versions_gearvr/

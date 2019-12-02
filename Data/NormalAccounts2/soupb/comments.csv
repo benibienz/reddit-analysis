@@ -1,0 +1,66 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"I work for this organization called All Hands Volunteers. All Hands runs disaster relief projects all over the world, and are currently setting up a project in Haiti.
+
+Apply to volunteer with us here! https://www.hands.org/projects/hurricane-matthew-response/",2016-10-12 23:04:39+00:00,d8phuww,1,t3_56w7rn,156049,haiti
+1,666,2016-04-26 18:16:07+00:00,d2i8fx6,1,t3_4g9qxu,166337,CVEWatch
+2,Thanks for the feedback. I'll fix it.,2016-01-15 19:37:47+00:00,cyzjvb9,2,t1_cyzdc5k,9055,CVEWatch
+3,"http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151209-pca
+
+I think the hash may be listed there, not sure?",2016-01-13 06:23:45+00:00,cywd04a,2,t1_cyw0q1y,20987,CVEWatch
+4,"I've definitely seen this on reddit before.
+
+Many times, actually:
+
+https://www.reddit.com/r/tifu/comments/29nup7/tifu_by_broadcasting_porn_over_my_bluetooth/
+
+https://www.reddit.com/r/tifu/comments/337nnv/tifu_by_showing_family_my_porn/
+
+https://www.reddit.com/r/tifu/comments/3c4rdl/tifu_by_chromecasting_hardcore_porn/
+
+https://www.reddit.com/r/tifu/comments/2qge76/tifu_by_leaving_the_gaming_chair_i_received_for/",2015-12-15 18:02:47+00:00,cxzz0ia,1,t3_3wxual,14454,funny
+5,"https://key.me/
+
+Just found this service near me. A kiosk in 711 that scans your key and sends you a new one in the mail in 4 business days.
+
+They even boast supporting 70% of all car keys with chips in them. I think it's pretty cool.
+
+Here is a map of all key.me kiosks in the USA: https://key.me/kiosk",2015-10-15 01:00:05+00:00,cw04jcm,1,t3_3oqjlz,32424,LifeProTips
+6,Where's the Long D flair for /r/fishcenter?,2015-10-14 15:39:27+00:00,cvzhgij,1,t3_3o5bje,412144,fishcenter
+7,"It looks great! It's a beautiful website and the projects you are showcasing seem to demonstrate a healthy grasp on important webdev concepts.
+
+The only piece of feedback I have is regarding the carousel for your first project, Oshu. It looks like you are meaning to showcase more screenshots of the project, but as I use the arrows to scroll through, there is only one picture. It's a nice carousel, you just need to populate it!
+
+Good luck, Stephanie!",2015-10-14 15:37:58+00:00,cvzheck,1,t3_3oqamb,2401,webdev
+8,"Yeah, and lately they've been airing the daily Fish Center broadcasts at 4am EST nationally on Adult Swim.
+
+It's the easiest way in the world to get on TV - just call in during their daytime show and you might be on the Adult Swim airing at night!",2015-10-14 15:28:29+00:00,cvzh0ph,3,t1_cvzecdq,4265,videos
+9,"I'd be interested in hearing about this, too!
+
+They have been pushing it at a bunch of hackathons recently, and I've been meaning to check it out.",2015-10-05 00:22:08+00:00,cvoe4u1,1,t3_3niaft,4185,webdev
+10,"http://codecanyon.net/item/jaguar-lucasarts-adventure-game-engine/8753130
+
+Check this out, the Jaguar LucasArts Adventure Game Engine for Web. Maybe this can hep you streamline the game development? It's an engine made for custom Monkey Island-type point and click adventure games in the browser.
+
+Either way, don't give up! There are tons of people willing to help.",2015-10-03 16:46:37+00:00,cvmv0va,1,t3_3nc5k3,14953,webdev
+11,"Before I reply, here's my background: I jusy graduated a Ruby on Rails in-person bootcamp. 19 weeks, $14k. I learned a lot, and I am now applying as a Jr. Web Developer in the Bay Area. The learning of the curriculum took a lot out of me, but that was the easy part. Now I am battling learning new frameworks/languages with applying to tons of jobs, and getting 1-3 rejection emails a day. Opportunities are out there, though - I have a react.js/meteor.js interview coming up. I know I'll get something, but in the meantime, it's a grind.
+
+If you are really sincere and adamant about learning this, then you are going to have to work really, really hard. Make sure to put in at least a few hours a day, absorb yourself in it. Talk to other developers and other people going through the same thing you are. Acclimate yourself with the industry not just technically, but culturally. That was a huge benefit to my experience with the in-house bootcamp, pair programming, brainstorming ideas, practicing agile development. Just being around other people also absorbed in the work leaves you with a deeper understanding. So, even before you start, eye out some meetup.com groups and go talk to them. Be completely honest, be yourself, and see what you can learn. You gotta be hungry for this.
+
+As for what you should be learning, go ahead and do some Javascript. As a brand new beginner, familiarizing yourself with the syntax and the work flow, just having the language 'click' in your brain, is a huge part. So, get started early. Do codewars.com or codeacademy.. just start actually doing it.
+
+As for reading vs doing, side with doing. Nothing cements it in like building something, it breaks, and then you fix it. Google your errors messages, read documentation, ask questions on stackoverflow.
+
+This is going to be challenging,  but stay determined and hungry and work, work, work, and it'll all be worth it.",2015-08-27 02:27:52+00:00,cuh1687,1,t3_3iiwes,13942,webdev
+12,I can get this AMA fulfilled(he's a friend of mine),2015-07-11 17:13:54+00:00,csztxb5,2,t1_cszghd8,43050,SFGiants
+13,"First hand account here: This guy is one of my close friends.
+
+He has been wanting to do this for a long time, so it was pretty well planned out. As soon as he heard the roar of the crowd, he knew it was coming, so he handed his stuff off (wallet, keys, etc.) to another guy, who you can see in the grey sweatshirt running around before he dives off. Nothing was hurt, his stuff was fine.
+
+I can probably get him to do an AMA if you all want.",2015-07-11 16:37:00+00:00,cszsut9,1,t3_3cvvzh,40335,baseball
+14,"Hey! Great question.
+
+CVE stands for Common Vulnerabilities and Exposures. CVE is a way of cataloging these vulnerabilities in a way that makes it easier to understand for both users and various tools.
+
+More information can be found here: https://cve.mitre.org/about/faqs.html
+
+Thanks for your interest!",2015-07-02 01:03:58+00:00,cspd98a,2,t1_cspd507,216,Malware

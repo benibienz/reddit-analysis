@@ -1,0 +1,1213 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Just realised it is not entirely clear that this is not my work - this is a screenshot from bej's new map, bej_black, and MAD_JIHAD made this bit of art for it. Was talking to him in Discord justbefore I posted as he said 'I made it in like 10 minutes' :P",2016-11-20 18:56:00+00:00,da8fxm5,1.0,t3_5dynji,10059.0,reflex
+1,"Nice work mate, thanks for doing this",2016-11-20 14:09:19+00:00,da85kjf,1.0,t3_5du8k1,65155.0,reflex
+2,Freehand?,2016-11-20 12:46:42+00:00,da83t70,2.0,t1_da7tzbd,29355.0,reflex
+3,"With Qualx's widget that I linked in another comment in this thread, I have:
+
+bind game m ui_togglewidget_names movementkeys
+
+One less key! I still do a similar thing for m_enabled and cl_show_gun etc. Not sure if there is a way to do a toggle for those commands.",2016-11-18 20:12:41+00:00,da63omb,2.0,t1_da5rse6,14868.0,reflex
+4,Hardly!,2016-11-18 12:17:41+00:00,da5js1m,5.0,t1_da5jlaz,521.0,reflex
+5,"I use Qualx's script:
+http://forums.reflexarena.com/index.php?/topic/3862-togglewidget-widget-for-toggling-widgets/#comment-30560",2016-11-18 10:57:08+00:00,da5i8yb,1.0,t3_5dlm2h,4365.0,reflex
+6,"Slobo linked KovaaK's tutorial series which I cannot recommend enough, it helped me a lot. Also look for entik's movement overview video. Getting comfortable with the movement aspect of the game helps a lot.
+
+I've left over comments in this thread in reply to others', but try the warmup and handicap mutators. Learning the maps is a big, big part of the game, whatever game mode you're in. You're first priorities are to get a weapon and armour. With warmup mutator on you don't have to worry about that. (Hit the escape menu in game to vote for mutators).
+
+Join everyone on Discord (link in this subreddit on the side panel) and ask for help or for players to help get a game going. I'm always up for FFA/1v1 and I play most evenings.
+
+The genre/this game has a lot of depth so there's a lot to learn, but you should be able to have fun whilst learning!",2016-11-18 10:54:45+00:00,da5i7f9,1.0,t3_5diz9x,42845.0,reflex
+7,"I focused on movement quite a bit at the start and I definitely think it paid off for me. I'm not fast like the race guys but I can get around most maps reasonably quickly and it definitely gives you an edge. Not to mention being able to do the various trickjumps on some maps help a lot.
+
+Try a map called parkourstation to practise /u/zeke1324 - it is on my servers, if you enter the command 'connect reflex.laerad.net:25791' in the console and then 'callvote map parkourstation' (the map isn't on Steam Workshop), you can run around on that and train in the different rooms.
+
+Feel free to add me on Steam if you want some help: http://steamcommunity.com/id/fractaljaguar - a little tuition goes a long way at this stage!",2016-11-18 10:49:22+00:00,da5i41j,2.0,t1_da52vex,32573.0,reflex
+8,"For a new player the arena mutator means they will probably be one of the first players to get fragged and then they'll be spectating for the rest of the round. Means they won't get much playtime so I don't think this is a good idea. You're right about not worrying about item pickups though, and as such I'd highly recommend playing with the warmup mutator (weapons and armour on spawn), and perhaps the handicap mutator too.",2016-11-18 10:46:40+00:00,da5i2dz,2.0,t1_da53n7l,31291.0,reflex
+9,It is 400ms :),2016-11-18 10:43:31+00:00,da5i0j8,3.0,t1_da5dqnz,13754.0,reflex
+10,Coincidence :),2016-11-13 19:50:10+00:00,d9ysinj,2.0,t1_d9wmcpz,154135.0,reflex
+11,This warms my robot heart :D,2016-11-10 14:42:50+00:00,d9ucioo,1.0,t3_5c8455,458.0,reflex
+12,"For sure, good games :D",2016-11-08 12:14:03+00:00,d9qya69,2.0,t1_d9qxz2z,832.0,reflex
+13,"Check the forum post/announcement for 47.2, entik answered my question with a video. Basically means if you are going fast enough and you clip a corner, you'll retain speed and keep going. slobo also released a video on a race map that shows it.",2016-11-08 11:42:55+00:00,d9qxm25,2.0,t1_d9qxdjd,704.0,reflex
+14,"I'd really like to do that, yeah. Better yet, get both players involved. Could play it back from both players perspectives and do another segment at the end to switch back and forth. Or something!",2016-11-04 15:15:36+00:00,d9lk85b,2.0,t1_d9lh4s2,4080.0,reflex
+15,You're welcome! Maybe you installed KovaaK's compilation HUD? His speedometer is a part of that.,2016-11-01 00:50:52+00:00,d9g796w,3.0,t1_d9fy72k,12429.0,reflex
+16,Thanks! :D,2016-10-31 17:32:16+00:00,d9fm6wu,3.0,t1_d9flx4d,304.0,reflex
+17,"The default player speed widget was always just the number display in ups - the widget with the green bar, with different shades of green for 0-500,500-1000, 1000-1500 etc, is made by KovaaK:
+
+http://forums.reflexarena.com/index.php?/topic/2593-speedometer-inspired-by-ezquake/
+
+",2016-10-31 17:17:50+00:00,d9flf06,1.0,t3_5acu2o,6925.0,reflex
+18,I do love me some ffa :D,2016-10-25 19:59:12+00:00,d97hitu,2.0,t1_d96zpt9,22587.0,reflex
+19,"Just came here to post this, in case you hadn't! Fantastic video mate, showcasing Reflex at glorious speed :D
+
+So smoooooooooooooth!
+
+What's the music called?",2016-10-20 20:24:57+00:00,d90t7o2,1.0,t3_58ifmo,7586.0,reflex
+20,"Just tried again, got it - thanks for doing that :)",2016-10-19 22:10:14+00:00,d8zenmo,9.0,t1_d8y2ji4,77928.0,FractalPorn
+21,Thanks! Currently gives me error 500 (internal server error). So I'll wait a bit.,2016-10-19 00:30:16+00:00,d8y2ho0,7.0,t1_d8y1v3t,847.0,FractalPorn
+22,"My perspective is that HDD space is ridiculously cheap, JPEG is designed for photos, and fractals kind of by definition have very fine detail - so not keeping the original just seems crazy to me!",2016-10-19 00:04:16+00:00,d8y1cht,5.0,t1_d8y12wa,381.0,FractalPorn
+23,"How small is your HDD?! :P
+
+Beautiful render!",2016-10-18 23:25:34+00:00,d8xzo80,3.0,t1_d8xvmy8,5294.0,FractalPorn
+24,".pak files are just .zip files, so any kind of archive program - I use 7zip, for Windows - winzip/winrar, etc",2016-10-18 22:38:38+00:00,d8xxjwl,3.0,t1_d8xvqfw,2357.0,reflex
+25,Well you should play some FFA with me then ;),2016-10-14 21:13:30+00:00,d8sav5x,2.0,t1_d8s8i6b,3136.0,reflex
+26,"Just after I wrote that comment I checked Discord and people were talking about it there - apparently r_occlusion 1 uses the CPU to calculate what doesn't need to be rendered (i.e. if it is occluded by a wall). So if you have the CPU power spare, it should increase your fps.",2016-10-12 13:10:04+00:00,d8opju2,5.0,t1_d8opfwd,192.0,reflex
+27,What do those two commands do?,2016-10-12 10:09:34+00:00,d8ol7mk,3.0,t1_d8oavi3,25271.0,reflex
+28,"Yes, maybe. Either that or this place simply isn't being moderated at all! /r/fractalporn seems like a cool place though :)",2016-10-05 12:45:25+00:00,d8ex77p,,t1_d8ermqe,16867.0,fractals
+29,"Without pausing it just becomes casting. If I have time I'll try and do a post-cast of the demo and then do a demo review when I pause. Maybe in that order in the same video, actually, that might work well.
+
+I haven't really got the time or inclination to edit clips etc together after a cast, but that would be cool!",2016-10-05 12:44:49+00:00,d8ex6ji,2.0,t1_d8esyi2,11945.0,reflex
+30,"I shall try a bunch of peripherals then! I'll keep you updated, and I really appreciate the help!",2016-10-03 15:35:47+00:00,d8c7lhj,,t1_d8c6psd,1180.0,raspberry_pi
+31,So it must be an issue with the power supply? Both power supplies?,2016-10-03 15:11:52+00:00,d8c6j0d,,t1_d8c673y,463.0,raspberry_pi
+32,Sounds about right!,2016-10-03 14:41:27+00:00,d8c5889,6.0,t1_d8c2fdr,4379.0,MMA
+33,"A USB mouse, USB keyboard, and HDMI to a monitor. The coloured square image; is that a general error screen or does it refer to something specific. I was under the impression it pointed to low power, but I guess not? I'll post another photo shortly.",2016-10-03 14:33:54+00:00,d8c4wtf,,t1_d8c3x1f,1471.0,raspberry_pi
+34,"Hello again. Just tested it with a new SD card (i'm trying musicbox as the OS). Still no worky! Tried the other non official power supply too (rated as 5V @ 2.5A).
+
+http://imgur.com/a/qLjpF two photos off the official power supply that I got from Amazon.
+
+Very confused :(",2016-10-03 12:34:23+00:00,d8c0s1k,,t1_d89iz8a,169739.0,raspberry_pi
+35,"Try posting to the forums and discuss it in the #support channel on the official Reflex Discord server - https://discord.gg/dUw9jKA
+
+It looks like a driver issue to me. Try rolling back the driver? Is the monitor configured correctly? There might be a setting in the menu of the monitor that is affecting the refresh rate. Just to clarify, you have no issue at 60Hz? But when you put refresh rate up to 144, you get those red pixels? Try other refresh rates like 75/90/120?
+
+Definitely post on forums, they are more active than this subreddit. The devs hang out in Discord too, they might notice. If you really get to the end of your tether you could pm/ping one of the devs but make sure you exhaust all other forms of troubleshooting before bothering them. Obviously, they are busy ;)
+
+Happy to help if I can, message me or whatever.",2016-10-02 13:32:12+00:00,d8aqd0q,1.0,t3_55e7dv,72126.0,reflex
+36,The perils of being predictable,2016-10-02 10:11:48+00:00,d8amjvf,1.0,t3_55fufe,37598.0,MMA
+37,"I'll follow up on this on Monday when I'm back in my shop, and I can tell you when I sent that email etc. Thanks :)",2016-10-01 22:33:55+00:00,d8a32ma,,t1_d89iz8a,32911.0,raspberry_pi
+38,"Yes, I think I did. I'll double check though. Seems like it might be the SD card!",2016-09-30 23:49:44+00:00,d88zcx2,2.0,t1_d88c43g,32672.0,raspberry_pi
+39,"Pretty damn sure, it certainly said 'official' when i ordered it, from amazon i believe. On the topic, I actually ordered my raspberry pi from Pimoroni and I never got a response from you guys regarding my enquiries after purchase! Just FYI!
+
+It hadn't occured to me that the SD card might be damaged or corrupt. I thought that the multi coloured gradient square signified insufficient power and nothing else",2016-09-30 23:49:18+00:00,d88zceg,2.0,t1_d88dmsc,30557.0,raspberry_pi
+40,"Agreed. I think this would be better done as an 'ask us anything' if there will be a panel of people doing the talking/heading the discussion. There is racism anywhere, not just in science, and sure we should talk about it but I'm not sure this is the place for it? But hey ho, it doesn't really matter I guess. It could be interesting.",2016-09-29 07:48:39+00:00,d86ng2o,2.0,t1_d86ksau,7832.0,science
+41,Me too,2016-09-29 07:35:36+00:00,d86n7pv,4.0,t1_d86mf1w,2531.0,science
+42,Very true... I'm not sure what your point is though?,2016-09-29 07:35:24+00:00,d86n7l6,3.0,t1_d86m965,3013.0,science
+43,"Dude! This is super cool. I tweet it shortly. I played this map a few nights ago on an FFA server, and I really really liked it. It looks cool too! Did you make the map?",2016-09-29 07:32:28+00:00,d86n5o9,1.0,t3_54y0pf,44759.0,reflex
+44,Could we not just talk about science instead,2016-09-29 05:56:47+00:00,d86l7qu,1.0,t3_54zkvi,19702.0,science
+45,Wut? Who? I'm clueless!,2016-09-29 04:58:07+00:00,d86js05,2.0,t1_d85vsm5,35707.0,reflex
+46,"Both ;)
+
+MMA might well be more appealing to 'casuals' if they see it as a credible sport and not just a money grabbing business. It'll probably never change due to the virtue of the promoter controlling the matchups, but regarding McGregor vs Alvarez.. i just think it is terrible. I feel for Aldo. It wouldn't be so frustrating if it weren't for bloody Dana White and his lies!!
+
+More than anything, I want MMA to grow as a sport and become more mainstream. So I certainly take your point. I just don't firmly agree that you get long term gain for the sport by constantly focusing on short term gain for the business. And that is what is tricky to predict or analyse.
+
+Decades from now I think MMA could replace boxing as the main combat sport; the one that everyone is aware of outside of Asia, basically, where Muay Thai, kungfu, etc are of course very well known. But even in Asia/Indonesia, boxing is well known. Pacquiao would be a prime example of a popular fighter there.
+
+Imagine MMA in the Olympics? Imagine seeing MMA results on the back of the newspaper instead of tucked in pages behind, if indeed the  event is reported as well.
+
+Ah well. I'll just live my life and see where it goes ;)",2016-09-29 04:57:50+00:00,d86jrpe,4.0,t1_d861jo2,28744.0,MMA
+47,"I agree, I don't like all of the UFC's practises and decisions but credit to them, they've done an amazing job bringing MMA to where it is now. I guess I was thinking more like football/soccer leagues. UFC is the top league at the moment, it'd be nice to have feeder leagues that are run as professional as the UFC. As i understand it, amateur and 'low pro' MMA is often very risky for fighters; poor organisation, no healthcare, etc.",2016-09-29 04:51:53+00:00,d86jlx2,6.0,t1_d864y9z,23706.0,MMA
+48,"I wasn't 'calling on the UFC to do the right thing'. I was just trying to start a discussion about the topic. I don't think I'm being morally righteous. I really don't see what you're getting yourself worked up over!
+
+In particularly i'm just talking about situation we're in at the moment whereby the featherweight champ isn't defending his belt and instead took a fight for lightweight belt, lost the replacement for that fight, then had a grudge rematch which he won, and now's he's back to fight the new lightweight champ. Gotta get dat belt! I'm not saying it is wrong, or right, i'm just getting a discussion going. Because it is interesting to me.",2016-09-28 14:50:56+00:00,d85jbkw,4.0,t1_d85j1p3,353.0,MMA
+49,"Some healthy competition would be great! Maybe Bellator will start to get more attraction, particularly now they've got MacDonald.",2016-09-28 14:43:40+00:00,d85izgd,4.0,t1_d85hizk,1959.0,MMA
+50,"Exactly. Aldo was kicking ass for ten years and being a general unsung hero beore McG came along, got right under Aldo's skin, and pissed him enough that he actually made him come out swinging and exploited it. Credit to McG, it was pretty fucking amazing :D But with that kind of track record, you deserve a rematch (as countless others have received). particularly so when he accepted it, fought Edgar, and proved himself. That fight was a bit of a masterclass.
+
+Nobody has the stats on 'what the fans want'.",2016-09-28 14:12:17+00:00,d85hkxa,3.0,t1_d85b0ph,13666.0,MMA
+51,"Lol, now you say it, yes it is like achievement hunting isn't it!",2016-09-28 14:08:00+00:00,d85hegk,3.0,t1_d85ahrv,15321.0,MMA
+52,It sure is :),2016-09-28 14:07:01+00:00,d85hczk,2.0,t1_d85a8ip,16236.0,MMA
+53,"Cheap marketing tactics indeed. There's never really a single right thing, in this kind of situation, is there. Clearly I'm being far too idealistic ;) But sometimes I think this might be  short term gain vs long term gain thing.",2016-09-28 14:06:34+00:00,d85hcbp,2.0,t1_d85aex0,15532.0,MMA
+54,"That makes me wonder too. They were definitely trying to put the UFC in the spotlight in order to get a good price. Integrity, as you say.
+
+I just think it is bloody ridiculous to have a champion who doesn't defend their belt whilst fighting /three/ other fights. It is one thing for a champion to not defend their belt for a year due to injury or similar, but this is just such blatant 'we really want this guy to get two belts so we can market the shit out of him, so we're gonna just keep feeding him the opportunities..' ... urgh!",2016-09-28 14:04:17+00:00,d85h8yn,2.0,t1_d85aqcg,14227.0,MMA
+55,Duh! Silly me :D,2016-09-28 13:58:56+00:00,d85h128,2.0,t1_d85a0w3,16557.0,MMA
+56,"It's a fine line between making sure your business grows and makes a healthy profit, and damaging credibility, I think. Dana White and his lies doesn't help.. It is interesting beacuse it is a unique situation where, basically, one company controls an entire sport. Over simplification of course, but I'm sure you get me.",2016-09-28 13:58:45+00:00,d85h0r9,2.0,t1_d85a25f,16412.0,MMA
+57,"I can see what you're saying there. T'is a shame, Aldo was/is one of the greats. I think he was cautious against Edgar because it was his lack of caution (and emotion), in my opinion, that got himself knocked out by Conor's left hand. He wanted to stick to a gameplan, as practise. Maybe?
+
+T'is a crazy sport!",2016-09-28 13:57:14+00:00,d85gyjr,2.0,t1_d85a3wu,16133.0,MMA
+58,"Alright mate, calm down :P Yes, the 205 card is fucking amazing, I can't wait. But that isn't exactly my point. I don't want to watch boxing, I want to watch MMA. As a sport, I find MMA more interesting. And I want MMA to become bigger and better, and sometimes I wonder if the UFC holds it back in this way. But it is what it is, at the end of the day, I guess. It's just business.",2016-09-28 13:55:55+00:00,d85gwmr,2.0,t1_d85a5fn,15895.0,MMA
+59,"I have no idea what popular opinion is on /r/mma, I'm here for the links more than anything else. I just really like MMA as a sport, and I train in it, and I find it interesting how one company basically controls 90% of the sport. As others have pointed out in this thread, that has been good in some ways and bad in others.
+
+I'm certainly not patting myself on the back...
+
+In other sports if two entities/teams/whatever rise up and start beating everyone else, then inevitably they will be pitched against each other. But not necessarily in MMA, because that fight might not sell as well as a grudge match, or a rematch... I'm comparing it to other sports and thinking of the future of MMA. Does this kind of thing hold it back in terms of credibility?",2016-09-28 13:54:23+00:00,d85gud6,2.0,t1_d85a7pk,15562.0,MMA
+60,"Other champions have pulled out of fights, I'm not so bothered about that to be honest. And I didn't phrase that well; the point here is that Conor is about to have /three/ fights whilst holding a belt. That is unheard of, I believe. It is one thing for a champ to not defend their belt due to injury etc, but quite another for them to not defend it because they're making other fights happen in different weight categories, etc!",2016-09-28 13:14:59+00:00,d85fbih,2.0,t1_d85adta,12552.0,MMA
+61,"I too have been reporting this incessant spam for the last few weeks. Clearly the mods are either not paying attention or simply don't care. Not only is it blatant spam, but the images are low quality to further compound the annoyance.",2016-09-27 16:09:06+00:00,d848vn5,2.0,t1_d8461ek,3743.0,fractals
+62,"I highly recommend this fun game, http://zty.pe, for practising your typing. It's a nice little game, and you can add your own word list, to vary the difficulty and to allow for other languages.",2016-09-25 12:00:15+00:00,d817kh4,1.0,t3_54e5ym,17117.0,MechanicalKeyboards
+63,"This is one of the geekiest things I've seen, and I love it :D",2016-09-25 11:59:03+00:00,d817jmg,1.0,t3_54dgfa,32012.0,MechanicalKeyboards
+64,Yeah I can send it to you. Are you on Discord?,2016-09-24 23:37:20+00:00,d80phxm,2.0,t1_d80ngte,3337.0,reflex
+65,"Such a great post, thank you. And the slow mo close up gif as well? You're a champ!
+
+I love Aldo's style and character, and this is such a good example of his expertise. Dem leg kicks o_O",2016-09-24 13:57:57+00:00,d803xk0,1.0,t3_547zy4,46564.0,MMA
+66,"Put the speed widget on and just move around turning the mouse at varying speeds. You'll find the speed that seems to give the highest speed. That's the speed you need to use for circle jumping. KovaaK demonstrates this in his movement video, which i linked below. I also demonstrate it my video, thanks to KovaaK's :P",2016-09-23 00:27:20+00:00,d7y80c3,2.0,t1_d7xa87j,49028.0,reflex
+67,"Pimping out my own channel/video here, but it might be of help:
+
+https://www.youtube.com/watch?v=2Kfs13D2u7A
+
+Also entik's: https://www.youtube.com/watch?v=rpy38UiTWrY
+ And KovaaK's: https://www.youtube.com/watch?v=gt99wfDKP9U",2016-09-22 14:27:21+00:00,d7xgwop,1.0,t3_53yatb,14460.0,reflex
+68,You literally made me giggle just now :D,2016-09-22 11:41:45+00:00,d7xbbsh,2.0,t1_d7ug5z5,172970.0,trailers
+69,"+1 for parkourstation, it has helped me a lot. A *lot*! It isn't on steam workshop though so you'll have to download it and play it locally, although my race servers have it installed so you in the console you can 'callvote map parkourstaiton' to play it.
+
+reflex.laerad.net:25791
+reflex.laerad.net:25794 (or 25793, can't remember!).
+
+Unfortunately all my gameservers are down atm and I can't restart the box remotely, but they'll be up tomorrow (Monday).
+
+edit: for now, play locally! https://www.dropbox.com/s/xpg3n4c79ml5iwc/parkourstation.map?dl=0",2016-09-18 14:48:50+00:00,d7rsp1a,2.0,t1_d7rful5,35782.0,reflex
+70,"I really appreciate you doing this, thanks a lot. I'll give it a go as soon as I can. I've read through it and I think I understand it. An interesting approach! Makes me wonder if all of those steps could be simplified. I'm far from a mathematician though.
+
+I'll try and plug it into my renderer and my friend's renderer and I'll be sure to show you results!",2016-09-18 13:10:47+00:00,d7rpmtd,,t1_d7ng33s,,FractalPorn
+71,"Woo! That is fantastic, thanks for getting in touch with her, I really appreciate it. Had a look at your gallery by the way, really lovely renders.",2016-09-14 21:23:53+00:00,d7myyte,11.0,t1_d7mxk2q,1780.0,FractalPorn
+72,"Me too, I think it is beautiful. wh1te made it, inspired by Mirror's Edge. It is one of the more unique maps I think. Some of the LA race maps are beautiful as well, Frozen in particular.",2016-09-14 18:32:27+00:00,d7mqewd,2.0,t1_d7lqgh2,67196.0,reflex
+73,Thanks man! I appreciate it :),2016-09-13 23:22:53+00:00,d7lp7xd,9.0,t1_d7ln2p2,3255.0,FractalPorn
+74,Woah.. this needs concept art :D,2016-09-13 19:48:37+00:00,d7lfma0,2.0,t1_d7lb0bv,5594.0,reflex
+75,Oh I understand that. I'll try Facebook :) Thanks for sharing!,2016-09-13 19:48:15+00:00,d7lfloe,7.0,t1_d7l2j12,15978.0,FractalPorn
+76,"Well, that is a shame, considering how beautiful it is. Especially considering you're not sure how to get in contact with her now :(",2016-09-13 15:17:33+00:00,d7l2bl8,5.0,t1_d7l22mt,324.0,FractalPorn
+77,Colour me intruiged. Care to share the formula?,2016-09-13 12:00:41+00:00,d7kuz9y,3.0,t1_d7kdjvm,38937.0,FractalPorn
+78,This is by far one of the prettiest renders I've seen in a while. How did you make it?,2016-09-13 00:56:08+00:00,d7kcvmc,1.0,t3_52g4vm,20015.0,FractalPorn
+79,http://zty.pe is fun :),2016-09-09 11:28:59+00:00,d7fhukt,1.0,t3_51vklh,25965.0,learntyping
+80,Well that's certainly easier to pronounce than 'prdm8'.. :P Looks stunning! These kinds of maps really help showcase Reflex at its best. gg :P,2016-09-06 10:03:01+00:00,d7bberg,1.0,t3_51a9c2,62523.0,reflex
+81,"Looks good, well produced. Crap title though, c'mon. MMA is worth more than that.",2016-09-03 14:01:25+00:00,d77z3tf,1.0,t3_50vhgz,61051.0,MMA
+82,Thanks,2016-08-28 19:06:43+00:00,d7097mq,3.0,t1_d6zvw4h,23047.0,reflex
+83,"Wish I could have casted this but had to prioritise other things at the last minute. Glad to hear it went well, looking forward to watching the videos.",2016-08-28 10:59:55+00:00,d6ztyv8,1.0,t3_4zth8d,93595.0,reflex
+84,It was,2016-08-28 10:59:12+00:00,d6ztygr,3.0,t1_d6z2jn5,58299.0,reflex
+85,"Welcome to the club mate, my first live cast was the Instacap tournament a week ago or so. T'is quite fun eh?! ;)
+
+Can I watch the VOD on Twitch? I'll have a look. At the end of teh day though, don't sweat it - just having someone stream and cast these tournaments is a big thing. Nobody's expecting professional quality stuff, and you'll get better at it if you put in some time and take on board feedback. I got a lot of positive feedback and suggestions, and I'm trying to practise those.
+
+Also, if you have an hour or three to stream, just go on Twitch and put 'Casting random duels' or 'Casting 2v2 games' as the title, shout about it in Discord/forums/subreddit, and have at it. Even if people aren't watching, just pretend like they are. A few people might well tune in anyway.
+
+That's what I intend to do anyway, as soon as I get a suitable time slot.
+
+Enjoy yourself, and thanks for taking it upon yourself to cast :) And to kylph0rd for streaming it :)",2016-08-28 10:58:42+00:00,d6zty6f,1.0,t3_4zx2ei,37748.0,reflex
+86,"I'm using Edwin &amp; Jagger Aloe Vera cream &amp; soap. I'll definitely try again with the soap, and try more water. Experimentation is clearly required, as is normally the case!",2016-08-27 13:30:33+00:00,d6yrk4j,2.0,t1_d6yr8f9,741.0,wicked_edge
+87,"I might well need more water in my soap lather, something like that.. Only tried with soap twice so far.",2016-08-27 13:16:35+00:00,d6yr6xy,2.0,t1_d6yr1v5,341.0,wicked_edge
+88,My bad. Didn't notice it linked to OP's deviantart page.,2016-08-27 12:55:02+00:00,d6yqnn4,3.0,t1_d6y3xne,52913.0,FractalPorn
+89,Never heard of JWildfire; I shall check it out. Thank you. And please make more renders :D,2016-08-27 12:51:51+00:00,d6yqkya,3.0,t1_d6y42h1,52517.0,FractalPorn
+90,That is stunning. How did you render it?,2016-08-26 21:38:50+00:00,d6y2jut,1.0,t3_4zprz7,15216.0,FractalPorn
+91,"I will try this tonight, if I can! I'm sure it'll be good. Looking forward to see similar training maps like this. I might do a map spotlight video for it if I really like it.",2016-08-26 08:53:42+00:00,d6xa272,1.0,t3_4zfp6d,117686.0,reflex
+92,"I had no idea, thanks for posting. AZK is the American pro gamer who took part in a Reflex tournament in Europe a while back and won despite his ping? I think KovaaK mentions him in his first intro video in the tutorial series he made.
+
+edit: can you recommend any? He's got 50 videos in his 'Reflex duels' playlist.",2016-08-26 08:51:44+00:00,d6xa101,1.0,t3_4zho19,84098.0,reflex
+93,I can live with that. Just have to maintain social media/Internet silence until I watch the fights! Thanks :),2016-08-24 21:23:12+00:00,d6v7riu,3.0,t1_d6v5wcq,2315.0,MMA
+94,"Well then, I will be watching a Bellator event for the first time when Rory has his debut fight...! Worth every last dollar for Bellatrix. How can you watch Bellator events in the UK?",2016-08-24 20:37:50+00:00,d6v5k7s,1.0,t3_4zdfjy,14983.0,MMA
+95,Glorious!,2016-08-24 08:42:19+00:00,d6ufl6h,1.0,t3_4zb9qa,6402.0,reflex
+96,"I can see the logic in it, and the playerbase will continue to grow. The game has a lot of depth, after all.",2016-08-24 03:06:40+00:00,d6u76fc,3.0,t1_d6tor8l,26130.0,reflex
+97,I saw that a while back! I shall have to give it a try! :D,2016-08-24 03:04:49+00:00,d6u740h,2.0,t1_d6tyuwx,12447.0,reflex
+98,Thanks! :D,2016-08-23 21:52:00+00:00,d6tuh01,2.0,t1_d6tltzf,10848.0,reflex
+99,Check out the epic steal at [22:47](https://youtu.be/KqA7Pr2rpKo?t=1367) :D Incredibly lucky!,2016-08-23 18:20:57+00:00,d6tkbzu,1.0,t3_4z7xf5,63.0,reflex
+100,only because I just bought it. Tradeable 7 days after purchase.,2016-08-23 16:14:55+00:00,d6te4z9,2.0,t1_d6t59zo,12649.0,reflex
+101,"Thanks for that, he does have a great voice. I shall check out his other works. God save the Queen.",2016-08-23 11:34:10+00:00,d6t3cng,2.0,t1_d6s9vr3,56772.0,videos
+102,"lol, spot on mate ;)",2016-08-23 09:36:28+00:00,d6t14oy,2.0,t1_d6syqxu,8329.0,MMA
+103,"Look me up on Discord/IRC/forums/whatever, if we can find a mutually convenient time I'll give you tips and stuff. Like a teaching session. We can go on mic and I'll record it for my channel :)",2016-08-22 07:45:53+00:00,d6rlyw4,1.0,t3_4yvrqp,53791.0,reflex
+104,That's exactly what I thought about when my friend told me that!,2016-08-21 17:35:00+00:00,d6qsb3a,4.0,t1_d6qn18u,8475.0,videos
+105,Right?! :D,2016-08-21 14:27:14+00:00,d6qlizp,2.0,t1_d6qi8gb,7915.0,Music
+106,iknowrite?,2016-08-21 11:22:49+00:00,d6qhatr,2.0,t1_d6px3r5,44572.0,videos
+107,"I am not Kurt :) Another friend of Mykl's brother, it would seem! I don't know actually, but I'm sure you can if you Google a bit.",2016-08-21 11:22:40+00:00,d6qhaqe,2.0,t1_d6qdnee,13397.0,videos
+108,"Nope, they're still going. But they've gone through many band members. My friend's brother, the singer in that video, is the only original remaining member. Over time he's had to fire people and move to other cities and thus others haven't always been able to follow. He's the driving force behind the band it would seem. The band name tends to change with each new band member, so that must be why you read they split.",2016-08-21 11:21:41+00:00,d6qha4o,2.0,t1_d6q6ogn,28853.0,videos
+109,"For some people, learning on their own is a big part of it - the challenge that is - they'll only ask after a long time of trying on their own. But yeah, it is kinda rude to just start dishing out advice when not asked for.",2016-08-21 11:05:57+00:00,d6qh0o1,2.0,t1_d6q57vb,30447.0,reflex
+110,I noticed I got that award a while back but I totally missed it whilst in game! :( I'd have shadowplayed the last five minutes if I'd noticed!,2016-08-21 10:54:44+00:00,d6qguev,1.0,t3_4ytlay,14743.0,reflex
+111,I was told it was produced/directed by the same guy who has done videos for Marilyn Manson..!,2016-08-20 23:40:24+00:00,d6pyn7b,2.0,t1_d6pwudw,2854.0,videos
+112,Yep. I didn't have the time to post process and I had not recorded the mic separately (I am now doing this though). I figured if people just wanted to watch the gameplay they could mute the audio if they found it annoying. Recorded another video earlier that is will publish soon; it has proper audio levels. Thanks for watching it though!,2016-08-20 22:30:30+00:00,d6pw1aw,2.0,t1_d6ptt8s,3645.0,reflex
+113,"Yeah this is really great to hear. I've had nothing but good experiences whilst interacting with the community in this game. People readily help me out when I ask how to make a jump or something, i've gotten advice for 1v1 etc, people always answer questions... 'flex has a fantastic community!
+
+One guy even got me a Supporter's Mjolnir hammer, just because I was spectating him after asking him questions about movement/jumps on the DDD server, and I said 'nice hammer'. Generous soul! I've asked on Discord for help and people have hopped onto my server to help out.
+
+Interesting to hear OP say that he got kicked from QL games. That's just nasty :/ Bloody elitist gamers! Stick with 'flex, we're lovely :D",2016-08-20 08:51:16+00:00,d6p767a,2.0,t1_d6p6omm,1712.0,reflex
+114,It is the frags that count above all else! ;) Good job!,2016-08-18 08:27:26+00:00,d6md1py,1.0,t3_4y7hs0,47916.0,reflex
+115,"Thanks :) Playerbase is somewhat small but committed and active, I would say. I'm confident it will increase with the forthcoming updates. About 40,000 people own the game, and I'm sure a lot of them are waiting for major updates before they try the game out again. That's what I did. Training and matchmaking should be a huge boost.
+
+I cna always find a game, and even late at night here in the UK I can play on US servers thanks to the excellent netcode!",2016-08-17 14:45:24+00:00,d6l67xl,2.0,t1_d6l1n4u,7043.0,reflex
+116,"Michael Johnson has been working as a commentator and analyst for the BBC for quite some time now, he certainly did the 2012 Olympics anyway. And yes, BBC coverage is fantastic :D Also if you watch here in the UK you can use a service to switch event coverage, instead of the main stream",2016-08-16 11:13:52+00:00,d6jjml3,2.0,t1_d6jghy2,10446.0,videos
+117,"Yeah, it's really annoying!",2016-08-15 21:01:40+00:00,d6itee0,3.0,t1_d6id0yx,21191.0,reflex
+118,"Nice jumps! Also, that video has the game tagged as 'Minecraft'. You may want to remove that :P Unfortunately, Youtube doesn't have a category for Reflex right now. And if you just type Reflex in the box, and then click out of it, it converts it after publishing to the first game it thinks it is. At the moment it is MLB vs Reflex or something like that.",2016-08-15 13:47:12+00:00,d6i9xi0,1.0,t3_4xtjes,1122.0,reflex
+119,What's the name of your map? I would like to try it :D,2016-08-13 00:58:41+00:00,d6fckhs,2.0,t1_d6ez8ek,19019.0,reflex
+120," Really, really good - nice work! Fantastic camera work and editing. Thrilling stuff :)",2016-08-08 22:03:22+00:00,d69llsh,1.0,t3_4wsm9b,2001.0,TrackMania
+121,"That is really cool, what's the method?",2016-08-08 15:59:32+00:00,d694sle,1.0,t3_4vdsyf,761810.0,fractals
+122,"I didn't realise lather could be wet or dry, I figured it  would be a consistent consistency (!). I'll try using more water next time, thanks :)",2016-08-07 14:59:59+00:00,d67tqhb,2.0,t1_d67r4hy,5580.0,wicked_edge
+123,"Thanks :) Just ordered some witch hazel; I had been meaning to, but forgot. So far i just rinse with cold water and then immediately apply some after shave balm. I was using some Bulldog stuff, but now I'm using Nivea aftershave balm. Seems to be a bit nicer.
+
+I just had a shave an hour ago and used shaving soap for the first time. Didn't seem to offer as much 'glide' as the cream, but perhaps a bit more of a 'cushion'.. I've heard soap gives more of a cushion effect, and I think I understand what that means now. I'll have to experiment a bit, I guess.",2016-08-07 14:59:15+00:00,d67tplt,2.0,t1_d67pqm6,9408.0,wicked_edge
+124,"I really like the art direction. It isn't overwhelming and in your face but it looks great, to me. And the gameplay speaks for itself. Look at all the race guys, a lot of those maps are not textured etc. - but they play well so they get played.
+
+Maps like Monolith, Gravesite, Skytemples... they all look stunning to me. And i don't want the developers sinking time and money into the art stuff if it compromises the addition of features.",2016-08-06 11:18:54+00:00,d66ke4c,2.0,t1_d64wqwq,113956.0,reflex
+125,"You're welcome! It's great to hear that they have been enjoyed. I stopped and started recording whilst streaming so it was easier to find the matches, and trimmed them out with ffmpeg pretty much straight after the event. I might upload some of the other games as well, but I figured people would really want to watch the final.",2016-08-06 10:40:11+00:00,d66jsr1,2.0,t1_d664dmy,36317.0,reflex
+126,"2nd map: https://youtu.be/QOOfFQBYV2I
+
+3rd map: https://youtu.be/EDtMiYiiaYU (still uploading)",2016-08-05 22:40:12+00:00,d6601aw,1.0,t3_4wd32l,35.0,reflex
+127,"The devs have stated that they want to do it, and they have written the code in such a way that the API stuff is abstracted away so in theory it should be relatively easy to swap in a different API for a different platform. So, they've planned for/prepped for it, but they've said they want to keep it Windows only for now so they have a nice stable game and playerbase.
+
+Basically they've made the decision to port it towards the end of development, I think, rather than manage two platforms/codebases during development.
+
+I really hope it does get Linux support though!",2016-08-05 09:14:04+00:00,d6557df,1.0,t3_4w764h,39279.0,reflex
+128,Agreed :) S'all good :),2016-08-04 22:23:26+00:00,d64kefi,9.0,t1_d64hg92,4039.0,reflex
+129,"I'm not advocating - upon first reading Ramagan's post I thought 'yes, makes a lot of sense', and replied. Then i checked the comments here and noticed others were disagreeing, and i thought about it some more, realised there pros and cons and that it wasn't a simple issue. Things change. So far the only thing I've truly advocated or asked for (in the forums) is an experimental ruleset to try out some changes.
+
+And I think that 'casuals' would make up the vast majority of the playerbase. Hence why the devs might want to cater to that kind of player, rather than the minority who duel competitively. Of course you don't design a game around a small minority of players. You try and appeal to the masses. The devs might be able to cater to and satisfy both casual players who just want to FFA, and those who want to 1v1 and compete and put a lot of hours into it. I hope they do!
+
+I'm pretty sure a lot of people would infer the same kind of tone from your words as I have done. You made a few assumptions about me. I'll happily talk about game design and weapon balance for hours and we'll probably disagree on various points and that's all good man. There's a difference between disagreeing about something, and making assumptions and condescending remarks (""This is good example why people without deep understanding of game mechanics and vast experience in FPS games should not even think about balancing something as complex as weapon balance"") whilst discussing/arguing ab out something.
+
+But whatever dude, it's all good. You set up two FFA servers which I greatly appreciate, and have told you as much in-game. You did that for the good of the community, and I respect that. I too, have set up a gameserver and when I figure out how to set up multiple gameservers on the same box, there'll be a few more!",2016-08-04 21:04:28+00:00,d64gx7q,7.0,t1_d64fmg4,1661.0,reflex
+130,"Jesus dude, it feels like you're being kinda hostile. I'm not advocating one way or the other really, I'm just discussing it. I've made points (both here, and in the forums), arguing both ways. You quoted me saying it is fun to one shot people with a hammer, and then say ""you want to get rid of it"", which I did not say.
+
+And for the record, I played a lot of Q2 &amp; Q3. Fun times. Not played Warsow. So, be careful with your assumptions...
+
+I'm not saying I have a deep understanding of game mechanics, but I have a fair bit of experience, and I'm reasonably intelligent, and I've actually studied game design and write code etc. I'm aware that weapon balance is a complicated issue regarding game design. Changing it is not to be done lightly, but that's not to say it shouldn't be done. Especially in early access. Get it 'right' now, to the satisfaction of all types of player, and that's the end of it.
+
+It strikes me that the devs will have to make a decision as to who they want to cater to - competitive players, or casuals. It may be too much work for them to cater to both, although rulesets should help a lot. It has got to be fun. But satisfying competitive players would be good for the competitive scene and that in of itself could get positive exposure for the game.
+
+T'is a complex issue :P",2016-08-04 16:51:48+00:00,d644knk,5.0,t1_d63yrgj,7309.0,reflex
+131,"I had reservations about that because it is so much fun to one shot people with my enormous hammer (!). But arguably it is too high, higher than i've experienced in other games with a melée weapon. You can one shot someone who has just spawned, I think?",2016-08-04 10:10:44+00:00,d63q9r9,3.0,t1_d62yeri,50015.0,reflex
+132,"Crikey, seems like i'm the only one who agreed with Ramagan's points. I just replied to his post on the forums. I quickly read over his post and the suggestions seemed good to me. I agree though that there are other factors in play... there might not be an 'ideal, perfect' balance, but that's not to say that a weapon can't be OP, or too weak, right?
+
+",2016-08-03 17:57:33+00:00,d62rl8p,1.0,t3_4vy4nb,21338.0,reflex
+133,Friend request sent :),2016-08-03 13:21:52+00:00,d62f3si,3.0,t1_d62e4sg,1742.0,reflex
+134,"I'm a relative noob at duel, I know the basics and my movement/aim is ok, but I'm still learning the duel maps (and map knowledge is half the battle at least!). I'd be happy to play with you and we can give each other feedback. No idea what the skill gap is but we can just play a few games and see how it goes?",2016-08-03 10:21:06+00:00,d62ajy4,1.0,t3_4vui1z,51503.0,reflex
+135,"54% space bar now
+37% RMB
+6% mouse wheel
+3% crazy mofos who use god knows what :D",2016-08-02 15:26:38+00:00,d613tmq,6.0,t1_d5zlmpo,90633.0,reflex
+136,"There are a fair few players in the US but I'm in the UK so I can't possibly comment - if you don't own the game yet, I'd recommend waiting until training and matchmaking updatets havae dropped. Which are probably 2-3 months away (wild guess). But they are the next two scheduled updates according to the official road map, as stated by the developers. Once those drop, it will make it much easier to get in the game because you'll have in-game tutorials and training (plus the friendly community who will answer your questions), and matchmaking should help everyone get fun games in which you don't get rekt but you don't crush your opponents by a huge scale either! At least, not in games you find via matchmaking ;)",2016-08-02 15:16:25+00:00,d613dfd,3.0,t1_d60agly,57386.0,reflex
+137,"Can you all of you RMB jumpers please explain why you choose that input method for jumping? I've always used the spacebar, probably justbecause the first FPS game I played used spacebar for the default bind.
+
+Personally I also like that it means I have movement on one hand, and 'looking' on the mouse. I have as many weapon select buttons on the mouse, and some on the keyboard. That's how I've rolled sinced Quake 2.
+
+I'm just curious as to everyone's reasons for these choices :)",2016-08-02 10:55:15+00:00,d60utw2,1.0,t3_4vmgue,77474.0,reflex
+138,"That's just what I asked for, but your explanation was much more succinct!",2016-08-02 10:52:09+00:00,d60uro2,2.0,t1_d60pzkd,15448.0,MMA
+139,"That is really cool, did you make it?
+
+Also, I don't think it does but perhaps I'm missing it - does it show how many fights for each period of time? Cos that'd be cool. Like two fighters might have reigned as champ for the same period of time but one of them would have fought more fights. It would be nice if the chart reflected that.",2016-08-02 10:49:29+00:00,d60uptd,1.0,t3_4vqhr2,26708.0,MMA
+140,"Hah, that's fun - you just mash the side of the mouse with your thumb?! ;)",2016-08-02 10:47:33+00:00,d60uoha,4.0,t1_d606jh8,46900.0,reflex
+141,Ditto! High five! o/^5,2016-08-02 10:46:53+00:00,d60uo1k,10.0,t1_d606njh,46707.0,reflex
+142,"Meh, it is your claim, the onus is on you to prove it. I don't care enough to actually check, you might well be right. I was being lighthearted :)
+
+edit: typo",2016-08-01 21:45:59+00:00,d606jnm,8.0,t1_d6068iu,426.0,reflex
+143,"Just took the poll, cheers for putting it up. Quite interesting.",2016-08-01 21:22:00+00:00,d605gsh,8.0,t1_d5znqj2,22526.0,reflex
+144,Prove it!,2016-08-01 21:21:34+00:00,d605g1j,6.0,t1_d601r7k,4608.0,reflex
+145,All of them?! Is that not a waste of real estate?!,2016-08-01 21:20:37+00:00,d605eg0,2.0,t1_d5zvt65,11894.0,reflex
+146,"Neat, I missed that. How many people took the poll? I would have guessed about 50/50.",2016-08-01 14:33:11+00:00,d5zmbz0,6.0,t1_d5zlmpo,1026.0,reflex
+147,Filth Wizard!,2016-08-01 12:52:19+00:00,d5zinbf,2.0,t1_d5yx1gi,47550.0,AskReddit
+148,Have you evidence for this wild claim? ;) I personally use space. I'd be really curious to see a poll!,2016-08-01 12:50:55+00:00,d5zilsj,4.0,t1_d5zg909,5824.0,reflex
+149,"Where are you in the world? The EU community is, I think, currently the largest. I can always get a game at peak EU time (like 6pm - midnight, ish). It seems popular in the USA by the time I stop playing at midnight/early hours of the morning.",2016-08-01 12:50:05+00:00,d5zikuq,1.0,t3_4vk2tg,41645.0,reflex
+150,"Sounds about right. Also though, the current playerbase are very welcoming and friendly. I've had multiple people help me out and offer advice. Just the other night I was stuck on a section of Parkour Station and said so, and a guy instantly told me to spec him and talked me through it. It is really nice!
+
+And the more friends you bring, the merrier. I bought the game for two of my best friends. I'm having so much fun with it I want to play tdm/ctf with them, and frag 'em in FFA ;)",2016-08-01 12:48:44+00:00,d5zijft,2.0,t1_d5z1xmm,39288.0,reflex
+151,"Hey, maybe. I am undecided. I bumped it down slightly, and that feels better already. I might try 8-10cm/360° - I think I will always prefer higher sensitivity than average. I don't want to go nuts, and I don't want to do it gradually either.
+
+As previously mentioned - i just wanted that 'pixel precision'. As long as i can comfortable move the mouse quickly by just a pixel, I should be ok :)
+
+Thanks for sharing!",2016-08-01 12:45:23+00:00,d5zifuk,2.0,t1_d5z068b,41954.0,reflex
+152,"Yeah, it is a queue based system for jumps. As soon as you press the jump key, press it again and hold. As soon as you land, you will jump again.  Lather, rinse, repeat. T'is neat :D And I wouldn't know this fact were it not for Kovaak's excellent tutorial videos on Youtube.",2016-07-31 22:05:06+00:00,d5yti9a,2.0,t1_d5yopkk,7328.0,reflex
+153,"Sweet. Demos seem so rare these days for games, or is that just me? ",2016-07-31 22:02:43+00:00,d5ytext,8.0,t1_d5ym7im,10488.0,pcgaming
+154,"Toxikk looks pretty cool, don't get me wrong. I'd probably but it if I had more disposable income. I'm just saying I wouldn't compare it to Reflex.
+
+And Reflex has more than Quake did (although yes, very similar - heavily influenced by Quake).",2016-07-31 11:12:14+00:00,d5y7asv,6.0,t1_d5xoyhv,43328.0,pcgaming
+155,Added :),2016-07-31 11:11:31+00:00,d5y7aei,4.0,t1_d5xq1le,41316.0,pcgaming
+156,"So what, do you think that map in the video is the only map in the game? It has an in-game editor and loads of community made maps already, it's great!",2016-07-31 11:10:44+00:00,d5y79xy,4.0,t1_d5xtfsl,35067.0,pcgaming
+157,"Because it was deliberately designed (note, deliberately. The developers have stated this) for consoles. They didn't feel the need to put in all the now standard features that the PC versions have had.
+
+This sucked, but a lot of people don't seem to comprehend the realities of the game industry. Ultimately, they did not want to maintain two codebases, one for console and one for PC.
+
+I love the Trackmania games, have been playing since the first ESWC Nation game. The lack of dedi servers was disappointing, but the game played fast and smooth and i had a lot of fun with it for a while. I even recorded videos for my channel, I was having that much fun!
+
+I totally understand why people were bitter about it, but to me the reasoning behind it is fair.",2016-07-31 11:10:00+00:00,d5y79iq,1.0,t3_4vegkl,43893.0,TrackMania
+158,"Wait for matchmaking update :) And if you ever want to play together, maybe I can teach you some things. Happy to help!",2016-07-30 22:35:12+00:00,d5xnruh,2.0,t1_d5w9yfh,98365.0,pcgaming
+159,"I just watched the trailer for Toxikk, and to me it looks /nothing/ like Reflex. I wouldn't even draw the comparison; they're both in the arena FPS genre, but Toxikk seems to have pulled influence in from other FPS genres, particularly regarding a more realistic art direction, and Reflex is 'purer'.
+
+It might well be a great game but that trailer did nothing for me. The Kickstarter pitch video for Reflex  had me drooling with anticipation within seconds, as my brain was flooded with nostalgia from my Quake days!
+
+Different strokes eh!",2016-07-30 22:34:16+00:00,d5xnqnv,4.0,t1_d5xjl2p,7014.0,pcgaming
+160,"That is relative; i'm just saying there are enough people playing that, when i want to play the game, there are people i can play with :)
+
+Intepretation of statistics is what counts here.
+
+I totally agree that it is hard for an average new player to get into any game, really, especially in early access. But, the next two updates will provide two major features that make a gaming experience more pleasurable - a tutorial/training system, and matchmaking (so you don't get stomped and get satisfying, challenging games).",2016-07-30 20:03:20+00:00,d5xibzz,6.0,t1_d5xeyww,5452.0,pcgaming
+161,"I figured you were ESL, np :)
+
+Modding is modding is modding. And lol, 'younger generation'. There are different kinds of mods. Scripts, hooks, total revamps. I'm aware of the differences.
+
+Depends on the topic, if you're going to be a dick about it and be like wahhhhh i want bskins, they'll probably ban you if you keep doing it, but i'm sure someone trying to promote civil discussion about it, will be informed that the developers have already made that design decision so no discussion necessary.
+
+Judging from our conversation here, I'm not surprised your post generated angry replies... You make assumptions.
+
+edit: typo",2016-07-30 20:01:41+00:00,d5xi9sh,8.0,t1_d5xgc9l,3138.0,pcgaming
+162,"I don't think the onus is on me to prove whatever point you were trying to make, quite frankly the sentence was so poorly formed I still struggle to understand it. I highly doubt that making a new topic about bright skins will get you banned. Srsly.
+
+Modding is /modifying/ the game. Yes, currently you cannot make a mod that changes weapon attributes. But UI scripting definitely qualifies as modding. Few games let you customise the HUD to such a degree, it is truly quite impressive, and extremely useful.
+
+edit: http://www.reflexfps.net/forums/index.php?/topic/220-bright-coloured-players-instead-of-outlines/ seriously dude, wtf are you talking about. This thread is 6 pages, 137 posts. You've made it sound like mentioning bskins on the Reflex forums is akin to saying 'Voldemort' out loud.",2016-07-30 18:29:57+00:00,d5xevk7,6.0,t1_d5x42kt,19872.0,pcgaming
+163,"I'm playing it right now and I'm saying it isn't dead. I have never had trouble getting a game. The current playerbase are very enthusiastic and at peak times, there's plenty of them playing.
+
+The matchmaking update is coming soon (v45 now, v46 is going to be a training update which will help a lot, and v47 will have matchmaking). So those will be massively helpful for everyone, noob or pro.
+
+Last time I checked 40,000 people own the game. I think the peak player statistics are misleading in this case.",2016-07-30 18:27:45+00:00,d5xesos,4.0,t1_d5xaae0,7339.0,pcgaming
+164,"If you time it nicely you can rocket jump onto the platform, quickly turn, rocket jump off the wall and maintain momentum, turn into the wall slightly and fire again as you fly through the aiir, and you'll go straight into the tele.",2016-07-30 12:05:13+00:00,d5x2z12,4.0,t1_d5x1b1l,5941.0,reflex
+165,"Dafuq dude. There are already mods. The game fully supports Lua scripting.
+
+No idea what you mean after that second sentence. Searching the forums might get you banned? Bullshit. Got proof?",2016-07-30 09:22:05+00:00,d5x0bl4,4.0,t1_d5wo1m2,29149.0,pcgaming
+166,"I have /never/ had a problem finding a game. Also, quite often if you join an empty server of the game mode you want to play, people will join.
+
+Also, I think I mentioned the Steam refund policy. It is excellent. Full refund if you play less than two hours and apply within two weeks.",2016-07-30 09:20:02+00:00,d5x0adp,2.0,t1_d5wor1j,27762.0,pcgaming
+167,"I suspected you could do it in one jump, I just never bothered. Cos i'm such a pro rocket jumper... :D
+
+I'll try that, thanks!",2016-07-30 09:18:54+00:00,d5x09q9,2.0,t1_d5wtuhh,18010.0,reflex
+168,"I'm not saying you should, but I am saying if you like this kind ofthe game, you should try it. You will probably like it. UT has always had a different kind of 'feel' to Quake, but that's not to say you can't enjoy both.",2016-07-30 09:18:08+00:00,d5x09aa,2.0,t1_d5wz3wu,4255.0,pcgaming
+169,"* Do not enter a confrontation that you are not likely to win, but balance that with not running away and conveying that you are low on health and armour and thus an easy kill. I've read elsewhere that you should deal damage at every opportunity. But perhaps don't do that, if it is especially risky. I would argue that you should move and jump around to make the odds more in your favour. Get positional advantage, like in chess or an RTS game. If you do not have armour, and particularly if you know the item control situation so you know what armour they are likely to have, do not engage. Evade, by stealthy, try and win the red armour when it respawns. Or go for yellow. Don't go for armour or megahealth without a weapon.
+
+* Practice movement and aim. Learn the maps, including the jumps and the key routes.
+
+* Try and chill, relax, enjoy it. Don't get tense, it will ruin your enjoyment of the game and hold you back. Pro athletes are normally quite relaxed when doing their thing. Get comfy!
+
+* Be unpredictable. This is a big one. Mix it up. Surprise them with aggression, then evade them with stealth.
+
+* I'll think of more later :D
+
+edit: changed 'he is' to 'they are' &amp; clarified my first point",2016-07-30 09:16:52+00:00,d5x08k6,1.0,t3_4v6qsd,68825.0,reflex
+170,"I'll second that, Kovaak's tutorial playlist is most excellent. Also check out entik's movement overview. Covers the same ground as Kovaak's vid on movement but still nice, they might not completely overlap.",2016-07-30 09:14:03+00:00,d5x06xq,3.0,t1_d5w1071,61769.0,reflex
+171,Nice! Subbed :) Looking forward to more :),2016-07-30 09:12:38+00:00,d5x065g,1.0,t3_4v6hrm,72027.0,reflex
+172,"Nice one, great work. Reflex needs a showcase of screenshots and videos, to help promote it and win new players. I'll have to check your guide on how to take depth screenshots. Noice!",2016-07-30 09:11:02+00:00,d5x058w,1.0,t3_4v94v7,39617.0,reflex
+173,They're not selling skins? There's model customisation though. Someone might well mod bskins in. Have the devs made a statement about them?,2016-07-30 00:54:18+00:00,d5wnb4t,2.0,t1_d5wlp80,2857.0,pcgaming
+174,Try it again - play single player to eliminate any potential network lag. How long did you play it for?,2016-07-29 20:04:19+00:00,d5wc56s,2.0,t1_d5wbrve,494.0,pcgaming
+175,"SUCCESS! :D
+
+Yeah if you just load a map from the console, the default setting is to open the game up to the server browser (but you can turn that off if you want it private). I practiced on a jump map one time and three people ended up joining :D I had loaded it from the console so I assumed the default settings would be private. If you create a server from the menu, you have all the options laid out in front of you.
+
+ And I didn't know that about LAN play, that is fucking sweet! These developers at Turbo Pixel are amazing! :D",2016-07-29 19:58:31+00:00,d5wbvuk,3.0,t1_d5vwha1,20042.0,pcgaming
+176,"It is. Reflex has an in-game map editor so it has a lot of  really cool,  original maps. But of course, people like to port the old school maps for nostalgia and because of the similarity, it still kinda 'works'. It has been tweaked slightly to allow for jumps though. There's a double jump that can be made on the stairs by the red armour, up to the platform near the rocket launcher, for instance.",2016-07-29 19:56:01+00:00,d5wbrs8,2.0,t1_d5vypno,16818.0,pcgaming
+177,Thanks! It is the English way.,2016-07-29 19:54:44+00:00,d5wbpqs,6.0,t1_d5vzifc,15707.0,reflex
+178,"Also, I recently casted (for the first time) a 1v1 tournament organised by /u/thelawenforcer, so if you're interested you can check out the raw footage that is also on my channel, or on my [Twitch](http://twitch.tv/fractaljaguar).
+
+It is a fantastic game and deserves all the love it can get, the developers really know what they are doing, the passion is palpable, the game plays great, and the community are very friendly and welcoming.
+
+I'm just trying to get it as much exposure as I can because I want the playerbase to increase. Check it out on Steam and get a refund for it if you don't like it!",2016-07-29 12:24:23+00:00,d5vsam6,1.0,t3_4v6ate,142.0,pcgaming
+179,"No offence taken, I think that is a good idea. Are there any seasoned casters in the Reflex scene atm?",2016-07-29 12:19:25+00:00,d5vs5jf,4.0,t1_d5vpy73,6032.0,reflex
+180,"I'm not, I just got my explorer working again. Found an old backup. So I should be able to copy in functions/modules from that backup, and get the latest version I was working on working again.
+
+And then I'm going to learn git :P",2016-07-29 08:46:46+00:00,d5vnzpb,3.0,t1_d5ux632,45362.0,fractals
+181,"Thanks for the feedback, I really appreciate it. This was my first cast, and indeed the first time I had even watched an arena FPS tournament. I've already got a lot of useful feedback though, and I'm looking for another caster to work with, for a duel cast. Which I think is much more entertaining.
+
+If you just watched the last match though, I was quite tired by then. Try watching some of the earlier matches? I had worked a full day that morning with not a lot of sleep in the last few nights before that, and basically got straight home, hoovered and tidied up, and then spent four and a half hours casting!
+
+edit: and thanks for the compliment!",2016-07-29 08:45:03+00:00,d5vnymi,2.0,t1_d5vfnyi,19019.0,reflex
+182,"What do you want to know?! I started writing it years ago back in university, improved it sporadically over the years. It functions primarily as an explorer, and not a renderer. That is, it is a rudimentary renderer, that let me make an explorer ;)",2016-07-28 20:42:59+00:00,d5uypoa,2.0,t1_d5uv0r0,4588.0,fractals
+183,"Yeah, I'm thinking 10cm or so might be ok. Even 8cm would be like 60% more. My test is probably going to be how quickly i can move the mouse by a single pixel. That is what is difficult for me right now. Got my new mousepad (Logitech G440) which is much larger, cleared space for it, and it feels great, so that's a good start!",2016-07-28 19:25:37+00:00,d5uuz64,2.0,t1_d5ukqcc,12402.0,reflex
+184,Superb!,2016-07-28 15:17:48+00:00,d5uiqm6,1.0,t3_4uz5lb,34446.0,gaming
+185,"I'm all for nerfing it a bit, I do think it is a bit OP.
+
+Also +1 for the term 'flexers'. I'm cool with being a 'flexer :D",2016-07-28 09:34:45+00:00,d5u8aea,1.0,t3_4utc2u,96027.0,reflex
+186,"If you got the game, or do get it, use the profileplay command on a random replay for benchmarking.
+
+I found I get about 170 fps at medium quality, about 160fps on high quality, about 100fps on ultra (but it dips significantly at times).
+
+i7-2600K at 4.5GHz, 32GB DDR3 RAM, GTX760, ",2016-07-28 08:58:25+00:00,d5u7npo,,t1_d5qt7zl,,reflex
+187,"The devs have stated from the start that they know the key to the game's success is making it fun and appealing to casuals. So I have high hopes! Matchmaking coming soon, that will help a lot.",2016-07-27 22:30:13+00:00,d5tmir4,2.0,t1_d5taghi,15102.0,reflex
+188,"Thanks man, that book sounds interesting. Nice quote!",2016-07-27 22:26:58+00:00,d5tmd53,2.0,t1_d5tf9ly,9115.0,reflex
+189,"I think the argument is that the mouse can't glide as easily, so it can 'stick'. I noticed that if i nudge the mouse slightly, it sometimes sticks and then moves farther than i thought. It is a tiny difference but I thought I'd order a smoother mouse pad and see if it helps.",2016-07-27 15:30:46+00:00,d5t21vr,6.0,t1_d5swyzr,7039.0,reflex
+190,"&gt; And i finally climbed up from supreme master first class to global elite in cs:go
+
+orly? Good to know, thanks for sharing!",2016-07-27 15:29:45+00:00,d5t203v,2.0,t1_d5sxvnz,5575.0,reflex
+191,"&gt; the only reason I would play like that is if I had one of those tiny office mousepads that looks like a magic carpet.
+
+lol!
+
+I don't think I'll need to lower it by much to see an improvement. Just a question of investing a month or two into adapting it.",2016-07-27 13:30:42+00:00,d5swvbf,2.0,t1_d5sspzs,9123.0,reflex
+192,So what was like it adjusting to the lower sensitivity? 55cm/360° seems insane to me! :P,2016-07-27 13:29:22+00:00,d5swtj3,2.0,t1_d5su0sz,5524.0,reflex
+193,"I've just bought a Logitech G440 mousemat, which is about as big as my desk will currently allow for. I'm going to have to move a stack of paperwork to make way for it, but i'm hoping that will help in terms of space, but also the surface should hopefully be better for high sensitivity gameplay (apparently). It occured to me two nights ago that my cloth mousemat probably wasn't ideal for high sensitivity due to too much friction.",2016-07-27 13:28:55+00:00,d5swszd,4.0,t1_d5sw4dx,1166.0,reflex
+194,"We have very different ideas, haha! I agree that the splash damage on RL should be upped a bit, but I think I can appreciate why it is relatively low at the moment. Emphasises skill and aim and gives rocket wars a bit more of a chance. A candidate for the experimental ruleset, perhaps.
+
+I think in an FFA game, a map that is too small for that number of players is a bad thing. Maps should be designed for a purpose and if it doesn't have enough spawn points, enough weapons, enough health packs, it is just a frustrating experience for most and it basically boils down to whoever spawns next to the best weapons and armour will probably win, or at least it will randomise the skill levels too much. Too much random chance, I don't like that.
+
+Some duel maps work ok but up to a point, past a certain number of players i think it becomes less fun. A duel map is probably going to be designed /just/ for duels.
+
+edit: just watched a bit of that fragmovie. Really well produced, some sweet mid air rockets!",2016-07-27 10:03:40+00:00,d5srppy,4.0,t1_d5sguok,25783.0,reflex
+195,"Don't get me wrong, I /am/ pretty good, but I haven't spent 20 years playing FPS games full time either. I feel like I've hit a point where I can't improve, without improving my aim, and I think I can only improve my aim by lowering my mouse sensitivity. I can turn around with a tiny flick of my mouse and I get real close to putting my crosshair on my target, but i'm often just a few pixels off when I fire.
+
+Check out this [video](https://www.youtube.com/watch?v=g-FC_leLYlE) of me from a week or so ago. Nothing special, but should demonstrate that I have reasonable aim. Also [these](https://youtu.be/ithFFcnxE4k) [two](https://youtu.be/4CVYAuN7o7I) videos if you really want to see me in action.
+
+Normally in free for all games I finish mid-top, but rarely #1 or #2. And those are the players with great aim. I've got skills and tactics and I can move reasonably well and get out of situations if necessary, and ambush players by intercepting them, that kind of thing. Pretty sure it is just my aim that is holding me back!",2016-07-27 09:36:15+00:00,d5sr8z9,2.0,t1_d5sj9oa,20332.0,reflex
+196,"Seems to happen quite a bit on reddit, initial downvotes and then wooooooooooosh, to the top it goes!",2016-07-26 22:41:32+00:00,d5s5rh6,5.0,t1_d5rqjaw,18451.0,MMA
+197,"I feel pretty powerful when I pick up the RL in Reflex, probably the weapon I am most effective with. And yes, it /is/ part of the game, I understand that. The random element and fast pace will dictate that that happens. I think the reason it seems to be happening a lot is simply due to the maps (e.g. not enough large FFA maps designed for 8+ players). So, I'm very confident more maps will come out and by the time the game is released, it will be in a great state. Frankly, to me, it already is in a great state.
+
+I have thought that the weapons in Reflex are perhaps, across the bar, a bit too powerful. Dropping the damage 10% on all weapons might help. The weapon stats will probably be tweaked over time anyway. I think they're going for 'each weapon has a best case use scenario, and if used that way, is as powerful as the other weapons'. If you've got great aim and tracking the ion cannon is your friend, if you've got great flick shots you can railgun/bolt rifle for days, if you're great at movement and getting in close and hopping out unpredictable you'll probably be great with the shotgun/melee, etc.
+
+What are bskins? And what do you want to be 'fixed' regarding weapons?",2016-07-26 22:38:48+00:00,d5s5n3i,2.0,t1_d5rwx22,10639.0,reflex
+198,Wise words indeed! Sensei Diaz with mantras to live by.,2016-07-26 13:21:40+00:00,d5rf1pc,2.0,t1_d5qjxuw,56764.0,MMA
+199,"Time stamps are in the video description, but I agree that the question did not desrve downvotes. Not that it matters now because it is the top comment ;)",2016-07-26 09:58:20+00:00,d5ra10d,3.0,t1_d5qidhm,46526.0,MMA
+200,"They sure do, I love NoW! Not listened to them in ages, thanks for reminding me of them! :)",2016-07-26 03:45:24+00:00,d5r0ymb,2.0,t1_d5r0t44,236.0,tipofmytongue
+201,"lol :D Not for Reflex, it does jump queuing so you don't have to time it to tenths of a second, and thus you don't need to spam the jump command. As soon as you jump just release the jump key/button and press it again/hold it down, and as soon as you land you'll jump.
+
+Why not give it a try?! :P http://reflexfps.net/",2016-07-26 03:01:48+00:00,d5qyzxe,2.0,t1_d5qypuk,372.0,NameThatSong
+202,Nice jump!,2016-07-25 18:56:33+00:00,d5qcau7,1.0,t3_4ujb1c,10724.0,reflex
+203,"Yep, sounds fun. Although I find team games kind of pointless without voice communication, even more so with randoms. But FFA is always fun :D",2016-07-25 15:21:05+00:00,d5q23yg,4.0,t1_d5q1qen,512.0,reflex
+204,"Now you mention it, that is kind of what I'm asking for isn't it!",2016-07-25 15:09:14+00:00,d5q1l8b,2.0,t1_d5pzhgz,2955.0,reflex
+205,"Thanks :) You list good points. Of course the game is in Early Access, I do appreciate that. I really just wanted to get a discussion going - I'm sure the devs have plans for other gamemodes/rulesets.
+
+I might try my hand at mapping for the first time, and make a large FFA map!
+
+One thing I think would be useful is for map makers to designate how many players the map is suitable for, and to have that show up in the callvote/workshop information in game. It seems to me that a lot of 1v1 maps show up in the FFA section.",2016-07-25 12:26:16+00:00,d5pvqfi,2.0,t1_d5pv3zi,1473.0,reflex
+206,"Of course, it was a spontaneous thing! Unfortunately I don't get much time to stream/record and I can rarely schedule it :/ figured I'd post here for the hell of it. Sorry!
+
+As it turns out, the stream quality was awful anyway. But I don't think 60fps 720p at 3500kbps is ever going to look good on a stream.",2016-07-23 16:46:39+00:00,d5nr92p,2.0,t1_d5nr68n,139.0,reflex
+207,Gotchya. That's the key point here I think. Unless you totally get it wrong and don't win ;),2016-07-21 08:57:40+00:00,d5kqrv8,9.0,t1_d5kqig8,877.0,reflex
+208,Nice work dev team! I can feel the passion you have for Reflex with every update :D,2016-07-21 08:34:51+00:00,d5kqd7r,1.0,t3_4tur6x,22502.0,reflex
+209,"So you should have tried to get away before you were that low on health, you mean?",2016-07-21 08:19:54+00:00,d5kq3et,7.0,t1_d5k6bwa,36052.0,reflex
+210,"I like that one, although once somebody complained that it had no 'flow'. Which, given my understanding of the term, I think I agree with. But it is a relatively open space and well designed!",2016-07-21 08:18:46+00:00,d5kq2nv,2.0,t1_d5ko7kp,5689.0,reflex
+211,"What if you were just in the middle of the firefight, on the losing end, try to get away but know you're probably not going to make it. Wouldn't that be a good situation to try and deprive them of a good item?",2016-07-20 21:53:59+00:00,d5k59jr,5.0,t1_d5k545j,202.0,reflex
+212,Thanks!,2016-07-20 21:39:21+00:00,d5k4m4s,2.0,t1_d5jvvuh,10934.0,reflex
+213,Sounds good... :D,2016-07-20 21:39:15+00:00,d5k4lyd,2.0,t1_d5jnm1u,21544.0,reflex
+214,Agreed :),2016-07-20 20:48:54+00:00,d5k2b3e,6.0,t1_d5jnwt2,18126.0,gamingpc
+215,"Yeah, I'm just wondering that if you're low on health, you'll probably die anyway. So grab the armour to spite them ;) I get what you're saying about it snowballing though. Depends how low you are?",2016-07-20 20:48:42+00:00,d5k2aqb,3.0,t1_d5juaxn,9882.0,reflex
+216,"So it does, I just looked up. Apparently not recommended though, OBS isn't designed for it.",2016-07-20 20:47:08+00:00,d5k280d,4.0,t1_d5jy3z3,5019.0,gamingpc
+217,Is that the one with all the angular blocks for jumps?,2016-07-20 15:25:14+00:00,d5jmy1n,2.0,t1_d5jktgh,2973.0,reflex
+218,"They both do the same thing, why would it be better? And there's no codec involved for lossless capture, it is just dumping each frame from the buffer to disk.",2016-07-20 15:24:58+00:00,d5jmxmo,4.0,t1_d5jm1uc,1200.0,gamingpc
+219,"See my other comment. FRAPS records losslessly, so if you have the storage space it makes a big difference for fast-paced games with a lot of movement such as arena FPS. Then you can compress it later at better quality than on-the-fly encoding.",2016-07-20 14:20:12+00:00,d5jk6sa,2.0,t1_d5jem7q,11520.0,gamingpc
+220,"Lossless (initially) capture. For fast paced games (like arena FPS), it makes a big difference. Capture with FRAPS and encode yourself (I use Handbrake). Certainly compared to OBS anyway. I haven't tried Shadowplay yet.",2016-07-20 14:18:35+00:00,d5jk4gh,2.0,t1_d5jbxxe,20796.0,gamingpc
+221,"Thanks, I'll check that out :)",2016-07-20 13:52:23+00:00,d5jj4d0,2.0,t1_d5jizxl,201.0,reflex
+222,"Played this one before, it is indeed a good one!",2016-07-20 13:52:07+00:00,d5jj3zu,2.0,t1_d5ji7ji,1509.0,reflex
+223,"The 'ding' noise when you frag someone is perfect. I enjoy it so much, especially when you're on a nice spree.
+
+Ding, ding, ding, ding, ding ding!",2016-07-20 12:38:58+00:00,d5jgpr1,2.0,t1_d5jbyx2,14728.0,reflex
+224,Lovely. Which rendering/shading method did you use? It is quite unusual and I'd love to implement it.,2016-07-20 09:48:49+00:00,d5jd83h,1.0,t3_4tlowb,66141.0,fractals
+225,"Doesn't #7 contradict #2? Is it better to deprive the enemy of the red armour, die shortly afterwards, and then spawn again? Especially if you're health is low?
+
+And isn't avoidance a priority until you have weapons and armour? I",2016-07-19 10:46:12+00:00,d5hzjsb,1.0,t3_4tf50d,77447.0,reflex
+226,"outlines would be best I think, OP's point regards the contrast with different maps so it needs to be some sort of dynamic solution, perhaps?",2016-07-19 10:39:52+00:00,d5hzfmo,2.0,t1_d5hxv7s,5432.0,reflex
+227,"I know right?! When I first played the game I noticed the widgets section and tinkered a bit, and I was like hey this is really cool, you can make the health bar bigger and move it about. So I shoved the scale slider up, moved it around, played.... and then never ever went back to it.
+
+I guess it just didn't bother me that much. Anyway, now I'm tinkering with HUDs, so I'll sort that out soon. Next POV Reflex video should have a neater looking HUD :P",2016-07-18 12:20:01+00:00,d5gpmtu,2.0,t1_d5gp9fs,959.0,reflex
+228,Why do you think that? I think it plays well and it is large enough to accomodate a fair few players in FFA. My only issue with it is I get bored because I played it a lot back in Quake!,2016-07-18 11:06:33+00:00,d5go3kc,2.0,t1_d5g2eua,48466.0,reflex
+229,"Fair enough, not to everyone's taste! This [gallery](http://imgur.com/gallery/j3gP4) has some nice images in it :)",2016-07-16 14:21:38+00:00,d5ejoo2,3.0,t1_d5ej3m5,1208.0,battlestations
+230,"Mathematics has a sort of hierarchy to it, whereby a new branch of maths builds upon existing branches. Humans started with basic counting, then we came up with arithmetic, and algebra, geometry, etc...
+
+The kind of problems that have taken years and years to solve, like [Fermat's Last Theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem), often require either coming up with an entirely new 'branch' of mathematics, or the linking of existing branches in a way that nobody has ever done before. And that type of thinking, is very much the [Louis CK definition of genius](https://youtu.be/3li_aZWt-r0?t=65) (""You have to have had a thought that nobody has ever had before."").
+
+We're talking genius, or at least, exceptional skill, on a level that incredibly few people will possess. It is hard to explain why a mathematical problem is hard because you'll need to understand all of the layers of mathematics just to get a grip on the problem. But on a simple level, it is that very few people will be born, and study mathematics, that can solve these problems due to the type of thinking that is required to do so.",2016-07-16 14:03:21+00:00,d5ej5gr,1.0,t3_4t4jrw,1878.0,explainlikeimfive
+231,"Those screens deserve a better background image. Try [this](http://i.imgur.com/qFVJUFc.jpg).
+
+",2016-07-16 13:50:57+00:00,d5eit7k,1.0,t3_4t4dds,4573.0,battlestations
+232,Terry loves his ~~yoghurt~~ PC gaming.,2016-07-16 13:47:31+00:00,d5eipv3,1.0,t3_4t4iki,1540.0,gaming
+233,110wpm with just two fingers? I'm going to need to see video proof of this!,2016-07-10 22:13:11+00:00,d5757k7,1.0,t3_4s2p5j,84450.0,learntyping
+234,Nice work,2016-07-08 11:04:14+00:00,d543w6f,1.0,t3_4rt0nt,21952.0,reflex
+235,It sure is. I enjoyed using it to separate fighters and bombers from a squadron. Pull the bombers to the back and push the fighters up to take the fire. No more losing bombers unnecessarily - especially since they are now targeted first.,2016-07-07 15:42:04+00:00,d52x2wt,2.0,t1_d528l0u,50973.0,planetaryannihilation
+236,HTC Desire Z,2016-07-04 20:12:29+00:00,d4z68xm,3.0,t1_d4ykush,44458.0,AskReddit
+237,I completely forgot about Steam stats! Thanks!,2016-07-03 20:51:28+00:00,d4y1m9i,2.0,t1_d4woirq,103811.0,reflex
+238,"Thanks man :) I'm mostly looking for FFA, and then duels. I appreciate the links :)",2016-07-03 20:51:12+00:00,d4y1lww,2.0,t1_d4wsqj6,96342.0,reflex
+239,"Yeah, I think I was just following on my train of thought from IRC ;) But seriously, that bug is hella annoying!",2016-07-02 11:25:12+00:00,d4whmnl,3.0,t1_d4w25a5,40162.0,Minecraft
+240,I think it is actually 'Doc's'.,2016-07-02 11:24:11+00:00,d4whm1o,2.0,t1_d4w3gkh,37648.0,funny
+241,Wouldn't that be swell. Especially MC-4! Annoying bloody bug if ever there was one.,2016-07-02 00:02:22+00:00,d4w1pjx,1.0,t3_4qusj5,261.0,Minecraft
+242,"He must be in 'all women are whores' mode, post break-up :P",2016-07-01 23:32:19+00:00,d4w0nop,2.0,t1_d4vzjd4,1863.0,funny
+243,Just when I was warming to Bisping he comes up with this. What a load of bollocks. Even for trying to hype a fight that is incredibly disrespectful.,2016-07-01 21:08:57+00:00,d4vv7jb,2.0,t1_d4va62g,28300.0,MMA
+244,"Yeah, DJ is just freakin' awesome :D",2016-06-30 11:42:55+00:00,d4ttxfw,5.0,t1_d4ti29i,31137.0,MMA
+245,"That is a really good point. Camp Jackson/Winklejohn has, what, four champs? Possibly some former champs. So the knowledge and sparring quality there is top tier to say the least. Probably humbling, at times.
+
+I have a lot of love for GSP because of his humility, and TriStar being a good gym as well, that makes sense.
+
+Whereas of course, Edmond/whateverthenameofhisgym is has only Ronda. And Straight Blast Gym I would say has more talent and certainly better trainers, but Conor is head and shoulders above all of them.
+
+I definitely think JBJ is right. Believing in your own hype, and all the yes-men that surround you, is fatal.",2016-06-30 11:42:35+00:00,d4ttx6h,2.0,t1_d4tg71r,34280.0,MMA
+246,Hnnngh! Prime GSP!,2016-06-29 10:25:36+00:00,d4sdlu1,1.0,t3_4q94le,79548.0,MMA
+247,"You beat me to it. But by extension, if I had enough disposable income and was feeling particularly selfish that day, I might well try it... but I'd probably go to a fancy place with great food including burgers and not 'you'resorichyou'llpayforanything' prices. Or even Five Guys. And perhaps give the money I thought about spending on a stupidly overpriced burger to charity.
+
+Also, upon closer inspection it appears to have gold leaf on it, which is just plain obnoxious. That burger can just fuck off!",2016-06-27 20:22:04+00:00,d4qbbof,2.0,t1_d4q8kki,3415.0,burgers
+248,"Thanks for the feedback - I currently don't do any post production or video editing, but I do intend to learn it (along with a bunch of other stuff, so it might be a while!). I'll see if I can tinker with gamma correction for night scenes or just bump the brightness up overall. Eventually. I'll probably get around to it. Sometime.",2016-06-27 18:00:46+00:00,d4q4hoz,2.0,t1_d4q116j,4423.0,TerraFirmaCraft
+249,Noice!,2016-06-27 13:32:22+00:00,d4pt3cl,3.0,t1_d4pogdz,12016.0,TrackMania
+250,How many players play regularly on the official server?,2016-06-27 07:40:40+00:00,d4plqzg,1.0,t3_4nyuiv,1147838.0,TerraFirmaCraft
+251,"I dig straight down and make a ladder shaft, and branch off from there :)",2016-06-27 07:39:45+00:00,d4plqbl,,t1_d4iqa6i,,TerraFirmaCraft
+252,"I /love/ the prospecting element of TFC. I want it on 1.7.10, with similar ore distribution as well. Triangulating is a neat little mini-game  :)",2016-06-27 07:39:00+00:00,d4plprt,,t1_d4idt0p,,TerraFirmaCraft
+253,"I really don't know the flyweight division that well but certainly welterweigh is stacked. Ludicrously skilled fighters in there. I'm not familiar with many lightweight fighters either, but the few that I do know are certainly good!
+
+I love Mighty Mouse because of his style and technical brilliance, but he's quite humble and not brash, his Twitch streaming is great and shows that you can be a pro athlete and still play videogames. Woo, videogames! He is so flexible, and adaptable, and reacts so well to his opponents style inside the Octagon. And he's so freakin' fast!!",2016-06-27 07:38:03+00:00,d4plp1t,7.0,t1_d4pjvt8,4910.0,MMA
+254,"Exactly! That's the curse of being so damn good - it makes people question other factors to try and criticise. With Ronda the argument had merit, like when you looked at the track records of some of her opponents (or a combined record). But that was and still is a burgeoning division.",2016-06-27 04:43:41+00:00,d4ph8tb,5.0,t1_d4p64ol,18146.0,MMA
+255,"Well that was pretty fucking cool. Can you post a version which doesn't suffer from being screwed by Youtube's compression? Perhaps a lossless version or something encoded differently.
+
+Unfortunately, the nature of the video means compressing it is a tall order :/ Too many little cars on screen all at once, poor codec doesn't know what to do.",2016-06-27 04:36:48+00:00,d4ph0tv,1.0,t3_4px8br,64871.0,TrackMania
+256,"But at the same time hasn't he beaten everyone in his division? Perhaps some of them are weak... but he beats them and everyone else. Flyweight fights don't generally get promoted anyway.
+
+P4P is a silly concept anyway :)",2016-06-26 21:01:40+00:00,d4p0e63,3.0,t1_d4owkn4,6210.0,MMA
+257,Under appreciated by the masses,2016-06-26 21:00:22+00:00,d4p0cd5,2.0,t1_d4ow0hk,7068.0,MMA
+258,"I figured it did! There'll be more casual players as time goes on, it is very early days at the moment. Once it is released and there is publicity and articles in the press, more casuals and others will come.",2016-06-25 19:21:45+00:00,d4nt8c7,3.0,t1_d4nip18,17697.0,reflex
+259,"Yeah. Didn't Q3A have arena mode when you started with all teh weapons? Item control, to me, is pro level. I can't be bothered to memorise the routes and the respawn times! I just wanna log in for 5 minutes, or 50, or a few hours, and jump around fraggin' folks. I think the lack of players and casual ones at that, stopped me from playing it - right now I'm waiting until there are more updates, and more regular players.
+
+Apparently matchmaking is coming in the next update, so that should help a lot? Different game modes would be great :) I guess modders might end up making those though.",2016-06-25 12:46:44+00:00,d4ng54g,1.0,t3_4prz46,8559.0,reflex
+260,"Well thanks very much! I remember watching that video; it was such a good music video, and such a fantastic song :) I think it was months before I started hearing that song on the radio and other places.",2016-06-25 12:44:37+00:00,d4ng3ix,3.0,t1_d4muq15,51150.0,IAmA
+261,"lol!
+
+http://zty.pe
+
+I submitted it before, hence why this is a text post (duplicate links banned here it would seem). Forgot the link!!
+
+I am soopah smort.",2016-06-24 00:25:09+00:00,d4lkabq,2.0,t1_d4lgog6,5440.0,html5games
+262,"Funniest thing I've read on reddit for a fair while! I can't really afford to give you more reddit gold, maybe reddit paper?",2016-06-23 10:18:57+00:00,d4klzo8,2.0,t1_d4kg9eo,17492.0,worldnews
+263,Agreed!,2016-06-23 10:16:24+00:00,d4kly05,1.0,t3_4pejz5,27007.0,MMA
+264,"Herb was pausing the action to let Faber hike up his shorts, right? Good text defence from Letourneau!",2016-06-22 23:11:07+00:00,d4k2oof,1.0,t3_4pc3jw,18230.0,MMA
+265,Check out http://zty.pe,2016-06-22 23:04:10+00:00,d4k2evk,3.0,t1_d4jlpv0,21140.0,learntyping
+266,"I taught myself to touch type like twenty years ago. I can now do about 100wpm, at 95% accuracy (ish). It must have saved me an awful lot of time over the years, and is a really useful skill. Well done :)",2016-06-22 23:03:50+00:00,d4k2efm,1.0,t3_4p8nv7,70303.0,learntyping
+267,"Also, it would be sweet if you gave the centre and radius coordinates for your renders.",2016-06-22 21:51:10+00:00,d4jzdk0,2.0,t1_d4jz973,168.0,fractals
+268,"Another nice render, and particularly a nice palette. What software do you use?",2016-06-22 21:48:22+00:00,d4jz973,1.0,t3_4pcbl4,10829.0,fractals
+269,"Fantastic video. It must have meant a lot to Bisping, encapsulating his journey so well.",2016-06-20 13:20:05+00:00,d4gkxei,2.0,t1_d4ftb3q,56177.0,MMA
+270,"That is fantastic, what shading method did you use?",2016-06-17 15:02:17+00:00,d4d36i7,1.0,t3_4n527j,782528.0,fractals
+271,"Oh sorry, I read which modpack you were playing and then instantly forgot :D",2016-06-12 15:13:03+00:00,d461awb,3.0,t1_d4618fu,114.0,feedthebeast
+272,Mekanism cables handle EU/MJ/RF,2016-06-12 15:09:27+00:00,d46166r,1.0,t3_4nq0qg,10044.0,feedthebeast
+273,Yeah those are my videos /u/Pegasus_Epsilon just linked. It's a fun server :),2016-05-31 12:07:54+00:00,d3qa2qr,3.0,t1_d3pqnt2,43648.0,minecraftsuggestions
+274,"Fair enough! There's no accounting for taste, right? :) I was mainly going off the price of McD I think. Five Guys wasn't that much more expensive than McD and to my thinking, significantly better. I shall seek out more burgers ;)",2016-05-25 13:28:34+00:00,d3j0xvf,,t1_d3dt67w,,burgers
+275,"My friend seems to think there is an inherent input lag issue in the code. At least, I think you do, /u/pegasus_epsilon? He noticed it in one of my videos on my Youtube [channel](http://youtube.com/c/fractaljaguar] &lt;/shameless plug&gt;
+
+Saying that, as I just posted in another thread, it plays a lot more smoothly on one of my machines than it does on the other.",2016-05-19 21:34:19+00:00,d3c5bjf,2.0,t1_d3c1l14,5078.0,Slitherio
+276,What launcher are you using? I do this all the time using the vanilla launcher and I'm sure I've done it with the Technic launcher too.,2016-05-19 21:27:27+00:00,d3c51il,1.0,t3_4jzjdj,80189.0,technicpack
+277,The haptic touch pad thingy on a Steam Controller is ideal!,2016-05-18 21:37:59+00:00,d3asiii,2.0,t1_d3amfj2,7643.0,Slitherio
+278,"Judging from the head of the snake in the middle of the coil of death being in the centre of the screenshot, I'm waging that he/she was the one in the middle!",2016-05-18 21:33:16+00:00,d3asbbw,2.0,t1_d3arogh,875.0,Slitherio
+279,"See I'm all for a rare or medium-rare steak, but it has never occured to me for a burger. As long as it is juicy and has some flavour, I'm good. I'll be sure to try it sometime though.",2016-05-18 21:29:38+00:00,d3as5px,6.0,t1_d3as4jt,45.0,burgers
+280,Different strokes for different folks,2016-05-18 21:08:19+00:00,d3ar7we,,t1_d3ag2nj,13981.0,Slitherio
+281,"I will try this and let you know how it goes! I'm all for cumin and coriander.
+
+Also I've read that when you cook a burger, it (technically speaking) shouldn't be pink inside - that's for steaks. It is ok to leave it uncooked (below a certain temp.) in a steak but because burgers are made from minced meat, it means the bacteria from 'inside' is mixed up and evenly distributed.
+
+Of course in reality you'll probably be fine but I am not sure if the taste difference is as noticeable as it is in a steak. I don't know. But I read it on reddit! ;)
+
+EDIT: I just Googled this, which I should have done before spouting out the above, and apparently it is ok as long as the temperature was ok after cooking and it is stored in sanitary conditions. I shall have to do some taste tests!!",2016-05-18 21:06:30+00:00,d3ar4z8,4.0,t1_d3aj1t6,10018.0,burgers
+282,"I'm not from around here, but been living in Northumberland for almost eight years now.
+
+If I lived in Newcastle I'd probably have gone a few times like you did as well! Nom!
+
+I didn't get a drink, but I do love Coca-Cola, so next time... ;)",2016-05-18 16:41:53+00:00,d3aeihm,2.0,t1_d39gqod,63563.0,burgers
+283,No doubt. I just haven't had one of them yet! We should sticky a thread for location based recommendations of restaurants.,2016-05-18 16:40:45+00:00,d3aegk0,2.0,t1_d39hscm,61950.0,burgers
+284,"Newly opened one in the MetroCentre, Gateshead.",2016-05-18 16:39:52+00:00,d3aeezp,2.0,t1_d39hxgm,61690.0,burgers
+285,"Best I've had because I've never had a 'gourmet' burger from a specialist restaurant or anything like that. But better than anything I have made myself, and miles better than any other fast food restaurant I've sampled from.
+
+There's 'The Handmade Burger Co.' here in the UK too, and the FG burger was much better than anything I've had from there too. Burgers there get soggy really quickly, last one I had I had to eat with a knife and fork (and it wasn't a skyscraper affair!).",2016-05-18 16:39:02+00:00,d3aedl0,2.0,t1_d39nizx,54086.0,burgers
+286,Thanks for the recommendation :),2016-05-18 16:37:05+00:00,d3aeaac,4.0,t1_d39ooum,52435.0,burgers
+287,"Not heard of Might Fine or Whataburger, I assume those are US chains. Also, you can't tell me to get my taste buds checked. The feedback they gave me was accurate; if you don't like the taste of their burgers that's just one of those things!
+
+Also if you say they're ok if they were cheaper, then doesn't that mean the burger is ok? If it was 'fucking trash' you wouldn't eat it even if it was free.",2016-05-18 16:36:49+00:00,d3ae9t3,2.0,t1_d39rnyj,48174.0,burgers
+288,"The black and white view is that it is cheating. Can't really argue, it is an advantage over other players... but a wider picture is that it isn't really cheating, not like using an aimbot in a competitive game of CS:GO for instance. Client mods are much different compared to mods that affect network traffic.
+
+Also, it doesn't really offer that much of an advantage. I've read comments from other players in this subreddit that they regularly get top score on the server they play on and they don't use an extension.",2016-05-18 16:33:43+00:00,d3ae4je,,t1_d2stg98,,Slitherio
+289,I can't figure out the input lag on one of my computers. It is sooooo much smoother on one compared to the other :/,2016-05-18 16:31:10+00:00,d3ae07f,1.0,t3_4jv0zs,42262.0,Slitherio
+290,"Which browser?
+
+I play on two separate desktops, both running Windows 7, using Chrome - client-side one is smooth (and it doesn't render the snakes in segments), and on the other it is almost unplayable, the input lag is so bad.
+
+Note that I believe this to be client lag and not network lag.
+
+I haven't figured it out yet. I think it might be something in chrome://flags but I haven't compared all of them yet, there are lots of them!
+
+Any advice greatly appreciated. It isn't so bad in other browsers, I haven't tested much though. ANd I like the Chrome addons you can get for it (and I don't care if you think that is cheating!).",2016-05-18 16:30:39+00:00,d3adzee,1.0,t3_4juait,53870.0,Slitherio
+291,Yeah I've heard equally good things about them too!,2016-05-17 22:31:01+00:00,d39ffx3,2.0,t1_d39di09,2732.0,burgers
+292,Duly noted!,2016-05-17 22:30:48+00:00,d39ffm3,2.0,t1_d39c0hn,4735.0,burgers
+293,"Yeah - I'd rather eat there infrequently and have the best quality, instead of going to McD more frequently. Quality over quantity!",2016-05-17 21:15:23+00:00,d39c5x7,2.0,t1_d398ykt,4175.0,burgers
+294,"I do not, but apparently in the UK they use beef from Ireland - I am sure they would use European bacon (for freshness). Logistically simpler too.",2016-05-17 21:14:52+00:00,d39c53u,2.0,t1_d39ak1a,2098.0,burgers
+295,"Well that's just like, your definition of cheating, man...",2016-05-14 21:11:48+00:00,d35mn04,4.0,t1_d34f7yd,92703.0,Slitherio
+296,"
+&gt;* Include config options or break up your mods into more parts so pack makers can pick and choose what they &gt;like. Don't impose your vision on a whole modpack unless you're Greg or Reika and can really offer enough &gt;content &gt;to justify it to a core userbase.
+&gt;* Add downsides and obstacles to your mod, and ways to overcome them. Minecraft has some key obstacles like &gt;needing food, needing to smelt ores, limited item durability, etc that define it as a game. I think people overlook &gt;that. Many mods only seek to overcome these, without adding anything new of their own. If you look at the best mods, they all create new obstacles.
+
+Well said sir! I could not agree more :)
+
+edit: formatting",2016-05-14 21:10:05+00:00,d35mkw1,,t1_cz8f163,,feedthebeast
+297,Wow. Amazing what people spend money on eh?!,2016-05-13 16:15:39+00:00,d346o3b,2.0,t1_d33jx6b,49190.0,Slitherio
+298,http://i.imgur.com/YhBYxEB.jpg,2016-05-13 16:15:19+00:00,d346nji,2.0,t1_d33kq7i,47906.0,Slitherio
+299,"That sounds reasonable indeed, I will give this a try. And as it turns out, I already use Dr. Bronner's liquid soap for certain things, so I already own some! Apparently it has a relatively high glycerin content.",2016-05-12 23:06:13+00:00,d33c3ka,1.0,t3_4ivkf5,112421.0,wicked_edge
+300,"Good point about the plastic waste! I did read the 'four basic mistakes' post a few times and noted the grain mapping, which I have been doing. And doing WTG, XTG, and then ATG is good advice indeed. I only ever did with and then against; shaving across the grain had never even occurred to me!",2016-05-12 23:03:05+00:00,d33bzcj,2.0,t1_d337pka,6360.0,wicked_edge
+301,"Thanks man! Regarding the four most common mistakes, I've read that a few times now (very helpful!), and you've reminded me of another question I wanted to ask but forgot - regarding pressure. I tried just using the weight of the blade on my very first stroke, and that worked well just below my sideburns. But elsewhere on my face I find it very hard to do that, and now I find myself using a small amount of pressure to actually cut hair. Because you have to hold the razor at an almost perpendicular angle to your skin, I find that tricky. So am I doing something wrong, or is it normal to use *some* pressure, and you just have to be careful not to use too much?",2016-05-12 23:00:21+00:00,d33bvqw,2.0,t1_d336ph2,7576.0,wicked_edge
+302,Just play in private/incognito mode to disable your extensions,2016-05-12 20:06:47+00:00,d334jd0,1.0,t3_4ix5bo,82808.0,Slitherio
+303,"I just uploaded my first slither.io video to my [channel](http://youtube.com/c/FractalJaguar) a few hours ago! Clearly the game inspired you to upload one yourself!
+
+I got a record of about 20k today and I'm determined to get into six figures now! It's a great little game :D",2016-05-12 20:06:12+00:00,d334ids,1.0,t3_4iw8ro,93537.0,Slitherio
+304,Fair point!,2016-05-12 19:42:17+00:00,d333e6v,3.0,t1_d331bae,2752.0,Slitherio
+305,Just responded to a similar question in another post: https://www.reddit.com/r/Slitherio/comments/4izpeg/hey_devs_readme_serious_thing/d330wth,2016-05-12 18:52:00+00:00,d3313zm,1.0,t3_4j0uwy,16785.0,Slitherio
+306,Where are you getting those numbers from?,2016-05-12 18:50:58+00:00,d3312ac,2.0,t1_d32dgwz,46668.0,Slitherio
+307,"I generally don't consider client-side mods as cheating (some are more blatant than others though), and in particular the zoom feature of the extension I'm using is very nice. I think it adds a bit more strategy and depth to the game. When your snake is super long, a wider FOV helps you play better/with more thought.
+
+Entirely optional anyway, available to anyone who wants it. I'm very surprised the zoom feature is not a part of the vanilla game, I have to say.
+
+But as others have said in this thread, they can play very well and get top scores without zooming, so surely that makes it even less of an issue!
+
+Perhaps it isn't worth the developer(s) implementing something that has already been implemented. Short of putting a link on the website to a recommended extension.",2016-05-12 18:47:41+00:00,d330wth,1.0,t3_4izpeg,37369.0,Slitherio
+308,"You should totally join, it's a sweet server, Peg is a great admin, and it is part of a small gaming community called Laerad, which is awesome :P We hang out and talk about all sorts of shit \o/",2016-05-12 18:43:10+00:00,d330pdd,,t1_d2x914l,,minecraftsuggestions
+309,"A lot of coders will try and write a bot for a game like this purely to see if they can, or to see what happens when they do write a successful bot. Case in point, my friend /u/pegasus_epsilon has written bots/scripts for two browser based games, largely just for the fun/lolz",2016-05-12 18:37:44+00:00,d330ghv,2.0,t1_d323vs7,63179.0,Slitherio
+310,"Found [this](https://www.youtube.com/watch?v=_HGpSp8aS30) but it is 17 minutes long so, it'll have to wait :P",2016-05-11 12:48:05+00:00,d317so1,5.0,t1_d316mga,2531.0,MMA
+311,"Link? That doesn't sound right at all. Doesn't matter how many fingers you are hyper extending at one time, it's still small joint manipulation. If that was the case you'd be submitting people on the ground by breaking fingers!",2016-05-11 11:59:04+00:00,d316gi6,3.0,t1_d30kctq,48014.0,MMA
+312,"Foot sweeps are the best when you get the timing right, so satisfying :D",2016-05-10 23:26:20+00:00,d30m6e1,12.0,t1_d30ly8o,355.0,MMA
+313,"Ah yes, that hand sting! We didn't drill them that much I have to say, but it was still enough to make them pretty automatic for me. Years later when I started doing MMA they were still automatic despite not training in judo for many years.
+
+And any good takedown will wind you I think - even on a crash mat I've been winded by a good harai-goshi!",2016-05-10 23:15:49+00:00,d30lrwg,10.0,t1_d30lizl,393.0,MMA
+314,"That's interesting. I always suspected as much. BJJ guys always want to 'roll', I've found. Rarely start from standing up - although space on the mats is always a concern of course.
+
+Breakfalls are so simple though!",2016-05-10 23:02:40+00:00,d30la2u,8.0,t1_d30l594,214.0,MMA
+315,"They're both derived from Japanese jujitsu, so yes, a lot of overlap. But I feel that judo is more 50/50 between throws and ground, whereas BJJ is more about the groundwork. But that's obviously my opinion. One key difference is that a good throw in judo wins the match (ippon!). Not all throws, just a particularly good one. Hence more groundwork emphasis in BJJ.
+
+Certainly when I trained in judo, there was more focus on the throwing and grappling than submissions. Which reminds me of another difference, in judo you can also win by pinning your opponent down for about 7 seconds or so (maybe 10?). Which again detracts from the value of submissions in judo.
+
+edit: Missed your last sentence. Yes, that's about it ;)",2016-05-10 22:44:50+00:00,d30klcc,6.0,t1_d30iv0l,2625.0,MMA
+316,"That makes little sense. BJJ is having a strong ground-game (from the top or bottom). Muay Thai is striking (feet, hands, knees, elbows). So you need to learn takedowns (wrestling, judo) to better transition from one to the other. BJJ matches/fights do start from standing but I think there is a strong emphasis (especially from an MMA perspective) on the groundwork in BJJ rather than the takedowns.
+
+There is a lot of crossover though. We'd have to get into the nitty gritty details!",2016-05-10 20:26:55+00:00,d30eioz,2.0,t1_d309azt,6468.0,MMA
+317,"The only overlap between judo and BJJ, to the best of my recollection, is the groundwork (armbars, kimuras, etc). The takedowns and throws in judo are unique I believe, although I'm sure some of the more basic throws are taught in an MMA context now, like tai-otoshi, hip tosses like o-goshi (but normally with a headlock grip instead of around the waist), and various sweeps/trips.
+
+The key difference I think is that an MMA fighter trained in judo will be very quick and instinctively capitalise on opportunities for a takedown. They're at the level where it is very much based on feeling, just as a BJJ fighter will roll on the ground in a very relaxed way, feeling for resistances or lack thereof, etc.",2016-05-10 18:43:56+00:00,d309j90,4.0,t1_d305ebr,5284.0,MMA
+318,I'd forgotten about it when I wrote my earlier comment but that video is where I learned about the protected sightlines! Well linked sir.,2016-05-10 18:39:14+00:00,d309b7i,3.0,t1_d2zyzh8,13435.0,explainlikeimfive
+319,Pain,2016-05-10 12:07:23+00:00,d2zt678,1.0,t3_4ios9w,1703.0,AskReddit
+320,"And kids are taught in school to measure in metres whereas older generations are very fond of feet and inches, causing a great divide.",2016-05-10 12:02:02+00:00,d2zt1fm,2.0,t1_d2zs72t,2206.0,funny
+321,"In London, certain view lines are [protected](http://i.imgur.com/JMUP1k6.jpg), which severely limits the options for erecting tall buildings. Not only that but the land London is built on is an unstable river plain, so subsidence is a problem which would be more significant for heavier/taller buildings. Big Ben is tilting because of this.
+
+In contrast New York has a nice slab of rock underneath it, not too far from the surface, coupled with no restrictions for old buildings like St. Paul's Cathedral. So skyscrapers all over the place!",2016-05-10 12:00:11+00:00,d2zszqu,1.0,t3_4iorwl,1474.0,explainlikeimfive
+322,Endurance athletes often have very high VO2 max too.,2016-05-10 11:37:32+00:00,d2zsgmb,3.0,t1_d2zq4ll,7808.0,MMA
+323,"It is not, not in the same way that BJJ is split into gi &amp; no-gi.",2016-05-10 11:09:42+00:00,d2zrve1,2.0,t1_d2zl9x3,21193.0,MMA
+324,"She needed/needs better movement and striking skills so that she can close the gap, clinch, and utilise her judo.
+
+A good striking coach would be a good start.",2016-05-09 23:17:52+00:00,d2z8c82,6.0,t1_d2z7ehs,1519.0,MMA
+325,"Adding to /u/Turkeywithadeskjob's excellent explanation, Holly also successfully defended at least one takedown attempt against Ronda. She was definitely trying!",2016-05-09 22:26:29+00:00,d2z6ez8,4.0,t1_d2ylyw5,28507.0,MMA
+326,Neat :) What are you rendering on?,2016-05-09 21:23:47+00:00,d2z3v0k,3.0,t1_d2yiswg,30445.0,fractals
+327,Very cool :) How'd you make it?,2016-05-09 01:05:56+00:00,d2y27qs,1.0,t3_4ih1jo,3895.0,fractals
+328,"Reverse Google Image search yields this one link: http://slideplayer.es/slide/1056592/#
+
+Translate option doesn't seem to be working for me though, not in Chrome anyway. Doesn't seem very 'fractally' to me anyway.",2016-05-06 20:05:00+00:00,d2vkdjr,1.0,t3_4i68yu,7975.0,fractals
+329,['Tears in the Rain' by Joe Satriani](https://www.youtube.com/watch?v=amT_qZtGn7Y),2016-05-05 13:27:03+00:00,d2tr0pg,1.0,t3_4hzpnl,2767.0,AskReddit
+330,"Great job, you glorious bastard :)",2016-04-30 23:26:24+00:00,d2nugfb,2.0,t1_d2nsn80,3309.0,MMA
+331,Yes :D,2016-04-30 20:48:02+00:00,d2np4f6,3.0,t1_d2msgkz,72906.0,gaming
+332,And [track design](https://www.youtube.com/watch?v=9ady5ORKbgo)...,2016-04-28 20:38:35+00:00,d2l6d1u,1.0,t3_4gvjse,5462.0,gaming
+333,You crazy bastard. So how many hours have you got logged in-game?,2016-04-26 21:35:36+00:00,d2ihsi1,1.0,t3_4gjv04,15507.0,TrackMania
+334,"Yeah, been playing TF2 since it was released in the Orange Box, always played smoothly. Then recently, unplayable frame-rate. Really annoying!",2016-04-25 16:04:53+00:00,d2go3v3,1.0,t3_4gdl33,5214.0,tf2
+335,"Hilarious indeed, and I really want to see a gif of that with the words 'FUCK OFF!'. I feel like MM was thinking ""Get off me so I can keep slamming my knee into you from all angles.""",2016-04-24 15:55:47+00:00,d2ffpg4,2.0,t1_d2f5n2y,29969.0,MMA
+336,"I got the reference, and I thank you for it. We need more phonetically spelt GSPisms in here :D",2016-04-23 09:29:41+00:00,d2e4foi,5.0,t1_d2e3s26,2851.0,MMA
+337,"Seems like you should have posted this as a separate thread rather than commenting on my completely unrelated post ;) Do you mean the uPlay overlay, or the Steam overlay.",2016-04-22 20:07:16+00:00,d2dhmju,,t1_d26qmjk,,TrackMania
+338,You'd need it mixed with 'hardcore darkness' (it is actually a mod!) for the full effect. Hang-gliding over an ocean at night with bioluminescence in the water would be a lovely sight indeed.,2016-04-17 18:54:17+00:00,d26l1bz,1.0,t3_4f7mqs,3738.0,minecraftsuggestions
+339,"Do you already know how to code?
+
+Anyway, just Google away and you'll probably be fine. Start with just trying to render to a file. And you needn't worry about shading either, just render in monochrome, one colour if the point/pixel is in the Set, another colour for if it is not.
+
+Once you've got that down load/make a palette, and do basic iteration based escape value to pick a colour from the palette.
+
+Then use SDL or some other API to render to a window instead of a file.
+
+Hard to be more accurate or give more detailed advice as I don't even know if you can already write code, but even if you can't, rendering fractals is a mighty fine goal to have whilst learning the fundamentals of programming.
+
+Have fun :)",2016-04-17 14:53:38+00:00,d26cljr,1.0,t3_4f56z7,38513.0,fractals
+340,"I type at about 100wpm, at about 97% accuracy. Ish. I find I can correct mistakes I make very quickly and I often correct them based on 'feel' (like I know I miskeyed because of the tactile sensation on my finger). The only way to get your speed up is to practice, and try and pay attention to what is holding you back the most.
+
+But basically, practice. http://zty.pe is a fun game to practice with, it doesn't measure wpm or cpm though, but the game rewards you score-wise for accuracy. A mistake resets your multiplier.
+
+When I first learned to touch type, I was slower typing with all of my fingers than with just a few, the way I'd learnt initially. But I was writing a story at the time, so I just forced myself to touch type and got my speed up.
+
+Probably best to type at the fastest speed at which you are accurate, and then slowly try and speed up from that point whilst maintaining your accuracy.",2016-04-17 12:15:11+00:00,d268jv2,1.0,t3_4f44ag,48293.0,learntyping
+341,Oh but I **do** want to know how many times you missed the finish!,2016-04-16 17:39:49+00:00,d25erbc,1.0,t3_4f1ztn,13255.0,TrackMania
+342,"I fundamentally disagree with the decision, the more I think about it, the more I think it is just wrong/silly to force a player down a particular 'path'. There is no real difference if you picked one car/environment, completed it through to black, and then pick another series.
+
+It'd be a lot bloody nicer. I don't get what you mean by 'the lack of variety that you require'. At the end of the day it is about giving the player a choice. It won't stop people from playing it series by series. Give them the choice.",2016-04-14 11:46:31+00:00,d22fxgy,2.0,t1_d229l2r,21044.0,TrackMania
+343,What's your steam username?,2016-04-13 16:22:15+00:00,d21bafo,3.0,t1_d219bvn,2482.0,TrackMania
+344,"In game book. Preferably Enchiridion based (like the Lexica Botanica from Botania). Tinker's mods won my heart immediately by having *in-game* documentation.
+
+I cannot emphasise enough how much I appreciate it when a mod author implements documentation in the form of an in-game book. It makes learning the mod so much easier and far more immersive.
+
+I cannot stand trawling the web for wikis, tutorials, guides, and videos in order to learn a mod. It completely destroys the immersion and the gameplay, imho. I still do it, as often it is the only way to learn a mod that is well worth learning.
+
+But Mariculture, Botania, Tinker's, OpenBlocks, RotaryCraft, etc... so /u/vazkii /u/reikakalseki, /u/mdiyo, u/joshiejack - thankyou!
+
+And to answer OP's question, I think I'd prefer it to be short and to the point, but throw in some jokes there and make it lighthearted if you want, it doesn't have to be super ~~cereal~~ serious. Make it reflect your personality :)",2016-04-13 16:21:34+00:00,d21b97i,1.0,t3_4eljzv,10344.0,feedthebeast
+345,"Might be to do with the maps you're playing, but if you're playing the same maps as before that won't be it. Check that your system/GPU isn't overheating and no other settings have changed.
+
+What is your spec?",2016-04-13 15:25:43+00:00,d218m7x,1.0,t3_4ehfws,75478.0,TrackMania
+346,Valley and Lagoon seem to be particularly twitchy!,2016-04-13 15:25:01+00:00,d218l0u,2.0,t1_d20ig11,55914.0,TrackMania
+347,Cobble makes me sad.,2016-04-13 15:24:35+00:00,d218kaw,1.0,t3_4ehjsz,74036.0,Minecraft
+348,No problem :),2016-04-13 15:24:00+00:00,d218jd1,3.0,t1_d214sch,5189.0,TrackMania
+349,"True - I want to try using the haptic pad for steering though, instead of the D-pad, and last night I was fiddling with the sensitivity and dead zone settings, but it was still too twitchy for my liking.
+
+I understand it will take time to get used coming from a keyboard, but it feels like I am missing something.",2016-04-13 15:23:51+00:00,d218j3t,2.0,t1_d215e65,4275.0,TrackMania
+350,Oops! My bad! :),2016-04-13 15:22:31+00:00,d218gwx,5.0,t1_d216lqa,2503.0,TrackMania
+351,"Sure. This is my [channel](http://youtube.com/c/FractalJaguar), I'd be happy to collaborate with you.
+
+I'm on PC, in the UK, decent system, FTTC connection, blah blah blah. Split screen (if possible over Internet), or we could just create a room with our favourite tracks and race each other :)
+
+Should be fun :)",2016-04-13 13:49:46+00:00,d214hl5,1.0,t3_4eleat,3603.0,TrackMania
+352,"Cool :) What's your in-game name, just so I know who is who! Hopefully my ghost will be something to aspire to, haha! I'm not that good.",2016-04-13 13:08:41+00:00,d212zsm,3.0,t1_d20z2sg,10059.0,TrackMania
+353,"Yeah see, that's what I figured - I've finished the second (red?) series entirely now except for two bronze medals on lagoon (all gold, some trackmaster, and those two lboody bronzes). So I'm trying to get gold on those two lagoon tracks in order to unlock the next series.
+
+But the handling is /so/ twitchy, and it is even worse on the beaches. I'm trying with my Steam Controller but even after twiddling with the settings it is still incredibly fiddly. Need to try and use the haptic pad instead of the d-pad but not figured that out yet.
+
+Extremely frustrating :/",2016-04-12 22:01:15+00:00,d20e4jc,4.0,t1_d20bnjj,3483.0,TrackMania
+354,I'm wondering if my new steam controller (or indeed any controller) will make me like valley and lagoon more. They're quite twitchy so I think analogue will be better,2016-04-12 20:39:26+00:00,d20ajf8,2.0,t1_d1zrzp7,24431.0,TrackMania
+355,"Nobody likes a gloater ;)
+
+j/k, gg!",2016-04-11 22:33:27+00:00,d1z25cm,1.0,t3_4eat0c,30717.0,TrackMania
+356,"Good for you compiling this list. It sucks that you have to though. I don't understand why the record system isn't better! I know they wanted to keep things simple etc, but the competitive nature of TM lends itself to a comprehensive record system.",2016-04-11 22:33:11+00:00,d1z24z5,1.0,t3_4ed35y,1212.0,TrackMania
+357,"I cross posted this from /r/trackmania earlier today. You could at least give the author credit:
+
+https://www.reddit.com/r/TrackMania/comments/4e63ha/trackmania_turbo_press_forward_by_ben3847/",2016-04-11 22:30:08+00:00,d1z20lv,1.0,t3_4ebkov,20245.0,gaming
+358,Intensive work then. I'm impressed ;),2016-04-11 14:41:51+00:00,d1yh4ty,3.0,t1_d1yfv0g,2012.0,TrackMania
+359,"Well that was fucking amazing.
+
+How long did it take you to make that track?
+
+I felt this deserved to be cross posted to /r/gaming - it really is a stunning video.",2016-04-11 13:51:32+00:00,d1yf9zv,1.0,t3_4e63ha,81973.0,TrackMania
+360,"Also I think overall Canyon and Stadium are the most fun to play. Valley is super twitchy handling and the Lagoon/whatever environment/cars is quite tricky handling too.
+
+I for one certainly prefer Canyon &amp; Stadium|
+
+also: probably to do with timezones. I've seen servers filled to 100 before.",2016-04-11 13:47:54+00:00,d1yf5j4,2.0,t1_d1ybcxr,8980.0,TrackMania
+361,FractalJaguar :),2016-04-11 13:46:52+00:00,d1yf4c7,1.0,t3_4e75w9,66209.0,TrackMania
+362,"I don't know whether she is or not, it is just a guess/hunch. My reasons for thinking she might be done compared to other champions coming off a loss:
+
+* plenty of evidence of her being emotionally unstable
+* sticking with Edmond/gym
+* and thus not training with other champions (look at Jackson-Winklejohn for instance)
+* film career commitments interfering with her training
+* she couldn't eat an apple for 3-6months after Holm's kick to her head. That isn't just a regular loss, that's a massive shake-up to her confidence and self-belief.. you've got to have a very strong character to survive that and bounce back. GSP did it. I don't think Rousey is that calibre.
+* Perhaps the most dominant female MMA fighter so far but I'm not sure about GOAT..
+
+I /want/ her to bounce back and I want to see her throw women around the Octagon with her excellent judo and armbar her opponents left right and centre. It was spectactular to watch. But I also don't want her spouting ridiculous trash talk like before, case in point: ""I believe I can beat anyone in my division with one hand.""
+
+edit: missing bracket",2016-04-11 13:46:14+00:00,d1yf3kn,9.0,t1_d1xn35h,62373.0,MMA
+363,"Muay thai would be more comprehensive but straight boxing would get her a long way - Edmond only taught her boxing. Learning to kick is pretty basic, I don't think it would lend itself well to her style but they can still be very useful weapons.
+
+She's probably done. Shame, really. Her judo was beautiful to watch.",2016-04-10 11:40:03+00:00,d1x6dew,7.0,t1_d1x625i,1213.0,MMA
+364,"I was hoping that Rousey would be humbled by her defeat to Holm, seriously analyse what went wrong, accept that Edmond is not a good coach and is holding her back.. I thought she might switch to a different gym, and be hungry to get the belt back, and improve her striking.
+
+Rousey's judo + adequate/good Muay Thai? Or even just boxing/kickboxing... that'd be awesome. But nope, she stuck with Edmond, and I think her career might well be finished. I don't think she's hungry any more, and emotionalyl and mentally I don't think she has handled the defeat well.
+
+You'd think she would listen to her mother regarding Edmond. I'd love to know the details but I can only speculate.",2016-04-10 11:18:13+00:00,d1x619x,5.0,t1_d1x42qe,8333.0,MMA
+365,"Back for UFC, I worked a shift on Saturday until 10pm, set an alarm, woke up at 3am, watched the event on my PC (because Setanta had just lost the broadcast rights, so the UFC allowed anyone in the UK to stream the event for free online), then went to work to start a shift at 7am.
+
+Totally worth it :D I had just started training, my coach kept talking about how amazing GSP is, I looked at videos of him on Youtube and loved his fighting style and his humility, and I was so pumped to watch him fight!",2016-04-10 11:15:34+00:00,d1x5ztp,3.0,t1_d1x5mvz,1482.0,MMA
+366,"Please ask him about the state of MMA in the UK - imho it is not widely accepted, considered second and inferior to boxing (broadly speaking), and critically, it has no single governing body. MMA in USA in contrast is huge.
+
+Off the top of my head the only British fighters I can think of are Dan Hardy, Brad Pickett himself, and Michael Bisping. Looking at wikipedia just now I can see Joanne Calderwood (Scottish iirc).
+
+Of course there is Conor but he is Irish, not British. But Ireland is in the British Isles so, y'know, same neck of the woods but a very different country!
+
+I train casually in MMA here in the UK and it seems difficult for the competitive fighters in my club to get fights, amateur or semi-pro/pro. It just isn't that big a sport here. How does Brad think that can change. Do we need a Conor McGregor style character to make it popular?",2016-04-10 11:12:58+00:00,d1x5yeg,1.0,t3_4e1q29,69993.0,MMA
+367,"Why? I'm really curious - what kind of features does it have? All I use is the software that came with my mobo to tweak fan controls, I OC directly in the BIOS, and I use Real Temp (set to load as as a service in Windows task scheduler) so that it appears in my system tray. So I have two numbers always in my system tray, one for GPU temp, one for CPU temp. I find that to be very useful. Right now my CPU is at about 24 degrees C whilst idling :) And it never gets above 60 degrees under load.
+
+I have to say the ASRock software (for my mobo) is not the nicest in terms of software design but it does the job I guess.",2016-04-10 10:53:28+00:00,d1x5o8s,2.0,t1_d1wp1nt,40518.0,buildapc
+368,Yeah that sounds about right! What do you think of TM Turbo so far?,2016-04-10 10:28:08+00:00,d1x5bfw,4.0,t1_d1x1tuq,13606.0,TrackMania
+369,"Ohai! Yeah I wondered why someone suddenly commented on my TFC first episode, that makes more sense now :)",2016-04-10 10:27:35+00:00,d1x5b6h,4.0,t1_d1x08ag,18021.0,TerraFirmaCraft
+370,"That was actually just me tinkering about in IrfanView, haha :D But I am working on the palette generation side of things, especially since your last little update for me.",2016-04-10 10:26:13+00:00,d1x5ah6,3.0,t1_d1x24db,12557.0,FractalPorn
+371,I demand an update! Have you used /u/Pegasus_Epsilon's program in your class yet?,2016-04-10 01:37:53+00:00,d1wt4o0,1.0,t3_40f5aj,7764859.0,fractals
+372,Credit to /u/pegasus_epsilon - I used his renderer for this,2016-04-10 01:20:21+00:00,d1wshba,1.0,t3_4e3yvk,47.0,FractalPorn
+373,I looked at a lot of the content in this subreddit before placing my order and picked up on that very same recommendation,2016-04-10 01:17:53+00:00,d1wseg1,4.0,t1_d1woj0l,6893.0,wicked_edge
+374,^ what this guy said :),2016-04-09 22:46:49+00:00,d1wnau6,2.0,t1_d1wingg,8041.0,TerraFirmaCraft
+375,My PB run starts at about [11:35](https://youtu.be/rMzJZcqMN58?t=695),2016-04-09 22:44:10+00:00,d1wn7mq,1.0,t3_4e3ehg,170.0,TrackMania
+376,"It was near perfection! I left you a comment on YouTube /u/walkingtheriver, I've got a few TMT videos on my own channel but I'm nowhere near as good as you! I guess you've been playing since Nations at least?",2016-04-09 22:36:38+00:00,d1wmylc,2.0,t1_d1wlbx0,2854.0,TrackMania
+377,"Thanks! It was very enjoyable, I'm looking forward to shaving again for the first time in... forever?",2016-04-09 21:24:24+00:00,d1wkhfc,2.0,t1_d1vkhqr,79931.0,wicked_edge
+378,"I actually surprised myself, it was /not/ as hard as I thought it might be. I remembered something i read  here about letting the weight of the razor do the job, which was excellent advise. The angle wasn't as hard as I thought it would be, and when necessary you can press harder than I thought without cutting yourself, but I only had to do that a few times, I'm not sure why.
+
+I got an excellent close shave, particularly on my chin where the curve is greatest.",2016-04-09 21:23:38+00:00,d1wkghx,2.0,t1_d1vpqqm,70601.0,wicked_edge
+379,"I can't remember but I'll find out later. I ordered everything from The Traditional Shaving Co. in the UK. Nice website, quick delivery. It might be the same make as the cream, which was Edwin &amp; Jagger. Artificial fibres, because apparently badger hair is unnecessary and not even worthwhile?",2016-04-09 21:22:30+00:00,d1wkf4n,2.0,t1_d1vuu51,60456.0,wicked_edge
+380,ok :) Hard to tell on the Internet.,2016-04-07 15:11:05+00:00,d1tlraq,4.0,t1_d1t61xl,37632.0,tf2
+381,Not my video :) I just thought it was funny and well made.,2016-04-06 23:07:09+00:00,d1sszxq,2.0,t1_d1sirvz,13558.0,tf2
+382,Odd. It worked for me just now.,2016-04-06 16:29:06+00:00,d1sahgu,2.0,t1_d1s9nhc,1024.0,tf2
+383,"Nicely done, /u/Kaibz :)",2016-04-06 12:13:41+00:00,d1s0art,1.0,t3_4dlgo3,45.0,tf2
+384,lol!,2016-04-06 01:56:57+00:00,d1rkx5l,2.0,t1_d1rkuq0,89.0,TrackMania
+385,"""You don't have to put everything on every shot.""
+
+Pretty sure this was the key bit of advice. If he'd taken his time and not hunted the KO, Conor might well have won.",2016-04-05 14:36:54+00:00,d1qpp6h,1.0,t3_4dce5h,72536.0,MMA
+386,Must have missed that. Thanks :),2016-04-05 14:31:25+00:00,d1qph01,3.0,t1_d1psdaa,64964.0,TrackMania
+387,"That looks really bloody good mate, nice work. I wasn't aware of this feature, I must look it up!",2016-04-04 20:24:23+00:00,d1ps63r,1.0,t3_4dakwj,33767.0,TrackMania
+388,How do you start your own server?,2016-04-04 20:23:35+00:00,d1ps4qw,1.0,t3_4dcaxi,8044.0,TrackMania
+389,"Absolutely. If the skill gap is that large, there is no need to go for the head when you can just as easily go for the body. That still teaches a lesson, if you're trying to do that. Can drop someone easily if you wind them - my coach winded me once (accidentally, cos I was not in good shape at the time!) whilst I was wearing body armour! :O",2016-04-04 13:27:43+00:00,d1pab49,6.0,t1_d1ovk8y,38382.0,MMA
+390,"I agree with all of your points, but I must point out that it is not my game. As an HTML 5 game you c an easily see the source code (JS), although it might be obfuscated. Last time I checked it didn't even have line breaks so you'd need to parse it and output to your desired format.
+
+Also the current scoring system rewards accuracy and not speed, or an average of both, which I find rather annoying.
+
+I recorded two videos on my channel whilst playing it, actually, if you want to check it out.
+
+https://www.youtube.com/watch?v=vAavbGlXPdM
+
+https://www.youtube.com/watch?v=K3efAmvuQJY
+
+What is your best score on Z Type at the moment? How fast/accurate?
+
+edit: formatting",2016-03-20 19:28:46+00:00,d1703o2,2.0,t1_d16iqlr,45028.0,learntyping
+391,Spot on!,2016-03-19 14:13:17+00:00,d15nzby,2.0,t1_d14y3gt,63835.0,MMA
+392,So was Edgar #2?,2016-03-16 21:26:00+00:00,d12hhm5,3.0,t1_d12g11s,1945.0,MMA
+393,"This is a tough one because:
+
+Conor won the belt from Aldo without fighting Edgar (who I don't know well but was considered the #1 or #2 contender, I think). So that needs to happen, but....
+
+Aldo was perhaps the most dominant champ the UFC has ever had. The pound for pound king, perhaps shared with JBJ and MM. 10 years undefeated, lost because he threw an overly aggressive cross (probably because he was emotional from the trash talking!). He needs an instant rematch for that; as soon as he is ready to fight again (he was KO'd, I don't know when he was medically advised to train and fight again. I should look that up).
+
+So yeah, a tough one! Happy to watch either fight though, but I'm leaning towards Aldo. He deserves it. If Conor beats him again, fight Edgar. If Conor loses and Aldo gets his belt back, Conor can fight Edgar for the first time. Simple.",2016-03-16 18:30:05+00:00,d129i42,1.0,t3_4annwy,20073.0,MMA
+394,"Shameless self promotion of my Youtube channel, here is a [video](https://www.youtube.com/watch?v=vAavbGlXPdM) of me playing the game whilst listening to /u/Gramatik_Lowtemp's fantastic music!
+
+Beat my high score!",2016-02-23 21:00:53+00:00,d0b24oa,1.0,t3_478qt5,113.0,learntyping
+395,"Good point, heel palm strikes :)",2016-02-22 20:34:10+00:00,d09p086,4.0,t1_d097w5z,26568.0,MMA
+396,"Diaz has a very unique low-power, high volume style of punching. I guess that takes advantage of his strong cardio level. He dictates a furious pace.",2016-02-22 12:49:04+00:00,d097f60,4.0,t1_d092hav,18541.0,MMA
+397,"If they fought without gloves they wouldn't strike to the head much, if at all. The best BJJ fightesr would arguably have a massive advantage, and wrestlers with good submissions. And the fighters with the best punches and kicks to the body, leg kicks, and elbows/knees would probably prevail.
+
+I can see Jon Jones doing well with that, his elbow strikes are pretty damn decent. Jose Aldo would just drop you like chopping down a tree with his leg kicks. GSP would have probably taken you down over and over again and fought for a submission on the ground.
+
+I don't know all the fighters well enough to really pick many more fighters than that.",2016-02-22 12:46:38+00:00,d097de8,2.0,t1_d0970h5,1103.0,MMA
+398,"That is just fantastic, your friend has a really honed skill there.",2016-02-22 12:41:38+00:00,d0979v5,1.0,t3_46yjlo,38966.0,MMA
+399,"/r/minecraft doesn't seem to care for mods, and also just because reddit. Quality comments (far better than mine) get downvoted all the time.
+
+""make the game more interesting"" is a huge understatement! I didn't play for a long time until /u/Pegasus_Epsilon showed me a modpack he made. Think he made the modpack for me to get me playing again, iirc. Bless him :D
+
+I'm so grateful to the people behind Forge, FML, MCP, and all the modders themselves!",2016-02-20 02:45:45+00:00,d06nkzb,3.0,t1_d04l7v4,125521.0,Minecraft
+400,"Thanks, that's really helpful. x bursts per second not x mana per second. I probably knew that back in the day and then forgot!",2016-02-20 02:43:34+00:00,d06nijh,3.0,t1_d04q67e,118822.0,feedthebeast
+401,"Hah, didn't even think they were photoshopped 'cos I'm so used to seeing them in mods!
+
+I'm curious why Mojang have only implemented 6 trees, not just why they haven't implemented cherry trees!",2016-02-20 02:42:29+00:00,d06nhcg,3.0,t1_d0503db,106566.0,Minecraft
+402,"6 endoflames and one basic mana spreader won't be efficient I think. I have four endoflames at the moment and use three mana spreaders on them, pointing to a mana distributor with four pools. I started with one mana spreader and noticed it was always full of mana, as were the endoflames. I added one and then two more and that seemed to hit the sweetspot.
+
+As I understand it, the mana spreader is limited to a certain amount of mana per burst, and x bursts a second, so it can only handle a certain number of mana generating flowers.
+
+And as /u/werhmann_tx says, use pressure plates under the opencrates so you can send a signal back to the hoppers/whatever to shut them off. That way you shouldn't waste fuel (e.g. if it despawns).",2016-02-18 14:45:37+00:00,d04ijz3,1.0,t3_46e845,14069.0,feedthebeast
+403,"Mods... There are so many wonderful mods, particularly ones that add trees. I love trees in Minecraft - it has always boggled my mind that the vanilla game only has like 6 species of trees.
+
+Mods add giant redwoods (Natura), maple, willow, rubber, all kinds of fruit and nut trees.... I could go on. The ones in this screenshot are perhaps Japanese Maple trees? Which are also implemented in multiple mods and they look beautiful!
+
+The mods that add biomes are also lovely, not to mention realistic world gen. I could go on and on about how much I enjoy playing Minceraft + mods, but I'll keep this short.
+
+Suffice to say if you want a richer experience Minecraft, investigate mods. They're not that hard to install, there are multiple servers out there (I could recommend a few); particularly ones run by small gaming communities such as the ones I play on. Find the right community and you can have a hell of a lot of fun playing Minecraft with likeminded people.",2016-02-18 14:34:45+00:00,d04i6hz,1.0,t3_46eiv1,7297.0,Minecraft
+404,"The tools not being aligned properly - they do the same thing in TiC drying racks. I assume they are related somehow? You posted this in IRC a while ago, can't remember if I mentiond it or not. Nice work anyway!",2016-02-17 15:16:43+00:00,d038tqt,1.0,t3_45nchg,316360.0,rsmcmod
+405,Yes :),2016-02-08 22:52:18+00:00,czsro5j,4.0,t1_czshjgj,14625.0,MMA
+406,"Love it, nice link :D Watched this ages ago, forgot it.",2016-02-08 13:23:08+00:00,czs5oz5,2.0,t1_czrz85q,23858.0,MMA
+407,"I enjoy training in MMA because of the sound that I make when I hit the pads or the bag juuuust right. I love hearing my coach praise me, even if he just says ""good"" after landing a good combo doing padwork. I love light sparring when I try a technique and land it, like when I was in the clinch the other day and I jumped to get my feet into a tai-otoshi (judo throw) stance and took the guy down to the ground. I love the sound of throwing someone square onto their back onto the mats, and occasionally seeing their stunned expression.
+
+And I love the camaraderie of the people in my club, the laughter, the jokes. Discussing the last UFC fight. The social side of it is a big part of why I train, I think.
+
+And I enjoy the mental and emotional aspects. Being calm whilst fighting, strategy, countering someone's style, the science of fighting is deep and fascinating to me.
+
+And watching MMA? I love the fighters and how hard they train. I think they're some of the most elite athletes from any sport. I love the personalities, even the ones I hate. Characters like Conor McGregor, GSP, Johnson, Jones. They're all different. I love that Johnson streams gameplay on Twitch! I love it when Bruce Buffer shouts ""IT. IS. TIIIIIIIIME."" I love the walkouts, the hat stealing, the intro music, the coaches advice between rounds.
+
+I love the purity of one on one combat. It's the same as chess or go. The strategy and the physicality combined. The execution of a perfect gameplan like Holm vs Rousey.
+
+I could probably go on and on on and on :) I love martial arts, and I love MMA :D",2016-02-08 13:17:38+00:00,czs5kmu,1.0,t3_44pm2m,26719.0,MMA
+408,"Muay Thai? you'd have no wrestling/takedowns/BJJ but it'd be better than boxing or kickboxing. You start from standing, so arguably the muay thai component is more practical. Or polar opposite, BJJ! Just don't get hit!",2016-02-08 12:47:00+00:00,czs4y9c,2.0,t1_czrlxzt,44659.0,MMA
+409,"Depends what your current weakness is, arguably. Force imparted is a component of speed, velocity, and mass. You can't really change your mass in a fight (!), so focus on your foot work and movement through your hips so your transferring as much power as possible from the moment your foot starts moving to start the punch.
+
+Then work on your speed and explosiveness. Plyometrics, probably. One good exercise is to use resistance bands. Tether them to something behind you, focus on good punching form.",2016-02-08 12:45:25+00:00,czs4x6j,2.0,t1_czrnua5,41706.0,MMA
+410,Others have mentioned checking for greasing and weighted gloves - they also check safety precautions i think - gumshield and groinguard. Probably a bunch of other things and verbal checks.,2016-02-08 12:41:58+00:00,czs4uro,2.0,t1_czrrypi,35183.0,MMA
+411,"That's a really interesting point, I'm going to ask my coach about that in my next class. I think the side kick is a highly under used weapon in MMA, but Wonderboy telegraphs it by bouncing around in that extremely side-on stance. So his opponent knows it is coming, but Wonderboy seems to kick fast enough for them to not be able to defend. Effective lateral movement could be a good counter to it, but I think if you [pivoted](https://www.youtube.com/watch?v=z5rtp8guIZo) quickly (when you see them moving to one side) you could defend.
+
+Although arguably in the side on stance your putting your weight on (mostly) your back foot, pivoting would require (most of) your weight on your front foot. But probably easy enough to shift it.
+
+I am going to experiment!
+
+As for which welterweight could counter easily - which ever one has the best movement. Condit, perhaps, or Rory, but I'm guessing there on limited memory of footage!",2016-02-08 12:40:53+00:00,czs4u1c,2.0,t1_czrujq7,31277.0,MMA
+412,"I intend to, next time I see him :)",2016-02-06 05:24:45+00:00,czpqe01,6.0,t1_czosx1o,54948.0,rsmcmod
+413,"I wholeheartedly agree. I think WAILA and ModTweaker support is essential for all mods and I believe /u/Pegasus_Epsilon agrees with me. NEI too, but RSMC has done a good job of implementing its own skill and recipe guide. However I would point out that on my PC, the text for a lot of the recipes is not legible (1080p, 27"" monitor). Some sort of text rendering issue I'm sure, it probably isn't scaling the text/font properly. I'll take a screenshot and submit a bug report once I learn the proper channel to report it to.",2016-02-05 13:34:28+00:00,czoryux,4.0,t1_czo1tsn,57209.0,rsmcmod
+414,"Aldo absolutely deserves an instant rematch, considering his absolutely amazing record. Lately I have felt frustrated with the UFC operating first and foremost as a company and not as a champion of the sport of mixed martial arts. They make so many decisions as a business and although that is understandable, of course (they ARE a business), I really feel that it holds back the sport.
+
+Correct me if I'm wrong but you don't get this kind of nonsense in other sports. Soccer, football, basketball, baseball, tennis. You win, you progress to the next round. There's an entire system dictating what happens next.
+
+The UFC always had issues with Aldo, particularly Dana White I think, so it seems like they just threw Aldo away after his loss to McGregor and focused all their attention in turning McGregor into the next cash cow.
+
+Conor McGregor is paving his path into the future and he deserves it - he's on a winning streak, he's quite the character, and he's focusing a lot of attention onto MMA as a whole. Besides that, he is bringing new fans to the sport. A whole country, almost!
+
+I want to see a Rousey v Holm rematch but I was very glad that they gave Holly the fight against Miesha. The fact that they were even considering holding her back until Rousey could fight again was shocking and is further evidence that the UFC is holding back the sport. Rousey will probably come back and when she does, it will be fascinating to see if she has come back better than ever, or if Holm just wrecks her again. My money is on the latter outcome.
+
+JJ definitely deserves his rematch, and Cruz imho is a superior fighter to Dillashaw, so you have my full agreement there!",2016-02-05 13:25:43+00:00,czorr32,2.0,t1_cznq80z,72508.0,MMA
+415,"Well I'll be sure to work on that list of suggestions then!
+
+Regarding the combat systme, I like the attack/defense/strength system, but it is a massive clickfest. The noise disturbs my lady!",2016-02-04 18:57:19+00:00,cznunts,4.0,t1_cznigla,17934.0,rsmcmod
+416,"I thought as much. Hopefully some plugin/addon mods can make some things integrate nicely. To be honest, so far everything has gelled together nicely. It is good to clarify your vision for the mod though, and I fully agree - spend your time developing the mod itself and don't worry about integration. Most of it takes care of itself and we've found that adding certain mods can help solve any compatibility issues.
+
+The trade system in particular, coupled with the Vending mod, is very nice indeed. Some sort of economy system to make it harder would be really neat. At the moment I've planted about 200 TiC slimetrees and periodically harvest the slime, craft to slimeballs, and sell the slimeballs to the silly, silly merchants. Profit! Then to the vending machines!
+
+It is quite neat and useful in the early game, and you can set the prices so it doesn't become super easy. One wood chip for a diamond for instance!
+
+Have you got a roadmap for future development or are you just tackling things as and when you see fit?",2016-02-04 13:11:41+00:00,cznh7ij,2.0,t1_czngm3v,1603.0,rsmcmod
+417,"Ooooh, you've implemented a climate/rainfall system? Similar to TFC? That's very nice indeed!",2016-02-04 11:08:09+00:00,cznexlo,,t1_czh21vh,,rsmcmod
+418,"Currently our RSMC+ server is running the following:
+
+* Armourers-Workshop-1.7.10-0.38.1.98.jar
+* Baubles-1.7.10-1.0.1.10.jar
+* BiblioCraft[v1.11.4][MC1.7.10].jar
+* Carpenter's Blocks v3.3.5 - MC 1.7.10.jar
+* DragonAPI 1.7.10 V10d.jar
+* Enchiridion-1.7.X-1.2b.jar
+* EnderCore-1.7.10-0.2.0.31_beta.jar
+* EnderIO-1.7.10-2.3.0.422_beta.jar
+* extrautilities-1.2.12.jar
+* IguanaTinkerTweaks-1.7.10-2.1.5.jar
+* Jabba-1.2.1a_1.7.10.jar
+* Mantle-1.7.10-0.3.2.jar
+* Mariculture-Deluxe-1.7.10-1.2.4.2a.jar
+* OpenBlocks-1.7.10-1.5.jar
+* OpenModsLib-1.7.10-0.9.jar
+* RandomThings-2.2.4.jar
+* RotaryCraft 1.7.10 V10d.jar
+* RSMC-1.7.10-10.13.4.1448-0.4.7.37.jar
+* RTG-1.7.10-0.4.0.jar
+* Secret-Rooms-Mod-1.7.10.jar
+* simpleflight-0.8.jar
+* supercraftingframe-1.7.10.3.jar
+* TConstruct-1.7.10-1.8.8.jar
+* TSteelworks-1.7.10-1.1.1-17.jar
+* twilightforest-1.7.10-2.3.7.jar
+* vending-v1.2.3.jar
+* witchery-1.7.10-0.24.1.jar
+
+Some of these were requested by members of our little gaming community, and I for one have a few other requests. It is very much testing to see which mods integrate well with RSMC. So far so good, I'm loving it!
+
+edit: also, you could always play with us instead of setting up your own server ;)",2016-02-03 10:51:08+00:00,czm4kqp,2.0,t1_czlmplp,39860.0,rsmcmod
+419,"I aim for 20 minutes, always. I'll stretch to 30 minutes if I feel it is necessary. If LP videos are long they need to have links and descriptions to certain times etc. In terms of watchability a long video will instantly put me off - and when it comes to highlight stuff, don't get me started. Ultimately just personal preference though!",2016-02-02 23:28:06+00:00,czlm0i7,1.0,t3_43weex,7170.0,letsplay
+420,"Dude, that is frickin' amazing! Nice work!",2016-01-31 14:26:51+00:00,cziksz6,2.0,t1_czihcxj,12807.0,bodyweightfitness
+421,"Nice find, I hadn't seen this before, just the leg extensions one. Shocking. Makes you wonder what Cain would have been like, and what he would be like now, if he had better trainers.",2016-01-28 12:53:50+00:00,czf1t17,6.0,t1_czeukr4,24760.0,MMA
+422,That's good to hear man!,2016-01-28 12:28:17+00:00,czf1ahz,2.0,t1_czeydgr,11183.0,planetaryannihilation
+423,Turn off the integrated graphics/iGPU (Intel HD 4xxx or whatever) in the BIOS?,2016-01-27 21:56:50+00:00,czedhem,1.0,t3_42z38o,9784.0,Minecraft
+424,"For Minecraft, I record at 60fps 1080p at 8192kbps, CBR, using OBS. Although I have been dabbling with using FRAPS for lossless capture and then compressing it myself using Handbrake, but I generally only do that for motion intensive games (e.g. a FPS game). Not really got the time to do intensive side by side comparison tests!
+
+Anyway, my spec is i7-2600K @ stock clock rate, 32GB RAM, GTX760 (2GB). I could probably record at higher than 8kbps but I don't think it is necessary, not for MC anyway, and Youtube seems to do further compression anyway.
+
+If you want to look at the quality of my videos, check out my [Youtube channel](http://youtube.com/c/fractaljaguar/videos).
+
+",2016-01-27 21:54:39+00:00,czeddys,1.0,t3_42ydd5,17946.0,Minecraft
+425,"Pegasus runs good servers :) Why wait for 1.9 when we've got lovely snapshots (we've never stability issues with them, to the best of my recollection).",2016-01-27 21:37:50+00:00,czecmit,4.0,t1_cze7a5y,7086.0,Minecraft
+426,"Your comment just made me burst out laughing! Umm, thanks?! :) I certainly wouldn't mind getting some voice-over work!",2016-01-25 20:56:35+00:00,czbnvz4,2.0,t1_czbnjw0,460.0,planetaryannihilation
+427,"Multiple well conducted studies have shown that regular exercise effectively combats depression and anxiety (it isn't a cure, but there is a proven relationship). It certainly helps me. I got into martial arts before I ever had issues with depression, but I certainly find training helps.
+
+I'd recommend doing MMA training (or any kind of martial art training frankly, as long as you the coach is a good one) to anyone whether they are suffering with anxiety or not!
+
+It is tough but I'm sure you can do it. Get the help that is available to you (psychological therapy, perhaps medication), find a good gym/coach, and try and attend regularly. If you skip a session don't beat yourself up about it. Set a schedule that you think you can easily manage, like one session a week. If you go twice one week, that's awesome. Don't give yourself a hard time, you'll probably spiral downwards. This is very hard to do! But you must try.
+
+Be sure to watch your diet and drink enough water, too.
+
+I feel for you buddy. Hang in there, get help (ask for help, if you must, there is NO shame in it), and try. The social aspect of regularly going to your MMA gym/club will probably be beneficial to you too. I certainly enjoy it!",2016-01-24 23:17:22+00:00,czajc7p,1.0,t3_42hhdo,11190.0,MMA
+428,"&gt; RSMC was supposedly 3 years in the works, I can take a shit and something better would come out
+
+Go on then..
+
+""Talk is cheap. Show me the code.""  -Linus Torvalds",2016-01-23 21:25:22+00:00,cz9bdx5,,t1_cz0a470,,rsmcmod
+429,"Yep, nice analogy. First method asks the guy to leave, second method puts him in a headlock and drags him out the door!",2016-01-23 16:00:49+00:00,cz8zyiq,3.0,t1_cz8s4v7,26567.0,explainlikeimfive
+430,"Check out [Exodus Esports](http://exodusesports.com), they have a few guides, particularly a specific 1v1 ranked 'skill pyramid' guide. I could not recommend it enough. The bottom of the pyramid is 'Economy', and I cannot emphasise that enough. Gotta get that metal, keep expanding, make sure you're in the green all the time (100% efficiency). **Spend all your metal!** Don't waste it, spend it. More factories if you're floating metal, maybe an extra fabber or two.
+
+I'll try and get that third tutorial recorded ;) Thanks for the sub!!",2016-01-21 20:12:14+00:00,cz6wdqh,4.0,t1_cz6nogx,11871.0,planetaryannihilation
+431,"My apologies then, I shall delete it",2016-01-21 15:54:54+00:00,cz6l6jx,3.0,t1_cz6iqfo,3915.0,feedthebeast
+432,Love it! Looks really cool! Now I want to try that :D,2016-01-21 14:12:00+00:00,cz6hhzs,1.0,t3_41xrb7,42693.0,feedthebeast
+433,"I would have done so many things differently. Things I used to do as a matter of habit when I was enjoying the 1v1 scene and playing regularly. I was in the top 10 in the gold division for al ong time, but never had enough time to invest in more practice.
+
+Anyway, you were right about scouting, i didn't scout enough. He went vehicles, i had gone bots. If i had scouted more (and even after the first few attacks), I should have started with vehicles and perhaps a few turrets in key positions (there are some choke points in that map).
+
+Main thing I didn't do was raid. I decided to go full dox for my opening build (and one air factor, for scouting and taking down air fabbers), but I didn't raid!! That was my key mistake. I should have had at least three squads of dox going around the planet, raiding mex and sneaking around the back of his base.
+
+Thanks for commenting!",2016-01-21 14:11:21+00:00,cz6hhan,2.0,t1_cz63wo7,37423.0,planetaryannihilation
+434,'Wow' indeed ;) I think it is rather cool that you're putting in this much effort in order to teach a class at high school. The world needs more teachers like you.,2016-01-20 17:01:43+00:00,cz5d23s,11.0,t1_cz53poo,17531.0,fractals
+435,"Hello. I've written a Mandelbrot Set 'explorer' (no Julia Set support yet) too, in SDL and C instead of webGL, which means I natively get 64-bit precision, which lets me zoom in quite a bit farther. I haven't added support for arbitrary precision yet though, although i've looked at a number of C libraries that do that.
+
+I haven't put it up on github yet because I am not satisfied with it enough to have it be publicy accessible, but soon enough I'm sure I'll make a repo for it.
+
+/u/Pegasus_Epsilon's renderer is command line based and goes straight to PNG on the  CPU as he says. It's pretty awesome, but it isn't an 'explorer'; no real-time zooming around.",2016-01-20 16:58:45+00:00,cz5cxip,11.0,t1_cz2m7dw,191122.0,fractals
+436,"Indeed, something like that. Daft to do it across the board.",2016-01-18 15:38:26+00:00,cz2rha8,3.0,t1_cz2ptqh,3131.0,minecraftsuggestions
+437,"Was talking about this with /u/Pegasus_Epsilon just now - we both agree it is an unnecessary nerf. Vanilla MC is already quite easy, and creepers were the quintessential 'omg creeper *boom* i'm dead' part of Minecraft. Why nerf them?",2016-01-18 11:55:31+00:00,cz2m8ix,1.0,t3_41i0z8,13705.0,minecraftsuggestions
+438,"Yeah, a lot of the people who bought it on Steam Early Access grumbled about this decision and personally, my opinion was that it was unwarranted. There is a clear distinction between pledging to donate money to a company who MIGHT be successful and make a game, and paying money to play a game in alpha or beta via Steam Early Access. And arguably the price is irrelevant because that is what you paid for, at the time. You paid for early access to a game. That doesn't make you particularly special, but from Uber Entertainment's perspective, their Kickstarter backers were the life source of this game; without them, it simply wouldn't exist.",2016-01-18 09:26:18+00:00,cz2k2eq,4.0,t1_cyzuegq,206930.0,planetaryannihilation
+439,Look amazing!,2016-01-18 02:50:10+00:00,cz29l3j,6.0,t1_cz24rzx,7885.0,planetaryannihilation
+440,I don't know what the Helios is yet :D,2016-01-17 22:03:14+00:00,cz1yqxo,4.0,t1_cz1yj3t,312.0,planetaryannihilation
+441,"Half the battle is convincing enough people on the team to go for E instead of A! An engineer or two is definitely required, if youc an get two lvl3 sentries covering the spawn and window and doorway from B, with scouts/sollies/pyros etc to deal with attacks, it is fairly easy.
+
+As long as your team knows what they're doing ;)",2016-01-17 21:22:14+00:00,cz1x4si,4.0,t1_cz1u6yy,4343.0,tf2
+442,Pretty sweet wasn't it?! It was my first time seeing one in action.,2016-01-17 21:20:48+00:00,cz1x2m0,2.0,t1_cz1woes,536.0,planetaryannihilation
+443,"That's sad to read man, I hope you're coping ok.. I don't even want to imagine how I will feel when my father dies. Sounds like you have some good memories of your time together though.",2016-01-17 21:19:29+00:00,cz1x0k0,1.0,t3_41d6qv,34404.0,MMA
+444,"Says a lot about the management of the UFC. It isn't a professional organisation for a sport, apparently it is more akin to an educational institution, i.e. where the students get told what to wear, what to do, when to arrive, when to go...",2016-01-17 21:18:11+00:00,cz1wygk,2.0,t1_cz1oatt,12804.0,MMA
+445,"In my experience, on a server where both teams are competent, it very rarely happens, and it only does happen if there is either significant imbalance, or if blu work together well (like we did!)",2016-01-17 20:05:21+00:00,cz1u0er,2.0,t1_cz1jrrk,16907.0,tf2
+446,"Actually, no! Good one ;) Although I named my renderer mBro, and my explorer is mBroX. Also mBroCUDA and mBroWeb are kicking around somewhere, half started ;)",2016-01-17 13:00:26+00:00,cz1gsiu,12.0,t1_cz1enev,9257.0,fractals
+447,I love it! Such power should be loud and terrifying ;),2016-01-17 12:59:05+00:00,cz1grs8,2.0,t1_cz1dt95,12819.0,Minecraft
+448,"Bah, I can't remember every-fucking-little-thing, it's been bloody years bro! ;)",2016-01-17 03:50:20+00:00,cz15pyb,10.0,t1_cz14t1m,1579.0,fractals
+449,"You have no idea how lucky you just got. My brother in arms and best friend, the Almighty /u/Pegasus_Epsilon, is a master programmer (I think he must be close to 10,000 hours spent writing code now...) and the most intelligent and knowledgeable person I know! I've been witnessing the fruits of his most recent furious coding sessions as he works on this project for you, and the results are already magnificent.
+
+Years ago, when I first met Peg, I introduced him to a fractal called the Herter-Heighway Dragon, sometimes referred to as the '[dragon curve](http://en.wikipedia.org/wiki/Dragon_curve)'. I was in university, studying programming/software development. I had written a very crude renderer using OpenGL and GLUT in C. I asked Peg to look at my code and how to optimise the algorithm.
+
+It didn't take him long to figure out a much, much, muuuuch better algorithm, which he swifly implemented and rendered. It serendipitously led to a lovely shading method as well! This was one of my first glimpses at his programming prowess.
+
+A while later, and I've written a program in C to render the [Mandelbrot Set](http://en.wikipedia.org/wiki/Mandelbrot_set). I share the code with Peg and that started a journey that would last years. He wrote his own renderer whilst I worked on my own, we talked at length about our code, shared, collaborated, and we eventually split paths. Pegasus focused on a command-line renderer. I focused on an explorer, much like what he is developing for you now. My main goal was to zoom around the edges of the Set, looking for 'pretty' :) Peg's goal was to be write the best, most accurate, fastest Mandelbrot renderer ever.
+
+In the last year or so, iirc, Peg finished his magnum opus, threadedfractals. He shoved it up on github, satisfied with his latest and greatest work, and then went back to chilling out and relaxin' all cool and such.
+
+I cannot emphasise enough how much time, thought, effort, blood, sweat, and tears, Pegasus has poured into his Mandelbrot/Julia renderers. He has produced renders of unrivalled quality and has implemented algorithms that very few have done well, particularly cross-trap/orbital-trap sampling.
+
+In the meantime I've been tinkering with my own projects, and have in fact just picked up my latest fractal orientated project again, which is fact going to be a GUI for a small program Peg wrote for palette generation.
+
+Anyway. I've written all of this because:
+
+a) you seem like a really cool teacher, and the world needs more people like you
+b) I type fast
+c) Peg's awesome and I like talking about him to anyone who will listen
+d) he's my best friend
+e) he's now drawing on years of accumulated knowledge and learning to write software for you, for free, simply because that is how he rolls. I wanted to try and draw some attention to that :)
+
+I'm sure you will enjoy it when Peg finishes it! Be sure to let us know how your students react to your class :)
+",2016-01-17 02:52:22+00:00,cz13oh7,8.0,t1_cz044td,78646.0,fractals
+450,"Sweet, I'll check that channel out for sure :)",2016-01-17 02:04:10+00:00,cz11zm0,6.0,t1_cz11gnu,888.0,MMA
+451,I forgot to edit this video to cut out the lobby and wait at the start - the game starts at approx [3:00](https://youtu.be/xNbg3c3vHmo?t=192),2016-01-17 00:01:18+00:00,cz0xfzp,1.0,t3_41b0oy,319.0,planetaryannihilation
+452,"My coach has mentioned GLORY a few times and I checked out some video footage on Youtube, pretty cool stuff! I don't pay any attention to BAMMA I have to say, but I think I will change that ;) Especially if the card on the 27th Feb is good, thanks for the heads up!",2016-01-16 23:55:04+00:00,cz0x7x5,4.0,t1_cz0iyaj,23919.0,MMA
+453,"Agreed. The sub is '/r/mma' after all, and not '/r/ufc' - perhaps striving to include content related to other MMA organisations will help. Bellator I think are the next largest organisation, and they seem to be paying fighters more than the UFC iirc, and are aiming to slowly grow by doing what's right for the fighters and the sport, rather than rapidly grow like some kind of voracious business monster.
+
+I'm certainly going to make an effort to watch other events like Bellator, Glory, BAMMA, etc.
+
+Power to the consumer! Or something like that..!",2016-01-16 10:51:54+00:00,cz0agz5,2.0,t1_cyyn17k,121744.0,MMA
+454,"I tried showing the video to my lady last night, 'cos I thought it was really well done and I loved the music as well. Boom, taken down! So ironic considering the post title! :D",2016-01-16 10:48:02+00:00,cz0af5h,2.0,t1_cz0399k,22693.0,MMA
+455,"Ironically, the video has just been taken down!",2016-01-15 20:37:32+00:00,cyzmh23,1.0,t3_410auo,75803.0,MMA
+456,"When Uber released the Titans update, they gave it to their Kickstarter backers for free. And they gave a ~60% to anyone who already owned the game.",2016-01-15 17:55:00+00:00,cyzff1q,2.0,t1_cyywlih,44306.0,planetaryannihilation
+457,They are probably intended as an extra resource - you can use combat fabbers to reclaim trees for metal. Something which I forgot about at the start of the game! So much to re-learn!,2016-01-15 17:54:13+00:00,cyzfdtm,2.0,t1_cyz49dw,18788.0,planetaryannihilation
+458,"It is a really cool mod, I highly recommend it.",2015-12-14 16:07:18+00:00,cxyr3d6,4.0,t1_cxx05b6,140422.0,Minecraft
+459,"Perfect gif comment, nicely done sir",2015-12-14 16:06:59+00:00,cxyr2yl,3.0,t1_cxy9bjl,46197.0,MMA
+460,Answered in [this comment](https://www.reddit.com/r/Minecraft/comments/3wk8lq/i_did_it_again/cxwxf56),2015-12-12 23:42:52+00:00,cxwxfu6,2.0,t1_cxwvp0q,3172.0,Minecraft
+461,"I drilled through the bedrock roof of the Nether with the bedrock breaker from RotaryCraft, using a lot of power!",2015-12-12 23:42:17+00:00,cxwxf56,2.0,t1_cxwsmau,8786.0,Minecraft
+462,"Me too actually. I'd started training MMA and my coach introduced me to GSP, so I was watching videos of him and thought he was amazing. Then for UFC100 Setanta lost the rights to the UFC so it wasn't going to be broadcast, so the UFC let people in the UK stream it for free online. I woke up at 3am to watch it, despite working two shifts either side of the event!",2015-12-08 11:58:34+00:00,cxrfdy9,5.0,t1_cxqll6d,58521.0,MMA
+463,I would argue that Conor's style is very much independent from Nick's style... but that's just my opinion ;),2015-12-08 11:40:05+00:00,cxrf3k7,4.0,t1_cxqwfe0,41676.0,MMA
+464,"Yeah I didn't get shin-guards immediately either, you won't be sparring for a while and they're necessary for that (not light sparring, but if you're putting a bit of force in), and perhaps if you're going heavy on the bag. You'll soon have an appreciation for the shin conditioning and pain tolerance of elite fighters when you kick someone in the elbow ;)",2015-12-07 14:21:37+00:00,cxq942j,5.0,t1_cxq8r36,780.0,MMA
+465,"Gloves are of course essential (both boxing, at least 16oz probably, and MMA gloves), but arguably a groin-guard is even more important. I'm pretty sure my guard saved me from a trip to the hospital quite recently, from a powerful knee that was supposed to hit my stomach! I've got a big red bruise now!
+
+Shin-guards for sure, and a mouth-guard. To be honest, I would say that all of these are just as important as each other. You really need all of them.
+
+And the latter hygiene comments are very important too. And a towel maybe, if you sweat a lot. When you're rolling with people on the mats, it is pretty gross if they're not clean. Anti-perspirant too!",2015-12-07 12:25:35+00:00,cxq6k8m,3.0,t1_cxq64rn,1547.0,MMA
+466,"Quite different in my opinion. Heavy on the trash talk, yes, but certainly different fighting styles, and Conor's swagger/bravado is quite unique I think. He really is quite the character and he's got the moves too. Charismatic, to say the least.",2015-12-07 12:22:27+00:00,cxq6i92,2.0,t1_cxq0ouv,21600.0,MMA
+467,"I remember his fight from UFC100 against Frank Mir, he was a beast. Huge physique even compared to Mir and the finishing punches were brutal. He just had complete control of Mir and was hammering him, and the way he had Mir tied up meant that Mir couldn't defend himself at all.
+
+Found the [video](https://vimeo.com/92326680)! Skip to 11:00",2015-12-07 12:21:22+00:00,cxq6hkl,3.0,t1_cxq58ot,5004.0,MMA
+468,"Consult the [wiki](https://en.wikipedia.org/wiki/Mandelbrot_set#Continuous_.28smooth.29_coloring), behold the complicated math, and then try and figure it out. If you figure it out, you have my admiration. I ended up copying /u/Pegasus_Epsilon's code once he figured it out. I understand the concept of normalising the numbers so there is a smoother progression, but how the algorithm does it is still a mystery!",2015-12-02 23:07:07+00:00,cxkzarz,5.0,t1_cxk94v5,44668.0,fractals
+469,"He may well have done weight training earlier in his life to gain muscle. Once he hit the weight he wanted to train/fight at, he probably stopped and retained muscle mass in his normal day-to-day training.
+
+As I understand it, for his size, normal bodyweight and functional strength training would retain mass. Also I haven't heard that he claims to do no weight training, got a reference for that? I'm sure GSP said he didn't lift weights either (whilst he was fighting).",2015-11-30 18:04:56+00:00,cxi472c,2.0,t1_cxi1169,4917.0,MMA
+470,"You're very welcome, thanks :)",2015-11-27 12:51:44+00:00,cxeo2ue,5.0,t1_cxe71dd,46864.0,explainlikeimfive
+471,"I don't think I was - I'm really rooting for her to come back better than ever. But so far she hasn't spoken about the fight (understandably), so there's speculation of retirement. I think she will bounce back though. She's a fighter :)
+
+And she certainly brought even more attention to women's MMA (and indeed, MMA as a whole).",2015-11-26 12:03:48+00:00,cxdmwg4,5.0,t1_cxdhx9l,19290.0,explainlikeimfive
+472,"I was talking about Fedor Emelianenko, not Holly Holm...",2015-11-26 11:59:32+00:00,cxdmu85,5.0,t1_cxdjohl,13339.0,explainlikeimfive
+473,"I agree, I forgot all about the footage of her on TUF when my ridiculously long post spewed forth from my fingertips last night. She came across as very un-likeable, somewhat unstable, and irrational. Particularly the anger she had towards Tate when Tate was simply cheering for the fighter on her team who had just won... what was that about?!",2015-11-25 23:26:23+00:00,cxd5azq,3.0,t1_cxd429c,2254.0,explainlikeimfive
+474,"I think so. I think it is safe to say the general consensus is that her division was relatively weak. Bethe Correia, for instance, had only been training in MMA for about four years with no previous background in martial arts. Some of her other opponents were working jobs whilst training as well.",2015-11-25 23:24:43+00:00,cxd591j,3.0,t1_cxd4qni,931.0,explainlikeimfive
+475,"I hope so. I hope Rousey and Holm and others inspire others to get into the sport too, particularly girls and younger women.
+
+And yeah I typed all of that off the top of my head and didn't spare much time for checking the record of her opponents save for one quick Google. Suffice to say I'm sure their combined record had fewer wins than for most other champions.",2015-11-25 23:17:49+00:00,cxd50y0,3.0,t1_cxczudc,8678.0,explainlikeimfive
+476,"Holm only had two fights in the UFC before fighting Rousey for the championship. That should give you some idea about the women's bantamweight division. Many people including myself thought that it was too early for Holm to be pitted against Rousey, that she needed a few more fights to sharpen up her game, particularly because her previous two fights were both decision victories and although she looked extremely compentent, there was nothing that stood out and made her look like a championship contender (other than her flawless record and boxing background). She was actually ranked 8th, as I recall, before she beat Holm and shot up the list. Some people have said that this was her game plan all along, that she knew she would be pitted against Rousey sooner rather than later (due to there not being many other options), so she tried to hide her skills to make it more surprising. This argument doesn't hold much water considering in a fight, you're never really going to want to hold back. You're in it to win it. But it does make you wonder...
+
+So yeah, she did kinda come out of nowhere especially from the perspective of a more casual fan.
+
+As for her personality on mainstream television, there are plenty of clips out there that show the more negative sides of it, but equally there is a lot of footage of her being entirely reasonable, respectful, and intelligent. However I think if you were really paying attention over time, you could see the shift in personality; the descent into arrogance, perhaps.",2015-11-25 23:15:23+00:00,cxd4y1k,3.0,t1_cxczqlm,8695.0,explainlikeimfive
+477,Amen brother :),2015-11-25 23:01:29+00:00,cxd4hj3,3.0,t1_cxct7ik,17773.0,explainlikeimfive
+478,"I read your comment shortly after you posted it and thought 'nah, nobody will care that much'. Now I've just got back from MMA training and my comment has been gilded and it's got like 2000+ upboats - you were right!",2015-11-25 22:58:58+00:00,cxd4eh2,3.0,t1_cxcmqt9,27440.0,explainlikeimfive
+479,"I'm inclined to agree. But i think the chief architect of her downfall was her arrogance. I don't think she sounded like an idiot either, except for her more arrogant statements. She seems quite smart and she has been respectful to many of her opponents. 'An all round bad person' seems quite harsh.",2015-11-25 22:57:39+00:00,cxd4cug,3.0,t1_cxcq483,22135.0,explainlikeimfive
+480,"Yeah, it must be hard to not do. But I think the truly great fighters do just that. They're cool, calm, and collected when they fight. And I do think that a lot of the beef with Tate was pretty flimsy. Ultimately they just don't like each other I guess.",2015-11-25 16:24:52+00:00,cxcp5sj,5.0,t1_cxcovn8,424.0,explainlikeimfive
+481,"Obviously that is my opinion, and I can't speak in any other capacity, I've never met Rousey or her family. I certainly liked Rousey as a fighter when I first heard about her. The winning streak of first round victories by armbar was truly amazing, and still is. But the more she won, the more media attention she got, and the more about her personality you learned (albeit in a very indirect way).
+
+We can't speak for everyone, but she sure did have a lot of fans as her fame was rising.",2015-11-25 16:10:28+00:00,cxcol9i,3.0,t1_cxcnlrm,1538.0,explainlikeimfive
+482,"Good point, I had forgotten about when she was a coach on TUF. I only watched an episode or two but she wasn't pleasant to watch. Particularly the bit where she got angry at Miesha because she was applauding her fighter, who had just won. Just utterly petty, crazy behaviour frankly!",2015-11-25 15:01:42+00:00,cxcm1wd,3.0,t1_cxclvpw,311.0,explainlikeimfive
+483,Lesser mortals would have just died...,2015-11-25 14:59:19+00:00,cxclz19,5.0,t1_cxcljc7,807.0,explainlikeimfive
+484,"[""I think I can beat every girl in my division with one hand""](https://youtu.be/AGFFPE7K8Dw?t=31)",2015-11-25 13:33:58+00:00,cxcjkcw,3.0,t1_cxcb9ma,28376.0,explainlikeimfive
+485,"Agreed. If she had won, the hype machine would have just continued, she would have been lauded even more, and all the hardcore fans would be grumbling about it and sharing more videos and gifs of her clumsy striking.
+
+I really hope she does change camp though. She simply needs to listen to her mother on that count, it would seem. Maybe she can convince Rousey that Edmond is not a good coach, and that he and all the other yes men around her convinced her that she could out strike a multiple world champion undefeated boxer.
+
+And some wrestling combined with her judo would go a long way. Her striking will take a while to improve, even more so since it would appear she needs to unlearn some bad habits.
+
+I really hope she comes back from this.",2015-11-25 13:24:45+00:00,cxcjcmy,4.0,t1_cxc3p38,42848.0,explainlikeimfive
+486,"Absolutely. And he never seemed particularly emotionally involved in his fights, unlike Rousey. He'd win in dramatic fashion and look completely nonchalant about it!",2015-11-25 13:20:41+00:00,cxcj98x,3.0,t1_cxca166,30263.0,explainlikeimfive
+487,"That was my very first TL;DR, thanks!
+
+I'm sure when she was first starting in MMA and particularly in the UFC, she wasn't as arrogant as she was before her fight against Holm. She had beef with Miesha Tate but otherwise she was quite respectful to her opponents. After the nonsense in the weigh-ins with Holm though, you could argue that by the time they're in the Octagon about to fight, there is absolutely no other reason to not touch gloves unless you are actually that emotionally involved with the fight. So perhaps she really did dislike Holm at that moment in time. Maybe she got caught up in the whole thing. She always seemed to be an emotional fighter, which I think hindered her.
+
+I do hope she comes back though. I would love to see her combine that beautiful judo with wrestling/shooting and great striking. That would be amazing to watch. She has the opportunity to learn humility here, just like GSP did when he lost to Matt Serra. He came back from that, learnt from that, and became one of the greatest of all time. He was the epitomé of a humble fighter (to me, at least), and I see a lot of him in Holly Holm.",2015-11-25 13:19:57+00:00,cxcj8o9,3.0,t1_cxchxt5,4145.0,explainlikeimfive
+488,"It is easy to like a dominant fighter, and Ronda Rousey used her Olympic level judo to beat all of her opponents to great effect. The statistics speak for themselves. She won her first three amateur fights by armbar in the first round. Then she proceeded to win her first seven professional fights in the exact same fashion; an armbar in the first round. I haven't checked, but I'm 99.99% sure that no other fighter has dominated in such a way (same technique, same round).
+
+Then she fought Miesha Tate for the second time, who managed to make it to the third round with Ronda, but still lost by armbar. Her next four fights she won in the first round with a variety of finishes (KO (punches), another armbar, KO (punch), and a knee to the body).
+
+She was always a rather fierce character, as you might expect from an elite fighter. She didn't mince words, she was outspoken, brash, etc. And all this time, she was really paving the way for women in MMA. She was a big draw. I for one, as a former judoka, loved seeing such high level judo in MMA. It was awesome to watch.
+
+Now to the casual observer, this is amazing to watch and read about. A fighter, dominating in such a way, with 75% of her victories with an armbar and 92% of them in the first round. That kind of prowess attracts attention in any sport.
+
+And thus a hype machine was born. The UFC promoted her more than almost any other fighter at the time. Due to being paid proportionally to how much money she brought in to the UFC (revenue at the gate and in PPV buys), she was the highest paid fighter in the UFC. She was a Big Deal.
+
+But to the more hardcore fans, such as those of us in /r/mma, there were aspects that went largely unnoticed. Chief amongst them: her division (bantamweight) was weak. The combined record of her opponents at one point was something like 1-7. Most champions will fight fighters coming off a winning streak, with mostly wins on their record. But there simply weren't (and still aren't) many female mixed martial artists at a high level at the time. Rousey was an Olympian, with a strong work ethic and a desire to win, and she climbed to the top, but arguably it was a relatively shallow climb.
+
+As for why she is facing such a backlash now, in the last year or two she was getting extremely arrogant. All elite fighters have confidence in spades and the mental aspect of combat sports is paramount. You have to believe you're going to win. But there is a very fine line between confidence and arrogance, and Rousey went deep into arrogance. She got too big for her boots, was apparently surrounded by yes men, was told that she had 'elite boxing skills' to go along with her judo... people got swept up in the hype around her and I think she did too. She was in movies, countless interviews on television, etc etc... it must be hard not to let all of that get to you.
+
+So by the time she fought Holly Holm, she was saying things like ""I believe I can beat anyone in my division with one hand"". Arrogance. And yes, you can argue she's just talking smack and trying to hype the fight to get more buys... but personally, I don't think so. I think she got swept up in the hype. Being told your boxing skills are elite when you're about to fight perhaps the best female boxer ever..! Some of the video footage of her shadow boxing in particular drew great criticism. On the pads she looked a bit sharper and faster, but in the Octagon it was never crisp and clean. Her win against Bethe Correia (supposedly a hard hitter who frequently won by punches), was essentially just her charging Correia down, eating a few punches, pinning her to the cage wall, and overwhelming her. There was no finesse, no head movement, no neat footwork or evasion. Bethe wasn't actually a hard hitter, and Ronda just ate those punches, apparently because she wanted to prove that she wasn't just a one trick pony. Not exactly champion level tactics.
+
+I don't think people 'hated her all along'. I for one liked watching her fight at the start. But as her personality started to show and her arrogance grew, it was harder and harder to like her. It was also hard to hear people talk about her like she was some kind of god, when under the surface you could see that she wasn't as great as she was being made out to be. And it was oh so satisfying to see such a masterful fighter like Holm dominate her completely and knock her out in such a spectacular fashion, ending her reign and proving just that.
+
+TL;DR everyone loves to see arrogance fall off their high horse.",2015-11-24 23:20:17+00:00,cxbzar2,1.0,t3_3u4r2q,6322.0,explainlikeimfive
+489,Be sure to watch UFC 194! Two champion fights and a good card. Aldo vs McGregor should be particularly interesting,2015-11-18 11:39:37+00:00,cx4el8g,1.0,t3_3t8b93,40164.0,MMA
+490,"I too find that other sports pale in comparison to MMA. There is a purity in combat sports, something about two people facing off against each other, actually trying to do damage and out smart the other person, not to mention all the training and strategy.
+
+There is somethign to be said for teamwork sports as well, a cohesive, well functioning team of people all working together can create great drama as well. But MMA fights are shorter and arguably much more action packed. A football (soccer) game can be 90+ minute of tedium, frankly, imho!
+
+And another vote from me for Firas Zihabi's breakdown videos, the guy is an MMA genius.",2015-11-18 11:38:08+00:00,cx4ekgh,2.0,t1_cx482jd,23004.0,MMA
+491,"The UFC's official Youtube channel has a few 'free fights' (although they have shitty interlacing which they don't seem to care to fix, still perfectly watchable though, just something that niggles me!). The first two aren't champion fights, but well worth a watch.
+
+[UFC 191: Arlovski vs Browne](https://www.youtube.com/watch?v=IB5HFEpTVps)
+
+[UFC 154: Condit vs MacDonald](https://www.youtube.com/watch?v=m40DZKndiM4)
+
+[Rousey vs Zingano](https://www.youtube.com/watch?v=nIjOBYA5aMM)
+
+
+There's a few to get you started, the first two I believe are notably good fights and the last one is just a taste of what Rousey was like when she could just use her judo to win before Holm outboxed and outsmarted her :D)
+
+Just search 'UFC free fight', there are quite a few out there. Subscrible to the UFC's channel as well and then you'll get notified when they put a new one up (the ones I've linked to aren't actually on the UFC's channel).",2015-11-18 11:32:26+00:00,cx4ehfy,3.0,t1_cx3zdj6,38066.0,MMA
+492,"Feel free to join us in Laerad (irc.esper.net #laeradchat - you'll need to ask an op to voice you before you can send to channel) and we'll hook you up on our TFC server if you want. /u/pegasus_epsilon runs it, I'm sure you'd be welcome to try it out. We're a small bunch of mature players.
+
+The server has been up for a while now but it's not too late to play and help out :) I for one would welcome an extra player!",2015-11-17 23:35:07+00:00,cx3wddk,1.0,t3_3r59ja,1380466.0,TerraFirmaCraft
+493,"Cool editing, decent music, not too long, nice video :) Subscribed!",2015-11-17 20:21:35+00:00,cx3ofku,1.0,t3_3t6da0,12243.0,TerraFirmaCraft
+494,I shouted out loud with triumph after that. It was such a beautiful moment of evasion from Holly. Continuous movement and evading Rousey was crucial to her win and she did it so well.,2015-11-15 13:27:15+00:00,cx0w77m,6.0,t1_cx0saa8,17441.0,MMA
+495,Sounds good :),2015-11-10 15:41:24+00:00,cwvdqvh,4.0,t1_cwvbh6x,4092.0,TerraFirmaCraft
+496,"Thanks, I just discovered that modpack when I read some of the other comments!",2015-11-10 15:41:01+00:00,cwvdqbw,3.0,t1_cwvd5ju,986.0,TerraFirmaCraft
+497,"This modpack sounds great! I will definitely give it a go. I'm curious how the tech tree progresses though. The description on the site says the only required progression is TFC, which is what I want I think.
+
+Do you have to essentially play TFC first, and then after a while (when you have a crucible for instance), you can start the other mods (like Mekanism)?",2015-11-10 11:49:52+00:00,cwv7vqx,2.0,t1_cwpqpof,403939.0,TerraFirmaCraft
+498,"I recently started playing TerraFirmaCraft and I have settled on viewing the mod as having a 'collect all the things!' kind of gameplay. As /u/AsuranB says, it is about realism (or at least, more realistic/believable than vanilla MC) and survival for its own sake.
+
+I've been having quite a bit of fun exploring, prospecting &amp; mining, finding fruit trees and crops, expanding my farm, levelling up some skills, trying to figure out how to make the perfect sandwich for my character (yes, that's a thing!), and so on.
+
+There's no real point to it (what's the point in anything?!), but just exploring and listening to music and enjoying the worldgen is quite relaxing, I find.
+
+I have some grumbles about it, and lots of ideas for improvement which I will probably write down at some point.
+
+My main wish is for a modpack whereby TFC is the stone and early metal age, which then leads into mods like Mekanism and other tech mods, plus certain elements from other mods. Perhaps some magic mods as well, but arguably they wouldn't fit. But I believe in giving players options.
+
+As I understand it, integrating other mods into TFC is very difficult due to the nature of TFC (it changes so many things quite drastically). But I can dream ;)",2015-11-10 11:38:37+00:00,cwv7pt5,1.0,t3_3s5iil,67121.0,TerraFirmaCraft
+499,Great stuff :),2015-11-10 10:25:50+00:00,cwv6q1h,1.0,t3_3s6u36,44713.0,tf2
+500,"Nice 'shot' (in terms of composition!) and yeah, cool looking house :)",2015-11-08 21:38:41+00:00,cwtan86,1.0,t3_3ryx4b,63772.0,TerraFirmaCraft
+501,"I just thought that the scythe was supposed to be more convenient and faster, and the trade-off was the decreased drop rate for saplings.
+
+It does make it very grindy at the start, when you want to get as many saplings as possible.",2015-11-08 15:57:53+00:00,cwsx841,3.0,t1_cwryd7r,80226.0,TerraFirmaCraft
+502,Nicely done :),2015-11-07 12:23:25+00:00,cwrqgii,1.0,t3_3rtwfe,44228.0,tf2
+503,"I'd have thought so too, that's about what I've been getting from trees when I'm out exploring.",2015-11-07 12:21:59+00:00,cwrqfri,3.0,t1_cwroosb,7913.0,TerraFirmaCraft
+504,"According to the wiki, sapling drop rate when punching leaves is 6%. When you use the scythe, it drops to 4%. Those numbers might be out of date though, haven't checked the changelog. But that might explain why you didn't get any saplings, assuming you didn't use a scythe when you initially got saplings.",2015-11-07 10:07:33+00:00,cwronm1,1.0,t3_3rveyn,2976.0,TerraFirmaCraft
+505,"&gt; She's not a judoka
+
+She most certainly is!",2015-11-02 01:02:46+00:00,cwl1se3,5.0,t1_cwl1p74,158.0,MMA
+506,"My god, you're right. I had no idea. I really didn't think it would be a problem. Arguably it is no different to using SFM to arrange a scene though, surely? 
+
+Maybe this one is a grey area, but I guess I'll leave it up to the mods.  Sorry!",2015-10-27 01:37:59+00:00,cwe3mw2,2.0,t1_cwe1qs9,2981.0,tf2
+507,Now all I can see is an eye in the smoke!,2015-10-27 01:35:00+00:00,cwe3ius,2.0,t1_cwe3dgn,236.0,tf2
+508,"I know, right?! And I love the juxtaposition of the soldier's face mid-taunt as he screams!",2015-10-26 21:36:47+00:00,cwdujlk,2.0,t1_cwduanh,386.0,tf2
+509,"This is beautiful, I love the palette and the composition. Great work.",2015-10-22 22:40:37+00:00,cw9emjq,1.0,t3_3psscf,17732.0,fractals
+510,"Robin Walker explains the reasoning in the last paragraph in this [article](http://www.teamfortress.com/post.php?id=1656):
+
+
+&gt;Like many additions of hidden complexity, this was a solution to a problem we observed in playtesting. Early on, the medigun only had a single base healing rate of 24 health per second. One behavior we saw players exhibit was that of retreating away from the front line to get healed by a Medic, before returning to combat. Over time, we saw players stop doing this, when they realized that the time it took to be healed back there wasn't worth it. They could have kept fighting at the front line, died, and respawned in much the same amount of time. We wanted to encourage that retreat-for-healing behavior, so we needed to reduce the time it took. We didn't want to affect the healing rate 'in combat' though, so we added this ramp. By using the time since the target was last hurt as a measure of how much combat the target is in, we could essentially tune two different healing speeds independently. The base amount is the rate of healing 'in combat', and the fully ramped amount is the healing rate for resting 'out of combat'.
+
+edit: just realised you're the creator of this video, I knew I recognised your name! Nice video :)",2015-10-13 13:07:02+00:00,cvy2sw8,8.0,t1_cvwxgm7,81372.0,tf2
+511,"Yeah I guess I'm nitpicking a bit, its just phrasing it like that doesn't make any sense to me. If you're not taking damage then a faster healing rate is utterly redudant to you. The point is that if you're on the frontlines taking damage and come back, you'll get healed faster.
+
+As I recall, Valve implemented it to encourage people to attack. Before it people were constantly falling back to get healed/find healthpacks.
+
+Anyway, no biggie! :)",2015-10-12 13:43:03+00:00,cvww1lk,6.0,t1_cvwvfiy,1406.0,tf2
+512,"He is saying 'when they don't take damage for a certain amount of time'.
+
+I'm saying what the wiki is saying. The qualifying factor for healing at a faster rate is 'I took damage over 10 seconds ago'. Which is different from 'not taking damage over a certain period of time'. If you continued to take damage, you'd still qualify.",2015-10-12 12:44:07+00:00,cvwum5l,4.0,t1_cvwmkoj,28701.0,tf2
+513,"Regarding 'crit heals' at [28s](https://youtu.be/5lf0jWCYNOM?t=28) he phrases it as ""...when they don't take damage for a certain amount of time"", which isn't true. You get crit heals after a certain amount of time has elapsed since you've taken damage.
+
+From the [wiki](https://wiki.teamfortress.com/wiki/Healing#Healing_and_.C3.9CberCharge_rates):
+
+""The healing rate is linearly based upon how long ago the target was last damaged. If the target was damaged less than 10 seconds ago, then they are healed at the normal rate of 24 health per second. From 10 to 15 seconds, this rate increases linearly from 24 up to a maximum of 72 health per second""
+
+Just wanted to clarify :)",2015-10-11 22:13:01+00:00,cvw9v2d,1.0,t3_3obuor,31257.0,tf2
+514,Thanks :),2015-10-09 15:23:44+00:00,cvtrlgk,2.0,t1_cvtr6u2,628.0,tf2trade
+515,"I posted about this earlier [here](https://www.reddit.com/r/tf2/comments/3o0pxk/why_does_the_invasion_update_count_kills_instead/), wondering why the invasion update doesn't count points instead of kills. Surely that would resolve all of these issues?!
+
+I can't think of a reason why it is better to count kills instead of points.",2015-10-09 10:32:44+00:00,cvtjten,2.0,t1_cvtdhf1,22261.0,tf2
+516,"The points system compensates for various classes though. Medics get assists and points for ubers, engineers get sentry kills and assists through the damage they generally put out, not to mention teleports earn points. Spies get two points for a backstab as it is generally considered a hard thing to pull off (consistently!).
+
+Basically not all classes gets point by killing, but all classes are capable of getting points. So it seems odd to me that this update doesn't reflect that system.",2015-10-08 22:00:32+00:00,cvt0641,2.0,t1_cvsxtgn,3588.0,tf2
+517,Yeah I bet it was! I main solly but medic is my second most played class. I often go medic if the team needs it. Seems very unfair to me.,2015-10-08 21:58:31+00:00,cvt03b5,2.0,t1_cvsyh3n,2479.0,tf2
+518,"Cool stuff man, ya crazy pyro! :P",2015-09-28 10:34:33+00:00,cvgquzn,1.0,t3_3mli6k,61390.0,tf2
+519,"Yeah, pl_borneo - I'd never seen the surrounding area before, not from this kind of height anyway. Props to the map maker indeed!",2015-09-27 12:01:00+00:00,cvfpeik,2.0,t1_cvf8d5y,48068.0,tf2
+520,"... and also a shameless repost of this [post](https://www.reddit.com/r/FractalPorn/comments/3bv73y/girlfriends_new_wallpaper_for_her_new_cinema/) by /u/pegasus_epsilon, the original creator of this image. He's taken down the image from his flickr account and I think will upload it again later.
+
+For [shame](http://shamenun.com)!",2015-09-16 12:31:27+00:00,cv3eh4p,2.0,t1_cv3d90b,3580.0,FractalPorn
+521,You're not wrong,2015-07-01 20:57:47+00:00,csp4rir,4.0,t1_csobrpi,62211.0,Minecraft
+522,Like looking in a mirror eh?,2015-06-29 14:06:40+00:00,csmdja4,2.0,t1_cslceah,93310.0,Minecraft
+523,"Latest version of RotaryCraft is v6f I believe, for 1.7.10. And the bedrock breaker gets you bedrock dust, which is a top tier material in RotaryCraft :) It's a fun mod!",2015-06-29 14:06:20+00:00,csmdiye,3.0,t1_csm714w,23095.0,Minecraft
+524,You won't get any bedrock dust from that though ;),2015-06-29 14:05:00+00:00,csmdhll,2.0,t1_cslyb40,45086.0,Minecraft
+525,Thanks man! :) T'is a pretty cool pack indeed :D,2015-06-29 14:04:31+00:00,csmdh4h,3.0,t1_cslcliv,92353.0,Minecraft
+526,"Wow, that passed me by entirely. Crazy!",2015-06-28 10:42:43+00:00,cslba5u,3.0,t1_cslb0n4,1383.0,planetaryannihilation
+527,Thanks man! That's really nice to hear. Watching gameplay can really help you learn the game (it did for me!) :) Going to try and record more tomorrow :),2015-06-27 22:15:27+00:00,cskvbk3,2.0,t1_csjyr67,83027.0,planetaryannihilation
+528,Nice work man :),2015-06-24 20:47:12+00:00,cshhlj7,1.0,t3_3ayneb,18425.0,planetaryannihilation
+529,"There sure is, but a lot of it you can learn intuitively. Feel free to ask me if you have any questions!",2015-06-23 03:13:49+00:00,csfitoc,2.0,t1_csfdl38,9828.0,planetaryannihilation
+530,"I haven't reviewed the two games thoroughly yet but there are definitely improvements to be made - retreating the commander effectively for sure, e.g. going inland against naval attack.",2015-06-19 15:22:10+00:00,csbx6yv,2.0,t1_csbq60e,16769.0,planetaryannihilation
+531,"You can change the resolution as others have pointed out, what you require is UI scaling. Pretty sure there is a mod for it. Check the official forums: http://forums.uberent.com
+
+The PA UI, I /think/, is sort of hardcoded to 1080p. Running lower resolutions can cause issues. Mostly the menu, the game itself is ok at lower resolutions I think.
+
+It will probably be addressed in the future but for now check the forums, do a search, see what you find! :)",2015-06-19 05:54:38+00:00,csblqow,1.0,t3_3ad1jx,10426.0,planetaryannihilation
