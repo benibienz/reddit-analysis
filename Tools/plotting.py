@@ -15,6 +15,7 @@ from Tools.util import load_user_posts
 
 DATAPATH = pathlib.Path(__file__).parents[1].joinpath('Data')
 
+
 def plot_confusion_matrix(cm, fig, ax, classes,
                           normalize=False,
                           cmap=plt.cm.Blues):
@@ -99,7 +100,7 @@ def plot_user_activity(username, label='suspicious'):
     created = []
     for u in username:
         try:
-            subs, comms = load_user_posts(u, label=label)
+            subs, comms = load_user_posts(u)
         except ValueError:
             continue
         # user_metadata = pd.read_csv(DATAPATH.joinpath('suspicious_accounts.csv'), index_col='author').loc[u]
@@ -180,6 +181,46 @@ def boxplot_outlier_elimination(filepath, col_names):
     df.to_csv(DATAPATH.joinpath(filepath[:-4] + '_filtered.csv'))
 
 
+def plot_user_posting_times(users):
+    """ Plots hist of posting times for a given user or list of users """
+
+    if type(users) is str:
+        title = f'Daily post activity for {users}'
+        users = [users]
+    else:
+        title = f'Daily post activity for {len(users)} users'
+
+    all_posttimes = []
+    for u in users:
+        try:
+            subs, comms = load_user_posts(u)
+        except ValueError:
+            continue
+        posttimes = []
+        posttimes += list(subs['created'].values) if subs is not None else []
+        posttimes += list(comms['created'].values) if comms is not None else []
+        for ts in posttimes:
+            try:
+                parsed_ts = [int(ts.split()[1][:2])]
+            except Exception as e:
+                print(e)
+                parsed_ts = []
+            all_posttimes += parsed_ts
+
+
+    fig, ax = plt.subplots(1, 1)
+
+    # create bins for each hour of the day
+    bins = range(25)
+
+    ax.hist(all_posttimes, bins=bins)
+    ax.set_xticks(list(bins)[:-1])
+    ax.set_xlabel('Hour of day (UTC)')
+    ax.set_ylabel('Number of posts made')
+    ax.set_title(title)
+    plt.show()
+
+
 if __name__ == '__main__':
     # plot_user_creation('asdr')
     # plot_user_activity(suspicious_account_usernames_with_posts)
@@ -189,5 +230,9 @@ if __name__ == '__main__':
     # res = pickle.load(open(DATAPATH.joinpath('LR_w2v_results.p'), 'rb'))
     # plot_train_test_cm(*res, savepath=DATAPATH.joinpath('LR_w2v_results.png'))
     # plot_user_activity_distribution('normal_accounts2_filtered.csv', label='normal')
-    plot_user_activity_distribution('suspicious_accounts.csv', label='suspicious')
+    # plot_user_activity_distribution('suspicious_accounts.csv', label='suspicious')
+
+    # normal_account_usernames = pd.read_csv(DATAPATH.joinpath('normal_accounts.csv'))['author'].values
+    # plot_user_posting_times(normal_account_usernames, 'normal')
+    plot_user_posting_times('Argeus', 'normal')
     # boxplot_outlier_elimination('normal_accounts2.csv', col_names=['submissions', 'comments'])

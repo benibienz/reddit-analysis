@@ -7,11 +7,14 @@ import pathlib
 DATAPATH = pathlib.Path(__file__).parents[1].joinpath('Data')
 
 
-def load_user_posts(username, label='suspicious'):
+def load_user_posts(username):
     """ Loads submission and comment DataFrames for a given user in our database """
-    dir = 'SuspiciousAccounts' if label == 'suspicious' else 'NormalAccounts2'
-    filepath = DATAPATH.joinpath(dir, username)
-    if not os.path.exists(filepath):
+    dirs = ['SuspiciousAccounts', 'NormalAccounts', 'NormalAccounts2']
+    for d in dirs:
+        filepath = DATAPATH.joinpath(d, username)
+        if os.path.exists(filepath):
+            break
+    else:
         raise ValueError(f'No data for {username} in our database')
     try:
         subs = pd.read_csv(filepath.joinpath('submissions.csv'))

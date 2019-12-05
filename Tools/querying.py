@@ -164,7 +164,7 @@ def add_post_numbers(filename):
     users = df['author'].values
     num_subs, num_comms = [], []
     for u in users:
-        subs, comms = load_user_posts(u, label='suspicious')
+        subs, comms = load_user_posts(u)
         num_subs.append(0 if subs is None else len(subs))
         num_comms.append(0 if comms is None else len(comms))
 
@@ -174,6 +174,82 @@ def add_post_numbers(filename):
     df.to_csv(DATAPATH.joinpath(filename[:-4] + 'new' + '.csv'))
 
 
+def moving_sum(time_hist, window_size):
+    window_sums = []
+    window_mid_points = []
+    half_window = int(window_size / 2)
+    for i, post_num in enumerate(time_hist):
+        if i < 24 - window_size:
+            window_sums.append(sum(time_hist[i:i + window_size]))
+            window_mid_points.append(i + half_window)
+        else:
+            break
+    min_window_sum = min(window_sums)
+    min_midpoints = []
+    for i, window_sum in enumerate(window_sums):
+        if window_sum == min_window_sum:
+            min_midpoints.append(window_mid_points[i])
+    if len(min_midpoints) > 1:
+        if window_size < 23:
+            # recurse
+            return moving_sum(time_hist, window_size + 2)
+        else:
+            return None
+    else:
+        return min_midpoints[0]
+
+
+def calc_daily_downtime(time_hist):
+    """
+    Use a sliding window to find area with least posts.
+    Args:
+        time_hist: list of length 24, each idx corresponding to an hour of the day, containing post numbers
+
+    Returns: single hour denoting middle of downtime (int) or None if downtime cannot be calculated
+    """
+    # we exclude users where less than 25% of the day has data, as this will not provide a clear downtime estimate
+    min_posttime_thresh = 6
+    if len([post_num for post_num in time_hist if post_num > 0]) < min_posttime_thresh:
+        return None
+    else:
+        return moving_sum(time_hist, window_size=5)
+
+
+def add_daily_downtime(filename):
+    df = pd.read_csv(DATAPATH.joinpath(filename), index_col=0)
+    try:
+        users = df['author'].values
+    except KeyError:
+        users = df['accountName'].values
+    downtimes = []
+    for u in users:
+        subs, comms = load_user_posts(u)
+        posttimes = []
+        posttimes += list(subs['created'].values) if subs is not None else []
+        posttimes += list(comms['created'].values) if comms is not None else []
+        user_posttimes = []
+        user_downtime = None
+        for ts in posttimes:
+            try:
+                parsed_ts = [int(ts.split()[1][:2])]
+            except Exception as e:
+                print(e)
+                parsed_ts = []
+            user_posttimes += parsed_ts
+
+        try:
+            hist = list(np.histogram(user_posttimes, bins=range(25))[0])
+            user_downtime = calc_daily_downtime(hist)
+        except Exception as e:
+            print(e)
+        downtimes.append(user_downtime)
+
+    col = pd.Series(downtimes)
+    col = col.fillna(col.mean())
+    df['daily_downtime'] = col
+    return df
+
+
 if __name__ == '__main__':
     # get_user_posts('BlackToLive')
     # generate_user_post_database(suspicious_account_usernames_with_posts)
@@ -181,6 +257,8 @@ if __name__ == '__main__':
     # users = pd.read_csv(DATAPATH.joinpath('normal_accounts3.csv'))['author'].values
     # print(users)
     # generate_user_post_database(users, 'NormalAccounts2')
-    add_post_numbers('suspicious_accounts.csv')
+    # add_post_numbers('suspicious_accounts.csv')
+    df = add_daily_downtime('All_Accounts_with_w2v.csv')
+    df.to_csv('All_Accounts_with_w2v_and_dd.csv')
     # pass
 
