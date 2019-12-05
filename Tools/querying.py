@@ -7,6 +7,8 @@ from psaw import PushshiftAPI
 from pprint import pprint
 from dateutil import tz
 import pathlib
+import praw
+from prawcore.exceptions import NotFound
 
 from Data.suspicious_accounts import suspicious_account_usernames, suspicious_account_usernames_with_posts
 from Tools.util import random_date, load_user_posts
@@ -250,6 +252,36 @@ def add_daily_downtime(filename):
     return df
 
 
+def remove_banned_users(filename):
+    df = pd.read_csv(DATAPATH.joinpath(filename), index_col=0)
+    new_df = df.copy(deep=True)
+    banned_users = []
+    r = praw.Reddit(client_id='H8zTMC4ffxZiIg',
+                     client_secret='xRf5E5UR6K3EjTnQ1HdS4jGNXSs',
+                     user_agent='checkbanned by u/_____________l')
+    for user in df['author'].values:
+        try:
+            if getattr(r.redditor(user), 'is_suspended', False):
+                # account is suspended
+                banned_users.append(user)
+                new_df = new_df.loc[new_df['author'] != user, :]
+        except NotFound:
+            # account is shadowbanned or deleted
+            banned_users.append(user)
+            new_df = new_df.loc[new_df['author'] != user, :]
+
+    print(len(banned_users))
+    return new_df
+
+
+def aggregate_normal_users(filenames):
+    dfs = []
+    for filename in filenames:
+        dfs.append(remove_banned_users(filename))
+    agg_df = pd.concat(dfs)
+    agg_df.to_csv(DATAPATH.joinpath('normal_accounts_agg.csv'))
+
+
 if __name__ == '__main__':
     # get_user_posts('BlackToLive')
     # generate_user_post_database(suspicious_account_usernames_with_posts)
@@ -258,7 +290,10 @@ if __name__ == '__main__':
     # print(users)
     # generate_user_post_database(users, 'NormalAccounts2')
     # add_post_numbers('suspicious_accounts.csv')
-    df = add_daily_downtime('All_Accounts_with_w2v.csv')
-    df.to_csv('All_Accounts_with_w2v_and_dd.csv')
+    # df = add_daily_downtime('All_Accounts_with_w2v.csv')
+    # df.to_csv('All_Accounts_with_w2v_and_dd.csv')
+    # add_post_numbers('normal_accounts.csv')
+    # remove_banned_users('normal_accounts.csv')
+    aggregate_normal_users(['normal_accounts.csv', 'normal_accounts2.csv'])
     # pass
 

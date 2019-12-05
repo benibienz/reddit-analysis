@@ -207,7 +207,6 @@ def plot_user_posting_times(users):
                 parsed_ts = []
             all_posttimes += parsed_ts
 
-
     fig, ax = plt.subplots(1, 1)
 
     # create bins for each hour of the day
@@ -219,6 +218,28 @@ def plot_user_posting_times(users):
     ax.set_ylabel('Number of posts made')
     ax.set_title(title)
     plt.show()
+
+
+def sample_normal_accounts():
+    ndf = pd.read_csv(DATAPATH.joinpath('normal_accounts_agg_filtered.csv'), index_col=0)
+    sdf = pd.read_csv(DATAPATH.joinpath('suspicious_accounts_filtered.csv'), index_col=0)
+    print(ndf.describe())
+    print(sdf.describe())
+    ndf_selected = ndf.loc[ndf['comments'] < 10, :]
+    fig, axes = plt.subplots(1, 4)
+    sdf.boxplot(ax=axes[0])
+    ndf.boxplot(ax=axes[1])
+    sdf.boxplot(ax=axes[2])
+    ndf_selected.boxplot(ax=axes[3])
+    print(ndf_selected.describe())
+    axes[0].set_ylim(0, 500)
+    axes[1].set_ylim(0, 500)
+    axes[2].set_ylim(0, 200)
+    axes[3].set_ylim(0, 200)
+    plt.show()
+    # print(ndf_selected.sort_values('submissions').tail(20))
+
+
 
 
 if __name__ == '__main__':
@@ -234,5 +255,6 @@ if __name__ == '__main__':
 
     # normal_account_usernames = pd.read_csv(DATAPATH.joinpath('normal_accounts.csv'))['author'].values
     # plot_user_posting_times(normal_account_usernames, 'normal')
-    plot_user_posting_times('Argeus', 'normal')
-    # boxplot_outlier_elimination('normal_accounts2.csv', col_names=['submissions', 'comments'])
+    # plot_user_posting_times('Argeus', 'normal')
+    # boxplot_outlier_elimination('normal_accounts_agg.csv', col_names=['submissions', 'comments'])
+    sample_normal_accounts()
