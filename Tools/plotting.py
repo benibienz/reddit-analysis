@@ -261,4 +261,4 @@ if __name__ == '__main__':
     # plot_user_posting_times(normal_account_usernames, 'normal')
     # plot_user_posting_times('Argeus', 'normal')
     # boxplot_outlier_elimination('large_unfiltered_NAs_final.csv', col_names=['submissions', 'comments'])
-    sample_normal_accounts(save=True)
+    sample_normal_accounts(save=False)
