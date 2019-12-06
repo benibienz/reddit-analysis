@@ -1,0 +1,174 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-07 22:50:16+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/5bph83/bug_if_you_abandon_a_game_then_come_back_to_win/,False,[removed],DotA2,"[BUG] If you abandon a game then come back to win, you lose MMR, even though you're just supposed to gain none.",https://www.reddit.com/r/DotA2/comments/5bph83/bug_if_you_abandon_a_game_then_come_back_to_win/
+1,2016-10-25 04:08:55+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/599503/psa_the_reason_valve_is_implementing_these_ui/,False,"I don't understand why more people don't understand this. The reason that they're slowly adding features that you TEMPORARILY cannot disable, is because of the fact that they want these features to be good. If they just added a feature that most people don't like at first, many would just disable it and not give feedback. By making it undisableable for a short amount of time, they're making it possible for us to give feedback, rather than just disable them and never think about them. Good features are better than shitty ones that everyone turns off.
+
+",DotA2,"PSA: The reason Valve is implementing these UI features isn't to trigger you, its because they're testing them",https://www.reddit.com/r/DotA2/comments/599503/psa_the_reason_valve_is_implementing_these_ui/
+2,2016-10-17 04:53:22+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/57vnph/c_help_probably_a_very_simple_stupid_mistake/,False,"After reading through a guide on C++, I decided I would give a shot at making a calculator. The following code always gives me zero. (I'm sure there are plenty of stupid things I could do better, but again I am new, mercy pls)
+
+         // Example program
+#include &lt;iostream&gt;
+#include &lt;string&gt;
+using namespace std; 
+
+int main()
+    {
+        int plus, minus, times, divide, number1, number2, answer, x  ;     
+
+        cout &lt;&lt; ""Please state your first value.""; 
+
+         cin &gt;&gt; number1;
+
+        cout &lt;&lt; ""Please state your second value"";
+
+         cin &gt;&gt; number2;
+
+        cout &lt;&lt; ""What would you like to perform"";
+
+         cin &gt;&gt; x;
+
+         if (x = plus)  {
+         answer = number1 + number2;
+
+         }
+
+         if (x = minus) {
+          answer = number1 - number2;   
+         }
+
+         if (x = divide) {
+          answer = number1 / number2;  
+         }
+
+         if (x = times) {
+          answer = number1 * number2;   
+         }
+         cout &lt;&lt; answer;
+    }
+    ",learnprogramming,"C++ Help (Probably a very simple, stupid mistake.)",https://www.reddit.com/r/learnprogramming/comments/57vnph/c_help_probably_a_very_simple_stupid_mistake/
+3,2016-10-06 00:24:36+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/562qh5/thank_you_valve/,False,"Where most companies would have dodged the question of how long the next patch is going to take, Valve themselves addressed it and let everyone know things are going to be a while. While I would prefer it if Monkey King came out tomorrow, I think it is a wonderful show of the commitment Valve has with us that they personally let us know of their general plan. Thank you Valve.
+
+",DotA2,Thank you Valve,https://www.reddit.com/r/DotA2/comments/562qh5/thank_you_valve/
+4,2016-10-05 21:49:15+00:00,imgur.com,https://www.reddit.com/r/DotA2/comments/5620yw/new_hero_difficulty_meter/,False,,DotA2,New Hero Difficulty Meter,http://imgur.com/a/U6OkN
+5,2016-09-28 01:24:22+00:00,self.BattleRite,https://www.reddit.com/r/BattleRite/comments/54tziy/psa_sirius_battlerite_for_increased_movespeed_on/,False,"At first the battlerite seems to be useless, since its adding 15% to something that doesn't move. But, in testing I found out that the battlerite allows him to move. Could definitely be reworded, but seems to be working fine. Not sure if this is common knowledge, but I never took it because it didn't make sense.",BattleRite,PSA: Sirius' Battlerite For Increased Movespeed on Counter Allows Him To Move While Countering,https://www.reddit.com/r/BattleRite/comments/54tziy/psa_sirius_battlerite_for_increased_movespeed_on/
+6,2016-09-26 01:05:40+00:00,self.BattleRite,https://www.reddit.com/r/BattleRite/comments/54i6kh/problems_with_the_skin_system/,False,"So far, this game has been absolutely amazing. I've loved the competitive aspect, the quick matches, the hero diversity, etc. The only thing I've noticed while I'm playing is that when it comes to skins, and the way they're earned things feel a bit lackluster. For example, just with regard to how the game is going to make money post release I think very few people in the skins current state would purchase the chests. The skins themselves are interesting at best, and could really use some work. There is also the separate issue of the chest system all together in that, even in Overwatch very few people buy the chests because you'll just earn all the skins anyways. This is especially prevalent in Battlerite as the chests are MUCH easier to earn with daily quests, hero leveling and buying them from wins. I really want this game to succeed but I think the issue of revenue generation needs to be addressed early on for the game to be able to support itself.",BattleRite,Problems with the skin system.,https://www.reddit.com/r/BattleRite/comments/54i6kh/problems_with_the_skin_system/
+7,2016-08-18 22:54:24+00:00,self.leagueoflegends,https://www.reddit.com/r/leagueoflegends/comments/4yfct2/from_a_dota_player_why_do_you_play_league_over/,False,[removed],leagueoflegends,"From a DoTA player, why do you play League over DoTA?",https://www.reddit.com/r/leagueoflegends/comments/4yfct2/from_a_dota_player_why_do_you_play_league_over/
+8,2016-08-15 16:52:58+00:00,imgur.com,https://www.reddit.com/r/EnoughTrumpSpam/comments/4xuiym/rapist_donald_trump_has_been_accused_of_rape_on/,False,,EnoughTrumpSpam,"Rapist, Donald Trump has been accused of rape on multiple occasions, lets make this the Google result for rapist.",https://imgur.com/a/zDtfx
+9,2016-07-31 07:13:04+00:00,youtube.com,https://www.reddit.com/r/EnoughTrumpSpam/comments/4vg3s1/lets_show_rall_the_best_thing_to_come_from_the/,False,,EnoughTrumpSpam,Lets show /r/all the best thing to come from the Trump Campaign,https://www.youtube.com/watch?v=dAlnO-uneQE
+10,2016-07-17 01:22:47+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/4t7i8f/dota_2_weekend_battle_cup_unplayable/,False,"Just loaded into our second game of the weekend battle pass, to find that even in the picking stage half of our team couldn't connect, and the other team couldn't either. Fast forward past picking stage, captain disconnected and a random pick was selected for our draft due to no time. The other team has a fully connected team, and refuses to pause while four members of our team cant connect, and we lost because of this. The servers are currently unplayable.
+
+http://www.dotabuff.com/matches/2509068830",DotA2,DoTA 2 Weekend Battle Cup Unplayable.,https://www.reddit.com/r/DotA2/comments/4t7i8f/dota_2_weekend_battle_cup_unplayable/
+11,2016-07-15 11:30:10+00:00,self.rotmgtradingpost,https://www.reddit.com/r/rotmgtradingpost/comments/4syn95/selling_league_of_legends_acccount_for_rotmg/,False,"As mentioned in the title, I would like to sell my level thirty league of legends account for a RoTMG account. The account itself is level thirty, with 97,960 skin score on elophant. Some of the skins themselves that stand out are DJ Sona, and Queen Ashe. The account is also ranked at Silver One, and is qualifying for gold. 
+Looking for a good account for this, as its valued at roughly $45 or so. 
+
+If you would like to know any further details about the account, add me on skype at D2lynx.
+
+ I am just getting into the rotmg scene, so I sadly do not have any vouches, however I would much prefer to have a middleman than to go first.
+
+Proof:
+http://imgur.com/8LLnuyr
+
+Username in the search bar at top right, only place to verify I could find
+
+Vouch Thread:
+https://www.reddit.com/r/rotmgvouches/comments/4sylz2/lynxs_vouch_thread/",rotmgtradingpost,Selling League of Legends acccount for RoTMG account.,https://www.reddit.com/r/rotmgtradingpost/comments/4syn95/selling_league_of_legends_acccount_for_rotmg/
+12,2016-07-15 11:17:19+00:00,self.rotmgvouches,https://www.reddit.com/r/rotmgvouches/comments/4sylz2/lynxs_vouch_thread/,False,"**Format:**
+
+Name:
+
+Item Sold:
+
+Price:
+
+Extra Details (Optional)",rotmgvouches,Lynx's Vouch Thread,https://www.reddit.com/r/rotmgvouches/comments/4sylz2/lynxs_vouch_thread/
+13,2016-07-15 10:59:32+00:00,self.rotmgtradingpost,https://www.reddit.com/r/rotmgtradingpost/comments/4syk3u/selling_level_thirty_league_acct_for_rotmg_account/,False,[removed],rotmgtradingpost,Selling level thirty League acct for RoTMG Account,https://www.reddit.com/r/rotmgtradingpost/comments/4syk3u/selling_level_thirty_league_acct_for_rotmg_account/
+14,2016-07-15 10:36:22+00:00,self.rotmgtradingpost,https://www.reddit.com/r/rotmgtradingpost/comments/4syhvi/trading_level_thirty_league_of_legends_account/,False,[removed],rotmgtradingpost,Trading Level Thirty League of Legends Account for Realm Account,https://www.reddit.com/r/rotmgtradingpost/comments/4syhvi/trading_level_thirty_league_of_legends_account/
+15,2016-07-02 19:40:40+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/4qyolm/quick_question_about_ram/,False,"I am currently setting up a computer build, and I was wondering which was more important, Cas Latency, or the MHz. I understand that they are both important, but would it be worth it to go for 3000 MHz at 15, or 2400 at 12, assuming the price is the same.",pcmasterrace,Quick question about RAM,https://www.reddit.com/r/pcmasterrace/comments/4qyolm/quick_question_about_ram/
+16,2016-07-02 03:04:43+00:00,self.Overwatch,https://www.reddit.com/r/Overwatch/comments/4qvhlb/how_is_it_fair_that_when_someone_disconnects/,False,"This is honestly in my mind utterly ridiculous. I just played a competitive game, and within the first minute of the game, someone disconnected. Now, on a well thought out system, for example DoTA2's competitive mode, during the first five minutes, if there wasn't a kill before the person disconnected, the game wont count. However, instead my enemies have inflated Elo, and I have deflated Elo. A simple solution would be, if the person disconnects before they leave the starting room, the game does not count.",Overwatch,"How is it fair that when someone disconnects within the first minute, the game still counts?",https://www.reddit.com/r/Overwatch/comments/4qvhlb/how_is_it_fair_that_when_someone_disconnects/
+17,2016-07-01 23:05:26+00:00,self.rotmgtradingpost,https://www.reddit.com/r/rotmgtradingpost/comments/4qukcq/buying_a_pet/,False,[removed],rotmgtradingpost,Buying a pet!,https://www.reddit.com/r/rotmgtradingpost/comments/4qukcq/buying_a_pet/
+18,2016-06-27 19:04:03+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/4q522p/gtx_1080_build_critique_requested/,False,"I plan on building a computer relatively soon, and was wondering if you great people wouldn't mind taking a look at the build itself.
+
+
+[Build](http://pcpartpicker.com/list/M9XJVY)",pcmasterrace,GTX 1080 Build Critique Requested,https://www.reddit.com/r/pcmasterrace/comments/4q522p/gtx_1080_build_critique_requested/
+19,2016-06-15 21:58:51+00:00,imgur.com,https://www.reddit.com/r/DotA2/comments/4o9y1d/how_is_it_fair_that_as_a_three_stack_i_can_queue/,False,,DotA2,"How is it fair that as a three stack, I can queue into two solos, while the enemy team is a fivestack?",http://imgur.com/eyjk2s5
+20,2016-06-13 18:37:40+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/4nx2le/having_trouble_picking_out_monitor/,False,"I've recently been setting up a build for a Nvidia 1080. I've been having trouble deciding whether or not to pick up one nice 1440P monitor, or going with several 1080 monitors. What are the pros and cons of each? What have you all gone with? Will the 1080 be used to its fullest without a 1440P monitor?",pcmasterrace,Having Trouble Picking Out Monitor,https://www.reddit.com/r/pcmasterrace/comments/4nx2le/having_trouble_picking_out_monitor/
+21,2016-06-11 16:23:22+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/4nm1jx/looking_for_help_on_build/,False,"I'm looking into building a computer with roughly $2300~, if you all could give me some general information, or make example builds, that would be fantastic.
+
+Primary Use is
+Gaming
+
+No need for peripherals.",pcmasterrace,Looking For Help On Build,https://www.reddit.com/r/pcmasterrace/comments/4nm1jx/looking_for_help_on_build/
+22,2016-06-10 16:58:18+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/4nh9hf/oracle_hints_on_new_heroes/,False,"I got a bit bored so I decided to browse the DoTA2 Wikia, the Oracle response page has a response for every single hero. This includes four responses that don't have a hero bound to them, just thought I would share this.
+
+[1](https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/24/Orac_prophecies_114.mp3)
+
+[2](https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9d/Orac_prophecies_116.mp3)
+
+[3](https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Orac_prophecies_117.mp3)
+
+[4](https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Orac_prophecies_118.mp3)",DotA2,Oracle Hints On New Heroes?,https://www.reddit.com/r/DotA2/comments/4nh9hf/oracle_hints_on_new_heroes/
+23,2016-05-27 22:32:06+00:00,imgur.com,https://www.reddit.com/r/DotA2/comments/4ld6oo/valve_it_was_one_thing_when_the_parties_were/,False,,DotA2,"Valve, it was one thing when the parties were equal, but this is just unfair.",http://imgur.com/52rl3eR
+24,2016-05-27 18:10:46+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/4lc18e/1k_player_looking_to_improve/,False,"Hey guys, as the title says, I'm a shitty 1k player looking to improve. I'm pretty confident in my supporting abilities, but since I usually can't win the game if my carries are bad, I'm trying to branch out. If any of you wouldn't mind helping me out with some tips, or just adding me so you can spectate/coach, that would be fantastic!
+
+EDIT: 
+http://www.dotabuff.com/players/117787192
+
+I know my recent carry games have been trash, just trying to get into it.",DotA2,1k player looking to improve.,https://www.reddit.com/r/DotA2/comments/4lc18e/1k_player_looking_to_improve/
+25,2016-05-07 23:30:17+00:00,self.hardware,https://www.reddit.com/r/hardware/comments/4ic9ok/gtx_1080_motherboard/,False,[removed],hardware,GTX 1080 Motherboard?,https://www.reddit.com/r/hardware/comments/4ic9ok/gtx_1080_motherboard/
+26,2016-04-29 04:51:04+00:00,imgur.com,https://www.reddit.com/r/DotA2/comments/4gxxl4/meanwhile_in_1k_mmr/,False,,DotA2,Meanwhile in 1k MMR,http://imgur.com/cGRV2Uh
+27,2016-04-07 21:18:50+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/4dt7tk/indian_tech_support_planetdestiny/,False,"Not sure if their channel got hijacked, but I tried going onto it, and found this.
+
+http://imgur.com/98UEuo2",DestinyTheGame,Indian Tech Support Planetdestiny?,https://www.reddit.com/r/DestinyTheGame/comments/4dt7tk/indian_tech_support_planetdestiny/
+28,2016-02-04 05:31:22+00:00,imgur.com,https://www.reddit.com/r/DotA2/comments/443zv2/windrangers_chest_was_scrapped_kappa/,False,,DotA2,Windrangers Chest Was Scrapped Kappa,http://imgur.com/pOxAVby
+29,2016-01-30 16:09:29+00:00,imgur.com,https://www.reddit.com/r/DotA2/comments/43emvc/meanwhile_in_1k_mmr/,False,,DotA2,Meanwhile in 1k MMR,http://imgur.com/en9zllP
+30,2016-01-30 13:56:28+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/43e5i5/suggestion_revamp_dota2com_website_ui_to_fit/,False,"Since the website currently a very 'Source 1' feel, I was thinking a UI revamp to make it more fitting could be nice.
+ 
+ 
+ 
+For example, a simple port of the current in game hero list on the client, to the website would be much more comprehensive. 
+
+[Link](http://imgur.com/a/vh07D)",DotA2,Suggestion: Revamp DoTA2.com website UI to fit reborn.,https://www.reddit.com/r/DotA2/comments/43e5i5/suggestion_revamp_dota2com_website_ui_to_fit/
+31,2016-01-28 02:36:16+00:00,imgur.com,https://www.reddit.com/r/DotA2/comments/4317yo/valve_is_on_a_roll/,False,,DotA2,Valve is on a roll!,http://imgur.com/Goeye0z
+32,2016-01-28 01:44:16+00:00,i.imgur.com,https://www.reddit.com/r/DotA2/comments/430zrt/we_did_it_reddit/,False,,DotA2,WE DID IT REDDIT,http://i.imgur.com/Goeye0z.png
+33,2016-01-26 01:59:56+00:00,self.leagueoflegends,https://www.reddit.com/r/leagueoflegends/comments/42p6lk/dota2_player_looking_for_some_tips/,False,"I've recently started playing League after 1200 or so hours of DoTA. I'm interested in supporting, and wouldn't mind some tips, or someone to coach me.
+
+http://www.lolking.net/summoner/na/72958096#matches",leagueoflegends,DoTA2 Player looking for some tips,https://www.reddit.com/r/leagueoflegends/comments/42p6lk/dota2_player_looking_for_some_tips/
+34,2016-01-01 08:40:08+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3z03s2/low_fps_on_dota_2_geforce_950m_i7_6700_hq_26_ghz/,False,"I recently purchased a new laptop with the specs above. On practically any other game things run smoothly. But, when I try to play DoTA2, my FPS plummets",techsupport,Low FPS on DoTA 2. Geforce 950m i7 6700 HQ 2.6 GHZ 8 gbs RAM,https://www.reddit.com/r/techsupport/comments/3z03s2/low_fps_on_dota_2_geforce_950m_i7_6700_hq_26_ghz/
+35,2015-11-19 05:24:09+00:00,self.WritingPrompts,https://www.reddit.com/r/WritingPrompts/comments/3te9lk/it_turns_out_your_entire_life_was_a_simulation_by/,False,,WritingPrompts,"It turns out your entire life was a simulation by aliens to answer a question only you knew the answer to. They found their answer, and now you have to live the rest of your life knowing its a simulation. [WP]",https://www.reddit.com/r/WritingPrompts/comments/3te9lk/it_turns_out_your_entire_life_was_a_simulation_by/
+36,2015-11-19 05:11:49+00:00,self.WritingPrompts,https://www.reddit.com/r/WritingPrompts/comments/3te87g/it_turns_out_your_entire_life_was_a_simulation_by/,False,[removed],WritingPrompts,"It turns out your entire life was a simulation by aliens to find out something only you knew. They found it out, you find this out, and also find out that they got the answer and they're just gonna let you live your life.",https://www.reddit.com/r/WritingPrompts/comments/3te87g/it_turns_out_your_entire_life_was_a_simulation_by/
+37,2015-11-16 00:03:23+00:00,imgur.com,https://www.reddit.com/r/Steam/comments/3sygm6/while_looking_at_steams_music_feature_i_found/,False,,Steam,"While Looking at Steams Music Feature, I Found This On Every Song Picture...",http://imgur.com/a/IrMNe
+38,2015-11-11 13:28:00+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3seinq/random_game_reflection_suggestion/,False,"I was thinking that it would be an interesting feature if, under your profile each day a random game was selected. It could show stats, K/D, replays (If possible, not sure how long replays are saved for) etc. Just for a bit of nostalgia, and to see how far you've come, or to reflect on more recent games.",DotA2,Random Game Reflection (Suggestion),https://www.reddit.com/r/DotA2/comments/3seinq/random_game_reflection_suggestion/
+39,2015-10-27 03:46:56+00:00,self.Dirtybomb,https://www.reddit.com/r/Dirtybomb/comments/3qdj4y/new_to_this_game_and_unboxed_cobalt/,False,"So I just started playing, and right before I was going to call it a night, I decided to unbox a case. I got a cobalt, for Kira. 
+
+Stats:
+
+Primary: BR-16
+
+Secondary: Selbstadt .40
+
+Melee: Cricket Bat
+
+Abilities: Quick Draw, Bomb Squad, Mechanic
+
+
+
+My question is, should I pursue Kira as my next merc with this loadout, or just continue on my way. Is this loadout forgiving, any tips to use with it, etc. Also, just general tips for the game would be nice, thanks in advance!",Dirtybomb,New To This Game and Unboxed Cobalt,https://www.reddit.com/r/Dirtybomb/comments/3qdj4y/new_to_this_game_and_unboxed_cobalt/
+40,2015-09-22 19:27:52+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3lz295/how_do_you_level_up_queens_wrath_with_the/,False,"As the title says, how do I get rank three for the Boolean Gemini without the bounties?",DestinyTheGame,How Do You Level Up Queens Wrath With The Bounties Gone?,https://www.reddit.com/r/DestinyTheGame/comments/3lz295/how_do_you_level_up_queens_wrath_with_the/
+41,2015-09-18 12:58:09+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3lfec7/kings_fall_light_level_questions/,False,[removed],DestinyTheGame,Kings Fall Light Level Questions.,https://www.reddit.com/r/DestinyTheGame/comments/3lfec7/kings_fall_light_level_questions/
+42,2015-09-18 12:46:05+00:00,self.BlindRaids,https://www.reddit.com/r/BlindRaids/comments/3lfcyt/lfg_kings_fall_tomorrow_5_pm_est_warlock_sunsinger/,False,"As the title says, looking for Kings Fall Group, for 5 PM EST tomorrow, if interested, message me; on reddit preferably.
+
+
+
+System: PS4
+
+Class: Warlock
+
+Level: 40
+",BlindRaids,"LFG Kings Fall Tomorrow, 5 PM EST Warlock Sunsinger.",https://www.reddit.com/r/BlindRaids/comments/3lfcyt/lfg_kings_fall_tomorrow_5_pm_est_warlock_sunsinger/
+43,2015-08-26 12:42:22+00:00,self.anime,https://www.reddit.com/r/anime/comments/3igl12/halp_need_recommendations/,,"I've been off and on with anime for a while, and, have decided that I want to find a new show to watch, and, what better place to go than reddit!
+
+
+Looking for something that you can put a lot of thought into if so desired, but, watchable mindlessly aswell. Preferably no horror anime, as, I tried watching Shinsekai Yori and couldn't get through the first couple episodes.
+
+Thanks in advance!",anime,"Halp, Need Recommendations!",https://www.reddit.com/r/anime/comments/3igl12/halp_need_recommendations/
+44,2015-08-21 04:19:56+00:00,i.imgur.com,https://www.reddit.com/r/DotA2/comments/3ht5iq/after_months_of_work_i_finally_did_it/,,,DotA2,"After months of work, I finally did it.",http://i.imgur.com/a8adYzp.png
+45,2015-08-10 23:44:14+00:00,self.DestinyTheGame,https://www.reddit.com/r/DestinyTheGame/comments/3giz7m/new_heavy_weapon_type/,,,DestinyTheGame,New Heavy Weapon Type?,http://www.reddit.com/r/DestinyTheGame/comments/3giz7m/new_heavy_weapon_type/

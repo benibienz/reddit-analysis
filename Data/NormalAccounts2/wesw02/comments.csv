@@ -1,0 +1,773 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"I've been a long time fan of the show. I think since about season 8. I too am not a fan of the format. Trying to explain my frustration, I think the episodes lack continuity and conclusion. 
+
+Member how Stan or Kyle use to tell us what they learned? Member the off the wall epsiodes like Imagination Land and Coon and Friends. Member Kenny? I member ...",2016-11-13 13:11:45+00:00,d9ydyjd,1.0,t3_5cml6q,56321.0,southpark
+1,"If you forked a github repository with a `gh-pages` branch, that would be the exact equivalent in that now your `username.github.io`would be running the same code. I realize this isn't exactly a one to one example because most GitHub users are more tech savvy. But forking a repo for its pages can and does happen as their are plenty of Jekyll templates out there.
+",2016-11-07 00:29:59+00:00,d9ovso3,3.0,t1_d9osmxj,4336.0,programming
+2,"My first question would be, what are you going to do with it after it's in datastore? Since you meantioned python, are you planning to use [NDB](https://cloud.google.com/appengine/docs/python/ndb/) or just [Cloud Datastore APIs](https://cloud.google.com/datastore/docs/concepts/overview)?
+
+That said, or asked, yea you have quite a bit of flexibility. I see two easiest options (IMO).
+
+1. Use [remote api](https://cloud.google.com/appengine/docs/python/tools/remoteapi). You can package up your script and your file. Deploy them to an app engine instance and use remote api to kick of the script. I've never actually read a local file in GAE, but I would expect it to work.
+
+    **NOTE** if you are planning to use NDB, you should take this route ^^.
+
+2. Use a [compute engine](https://cloud.google.com/compute/docs/) instance. With a compute engine instance up and running, you can connect via SSH and run your script from there. 
+
+    **NOTE** compute engine instances will cost more $$ if left running. Also, if you go the compute engine route, I would just use the Cloud Datastore APIs. 
+
+
+It's hard to recommend one approach over the other without knowing what your plans are. If you want to ultimately serve this data, I'd definitely say use RemoteAPI / App Engine because you'll need to get familiar with it. If you just want it in DataStore to run queries against, I think maybe compute engine might be easier because it involves less proprietary technology.",2016-11-06 17:21:25+00:00,d9oc1tk,1.0,t3_5bg8i1,6818.0,googlecloud
+3,"&gt; Their approach is that when going to someone's blog, you're going to their website, and if they have malicious content on their own website that's their responsibility.
+
+YES! EXACTLY! This is what I was trying highlight implicitly. ",2016-11-06 15:56:27+00:00,d9o8jxp,3.0,t1_d9o8c08,332.0,programming
+4,"Before we all get too bent out of shape here, let's look at some facts and some prior art. 
+
+**First off**, the restriction of *""static.tumblr.com""* and *""[yourblogname].tumblr.com""* is very telling. My guess is that they are not using wildcard cookies for authentication. Let's see ... yes, I can confirm that. **Next**, editing your blog cannot be done from your subdomain, but rather only from the `tumblr.com` domain.
+
+**Conclusion:** This means while on `XXX.tumblr.com` not only can you not make AJAX calls to the tumblr backend (because of CORS restrictions), you do not even have a cookie for your authenticated session. This is critical to their design because your cookies aren't accessible when viewing any blogs which may or may not use JS. They, admittedly horribly, tried to explain this in their response using `window.alert(document.cookie)` as their example.
+
+Okay prior art, Github. Github pages have this exact problem because they host static content for any repository. They quickly realized this problem and took steps to address it. Here: https://github.com/blog/1452-new-github-pages-domain-github-io . Read that carefully before responding with ""See github had `xxx.github.com` and switched to `xxx.github.io`"".
+
+**Disclaimer:** I am not a security researcher and I do not use tumblr, so it is possible there is something I am overlooking. That said, I work on a web application that allows customers to have their own subdomain and has some of the very same security concerns. We've gone through several scrutinous security reviews, I've learned a lot from that. And what I see here indicates that this is not a relevant vulnerability, it's just how it has to work if they want to allow user provided JS. ",2016-11-06 14:49:42+00:00,d9o610n,1.0,t3_5bfb4q,12330.0,programming
+5,"*Server-Naming-is-Rigged* -- Simply because I'm not winning and none of my past names were chosen, it is rigged. If I were to win though, I would accept the outcome. ",2016-11-03 12:58:56+00:00,d9jvopc,1.0,t3_5avd7z,21467.0,nameaserver
+6,Turf War!,2016-11-02 01:47:32+00:00,d9hrn79,1.0,t3_5akmbc,27849.0,cincinnati
+7,"They're busying delete the reviews they don't like. 
+",2016-11-01 01:47:35+00:00,d9g9p71,1.0,t3_5ag76o,3905.0,bourbon
+8,"Democrat here. I like Kasich. He's not perfect and he's not my ideal governor, but he is pragmatist. He's broken with party several times to do what he thinks is right. Right or wrong, I definitely admire him for this.",2016-11-01 01:41:54+00:00,d9g9ggg,1.0,t3_5agdg5,1465.0,Ohio
+9,"Excellent. I have have computer engineering background. I'm curious about this current setup. I has only 3 visible loops ... surely there are a lot more to create an induction? Also, is this just plan old electrical induction, or is there something special to produce this rapid heating effect (such as higher electrical frequencies). 
+
+
+Thanks!",2016-10-31 21:41:11+00:00,d9fz1zp,3.0,t1_d9f8db5,32531.0,oddlysatisfying
+10,Is it possible to share the recording so we can hear it? I'm guessing most redditors aren't capable of imagining a tone from viewing a wave on a graph. ,2016-10-30 23:49:59+00:00,d9emjnx,1.0,t3_5a6psa,27558.0,whatisthisthing
+11,This makes a mean Manhattan. One of my two favorite Ryes (the other is Wild Turkey 101 Rye).,2016-10-28 13:15:47+00:00,d9bcx1v,1.0,t3_59srqy,29497.0,bourbon
+12,"Everybody seems to give buzzfeed shit for this. I'm not really a fan of buzzfeed, but they're providing a legit (and common) service called ""content curation"", and they usually give credit and attribution. So what they don't have a lot of OC.",2016-10-27 21:06:34+00:00,d9aj392,1.0,t3_59nig0,33771.0,funny
+13,"You're referring to your anecdotal experiences. I'm going off of the Google Health provided information about statistics [1]. 
+
+&gt; ""Very rare. Fewer than 20,000 US cases per year""
+
+[1] https://www.gstatic.com/healthricherkp/pdf/guillain_barre_syndrome.pdf ",2016-10-27 14:34:19+00:00,d99zu94,3.0,t1_d99yoft,1641.0,IAmA
+14,"I don't mean for this to sound negative, but what awareness does she want to raise? After reading a little bit about the syndrome, it seems to be a very rare condition and as such there are 1000s of very rare conditions that we can't all have an awareness of. I'm just curious what single thing she would want people to know about. ",2016-10-27 14:00:39+00:00,d99yf5y,1.0,t3_59ncdp,11193.0,IAmA
+15,"Well beyond his success as the governor and his personal life, most libertarian views are just not practical in this century. Case and point is global warming. Gary Johnson thinks it doesn't matter about because the sun is just going to expand in a few billion years and destroy earth. Libertarians in general think the private sector should fix climate change.",2016-10-26 01:18:45+00:00,d97vuym,3.0,t1_d97kca9,15802.0,cincinnati
+16,"I pulled a few stills out, really cool stuff. http://imgur.com/a/APOgV",2016-10-25 12:15:48+00:00,d96wuxx,2.0,t1_d96sjqb,13265.0,EverythingScience
+17,I'd love to read more about what's actually happening. Does anyone have a good citation for this? Or perhaps care to explain it.,2016-10-25 12:04:03+00:00,d96wjuu,1.0,t3_598sos,33252.0,EverythingScience
+18,Came here to say this. I really love this bourbon in my Manhattans. This and woodford rye are two of my favorites for a manhattan. ,2016-10-21 01:20:28+00:00,d915tuz,2.0,t1_d9146h9,2255.0,bourbon
+19,"Overall this is just sad. Gah. Maybe Oracle can just drag this out for 5-10 more years, most people will have moved on past Java at that point and they'll both settle for pennies. ",2016-10-20 03:46:38+00:00,d8zv0si,1.0,t3_58b00l,42848.0,programming
+20,I too want to know. It definitely looks like season 1 to me.,2016-10-14 16:35:07+00:00,d8rxirg,2.0,t1_d8rrf7x,7659.0,southpark
+21,"Awesome. I'm happy to hear that. This is how I do my ember-cli upgrades. I find just comparing manually to be more comprehensive than trying to rerun `ember init` over top of my project.
+
+I assume you gave me the gold. Thank you!!!",2016-10-12 00:23:44+00:00,d8o42q7,3.0,t1_d8o24qn,2787.0,emberjs
+22,"It's hard to tell what your problem is without actually seeing it. I do remember about 2.6 or 2.7 a lot of the testing packages were moved from bower.json to package.json. 
+
+One thing that might be helpful is looking at a diff of the changes. The ember-cli guys are nice enough to have this repo that exists for the sole purpose of snapshotting what directory structures look like at various points in time. See: https://github.com/ember-cli/ember-new-output/compare/v2.4.0...v2.8.0 . If you can reproduce those changes in your app, that is effectively the same as upgrading. The only caveat is you still need to upgrade your global ember-cli for creating new projects.
+
+Lastly, when you say ""unsuccessfully"", what do you mean? Was their and error?",2016-10-09 14:12:37+00:00,d8kfvui,1.0,t3_56ly9c,6847.0,emberjs
+23,"I guess I was just trying to say that even if the status page is green, if you suspect an issue you should report it. ",2016-10-07 18:18:21+00:00,d8i72at,4.0,t1_d8i6fgw,783.0,googlecloud
+24,"LOL. That status page is only updated after a large scale anomaly. We've had instances where our production env was down, but GCP support told us it was under their error threshold so the status page didn't change.
+
+",2016-10-07 16:58:57+00:00,d8i36a7,2.0,t1_d8i0wtv,2794.0,googlecloud
+25,"PSA: This is a second clown attack report that was later deemed fake. The original attack, and subsequent shooting threat, were legitimate. Read the article.",2016-10-02 20:36:52+00:00,d8b87u0,1.0,t3_55gi6q,64398.0,cincinnati
+26,"I've been using Google Cloud Platform for years. While these are all great advantages that I think are mostly true, this is kind of a ""buzz wordy"" write up. It doesn't discuss actual technical advantages. I really feel like their individual services are where GCP really shines. 
+
+First off, GCS and HPIS are awesome. HPIS (High Performance Image Service) is an on demand image manipulation service (scaling, cropping, rotating) that is also a CDN. People using S3 spend a lot of cycles or have to add on a 3rd party to do image scaling, and it's rarely on demand. With HPIS, you just tack `=w200h400` on the end of the URL and it crops. It also stores that cropped format in their CDN for faster serving next time. If you're building an app with a lot of image (e.g. pinterest/masonry), this is critical. 
+
+Second, DataStore. DataStore is a highly scalable noSQL database that is similar to mongoDB. It's built on Google's MegaStore. It replicates production records across data centers and regions. Automatic redundancy for DR and other outages.
+
+Lastly, AppEngine. For serving web requests and handling background workers, it doesn't get much better. App Engine's task queues and autoscaling make it really ease to scale up and down, across regions, as the traffic volumes change. No VMs, OS, complex routing configs, load balancing, etc to worry about. They have it all if you needed it, but App Engine out of the boxes makes it really easy for a **developer** to get an app up and serving. You don't have to be a **devops** expert just to get things bootstrapped.",2016-09-26 20:38:46+00:00,d83553w,1.0,t3_54lqro,11654.0,googlecloud
+27,Original: https://www.reddit.com/r/tiltshift/comments/530pkp/are_videos_allowed_train_yards_and_highways_oc by /u/jdgfreelance,2016-09-25 23:05:43+00:00,d81x8ty,1.0,t3_54hnxj,46.0,cincinnati
+28,"Serious question, is there any explanation for why a helicopter was there or how it got there so quickly? I'm not suggesting anything either way, it just seems odd. It seems like every time we see a helicopter footage it's after a police chase or other long drawn out event.
+
+EDIT: After researching an hour of researching, I've seen speculation that the helicopter was already in the air patrolling. That seems a little questionable, but plausible. Would really like to hear an official explanation for this.",2016-09-21 20:14:45+00:00,d7wi7rv,1.0,t3_53jgui,173853.0,news
+29,"Serious question, is there any explanation for why a helicopter was there or how it got there so quickly? I'm not suggesting anything either way, it just seems odd. It seems like every time we see a helicopter footage it's after a police chase or other long drawn out event. ",2016-09-21 19:38:46+00:00,d7wgdfd,1.0,t3_53rem7,56373.0,news
+30,That looks more like prototype lightsaber to me. ,2016-09-19 11:30:38+00:00,d7sztdn,1.0,t3_53fb80,35693.0,oddlysatisfying
+31,"Well Cartman should have known that girl's don't have balls from s11e14 ""The List"". 
+
+http://southpark.cc.com/clips/155907/girls-dont-have-balls (@1:20)
+
+https://www.youtube.com/watch?v=_-jc4IGDeW4",2016-09-17 14:58:49+00:00,d7qkvys,1.0,t3_535yxf,35103.0,southpark
+32,"In high school history class. A girl is sitting in front of a guy who she was known to have recently hooked up with. The guy and another dude are making jokes about penis sizes and the guy says, ""It's not the size of the boat, it's the motion of the ocean"" as he taps the girl on the shoulder for validation. And the girl immediately turns around, gives him a look and says, ""Yea, but it took a long time to row to france."" 
+
+I'm still laughing 10 years later. Maybe you had to be there ¯\\\_(ツ)_/¯.",2016-09-17 00:36:34+00:00,d7q07sy,1.0,t3_532wpf,27283.0,AskReddit
+33,"I also agree that when using financial institutions you actually shouldn't incognito. My rationale is that many financial institutions have a security challenge if they haven't seen you before (i.e. you don't have a cookie). Examples: last 4 ssn, security question, account number, pin number. 
+
+These security challenges are meant as a lazy form of 2FA, but unfortunately the answers are the same every time. Using incognito everytime means you have to retransmit these answers, making them less useful. 
+
+Yea, it's kind of a thin rationale, I know.",2016-09-15 23:50:32+00:00,d7ojtsm,3.0,t1_d7o15t7,24273.0,AskReddit
+34,"Right, but when you wake a majority of the people up in the middle of the night, it's very unlikely they're going to go out looking for her. They're going to roll over, go back to sleep and in the morning disable the alarm. Sure there are some people who work 3rd shift, but this system would be better if the alerts were not as ""alarming"" in the middle of the night. ",2016-09-13 18:40:51+00:00,d7lc961,3.0,t1_d7l1ztg,12625.0,Ohio
+35,WHOA. That looks NSFW to me.,2016-09-12 00:49:56+00:00,d7iybj1,1.0,t3_528bz8,43782.0,oddlysatisfying
+36,"The more crap like this is a headline, the more Trump has a chance. So what, she had pneumonia, does that suddenly make her unfit to lead the country now? Jesus. How about we talk about policy and real issues.
+
+And to everyone saying, ""oh she tried to hide it"". Of fucking course she tried to hide it. If she came out and said she had pneumonia the same people who are freaking out now, would have been freaking out then. She was damned no matter what.
+
+EDIT: Downvotes, jesus. I was for Bernie, but he didn't win. I am firmly against trump, so what fucking choice do I have? Hillary will be a far better president than Trump. Not really sure what do with this sub. What to do want /r/politics? ",2016-09-11 23:55:18+00:00,d7ivzuu,1.0,t3_52asml,8912.0,politics
+37,I second the forum (discuss). It's far more active and insightful than even this sub. ,2016-09-11 22:05:00+00:00,d7ira24,2.0,t1_d7ibk5f,19711.0,emberjs
+38,:( Man this is one of my favorite bourbons. ,2016-09-09 21:31:51+00:00,d7g78gg,1.0,t3_51ziss,3463.0,bourbon
+39,"*MakeRedditGreatAgain*
+
+Because even though reddit has always been great, we need to make it great again.",2016-09-07 12:46:01+00:00,d7cprde,1.0,t3_51k0cv,20689.0,nameaserver
+40,I'd love to have a source for those claims that was really reputable. I definitely believe you heard it. I just want to see candidates put shit in writing. ,2016-09-07 02:57:10+00:00,d7ccvta,5.0,t1_d7ccspv,135.0,IAmA
+41,Is there any more context you can offer? What problem we're you trying to solve?,2016-09-07 02:40:06+00:00,d7cc8j6,1.0,t3_51i27x,12989.0,googlecloud
+42,Do you have a source for that? I'd be curious to know to what extent he supports them given that the formal libertarian platform does not. ,2016-09-07 02:25:25+00:00,d7cbne1,3.0,t1_d7cbk1t,132.0,IAmA
+43,"Life long democrat here. I'm actually close to voting libertarian in this cycle, but I'm a little stuck on climate change. As someone with a scientific background, I firmly believe that climate change exists. But beyond my belief, let's imagine for a moment that with 100% certainty it does exist and it is man made. 
+
+As president how do you address it?
+
+I assure you this question is not meant to trap you into a ""gotcha hypothetical"", but I'm simply seeking an answer for how to tackle large macro problems with little government assistance. 
+
+Related, do you think man would have landed on the moon without the financial assistance of the US government?",2016-09-07 01:59:47+00:00,d7cam0k,1.0,t3_51ijlj,4305.0,IAmA
+44,"Oh really? That's pretty exciting. Now I'm going to go try. 
+
+=================
+
+UPDATE. With production build:
+
+* vendor.js - **before** - 1.3MB (359KB gzipped)
+* vendor.js - **after** - 1.4MB (361KB gzipped)
+* app.js - **before** - 2.8MB (376KB gzipped)
+* app.js - **after** - 1.7 MB (272KB gzipped)
+
+Hey that's awesome! 
+
+",2016-09-06 20:56:19+00:00,d7bybg6,2.0,t1_d7bubfa,5317.0,emberjs
+45,See CHANGELOG: https://github.com/emberjs/ember.js/blob/122af21008574fdd24003d347546a1d5a3133650/CHANGELOG.md#272-august-30-2016,2016-09-06 20:55:16+00:00,d7by9t5,2.0,t1_d7bn8gk,15994.0,emberjs
+46,And people say American Football is a circus. ,2016-09-05 00:46:01+00:00,d79q02x,1.0,t3_515ek8,20667.0,funny
+47,"Seriously, can you imagine if this video were to exist of Obama and/or Clinton. Republicans would lose their shit. ",2016-09-04 16:36:06+00:00,d798ikk,2.0,t1_d790qza,16736.0,politics
+48,"This has some rendering implications. While it works, if you are doing this repeatedly it will cost your users some CPU cycles. ",2016-09-03 17:48:30+00:00,d7871yj,3.0,t1_d77yuok,14176.0,AskReddit
+49,"Honestly, I think AWS might be a better fit for that. AWS's EC2 is a bit more mature than GCP's Compute Engine. 
+
+I've been using GCP for about 5 years now and I think the parts of GCP that really shine (their differentiators) are their services (GCS/HPIS, DataStore, BigQuery, PubSub, etc), as well as App Engine. 
+
+Looking back at both, it seems like AWS started with ""infrastructure as a service"" and GCP started with ""platform as a service"". Since they've both moved toward the middle, but the point I was trying to make is that I think the infrastructure stuff (EC2) is just a bit more mature with AWS and the platform/service stuff is much more mature with GCP.
+
+Lastly, I've actually heard of people, and actually know some, who have moved their enterprise software installations into AWS. I've never heard of this for GCP. I think you'll find better community support for this task with AWS. 
+
+** Disclaimer: These are just my opinions. I probably don't even know what I'm talking about. :) Also, I do love GCP a lot. If you're building an app from the ground up, I think GCP's offerings are far better. Just trying to offer good perspective.
+
+",2016-09-01 00:36:42+00:00,d74s1fr,1.0,t3_50ixm7,19466.0,googlecloud
+50,"I would use ember-data to fetch your data if you're not doing so already. Once you have the data in your controller or component you could just use a computed property to sort it. 
+
+I wrote a very simple computed macro addon that is great for immutable sort orders: https://github.com/workmanw/ember-computed-sortby
+
+You can also use the built in sort macro if you want to be able to mutate the sort order (http://emberjs.com/api/classes/Ember.computed.html#method_sort).
+
+",2016-08-31 00:09:36+00:00,d73c69y,1.0,t3_50ea00,337.0,emberjs
+51,"Serious question, what's the concern about his residence and where he voted? I know he may have broke a law or regulation. But he's not the one running for president. It seems like there should be bigger fish to fry, am I missing something?
+
+Edit: And downvote for a serious question. Sooo great. I guess what I was trying to say is that Trump seems to have somehow insulated his scandals with the scandals of his campaign. He seems to be unphased by those of Lewandowski, Manafort, and now Bannon. We're spending all this time trying to find weakness with someone Trump is just going to drop in a few months.",2016-08-28 04:50:59+00:00,d6zmz3j,1.0,t3_4zx3ob,15130.0,politics
+52,"Sorry. I tires posting a comment asking for advice on what to try, which people do all the time, but I had connectivity issue. I won't post any further.",2016-08-24 22:35:17+00:00,d6vb1cb,2.0,t1_d6va8xy,1093.0,bourbon
+53,"GAE had a partial outage this morning around 10AM EST. This affected the cloud console for us. For periods of time it was completely unavailable. For us, this outage was severe for about 5 minutes and minor for about 15 minutes. See: http://status.cloud.google.com
+
+Disclaimer, I am just a GCP customer and this is just an anecdotal of what I experienced today. To me, it seems related, but I could be wrong.",2016-08-22 20:14:06+00:00,d6sb41q,1.0,t3_4z15u3,15855.0,googlecloud
+54,It's not super exciting woodworking I know. I was more excited about the performance of the jig.,2016-08-21 01:44:02+00:00,d6q36mz,1.0,t3_4ys6vw,3904.0,woodworking
+55,"It's a good thing they're so ""pro-life"" in Texas. ",2016-08-19 11:47:11+00:00,d6nx7yp,1.0,t3_4yfs1j,41128.0,politics
+56,"I too grabbed a bottle of this. It's so bizarre, but I go back and forth between loving it and hating it. Seriously, each time I drink it I either think this is a new favor, or why did I spend $50 on it. I guess that's why they call it contradiction. ",2016-08-16 12:52:01+00:00,d6jm5dy,1.0,t3_4xwq2i,44862.0,bourbon
+57,"[Wild Turkey 101 Rye](http://liquorliquidators.com/wild-turkey-rye-whiskey-750.html?gclid=CJ7M6ILcus4CFQsehgodJs0OXA) makes the perfect manhattan. This isn't scientific, but I've spent a year trying a vast variety of bourbons. 
+
+My Recipe:
+
+* 3 Oz - Bourbon
+* 1 Oz - Sweet vermouth 
+* 3x dash of bitters
+* 2x cherries",2016-08-12 01:31:52+00:00,d6dynho,1.0,t3_4x8v9g,32562.0,bourbon
+58,"Yeap, 100% agree. I love Eli's ... but I love Pontiac just a little more. Pontiac is also located in a great part of town close to many other bars. ",2016-08-01 20:01:34+00:00,d601lh8,2.0,t1_d5zzpsw,2280.0,cincinnati
+59,"Yea no kidding. I understand voting for a party and platform over a candidate. I've definitely done that before. But when that same party doesn't play fair, it's a lot hard to support them.",2016-07-25 21:28:31+00:00,d5qjlld,3.0,t1_d5qiyae,802.0,politics
+60,"It's like Clinton isn't interested in winning this election. She can't do it without a fair number of people who supported Sanders in the primary. What a way to win them over, by hiring the person who slapped them in the face. 
+
+I mean WTF. You can't make this shit up. ",2016-07-25 21:10:37+00:00,d5qiqfo,1.0,t3_4uitm8,24614.0,politics
+61,And he definitely spoke english.,2016-07-20 04:06:03+00:00,d5j5hrq,4.0,t1_d5ijdat,31718.0,politics
+62,"I too am a WSU alum. I was a little bummed to hear this. It would have been awesome to see WSU on the national stage. An opportunity that may never come again.
+
+Yea the traffic sucked when Obama spoke there in 2008, but it's just one night. ",2016-07-20 00:21:25+00:00,d5iwryi,2.0,t1_d5iio9v,19130.0,Ohio
+63,"West Chester has a great local coffee shop called CAVU. It's on Tylersville Rd near 75. http://www.yelp.com/biz/cavu-coffee-west-chester
+
+Probably not worth the trek for you since you're in Bellevue, but if you're ever heading up to IKEA and want to stop for a great cup of coffee, I definitely recommend it. ",2016-07-18 11:36:24+00:00,d5goo56,1.0,t3_4tc2x1,44774.0,cincinnati
+64,"Um, is it me or is that spider galloping? ",2016-07-16 02:57:01+00:00,d5e5ko9,1.0,t3_4t12w2,24417.0,WTF
+65,"So you're probably an outlier. I definitely believe that is possible. But for that kind of thing to happen on that large of a scale is what I questioning.
+
+I'm curious given your experiences, do you think it's possible to even find 50 million saplings all at once? Of course they are various sizes and come from various places in the country. It just seems so logistically crazy. ",2016-07-15 14:51:37+00:00,d5dcla4,3.0,t1_d5db069,2354.0,worldnews
+66,"That number seems near unbelievable. The article says 800,000 people planted 50 million trees. So 50mil / 800k is ~61.62 trees per person. 
+
+Does that seem hard to believe to anyone else? Even for saplings, that would have take each person at least 45 minutes. Also, how do you come up with 50 million tree saplings all at once? And spread out enough to plant them.",2016-07-15 12:53:08+00:00,d5d89li,1.0,t3_4sxl4h,27859.0,worldnews
+67,"I use mirage for testing and love it. 
+
+But I think it's also worth mentioning that if you want to do rapid app prototyping, firebase has an excellent [ember-data](https://github.com/firebase/emberfire) addon that is really simple to setup. Sometimes having data persist between reloads can help flush out more issues.",2016-07-13 21:28:02+00:00,d5b4v1n,1.0,t3_4spflp,2012.0,emberjs
+68,Can't wait to see what it looks like when it's done. ,2016-07-10 23:59:29+00:00,d578y8u,1.0,t3_4s6vl0,17251.0,woodworking
+69,"I was expecting a blog post that talked about your experiences with FastBoot. I'm glad you've been successful with FastBoot, but I think it's off topic to just post a link to your marketing page. ",2016-07-09 18:49:18+00:00,d55s5jd,1.0,t3_4rz4wf,45170.0,emberjs
+70,"I think the thing you might be missing is that the ember server is only for local development. Individual developers should all run their own local servers (they can all proxy to the same backend/API if they wish). 
+
+As Jarredkenny mentioned, when it comes time to actually deploying and serving your app you will use `ember build` to generate your app and it's assest. ",2016-07-07 23:38:51+00:00,d53jmqz,3.0,t1_d5342jq,20043.0,emberjs
+71,Actually if you're starting a new project I would use ESLint instead of JSCS because JSCS has been folded into ESLint. See: http://jscs.info/,2016-07-04 15:53:36+00:00,d4yvmd5,2.0,t1_d4yhwkj,37447.0,emberjs
+72,No disagreement there. But calling people silly isn't very constructive. ,2016-06-29 21:29:08+00:00,d4t57ek,4.0,t1_d4t3czb,2364.0,EverythingScience
+73,"I think a big part of this problem is that America is a very big and culturally diverse country. There is virtually nothing that all Americans agree with and thus everything's a compromise. Lumping all American's together and saying we're acting silly is like lumping half of Europeans together and asking why they can't agree on anything. 
+
+",2016-06-29 17:22:02+00:00,d4st1by,2.0,t1_d4sm9c5,7943.0,EverythingScience
+74,"In my experience that seems low. Earlier this year, my wife spent 3 hours in the ER for something pretty common/routine, but required immediate attention (thus she couldn't wait go to her family doctor the next morning). She only had one small test, was seen by three doctors, given medication and sent home. The total bill for that was $5000. We hit our yearly deductible in one night. Really quite insane. 
+
+Edit: To help highlight the absurdity, everything that was done in the ER could have been done in her doctor's office. The only reason we went to the ER was because it happened in the evening. If it had happened in the morning, we would probably be looking at a $200-$300 bill. ",2016-06-29 12:39:09+00:00,d4sgkum,1.0,t3_4qed48,17673.0,EverythingScience
+75,"I know! This store always has cheap bulliet for some reason. They sell a 1.75L for $41! It's DEP in Covington, Kentucky. ",2016-06-28 11:30:16+00:00,d4r2j7z,3.0,t1_d4qrt21,29805.0,bourbon
+76,"GCP customer here. The primary parts of our stack includes: GAE (standard and flexible), Datastore and GCS [we love HPIS].
+
+As I mentioned in my comment above, we love the newer ""Error Reporting"" offering. The heuristics for coalescing errors are really great. This is a home run feature, it just works, and works well.
+
+Now for the areas to improve. 
+
+**Logging**
+
+I don't know if the log viewer is part of Stackdriver or it's just the branding / marketing weasels trying to be cute (because it's been around long before Google acquired Stackdriver). Either way, it's slow. Like really really slow. And the UI kind of clumsy. It's always reverting my filters when paging or apply new ones. Jumping to data ranges seems to cause versions / modules to reset. It's gotten a little better in recent months, but still needs work. Sometimes it gets so clunky I just punt and use Big Query as my log viewer. 
+
+**Alerting / Monitoring**
+
+The really needs improvement. The emails that are sent are so useless. I really like to see some remnants of the actual *errors* contained in the email. I'd like to not see the ""login with google"" link everytime I click the link in the email (I'm already logged in!). The granularity for triggering these alerts needs improved. More importantly, we need a way to identify known errors and have those emails be suppressed. While I understand this is not the direct goal of the monitoring function, we often get alert fatigue for transient errors. Like when datastore times out because the tablet server is hot. Or URLfetch is dragging ass. We get so many benign errors on the alerting that we mostly ignore it.
+
+**Trace**
+
+This is a really awesome feature with one major major downside. I cannot filter by partial URI or regex. It starts matching at the beginning of the URI. Here is a great example URI: `/api/v1/comment/XXXX/like` so I want to see all traces for the `.../like` endpoint. But I can't because there is an ID in there and no wild card matching. 
+
+Sorry for the rants. I hope they don't come across too negative. We've been GCP users since 2010 and rarely get a chance to interface with PMs. And we have a lot of perspective and feedback.
+
+
+P.S. Can you please tell someone on the datastore team that datastore admin is on it's last leg. They really need to do something about that. We can barely do backups and restores of production data. :cringe:",2016-06-27 02:06:19+00:00,d4pb8xy,,t1_d4il89u,,googlecloud
+77,My local liquor store has bulleit 750ml for $20.99. That's my go to. ,2016-06-27 01:43:04+00:00,d4pag6b,1.0,t3_4q07yb,9627.0,bourbon
+78,"I second this. We have this exact problem. It could be our app, though I don't think it is, but what I've learned is that treating your backend like an ORM is a bit of a facade. At first it seems great because you ""have all the data"" and it's modeled the same as it is on the backend. But in reality the server is always a slave to the client, it's job ends up being to serve up just enough information for the client to display what it needs, nothing more and nothing less.",2016-06-22 11:29:23+00:00,d4j8k3g,2.0,t1_d4j7mme,2749.0,emberjs
+79,"It's hard to answer this question without any specifics. ""Going outside Ember's happy path"" is pretty subjective.
+
+I think there are lot of aspects of ember that allow for greater flexibility. If you need to, you can always manually manage a component's DOM via its lifecycle hooks and dispatch event handling. It's generally not encouraged, but there are definitely advanced use cases where it's necessary. One prime example we have in our app is WYSIWYG. 
+
+So this just what I think of when you say ""Ember's happy path"". Perhaps if you have some specifics, others might be able to tell you about their experiences. ",2016-06-22 01:22:19+00:00,d4it3li,1.0,t3_4p84d8,441.0,emberjs
+80,"Hello sir, would you guys like to valet?",2016-06-22 01:04:01+00:00,d4isdq4,1.0,t3_4p53t1,35204.0,WTF
+81,"Yea stackdriver isn't really all that great. We explored some different options, but didn't find a lot of great choices.
+
+Then GCP added their ""Error Reporting"" page/system to the console. This has solved some of our headaches because it groups anomalies by type. The heuristics seem to be very great. So rather than looking at a bunch of logs to figure out what's going on, you can look at their rollups. Then dive in from there. 
+
+https://console.cloud.google.com/errors
+
+This is only one piece of what you're asking about, but if you haven't seen it, it might be helpful. Also you have to opt-in to getting alerts from this aspect of stack driver separately. There is a button in the upper right. ",2016-06-21 16:00:19+00:00,d4i3y2d,1.0,t3_4p3m3v,26698.0,googlecloud
+82,What part of town are you in and how far would you want to commute to work?,2016-06-20 18:22:09+00:00,d4gxnex,1.0,t3_4p03kb,811.0,cincinnati
+83,"That is an option. The downside of mailing lists is that they are much more asynchronous. We can have a lot more back and forth in a 5 minute conversation, than in a mailing list. ",2016-06-19 23:54:02+00:00,d4fxwtg,3.0,t1_d4fx7fu,1206.0,programming
+84,"I work on a very close team with 4 other engineers, a UI/UX guy and a CTO/PM guy. I'm very lucky to say that team is built of extremely skilled people. 
+
+In general, we welcome interruptions by other team members. We sort of began this philosophy about 3 years ago. There is no formal rule, it is ""use your own discretion"". Generally speaking, it's if you have a question, ask it. And if someone else has a question, answer it. 
+
+While this can be annoying sometimes, I think overall it produces a better product. So many times asking and answering has saved us a lot of time down the road. And so few times has it been a waste. 
+
+Clearly this doesn't work for everyone, or even most people. But the idea that you should never interrupt a programmer seems dumb from view. I say welcome the interruptions (and probably the downvotes).",2016-06-19 19:43:17+00:00,d4foplm,1.0,t3_4otbqr,22036.0,programming
+85,"23% of energy consumption was coming from idle devices? That seems like it's a little bit of a stretch. I know cable boxes and others can be big offenders, but 23% seems crazy. And household transformers such as cellphone and laptop chargers don't draw much current when not in use.",2016-06-18 19:27:36+00:00,d4ekscb,1.0,t3_4opdtu,7574.0,EverythingScience
+86,"I built a repo that demonstrates how we do it in our app (batterii.com). It may not be perfect, but it works for us: https://github.com/workmanw/ember-multi-app
+
+Depending upon your needs engines might also solve this for you, but they're still heavily WIP at the moment.",2016-06-17 11:07:49+00:00,d4cvl4i,1.0,t3_4oglp6,38414.0,emberjs
+87,"I'm not suggesting that the mental health of people has to do with the gun. I'm saying that if you believe the issue is best solved by dealing with and treating mental health, then that requires more studying to fully understand what that looks like. You have to study cases of gun violence in order to find the mental health patterns that exist among people who commit these crimes.
+
+How can you possibly say, ""The cause of gun violence is mental health problems, we need to address that?"" And then say, ""We'll we cannot study gun violence"". 
+
+ ",2016-06-15 01:24:58+00:00,d49lull,3.0,t1_d497r4y,19262.0,politics
+88,"Republicans: ""It's a mental health problem, not a gun problem"".
+
+Dems: ""Okay, let's allow the CDC to study it.""
+
+Republicans: ""Naw, we can't do that."" ",2016-06-14 20:02:49+00:00,d497p5a,1.0,t3_4o1des,23810.0,politics
+89,"Yea, that's what I was going to suggest. They do an amazing job of documenting the changes and how they impact you.",2016-06-13 21:13:06+00:00,d47ulfr,2.0,t1_d4787zh,30204.0,emberjs
+90,Yea all of the USA just ends up in the Indian Ocean. ,2016-06-11 03:33:44+00:00,d44iqu4,2.0,t1_d43erqp,69233.0,InternetIsBeautiful
+91,"&gt; this is basically global vs local components which already exist, especially if using pods, and gets easier with the modules RFC.
+
+Yeap, totally agree. But AFAIK the resolvers don't support local lookups yet. 
+
+&gt; this would be much much more boilerplate 
+
+I definitely don't agree with that. I think it's much easier for 15-20 components to talk directly to a service which has the state. Rather than passing around all of that state to various components. But we can agree to disagree.
+
+&gt; This is just not true. This is exactly what yield and block params are for.
+
+Okay, maybe I'm wrong here then. Let's consider this example:
+
+    {{#my-widget user=user |widget|}}
+      {{my-user-widget user=user}}
+      &lt;button {{action widget.saveUser}}&gt;Save User&lt;/button&gt;
+    {{/my-widget}}
+
+My point was, and has been along, that because both `my-widget` and `my-user-widget` both require the user, it has to be passed into both components. Show me how to use `yield` and only pass `user=user` in once.
+
+This is a very distilled down example. In our app, we have cases where components require 5-10 pieces of state passed into the block component and many of the sub components. That's the heart of what I'm trying to get at.",2016-05-31 17:09:16+00:00,d3qlcx6,7.0,t1_d3qki21,1153.0,emberjs
+92,"I do know how to use yield. But it doesn't always solve the problem. `yield` is great if your problem is just passing through data. But when a component JS class actually needs to consume and transform data or fire the actions, it does nothing for you. You still end up with excess boilerplate. Additionally, if the component is used on several occasions, `yield` can it's self create more boilerplate because block form requires the redeclaration of child components.
+
+e.g.
+
+    {{#my-widget foo=foo hello=world user=user action=(action ""fireAction"") as |widget|}}
+      {{widget.my-subwidget bar=bar}}
+      &lt;div class=""somelayout""&gt;
+        {{widget.my-subwidget bar=bar}}
+      &lt;/div&gt;
+    {{/my-widget}}
+
+In that example, even though I was able to pass `bar` to `my-subwidget` more easily and widget has yield it's component, the other aspects of the markup have to be duplicated upon each invocation of `my-widget`. So this really isn't perfect either.
+
+Perhaps you could provide a more constructive comment than saying I don't know what I'm doing.",2016-05-31 16:37:55+00:00,d3qjyw4,5.0,t1_d3qj3tp,1192.0,emberjs
+93,"I disagree with you that this is bad component design. You can't always distill complex requirements down into simple micro components. 
+
+I've been using ember for years and I have the exact problem that /u/waiting4op2deliver mentioned. My solution has been to effectively categorize components into ""widgets"" and ""page-specific"". The later style components usually only exist on one route/resource. Instead of passing in 5 pieces of state and 3 action bindings, they talk directly to a service. It's not perfect, but it beats a shit ton of boilerplate. 
+
+",2016-05-30 18:11:09+00:00,d3pe0a1,3.0,t1_d3pdu3m,279.0,emberjs
+94,"Because they are far less safe. Bike's are easily laid down on the road. They're much harder to see in blindspots. Blowing out a tire is far more catastrophic. Etc, etc, etc. I know many people would say, well this is the choice the driver makes for them self, but it's also about others on the road around you.
+
+Here is an example, recently where I live there was a driver who rear ended a motorcycle at a relatively low rate of speed, slowing from ~25mph. The motorcyclist unfortunately died because he hit the car in front of him and wasn't wearing a helmet. The car driver is being charged with manslaughter. I know it's ultimately that driver's fault, but if that driver had hit a car instead it's likely no one would have been hurt.
+
+That's just one example. I was originally trying to show that motorcycles are still very primitive vehicles and have had little safety improvements in the last half century. While modern cars/trucks/etc have had massive amounts of improvement.",2016-05-30 12:39:10+00:00,d3p2yuh,4.0,t1_d3otoms,28762.0,funny
+95,"I'm sure I'll catch flack for this, but I think motorcycles in general are unsafe on the road. With all of the modern safety, laws and regulations for 4 wheel vehicles (e.g. seatbelt laws), it seems absurd we allow motorcycles on the road.",2016-05-30 00:59:49+00:00,d3omn7d,2.0,t1_d3objfi,20073.0,funny
+96,"The Coon and Friends episodes. 
+
+http://southpark.wikia.com/wiki/Coon_and_Friends
+",2016-05-29 13:43:43+00:00,d3o08rj,1.0,t3_4li9y1,48265.0,AskReddit
+97,"Hehe. My friend Jonathan [the interviewer] is also 6'3"", so that doesn't help.",2016-05-12 23:20:36+00:00,d33cmya,2.0,t1_d339nsc,4615.0,rollercoasters
+98,This just a big deal about nothing. Who cares. The city has a lot of real issues and we're reporting on a parked streetcar with the doors open. ,2016-05-11 21:52:26+00:00,d31w77o,1.0,t3_4ivch9,24269.0,cincinnati
+99,My two favorites are Cuban Petes and Krueger's Tavern (which have already been mentioned). But Keystone in Covington or Clifton has a pretty good Cuban as well.,2016-04-25 15:30:19+00:00,d2gmgxf,1.0,t3_4gde9o,5871.0,cincinnati
+100,Yea I can agree with that. It definitely can be latent at times. ,2016-04-21 01:24:53+00:00,d2b5blg,,t1_d2b24iw,4957.0,googlecloud
+101,"I'm a 28 year white software engineer living in Cincinnati. I live in the suburbs and work downtown. I can't really speak to general racism in the city for obvious reasons, but I can talk about the software engineering community here.
+
+I've been living and working in the Cincinnati for 7 years now. I've always found the development community to be very welcoming and professional. There are regular meetups on a variety of topics and many people who know each other. There are many local companies who sponsor and foster the growth of this community. Demand for developers is very high in Cincy. Startups, Agencies, Contractors, Enterprises and others are always, ALWAYS, hiring talent. Salaries are great and the cost of living out here is very affordable. 
+
+I've never witnessed anything amongst other professionals that was even remotely racists.
+
+Also, what kind of development do you? ",2016-04-16 19:18:40+00:00,d25i96h,1.0,t3_4f0i2l,52806.0,cincinnati
+102,"Based on those, I would say Bulleit 10yr (not regular Bulleit*) and Eagle Rare. 
+
+* Regular Bulleit is quite delicious, but quite a bit more spicy. Bulleit 10yr is much smoother. ",2016-04-16 01:05:57+00:00,d24qjg4,1.0,t3_4ez1vi,11122.0,bourbon
+103,"The poles reversing. Historically the poles have reversed every 200,000-300,000 years. It's been about 780,000 years since the last reversal. We know this by looking at ice samples from the arctic. 
+
+The modern day effect of the poles reversing is completely unknown. Theories range from things like destroying our satellites, to reducing the ozone layer to a point which results in the destruction of life.
+
+** Disclaimer: I am not a scientist I just read stuff on the internet. Quote me at your own parel.",2016-04-13 12:55:59+00:00,d212lc6,1.0,t3_4ekced,23615.0,AskReddit
+104,"Why? There are plenty of non-web development jobs for a programmer. If you're developing for the web and don't like it, do something different. Is it really that hard?",2016-04-13 01:18:38+00:00,d20loto,5.0,t1_d20lez6,431.0,programming
+105,"You could always quit and find a new job. Devs are in high demand, I'm sure you'd have no problem finding a new gig where they don't use JS. ",2016-04-13 01:07:40+00:00,d20l9t3,3.0,t1_d20ku4q,689.0,programming
+106,"Damn this is a thread full of trolls and pretentious jerks.
+
+Look if you don't like Javascript, DON'T USE IT. If you don't like the web platform, DON'T USE IT. 
+
+You don't have to talk down to developers who just trying to make new things work. People use to bitch and moan about Mootools, Dojo and yes, even jQuery. Saying JS is stupid, you shouldn't pragmatically manipulate the DOM, that's not how it was designed, SEO, blah blah blah. Time passed, people realized they could offer a better user experience using jQuery, their competitors started using it and eventually a consensus was formed. 
+
+Tell you what trolls. Put an event on your calendar for 2 years from now. Come back to this sub-thread and if the Javascript Web Apps haven't completely exploded in popularity by then, I will apologize and admit I'm wrong. Because I guarantee you they are not going away and I guarantee you just witnessing the beginning of it.
+",2016-04-13 00:49:18+00:00,d20kktt,1.0,t3_4eh9qc,25039.0,programming
+107,Am I the only one that thought of the nerve gas from The Rock? http://imgur.com/TjWw7hK,2016-04-07 23:32:47+00:00,d1u8w8q,1.0,t3_4drb9p,32125.0,pics
+108,"It sounds like you're looking for an RDBMS, but I will say that Cloud Datastore is **highly** scaleable. 
+
+We've been using GCP for nearly 5 years now. I don't mean to directly bash Google, but they are very very slow to add new services. And rarely have they added a service that is similar to another service. 
+
+You could run your own database cluster in compute engine or even container engine. I don't think that's unheard of. ",2016-04-05 22:38:00+00:00,d1rcdt9,1.0,t3_4digr2,6027.0,googlecloud
+109,I think parents of healthy children should be a lot less judgemental of parents of severely disabled children who are stuck between a rock and hard place. Desperately trying to give their kid the best life they can have.,2016-03-27 00:13:16+00:00,d1epvd8,1.0,t3_4c1dmb,34515.0,EverythingScience
+110,"Long time-ish JS developer here. I've been working on JS Single Page Apps for ~7 yrs. Java / C++ before that.
+
+I've never understand this micro-package mindset. It's one thing to use a small utility in your application. If the utility goes belly up, it's your responsibility to replace it. But it's a completely different thing to have your dependencies have dozens of small dependencies, and in turn those dependencies have dozens of small deps and so on. 
+
+IMHO, this was a problem waiting to happen. ",2016-03-26 13:16:20+00:00,d1e4lmk,2.0,t1_d1cxnb4,88537.0,webdev
+111,"You're right that JS isn't the right tool for everything. You're wrong that Javascript isn't getting better.
+
+First off, even though Javascript has been around for 20 years, I would argue that only in the last 6 years has it become viable as an application language. First, Node.js has only been around for 6 years, before that if you were using JS, you were writing code for the browser. Second, we didn't begin to see early MVC frameworks, like backbone, until about 6 years ago. Obviously DOM oriented frameworks like jQuery have been around a little longer (9 yrs). Lots of things beyond JS' control has held them back, namely browser runtime capabilities and network capabilities (remember you were shipping your code over dial up for some of that 20-year period). My point is that sizable application development in JS hasn't been around terribly long, thus the language hasn't had a reason to evolve for basically the first decade of it's life.
+
+In the last two years we've seen a massive improvement in the language. Starting with ES6 and continuing into ES7. Transpilers like Babel are making it possible to take advantage of new language features not natively available in browser VMs. 
+
+So while JS has been around for a while and it still may not be where other languages are in their lifecycles, to say it's not getting better is just flat wrong.",2016-03-26 12:53:34+00:00,d1e45i5,2.0,t1_d1d4dpy,75270.0,webdev
+112,Yeap! I was just at Braxton last night. Crankshaft IPA is quickly becoming one of my favorite IPAs.,2016-03-20 14:08:36+00:00,d16piiz,2.0,t1_d16a4jm,45064.0,cincinnati
+113,"Here's my take on it. When it comes to debates and politics, it doesn't matter what you believe, it matters what you can prove.
+
+It may be a race thing, it may not. But unless you can prove that Mcconnell is racist, you're giving them a counter argument. Anytime you make an assertion like this, you have to be able to back it up. If you can't, and they know it, their counter argument will be, ""I'm not racist ... I've done great things for the American American community ...."" and they've successfully derailed the conversation. It'll no longer be about the supreme court justice fuckery. It'll be about some subjective topic you cannot argue with facts. ",2016-03-18 19:19:03+00:00,d14v700,4.0,t1_d14o7mx,9727.0,politics
+114,This subreddit might just implode if Bernie isn't the democratic nominee. ,2016-03-14 00:16:00+00:00,d0yryip,1.0,t3_4a9upv,13796.0,politics
+115,"I completely agree with you. I hate that brand of politics where they find a 30 year old video of a candidate saying something they now contradict. The idea that the views you have on the outset of your political career have to remain absolutely unchanged is ridiculously. Not to mention that the world around you is changing, public opinion changes, foreign leaders change, science changes, etc, etc, etc. ",2016-03-13 18:11:13+00:00,d0yesvd,3.0,t1_d0y6mr3,16604.0,AskReddit
+116,"Which lot? I would try go back and try to see if there is a sign or anything that says the hours. Either way, you have to pay it first and then dispute it. I know that's silly, but if you don't pay it, dispute it and win, you can and will still be hit with late fees. ",2016-03-11 23:58:21+00:00,d0wlrhp,1.0,t3_4a0swv,9502.0,cincinnati
+117,10/10 gilded.,2016-03-10 14:41:17+00:00,d0upn23,2.0,t1_d0u5sp3,46420.0,pics
+118,"In fairness, I think there was a time that this was true. But there have been little to no deprecations and feature additions in the 2.x series. I would say most stuff for the last 6-8 months is probably valid. ",2016-03-10 02:48:30+00:00,d0u89mz,2.0,t1_d0u2sfo,8563.0,emberjs
+119,How long do potatoes last? I was under the impression it was only 1-2 months under good conditions (temp and humidity controlled). ,2016-03-09 04:03:11+00:00,d0szeh6,1.0,t3_49ltiq,7562.0,pics
+120,"Everyday I look at this. Everyday I'm deeply frustrated by the imbalance I see. http://imgur.com/YvAhoTl
+
+I feel like Senator Sanders is a once in a generation candidate. If Hillary wins because of Superdelegates I will resign from the democratic party and check out of politics for a while. ",2016-03-08 01:47:08+00:00,d0rix30,1.0,t3_49cvig,40132.0,politics
+121,"Man, people are beating you up for this. Honestly I thought that first thing. 
+
+I'm not saying they deserved it or were asking for it. But honestly, if you're going to rob a business, a very popular cash only restaurant is a good target. Some people are saying they take card now ... I didn't know that and I eat there once a month or so. My guess is a lot of people didn't know that and thus come prepared to pay with cash. 
+
+",2016-03-07 22:54:00+00:00,d0rc4u3,2.0,t1_d0r0olt,15728.0,cincinnati
+122,"I disagree a little bit. RFCs are for proposing well thought suggestions to problems. /u/mowrowow is just expressing he's looking for a place to give feedback around pain points. The example he has may or may not qualify for an RFC, but that really isn't his point. My guess is he has several pain points and he's just looking for a place to express them and feel like he's been heard.
+
+I certainly don't mean to speak for him in this way, but I know that's how I often feel. I definitely have pain points of varying sizes. There isn't always a place to provide this feedback and feel like you're heard. I've brought things up on discuss and slack before. Usually someone just tries to explain to me how I'm doing it wrong, or my use case is bad, or I don't know ember well enough, etc. Sometimes you just want to know your pain points are being heard along with others pain points and that things are being well prioritized.",2016-03-05 21:24:00+00:00,d0ow4h3,5.0,t1_d0okc6n,21359.0,emberjs
+123,"I don't mean any disrespect to the author, but why even bother to write that? It doesn't say anything that isn't in the blog posts. ",2016-03-03 18:48:58+00:00,d0mbqhg,1.0,t3_48sp2z,8532.0,emberjs
+124,"Avoiding FOIA, was that likely speculation or did she actually admit that? I hadn't realized that implication ... I assumed they'd be public records regardless of who owned the server. That's kind of fucked up. ",2016-03-03 15:18:32+00:00,d0m2ftn,3.0,t1_d0m0upt,2562.0,politics
+125,"I'm still yet to hear the reason why she used her own email server. I've heard a really stupid excuse that goes, ""So she could use one phone for her personal email and work email, rather than having two phones"". But I work in IT and I don't begin to even understand that. Is there another excuse or can someone elaborate on that at all?",2016-03-03 14:14:46+00:00,d0m05aj,1.0,t3_48pwro,42240.0,politics
+126,How about some gold to go along with it?,2016-03-03 13:37:15+00:00,d0lz1w9,2.0,t1_d0lu94e,16094.0,aww
+127,"At least I can admit when it isn't OC :P
+
+https://www.reddit.com/r/aww/comments/48am23/every_four_years_this_day_comes_along_and_just/d0i32hm",2016-03-01 14:18:59+00:00,d0jc79a,2.0,t1_d0jc2fc,247.0,aww
+128,Ugh. I'm not looking forward to Nov 8th when I have to decide between a Trump and Hilliary. Maybe there will be a good 3rd party candidate this year.,2016-03-01 02:36:40+00:00,d0ivtdf,2.0,t1_d0igxcj,21924.0,politics
+129,Shamelessly captured from Google's homepage.,2016-02-29 15:11:16+00:00,d0i3581,1.0,t3_48amh5,24.0,funny
+130,Shamelessly captured from Google's homepage. ,2016-02-29 15:09:13+00:00,d0i32hm,1.0,t3_48am23,44.0,aww
+131,"Hey thanks! I thought maybe it was geographically related, but I guess I suck at googling :P.",2016-02-28 15:19:21+00:00,d0gwsrt,2.0,t1_d0gwny2,298.0,cincinnati
+132,"If I was Obama I would be so pissed. Fuck pissed, I'd be in despair. He's truly had one of the greatest presidencies in the last century and his legacy is **likely** going to be followed up by Clinton or Trump. 
+
+*Don't bother trying to argue the point about ""greatest in the last century"". He is. I'm not going to argue with you about it.*",2016-02-27 06:02:32+00:00,d0fk091,2.0,t1_d0er15k,46860.0,politics
+133,¯\_(ツ)_/¯ It's still one of my favorite bourbons. See flare. ,2016-02-24 15:18:19+00:00,d0bzpwk,1.0,t3_47co6k,5232.0,bourbon
+134,"Here is one of my favorite thought experiments.
+
+Do you think Trump even wants to be president? I can't imagine he, or anyone working on his campaign, actually thought he had a shot in hell when they got into the race. Could this all just have been a Trump-style publicity stunt that quickly got out of his control? He tried several times to shoot himself in the foot by saying racist and bigoted things, but it only bolstered his position. 
+",2016-02-24 12:22:39+00:00,d0buoah,1.0,t3_47ax18,26478.0,politics
+135,"&gt; They got hacked and didn't take the appropriate measures and were hacked again. This is insane. They should have done a full post-mortem before getting the site up.
+
+It's real easy to judge them from your armchair. Have you ever seen 1st hand what it looks like when your primary offering is compromised (whatever it is)? It is INSANITY. People are running around with their hair on fire trying to stop the bleeding. You want them to stop and do a full post-mortem which could take weeks? Yea, I think we're done here. 
+",2016-02-21 20:47:35+00:00,d08gq3u,3.0,t1_d085qot,18481.0,programming
+136,"As crappy as this is, you have to applaud their transparence. It's the right way to handle it, but that doesn't make it easy at all. I'm sure they'll get all kinds of criticism in the coming days.",2016-02-21 14:56:51+00:00,d084kcb,1.0,t3_46vbi2,3894.0,programming
+137,I wouldn't credit Costco for this unless they actually have a policy on the books about this. More often than not this is the work of a reasonable and compassionate employee. ,2016-02-19 00:06:08+00:00,d057vzz,1.0,t3_46gczr,18019.0,pics
+138,"Full transparency, I'm the OP of the question on StackOverflow as well. I thought it was such a great answer that I wanted to share it here. ",2016-02-16 12:55:54+00:00,d01tv4w,1.0,t3_462b30,54.0,googlecloud
+139,"I'm not sure if the current form of tagless components increase performance or not. Honestly, my perception is that the tagless components aren't ""fully baked"" at the moment. They haven't been discussed on the blog. They aren't documented in the guides or API (that I could find).
+
+What I've gathered from some of the RFCs is that ember is targeting to really support and improve tagless components with AngleBrackets/GlimmerComponents. 
+
+That said, I don't think tagless components were ever intended to be about performance. IMO tagless components are about more accessibility. There are many use cases for components beyond markup. One great example is what use to be `itemController`s. Another benefit of tagless components is making it easier to take markup from designers and integrate it into the application without adding markup for components. 
+
+*Disclaimer: These are just my thoughts based on reading RFCs and other discussion.*",2016-02-14 18:33:03+00:00,czzrrfw,1.0,t3_45owut,44809.0,emberjs
+140,"We have doodles and their hair never get's like this fortunately. But seriously OP, what kind of clippers do you use to cut like that?",2016-02-11 17:24:17+00:00,czw7c01,1.0,t3_458ggl,18987.0,pics
+141,Opps. I completely misread that part. ,2016-02-06 01:04:27+00:00,czpik8m,3.0,t1_czphzf7,1048.0,cincinnati
+142,"I purchased my house a few years ago and it came with Granite countertops (kitchen and bathrooms). They were a big selling point for us and they look awesome. However they are considered to be ""high maintenance"". They porous and require yearly resealing. It's not a huge deal or expensive, we bought the kit and do it ourselves.
+
+All that said, if I was going to buy my own countertops, I'd seriously consider getting Quartz instead. They're much easier for installers to work with and they're considered to be ""maintenance free"".
+
+I don't mean to deter you at all. I just wanted to let you know.",2016-02-06 00:03:54+00:00,czpgiot,1.0,t3_44dc5f,4485.0,cincinnati
+143,"Yea, Time Warner has always sucked at DNS. I have no idea why. Even our business class connection at the office frequently has DNS hiccups. We've just reconfigured our DHCP server to provice 8.8.8.8 and 4.2.2.1 as the DNS servers to all clients. 
+
+¯\_(ツ)_/¯",2016-02-01 23:12:17+00:00,czkakdh,1.0,t3_43q17j,14538.0,cincinnati
+144,"I'm not really sure if you're joking or serious. But scraping it is no a viable solution. Maybe it's an options for those using the API for internal workflow/lifecycle stuff, but there are companies whose livelihood is at stake. Entire products that exist solely as part of the Bootcamp ecosystem. Scraping it is just not practical. ",2016-01-31 21:51:22+00:00,czizbg4,2.0,t1_cziyiq2,1312.0,programming
+145,One of my absolute all time favorites. Notice the flare. ,2016-01-31 21:27:54+00:00,cziygk2,1.0,t3_43iult,33473.0,bourbon
+146,"Psh, I can answer any software question you've got ... Just let me check SO real quick.",2016-01-30 02:30:12+00:00,czh6026,2.0,t1_czgk7mf,33659.0,AskReddit
+147,"As a lifelong democrat and Ohioan I would actually seriously consider a vote for Kasich. We disagree on many issues, but during his tenure as Ohio governor Kasich has demonstrated a serious amount of pragmatism. He's crossed party lines several times. Expanding medicaid, raising taxes on gas and oil companies, expanded government subsides for economic investments (jobsohio).
+
+More than partisan bullshit, I just want a president who is going to do the best he can to help the American people. Based on his time as governor, I think Kasich is that guy.",2016-01-28 03:02:34+00:00,czep09v,1.0,t3_431c3t,23.0,politics
+148,"As a lifelong democrat and Ohioan I would actually seriously consider a vote for Kasich. We disagree on many issues, but during his tenure as Ohio governor Kasich has demonstrated a serious amount of pragmatism. He's crossed party lines several times. Expanding medicaid, raising taxes on gas and oil companies, expanded government subsides for economic investments (jobsohio).
+
+More than partisan bullshit, I just want a president who is going to do the best he can to help the American people. Based on his time as governor, I think Kasich is that guy.",2016-01-28 03:01:33+00:00,czeoz03,1.0,t3_431bf5,224.0,politics
+149,"Meh, 35 minutes isn't really a bad drive. Plus I like where I live. I owned my house before I got my current job and I'll probably still own it when I get my next.",2016-01-25 02:14:41+00:00,czaqsz3,3.0,t1_cza7v0e,27687.0,cincinnati
+150,"Oh hey, Sam Adams is like two blocks away from where I work. I'm at a small tech company in ""the mohawk building"", Central Parkway and Linn St. 
+
+I drive from the Mason area 4 days a week. I leave the house at 6:25am and I'm at work by 7:00am. But if I wait even an half an hour longer, leaving at 7am, it takes me an hour to get in, around 8am.
+
+That's coming down 71s. From beechmont, how knows. Traffic can get thick in a hurry. I'd definitely leave early every day the first week until you figure it out.
+
+Good luck with the new gig.",2016-01-23 19:02:08+00:00,cz96bny,1.0,t3_429fno,51433.0,cincinnati
+151,Here's a good list: http://iheanyi.com/blog/a-list-of-open-source-emberjs-projects/,2016-01-22 21:15:34+00:00,cz886z2,1.0,t3_416erv,586414.0,emberjs
+152,"I'm curious, what tool did you use to round the edges? ",2016-01-19 22:53:02+00:00,cz4i22x,3.0,t1_cz459aw,17753.0,woodworking
+153,"Alright, I'm in. Where's the best place to find a ""beginners amount"" of paracord on the cheap?",2016-01-18 19:01:59+00:00,cz2ziri,5.0,t1_cz2pkqj,15869.0,EDC
+154,"Oh, so you're saying you regularly untie the lanyard and actually use the rope for something? As funny as that sounds, it didn't occur to me. ",2016-01-18 12:25:50+00:00,cz2mpvw,3.0,t1_cz2iqic,15470.0,EDC
+155,"I've never understand the obsession with paracord knots and lanyards. They look cool, but I still don't really get the obsession. Can some convert out of me?",2016-01-18 04:26:02+00:00,cz2d1t4,1.0,t3_41fgqy,25981.0,EDC
+156,Yea I'm not arguing that her policy has evolved. I'm just making a generalization about being held to statements made 25 years ago.,2016-01-14 14:35:53+00:00,cyxwy8f,3.0,t1_cyxlq31,33613.0,politics
+157,"That's a pretty great photo. And admittedly highly relevant in this case.
+
+That said, I really don't like this flavor of politics. Digging back several decades to find a contradictory statement doesn't bode well with me. 1) No one is exactly the same person they were 25 years ago. We change and circumstances change. 2) This type of thing tends to favor younger politicians than those who have a long career in the public light. And 3) it's better to focus on the road ahead than the road behind.",2016-01-14 00:27:28+00:00,cyxbux7,1.0,t3_40t6ot,23335.0,politics
+158,"So I was trying to figure that out. It looks like the coax might be from behind the TV. The wire just to the left of the coax appears to be an HDMI. And if you look closely at the wires running toward the floor, it doesn't appear any of them are coax.",2016-01-07 01:40:41+00:00,cyot7k2,2.0,t1_cyoobwp,7661.0,funny
+159,"I agree with this. It's one thing to know what good design patterns are, but it's a completely different thing to have years of experience with various patterns. This experience helps you appreciate the benefits of the patterns. Overtime you'll build a foresight for when to use what patterns to achieve desired outcomes.
+
+My Opinion: Don't panic. There is no linear way to learn programming or patterns. It's an iterative process that requires time. You won't get it all the first time through (or even the second or third). But reading it now will help things ""click"" later on. At least that was my experience. ",2016-01-07 01:04:35+00:00,cyorw4q,2.0,t1_cye6nq0,791830.0,AskProgramming
+160,"""big news"" is a relative term and open for debate. But my perception is this didn't make very many headlines. I heard about it on reddit and NPR. But if you didn't really have a lot of time in your day to visit several media outlets, I can see how this one could be missed. Just my opinion. ",2016-01-06 06:14:17+00:00,cynrvq0,3.0,t1_cynpz0e,4269.0,Ohio
+161,Well to be fair he's busy running a state and campaigning. It wasn't really big news either. ,2016-01-06 00:22:25+00:00,cynfyjy,1.0,t3_3zkait,36696.0,Ohio
+162,"Still a lot of sports fans out there. Unfortunately, sports orgs are horrible about their content licensing. Meaning for cord cutters, it's not really possible to just get a $10 ESPN subscription and see all your games.
+
+But I'm confident this will get better over time.",2016-01-03 11:57:41+00:00,cykakhe,3.0,t1_cyjw13y,37446.0,AskReddit
+163,"Wow. That's pretty astonishing. Look at the J.A. Roebling in the background. Man it's incredible to think that thing has been standing for 150 years (this year). 
+
+Where did you dig this up? Any other photos like this?",2016-01-03 03:03:28+00:00,cyjyxlv,1.0,t3_3z7vyk,3753.0,Ohio
+164,"Four Roses SB Private Barrel OBSK.
+
+I've only ever seen OBSK for sale directly by the distillery. Took a detour to buy it a few times while driving through Lexington. IIRC: $69.99.
+",2015-12-31 22:59:29+00:00,cyhrpls,1.0,t3_3yy20d,11290.0,bourbon
+165,"*Y2K16*
+
+Because it's new years :)",2015-12-31 13:50:25+00:00,cyh9qeu,1.0,t3_3yw21i,20955.0,nameaserver
+166,"* Chrome
+* iTerm
+* Homebrew
+* Node / NPM
+* Atom",2015-12-26 01:20:00+00:00,cybf4cx,1.0,t3_3y6azk,50034.0,AskReddit
+167,Yea no kidding. I live near KI and I love it. But I'm happy to admit that CP has superior coasters.,2015-12-25 16:35:24+00:00,cyb1410,5.0,t1_cyahi9s,61446.0,Ohio
+168,Don't you mean Kings Island? :P,2015-12-24 17:35:42+00:00,cya6obd,3.0,t1_cya4903,4493.0,Ohio
+169,"This seems a little bit overblown. There was a period of time where using `didInsertElement` was taboo. This topic seems to swing back and forth. As long as one or the other is not going to be deprecated, I really see no problem with either solution.
+
+I personally prefer `.on()` sometimes because it allows for multiple functions in one component to hook into the same aspects of the lifecycle while existing in their own isolation.",2015-12-20 02:33:02+00:00,cy53fkb,1.0,t3_3wu9dd,448990.0,emberjs
+170,"In my experience, when you have offer no migration path between your major versions, whatever it is (language, framework, API, etc), this usually forces consumers to rewrite large parts of their app/integration/product/etc. When this happens, the two natural questions to ask are:
+
+* *Why should I upgrade? What is the value add and is there ROI?*
+* *Should we even stick with this language? Should we choose something else that's more popular/cost effective?*
+
+I've been fortunate/unfortunate to have been part of several large rewrites that were due to a major dependency not having an upgrade path. Believe me, when that happens there is so much disdain that builds up for that toolkit. 
+
+",2015-12-18 03:54:22+00:00,cy31id9,1.0,t3_3x75sb,63481.0,programming
+171,Yea of course they are. I wasn't implying that they weren't. I was just saying sometimes congress will force agencies to spend money on things they don't really need. Ultimately funneling money back to people who helped fund their re-election campaigns. ,2015-12-18 03:26:01+00:00,cy30lj4,3.0,t1_cy26cpz,50222.0,EverythingScience
+172,"I don't know the details of this specific issue, but often times when congress votes to give government branches/agencies more money than they have asked for it's their way of funneling money to private contractors. Unfortunately this happens a lot with the military. :(",2015-12-17 03:40:24+00:00,cy1unuk,1.0,t3_3x527t,16965.0,EverythingScience
+173,"Hahaha. While I agree this has nothing to do with it. It's kind of pleasant to see other users are also frustrated with the complete fiasco that is Firefox Addons. If we didn't have SLAs with our customers, I would have lobbied for us to drop support for our Firefox Addon. It's not been a pleasant year working with AMOs.",2015-12-09 02:32:31+00:00,cxscup2,3.0,t1_cxrsao4,29287.0,programming
+174,"Ugh. As a lifelong democrat, I'm just as frustrated as the republicans this election cycle. Our primary process is a huge fucking joke. Hillary and Bernie (and O'Malley) ... but really just Hillary is running for the nomination. That's not a democracy. 
+
+Why aren't we promoting more candidates and more discussion about the platform. From the get go, Hillary was the presumptive nominee. That's such a slap in the face. It's almost as if we're not even running this term. ",2015-12-07 02:08:55+00:00,cxpsz7l,1.0,t3_3vpqao,12801.0,politics
+175,"You might actually post this question on discuss.emberjs.com . There are a lot more of us who frequent there that can help.
+
+For this specific issue, it's a little puzzling. It's almost as if the ember server is running properly. Do you have any errors in the console?",2015-12-07 01:47:46+00:00,cxps949,1.0,t3_3vqcdz,1770.0,emberjs
+176,Surely that won't insight violence and anti-American views around the world. ,2015-12-03 01:25:44+00:00,cxl4jyj,1.0,t3_3v7pv9,4693.0,politics
+177,"I think the other thing that often goes unmentioned is that very strong encryption algorithms and software already exist. You can't get rid of them. Even if all communication systems provide backdoors to the government, SSH and TrueCrypt/PGP will always be available and are really not that hard to use with a little bit of training.",2015-11-22 21:24:18+00:00,cx9e357,2.0,t1_cx900d1,25214.0,politics
+178,"Welp, for the first time in several years, I've declared enough internet for today. ",2015-11-22 15:13:53+00:00,cx913jy,1.0,t3_3tsujf,16301.0,WTF
+179,"Would you mind explaining what it takes for a human to ground out one of those lines? I've seen videos of people climbing wood polls and dying from electrocution. I've see others where guys are a bucket trucks creating an arc. But birds can sit up there just fine. 
+",2015-11-22 04:35:25+00:00,cx8q6ic,2.0,t1_cx8febt,20330.0,WTF
+180,"Happened just last week. We have our office space in an old factory/warehouse building and it's in a pretty bad part of town. Frequent robberies and murders.
+
+Last week a co worker and I were looking out the window at the crack of dawn while making coffee from our second story office. Below was gated in area with a barbed wire fence. In the gated area were plenty of tools, trucks and other equipment as they had been working to redo the roof of our building, as well as some other restoration work. So a very sketchy looking van pulled up and 4 guys jumped out. At first they were just kind of looking around, but after about 5 minutes two of them climb the barbed wire fence and one of them is trying to break the lock with a hammer. Seems like a no brainer, call 911. By the time the cops had show up they had all climbed the fence and actually entered the top floor of the building through a latter. The cops didn't want to climb the ladder to talk to the guys, and since we had access to that floor (we are just tenants in the building), the cops said quote, ""It's probably fine, they're probably just construction guys getting an early start on the day. We're taking off."". 
+
+So that was it, they just left. Never heard anything else about it. Never saw those guys again. An hour later the van was gone. ",2015-11-17 14:18:34+00:00,cx39vk8,1.0,t3_3t2z0s,54716.0,AskReddit
+181,"This isn't really my area of expertise. But I don't really know how Cincinnati, or Ohio, gets a say in it. You don't have to apply for Ohio Citizenship. If refugees are being granted asylum, I don't see how their residence can be restricted legally or pratically.",2015-11-17 02:41:38+00:00,cx2uak6,1.0,t3_3t2wwu,13774.0,cincinnati
+182,"Yea, it's not clear when this was originally written. I don't think those numbers would really have improved until Ember 2.X. ",2015-11-17 00:43:05+00:00,cx2pxnd,2.0,t1_cx2jylg,9673.0,emberjs
+183,"&gt; It's the same API but different endpoints that I need to combine into one model. 
+
+Then IMHO there should be an endpoint to serve up the union of the data. I realize you may not have control over the API, but if you do, that's definitely the way to go.
+
+If one of the APIs error, you could try to use DS.Errors to put the model into an error state.
+
+This idea is a little quirky and definitely a square peg in a round hole. Perhaps you shouldn't use ember-data at all. If you used ""Ember.RSVP.allSettled"" and make 3 ajax calls. ",2015-11-13 18:32:29+00:00,cwz4zh1,3.0,t1_cwz48ym,1129.0,emberjs
+184,"That's kind of an interesting use case. I'd really like to hear more about the properties that come from different APIs and the use cases. This is likely to have volatile performance. 
+
+But all of that aside, if I had this problem I would build a custom adapter by extending the DS.RESTAdapter. Something like this:
+
+      findRecord: function (store, type, id) {
+          return this._super(...arguments).then(resp =&gt; {
+              /* Make additional AJAX calls */
+          });
+      });",2015-11-13 17:42:15+00:00,cwz30tn,1.0,t3_3sohe8,2856.0,emberjs
+185,It seems like it would be twice a year ... but I get the sentiment. ,2015-11-11 15:10:50+00:00,cwwjtfp,1.0,t3_3sei9u,6387.0,pics
+186,Ditto this. Would love to know.,2015-11-10 19:15:14+00:00,cwvmbwn,2.0,t1_cwvgv2u,7982.0,woodworking
+187,I love this Obama. Can we just get four more years of him please. ,2015-11-04 00:35:02+00:00,cwnkfeb,1.0,t3_3rcriz,37061.0,politics
+188,Hey I voted for this! Let's hope it passes :),2015-11-03 19:22:18+00:00,cwn7dz5,1.0,t3_3rcsar,17942.0,politics
+189,WIP. :),2015-11-02 15:48:29+00:00,cwlo1pb,2.0,t1_cwllpce,4059.0,cincinnati
+190,"Well forgive my bias, you're the author. But you could do `s/ember/angular/` and so much of this would be true. ",2015-11-01 23:13:11+00:00,cwkxssm,3.0,t1_cwkwbrt,2316.0,emberjs
+191,"Meh. This is what every single one of these articles look like ... for every single framework. 
+
+1. Guard Rails
+2. Enterprise Ready 
+3. Future Proof
+4. Tooling
+5. Features
+6. Stability
+7. Community ",2015-11-01 21:47:03+00:00,cwkuh5g,1.0,t3_3r4le1,1539.0,emberjs
+192,"I hope you're right, but I actually don't think it will go over as smoothly or as quickly as gay marriage. I think the difference here is two fold, 1) There are large DEA task forces that will go kicking and screaming into the night. 2) There are a lot of people with a lot of money who want marijuana to be illegal. Both cartels and more importantly pharmaceutical companies, many of whom have already lobbied against marijuana reform.
+
+I'm not saying it won't happen at the federal level, but I'm saying you're comparing apples and oranges. IMHO.",2015-11-01 13:09:20+00:00,cwkd6cy,4.0,t1_cwkbu88,5302.0,Ohio
+193,"How was this not bigger news? Seriously, I'm not saying it should have been front page ... but he is responsible for an entire generation of horror movies. How could we not have heard. :(",2015-11-01 00:45:41+00:00,cwjzckg,2.0,t1_cwjlw5t,26399.0,pics
+194,"&gt; But like I said, a lot of it is intuition and experimentation. 
+
+Hehe, that's what I've been going on so far. It's worked out fairly well. I guess I was just curious if I could do anything better than going with my gut. If I could find ways to be systematic and objective about it. ",2015-10-30 11:58:22+00:00,cwi99re,2.0,t1_cwhzw4f,31018.0,AskProgramming
+195,"This is generally what I practice. It's hard, probably impossible, to full design something correctly. Obviously you know more about the domain of the problem tomorrow, than you do today.
+
+But it is good to try to tease out a design so you don't spend weeks on something that ends up feeling like a square peg in a round hole.",2015-10-30 11:56:21+00:00,cwi98ba,2.0,t1_cwi5ikv,15618.0,AskProgramming
+196,There are varying levels of severity. You could maybe try not assuming.,2015-10-29 18:07:51+00:00,cwheryi,4.0,t1_cwhe7in,786.0,pics
+197,"Their tone and rhetoric was bad, but their heart is really in the right place. I have a friend with a child who has a SEVERE nut allergy. Whenever he has to explain it to some asshole like you, he generally uses the analogy ""Peanuts are to my Daughter like Rat Poison is the reset of us"". 
+
+It's not easy to be a kid and feel excluded from something the rest of your friends are doing. Just having a blue pumpkin at a few house can make a child's night. ",2015-10-29 17:45:35+00:00,cwhdt4v,2.0,t1_cwh7i5i,9128.0,pics
+198,"No it's not fair. Not fair at all. I want marijuana to be legal, I'm not saying it should be illegal. I just think prop 3 trades one evil for another. Not to mention it basically sets it in stone, making it very very tough to change later.",2015-10-27 20:32:32+00:00,cwf11bo,3.0,t1_cweuc86,9190.0,Ohio
+199,"Monopolies drive up prices and that does hurt everyone, especially those who need it the most. Look at Turing Pharmaceuticals, who raised the of a $13.50 pill to $750. This happens all the time with pharmaceutical patents. When companies have exclusivity to a product and no one else can compete we all lose.",2015-10-27 17:28:46+00:00,cweszso,3.0,t1_cwejv89,13741.0,Ohio
+200,"Right, that's why people are concerned about prop 3. We want marijuana to be legalized, but we don't want our money going to a cartel/monopoly. Why are you so critical of this? ",2015-10-27 00:03:26+00:00,cwe018k,1.0,t3_3qbgnj,17137.0,Ohio
+201,"Where are you coming from? There is a great store right on the Ohio river, [Party Source](https://www.thepartysource.com/), that has an awesome selection. They have full up to date inventory online. So if that's drivable, it's worth checking out.",2015-10-23 01:43:50+00:00,cw9l3ft,1.0,t3_3pug14,3749.0,bourbon
+202,Second this. ,2015-10-23 01:42:35+00:00,cw9l1pi,2.0,t1_cw9j3ld,3264.0,bourbon
+203,"Climate change, and the growing income gap in America. The climate is become destabilized, while a vast majority of the population is seeing their wealth and salaries disappear. 
+
+It's a bit of a recipe for disaster ... my friends who are in that blue collar / lower middle class tier don't care about anything else, other than how they going to provide for their families. They aren't paying enough attention to the other major issues because they're so paralyzed by living paycheck to paycheck.",2015-10-22 18:07:00+00:00,cw93l51,1.0,t3_3prc2q,25289.0,AskReddit
+204,"I really wish the GOP would get it together. Their top two polling politicians, Trump and Carson, a megalomaniac and a psychopath, have a combined polling of 50%+ (varies slightly depending on which poll). 
+
+I'm a lifelong democratic and probably won't vote for any of the GOP candidates. But just having those two wack jobs leading the pack makes the whole process feel like a joke to them.  ",2015-10-22 02:33:11+00:00,cw8ey1s,1.0,t3_3pogdr,22644.0,politics
+205,"Same story as most others. I hated school, I hated tests ... really I just hated sitting in a chair for 6-8 hours a day listening to someone talk about what seems to be inapplicable material.
+
+Today I'm a Software Engineer. I think I make pretty good money for being in my 20s and I love what I do.",2015-10-21 16:07:25+00:00,cw7q5vs,1.0,t3_3pm4li,22181.0,AskReddit
+206,It just means Angular 2 CLI is modeled after and/or based on Ember-CLI. And apparently they forgot to remove some references.,2015-10-21 14:55:51+00:00,cw7n9eu,2.0,t1_cw7l83d,3374.0,emberjs
+207,"I've lived in Ohio all my life and I love it here. But I love it because it's home, it's where I was raised and where I plan to raise my family.
+
+&gt; She wants to move there because her best friend lives there, which i told her is not a good reason to move there, but she is dead set on it.
+
+This is spot on. I've had friends who've moved across the country. Those who moved for work, with little family and connection spent most of their vacation coming home to visit. They eventually moved back. However those who did relocate to be with family and friends seem to enjoy it and stay. 
+
+I guess my advice would be to spend some real time in the part of Ohio you want to relate to. Try also spending time away from family and friends you live near. See how those things jive with you.",2015-10-21 01:00:22+00:00,cw73cjr,1.0,t3_3pi0iq,35544.0,Ohio
+208,"This is really key. Ohio is actually a very diverse. Cleveland, Columbus and Cincinnati have entirely different cultures. Not to mention the southeast, Toledo, and Dayton too have their own feels. ",2015-10-21 00:57:04+00:00,cw7386o,2.0,t1_cw6hoey,31779.0,Ohio
+209,"Yea, I would do the exact same thing. I can't imagine a scenario that's on the up and up that involves someone carrying around 250K in cash. 
+
+Also, drug dealers don't fuck around, I don't want that money. Source: No Country For Old Men.",2015-10-18 02:01:43+00:00,cw3kin6,2.0,t1_cw38xzt,20778.0,AskReddit
+210,"I work in an office in OTR off of Central Parkway. I do agree the bike lane project was kind of a mess and poorly executed (I've definitely witnessed accidents outside of our office). So I'll give you that.
+
+But when it comes to the traffic and congestion, I drive down to the ""downtown area"" a few times a week and I seriously don't think it's that bad. But regardless, it's likely the streetcar will help reduce congestion, giving more people the ability to take public transit to avoid congested areas. Me included.
+
+Last point I'll make is the public transit isn't just for people who live in Cincy, it's also for people who visit the city (especially for business). I travel to Portland a few times a year for work and their public transit is phenomenal. You can get from the airport, to the hotel, to the client offices and anywhere else you need for like $5 a day. This is attractive for people, business and anyone else who might host events in the city.
+
+It may seem like a ridiculous and useless project to some, but it really is an investment in the city. And it's paid off for many other cities who've made the same investment.",2015-10-17 12:28:38+00:00,cw2v8gj,4.0,t1_cw2lgpm,34925.0,cincinnati
+211,"Dude. Google can keep the flowers, just give me the fiber. Fuck I'll buy them flowers.",2015-10-17 02:29:42+00:00,cw2kykv,1.0,t3_3p1y8h,10378.0,pics
+212,"I think we should get it up and running before considering an expansion. Don't get me wrong, I love the idea of widening the reach of this, but once it's up and running and people see what a success it is, it'll be much easier to push forward. 
+
+Additionally, from an engineering perspective, there is always something to be learned that can be applied to later parts of the project (hindsight).
+
+Also, having a light rail directly from the airport to downtown would be phenomenal. I know it'd be pricey and probably unlikely. But CVG really is the gateway to the city for those coming and going.",2015-10-17 01:49:58+00:00,cw2jsau,1.0,t3_3p12t0,21971.0,cincinnati
+213,"I'm sorry, but all of your complaints are ridiculous. You're complaining about one way streets and street parking. ",2015-10-17 01:46:24+00:00,cw2joeq,2.0,t1_cw2huye,3608.0,cincinnati
+214,"This is what boggles my mind. I'm not a neurosurgeon, but I can't possibly imagine that you can be ""dumb"" and become a neurosurgeon. You'd have to be able to apply logic and reason. And have some understanding of the scientific process and peer review. But despite this, he denies climate change. 
+
+",2015-10-17 01:25:00+00:00,cw2j1g2,5.0,t1_cw2cjbd,12292.0,politics
+215,Man the republicans would literally implode if this happened. Just imagine an Obama who had no term limit. ,2015-10-16 18:40:35+00:00,cw24ty5,4.0,t1_cw1ye6a,9498.0,politics
+216,"Downvote for the paywall. I know we all have to make money, but this sub isn't for advertising. ",2015-10-13 23:21:32+00:00,cvyrapf,1.0,t3_3omj2z,13663.0,emberjs
+217,"I really sadden me how much the world just forgot about MH17. I mean the other side of the spectrum could have been WWIII and it's good we didn't land there. But it seems like everyone just kind of said, ""Meh, they shouldn't flown over Ukraine.""
+
+And again, we go on, arming more rebels with gear to fight our proxy wars. We can't learn for our mistakes or those of others. ",2015-10-13 00:35:57+00:00,cvxl50d,1.0,t3_3ohazu,22886.0,worldnews
+218,"I think a little more context about the type of event and/or who might attend would help.
+
+There are some organizations in Cincy that might be willing to lend their resources to it. Like a venue. ",2015-10-11 22:55:30+00:00,cvwbdbw,1.0,t3_3ocpxa,18389.0,cincinnati
+219,"&gt; Of course, Palin is a poster child for what not using birth control can result in.
+
+I realize you're joking. But the real, and very sad, poster child for what not using birth control can result in is a single mom with two kinds on food stamps, subsidized housing, medicaid and a fixed income. 
+
+Bristol should not be even lumped into the discussion of with what happens to unwed teen mothers. ",2015-10-09 11:18:53+00:00,cvtkil2,3.0,t1_cvtcxz8,26174.0,atheism
+220,No Country For Old Men.,2015-10-09 01:41:43+00:00,cvt81ca,1.0,t3_3o0k0p,19566.0,AskReddit
+221,"This is the very reason Microsoft saved Apple. 
+
+Also, this is a little more complicated due to x86 patent licensing I think. But they are required to license to a competitor and that's why there is literally no other x86 chip markers. ",2015-10-08 01:49:12+00:00,cvs0ssk,4.0,t1_cvrlb84,24459.0,AskReddit
+222,One plausible explanation could be the volume of traffic inside the city vs outside the city. ,2015-10-05 23:34:52+00:00,cvphvqv,4.0,t1_cvpelag,5659.0,cincinnati
+223,"I respectfully disagree that it is too late for him to do anything. I do agree presidents have more leverage at the beginning of their first term than they do at the end of their last. 
+
+Battling climate change is just as much about changing public perception as is fighting with congress. He may not be able to get legislation passed now (though I'm doubtful he could have ever gotten it done in this terms), but he can raise awareness and get the ball rolling in the right direction.
+
+",2015-09-24 13:16:22+00:00,cvci4c9,4.0,t1_cvchlkp,1136.0,EverythingScience
+224,"He's been in office for 6 and half years now. While not a totally long period of time, but some might argue that public perception and public awareness of this issue has dramatically increased in that time period. IMHO in 2008 climate change was not mainstream. Today it is mainstream. Now is the right time to address it head on politically.
+
+And in fairness it's not like he's just been sitting on the sidelines of this issue the entire time. Over his entire presidency he's taken steps to move us in the right direction, increased gas mileage and lowered emission standards, government investment in many green energy companies and projects, fought to increase taxes on fossil fuels, and more recently tightening regulations on coal. It's not perfect, but it's a process.",2015-09-24 12:34:12+00:00,cvch0as,2.0,t1_cvc7t7c,31126.0,EverythingScience
+225,"I definitely second this. Here is a great infographic: 
+http://fourrosesbourbon.com/four-roses-bourbon-infographic/",2015-09-21 21:43:56+00:00,cv9hit0,2.0,t1_cv9emlv,4498.0,bourbon
+226,"I live up in Maineville (near Kings Island) and I work downtown in OTR. I'm very happy with both of these. 
+
+I know a lot of people bash the suburbs, but it can be a great place to relax and raise a family. My property values and taxes are a fraction of what they are in many urban areas and I have about half an acre of yard for my dogs to run and play. 
+",2015-09-21 18:16:32+00:00,cv99cx1,1.0,t3_3lsx0u,17092.0,cincinnati
+227,"I hate the Olympics so much. It use to be great when I was young. Now cities have to spend billions of dollars to build up for this massive event. Then it all gets neglected. 
+
+The only way I'll support the Olympics is if it's held in the same place every year. It's completely and utter shit to allow this to continue. 
+
+http://www.zerohedge.com/news/2014-08-07/ten-years-later-greek-olympic-wasteland-photos",2015-09-21 02:40:20+00:00,cv8mk6o,1.0,t3_3lonw0,39183.0,worldnews
+228,"In fairness, if you read the bible you'd say the samething about Christianity. It's not so much the religion that's incompatible, but those who practice it.",2015-09-20 17:23:37+00:00,cv81esf,2.0,t1_cv7jfut,52837.0,atheism
+229,It's always an ugly thing watching political careers die. ,2015-09-20 16:13:23+00:00,cv7yvdo,1.0,t3_3lnzzz,16727.0,politics
+230,YES! They have the best Pho in the city. And their rice vermicelli and banh mi are also pretty great.,2015-09-18 23:20:43+00:00,cv6f38y,2.0,t1_cv6ax61,7688.0,cincinnati
+231,They all fuck up some how. Every decision they make has a rippling effect and they don't exactly have a crystal ball to consult. You just vote for the guy who you think will fuckup the least and then cross your fingers.,2015-09-18 21:55:18+00:00,cv6cebf,4.0,t1_cv6b7jm,2078.0,politics
+232,"Yeap. I think the gaps are unfortunately pretty wide too at the moment. It sounds like routable component work was put on pause until GlimmerComponents were finished. 
+
+So unfortunately I wouldn't look for routable components until 2.3-2.4.",2015-09-17 12:04:45+00:00,cv4kyp2,3.0,t1_cuyix21,474167.0,emberjs
+233,"Wait, what? When did the FCC start actually defending citizens. I like this FCC.",2015-09-16 01:13:24+00:00,cv30vqr,1.0,t3_3l1yvs,33892.0,politics
+234,Wouldn't this cause erosion of the earth underneath? Even with good backfill isn't water and drainage the biggest threat to pavement?,2015-09-16 00:44:33+00:00,cv2zvru,2.0,t1_cv2c0tp,37810.0,oddlysatisfying
+235,I bet if left alone that top would refreeze. ,2015-09-14 22:36:39+00:00,cv1o5gg,1.0,t3_3kwtah,30653.0,oddlysatisfying
+236,"Is there a subreddit for bunkers, shelters, hidden areas? I love this kind of stuff. ",2015-09-11 02:28:26+00:00,cuxhssu,1.0,t3_3kh643,8817.0,pics
+237,But how did you get the couch through that door? /s,2015-09-11 02:26:42+00:00,cuxhqm0,1.0,t3_3kh643,8713.0,pics
+238,"Looks great! 
+
+One common piece of advice when it comes to firewood racks/sheds is to not put them against or near your house. Even though you've got a nice roof wood boring insects can still take hold and bred. Being close to your house could make it easy for a colony to spread inside. 
+
+Sorry to be a downer. Just thought I should tell ya. ",2015-09-08 23:16:26+00:00,cuuze9f,1.0,t3_3k3opq,29168.0,woodworking
+239,"Not to my knowledge. JSBin is a bit faster though. If you're trying to build a full example, Ember Twiddle can be kind of slow in it's rebuilding. But since they were smart enough to build it on top of Gist you can just clone a Gist locally and get it built with ember-cli. ",2015-08-30 22:27:18+00:00,cul6z5e,2.0,t1_cul0psi,11344.0,emberjs
+240,Hey thanks alot. That's pretty awesome. ,2015-08-30 22:00:30+00:00,cul63hj,5.0,t1_cul5nj5,813.0,ThingsCutInHalfPorn
+241,"That's awesome, is there any way we can see a another picture from a distance. I was just trying to see how big it was before the cut.",2015-08-30 21:22:14+00:00,cul4tpl,3.0,t1_cul4296,1384.0,ThingsCutInHalfPorn
+242,"/u/Decolater's comment is right on. 
+
+I went to public school in America, and I enjoy many of the subjects I learned (History, English, Math/Science). But using Math as an example, the way we were taught was about getting us to learn more things more quickly, not really for us to understand them. Often times teaching us overly complex ""shortcuts"" for solving math equations so we could ""get the answer"", but never really understand it. Then once you've passed that section of the course, you were more or less encouraged to just forget that and move on to the next thing. 
+
+Really what I meant was this ^^ wasn't a problem solving skill, it a cute trick. ",2015-08-30 13:06:49+00:00,cukpb1b,3.0,t1_cukmzsx,7987.0,EverythingScience
+243,"I think the real problem is our overall posture towards education. It's good for us to all be well rounded, but school should teach us life skills. We should focus less on teaching kids to cram for tests and forget it all, and teach them how to solve problems and figure things out for themselves. ",2015-08-29 19:29:47+00:00,cujznyv,1.0,t3_3iugr6,19493.0,EverythingScience
+244,"I may have missed the flex capacitor, but I don't think that's ""4th dimensional"". I'm guessing its refering to the rotating seats as an additional axis of movement. ",2015-08-25 20:27:02+00:00,cufh0i7,1.0,t3_3idl6n,458.0,EverythingScience
+245,"I tried pods, but ended up going back. My two main grips were 1) It felt like an awkward organizational structure and 2) all of my files were named component.js.
+
+To elaborate on the awkwardness, you would have component pods sitting inline with model pods and service pods. Additionally, the ""application"" pod would have everything from the template and route to the adapter and serializer. It just feel less organized.
+
+Just my $0.02.",2015-08-24 23:03:41+00:00,cueg51o,2.0,t1_cue9k2g,10495.0,emberjs
+246,This cannot be overstated. ,2015-08-22 00:11:45+00:00,cubafox,9.0,t1_cub5v1f,8263.0,worldnews
+247,"Wow that's going all in! Good luck! Ambition is the key to success and you've definitely got it.
+
+EDIT: I'm not sure why I was downvoted, I was just giving a compliment. ",2015-08-21 02:11:44+00:00,cua7yyx,2.0,t1_cua1fw5,11880.0,woodworking
+248,"I have two stances on the matter.
+
+1) Intervention has practically never worked. Even outside the middle east, IE Vietnam. Turns out there is more to it than just going in and killing a bunch of people.
+
+2) Money. We spend trillions of dollars we don't have to fight wars we don't belong in. While our own citizens bare the brunt of the hardship. I could drag this point out for paragraphs, but my bottom line fact is that terrorism killed about 17 americans last year. 6000 people have died this week from cancer and it's only Wednesday.",2015-08-19 19:15:29+00:00,cu8li32,5.0,t1_cu8jyod,2108.0,pics
+249,Why is it the US government's responsibility to deal with ISIS? There 194 other countries who could step in.,2015-08-19 18:36:42+00:00,cu8jsy8,3.0,t1_cu8jjd7,369.0,pics
+250,Definitely!,2015-08-18 00:18:21+00:00,cu6hzwx,2.0,t1_cu6cjnm,9521.0,bourbon
+251,Second this. It's my wife's favorite.,2015-08-18 00:18:09+00:00,cu6hzog,2.0,t1_cu67crt,17316.0,bourbon
+252,"OBSK Is one of my all time favorites. I've never found it, or any of the other Four Roses Single Barrels, outside of the distillery. Where do you guys get this? ",2015-08-17 23:54:04+00:00,cu6h6s0,1.0,t3_3hclv8,16758.0,bourbon
+253,"Agreed. I love to see Bernie ahead of Clinton, but this title couldn't me more misleading.",2015-08-16 15:03:34+00:00,cu4vlpn,2.0,t1_cu4dfig,53248.0,politics
+254,"Consciousness.
+
+We're really just a bunch of atoms bound and arranged just right to create a being capable of self reflection and self analysis. ",2015-08-14 20:45:35+00:00,cu37fbe,1.0,t3_3gyjef,39275.0,AskReddit
+255,"I stopped on page 4. I'm sorry, but if you ask someone to take a survey and they are generous enough with their time to do so, it should not be more than 5 minutes.",2015-08-14 01:07:23+00:00,cu29tnx,1.0,t3_3gvc37,28723.0,cincinnati
+256,Did you just use reverse psychology to get upvotes? Genius.,2015-08-12 12:25:47+00:00,cu0a9sl,1.0,t3_3gmhlq,64048.0,woodworking
+257,"Starting with C is interesting because it's pretty unlikely you'll use it for many real projects. Don't get me wrong, plenty of things are still built with C, but it's definitely a far less productive language for many of today's tasks.
+
+I would say that if you know you're going to be a life long programmer / computer scientist learning C is a good way to start. It gives you understanding and appreciation for computer architecture down the road.
+
+However, I've personally witnessed first time programmers struggling with C/C++ become completely turned off by it. In some cases, just giving up on programming altogether. I think for some people a higher language like python is a good choice. It allows them to get going quickly and build momentum as their project comes to life. They're not immediately bogged down by trying understand string terminators, memory allocs and wondering why the world they have to keep track separately of the number of items in an array.
+
+",2015-08-09 17:21:00+00:00,ctx0z3u,1.0,t3_3g9ws6,77608.0,programming
+258,"Definitely Raja India in Mason, OH. 
+
+Indian is my favorite food and I try a new Indian place on every trip. Raja is the best I've ever had. ",2015-08-08 22:44:24+00:00,ctwb4h9,1.0,t3_3ga09b,8851.0,cincinnati
+259,"Sushi Monk in West Chester (my favorite) and Kyoto on Montgomery road.
+
+If you decide to check out Sushi Monk, please don't be turned off the by location (which is in a mini strip mall). The head chef has worked at many high end place before deciding to open his own restaurant. He also teaches classes at Jungle Jims.",2015-08-08 22:40:17+00:00,ctwb00s,1.0,t3_3g7q0x,63646.0,cincinnati
+260,"I too am from Ohio and I'm a life long democrat. But Kasich is really a pragmatist and that's what I look for most in a candidate. Here are some examples:
+
+* He expanded medicaid because it made sense for Ohio and saved Ohioans money, despite criticism from others in his party.
+* He increased tax on natural gas providers, because it made sense. They had such high subsidies. 
+* He's used tax revenue to reinvest in business growth through programs like Ohio Third Frontier and Jobs Ohio. 
+
+The list goes on and on. And as a democrat he's done a lot of things I don't like. Like trying to bust up unions. But the fact that he seems to do what's best for Ohio, rather than what's politically popular makes him a great candidate in my book. ",2015-08-07 16:45:04+00:00,ctuybb3,9.0,t1_ctuxt54,731.0,politics
+261,"Fucking marketing weasels at work. 
+
+This is actually bullshit IMHO. Not just because it's a PR thing, but because it's not their job to police items. It's the governments. We rely on the government to be informed and take great precautions when banning items and we expect companies to comply.
+
+I realize both of those notes are overly aspirational, but this is seriously as dumb as Apple banning apps with the confederate flag in them.",2015-08-03 23:55:53+00:00,ctqihdr,1.0,t3_3fn7hh,21909.0,worldnews
+262,"Yea, I've always heard it called, ""LaGrossas"".",2015-08-03 02:05:39+00:00,ctpgxbr,2.0,t1_ctpgow5,466.0,cincinnati
+263,I got one at 3:00AM and my wife got one at 3:02AM just as I was getting back to sleep. And now we're disabling them. It's a shame that more discretion isn't exercised when sending out notifications like this at 3AM. ,2015-07-29 17:43:52+00:00,ctkibgm,1.0,t3_3f1c9v,8968.0,cincinnati
+264,"The irony in all of this is that it's an SCM. The word ""retard"" will live on in the repo forever (unless you take very drastic measures).",2015-07-29 14:27:38+00:00,ctk9uvf,1.0,t3_3f07ur,22000.0,programming
+265,"Very well done. The only thing I was left wondering about is what happens in the case of a meltdown where it's unsafe to go near the area for decades (most notably chernobyl and fukushima). Does fission carry on very slowly for years producing neutron radiation? Based on 1) the fact that it reactors are refilled every 18 months and 2) fission is controlled/reduced by control rods, it seems like all the Uranium would just ""burn right up"" in a matter of a few hours.
+
+Obviously this is not the case. Can someone smarter than me explain why? ",2015-07-29 13:26:47+00:00,ctk7p54,1.0,t3_3ew8ib,86905.0,EverythingScience
+266,He's definitely in zero fucks given mode when it comes to his critics. ,2015-07-28 18:58:01+00:00,ctjb5py,1.0,t3_3ewcuh,18258.0,politics
+267,"I've heard a pharmacist argue that for two different brands of medications, despite being the same compound, different manufacturing processes can result in weaker molecular bonds which could render them less effective. 
+
+In over the counter medicine I think this is less relevant, but in some name brands vs generic it can make all the difference in the world.",2015-07-26 23:42:07+00:00,cth6e48,2.0,t1_ctgpo9i,30341.0,AskReddit
+268,Damn it! Seems so obvious. ,2015-07-26 23:36:44+00:00,cth689l,3.0,t1_cth5tnj,774.0,AskReddit
+269,"I agree that as president, the buck stops with him. But there are hundreds of thousands of decisions made each day in government. Some minor to major, most of them miniscule. But he couldn't review or weigh in on everything even if he wanted to.
+
+The best he can do is try to ensure the people that work for the people that work for him are as well staffed and qualified as they can be. And just hope.",2015-07-26 22:21:19+00:00,cth3qjo,3.0,t1_cth229s,2881.0,AskReddit
+270,"Obama is only one person. He doesn't make every governmental law, policy and decision. He isn't directly responsible for everything going wrong in your life. 
+
+Edit: Yay for the gold! Thanks ~~stranger~~ Obama!",2015-07-26 17:06:22+00:00,ctgt269,1.0,t3_3enigz,18174.0,AskReddit
+271,Very cool.,2015-07-26 14:40:24+00:00,ctgoq3g,1.0,t3_3em4m1,49754.0,EDC
+272,Hey thanks!,2015-07-24 22:49:21+00:00,ctf4w2h,4.0,t1_ctf4it2,665.0,cincinnati
+273,Do you have a source for that? I love to tour it.,2015-07-24 21:25:32+00:00,ctf1y7c,2.0,t1_ctf0tmf,1722.0,cincinnati
+274,It's always sad to watch politicians whose campaigns aren't going well. Desperation is a stinky cologne.,2015-07-23 14:38:37+00:00,ctddlc6,1.0,t3_3eb79v,12251.0,politics
+275,"I second this. There is also a lot of great things to do over near there (Newport on the Levy). You can walk via the ""Purple People Bridge"" (yes that's what people really call it). https://en.wikipedia.org/wiki/Newport_Southbank_Bridge",2015-07-21 18:30:27+00:00,ctb5ttd,3.0,t1_ctawuur,13204.0,cincinnati
+276,I really like your battery and earbud carrying case. Where did you get that?,2015-07-20 11:33:08+00:00,ct9kzeo,1.0,t3_3dwm19,28832.0,EDC
+277,"It's also possible reddit's count is just off by 1. From a computer science standpoint, counting the total number of comments on web apps that have millions of active users can be pretty hard. Often times you take short cuts like incrementing and decrementing a previously saved count (rather than re-counting from scratch). Sometimes this process inadvertently duplicates due to high system loads or other issues and one comment gets counted twice.
+
+That's just an assumption, I have very little knowledge of reddit's architecture. ",2015-07-20 11:32:46+00:00,ct9kz5w,6.0,t1_ct9do0v,24972.0,EDC
+278,I did this very thing once. All heeled up: http://imgur.com/tbRVImj,2015-07-17 17:10:30+00:00,ct6r33q,1.0,t3_3dmjdb,11045.0,WTF
+279,How did you construct/assemble/fasten them together? I've been wanting to build a new coffee table. I like this design. ,2015-07-16 23:19:38+00:00,ct5yk6p,1.0,t3_3di7gz,33524.0,woodworking
+280,I would argue that life is too short to spend your time building a novelty programming language that no one will really use. ,2015-07-14 01:00:06+00:00,ct2dxup,1.0,t3_3d4elb,43399.0,programming
+281,"The biggests reason I don't use Google/Facebook/Twitter logins (OAuth) is that they are often accompanied with a request to access details about my account (usually my contacts). In some cases for some apps you might argue this will provide a better UX. But I don't like it and I don't trust it. 
+
+Using 1Password is just as easy and secure. ",2015-07-12 20:37:17+00:00,ct0zgqd,3.0,t1_ct0mjl3,26919.0,programming
+282,"burned?  ... No that's playing with fire. 
+
+I'm going with a broken neck.",2015-07-11 00:48:28+00:00,csz901t,2.0,t1_csyx4n7,19211.0,WTF
+283,Probably also saving millions on welfare and other social programs that single unwed mothers rely on.,2015-07-09 01:47:12+00:00,cswxcxh,1.0,t3_3ck1qa,39163.0,politics
+284,Thanks again :),2015-07-06 15:30:50+00:00,cstvjzm,7.0,t1_cstuqrg,1422.0,EDC
+285,Mind if I ask where you had the QR codes made? It's a pretty clever idea.,2015-07-06 14:56:32+00:00,cstue9i,5.0,t1_csttj7h,1643.0,EDC
+286,"YES! I seriously don't understand how the GOP doesn't see all of their ""pro-life"", ""welfare"", ""anti-birth control"" and ""abstinence"" stances are all contradictory. 
+
+It's not hard logic. Teenagers are going to have sex, you cannot prevent that. You either provide them with birth control, or access to abortions or financial support after the child is born. Those are the choices.
+",2015-07-06 13:32:33+00:00,cstrxis,2.0,t1_cstauqo,48161.0,atheism
+287,That's what I figured. FWIW OS X allows you to add custom info to the lock screen. In case your theif is too dumb to use QRCs :P http://www.tekrevue.com/tip/mac-lock-screen-message/ ,2015-07-06 12:50:54+00:00,cstqyjg,3.0,t1_cstqdn4,1698.0,EDC
+288,What's the QR code for?,2015-07-06 11:55:34+00:00,cstpw1i,1.0,t3_3c8a5i,53933.0,EDC
+289,"Really? We're really one of two countries that doesn't offer paid maternity leave?! So North Korea, Iran, and Somalia all offer paid maternity leave? 
+
+This statistic feels disingenuous. Can someone elaborate?",2015-07-05 18:05:17+00:00,csszti6,1.0,t3_3c6ke3,32855.0,politics
+290,This guy is running for president: https://youtu.be/JBHYVm54AyY?t=28s,2015-07-04 03:22:37+00:00,csrn9f2,1.0,t3_3bzzko,44252.0,politics
+291,I don't like that the ball leaves frame. Makes me think it's fake.,2015-07-03 22:19:21+00:00,csrf8e0,1.0,t3_3c08z9,21507.0,gifs
+292,"In many cases a good programmer doesn't immediately start coding when tasked with a problem, they investigate. Looking for precedence, industry standards, common solutions, domain knowledge/insights, etc, etc, etc. The best way to do that, Google.
+
+It's rare to come across a truly novel problem that hasn't been tackled in one way or another.",2015-07-03 00:21:29+00:00,csqhbvd,1.0,t3_3bwo68,16986.0,programming
+293,Haha! You should have grilled me over that typo :P,2015-06-28 14:52:22+00:00,cslffuq,3.0,t1_cslebq1,2885.0,WTF
+294,"Am I the only one surprised by the fact they they allowed tent equipment to be in a carry on?  Seems like if my nail clippers are a ""potential weapon"" then tent poles and stakes would be also. 
+
+Edit: Grammar.",2015-06-28 13:55:18+00:00,csle530,1.0,t3_3bdopq,27897.0,WTF
+295,"These kind of statements aggravate the fuck out of me for two reasons. 1) There are three **equal** branches of government, this is one of them. 2) Generally speaking, high ranking judges aren't slimy politicians, they spend their lives studying law. While they're not perfect, I generally hold their scholarly opinions in much higher regard.",2015-06-27 15:52:26+00:00,cskk1mq,1.0,t3_3b76jb,89714.0,politics
+296,"Yea me too. When I watch clips of the video my only thought was, ""Who the fuck is that clapping? Who seriously shows up to a Trump rally, the people that work for him?"", and yea, apparently so.",2015-06-18 12:59:17+00:00,csamxit,2.0,t1_csa728f,43964.0,politics

@@ -1,0 +1,314 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,[Community Tech Tree](http://forum.kerbalspaceprogram.com/index.php?/topic/90530-12-community-tech-tree-oct-21-12-update/&amp;page=1) has an official 1.2 release now.,2016-10-22 01:50:59+00:00,d92ktz0,1.0,t3_574puy,814191.0,KerbalSpaceProgram
+1,Of those I think FAR is what you'll be waiting on.,2016-10-21 18:25:58+00:00,d9232ta,4.0,t1_d91yyoo,5085.0,KerbalSpaceProgram
+2,"I can't tell you if it actually works or not but I noticed the 1.2 version of Interstellar Extended comes with it, so I'm assuming that works.",2016-10-21 16:28:44+00:00,d91xfkf,2.0,t1_d91wqq4,891.0,KerbalSpaceProgram
+3,"One form of meditation you can try in the situation where you can only see the image is to deconstruct the experience. For example you can track change in the image, and mentally note when an aspect of it gets dimmer, stronger, bigger, smaller, moves this way or that, or when this part or that disappears. You can just say to yourself 'change' or whatever word you like when you notice it. Don't try to make it do anything, just allow it to do what it wants and track it with as much equanimity as you can.
+
+You can do the same thing for changes in the physical emotional reactions and mental talk that come along with the image, or maybe you'll have more luck focusing on just the changes in emotions or talk and leaving the image alone.
+
+A lot of mental activity seems solid and continuous throughout time, but if you pay enough attention, track it long enough, and gain enough experience you can notice that it's often quite fluid, and comes and goes. The trick here is to act as an observer and fully allow it to come and go and move and stay still as it pleases.
+
+Thoughts are given momentum when you reject them or latch on to them, basically when you're reactionary. Doing something like deconstructing thoughts, or any form of meditation that allows you to observe with equanimity, might help you to not get caught up in the moment that you're experiencing it, and over the long term can help train you to be more equanimous in general.
+
+There are other things you can try too, like finding a [mantra](http://www.dharma-haven.org/tibetan/meaning-of-om-mani-padme-hung.htm) or chant, best in a language you're not fluent in, and chanting and focusing as much as you can on it. I don't have experience with OCD so I don't know what you'll find most helpful, but these are some of the options still available in your situation.",2016-09-21 03:06:39+00:00,d7vjojs,5.0,t1_d7ugs9t,54174.0,DimensionalJumping
+4,"Not 'teachings' really, but practically everything by [Just a Tourist](https://www.youtube.com/watch?v=cIfiDsOjB0s&amp;list=PLVTTBoHp81qOhBWjgbbcMsKhPO6Oy_V2g).",2016-08-31 08:36:51+00:00,d73rho3,1.0,t3_50eqeu,24789.0,Buddhism
+5,"Well of the kinds of projects I'm thinking of: I made a bot on public that will ""divine the true meaning"" of the last thing said, using banks of adjectives, adverbs, nouns, and verbs to replace words in what was said with random words of the appropriate type. There's a flask object that will get you temporarily ""drunker"" the more swigs you take, and allow you to speak with an increasing slur, replacing characters randomly. There's ""voice changer"" thing that changes the colors of what you say in a variety of ways. Right now I'm working on game of chicken type thing with dueling pistols, where the longer you aim the higher chance you have of making the shot, sending the person back to the common room.
+
+Most of the ideas that are interesting to me involve text manipulation, given the medium. But I'm open to anything. Anyway I'm not a coder by any means and am embarrassed to post what is probably pretty rough code, but if you're really interested I'll post something.",2016-08-26 01:10:27+00:00,d6wwlny,,t1_d6wniue,13310.0,MUD
+6,"Sorry it's private, just a group of irl friends. I was just asking in general terms.",2016-08-23 12:02:24+00:00,d6t421r,2.0,t1_d6t3xtt,264.0,MUD
+7,"What was interesting to me was that he said
+
+&gt; Forgetfulness of the world and of everything, except GOD.
+
+There's a book thought to be written by a monk called [The Cloud of Unknowing](http://www.catholicspiritualdirection.org/cloudunknowing.pdf) that frames it in the same way, and tries to provide a guide to having this experience.",2016-08-22 06:16:58+00:00,d6rk769,2.0,t1_d6qoixu,51653.0,todayilearned
+8,"I'm sorry that she frames you as the bad guy. That really can't feel good. I don't think finding an argument to justify your view sounds like the way to go though, at least right now. It sounds like she needs to process her choice, but instead she's trying to take out her discomfort and guilt and cognitive dissonance on you. So if that's what's going on, providing a argument in opposition to hers is just going to allow her to continue to frame her feelings as something in opposition to you, instead of her own internal conflict. In other words, arguing with her might prevent her from owning her issues.
+
+I don't know what your interactions with her are like right now, but at some point it might be helpful to talk about the differences you have in your core beliefs that are at the roots of your positions, just to you understand where you're each coming from. I'm thinking of something like the common difference of beliefs where the pro-life person thinks the fetus is a human life, and the pro-choice person thinks it's just something that has the potential to become a human life. But it'd be important to try not to let it devolve into an argument or debate where she can offload her issues on to you.
+
+There's a good book that might help if you decide to do this, or if you expect more communication from her about this, called *Nonviolent Communication*. There's a summary of it [here](http://www.wanttoknow.info/inspiration/nonviolent_communication_summary_nvc).",2016-08-17 01:08:31+00:00,d6kiuse,1.0,t3_4y1iw4,18425.0,TwoXChromosomes
+9,"If we're respecting bodily autonomy a woman would still need to consent to the procedure though, so it wouldn't be an automatic solution.",2016-08-15 10:55:41+00:00,d6i5lbo,6.0,t1_d6htjq1,30497.0,Cyberpunk
+10,"Actually I don't have the Pi yet, so I'm struggling with that part. :) I do have some basic linux experience though. I was mainly wanting advice or suggestions, thinking it'd be difficult, but reading these replies it sounds like it'll be easier than I thought.",2016-07-26 05:08:35+00:00,d5r3tbq,2.0,t1_d5r2vqg,1763.0,MUD
+11,"That would be a recurrent cost though, right? I've done this from home before back when I had another computer using a free DNS redirect and it worked well enough. I'd also like to see what else I can do with the pi, like maybe streaming media running kodi.",2016-07-26 01:18:41+00:00,d5qu2hl,4.0,t1_d5qsumv,1572.0,MUD
+12,"No that's a good question. I only have a laptop that I take with me most days. I'd like something I can keep at home, and a pi is cheap.",2016-07-25 23:43:42+00:00,d5qpod8,2.0,t1_d5qgdd1,12142.0,MUD
+13,"Ah okay, I misunderstood then. I can imagine how a lot of the common therapeutic methodologies like mindfulness meditation might exacerbate things. If you're interested, traditionally chanting meditation is often suggested when someone is having a lot of thoughts, since chanting and focusing on it tends to make it harder to get caught up in the head. But I don't have any experience with OCD or Pure-O OCD so it's just a guess that the situations might be comparable, plus that methodology might not be something many therapists often work with.",2016-07-11 07:04:16+00:00,d57lvd8,4.0,t1_d57k8yc,4293.0,MensLib
+14,"&gt; My mind is always running so meditation has generally been really incompatible with me
+
+I don't know if anyone has mentioned this, but most people's minds are always running, and people usually notice how bad it really is when they first get into meditation. It's something that has a tendency to gradually get better the more you train the skill, provided you follow good instruction. An analogy would be training to run ultra-marathons but starting out as a couch potato.",2016-07-10 22:47:23+00:00,d576gyw,2.0,t1_d558bv0,150476.0,MensLib
+15,"You mean blocked, like some part is clipping into them?",2016-07-09 05:29:23+00:00,d5594lx,3.0,t1_d557wzr,2697.0,KerbalSpaceProgram
+16,"Well, okay, but some versions were more playable than others. By big I meant something that's going to significantly interfere with gameplay. I should have been more clear.",2016-07-08 20:03:48+00:00,d54plxm,3.0,t1_d54ohge,1444.0,KerbalSpaceProgram
+17,"Does the current version have any big bugs or instability? I've been away for a bit and want to make a longer term game with a whole lot of mods, but I can wait if this version is unsuited for it.",2016-07-08 19:23:24+00:00,d54np88,1.0,t3_4rve04,11911.0,KerbalSpaceProgram
+18,It's not on the level you're talking about but Shinzen has a [prototype expert system](http://www.buddhistgeeks.com/2009/01/bg-103-building-a-dharma-successor/) designed to act as a guide for a student's practice.,2016-07-05 12:47:36+00:00,d4zwsx8,,t1_d4o7wkb,,awakened
+19,"[To The Moon](http://store.steampowered.com/app/206440/) is often mentioned when this comes up, in terms of being an impactful, emotional story. It's less interactivity and making choices and more story though. It's $2 for the sale.",2016-07-02 04:10:24+00:00,d4w9i3p,1.0,t3_4qqtrf,68566.0,ShouldIbuythisgame
+20,This is a thing in the *Ware* books by Rudy Rucker. Way back in the 80s he was imagining that vat stores would have a handful of celebrities to choose from. ,2016-07-01 02:40:20+00:00,d4uux5j,,t1_d4uc8fg,,Futurology
+21,"There's also something like this in *Diaspora* by Greg Egan, where people can change their personality by adopting what are called outlooks:
+
+&gt; It was an old outlook, buried in the Ashton-Laval library, copied nine centuries before from one of the ancient memetic replicators that had infested the fleshers. It imposed a hermetically sealed package of beliefs about the nature of the self, and the futility of striving ... including explicit renunciations of every mode of reasoning able to illuminate the core belief’s failings.
+
+&gt; Analysis with a standard tool confirmed that the outlook was universally self-affirming. Once you ran it, you could not change your mind. Once you ran it, you could not be talked out of it.",2016-05-18 06:29:34+00:00,d39xakj,5.0,t1_d39u7k1,7266.0,AskReddit
+22,I found *[The Photographer's Eye](http://smile.amazon.com/Photographers-Eye-Composition-Design-Digital/dp/0240809343)* and *[The Photographer's Mind](http://smile.amazon.com/Photographers-Mind-Creative-Thinking-Digital/dp/0240815173)* by Michael Freeman helpful for this.,2016-04-30 04:25:07+00:00,d2n0eqg,2.0,t1_d2m7az7,44528.0,photography
+23,Why do they max out at 30s anyway? Seems like an arbitrarily short limit.,2016-04-30 04:06:31+00:00,d2mzwf6,1.0,t3_4gssj9,164019.0,pentax
+24,I'd like to see a fast DA 28mm WR of some kind.,2016-04-14 05:26:52+00:00,d228ucj,1.0,t3_4ek2hi,88577.0,pentax
+25,The name of the band. Rosemary receives a book titled *All of Them Witches*.,2016-03-18 15:43:55+00:00,d14lyk9,,t1_d101fge,,listentothis
+26,"Talking to a therapist would be the first step.
+
+Something else that might help is meditation. In [this set of exercises](http://www.shinzen.org/Retreat%20Reading/FiveWays.pdf) there's instruction for an array of different types of meditation. Two methods that might be particularly helpful for you are the the section in chapter 1 that deals with tracking various emotional body sensations, and chapter 5, which deals with generating positive emotional sensations.",2016-03-07 12:55:14+00:00,d0qokxp,3.0,t1_d0qmcee,8236.0,AskReddit
+27,He's emptying the gun then loading an extra shell that was clipped to the side there.,2016-03-04 05:12:43+00:00,d0n0tej,4.0,t1_d0n0hao,641.0,videos
+28,"The ear buds idea is sort of a last resort if I can't find a headset that'll be compact enough. Not too much, like $50.",2016-02-23 03:53:15+00:00,d0a790e,2.0,t1_d0a6umb,637.0,Gaming_Gear
+29,The [Stock Bug Fix mod](http://forum.kerbalspaceprogram.com/index.php?/topic/87737-ksp-v105-stock-bug-fix-modules-release-v105a4-25-jan-16/) should fix it to some extent. Adding fins/control surfaces on the back can do the rest.,2016-02-21 09:37:23+00:00,d07zd57,1.0,t3_46ti9o,22937.0,KerbalAcademy
+30,"It's probably because this was talked about a lot a few days ago - nothing to do with what you said.
+
+BTW there's already a group of people working together on the replacement: http://spacedock.info/",2016-02-20 10:11:24+00:00,d06xe34,2.0,t1_d06xamq,423.0,KerbalSpaceProgram
+31,"I really doubt it. Just looked it up and you don't have to fulfill any special conditions to be on the ballot in MI other than to either be running according to your party or to be seen as someone running in the media, as judged by the Secretary of State.",2016-02-19 07:42:04+00:00,d05mz0d,4.0,t1_d05mjci,1366.0,Michigan
+32,I'm not sure. The site ~~seems to give the impression that you need to be registered as a democrat but [you don't need to be](https://www.michigan.gov/documents/sos/2016_Questions_and_Answers_for_Michigan_Presidential_Primary_510281_7.pdf)~~ confused me. I guess it's mentioned because they might not be registered to vote period.,2016-02-19 07:09:46+00:00,d05mciu,2.0,t1_d05lbnh,2815.0,Michigan
+33,"[Hypnagogic jerk](https://en.wikipedia.org/wiki/Hypnic_jerk). Not everyone, but it's common. Stress and an erratic sleep schedule can bring it on.",2016-02-18 05:47:53+00:00,d047m4s,4.0,t1_d045p7t,3820.0,AskReddit
+34,It was discovered that inline fairings don't really do anything to aerodynamically shield things. Cargo bays are also a ton easier when you need to strut things.,2016-02-17 03:07:50+00:00,d02rgzi,1.0,t3_465jib,9171.0,KerbalSpaceProgram
+35,"The only one I know about is [Final Frontier](http://forum.kerbalspaceprogram.com/index.php?/topic/61065-105-final-frontier-kerbal-individual-merits-098-1882/), which you can use to look at a kerbal's flags, but I don't know if it'll work properly on an existing save or not.
+
+Also if you look in the persistant.sfs file in your save you can search for ""roster"" to see a kerbal's achievements. Each kerbal will have a section called FLIGHT_LOG which will look like this:
+
+				101 = Land,Kerbin
+				101 = Flight,Kerbin
+				101 = Suborbit,Kerbin
+				101 = Orbit,Kerbin
+				101 = Flyby,Mun
+				101 = Escape,Mun
+				101 = Orbit,Mun
+				101 = Suborbit,Mun
+				101 = Land,Mun
+				101 = ExitVessel,Mun
+				101 = PlantFlag,Mun
+				101 = BoardVessel,Mun
+				101 = Flyby,Kerbin
+				101 = Flyby,Minmus
+				101 = Escape,Minmus
+				101 = Orbit,Minmus
+				101 = Suborbit,Minmus
+				101 = Land,Minmus
+				101 = ExitVessel,Minmus
+				101 = PlantFlag,Minmus
+				101 = BoardVessel,Minmus
+				101 = Escape,Kerbin
+				101 = Orbit,Sun",2016-02-17 02:15:34+00:00,d02ph1u,1.0,t3_465axa,9546.0,KerbalAcademy
+36,"I never tried that before, but there is a mod called [universal docking ports](http://forum.kerbalspaceprogram.com/index.php?/topic/66190-105-kip-engineering-all-docking-ports-updated-for-105-11th-nov-2015/) that'll work that way.",2016-02-13 11:57:22+00:00,czydz06,1.0,t3_45jvqe,2037.0,KerbalSpaceProgram
+37,"The only thing I don't like about it is that it allows you to print money once you get a telescope up. I'd like to see some kind of balancing done if it were to be added to the stock game.
+
+Those parts are pretty cool though.",2016-02-11 01:54:26+00:00,czviw1r,2.0,t1_czuuzw3,34781.0,KerbalSpaceProgram
+38,That makes me wonder if it's possible to make a mod that unloads certain vessels and puts them on rails even though they're within simulation distance. ,2016-02-10 01:50:30+00:00,czu8hkr,1.0,t3_44y5b1,25895.0,KerbalAcademy
+39,You might be able to approximate it by using the proximity sensor or altimeter in [Smart Parts](http://forum.kerbalspaceprogram.com/index.php?/topic/58338-104-smart-parts-v166-dds-textures-and-bug-fixes-july-5/) to trigger a parachute in an action group. Other than that there's always kOS.,2016-02-08 06:39:24+00:00,czrz3cw,3.0,t1_czrig30,28257.0,KerbalAcademy
+40,"What do you mean by ""true happiness""? Like, does it qualify as happiness objectively?",2016-02-07 08:25:52+00:00,czqw7ou,1.0,t3_44jcm0,23936.0,Meditation
+41,"So it's rotating around the long axis?
+
+You'll save yourself a lot of pain if you just fly based on the navball. Instead of trying to fly to the right, try to keep the center dot, which indicates the direction your ship is pointing, on the line marked 90 (degrees).",2016-02-07 07:22:25+00:00,czqv4pa,1.0,t3_44ip5z,29366.0,KerbalAcademy
+42,"Yeah you're right. It only displays parts that have the wing property. You can make a plane that displays the center of lift completely off but still flies by getting body lift off of structural panel ""wings"".",2016-02-07 02:00:39+00:00,czqltv6,2.0,t1_czpye1o,44318.0,KerbalAcademy
+43,"This looks pretty cool. Testing it out, one thing I notice is that SlingShotter doesn't show the position of tracked asteroids. I don't know how the specifics work but if it could without too much trouble it would be helpful for all those asteroid missions.",2016-02-06 03:31:00+00:00,czpn5m4,2.0,t1_cyhb5sm,3155980.0,KerbalSpaceProgram
+44,"KSP is balanced on the edge of realistic, leaning more towards fun. There are mods that will make it pretty realistic though.
+
+As nojustice mentioned Real Solar System will make planetary bodies more realistically sized. FAR will make the aerodynamics more realistic. Principia will add N-body physics. RemoteTech will make controlling probes and communications more realistic with light speed delay. From easy to hard, Snacks, USI-LS, and TAC-LS add life support and the associated management of resources.
+
+All those mods make things harder though, so it might be best to play stock for a while and then decide what you want to take on.",2016-02-05 12:29:37+00:00,czoqjo3,1.0,t3_44acox,5677.0,KerbalSpaceProgram
+45,Some screenshots of the new menus were accidentally [posted](http://imgur.com/a/lzRa4).,2016-02-05 06:33:41+00:00,czokpj8,4.0,t1_czojqnm,2474.0,KerbalSpaceProgram
+46,"&gt; that you guys are gonna love in two or three weeks
+
+What does this part mean?",2016-02-05 00:52:48+00:00,czo98rb,1.0,t3_448a7q,1009.0,KerbalSpaceProgram
+47,"I don't know why it's happening, but if it's any consolation the dev update yesterday talked about them getting wheels to work in just this situation with the new 1.1 wheels.",2016-02-04 00:01:41+00:00,czmxr7x,1.0,t3_440old,25590.0,KerbalSpaceProgram
+48,One trick is to use multiple (and larger) docking ports between two pieces to get more stability. If you really think you need struts and want to use mods you can place struts in orbit with [KAS](http://forum.kerbalspaceprogram.com/index.php?/topic/48738-kerbal-attachment-system-kas-047-pipes-as-fuel-lines-and-even-fewer-explosions/) or [Quantum Struts](http://forum.kerbalspaceprogram.com/index.php?/topic/84630-105-quantumstrutscontinued-14-magical-struts-for-rigidifying-outside-the-vab/).,2016-02-03 00:18:36+00:00,czlnw76,3.0,t1_czlcery,16292.0,KerbalSpaceProgram
+49,I think [this mod](http://forum.kerbalspaceprogram.com/index.php?/topic/129607-105-gravityturn-version-130-automated-efficient-launches/) is the one you're talking about.,2016-02-02 05:51:25+00:00,czkpwic,2.0,t1_czkk9mc,9105.0,KerbalAcademy
+50,You didn't install [Principia](http://forum.kerbalspaceprogram.com/index.php?/topic/62205-wip104-principia-version-bourbaki-2015-08-15-n-body-and-extended-body-gravitation/) by chance did you? That's the only other explanation I know of.,2016-02-01 22:52:43+00:00,czk9sze,3.0,t1_czk3699,9457.0,KerbalAcademy
+51,"That sounds much harder to do than is my experience. One of the tricks is to hold down alt (on Windows) when you're placing a part, which makes it only snap to nodes and not surface attach. But even that shouldn't be necessary most of the time.",2016-01-31 20:48:37+00:00,czix1nz,1.0,t3_43ksk3,683.0,KerbalAcademy
+52,Really? You even see your science total increasing back at KSC? I found the [old post](https://www.reddit.com/r/KerbalSpaceProgram/comments/34jysx/the_mobile_processing_lab_an_indepth_look_at_how/cqvpgo9) of mine where I was confused since it couldn't transmit &lt;1 units. It's been a while since then so I believe you if you say that's changed.,2016-01-31 20:37:57+00:00,cziwo2s,3.0,t1_czig09y,40727.0,KerbalSpaceProgram
+53,"It'll only transmit when it's &gt;1 if I remember correctly, so you didn't gain any. But yeah MPLs are basically an infinite source of science if you wait long enough.",2016-01-31 05:34:41+00:00,czibpa0,1.0,t3_43hqg0,3595.0,KerbalSpaceProgram
+54,This is great. Take a bow Stratzenblitz!,2016-01-30 21:05:18+00:00,czhwg6a,1.0,t3_43eicp,19686.0,KerbalSpaceProgram
+55,"Who can say how long it'll take, but anything with a menu or wheels will need to be reworked. So most mods will take some tinkering at least. ",2016-01-30 21:02:56+00:00,czhwdhe,1.0,t3_43fruq,2184.0,KerbalSpaceProgram
+56,"Yep, [Take Command](http://forum.kerbalspaceprogram.com/index.php?/topic/108711-105-take-command-launch-kerbals-in-external-command-seats-v13-dec-6-2015/).",2016-01-30 04:33:10+00:00,czh9h8x,1.0,t3_43cmed,535.0,KerbalSpaceProgram
+57,"Cool, thanks. Now if they'd just update and expand the FAQ.",2016-01-29 22:10:10+00:00,czgx6nm,4.0,t1_czgwxb2,398.0,KerbalSpaceProgram
+58,I don't think it's exactly what you want but [Part Commander](http://forum.kerbalspaceprogram.com/index.php?/topic/114902-105-part-commander-quick-access-to-part-right-click-action-menus-v103-nov-20-2015/) will let you find everything on one menu.,2016-01-29 21:50:42+00:00,czgwej2,1.0,t3_439rh7,16279.0,KerbalSpaceProgram
+59,"Really? USI-LS doesn't have death though, so what would it do?",2016-01-29 21:31:13+00:00,czgvl80,2.0,t1_czg7nem,44456.0,KerbalSpaceProgram
+60,There's a bug in the way drag and lift are applied to fairings right now. [Stock Bug Fixes](http://forum.kerbalspaceprogram.com/index.php?/topic/87737-ksp-v105-stock-bug-fix-modules-release-v105a4-25-jan-16/) fixes it so it should be a little easier.,2016-01-29 04:53:30+00:00,czg256e,2.0,t1_czg0g98,3253.0,KerbalSpaceProgram
+61,Huh. I had no idea.,2016-01-28 23:04:40+00:00,czfpwno,3.0,t1_czfowk2,1506.0,KerbalSpaceProgram
+62,"In addition to giving your vessel enough control, it might be hitting one of the limits on ascent guidance, for example AoA (angle of attack, the allowed difference between your pitch and prograde). If that's lighting up green then you know your path will be off at least a bit.",2016-01-28 22:11:05+00:00,czfnqjb,1.0,t3_434jj8,13912.0,KerbalAcademy
+63,That's awesome. Tell him to get on here and start down the rabbit hole.,2016-01-28 20:54:51+00:00,czfkgeg,1.0,t3_431xnj,55306.0,KerbalSpaceProgram
+64,Wow. How did you get eleven RAPIERS to run off of two intakes?,2016-01-28 20:50:28+00:00,czfk9as,1.0,t3_431r6n,57966.0,KerbalSpaceProgram
+65,I don't know if it'd be super useful since craft already have a description field that you could use to record all that.,2016-01-28 01:27:20+00:00,czeljik,1.0,t3_430c4x,7742.0,KerbalSpaceProgram
+66,"Unzip and merge the contents of the Contract Configurator zip file into your KSP folder. There should now be ContractConfigurator and ContractPacks folders inside KSP's GameData folder. Do the same with the GAP zip file, and there now should be a GAP folder inside the ContractPacks folder.
+
+Alternatively you could install them using KCAN.",2016-01-28 01:24:04+00:00,czelf43,1.0,t3_4304jb,10197.0,KerbalSpaceProgram
+67,There were some mods that did this (though not with FTL) like [Kerbal Galaxy 2](http://forum.kerbalspaceprogram.com/index.php?/topic/112650-wip-102-kopernicus-kerbalgalaxy-2-07-new-star-system/) but I don't think any of them are being maintained anymore.,2016-01-27 03:02:56+00:00,czdeq1d,1.0,t3_42v34a,4189.0,KerbalSpaceProgram
+68,"Safest is to have a low tight orbit so that you're speed is low, then set your periapsis high above the surface and let the atmosphere bring it down.
+
+If you don't have enough fuel for a low orbit then just dip into the atmosphere a bit so that you'll aerobrake and bring your apoapsis down over consecutive orbits.
+
+With spaceplanes you can control your aerobraking with your pitch. Generally 45 degrees above the horizon is my default.
+
+As for mods that help there's [Trajectories](http://forum.kerbalspaceprogram.com/index.php?/topic/94368-105-trajectories-v145-2015-12-05-atmospheric-predictions/) for roughly visualizing the effects of atmosphere on your path for aerobraking and getting closer to your desired landing spot. Also [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/index.php?/topic/17833-104-kerbal-engineer-redux-v10180/) for giving you a ton of information, some of which, like critical part temperature relative to its fail point, height above terrain, and suicide burn distance, is pretty useful here.",2016-01-26 20:58:41+00:00,czczvb6,1.0,t3_42svcz,9325.0,KerbalAcademy
+69,"It probably won't make too much of a difference in that design but the shock cone intakes are better drag-wise, if you've unlocked them. But yeah, your ascent path has a lot to do with it like the others say.
+
+To get the most out of open cycle I try to figure out a path that ascends quickly out of the low soup, then goes shallow enough to leave the craft just about to explode from heat by the time it has to switch to closed cycle, then pulling up to 45 degrees after the switch.",2016-01-25 21:10:25+00:00,czbohwa,1.0,t3_42mdq6,15106.0,KerbalAcademy
+70,"Yeah, [Fusebox](http://forum.kerbalspaceprogram.com/index.php?/topic/46064-105-fusebox-electric-charge-tracker-and-build-helper-152-released-24th-jan-16/) does that. It's wonky when it comes to reaction wheels though, saying they'll have a huge draw when they don't in practice, but you can deselect them in the filter. Maybe someone else could tell you why that happens.",2016-01-25 20:58:38+00:00,czbnz5m,1.0,t3_42ndg5,3438.0,KerbalAcademy
+71,"There's [Asteroid Day](http://www.curse.com/ksp-mods/kerbal/232196-asteroid-day), [SCANsat](http://forum.kerbalspaceprogram.com/index.php?/topic/72679-105-scansat-v147-real-scanning-real-science-at-warp-speed-january-16/), [DMagic Orbital Science](http://forum.kerbalspaceprogram.com/index.php?/topic/59009-105-dmagic-orbital-science-new-science-parts-v11-12132015/), [Tarsier Space Tech](http://forum.kerbalspaceprogram.com/index.php?/topic/100188-105-tarsier-space-technology-with-galaxies-continued-v56-13th-november-2015/), and [CactEYE Telescopes](http://forum.kerbalspaceprogram.com/index.php?/topic/122449-105-beta-cacteye-telescopes-continued-0610/). There's also [Station Science](http://forum.kerbalspaceprogram.com/index.php?/topic/50145-104-station-science-v15/) but I don't know if it'll work with the latest version.",2016-01-24 21:20:34+00:00,czaem89,1.0,t3_42gqzr,13591.0,KerbalSpaceProgram
+72,You could do this yourself by making a contract configurator pack that requires the USI life support and kolonization mods. The only thing that you'd need to figure out is how to handle Kerbin becoming uninhabitable.,2016-01-24 20:48:48+00:00,czad5la,1.0,t3_42f26l,47968.0,KerbalSpaceProgram
+73,You can also use Contract Configurator and get the [anomaly pack](http://forum.kerbalspaceprogram.com/index.php?/topic/98666-105-contract-pack-anomaly-surveyor-v142-2015-09-14/) to make contracts out of finding them all.,2016-01-23 22:22:14+00:00,cz9ddcz,3.0,t1_cz93xqt,15973.0,KerbalSpaceProgram
+74,[Starbound soundtrack](https://www.youtube.com/playlist?list=PLzHkZvjSzxsUJEaAHFdbZ-VLvJ59E0gRr),2016-01-22 19:18:25+00:00,cz837gi,1.0,t3_4256ii,27261.0,KerbalSpaceProgram
+75,"The main trick is to go to map view, click on your target body, and select focus view before you burn, once you've set up an intercept maneuver node. You'll be able to see your intercept path relative to your target body (basically what it'll look like when you get there) and can fine tune the maneuver node to see the ways that you can change the path. A retrograde orbit is just a matter of changing your timing and/or prograde burn so that your intercept falls on the other side of the target body. You'll save on dV doing these adjustments that early too.",2016-01-22 05:45:36+00:00,cz7hfnb,1.0,t3_4242mu,2344.0,KerbalAcademy
+76,You're right. I found it [here](https://kerbalstuff.com/mod/101/Bahamuto%20Dynamics%20%28Parts%20pack%29). Thanks!,2016-01-21 22:25:56+00:00,cz723jj,3.0,t1_cz71rwg,473.0,KerbalSpaceProgram
+77,Cool. What mod is the crawley from?,2016-01-21 21:52:06+00:00,cz70pav,1.0,t3_4221tf,2579.0,KerbalSpaceProgram
+78,The mod [Trajectories](http://forum.kerbalspaceprogram.com/index.php?/topic/94368-105-trajectories-v145-2015-12-05-atmospheric-predictions/) will help some when it comes to dealing with atmosphere.,2016-01-21 19:23:22+00:00,cz6u87v,1.0,t3_421iyf,316.0,KerbalSpaceProgram
+79,"The [Starbound soundtrack](https://www.youtube.com/playlist?list=PL7DXTXnlwEuN4eTTyMIOZJfoZN4IQgx8z), [Morwic's stuff](https://www.youtube.com/playlist?list=PLntqm8E3TOyFjIoFzeRkZSb2kZIKXPaXH), the [Firefly soundtrack](https://www.youtube.com/playlist?list=PL82393B84256FA321), and the [Serenity soundtrack](https://www.youtube.com/playlist?list=PLFF35617474DEEC70) are most of what I'm using right now, plus some songs from the Interstellar and Oblivion soundtracks, and a few [others](https://www.youtube.com/watch?v=AE1Zo5Ljws0).",2016-01-21 18:59:57+00:00,cz6t6q7,1.0,t3_421dru,773.0,KerbalSpaceProgram
+80,"The fixes I've heard are to set the compatibility mode of your KSP launcher to Windows 7, or to change the [max physics delta time per frame](https://www.reddit.com/r/KerbalSpaceProgram/comments/2b84h3/ksp_x64_bit_right_click_issue/cl7izsg). I also saw someone say that they needed to change that max physics setting every time they ran the game to fix it, and the value didn't matter.",2016-01-20 19:14:21+00:00,cz5iv0i,1.0,t3_41qxsn,77139.0,KerbalAcademy
+81,"Just in case you might have overlooked it, it's normally in the Miniaturization node with the FL-A5 and FL-A10 adapters and the TR-2C separator. ",2016-01-20 18:58:59+00:00,cz5i6ej,1.0,t3_41snqw,52671.0,KerbalAcademy
+82,It doesn't support TAC-LS right now. There's an [unofficial complile](http://forum.kerbalspaceprogram.com/index.php?/topic/112328-105-deepfreeze-continued-external-radial-pods-edition-v0201-8-jan-2016/&amp;page=11#comment-2329308) someone made for it but it's untested.,2016-01-19 19:34:24+00:00,cz49gb2,1.0,t3_41pzlv,3916.0,KerbalSpaceProgram
+83,"You could make bases with something like [MKS](http://forum.kerbalspaceprogram.com/index.php?/topic/72032-105-usi-kolonization-systems-mksoks-03112-20151109/) after adding life support, and add some new mission stuff with [Contract Configurator](http://forum.kerbalspaceprogram.com/index.php?/topic/91625-105-contract-configurator-v1931-2016-01-11/). You could also add the [Community Tech Tree](http://forum.kerbalspaceprogram.com/index.php?/topic/90530-105-community-tech-tree-22-last-updated-221115/) along with various mods it supports.",2016-01-19 19:30:03+00:00,cz499nq,1.0,t3_41p59k,14111.0,KerbalSpaceProgram
+84,You might try [Filter Extensions](http://forum.kerbalspaceprogram.com/index.php?/topic/93955-105-filter-extensions-2412-nov-10/).,2016-01-19 07:56:24+00:00,cz3qb1f,1.0,t3_41n101,10881.0,KerbalAcademy
+85,Sorry I don't use it so I don't really know anything about it. I'd post in that thread if you want to resolve the issue.,2016-01-17 01:42:10+00:00,cz117py,3.0,t1_cz0otfy,20155.0,KerbalSpaceProgram
+86,One of the modules in [Stock Bug Fixes](http://forum.kerbalspaceprogram.com/index.php?/topic/87737-ksp-v105-stock-bug-fix-modules-release-v105a3-27-dec-15/) gives an option to do that.,2016-01-16 16:21:09+00:00,cz0h2oa,1.0,t3_418tbe,3337.0,KerbalSpaceProgram
+87,[Sure](http://i.imgur.com/6PxYYXm.png). I don't know how I feel about that design. It's really inelegant in my opinion but it's one of the better preforming stock heavy lifter spaceplanes I've made.,2016-01-15 15:41:50+00:00,cyz9s5o,3.0,t1_cyz709e,4562.0,KerbalAcademy
+88,It sounds like you're going too fast and the part explodes from heat? If you can't throttle back I take it you're using SRBs? In the VAB you can right click on the booster and turn down the thrust so you won't go so fast.,2016-01-15 15:21:38+00:00,cyz8zs4,1.0,t3_413915,3977.0,KerbalAcademy
+89,"I have one design that does that and where KER is actually right. There's a radially mounted fuel tank with engines attached to it on one end and a payload on the other.
+
+The root is a drone core on the main ship, and fuel flows from the main body to the radially mounted tank and its engines just fine until the whole main ship is empty. Changing the root to a core on the payload makes it so that fuel doesn't flow from the main body anymore, and the engines flame out after the radially mounted tank is empty.",2016-01-15 14:00:00+00:00,cyz6799,1.0,t3_4128p1,19967.0,KerbalAcademy
+90,Yeah from what I've been told the station won't be split into multiple threads. The ship you're approaching with and some other stuff probably will though so there will probably be some gains.,2016-01-15 05:08:47+00:00,cyyvu6e,2.0,t1_cyy9sm5,34023.0,KerbalSpaceProgram
+91,"If your spaceplane tumbles it likely has to do with your center of lift being too far forward relative to your center of mass. When you're designing it in the SPH be sure the COL is a bit behind the COM, but also empty the tanks and make sure the same situation applies when you're almost out of fuel.
+
+There's a design mod called RCS Build Aid that'll show you the wet and dry center of mass without you having to empty all the tanks. I've found it to be pretty inaccurate with its engine torque measurement but good enough for eyeballing dry and wet COM.
+
+Another thing to worry about is the fuel not actually being distributed evenly on reentry due to the distribution of tanks with regard to fuel type, using engines other than Rapiers that draw fuel unevenly, the extra weight of a recovered hulk, or oddities of design. If you find yourself tumbling on what you think should be a good design you can always revert and shift fuel forward. There's also a mod for this though called TAC Fuel Balancer that makes moving fuel a bit easier and has an option to auto-balance all tanks.
+
+I've retrieved pods with a spaceplane that has a Mk3 cargo bay and grapple, but also with a Mk2 plane with a grapple on the outside, just adjusting fuel so that it'll still fly with a pod hanging off it.",2016-01-15 03:57:17+00:00,cyytksc,1.0,t3_40z4hd,30984.0,KerbalAcademy
+92,I'm not sure if it's working with 1.0.5 but there's also [Routine Mission Planner](http://forum.kerbalspaceprogram.com/index.php?/topic/77308-104-routine-mission-manager-v014/).,2016-01-14 08:51:26+00:00,cyxq7vf,3.0,t1_cywwjan,51013.0,KerbalAcademy
+93,"I asked for speculation about that here and was told that rigid body physics isn't something that anyone's currently able to multi-thread, outside of some research projects. So one ship, one thread is the best to hope for. Still they were suggesting a 30% speed increase wasn't out of the question given the increase Besiege saw with Unity 5.",2016-01-14 01:34:56+00:00,cyxebis,4.0,t1_cywkks1,43775.0,KerbalSpaceProgram
+94,"First, it depends on setting up on a spot with good ore concentration, which you can find with varying precision with the three scanners (the biggest give the widest, most imprecise map, the medium the biome averages, the smallest the exact value where the craft is sitting).
+
+Dpitch40 has a nice post about drill rates and refinery rates [here](https://www.reddit.com/r/KerbalSpaceProgram/comments/3v2ko7/the_drillomatic_junior_is_slower_than_the/cxjrwep) to give you an idea of what it'll take to make full use of a refinery.
+
+The higher the level of the craft's highest-level engineer, the better your ore production, though that doesn't affect the refinery rate.
+
+Radiators will help, but thermal control systems are nicer since they'll cool the hottest part of the whole craft rather than just the part it's attached to.",2016-01-13 12:19:33+00:00,cywj7bo,1.0,t3_40rg2v,7232.0,KerbalAcademy
+95,"&gt; I suppose in terms of raw ∆v, and I think what I recommended is better in that regard
+
+I'm set up to do it your way just because it's less work, but I wonder if having it in LKO is better dV-wise, since you'd benefit from the Oberth effect on those long interplanetary burns.",2016-01-13 09:43:22+00:00,cywgqru,6.0,t1_cyw8slu,20366.0,KerbalAcademy
+96,"I use the [64 bit workaround](http://forum.kerbalspaceprogram.com/index.php?/topic/105592-windows-64-bit-community-workaround/). It's buggy, but for me when using a decent amount of memory-intensive mods it crashes less frequently than 32 bit.",2016-01-13 06:26:45+00:00,cywd2qv,3.0,t1_cyw51x0,14374.0,KerbalAcademy
+97,"Ah, I misunderstood. Thanks for the clarification.",2016-01-13 02:58:16+00:00,cyw69x2,3.0,t1_cyw2p15,5527.0,KerbalAcademy
+98,"Isn't it cheaper to correct your approach even earlier, before entering a SOI, or have I been doing it wrong?",2016-01-13 01:08:46+00:00,cyw219d,1.0,t3_40natc,28486.0,KerbalAcademy
+99,It means the staging order has been changed.,2016-01-12 15:12:32+00:00,cyvcuhs,1.0,t3_40kvlm,38658.0,KerbalSpaceProgram
+100,I don't think it's on by default but KER does have an option to be partless.,2016-01-11 07:52:37+00:00,cytubnx,2.0,t1_cytq1r4,11031.0,KerbalAcademy
+101,"I was able to upgrade them as soon as I loaded the game. After doing anything else they would appear to be fully upgraded and not let me though.
+
+Or you could always revert to 32bit to upgrade them.",2016-01-10 05:41:55+00:00,cysmijn,1.0,t3_4085kp,29945.0,KerbalSpaceProgram
+102,"I was thinking this the other day, like maybe a context menu option on seats to add a dummy. It'd also be really useful to have the kerbal's added weight for balancing purposes. ",2016-01-08 10:38:12+00:00,cyqgxt7,1.0,t3_4003oo,11221.0,KerbalSpaceProgram
+103,"&gt; have movement properties of that of a fish in the atmosphere of the moon
+
+That's probably an intentional design decision on the part of the mod maker. You can give wheels more traction, but the more grippy they are the more likely you are to flip over on turns, especially in low gravity. ",2016-01-06 10:28:49+00:00,cynwbu7,1.0,t3_3zp47x,3228.0,KerbalSpaceProgram
+104,"I don't know if it will work on 1.0.5, but there's [Mission Based R&amp;D](http://forum.kerbalspaceprogram.com/index.php?/topic/111969-102-contract-pack-mission-based-rampd-v-022/) that turns node unlocks into missions. Mods could do something like this, though depending on how many branches the progression would have you might end up with a bunch of possible missions to do at once.",2016-01-06 10:20:23+00:00,cynw7lw,1.0,t3_3zncxc,32414.0,KerbalSpaceProgram
+105,I had no idea that planting flags gave the individual kerbal experience. All those wasted points...,2016-01-05 03:46:18+00:00,cymdqgv,1.0,t3_3zfwr4,34121.0,KerbalSpaceProgram
+106,I'm loving these parts. One thing that might be useful though is a MkIV reaction wheel part.,2016-01-05 02:49:26+00:00,cymbjnk,2.0,t1_cyjprap,188539.0,KerbalSpaceProgram
+107,From what I read there's a benefit when your plane is spending a significant amount of time with the pitch a good distance above prograde. There's a sweet spot in the angle of incidence that brings them closer together (and is supposedly better than just adding more wings) which reduces the angle of the body relative to prograde and reduces drag there.,2016-01-05 01:25:28+00:00,cym8e9k,2.0,t1_cyls9dk,23653.0,KerbalAcademy
+108,"Sorry, angle of attack.",2016-01-04 13:50:52+00:00,cylht7f,2.0,t1_cylhmoe,487.0,KerbalAcademy
+109,This is awesome. I've had so much trouble with my stock very heavy lifter spaceplanes.,2016-01-04 08:43:05+00:00,cylcr37,1.0,t3_3z70z8,123515.0,KerbalSpaceProgram
+110,"The small one is in the Advanced Construction node, the medium in Specialized Construction, and the large in Heavy Aerodynamics.",2016-01-04 05:34:53+00:00,cyl8wk8,5.0,t1_cyl7oxr,2548.0,KerbalSpaceProgram
+111,I do. As for recommendations go you might like to check out /r/suggestalaptop.,2016-01-04 00:57:01+00:00,cykzfd6,1.0,t3_3zb7ux,17546.0,KerbalSpaceProgram
+112,"Wow good video. It'd be nice if you could ""control from here"" any part so long as you have the right pod/core attached.
+
+It'd also be nice if KSP had a more robust ""control from here"" planner in the design stage so you didn't have to click in flight. Maybe something like the stage planner that lets you define the control point and/or root part for that stage.
+
+As it is you have to hunt for it with your mouse in situations like this. You also sometimes get messed up staging if you have a vehicle that's meant to stage into more than one vehicle, like with multiple independently staged payloads.",2016-01-03 23:53:56+00:00,cykx0pc,1.0,t3_3z90gv,58678.0,KerbalSpaceProgram
+113,"Cool. Would spinning it help that much though? I thought unlike radiator panels, which only cool the attached part, those thermal control system panels cooled the hottest part of the whole ship.",2016-01-03 23:31:18+00:00,cykw52k,1.0,t3_3zayd0,16137.0,KerbalSpaceProgram
+114,Awesome. I'm going to have to check it out.,2016-01-03 22:05:25+00:00,cyksqq6,3.0,t1_cykjkl8,13546.0,KerbalSpaceProgram
+115,Wow that has a lot of good ones. Thanks!,2016-01-03 09:53:31+00:00,cyk8w0v,3.0,t1_cyjbkj1,67098.0,KerbalSpaceProgram
+116,That's pretty cool. So you can use kOS to control MechJeb? How hard is it to get into kOS?,2016-01-03 04:28:20+00:00,cyk1mtk,1.0,t3_3z7qr6,11158.0,KerbalSpaceProgram
+117,Last time I brought three times the shoots I'd need for Kerbal and still went splat. Luckily I was able to revert and use the transfer stage for a suicide burn.,2016-01-02 22:20:24+00:00,cyjpjd0,1.0,t3_3z3oh0,64158.0,KerbalSpaceProgram
+118,Is that a radiator flat against the nose? Do you think the extra speed available is worth the cost of the drag when it comes to putting a spaceplane in orbit?,2016-01-02 01:57:29+00:00,cyiuzod,2.0,t1_cyijpj4,20925.0,KerbalSpaceProgram
+119,"What I'd like is a good source of mp3s that fit the style: no singing, relaxed, and with a nice sense of awe to them.",2016-01-02 01:50:49+00:00,cyiusew,1.0,t3_3z1j8g,25786.0,KerbalSpaceProgram
+120,That's pretty cool but it looks like it's going to use my precious memory. For now it seems better to just have a playlist in the background if you have too many songs.,2016-01-02 01:48:50+00:00,cyiuq79,2.0,t1_cyigwir,25355.0,KerbalSpaceProgram
+121,"If you don't have Kerbals on board or if you can offload them to another ship temporarily you might be able to use [Re3](http://forum.kerbalspaceprogram.com/index.php?/topic/97033-10x-magico13s-modlets-field-experience-sensible-screenshot-etc/) to get it to the VAB, weld there, and put it back.",2016-01-02 01:39:02+00:00,cyiufaz,1.0,t3_3z0pvz,40671.0,KerbalAcademy
+122,"I don't know if you're looking to try techniques, but Shinzen Young has some good stuff on pain. He teaches various meditation techniques, in this case a lot of them are having to do with various ways of deconstructing the pain into components and tacking them. You can find some of his pain stuff on youtube, and he also has a CD or two on the topic.",2016-01-01 07:48:32+00:00,cyi56wi,1.0,t3_3ywyt3,61215.0,Buddhism
+123,"I assume Interstellar Extended is in there, or are you picking your own? If you are I'd still include most of the mods in that pack. Universal Storage looks pretty cool for shuffling resources and for Dmagic Orbital Science stuff. Otter Submersible for Dmagic's water stuff. ScanSat. KSP Filter Extensions for sorting all the new parts.
+
+For misc stuff: Precise Node, Field Experience, TAC Fuel Balancer, Kerbal Alarm Clock, Trajectories, Contract Configurator+packs, EVE, Scatterer, Planetshine, Distant Objects, Engine Light, plus stuff like KER, Editor Extensions, RCS Build Aid, kOS, mechJeb, etc.
+
+TACLS looks interesting but it doesn't seem to have been updated very recently.
+
+I'm prepping my list too for when 64bit support is back for windows. Exciting!",2015-12-31 01:43:59+00:00,cygtpsq,1.0,t3_3ysfk2,38615.0,KerbalSpaceProgram
+124,"[Re3](http://forum.kerbalspaceprogram.com/index.php?/topic/97033-10x-magico13s-modlets-field-experience-sensible-screenshot-etc/) will let you edit it if you want to add a probe core, but it won't let you put kerbals on it.",2015-12-30 17:23:45+00:00,cygau1p,1.0,t3_3ysxqc,533.0,KerbalSpaceProgram
+125,"My god, /u/Ozin your HoverBot is amazing.",2015-12-30 15:37:23+00:00,cyg6x1b,1.0,t3_3ys6sh,7073.0,KerbalSpaceProgram
+126,[Re3](http://forum.kerbalspaceprogram.com/index.php?/topic/97033-10x-magico13s-modlets-field-experience-sensible-screenshot-etc/) will let you edit ships in flight. I think it might kill any kerbals onboard though. ,2015-12-30 06:30:57+00:00,cyfwdir,2.0,t1_cyfu28x,5159.0,KerbalSpaceProgram
+127,"There's a mod you might want to check out called [AtmosphereAutopilot](http://forum.kerbalspaceprogram.com/index.php?/topic/124417-105-atmosphereautopilot-12-fly-by-wire/). It's got a gimmicky mode where it tries to have the plane follow the view set by the mouse, but fly-by-wire mode is really useful. It makes it feel like you're flying a modern plane.
+
+I know squad has said they don't want to integrate any autopiloty stuff but it really seems to me that some kind of fly-by-wire should be in the tech tree.",2015-12-24 12:57:33+00:00,cy9ze5f,3.0,t1_cy9ng3u,36883.0,KerbalSpaceProgram
+128,Neither design would work with the compartments the body has in the movie.,2015-12-22 12:41:50+00:00,cy7p5rf,2.0,t1_cy6n84y,75858.0,mechanical_gifs
+129,"If you have it, the shock cone intake has really good drag properties, so if you install it where you have a nosecone you'll actually have less drag. You can put intakes anywhere, but in general if you can use an inline intake it's better drag-wise than a radially-mounted intake.
+
+Also just in case you aren't aware, unless you're using Nervs for travel out of atmo you're going to need some oxidizer once the air gets too thin. The Rapiers are the only jet-style engines that'll work out of atmo, but they still need oxidizer at that point.",2015-12-20 10:37:41+00:00,cy5dvjn,3.0,t1_cy5dhdd,1859.0,KerbalSpaceProgram
+130,"Those are FAT-455 tail fins, which have your mission flag on them by default. ",2015-12-20 07:44:29+00:00,cy5bf56,2.0,t1_cy567oe,13516.0,KerbalSpaceProgram
+131,I know there are [mods](http://forum.kerbalspaceprogram.com/index.php?/topic/91625-105-contract-configurator-v191-2015-12-15/) that allow custom community-made contracts. Maybe it came from there. Do you have a link?,2015-12-20 04:11:30+00:00,cy56kbe,1.0,t3_3xhbgh,40234.0,KerbalSpaceProgram
+132,Jeez you have a lot of mods. Yeah it could be but I didn't find any info with a search on that. Couldn't hurt anyway. Nothing else jumped out at me.,2015-12-19 01:05:20+00:00,cy41eah,3.0,t1_cy3x0k1,8299.0,KerbalSpaceProgram
+133,What mods are you using? I vaguely remember someone mentioning that they had this problem when they updated and had fixed it by reinstalling the mod.,2015-12-18 14:41:05+00:00,cy3eq6m,1.0,t3_3xaxqy,38107.0,KerbalSpaceProgram
+134,"Yeah that's what I was wondering, hoping for a big bump in speed. At least it'll be nice to have official 64 bit support.",2015-12-17 11:00:33+00:00,cy23ptw,4.0,t1_cy22l33,4941.0,KerbalSpaceProgram
+135,That's interesting. Is that the practical limit to what can be done?,2015-12-17 02:48:41+00:00,cy1sw9g,2.0,t1_cy1r3yi,3091.0,KerbalSpaceProgram
+136,"The creator of Scatterer released some files [here](http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip-scatterer-atmospheric-scattering-v00215-05122015-ocean-shaders-get-them-while-theyre-hot/&amp;page=101#comment-2309802) that could help until the next update. I had problems similar to yours, and merging those with the mod folder fixed some of them. Unfortunately the edge of the atmosphere still looks like a bubble so I'm waiting to see how the next release preforms. Let me know if you find out how to get it right.",2015-12-11 16:12:38+00:00,cxvfhdp,1.0,t3_3wdmk9,6862.0,KerbalSpaceProgram
+137,Which texture packs are you using?,2015-12-01 15:45:46+00:00,cxj6n2b,4.0,t1_cxih7ow,58801.0,KerbalSpaceProgram
+138,"Yup, it's 3 rows of mostly mk3 parts, though the design is still in flux.",2015-11-30 00:41:43+00:00,cxhcfeg,6.0,t1_cxhc90e,292.0,KerbalSpaceProgram
+139,Yeah. that's where I'm at. Trying to lift an 80 ton piece of cargo.,2015-11-30 00:15:15+00:00,cxhbg1h,4.0,t1_cxha9m8,1854.0,KerbalSpaceProgram
+140,Do you know what I should search for? I can't find anything.,2015-11-29 23:42:34+00:00,cxha7ap,2.0,t1_cxh9kl4,1034.0,KerbalSpaceProgram
+141,But if your pitch rests too much above prograde you're introducing a good bit of drag from the angle of the body.,2015-11-29 23:40:01+00:00,cxha414,2.0,t1_cxh9a40,1367.0,KerbalSpaceProgram
+142,"Cool, thanks for the info. My current build is using one of each per, but after I iron the design out I'll see if halving the shock cones does much to shorten the time to mode switch.",2015-11-27 03:53:27+00:00,cxee152,3.0,t1_cxe2dp5,23839.0,KerbalSpaceProgram
+143,Do you have a source of information on the precooler's do-nothingsim? I've read a few sources that say rapiers do best with a shock cone and precooler.,2015-11-26 06:43:35+00:00,cxdhy7l,1.0,t3_3sfvpf,1250392.0,KerbalSpaceProgram
+144,I'm not understanding how what you want is different from asparagus staging. Can't you control the drain order with the placement of fuel lines?,2015-11-24 02:34:59+00:00,cxaxih2,1.0,t3_3u0slf,2810.0,KerbalSpaceProgram
+145,"Okay in that case then it would take the same amount of energy to decelerate as accelerate, unless I'm missing something. ",2015-11-23 01:08:15+00:00,cx9mgqz,6.0,t1_cx9lt13,1142.0,firefly
+146,"&gt; In space, it takes only slightly less energy to brake (decelerate) as it takes to accelerate due to a distinct lack of frictional forces (damn near zero atmosphere).
+
+You mean only in situations where there's an external force acting on the ship opposite to the direction of travel right? Like near-space?",2015-11-22 23:39:01+00:00,cx9j7ar,4.0,t1_cx9biru,11872.0,firefly
+147,Yeah. They [show this situation explicitly](https://www.youtube.com/watch?v=o3oYnlPfBvI) in *Bushwacked*.,2015-11-22 11:11:44+00:00,cx8x6i4,2.0,t1_cx8tnh6,15001.0,firefly
+148,"It does seem like that should be an option. They already do something sort of like intelligently finding a center to rotate around with the orbit tool. Maybe someone could make a Ruby script.
+
+I remember when I was first messing around with Sketchup I was having difficulty navigating too. After a while I got comfortable using pan, zoom, look around, and orbit. I still find myself accidentally clipping into objects a bit too often though.",2015-11-14 12:42:19+00:00,cwzvjgy,9.0,t1_cwzv96h,1214.0,Sketchup
+149,"Ah okay. Yeah, using orbit with your cursor over the object you want to rotate around sounds like the closest thing then. There are some camera extensions out there but I haven't seen any that let you pick a precise point and rotate around it like that.",2015-11-14 12:16:00+00:00,cwzv68b,7.0,t1_cwztpl6,7153.0,Sketchup
+150,"There's a tool called ""Look Around"" that sounds like what you want - ""Pivot the camera around a stationary point"". The icon looks like an eye.",2015-11-14 04:51:15+00:00,cwzo3n1,5.0,t1_cwxt0tm,130852.0,Sketchup
+151,"In the extension warehouse CG Adjust-N-Export will let you automatically save all groups/components within a selection so they're isolated in their own file, under a project folder. It won't work recursively though, so if you have nested groups/components you might have to run it again on those sub-groups/components.
+
+If you want to have everything in the same file, just spaced out, there's [Radial Move](http://sketchucation.com/forums/viewtopic.php?t=24390) which will give you an exploded view of your groups/components, with the same problem when it comes to working recursively.",2015-11-08 10:52:24+00:00,cwsrh07,1.0,t3_3rxj85,49203.0,Sketchup
+152,"That's pretty cool. It looks like the real model aspects are sub-groups within the rig group aspects. Things are just arranged in a cool way by making different groups visible on different layers.
+
+So if you look at the group ""CN_Front_R_wheel"", whose faces are visible in the ""RIG VIEW"" layer, it contains the group ""Front Wheel Right"", which is visible in the ""MODEL VIEW"" layer. So if you move the rig view group the model view sub-group is also moved (but you could move the model view sub-group without the rig view group moving if you wanted to).
+
+BTW I found a cool example of what using nested groups/components can look like [here](https://www.youtube.com/watch?v=2L3hZaENzvM).",2015-11-08 01:22:16+00:00,cwse0xe,5.0,t1_cwrt677,38204.0,Sketchup
+153,"I should say though that I don't think sketchyphysics will work for applications like that. From what I saw you can only move joints in simulation mode, and then they pop back when it's done. I couldn't check to be sure though because it doesn't work with 64bit SU.",2015-11-07 14:31:39+00:00,cwrsui2,3.0,t1_cwrsgku,1054.0,Sketchup
+154,"I tried to find a way to have joints like that, but the closest thing I found was sketchyphysics.
+
+Though you could have each piece be its own component so you can position them, and then have the whole collection be a component so you can move and scale them all at once.",2015-11-07 14:09:56+00:00,cwrsdcu,1.0,t3_3rvr8b,6693.0,Sketchup
+155,"Cool, thanks.",2015-11-05 13:14:56+00:00,cwpbysb,3.0,t1_cwpbo3u,778.0,kindle
+156,Will this method work with the 2015 Paperwhite Kindle? I've read a couple reviews that say you're limited to Amazon's library.,2015-11-05 08:16:43+00:00,cwp7cda,1.0,t3_3b7dzl,11377427.0,kindle
+157,"The dimension tool will work like the tape measure but place permanent measurements on the model. There's also [this plugin](http://sketchucation.com/pluginstore?pln=draw_angle_dim) for placing angular dimensions, an ability Sketchup doesn't come with for some reason. It seems really odd to me that someone's selling a plan without dimensions on it.",2015-10-30 07:17:01+00:00,cwi58on,1.0,t3_3qquck,41683.0,Sketchup
+158,"Just to make it clear for anyone that might find this later, the stock Nano QX motor shafts are 0.8mm, so the Hubsan and Parrot props won't fit. The HB830s will though.",2015-10-21 06:33:28+00:00,cw7d4yb,2.0,t1_cu2vhq0,5841858.0,Multicopter
+159,"Wait, does the X9 have an acro mode?",2015-10-08 05:12:30+00:00,cvs6xel,3.0,t1_cvs2scv,8958.0,Multicopter
+160,Good luck. If you ordered the switchable model I've seen a couple people saying that they had some success with switch 3 on and nothing else (forced DMS2 22ms mode).,2015-10-07 00:08:24+00:00,cvqq3cg,5.0,t1_cvq3mme,34666.0,Multicopter
+161,"Just a warning: current OrangeRX modules probably won't work. It seems the old ones often worked, but the new ones released this year are giving people tons of problems with BNF models.",2015-10-06 07:46:07+00:00,cvpvswx,3.0,t1_cvpp844,16979.0,Multicopter
+162,I gather it's not much more dangerous than charging a single battery so long as you follow the proper procedure. It could be dangerous if you do something like put batteries with vastly different levels together.,2015-10-04 22:01:40+00:00,cvo97en,3.0,t1_cvm2zpa,178518.0,Multicopter
+163,"I'm not sure either is better, assuming your charger can balance charge 6s lipos for the first cable. The first needs to be modded, and I think the version in the picture shows a setup where you'd be stuck always having to charge 6 at a time. The second requires you to make or buy an adapter, assuming your charger doesn't have a JST connector. With it you can vary the number of lipos you charge each time, just adjusting the amperage.
+
+In either case you'd want to be sure the lipos are pretty close in voltage levels before you charge. If you go with the second cable that would just mean connecting the lipos and letting them sit for a while before charging as long as they're all in the same ballpark.
+
+You might like [this link](http://www.tjinguytech.com/charging-how-tos) to read up on serial charging (the first cable) and parallel charging (the second).
+
+If you go with the parallel cable there's a nice tutorial where the author uses it [here](http://www.hubsanforum.com/how-to-charge-hubsan-batteries-with-a-real-lipo-charger/).",2015-10-02 13:29:42+00:00,cvlmnti,1.0,t3_3n7kv1,12440.0,Multicopter
+164,The guy doing Hotprops is working on a [9km^2 map](https://www.youtube.com/watch?v=-D07TanZ4nc).,2015-10-01 11:31:49+00:00,cvkdop6,4.0,t1_cvk83ck,21574.0,Multicopter
+165,"For the module problem: supposedly the Futaba module still works and you can [make an adapter](http://www.rcgroups.com/forums/showthread.php?t=2186369). You could also get a Spektrum module, though they're expensive. Lastly if you could get a transmitter module from a DX4e, DX5e, HP6DSM, or MLP4DSM you could use it to [make your own compatible module](http://johnprikkel.blogspot.com/2014/07/jr-dsmx.html).",2015-09-26 12:37:31+00:00,cveqfuu,1.0,t3_3mgf28,2378.0,Multicopter
+166,"There's also [Hotprops](http://hotprops-fpv-race.com/). It's still in alpha, but it's free.",2015-09-26 06:44:33+00:00,cvelpn0,1.0,t3_3me0pu,32146.0,Multicopter
+167,"Good luck. Just know that the LP stands for low power - meaning shorter range. It also doesn't give you any options to adjust anything other than trim, so if it feels too sensitive or something you're stuck with it.",2015-09-25 13:09:48+00:00,cvdowrj,5.0,t1_cvdoqsf,367.0,Multicopter
+168,"There's also the OrangeRX T-Six, or even the lower-power and very simple MLP4DSM.
+
+If you decided to get a Taranis later (which is what everyone seems to promote) you could cannibalize a Spektrum or the MLP4DSM and build a DSMX module for it.",2015-09-25 11:49:02+00:00,cvdn0u2,3.0,t1_cvdlip8,5484.0,Multicopter
+169,Cool! Is your Nano stock?,2015-09-23 07:02:54+00:00,cvb4iqj,1.0,t3_3m13vl,7402.0,Multicopter
+170,I've read from a few sources that the QX 3D doesn't have the durability that the standard QX is known for. Definitely something to consider since learning involves a good bit of crashing.,2015-09-19 04:19:51+00:00,cv6nb5d,1.0,t3_3lh2a9,30043.0,Multicopter
+171,I just looked again. That's not a Cheerson cx-10 is it? Is it a SKEYE Pico? Anyway I have no idea if those motors will work if it's not a cx-10.,2015-09-16 05:36:48+00:00,cv37vs6,3.0,t1_cv30di5,16690.0,Multicopter
+172,That's a Cheerson cx-10 right? Micro Motor Warehouse has [these](http://micro-motor-warehouse.com/collections/parts-for-rtf-models/cheerson-cx-10). Although you could just get a new one. :),2015-09-15 23:29:32+00:00,cv2xbaf,1.0,t3_3l3je7,4167.0,Multicopter
+173,"I just came across something called imagery rehearsal therapy ([1](http://www.webmd.com/sleep-disorders/features/when-nightmares-wont-go-away?page=2), [2](http://sleepeducation.blogspot.com/2009/11/changing-nightmares-imagery-rehearsal.html)) that you might want to try if you're adverse to continuing with lucid dreaming. As far as changing the cycle goes it sounds like the next best thing.",2015-07-21 08:44:25+00:00,ctap2bf,1.0,t3_3dg00o,464200.0,LucidDreaming
+174,"Expectations often manifest themselves in dreams. For example one way to intentionally manifest something is to expect it to be around the next corner. I wonder if you're not producing this situation by expecting or dreading it. If so and if you can't stop dreading it then a way to cut the cycle would to be to lessen or transmute the effect it has on you.
+
+If you invest in becoming fully lucid then you have more leverage. You could try to just change that aspect of the dream. You could have a dream with the feeling there while not taking the feeling seriously, because if you're lucid you can remind yourself that all you experience is your own mind. I'd think there's a good chance that doing this over and over again would lesson the dynamic that might be going on now.
+
+Or you could have fun with it and choose to have the feeling manifest as something in the dream. Maybe it has something to tell or show you that will resolve the issue and provide some insight. Or maybe it will attack you and you can stand invulnerable, or hug and comfort it, or absorb it, etc. It's all a game, and it's up to you as long as you maintain lucidity and remind yourself that it's all just you.
+
+",2015-07-16 07:05:10+00:00,ct54bfr,1.0,t3_3dg00o,26245.0,LucidDreaming
+175,"""Watch out for the crabs!""",2015-07-05 22:52:18+00:00,cst8hsr,1.0,t3_3c82k4,10872.0,ScenesFromAHat
+176,"&gt; It kind of looks like a dandelion top.
+
+As in hairy or fuzzy? Sounds like mold.",2015-06-16 12:20:25+00:00,cs89trh,2.0,t1_cs7ppbr,49121.0,Kombucha

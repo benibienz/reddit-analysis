@@ -1,0 +1,67 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,What about *illegally*?,2016-11-11 20:14:13+00:00,d9wa9v4,3.0,t1_d9w9ak9,1255.0,IAmA
+1,"    curl https://luamaasys.zendesk.com/api/v2/tickets.json -d '{""ticket"": {""requester"": {""name"": '""$1""', ""email"": ""test@test.com""}, ""subject"": ""My computer is dead"", ""comment"": { ""body"": ""I have having all sorts of issues with my machine!!!!!"" }}}' -H ""Content-Type: application/json"" -v -u kevinm@fakemeail.com/token:Okv6DMQfhjb8INK1HjTBqwoqMErvwfXhwfwjGwYRqJbZPy -X POST",2016-11-08 20:11:24+00:00,d9rk5kj,1.0,t3_5bvdn9,2277.0,sysadmin
+2,Where did he state that this was a real world example? The question is designed to see if someone knows basic networking fundamentals.,2016-07-13 19:33:33+00:00,d5azn0f,2.0,t1_d5aup23,6364.0,sysadmin
+3,Because it's a little overboard ,2016-06-23 20:56:09+00:00,d4lbnbs,3.0,t1_d4l7vqm,4728.0,sysadmin
+4,When the wolves attacked she alluded to them as 'we'... http://www.cinemablend.com/television/Walking-Dead-Theory-Could-Explain-Why-We-Should-Care-About-Enid-93527.html ,2016-05-13 19:59:42+00:00,d34gmtr,1.0,t3_4j77t9,11502.0,thewalkingdead
+5,Conditional view formatting?,2016-05-13 15:00:17+00:00,d343alv,3.0,t1_d3403tt,4761.0,sysadmin
+6,How does a jumpbox open up more access? The point is to limit who has access to the jumpbox and lock down their access to production via acls or firewall rules.,2016-05-04 16:10:42+00:00,d2skjvt,1.0,t3_4hurxq,5227.0,sysadmin
+7,"Thanks for suggesting Koken, I'm amazed at how polished it is for free software. What theme are you using?",2016-04-19 12:19:41+00:00,d28rket,,t1_d253z9x,,selfhosted
+8,"&gt; a bunch of jquery to hate fuck wordpress into working
+
+This made my morning. ",2016-04-18 11:59:37+00:00,d27eiqj,1.0,t3_4fbgl2,561.0,sysadmin
+9,Why not?,2016-04-14 19:58:02+00:00,d2314oa,2.0,t1_d22iqld,23730.0,sysadmin
+10,/sarcasm?,2016-04-11 18:13:36+00:00,d1yqhg1,5.0,t1_d1y8yvg,34114.0,sysadmin
+11,How can you determine the street??,2016-03-24 20:26:23+00:00,d1c83cq,2.0,t1_d1bxxy5,13451.0,sysadmin
+12,Her,2016-03-23 20:42:34+00:00,d1ayook,2.0,t1_d1aw7tv,3199.0,sysadmin
+13,I ended up unscrewing the bottom and re-seating it. There are two small clips on the right side that might have been latched improperly. It's fixed now.,2016-03-22 20:11:29+00:00,d19kjsh,2.0,t1_d19jh25,1414.0,razer
+14,"Same thing happened to me. Had to RMA it, and support was less than helpful. https://www.reddit.com/r/razer/comments/49m6wy/razer_blade_stealth_wont_charge/",2016-03-20 21:09:20+00:00,d173q0b,1.0,t3_4b6gj5,58004.0,razer
+15,This is only one of the many reasons why phone support is the worst way to get anything done.,2016-03-18 20:30:29+00:00,d14y52m,1.0,t3_4axrgc,34484.0,sysadmin
+16,Have you never heard of an advance RMA?,2016-03-11 15:10:42+00:00,d0w0gj9,8.0,t1_d0vjlpz,43433.0,razer
+17,How is that fraud? Most companies that care about there customers do advanced RMAs when there are clear manufacturing faults.,2016-03-11 15:09:38+00:00,d0w0f30,4.0,t1_d0vbq6h,58357.0,razer
+18,Did they send one out before you sent yours in?,2016-03-10 21:46:52+00:00,d0v8okc,2.0,t1_d0v4cpj,5506.0,razer
+19,Nope the charger works fine. ,2016-03-10 21:46:06+00:00,d0v8n8k,7.0,t1_d0v48ip,5611.0,razer
+20,Support is pretty pitiful. They won't ship a replacement until I send it back. I'm getting a refund.,2016-03-10 18:59:04+00:00,d0v0st7,5.0,t1_d0ux1rf,4843.0,razer
+21,It won't charge anymore. Trying to get a replacement.,2016-03-10 16:37:08+00:00,d0uua1w,3.0,t1_d0uu2nd,282.0,razer
+22,Mine is currently a $1200 paper weight so not really.,2016-03-10 16:17:26+00:00,d0utez3,1.0,t3_49tov1,5664.0,razer
+23,They emailed me with an RMA label but I'm really not happy about having to wait for a repair. I'll be without a laptop for another two weeks now. It makes more sense to just buy a new one and return the old one.,2016-03-09 21:47:50+00:00,d0twegv,2.0,t1_d0tvf93,1257.0,razer
+24,No redundancy?? ,2016-01-17 22:21:38+00:00,cz1zh0q,1.0,t3_41djlt,31215.0,sysadmin
+25,That's not Soho,2016-01-13 14:15:58+00:00,cywlxip,1.0,t3_40ojya,60214.0,RoomPorn
+26,"Confluence is for document sharing and collaboration. There are plenty of other programs better suited to store passwords - 1Password, Keepass, PasswordSafe etc. ",2015-12-29 02:50:41+00:00,cyeityz,1.0,t3_3ykg97,21150.0,sysadmin
+27,slack-like?,2015-12-25 15:47:29+00:00,cyb00j8,1.0,t3_3y3p1j,78044.0,selfhosted
+28,Why?,2015-12-16 04:37:03+00:00,cy0oc0p,2.0,t1_cy0jtx1,7563.0,DIY
+29,I've had a few iDRACs on r620s lock up. Dell supposed claimed it was a bug in the firmware that was being addressed.,2015-12-05 17:35:21+00:00,cxo6t2u,1.0,t3_3vjhqc,12489.0,sysadmin
+30,[bro.ooo](http://bro.ooo),2015-11-30 23:48:38+00:00,cxii1nm,1.0,t3_3uw8r6,13712.0,funny
+31,"I know what big data usually refers to, just never heard any describe it as a field. ",2015-11-24 01:16:20+00:00,cxauf6m,5.0,t1_cxasfqn,3235.0,personalfinance
+32,"""Big Data""?",2015-11-24 00:13:46+00:00,cxas4cg,3.0,t1_cxare4p,1201.0,personalfinance
+33,Check out the ELK stack,2015-10-27 03:54:21+00:00,cwe8k0s,1.0,t3_3qdhec,1311.0,sysadmin
+34,"The technical details section mentions mixing queries, but does anyone know how this works? Are my searches proxied through somewhere else or do they still go direct to search engines like google / bing etc?",2015-10-25 19:38:42+00:00,cwci6ef,1.0,t3_3phga4,457162.0,selfhosted
+35,A GPS server with a pool a stratum 1 pool,2015-10-24 02:10:52+00:00,cwarmlf,1.0,t3_3pyy52,9154.0,sysadmin
+36,"I tried, it was busy :(",2015-10-05 04:01:11+00:00,cvolcaw,2.0,t1_cvol9ae,157.0,rickandmorty
+37,oh you,2015-10-04 18:52:53+00:00,cvo1ks1,2.0,t1_cvntc2z,12982.0,sysadmin
+38,this guy^,2015-09-25 17:45:00+00:00,cvdyydl,4.0,t1_cvd6d1g,64828.0,gifs
+39,Showoff,2015-09-24 05:23:13+00:00,cvca1xy,1.0,t3_3m5oxd,5500.0,gifs
+40,find -mtime +7 -type f -exec gzip {} \;,2015-09-23 05:49:43+00:00,cvb39i0,2.0,t1_cvaul30,18077.0,sysadmin
+41,Jira is not a ticketing system.,2015-09-23 04:12:26+00:00,cvb1291,2.0,t1_cvaac4k,43949.0,sysadmin
+42,Isn't this a type of CSRF?,2015-09-17 04:00:13+00:00,cv4cj2h,1.0,t3_3l7edb,32821.0,InternetIsBeautiful
+43,My first junior mistake was fat fingering crontab -e to crontab -r,2015-09-15 02:43:33+00:00,cv1x5h2,1.0,t3_3kz84h,9787.0,sysadmin
+44,EMC unisphere is the reason I drink,2015-09-12 18:53:52+00:00,cuz83w8,2.0,t1_cuywd80,25351.0,sysadmin
+45,They require sacrifices. ,2015-09-09 22:24:39+00:00,cuw475z,4.0,t1_cuw0h9n,5944.0,sysadmin
+46,The application servers are all ritualized in VMware,2015-09-09 17:45:27+00:00,cuvtbu4,2.0,t1_cuvhduk,21434.0,sysadmin
+47,How is permitting access to an unused IP or port a security flaw?,2015-09-09 03:44:01+00:00,cuv8of8,2.0,t1_cuv7wn1,1493.0,sysadmin
+48,"These ports are not reachable by the public. 
+
+We build generic hosts in the DMZ when the hardware becomes available. The apps can be installed and set up whenever a new client is onboarded. Either the port will be used once the app is running or it won't be up. It's not exactly a security risk.",2015-09-09 03:42:18+00:00,cuv8mmq,2.0,t1_cuv8g8q,352.0,sysadmin
+49,"I understand their view, it's just not practical. We have hundreds of servers in the DMZ, the vast majority of which run this application. ",2015-09-09 03:38:31+00:00,cuv8iif,2.0,t1_cuv82ud,841.0,sysadmin
+50,Oops. Maybe I'm gender-fluid.,2015-08-30 22:10:47+00:00,cul6flw,2.0,t1_cul64k0,564.0,relationships
+51,"Thanks, that's what I said.",2015-08-30 20:48:37+00:00,cul3po0,2.0,t1_cul39k3,798.0,relationships
+52,I use a laundry service that picks up and returns it. I've had things go missing and random socks before but I guess she doesn't believe me.,2015-08-30 20:48:21+00:00,cul3pcl,2.0,t1_cul3czm,610.0,relationships
+53,A friend who works first shift at NYSE,2015-07-09 03:54:56+00:00,csx1spg,4.0,t1_cswz8p5,4516.0,sysadmin
+54,NYSE upgraded part of their matching engine last night. It had to be rolled back. ,2015-07-08 23:30:39+00:00,cswsnja,2.0,t1_cswjn5q,14054.0,sysadmin
+55,That's not how trading systems work. Once they're halted regulatory and compliance agencies get involved and it takes time before they can open again.,2015-07-08 23:29:19+00:00,cswslue,3.0,t1_cswkwxa,12167.0,sysadmin
+56,That sounds more like a hypervisor or driver issue than a SAN issue,2015-07-05 22:27:22+00:00,cst7rng,6.0,t1_cst6vol,1705.0,sysadmin
+57,"&gt; SANs are just a nightmare waiting to happen
+
+Seriously?",2015-07-05 21:15:06+00:00,cst5ilw,4.0,t1_cst4b42,2301.0,sysadmin
+58,"Ah, we're configured so our servers noticed the one second offset from the reference and slewed to adjust",2015-07-02 05:36:49+00:00,cspl441,4.0,t1_csoc9o2,92364.0,sysadmin
+59,Why shut down ntp?,2015-07-01 03:37:47+00:00,csobo8r,2.0,t1_cso668j,12077.0,sysadmin

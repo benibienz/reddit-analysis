@@ -1,0 +1,160 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-09-07 17:10:08+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/51mc93/nasm_a_mov_gives_an_invalid_ineffective_address/,False,"could someone please explain me why this gives an
+
+    error: invalid effective address
+
+at line 48 (aka.: ""mov al, [buffer+cl]"")?
+
+From what I know, it should just move the value at the nth position at the buffer to al, but for some reason fails.
+
+
+    %define STDOUT 1
+    %define STDIN 2
+    %define SYS_EXIT 1
+    %define SYS_WRITE 4
+    %define SYS_READ 3
+    %define BUF_LEN 256
+
+    section .bss
+      buffer resb BUF_LEN
+
+    section .text
+      global _start
+
+    _start:
+      mov eax, SYS_READ
+      mov ebx, STDIN
+      mov ecx, buffer
+      mov edx, BUF_LEN
+      int 0x80
+
+      call calc_len
+
+      mov eax, SYS_WRITE
+      mov ebx, STDOUT
+      mov ecx, buffer
+      int 0x80
+
+      mov eax, SYS_WRITE
+      mov ebx, STDOUT
+      mov ecx, '\n\r'
+      mov edx, 2
+      int 0x80
+
+      jmp _start
+
+      mov eax, SYS_EXIT
+      mov ebx, 0
+      int 0x80
+
+    calc_len:
+
+      mov cl, -1
+      xor edx, edx
+
+      loop_start:
+
+      inc cl
+      mov al, [buffer+cl]
+      cmp al, 0
+      jp done
+      inc edx
+      cmp cl, 255
+      jnp loop_start
+
+      done:
+
+      ret",learnprogramming,[NASM] a mov gives an invalid ineffective address,https://www.reddit.com/r/learnprogramming/comments/51mc93/nasm_a_mov_gives_an_invalid_ineffective_address/
+1,2016-08-29 11:55:23+00:00,bsdu.bandcamp.com,https://www.reddit.com/r/listentothis/comments/504n1m/bsdu_crush_on_u_hiphop_1993/,False,,listentothis,bsd.u - crush on u [hiphop] (1993),https://bsdu.bandcamp.com/track/crush-on-u
+2,2016-07-29 20:36:11+00:00,self.rust,https://www.reddit.com/r/rust/comments/4v8p99/first_proper_rust_program_would_love_if_someone/,False,"So yeah, as the title says, after reading the rust book and a few tutorials I finally progressed from the ""hello, world"" level to making something that actually does something, but I'm unsure if I wrote it correctly (aka.: following good practices, using things the way they were meant to be used, etc.) and would love is someone had a look.
+
+Thanks in advance. :)
+
+https://github.com/HyperWind/rust-life",rust,"First proper rust program, would love if someone had a look at it",https://www.reddit.com/r/rust/comments/4v8p99/first_proper_rust_program_would_love_if_someone/
+3,2016-07-21 17:02:14+00:00,wilwagner.bandcamp.com,https://www.reddit.com/r/listentothis/comments/4ty0qk/wil_wagner_laika_folk_2013/,False,,listentothis,Wil Wagner - Laika [folk] (2013),https://wilwagner.bandcamp.com/track/laika
+4,2016-05-25 19:59:02+00:00,i.imgur.com,https://www.reddit.com/r/circlejerk/comments/4l1k5x/sleep_tight_pizza/,False,,circlejerk,"Sleep tight, Pizza.",http://i.imgur.com/5JI91k7.jpg
+5,2016-05-22 12:18:49+00:00,youtube.com,https://www.reddit.com/r/Music/comments/4kic2d/minor_victories_scattered_ashes_song_for_richard/,False,,Music,Minor Victories - Scattered Ashes (song for Richard) [Alternative Rock],https://www.youtube.com/watch?v=FGFbZckK7Eo
+6,2016-04-22 20:36:29+00:00,youtube.com,https://www.reddit.com/r/anime/comments/4g0dl8/digibro_on_how_hayao_miyazaki_maps_a_setting/,False,,anime,Digibro on how Hayao Miyazaki maps a setting [Spirited Away Spoilers],https://www.youtube.com/watch?v=SSOZu8Ls7Qs
+7,2016-04-18 05:23:02+00:00,self.CasualConversation,https://www.reddit.com/r/CasualConversation/comments/4fadkl/weekend_stories_and_fuckups/,False,[removed],CasualConversation,Weekend stories and fuckups,https://www.reddit.com/r/CasualConversation/comments/4fadkl/weekend_stories_and_fuckups/
+8,2016-04-11 20:48:54+00:00,soundcloud.com,https://www.reddit.com/r/listentothis/comments/4ecpia/イツエ_さよならまぼろし_rock_2014/,False,,listentothis,イツエ - さよなら、まぼろし [rock] (2014),https://soundcloud.com/itsue/b43wtlva4jnx
+9,2016-04-10 16:24:46+00:00,youtube.com,https://www.reddit.com/r/anime/comments/4e6ej9/whats_in_an_op_erased_spoilers/,False,,anime,What's in an OP? - ERASED [spoilers],https://www.youtube.com/watch?v=XjzW81ucoaM
+10,2016-04-07 06:32:34+00:00,self.IWantToLearn,https://www.reddit.com/r/IWantToLearn/comments/4dpvxb/iwtl_how_to_write_songs/,False,"I've got a lot of bottled up emotion I want to let out and I'd rather do it through music than drinking, drugs, etc.
+
+I want to achieve something similar to Car Seat Headrest's sound with a bit of MGMT and Pink Floyd mixed in.
+
+I can play the guitar and just a bit of piano and know most of the basics, probably.
+
+Thanks in advance.",IWantToLearn,IWTL how to write songs,https://www.reddit.com/r/IWantToLearn/comments/4dpvxb/iwtl_how_to_write_songs/
+11,2016-04-03 16:13:34+00:00,youtu.be,https://www.reddit.com/r/anime/comments/4d6pn8/fight_of_the_century_digibro_vs_mothers_basement/,False,,anime,"Fight of the century, digibro vs Mother's Basement on ERASED [major spoilers]",https://youtu.be/zmdIcr2C39g
+12,2016-03-23 13:03:30+00:00,youtube.com,https://www.reddit.com/r/Music/comments/4bmd2r/bright_eyes_a_perfect_sonnet_indie_rock/,False,,Music,Bright Eyes - A Perfect Sonnet [Indie Rock],https://www.youtube.com/watch?v=QXYM6-X8c3o
+13,2016-03-21 11:09:01+00:00,youtube.com,https://www.reddit.com/r/anime/comments/4bbuch/goatjesus_rants_about_erased_pt_4_ep_79/,False,,anime,GoatJesus rants about ERASED pt. 4 [Ep. 7-9],https://www.youtube.com/watch?v=Qqh4YSPFAG4
+14,2016-03-14 13:59:40+00:00,soundcloud.com,https://www.reddit.com/r/listentothis/comments/4ad6n5/atlas_shells_hiphopdowntempo_2015/,False,,listentothis,atlas -- shells [hiphop/downtempo] (2015),https://soundcloud.com/atlas/shells
+15,2016-02-23 14:32:03+00:00,youtube.com,https://www.reddit.com/r/Music/comments/476tkd/joywave_bad_dreams_indie/,False,,Music,Joywave - Bad Dreams [Indie],https://www.youtube.com/watch?v=lc7SwI18KBo
+16,2016-02-23 14:30:16+00:00,youtube.com,https://www.reddit.com/r/listentothis/comments/476tab/joywave_bad_dreams_indie_2015/,False,,listentothis,Joywave - Bad Dreams [indie] (2015),https://www.youtube.com/watch?v=lc7SwI18KBo
+17,2015-12-20 00:15:15+00:00,i.imgur.com,https://www.reddit.com/r/me_irl/comments/3xiuui/me_irl/,False,,me_irl,me_irl,https://i.imgur.com/0jjUKsq.png
+18,2015-12-13 20:20:43+00:00,i.imgur.com,https://www.reddit.com/r/me_irl/comments/3wosub/me_irl/,False,,me_irl,me_irl,http://i.imgur.com/W1f3RzK.gifv
+19,2015-11-15 01:06:56+00:00,soundcloud.com,https://www.reddit.com/r/listentothis/comments/3sug6l/adustam_lust_for_summer_blues_experimental/,False,,listentothis,adustam -- Lust for summer blues [experimental / Psychedelic] (2010),https://soundcloud.com/adustam/lust-for-summer-blues-1
+20,2015-11-07 16:53:30+00:00,imgur.com,https://www.reddit.com/r/photoshopbattles/comments/3rwjs5/psbattle_mlady_kid/,False,,photoshopbattles,PsBattle: M'lady kid,http://imgur.com/RnOlB2W
+21,2015-09-13 13:46:05+00:00,animatorexpo.com,https://www.reddit.com/r/anime/comments/3ks698/a_followup_to_the_last_teddyloids_and_daokos/,False,,anime,"A follow-up to the last Teddyloid's and Daoko's music video ""ME!ME!ME!"" titled ""Girl""",http://animatorexpo.com/girl/
+22,2015-09-04 12:46:05+00:00,self.windowsphone,https://www.reddit.com/r/windowsphone/comments/3jm2ts/lumia_625_behaving_strangely_after_digitizer/,False,"I recently replaced the digitzer (aka. the touch screen) on my Lumia 625, everything seemed fine, except, when I tried exiting out of an app, the front buttons didn't respond, instead, as I later found out, the phone supposedly registers them as clicking the lower part of the touch screen and, obviously, that's kinda problematic.
+
+So, does anyone have some clues on what might be causing that and how to fix it?
+Any help would be appreciated.
+
+Ps. I tried resetting it, didn't work.",windowsphone,Lumia 625 behaving strangely after digitizer replacement,https://www.reddit.com/r/windowsphone/comments/3jm2ts/lumia_625_behaving_strangely_after_digitizer/
+23,2015-09-01 21:51:55+00:00,poorlydrawnlines.com,https://www.reddit.com/r/me_irl/comments/3j9x4u/me_irl/,False,,me_irl,me irl,http://poorlydrawnlines.com/wp-content/uploads/2015/06/good-boy.png
+24,2015-08-29 21:04:33+00:00,iamthekidyouknowwhatimean.bandcamp.com,https://www.reddit.com/r/Music/comments/3ivvy7/iamthekidyouknowwhatimean_run_electronic/,,,Music,IAMTHEKIDYOUKNOWWHATIMEAN - Run [electronic],https://iamthekidyouknowwhatimean.bandcamp.com/track/run
+25,2015-08-29 00:47:49+00:00,iamthekidyouknowwhatimean.bandcamp.com,https://www.reddit.com/r/listentothis/comments/3ismei/iamthekidyouknowwhatimean_run_electronic_2015/,,,listentothis,IAMTHEKIDYOUKNOWWHATIMEAN - Run [electronic] (2015),https://iamthekidyouknowwhatimean.bandcamp.com/track/run
+26,2015-08-11 15:54:51+00:00,imgur.com,https://www.reddit.com/r/funny/comments/3glt2q/my_brother_said_this_should_generate_infinite/,,,funny,My brother said this should generate infinite water.,http://imgur.com/DvJy9eA
+27,2015-07-22 22:25:44+00:00,self.anime,https://www.reddit.com/r/anime/comments/3e94ly/creepy_anime_endings_and_openings_and_why_are/,,"There have been probably enough happy and cheerful or sad and emotionally tugging anime openings and endings to fill a few oceans, but one of the strongest human emotions, fear, rarely gets used, even if it [would achieve unmatched results in crafting the feeling and the atmosphere of a show](https://vimeo.com/69164083), so why do you think fear, as a main driving force in an OP or ED, gets used so rarely?
+
+Also, while we're on the subject, what are, in your opinion, some of the creepiest anime openings and endings?",anime,Creepy anime endings and openings and why are there so little of them?,http://www.reddit.com/r/anime/comments/3e94ly/creepy_anime_endings_and_openings_and_why_are/
+28,2015-07-16 23:38:14+00:00,media.giphy.com,https://www.reddit.com/r/me_irl/comments/3dkcjd/me_irl/,,,me_irl,me irl,http://media.giphy.com/media/3qYZ2RnKW6veM/giphy.gif
+29,2015-07-13 14:49:12+00:00,soundcloud.com,https://www.reddit.com/r/listentothis/comments/3d4r5i/sinh_early_spring_ft_masego_chillhop_chilled/,,,listentothis,.sinh - Early Spring (ft. masego) [chillhop / chilled],https://soundcloud.com/sinhbeats/early-spring
+30,2015-07-04 19:32:27+00:00,self.anime,https://www.reddit.com/r/anime/comments/3c4po4/obvious_spoilerswhy_do_some_of_you_like_school/,,"Being a pretty new user, I don't know if there was a thread like this before or not, but I just had to get this of my chest.
+
+------
+
+
+Some background:
+
+School days is an anime I watched pretty early in my anime watching career, as it was recommended to me by one of my anime watching friends when I was just discovering the romance genre.
+
+I went into it pretty much blind, having only known that it's kinda heavy on the drama aspect.
+
+-------
+
+My thoughts on it:
+
+&lt;rant&gt;
+
+It's probably one of the worst shows I've laid my eyes on.
+
+None of the characters had any common sense and seemed so shallow and two dimensional, that a paper cut-out would be jealous and our MC-kun was probably the densest, most senseless dickhead to grace the planet earth.
+
+The plot was no better, it was filled with overly melodramatic and forced plot elements that happened because of the characters' own incompetence and could've been avoided if someone had grown a brain and our dense dickhead MC-kun just let Kotonoha know that he doesn't want to go out with her anymore.
+
+The only semi-redeeming element was the ending, but even that came of as really edgy.
+
+&lt;/rant&gt;
+
+Now, with that off my chest, I ask you dear reader, if School Days is an anime that you enjoyed, please explain in detail what did you find in it, that I didn't.
+
+**Note:** Resubmitted this thread with a clarified title as many people were misinterpreting it.",anime,[obvious spoilers]Why do some of you like school days so much?,http://www.reddit.com/r/anime/comments/3c4po4/obvious_spoilerswhy_do_some_of_you_like_school/
+31,2015-06-27 17:17:50+00:00,i.imgur.com,https://www.reddit.com/r/bicycling/comments/3bbj3g/today_is_a_tragic_day/,,,bicycling,Today is a tragic day.,http://i.imgur.com/DBd5Zgf.jpg?1
+32,2015-06-22 14:03:51+00:00,self.sfml,https://www.reddit.com/r/sfml/comments/3apmtp/this_just_doesnt_work/,,"I've chosen SFML as a base for an upcoming game project as it seemed easier and more feature-complete than SDL, but I just can't get it to work!
+I've tried several different versions, including the default one in ubuntu repositories, but none of them worked properly.
+All versions, when trying to run any program throw an invalid pointer core dump.
+
+    *** Error in `./test': free(): invalid pointer:
+    0x0000000002401988 ***
+    [1]    24198 abort (core dumped)  ./test
+
+I mean, even the provided examples and the one on the main page do this.
+
+I've been using gcc/g++ version 5.1.1 x86_64 version and compiling them using this command:
+
+    g++ test.cpp -o test -I lib/sfml-x64/include/ -L lib/sfml-x64/lib -lsfml-window -lsfml-system -lsfml-graphics
+
+Also, I traced the problem to window initialization, but I still can't figure out why it doesn't work.
+",sfml,this just doesn't work!!,http://www.reddit.com/r/sfml/comments/3apmtp/this_just_doesnt_work/

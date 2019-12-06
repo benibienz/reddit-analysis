@@ -1,0 +1,1779 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Unlike many people, I'd recommend you to start solving problems and then moving onto diving into programming languages later, because the choice of programming language doesn't really matter, it's the problem solving and research skills that are important. I'd recommend solving problems from (project euler)[https://projecteuler.net] and just choosing a programming language that looks interesting (take a look at https://learnxinyminutes.com).",2016-10-08 09:37:25+00:00,d8j1n9d,1,t3_56ei66,33820,IWantToLearn
+1,Sounds like autumn... In a really awesome way...,2016-09-22 16:47:08+00:00,d7xngze,1,t3_53zdm3,6157,indieheads
+2,"Didn't even know, thanks :D",2016-09-07 18:58:55+00:00,d7d5kcw,2,t1_d7d2fah,4112,learnprogramming
+3,go wild: http://www.vst4free.com/,2016-09-05 21:06:53+00:00,d7aovlg,1,t3_51am6n,11745,WeAreTheMusicMakers
+4,"&gt; Green apple juice? is that any different than normal apple juice? 
+
+Probably not, but at least to me, the juice feels a bit softer and less sweet.
+
+And yeah, it's pretty much an appletini, but the ratios are a bit different. :D
+",2016-08-10 11:08:38+00:00,d6bnkzx,3,t1_d6b5j8r,39015,CasualConversation
+5,"I usually run 1 part of vodka to 2 parts of green apple juice.
+
+Easy, fast and goes down good. :)",2016-08-09 23:12:43+00:00,d6b2tn7,1,t3_4wyxtg,2443,CasualConversation
+6,"Thanks, will do.",2016-07-30 10:08:21+00:00,d5x1145,2,t1_d5wg619,44899,rust
+7,"&gt; I would also name the function something more descriptive, like count_neighbors. Having forgotten the rules of the game of life, it took me a while to figure out what the function was doing.
+
+Never was good at naming, sorry.
+
+&gt; Is there any reason why cells is a HashSet? It seems to me that something more matrix-like would be a better representation -- if nothing else, it would give you O(1) neighbor-checking instead of O(n).
+
+Funnily enough I chose a HashSet for performance reasons, as it's a lot quicker to search for a value in a HashSet than, lets say, a Vector (plus, no need to check for repeating cells) and you don't need to store and iterate through a lot of values like in a matrix, just having the living cells is enough. Also, the neighbor-checking algorithm could probably be rewritten to have a constant time, as searching for a value in a HashSet is an O(1) operation and all you need to do to is to check if the adjacent cells exist in the HashSet, but I'll work on that later. :p
+
+&gt; I've just now noticed that there is also flicker once there's a decent number of cells in the game. It also takes up a full core of my processor, even if there are no living cells. A sleep each cycle should fix this second issue; I think using a matrix (or 2d array, or Vec that you treat as a 2d array or whatever) of bools for the cells instead of a HashSet would fix a lot of your performance issues. Printing, then, would just be a matter of iterating over the matrix, and painting either ""@"" or ""."" depending on whether it's true or false.
+
+Hmm, strange, I thought I solved the flickering issue by only having the screen redrawn after an update, gonna need to look into that one. As for the performance, as I've said before, I think it would be more efficient to print only the living cells.
+
+Anyways, thanks for the feedback, much appreciated. :)",2016-07-30 01:13:06+00:00,d5wnxr0,2,t1_d5wiloq,9026,rust
+8,"Thanks, gonna look over it tomorrow as there were some things I was unfamiliar with and it's getting rather late. :D",2016-07-30 00:07:55+00:00,d5wlqtu,2,t1_d5wiryp,4833,rust
+9,What's your favourite drink?,2016-07-22 16:05:01+00:00,d5mhc5w,1,t3_4u394m,2839,IAmA
+10,"Well, the group is named after the galaxy, so you weren't far off, in a way, kinda.",2016-07-10 10:30:16+00:00,d56j37f,3,t1_d569jq1,25646,AskReddit
+11,"Yeah, it's a beautiful album.
+
+My faves form it are either In Church, the aforementioned Run Into Flowers or Dead Cities, Red Seas and Lost Ghosts, but, to be honest, almost every track is amazing.",2016-07-09 23:44:22+00:00,d562d1c,3,t1_d561bp3,1850,AskReddit
+12,"You probably meant https://www.reddit.com/r/musicwallpapers, because /r/musicalwallpapers doesn't really exist as of yet :/
+
+For my wallpapers I either download a cover and edit it with gimp or google ""[bandname] [album] wallpaper"" and that  usually turns up something appropriate.",2016-07-09 23:01:51+00:00,d560xlb,3,t1_d55z4gq,3212,AskReddit
+13,is this bird language?,2016-07-09 18:14:34+00:00,d55qxja,1,t3_4s1czg,1729,indieheads
+14,"http://i.imgur.com/tXhHlZQ.jpg
+
+m83 is pretty cool",2016-07-09 17:54:39+00:00,d55q8kk,1,t3_4s0upj,7276,AskReddit
+15,"Teens of Style and Teens of Denial by Car Seat Headrest,
+
+Daydream Nation by Sonic Youth,
+
+Hozier by, well, Hozier,
+
+Light up Gold and Human Performance by Parquet Courts,
+
+An Awesome Wave by Alt-J (aka. Breezeblocks on repeat)
+",2016-06-26 22:21:29+00:00,d4p3bie,1,t3_4pym3q,19292,CasualConversation
+16,"Car Seat Headrest - Boxing Day
+
+10 minutes in...",2016-06-25 20:31:16+00:00,d4nvogr,1,t3_4ptm6x,8773,CasualConversation
+17,"&gt; Car Seat Headrest - Unforgiving Girl
+
+fight me",2016-06-21 22:44:27+00:00,d4imzw7,2,t1_d4hyq5j,31522,indieheads
+18,"Have a go at it, can't see how it'll do any harm. These books should especially be beneficial if you already know a bit of grammar, but need a push from the vocabulary side.
+
+Also, bring a few tissues, as stories by Jonas Biliūnas can be absolutely heart-wrenching.",2016-06-17 14:06:27+00:00,d4d0tzs,1,t3_4oid9m,18275,lithuania
+19,"Wot the fok did ye just say 2 me m8? i dropped out of newcastle primary skool im the sickest bloke ull ever meet &amp; ive nicked ova 300 chocolate globbernaughts frum tha corner shop. im trained in street fitin' &amp; im the strongest foker in tha entire newcastle gym. yer nothin to me but a cheeky lil bellend w/ a fit mum &amp; fakebling. ill waste u and smash a fokin bottle oer yer head bruv, i swer 2 christ. ya think u can fokin run ya gabber at me whilst sittin on yer arse behind a lil screen? think again wanka. im callin me homeboys rite now preparin for a proper scrap. A roomble thatll make ur nan sore jus hearin about it. yer a waste bruv. me crew be all over tha place &amp; ill beat ya to a proper fokin pulp with me fists wanka. if i aint satisfied w/ that ill borrow me m8s cricket paddle &amp; see if that gets u the fok out o' newcastle ya daft kunt. if ye had seen this bloody fokin mess commin ye might a' kept ya gabber from runnin. but it seems yea stupid lil twat, innit? ima ****e fury &amp; ull drown in it m8. ur ina proper mess knob.",2016-06-09 10:33:28+00:00,d42488i,1,t3_4n8p6n,30808,videos
+20,1 is actually just 0.(9) and vice versa.,2016-05-25 21:20:42+00:00,d3jlzk7,1,t3_4kz3di,36953,AskReddit
+21,"Nobody understands what's going on. The ending makes everyone cry, because the mc has grown so much alongside you.",2016-05-17 07:40:35+00:00,d38jun7,1,t3_4joo2i,19789,anime
+22,"I've listened to Teens of Denial, AMA.",2016-05-04 17:13:21+00:00,d2snhdi,1,t3_4h2htc,403441,indieheads
+23,Emacs.,2016-04-30 19:44:47+00:00,d2nmwe7,1,t3_4h5m3w,4020,linux
+24,"My grandma used to make kvass out of it.
+
+If I recall correctly, it was 5l of birch sap to 100g of dried whole grain rye bread and 100-200g (depending on how strong you want it to be) of honey. The taste was similar to a weak beer with a much more of a fruity flavour and a hint of sweetness. She used to put the bread in a cloth bag to keep the sap from going bad and kept it like that in a warm dark room for about a week.
+
+There are also some interesting recipes [here](http://www.bushcraft.lt/2012/03/berzu-sulos-rauginimas/), but I can't really translate them right now 'cuz I've got work tomorrow, sorry. :(",2016-04-28 20:36:41+00:00,d2l69y5,1,t3_4grbjs,74970,lithuania
+25,"I feel like that every day to be honest, but can't let myself slack around so I force myself to go. I might have a problem.",2016-04-25 22:13:15+00:00,d2h4zbt,1,t3_4gdhcl,28791,CasualConversation
+26,"They said it was coming in 10 years, it's been 13...",2016-04-25 09:28:51+00:00,d2gcmou,2,t1_d2g3mi7,23829,science
+27,"Getting rid of this god damn fucking cold, Jesus fucking Christ.",2016-04-24 15:03:19+00:00,d2fdyoj,1,t3_4g7fwz,23239,AskReddit
+28,"Well, better safe than sorry. You'll never know what makes people tick.",2016-04-22 22:20:39+00:00,d2dmv0z,3,t1_d2dk533,4318,anime
+29,"Also, *very* minor spoilers on Garzey's Wing and Future Boy Conan, just pointing that out even if it doesn't mean much.",2016-04-22 20:48:56+00:00,d2djco5,1,t3_4g0dl8,747,anime
+30,[digi_irl](https://www.youtube.com/watch?v=wGlBwW7f5HA),2016-04-19 21:13:11+00:00,d29ep7b,2,t1_d28nac8,46475,anime
+31,"*&gt;5 hours*
+
+My god
+
+[](#watashiworried)",2016-04-19 12:36:31+00:00,d28s0cs,1,t3_4ffyuc,29139,anime
+32,"
+ * LCD Soundsystem (!!!)
+ * M83
+ * Of Monsters and Men
+ * Parov Stelar
+ * CHVRCHES
+ * Deerhunter
+ * Disclosure
+ * Guns 'n Roses
+ * Beach House
+ * Death Grips
+ * Flume
+ * Joywave
+ * Major Lazer",2016-04-15 21:36:34+00:00,d24j3ur,1,t3_4ex8y2,21783,Music
+33,"""But it’s not just the boys of The Red Pill who need to begin again to learn from the fiasco that is men and women. It’s everybody. It’s the whole world.""
+
+Including the author, very much so, in fact.",2016-04-14 21:32:02+00:00,d235oz5,1,t3_4eqsw4,34165,KotakuInAction
+34,*You'll cowards don't even smoke crack.*,2016-04-14 20:52:05+00:00,d233r4g,2,t1_d21l1nn,90468,anime
+35,[Why do you make me do this? Why...](http://i.imgur.com/WsGGkdd.png),2016-04-14 20:46:28+00:00,d233har,1,t3_4ervlj,16355,anime
+36,Is this the eva rebuild 3.0 + 1.0 trailer?,2016-04-14 19:23:13+00:00,d22zfhw,1,t3_4eqip2,32220,anime
+37,"I think that's a rather dismissive opinion of anime openings. 
+
+Some of them have excellent directing and reveal a lot about the characters/setting, form a certain atmosphere, allude to plot details (or pull a macguffin and twist your expectations) and form your judgment even before watching the show or knowing the aformentioned characters (ex.: spice and wolf, serial experiments lain, death parade, higurashi, evangelion and the list goes on) and can pretty much spoil the whole show if you look deep enough (Mirai Nikki).
+
+Heck, openings could even be considered a medium of their own in a way. ",2016-04-10 21:48:42+00:00,d1xq9h0,2,t1_d1xousp,2161,anime
+38,"Good point, but I still think that might be Jun, because the second OP, at least how I view it, [spoilers for Erased, obviously](/s ""happens in the other timeline where the murders/kidnapping didn't happen and Jun Shiratori wasn't accused of being the perpetrator, that also covers why Satoru is absent, because he, at the time of these shots, was in a coma and didn't just magically disappear"").",2016-04-10 21:05:24+00:00,d1xokmt,2,t1_d1xo11p,865,anime
+39,"You really should, some newer shows have put out really amazing EDs.
+
+My favourites would be the ones from [Shinsekai Yori](https://www.youtube.com/watch?v=LV31EHwtayo&amp;nohtml5=False), [The Tatami Galaxy](https://www.youtube.com/watch?v=ewICfFjc4CI&amp;nohtml5=False), [Eden of the East](https://www.youtube.com/watch?v=9896cYPaFf0), [FLCL](https://www.youtube.com/watch?v=xCKtq_hANrw) or any of the Mushishi EDs, really.",2016-04-10 20:49:15+00:00,d1xnyq4,5,t1_d1xl9lj,4180,anime
+40,"the most recent one:
+
+https://youtu.be/KSwbnUQJGnA?t=33s ^^^^^have ^^^^^fun
+
+also most of Makoto Shinkai's works, especially 5 ~~feels~~ centimeters per second.",2016-04-10 19:54:58+00:00,d1xlul3,1,t3_4e6fv4,12094,anime
+41,"That was really cool, I also like how that scene clues us in about the *characters* of the characters, for example, how Kenya is calm, seemingly cold but also really friendly or Hiromi is shy and feels a bit out of place most of the time.",2016-04-10 16:48:11+00:00,d1xepmg,2,t1_d1xe369,1033,anime
+42,"Yeah, he gave it a 9 iirc. Can't really remember his exact reasoning though as I was listening to the podcast just as background noise while I was working.",2016-04-10 16:42:39+00:00,d1xeif1,2,t1_d1xe5pd,584,anime
+43,The ride never ends...,2016-04-10 16:26:39+00:00,d1xdxi3,1,t3_4e6ej9,113,anime
+44,"My try at humor, don't judge me.",2016-04-03 16:22:37+00:00,d1o6wae,2,t1_d1o6oz6,323,anime
+45,[mfw.](https://www.youtube.com/watch?v=-H_zeJ2c3Eg),2016-04-01 22:52:15+00:00,d1mdrmk,1,t3_4cspdu,84088,aprilfools
+46,"Gotta love them single sided opinions.
+Great post, 5/7.",2016-04-01 22:28:11+00:00,d1mcw3c,1,t3_4cspdu,82644,aprilfools
+47,Let the money printing press roll.,2016-03-28 23:44:38+00:00,d1h0edq,1,t3_4cbzv4,11820,anime
+48,Reminds me of https://www.youtube.com/watch?v=Qwr6_015ROo,2016-03-27 18:14:23+00:00,d1ffxhd,1,t3_4c2lwk,80385,funny
+49,"It was ok, I guess.
+
+Strong 7 to a weak 8.
+
+[](#imdone)",2016-03-24 22:11:31+00:00,d1ccgy7,1,t3_4bsrs9,14469,anime
+50,"Can agree, ignorance is bliss after all.
+
+[](#cup1)",2016-03-21 11:29:51+00:00,d17q22c,4,t1_d17pxrf,414,anime
+51,"He does bring up some good points though, even if he can be a ***bit*** nitpicky.",2016-03-21 11:21:32+00:00,d17pwvi,2,t1_d17psio,417,anime
+52,"[](#feelsgoodman)
+
+9/10 would comment face again",2016-03-21 10:01:41+00:00,d17ooyy,1,t3_4babw1,30400,anime
+53,"The needle drop and digi in a podcast?
+Dude, what?",2016-03-20 21:26:07+00:00,d174c8r,1,t3_4b8mxe,10729,anime
+54,monday,2016-03-19 22:53:23+00:00,d164qe1,1,t3_4b4jni,10146,AskReddit
+55,"GITS: Standalone complex.
+I loved what I saw (except for those miniature tank things), but watching an episode feels like completing a full length movie for some reason, it's tiresome.",2016-03-14 20:45:52+00:00,d0zsdal,1,t3_4ab60h,67553,anime
+56,"I remember there being a whole thread dedicated to this on this sub a while back and the conclusion most people came to after examining the details was that [SSY spoilers, your eyes will experience all 7 circles of hell in great detail if you haven't seen the show](#s ""the rats just stole the child and killed the characters off""), but it's still just speculation and getting closure on this would be really interesting.",2016-03-13 15:33:29+00:00,d0y9jko,2,t1_d0y6d76,7965,anime
+57,"[Geass R2 spoilers](#s ""But seriously now, did he really die?"") I mean, the show is pretty obvious with it, but with all these theories floating around I don't even know.
+
+edit: gotta have them spoilers",2016-03-13 14:54:41+00:00,d0y8fxj,3,t1_d0y842k,759,anime
+58,[What's in the bag?](http://i36.tinypic.com/aazuvc.jpg) (Code Geass spoilers),2016-03-13 14:23:48+00:00,d0y7odh,1,t3_4a87d7,6069,anime
+59,"How hard, do you think, it would be for a westerner to enter the anime industry as an animator or director (or anything else really)?",2016-03-11 00:42:35+00:00,d0vfhuj,1,t3_49r3e8,86563,IAmA
+60,Seems a lot like Usagi Drop without the ***other*** half.,2016-03-06 22:02:07+00:00,d0q0tlf,1,t3_497nfn,24930,anime
+61,"Not exactly like Shovel Knight, but LISA: The Painful is pretty cool.",2016-02-28 00:55:41+00:00,d0gdfvd,1,t3_47yyg2,5628,IndieGaming
+62,"Love2d was pretty cool from what I remember and was on the light-ish side, but I didn't really like lua that much.
+
+Libgdx is really awesome, especially when paired up with Ashley, which makes development a hell of a lot faster. The only drawback could be the memory usage, as it's based on java and the java vm sometimes likes to eat up memory, but I haven't run into that as of yet. And, yeah, the IDEs can eat memory like hotcakes, but you don't really need them. I find Atom or Emacs with a few packages as good or even better than any special IDE out there.
+
+I'd also recommend MonoGame as /u/Skopgat mentioned that he likes C#.",2016-02-15 22:53:36+00:00,d01770i,2,t1_d00g633,54976,gamedev
+63,"You should try switching to linux for a bit, had that times a hundred when I did.",2016-02-14 23:00:14+00:00,d0013ug,2,t1_czzmggo,25299,CasualConversation
+64,Llewyn Davis.10/10 would listen again.,2016-02-08 08:00:52+00:00,czs0o8i,1,t3_44nmlb,38530,AskReddit
+65,"I don't really know why, but I find [the rendition of The Shoals of Herring by Oscar Isaac](https://www.youtube.com/watch?v=XWqJZ_uiDtM) really sad. Just the theme of chasing some metaphorical dream and growing old whilst doing so rips my heartstrings out.
+
+",2016-02-04 20:00:49+00:00,cznxgg0,1,t3_4467g4,10094,CasualConversation
+66,"I was, but I was unconscious, so can't really comment on the feeling bit.",2016-01-29 16:26:04+00:00,czgicfr,1,t3_438nj6,13038,AskReddit
+67,"&gt; Candy☆Boy
+
+But who *IS* the *CANDY BOY*? ",2016-01-18 19:06:51+00:00,cz2zq2j,2,t1_cz2oacy,19154,anime
+68,"[No ^o ^^o ^o ^^o ^^^o ^^o ^o ^^o ^o ^^o ^^^o ^^^^o ^^^^^o ^^^^^^o ^^^^^^^o ^^^^^^^o ^^^^^^o ^^^^^o ^^^^o ^^^o ^^o ^o o...](https://www.youtube.com/watch?v=gVv1Su8oqvc)
+    ^^^^^^^^it's ^^^^^^^^time ^^^^^^^^to ^^^^^^^^find ^^^^^^^^another ^^^^^^^^podcast ^^^^^^^^then",2016-01-11 13:40:47+00:00,cyu04ej,1,t3_40ewug,36011,anime
+69,"Hope I'm not too late for the party as I'd like to nominate [this *Baccano!* gif](http://i.imgur.com/AyJ8ncd.gifv) and [these](http://pa1.narvii.com/5808/53fea6debd4ae84e6e4c0564961be39ca9e7dc24_hq.gif) [*Shimoneta*](http://i.imgur.com/mutYEHA.gifv) [gifs](http://0.media.dorkly.cvcdn.com/20/73/90d144c119251889319ebc533f7ba0bb.gif) and [this *Black Lagoon* gif](http://i.imgur.com/bk5VOzP.gifv).
+
+The first one could be used to (obviously) express satisfaction, the second could be a lewd version of #flyingbunsofdoom or #cokemasterrace, the rest of Shimoneta gifs for *various reasons* ( ͡° ͜ʖ ͡°) and the Black Lagoon one is obvious enough.
+
+Thx [&lt;3](http://www.pleated-jeans.com/wp-content/uploads/2015/10/wtf-anime-panties-attack.gif)",2016-01-08 10:55:55+00:00,cyqh6xx,1,t3_3zzajg,26175,anime
+70,"So wonderfully meta...
+
+[](#jibrilaww)",2016-01-06 22:42:01+00:00,cyom70h,1,t3_3zrit8,9623,anime
+71,"I know this might not be a popular opinion, but don't watch [Zetsuen no Tempest](http://myanimelist.net/anime/14075/Zetsuen_no_Tempest), unless you want some mediocre interpretations of Shakespeare's works, uninteresting characters (especially mr. non-blood-related onii-chan) and the biggest, baddest, most cringeworthy asspull during the middle part (the first climax) of the anime right out of Naruto town, the only props I can give the show is that it had a pretty interesting setting and the art and music were not bad.
+
+[My mal, please be gentle.](http://myanimelist.net/animelist/HyperWind)",2015-12-30 02:14:55+00:00,cyfoiy7,1,t3_3ylujy,83518,anime
+72,[tfw. PS2 cg](https://www.youtube.com/watch?v=4zLfCnGVeL4),2015-12-29 11:58:16+00:00,cyevhny,1,t3_3yn7nw,3318,anime
+73,Gentoo,2015-12-25 20:25:10+00:00,cyb767h,1,t3_3y6ooe,20385,linux
+74,"http://i.imgur.com/5aqYCXt.gifv
+
+No idea why.",2015-12-24 16:44:57+00:00,cya510l,1,t3_3xzmoo,80391,CasualConversation
+75,Is it just me or are their eyes a bit *wonky*?,2015-12-08 20:07:12+00:00,cxrwwo0,1,t3_3vy4pn,12166,anime
+76,[^V ^^a ^^^p ^^^^o ^^^^^r ^^^^w ^^^a ^^v ^e](https://www.youtube.com/watch?v=cU8HrO7XuiE),2015-12-03 15:14:16+00:00,cxlp3nz,3,t1_cxldqaa,33946,anime
+77,"2 late m8.  
+\**sobs silently*\*",2015-11-29 19:40:56+00:00,cxh10ky,2,t1_cxggu25,53759,anime
+78,"[Why, oh why...](http://i1.kym-cdn.com/photos/images/original/000/582/342/fed.png)",2015-11-28 00:00:10+00:00,cxf7npg,3,t1_cxemp66,46073,anime
+79,"I've watched enough hentai to know where this is going.
+
+Oh wait[...](http://i1.kym-cdn.com/entries/icons/original/000/007/839/f5753870a40ccef114a6cb88e7f48531.jpg)",2015-11-26 21:18:24+00:00,cxe2g5o,2,t1_cxdik29,50670,anime
+80,"This and [For you](http://www.youtube.com/watch?v=SJGB2r0Wy14) from Wandering Son are my favourites, shame that there isn't a longer version, but what can you do?",2015-11-19 23:51:23+00:00,cx6bfmh,2,t1_cx5o3pm,36688,anime
+81,[I need an adult.](https://www.youtube.com/watch?v=lw3LDjx__5w),2015-11-16 19:48:03+00:00,cx2edal,1,t3_3t14it,14659,anime
+82,"Now that I think about it, your version makes a ton more sense, but after watching it some more I also caught some new things.
+
+That blue thing is likely to be the [kami](https://en.wikipedia.org/wiki/Kami) of the tree, because the tree had [shimenawa](https://en.wikipedia.org/wiki/Shimenawa) on it. ([more on the subject](https://en.wikipedia.org/wiki/Yorishiro))
+
+The destruction of the shinto shrine plus the amount urban shots, as I interpret them, symbolises widening separation between humanity and nature.
+
+The girl, after finding the kami, tried to expose it to humanity, thus trying to tie the bond between humans and nature again, but the kami grew weaker as its vessel was eaten away more and more by the thing it was exposed to and eventually couldn't hold onto this world.
+
+It's a little bit harder to discern the concrete meaning of the ending, but I think it tried to say that even if it might seem too late, there's always hope and if we try harder we'll eventually live in harmony. Also, I think the weather might also hint at this as the storm and rain of the low points of the story eventually fade into a bright day.
+
+I also found [this](http://kyousannkenn.tumblr.com/post/132602485191/%E3%82%AB%E3%83%8A%E3%83%A1%E3%83%B2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6), I'm pretty sure it explains everything a bit more, but it's in Japanese, so I can't really read it.
+",2015-11-15 20:06:13+00:00,cx17zfg,3,t1_cx13yi7,6270,AnimeShortFilms
+83,"I think that thing was the spirit of that tree or something and it's death symbolised the withering of nature around humans, but anything other than that I have no idea. 
+
+At least the animation was nice.",2015-11-15 11:48:16+00:00,cx0uscn,2,t1_cx0tw5u,4405,AnimeShortFilms
+84,"Well, it's time to do the *job* again...
+
+\* *unzips* *",2015-11-05 20:33:27+00:00,cwpt6b7,1,t3_3rmc59,30012,anime
+85,"I wonder, how fast will these arrive to Lithuania.",2015-11-05 19:40:26+00:00,cwpqu8r,1,t3_3rm90x,29051,webdev
+86,I want some of that weed they were smoking.,2015-11-04 21:10:12+00:00,cwolw17,1,t3_3rhtvl,24482,anime
+87,"No...
+
+\&gt;-&gt;
+
+&lt;-&lt;",2015-11-04 15:11:11+00:00,cwo6fm9,3,t1_cwo5ftz,1658,aww
+88,tfw. That cat is older than I am.,2015-11-04 14:30:04+00:00,cwo4zir,1,t3_3rg805,37225,aww
+89,"The nearest school would probably be the best bet or sportima, but for the latter one finding people would be a problem.",2015-11-04 08:00:34+00:00,cwnxv94,1,t3_3rfsos,20708,lithuania
+90,\* *gingerly raises hand* \*,2015-11-03 21:03:12+00:00,cwnbtse,1,t3_3rdffx,14790,anime
+91,***Yuri Teasing: The Anime.***,2015-11-02 19:34:52+00:00,cwlxjmk,1,t3_3r6ziv,35174,anime
+92,"*Mononoke* (5/12)
+
+Amazing show. The art style is fresh and intriguing, the sound is eerie and the atmosphere is something I haven't seen in anime yet, also, it's probably the only anime (well, maybe apart from Higurashi, but I'd like to classify that more as a thriller) that did horror **right**. Like the last scene had me on edge for most of the time and my mind at full throttle, trying to solve and understand what's happening on the screen.
+
+The only thing I didn't like was the formatting. They could've made the episodes longer, instead of cutting the story right on the cliffhanger, but that's a minor issue.
+
+So far, at least in my opinion, *Mononoke* is a must for anyone who enjoys horror and mystery.
+
+*Magi: The Labyrinth of Magic* (4/25)
+
+Didn't really impress me that much yet. I can see the potential of the story and complexity of the setting, but it just felt like it ditched explaining and exploring it, plus giving the characters some god damn background and proper characterisation, just to get to the actiony bits. Like, literally, they cleared the dungeon, which I'd presume would be a major plotpoint and played around with killing some of some characters, to which I should've been attached or, at least, know about, in episode 3, like, Jesus, I barely know these people or what's going on and you're expecting me to keep up with that? But, thank god, things are finally slowing down in ep. 4 and an interesting plotpoint has been presented, so the show is starting to look good again.",2015-11-01 23:55:15+00:00,cwkzc30,1,t3_3r4ovg,7871,anime
+93,"He didn't answer the most important question though:
+
+*What the fuck is up with their hair??*",2015-11-01 17:07:55+00:00,cwkjllk,1,t3_3qyznn,93521,anime
+94,"Yes... No... Wait... Maybe?
+
+Agh, fuck it, just watch it the way you currently are and you should be fine.",2015-11-01 16:44:30+00:00,cwkit07,1,t3_3r23mp,34758,anime
+95,"shit...
+
+[](#mug1)",2015-11-01 16:20:24+00:00,cwki0j4,3,t1_cwkczfp,12145,anime
+96,Your waifu is not real.,2015-11-01 16:12:52+00:00,cwkhrta,1,t3_3r2hb3,19051,anime
+97,[ +1 to PTW ],2015-10-31 22:22:54+00:00,cwjvayc,1,t3_3qyk3i,34938,anime
+98,"[I really like minimalistic styles.](http://myanimelist.net/animelist/HyperWind)
+
+
+[Spooky one for the manga.](http://myanimelist.net/mangalist/HyperWind)",2015-10-31 01:12:29+00:00,cwj1b2a,1,t3_3qwu7w,2102,anime
+99,"Well, we have a new best girl on our hands.",2015-10-30 18:03:54+00:00,cwilzad,1,t3_3qv1dl,3027,anime
+100,[ Insert hype here ],2015-10-29 15:55:06+00:00,cwh96ou,1,t3_3qo6py,33820,anime
+101,That one episode from the Ghost Stories dub?,2015-10-27 22:34:45+00:00,cwf65fg,1,t3_3qh3f5,3845,anime
+102,"Same here, I'm using Manjaro with plasma 5 on my main and there hasn't been even a single cough.",2015-10-20 07:36:18+00:00,cw65z1f,3,t1_cw64k3t,4885,linux
+103,Am I the only one who didn't have problems with plasma 5? Because it sure looks that way so far.,2015-10-19 21:50:40+00:00,cw5nafk,1,t3_3pcem5,34765,linux
+104,"As a person from Eastern Europe, I can confirm.",2015-10-12 15:44:04+00:00,cvx0030,1,t3_3ocjtr,81758,videos
+105,"Protip. Don't watch it while you're high on anything, you're gonna have a bad time.",2015-10-11 20:21:42+00:00,cvw5p4r,1,t3_3oc12x,20900,anime
+106,"Try Texhnolyze, Haibane Renmei and Serial Experiments Lain, as they give off a really similar feeling.",2015-09-22 14:19:43+00:00,cva6m9l,1,t3_3luiku,65461,anime
+107,"https://www.youtube.com/watch?v=n8H7Jibx-c0
+
+[](/s ""Texhnolyze"")",2015-09-22 14:10:02+00:00,cva6aqm,1,t3_3lufhs,66116,anime
+108,"I feel ya, bro.",2015-09-17 17:55:07+00:00,cv4x5ku,2,t1_cv4vnnu,2228,anime
+109,"The usual suspects:
+Radiohead, Godspeed You! Black Emperor, Nirvana, R.E.M., Neutral Milk Hotel, The Arctic Monkeys (not so much alternative, but more on the indie side, I guess) and Pink Floyd.
+
+I also listen to some Bôa from time to time too. ",2015-09-16 18:18:22+00:00,cv3r4rn,3,t1_cv3mm4i,6633,CasualConversation
+110,"For me the manga just seemed lower in quality than the anime in general, but the thing that made it go south was the second half, and, well, I guess you already know about the second half.",2015-09-16 14:04:10+00:00,cv3h52s,3,t1_cv38sko,27639,anime
+111,"Nice one, though it could all just be boiled down to a work breaking the viewer's suspension of disbelief, thus getting the label ""*overly dramatic*"" or ""*2 deep 4 me*"", etc.
+
+Anyways, gonna wait for the next one, keep on writing! ;)",2015-09-15 20:40:13+00:00,cv2r36e,1,t3_3l2cc1,11970,anime
+112,Oh you perverted little bastard. ( ͡° ͜ʖ ͡°),2015-09-15 20:35:59+00:00,cv2qwsb,3,t1_cv2pjag,1988,anime
+113,"Usagi drop.
+
+Like seriously...",2015-09-15 19:50:09+00:00,cv2p060,1,t3_3l2mo6,4773,anime
+114,"2 movies (and another one coming out next season) with character designs from *REDJUICE* and *Egoist* doing a part of the soundtrack?
+
+2 mystery shows that might actually contain real mystery + 1 mystery short as a cherry on top?
+
+An adaptation of *One Punch Man*?
+
+And a fucking new **horror** show that might actually be fucking **scary** this time with fucking ***half-decent and really expressive animation***?
+
+[](#gintamathispleasesme)
+
+^^I ^^must ^^have ^^died ^^and ^^went ^^to ^^heaven...
+",2015-09-15 19:04:19+00:00,cv2n3zk,1,t3_3l01n6,54226,anime
+115,"Yeah, just noticed that, but it sounded really like a thing he'd make, just maybe a bit slower.",2015-09-14 12:50:15+00:00,cv12pz1,2,t1_cv0v6ey,27664,anime
+116,[](#crazyhatgirl),2015-09-13 19:36:14+00:00,cv0bqoo,1,t3_3ksq89,11390,anime
+117,"A king invited a Lithuanian, American and a Russian to his castle and proposed that the one who's able to drive through the pile of shit that had accumulated from his castle will get the hand of his daughter and his kingdom.
+
+The American brought a jeep with huge spiky tires, but unfortunately just after passing the halfway mark the jeep broke down.
+
+The Russian brought a tank, said to be the best in the republic, but, like the American's, the tank broke down at the halfway mark.
+
+The Lithuanian brought an old and worn down [Zaporozhets](https://en.wikipedia.org/wiki/Zaporozhets), and, to much surprise, he drove through without any inconvenience.
+
+When the king asked how did he do it, the Lithuanian answered:
+""As I've heard, shit doesn't stick to shit.""",2015-09-13 09:05:52+00:00,cuzvbjs,1,t3_3kpaze,45883,europe
+118,"The ""*utopia*"" called Europe, where, if you proclaim yourself as someone unrightfully treated by life, everything is given to you: the welfare is high, the housing is either cheap or completely free (given by the government, most probably) and you can just sit on your ass and enjoy the luxuries poured onto yourself and god forbid, if someone claims as much as trying to move your finger, you're completely and rightfully allowed, even encouraged to go to the streets and riot until the sky turns red from the blazing fires and the heavy smoke of the used-to-be city and then just move onto another, even more ""*utopic*"" country, with even more benefits and even less, probably non-existent at this point, responsibilities until you and your brothers in arms become nothing more than a mob of raiding barbarians, seeking for blood, but untouchable, completely rightful and just, because you were ""harmed"" by the regime of your previous country.
+
+God bless Europe.",2015-09-10 21:45:05+00:00,cux830f,1,t3_3kda3o,50146,europe
+119,Proper teachers.,2015-09-10 20:27:25+00:00,cux54qn,1,t3_3kce5z,61851,anime
+120,"Alternative, experimental, indie rock, post-rock, progressive rock, jazz, classical, hip-hop, synthpop, electronic, house and occasionally metal (sometimes you just need some *Iron Maiden* and *Metallica* in your life).",2015-09-09 20:09:23+00:00,cuvz0qa,1,t3_3k9uzf,7627,CasualConversation
+121,"Rain...
+
+That's pretty much it.",2015-09-09 18:17:15+00:00,cuvukj8,1,t3_3k8ken,18586,CasualConversation
+122,I'd go GAR for [Guts](http://vignette1.wikia.nocookie.net/berserk/images/0/09/Blackswordsman_2nd_armour.png/revision/latest?cb=20120517155750).,2015-09-09 13:57:35+00:00,cuvko8t,1,t3_3k76kp,30747,anime
+123,"I don't know, I wouldn't call them ""*pointless*"" per se, as an argument can be raised from any opinion, regardless of how ""*pointless*"" you or someone else thinks it is, because there will always be people who'll appreciate the given opinion and contribute to the discussion in some way. 
+
+I mean, reddit is all about opinions, and I think every opinion should be treated equally and not dismissed as long as it doesn't pose threat and if, for example, you don't want to contribute to said opinion, ignoring it works just as well.
+
+But that's just my view of things, I'm not saying that should be the ""*standard*"" or something, I'm just giving some food for thought.",2015-09-09 13:52:40+00:00,cuvkiit,6,t1_cuvcx5a,25706,anime
+124,"&gt; Seeing this gives a in-depth look at the intentionality of all the stylistic choices made in Kill La Kill, and should, at least in some small measure, increase one's appreciation for it. If I saw that kind of effort and creativity poured into something I disliked, I'd have some reconsiderations even if I somehow ultimately came back to the same exact opinion after rewatching it.
+
+This brings up an interesting argument though, how much external works like this can shift your view on a certain show indirectly and if they should even have any impact?
+
+&gt; It's also a totally unnecessary comment that adds nothing to any discussion of the thread's subject, which is like the definitive reason to be downvoted. Disagree?
+
+I mean, you would probably be downvoting half of reddit then...
+
+",2015-09-09 04:31:47+00:00,cuva2nl,4,t1_cuv69do,7263,anime
+125,"So... Um... I dropped *Kimi ni Todoke* after 9 episodes and *Zetsuen no Tempest* after 10... Yeah... You know, I can see those torches and pitchforks you all are holding... So... Um... Please try to be at least a little bit more gentle then, thanks...",2015-09-08 20:48:13+00:00,cuutzr0,1,t3_3k47uw,12521,anime
+126,"Cool, ain't gonna make me like *Kill la Kill* more, but still cool.
+
+Edit: I think I ***triggered*** someone.  
+
+^^^^^^^^been ^^^^^^^^waiting ^^^^^^^^to ^^^^^^^^make ^^^^^^^^this ^^^^^^^^pun ^^^^^^^^for ^^^^^^^^years, ^^^^^^^^my ^^^^^^^^life ^^^^^^^^is ^^^^^^^^complete.",2015-09-08 20:27:07+00:00,cuut7c2,1,t3_3k49lr,10558,anime
+127,"A kitten with a bow tie would probably be more threatening than that rather badly, but ironically named function, as chrome quickly throws an ""out of resources"" error at higher frequencies.
+
+The node one is better in that respect, but the thing that hinders it is the server just not being able to process the requests that quickly.",2015-09-07 20:52:05+00:00,cutrvdo,7,t1_cutqxs9,2263,anime
+128,"The [acoustic version](https://www.youtube.com/watch?v=WBff4F5egLc) is pure ear porn, I even like it more than the original.",2015-09-07 18:14:06+00:00,cutn7hh,1,t3_3jxwwo,44502,anime
+129,"Yeah, that works too, just my thing is a bit more manageable and doing it that way in node hangs my computer. :p
+
+Edit: Sorry, you were talking about the original, ignore this.
+",2015-09-07 17:56:43+00:00,cutmmta,5,t1_cutm4p9,1002,anime
+130,"JUST AFTER BEING PASSED BY MIIA, PAPI GAINS THE LEAD AGAIN!
+
+THIS IS ONE HECK OF A RACE LADIES AND GENTS, OH MY, I CAN FEEL THE TENSION IN THE AIR, THIS IS TRULY THE EVENT OF THIS CENTURY!
+
+DON'T FORGET TO PLACE YOUR BETS AT THE REGISTER AND ALSO BUY SOME POPCORN WHILE IT'S HOT!",2015-09-07 17:46:20+00:00,cutmc49,2,t1_cuthi1u,9084,anime
+131,"This function isn't even that threatening yet, as chrome (or any other browser) can only do so much, gimmie some time and I'll write a way more efficient one for node.
+
+Edit: 
+
+    var http=require(""http""),monster_girl=process.argv[2],timer_1=process.argv[3],timer_2=process.argv[4],req_made=0,spam={host:monster_girl+"".moe"",path:""/setcount""},counter={host:monster_girl+"".moe"",path:""/count""},spam_callback=function(t){t.on(""data"",function(t){t.length&gt;13&amp;&amp;req_made++}),t.on(""end"",function(){})},counter_callback=function(t){var e="""";t.on(""data"",function(t){e+=t.length&gt;13?""(unknown, bad request)"":t}),t.on(""end"",function(){console.log('total ""click"" amount: '+e+"" requests made so far: ""+req_made+"","")})};setInterval(function(){http.request(spam,spam_callback).end()},timer_1),setInterval(function(){http.request(counter,counter_callback).end()},timer_2);
+
+Just paste this in a js file and run it with node like this:
+
+    $ node monsterGirl.js (your favourite monster girl's name in lower case, ex.: papi) (a request every x ms) (status prompt every y ms)",2015-09-07 16:26:02+00:00,cutjp5v,3,t1_cutjbrm,684,anime
+132,"    function analRape(timeout) {
+        setInterval(function() {
+            $.ajax(
+                {
+                    url: ""http://papi.moe/setcount"", 
+                    success: function (result) {
+                        $(""#papi-count"").html(result);
+                    }
+                }
+            );
+        }, timeout);
+    }
+
+May the best girl win! ^^^^And ^^^^the ^^^^weakest ^^^^server ^^^^crash!",2015-09-07 16:12:33+00:00,cutj9ci,1,t3_3jz915,3919,anime
+133,"[Please, not again...](http://vignette3.wikia.nocookie.net/deathbattlefanon/images/5/5e/Lie_down_try_not_to_cry_cry_a_lot_combo_by_badflippy-d5t596e-630x322.jpg/revision/latest?cb=20150713063016)
+
+Also, gotta love that masterful cinematography and symbolism. God I love this movie...",2015-09-03 19:18:26+00:00,cupkvkl,1,t3_3jgrvi,39007,anime
+134,The film is beautiful in general.,2015-09-03 19:07:49+00:00,cupkgdg,1,t3_3jgd5m,49815,anime
+135,"&gt; It's a high school anime! That narrows it down. But really it is some sort of romance-y thing. Gotta be. Set in high school, of course. I actually quite liked that song.
+
+It's kinda romance-y, but I'd say it focuses more on the coming-of-age theme more than anything. Yeah, this song isn't bad, [but the ending one is way better.](https://www.youtube.com/watch?v=SJGB2r0Wy14) It always makes me feels-y. :p
+
+&gt;I'm scared 
+
+&gt;^a ^gay ^nurse ^alien? ^that ^actually ^isn't?
+
+Maybe... ^*Hehehehehehe...* ( ͡° ͜ʖ ͡°)
+
+&gt; It is a ... slice of drama in medieval steampunk-ish europe, about angels.
+
+You're kinda right, but this was made by Yoshitoshi ABe, so underneath there's way way more than that.
+
+&gt; What is it, actually? Because it looks neat. I would say reference overdosed comedy series, focused on western stuff, but it looks like there is some love story in there.
+
+Not trying to spoil anything, I'd say that it's mainly a slice-of-life comedy about very different people with a love story somewhere too, I definitely recommend this one if you're interested.
+
+&gt; Ok ... an generic, ecchi vaguely christian themed action series? It definitely isn't giving me a good first impression.
+
+Mnemosyne is probably some of the darkest shit in anime you'll find, of course, it's flawed and it has its ecchi moments too, but it's still worth just for the setting, in my opinion. And yeah, the opening isn't exactly giving a great impression...",2015-09-03 04:51:50+00:00,cuozb9y,3,t1_cuomwrv,24324,anime
+136,"&gt; A show about an abandoned school.
+
+You got the school setting right, but not much else...
+
+&gt; Space nurse on Earth.
+
+Kinda? Well, pretty much everything fits for that series, anyways.
+
+&gt; Nerdy girl lives in cinematic dreamworld.
+
+Close, but not close enough.
+
+&gt; Large-breasted schoolgirl stalked by insane cosplayer.
+
+Not much I can comment on this, you're pretty much right.",2015-09-03 04:32:10+00:00,cuoz1d6,3,t1_cuoli2j,25504,anime
+137,"Not so long ago I did this:
+
+**Texhnolyze** -&gt; **Haibane Renmei** -&gt; **ef: A Tale of Memories** -&gt; **Your Lie in April**
+
+The scars haven't healed yet...",2015-09-02 21:03:39+00:00,cuokm92,1,t3_3jedv2,4009,anime
+138,"Some lesser known OPs from lesser known anime.
+
+Have fun!
+
+[Hourou Musuko](https://www.youtube.com/watch?v=GQbATlvdD1A)
+
+[Yuri Seijin Naoko-San](https://www.youtube.com/watch?v=QWdzQSw_CPs)
+
+[Haibane Renmei](https://www.youtube.com/watch?v=AJeZtay1V8U)
+
+[Kuragehime](https://www.youtube.com/watch?v=8qTaW7LRW9o)
+
+[Mnemosyne: Mnemosyne no Musume-tachi](https://www.youtube.com/watch?v=UM9czEBD6Uc)
+
+[Binbougami ga!](https://www.youtube.com/watch?v=pr1hCCK3M5g)",2015-09-02 20:39:42+00:00,cuojodi,1,t3_3jcovz,27723,anime
+139,"Zankyou no Terror with Sigur Ros.
+
+Those icelanders really know how to make [ear](https://www.youtube.com/watch?v=8LeQN249Jqw) [porn](https://www.youtube.com/watch?v=Pgc9YN2PP3U).",2015-09-02 20:10:27+00:00,cuoij11,1,t3_3j7vpk,109835,anime
+140,"&gt; second part
+
+best part ( ͡° ͜ʖ ͡°)",2015-09-02 19:15:14+00:00,cuogc7p,4,t1_cuofqy4,908,anime
+141,"The glorious backwaters known as Lithuania.
+
+But seriously, when the hell are we gonna get Netflix? I just want to throw some of my money at the screen and chill... ;-;
+",2015-09-01 15:27:52+00:00,cun2iyb,3,t1_cun26ab,547,anime
+142,[As a person who doesn't even have Netflix in his country.](https://www.youtube.com/watch?v=HA1mbZ_MMh8),2015-09-01 15:13:00+00:00,cun1yit,1,t3_3j7ugs,6551,anime
+143,"[me_irl](https://i.imgur.com/skhy6x9.png).
+
+No, but seriously, Zankyou, while flawed, was pretty good.
+For something similar, I'd say watch Bebop (if you haven't already), as both of them were directed by Shinichiro Watanabe and both had music by Yoko Kanno and Monster, as both of them fit the *realistic psychological thriller* template quite well.",2015-09-01 09:34:45+00:00,cumuvu2,1,t3_3j5b8e,37454,anime
+144,"&gt; Is it the one with the shitty 2D animation but complete craziness similar to GTA?
+
+Seems like it. 
+
+Yeah, exams suck, but the only thing you can do to make them less suck would be passing, also, good luck with your Japanese, I remember trying learning a bit once, but kinda got sidetracked along the way... I really should try learning it again though.
+
+Aku no Hana is pretty great, I'm not that far in, but I've enjoyed what I've read so far a great deal.",2015-08-31 10:17:48+00:00,culoes9,23,t1_culepdd,28066,CasualConversation
+145,"You should try *Hotline Miami* and it's sequel *Hotline Miami 2: Wrong Number* **for some intense, uber stylised ultra violence**, both are amazing, highly addictive games with a-grade soundtracks and vivid visuals, and both are on my favourites, and I'm gonna check out HakoMari as soon as I acquire it.",2015-08-30 19:44:40+00:00,cul1l7x,21,t1_cul17n9,675,CasualConversation
+146,"&gt; Its a lovely experience talking and interacting with people from all over the world.
+
+Yeah, it really is.
+
+&gt; THIS IS THE BIGGEST COINCIDENCE IN MY LIFE. Just so you know you are a part of it!
+
+[Yey!](http://media2.giphy.com/media/F7K9YzEZDdtQc/giphy.gif)
+
+&gt; Anime brought us till here. Anime for life!
+
+Anime brings people together, this world needs more of it.
+
+&gt; I am from India. Here the awareness levels of anime are nearly nil. So there are barely any stores to buy manga and LNs from.
+
+Pretty much the same here. I usually get all of my merch from one single store, as there are pretty much none other. Also, on the topic of India, I remember one guy from the Indian team at IJSO giving me some really tasty round waffle-ish looking things, I have no idea how are they called, but I remember them being tasty.
+
+&gt; For LNs have you read the series Utsuro no Hako to Zero no Maria?
+
+No, but might read it as it looks like Sakura-sou + Aku no Hana type of deal and I haven't read a good light novel in some time (the last one being *Boogiepop and Others*, which I can't recommend enough).
+
+Ok, I think I'll ask something too, as this is turning into pretty much an interrogation type of thing *(lol)*, so, what are your favourite video games?",2015-08-30 19:25:05+00:00,cul0xo7,19,t1_cul09xb,1208,CasualConversation
+147,"Currently reading (or should I say, torturing myself with) Aku no Hana, it's a great manga, but damn can it be just painful to read at times (and I think the author intended it to be this way). 
+
+Planning to read Kare Kano, as I just bought the first 2 volumes and maybe watching the gainax adaptation later on.
+
+I never watched Log Horizon myself, but my friend loves the shit outta it, so I just thought I'd drop it as a recommendation, as both of your tastes seemed similar.
+
+Also, science bros UNITE! I was at IJSO last year in Argentina, kinda cooked alive while being there, but it was awesome nonetheless.
+
+",2015-08-30 18:49:55+00:00,cukzs8p,17,t1_cukzc02,821,CasualConversation
+148,"Kokoro Connect, but I can see how it can be confused with K-On! as both have really similar moe-esque art styles.
+
+ Also, just a side thought, I never understood some people's obsession with K-On!, from what I've watched at a con once (about 2 episodes), it seemed to me like a run-of-the-mill ""*cute girls doing cute things*"" show, but I should really finish it before judging.
+
+If you liked SAO you should really watch Log Horizon (season 1, season 2 was crap) or the still ongoing Overlord, as I think they did the MMO thing better.
+
+I mostly read manga, I'd love to read light novels too, but I can't really buy any in Lithuania (except through importing, but that can be really expensive) and some of the ones I'd love to read haven't been translated yet. ;(",2015-08-30 18:28:53+00:00,cukz35r,15,t1_cuky9bb,1471,CasualConversation
+149,"[Demdy-chan](http://static1.fjcdn.com/comments/Demo+is+always+relevant+_077563e33413287e47bba09b7438cae6.jpg) for fun and Arkada for serious reviews (as he's probably the only one that makes them semi-frequently).
+
+I also quite enjoy GoatJesus from time to time, but his release schedule is the thing that kills him.",2015-08-30 18:01:58+00:00,cuky69m,1,t3_3ixypj,27417,anime
+150,"&gt; How do you keep your commitment?
+
+I don't.
+No, but seriously now, I just watch a few episodes to let down some steam after the day or during the weekend, if I've got nothing else to do, and somehow that stacks up to a few anime.
+
+I also have a long break from time to time just to clear up my head and respark my interest.
+
+And to stop myself from filling up my ""watching"" list, I have a rule to only watch one show at the time.
+
+[Inaba best girl.](http://i.imgur.com/pi5i8QH.gif)
+",2015-08-30 17:49:37+00:00,cukxrd2,13,t1_cukxep5,625,CasualConversation
+151,"It really depends on the week, like during a busy week I sometimes barely watch 1 episode and on some more relaxed ones I churn out an anime per day, but on average I'd say I watch about 2 or 3 anime per week. ",2015-08-30 17:30:17+00:00,cukx3z1,11,t1_cukwf6i,1215,CasualConversation
+152,"I started about this time last year, but some of those (Soul Eater, the Dragon Ball Trilogy and Naruto, if I recall correctly) I've seen earlier on TV.
+
+And my spectrum ain't that big, some people I know have seen a few thousand anime series, now that's range.",2015-08-30 16:34:50+00:00,cukv8ou,9,t1_cukuxrq,552,CasualConversation
+153,I maintain [mine](http://myanimelist.net/animelist/HyperWind) a little bit more (both in visuals and in anime). ;),2015-08-30 16:18:25+00:00,cukup1a,7,t1_cuku4ig,1074,CasualConversation
+154,"I don't really remeber shinsekai having that much jargon, but I watched it a long time ago, so I might've just forgotten.Shigatsu was pretty damn awesome, especially the ending, it left me in minor depression for a few days, so be ready.You should really try and pick up Tatami galaxy again, it's probably one of the best romances (as strange as that might sound) and probably one of the best written anime out there in general, the only minor flaw would be that, as you said, it's kinda hard to keep up with at times.Btw. Do you have a mal?",2015-08-30 13:54:44+00:00,cukqj0j,5,t1_cukomt4,4994,CasualConversation
+155,"In no particular order again:
+
+*Shinsekai Yori*, *The Tatami Galaxy*, *Ef: A Tale of Memories*, *Fullmetal Alchemist: Brotherhood*, 
+*Haibane Renmei*, *Texhnolyze*, *Neon Genesis Evangelion*, *The Whole Kara no Kyoukai Series*, *Ergo Proxy*, *Mushishi*, *Spice &amp; Wolf*, *Kokoro Connect* and *Shigatsu wa Kimi no Uso*.",2015-08-30 09:44:38+00:00,cukm0gn,3,t1_cukapmo,30113,CasualConversation
+156,"Hey!
+
+I'm HyperWind (sometimes also known as HyperWindKun or Adudewithascarf) and I'm a highschool student from the faraway cold (except in the summer) land of Lithuania.
+
+I like programming, music, art, anime, movies, electronics, books , video games (mostly roguelikes), cycling (and most other active sports, but cycling is my fav.), psychology, sociology and discussing *random shit* for x^n amount of time.
+
+Favourite bands and musicians (in no particular order):
+*Radiohead*, *Sigur Ros*, *Justice*, *Kavinski*, *Porter Robinson*, *Nujabes*, *Chvrches*, *The Arctic Monkeys*.
+
+Favourite movies (again, in  no particular order): *A Clockwork Orange*, *2001: A Space Odyssey*, *Seven Samurai*, *Pulp Fiction*, *Kill Bill*, *Dr. Strangelove*, *Alien*, *Oldboy*, *Amelie*, *Monty Python and The Holy Grail*, *Ghost in the Shell*, *Jin-Roh: The Wolf Brigade*.
+
+Oh, and I'm also unapologetically lazy.",2015-08-29 19:33:53+00:00,cujzshu,1,t3_3iul5n,17172,CasualConversation
+157,"&gt; But it only has the two, and OP was looking for more-than.
+
+Yeah, kinda posted this before reading that... &gt;-&gt;
+
+Also, thanks for the video, never looked so deep into the OP while watching.  :p",2015-08-29 15:55:53+00:00,cujsurn,3,t1_cujphpu,7237,anime
+158,"I remember *Your Lie in April* having pretty good OPs, but that might just be my feels speaking.",2015-08-29 08:56:46+00:00,cujkvjh,1,t3_3itkt9,8445,anime
+159,"http://myanimelist.net/animelist/HyperWind
+
+Favourites in no particular order:
+
+*Guts (Berserk)*
+
+*Watashi (The Tatami Galaxy)*
+
+*Joe Yabuki (Ashita no Joe)*
+
+*Ginko (Mushishi)*
+
+*Johan Liebert (Monster)*",2015-08-28 23:26:22+00:00,cuj7htz,1,t3_3irxjf,7172,anime
+160,"First madogatari and now this?
+
+I think I might just mail myself to Japan for real.",2015-08-28 18:41:51+00:00,cuiwzht,1,t3_3iqf0u,13280,anime
+161,"Fair enough, you may live for now...
+
+Oh and check out Redline, I think you might like it.",2015-08-28 16:16:17+00:00,cuir4tu,4,t1_cuiqn9i,724,anime
+162,"Me and CGI don't really gel well (or at all), so that knocked it down a bit.
+
+Then there was the story, which, in my opinion at least, was a complete clusterfuck and, to make it even worse, slow as hell.
+
+The characters were probably as bland as a piece of cardboard with some mayonnaise on top.
+
+And, in general, after watching Karas I felt like I just wasted my time.",2015-08-28 16:09:50+00:00,cuiqvfp,3,t1_cuipl59,1953,anime
+163,Seen worse.,2015-08-28 15:49:45+00:00,cuiq2qx,3,t1_cuikwfy,8794,anime
+164,"&gt; Texhnolyze - 7
+
+&gt; Lain - 6
+
+&gt; FLCL - 6
+
+Explain yourself.
+
+[](#disgustedmichiru)",2015-08-28 15:40:02+00:00,cuipp2w,2,t1_cuim768,5719,anime
+165,"[Bring it on!](http://myanimelist.net/animelist/HyperWind)
+
+[Random nice song.](https://www.youtube.com/watch?v=t_htoSaQFf4)",2015-08-28 15:28:06+00:00,cuip84q,1,t3_3iouph,38274,anime
+166,"I've been waiting for this so long... So long... 
+Finally... Spice and Wolf season 3... Finally...
+
+[I can die in peace now...](http://3.bp.blogspot.com/-pTp3mswfwk0/U_tE6jOqB8I/AAAAAAAFKts/crTNbS3DsjQ/s1600/Space%2BDandy%2B2%2B-%2B08%2B-2.jpg)",2015-08-28 07:01:04+00:00,cuie8rz,1,t3_3ioth2,8570,anime
+167,Angel's egg when?,2015-08-28 06:46:40+00:00,cuie02u,1,t3_3ikasi,91174,anime
+168,That's both the cutest and the evilest thing around.,2015-08-28 05:14:19+00:00,cuic6qg,1,t3_3ilx3d,49559,anime
+169,Aaand done! Enjoy~!,2015-08-27 22:50:31+00:00,cui0qb2,3,t1_cuhy8n2,4185,anime
+170,[](#prelenny),2015-08-27 18:16:37+00:00,cuhq2se,4,t1_cuhp66i,1338,anime
+171,"+1 Savage point goes to you, sir.",2015-08-27 17:36:58+00:00,cuhog13,2,t1_cuhcqwq,20050,tifu
+172,"[""I'm gonna post this every day until you watch (that means complete) an anime series""](http://i.imgur.com/OLqsezh.jpg?1) works surprisingly well sometimes.",2015-08-27 14:24:40+00:00,cuhgrn3,1,t3_3ij260,54463,anime
+173,"From top to bottom, left to right:
+
+[Søren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
+
+[Fyodor Dostoyevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky)
+
+[Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
+
+[Jean-Paul Sartre](https://en.wikipedia.org/wiki/Jean-Paul_Sartre)
+
+~~And the Lain one will be made shortly.~~
+
+Edit: Done!",2015-08-27 13:32:25+00:00,cuhf1uk,3,t1_cuhejca,1045,anime
+174,"[Lets make anal babies under the moonlight.](http://img10.deviantart.net/8f9b/i/2011/301/6/9/madoka_x_homura_by_ohseventwo-d4eak18.png)
+
+",2015-08-27 11:47:11+00:00,cuhcf82,2,t1_cugz6gb,37072,anime
+175,"Hard choice, even though I love Radiohead's stuff with an undying passion I think I'll go with [The Luv(Sic) part 3 by Nujabes](https://www.youtube.com/watch?v=UyoYf7rZVGI). [(the whole hexalogy)](https://www.youtube.com/watch?v=wGfguhnvECc)",2015-08-27 09:47:25+00:00,cuhahds,1,t3_3ikni1,6956,CasualConversation
+176,"[Yuri Seijin Naoko-san ^^^nsfw](http://i.imgur.com/orm4dbq.png)
+
+[Zankyou no Terror](http://i.imgur.com/skhy6x9.png)
+
+[FLCL](http://i.imgur.com/HBH2btS.png)
+
+[Kokoro Connect](http://i.imgur.com/nfxDBYv.png)
+
+[Ashita no Joe](http://i.imgur.com/L1dwNCt.png)
+
+[Texhnolyze](http://i.imgur.com/m83O5Sr.png)
+
+[Serial Experiments Lain](http://i.imgur.com/XENMAG3.png)
+
+[Wandering Son](http://i.imgur.com/21qIKwK.png?1)
+
+[Haibane Renmei](http://i.imgur.com/qJ8RZdS.png)
+
+Leave an anime you'd like to see made as I might do a few more of these.",2015-08-27 07:37:29+00:00,cuh8mx8,1,t3_3ijx1l,15472,anime
+177,This is enlightenment.,2015-08-27 06:41:17+00:00,cuh7ppb,1,t3_3ij0tb,27240,anime
+178,"I can't even start to describe how hyped I am right now.
+",2015-08-26 15:42:34+00:00,cugcokq,1,t3_3ieo4o,53291,anime
+179,"Please don't fuck up Subete ga F ni Naru, A-1, please...
+
+Also, ONE PUNCH MAN HYPE!
+
+",2015-08-26 15:39:49+00:00,cugckgm,1,t3_3iek1p,54942,anime
+180,Happy anniversary! May the next year be even better!,2015-08-26 12:00:44+00:00,cug5kp9,1,t3_3iephq,39354,KotakuInAction
+181,I can dislocate my thumbs and do a pretty awful raptor impression.,2015-08-26 11:32:16+00:00,cug50ag,1,t3_3ieq4s,37348,AskReddit
+182,"&gt; Men have no idea what it takes to be a woman. To grin and bear it and persevere. The constant state of war, navigating the relentless obstacle course of testosterone and misogyny, where they think we are property to be owned and plowed. But we’re not. We are people, just like them. Equals, in fact, or at least that’s the core of what feminism is still trying to achieve.
+
+I feel like this is not ""what it takes to be a woman"", but ""what it takes to be a human"". Everyone makes an uncountable amount of mistakes during their lifetime, that they regret daily, and are treated like shit from time to time, but we all learn to deal with it and continue life afterwards. It's all a part of growing as a person and there's nothing you can really do to stop *stupid* people from being *stupid*, or that's how I like to think about the matter at least.",2015-08-26 10:48:30+00:00,cug4975,1,t3_3iexjw,31258,TwoXChromosomes
+183,[](#barakamonnotcool),2015-08-26 00:49:07+00:00,cufqjsg,2,t1_cuflpvt,8252,anime
+184,"&gt; Sword Art Online, Attack on Titan, Death Note, Elfen Lied and Mirai Nikki
+
+&gt; ""watched all the good ones""
+
+[](#yousaidsomethingdumb)
+
+Anyways, show him something like *Black Lagoon*, *Fate/Stay Night: UBW* or *Baccano!*, if he won't like those then anime is (for better or for worse) just not for him. ",2015-08-26 00:45:06+00:00,cufqepy,1,t3_3ie47q,8250,anime
+185,"No Antonín Dvořák-chan, I'm disappointed. 
+
+Ok, seriously now, my favourite would be Yoko Kanno, as she, obviously, composed some of my favourite OSTs (Zankyou no Terror and Cowboy Bebop, ZnT being my favourite) and my most beloved track of hers would be [Bless](https://www.youtube.com/watch?v=Pgc9YN2PP3U), just the mix of nature sounds, the calming echo-y piano and the beautiful voice of Arnór Dan makes shivers run down my spine.",2015-08-26 00:31:29+00:00,cufpx9e,1,t3_3iecsi,3699,anime
+186,"*Cowboy Bebop*
+
+*Texhnolyze*
+
+*Neon Genesis Evangelion: The End of Evangelion*
+
+*Ghost in the Shell*
+
+*Ergo Proxy*
+
+*Byousoku 5 Centimeter*
+
+*Kara no Kyoukai 5: Mujun Rasen*
+
+*Fullmetal Alchemist: Brotherhood*	
+
+*Kara no Kyoukai 7: Satsujin Kousatsu (Kou)*
+
+*Suzumiya Haruhi no Shoushitsu*
+
+*Yojouhan Shinwa Taikei*
+
+*Fate/Zero + Fate/Zero 2nd Season*	
+
+Jeez, I have way too many tens...
+But back on topic, I think the weakest would probably be *Suzumiya Haruhi no Shoushitsu*, as it could've totally been shorter and I feel that some parts were quite redundant, but it's still worth the ten, because, to put it bluntly, it's got everything Haruhi originally had times ten.",2015-08-26 00:02:47+00:00,cufoxme,1,t3_3ie3jo,5983,anime
+187,[](#yousaidsomethingdumb),2015-08-25 21:40:51+00:00,cufjuy1,2,t1_cuehpl3,78674,anime
+188,"Woah, how the hell did I miss this...
+
+Well, I guess I'll just have to wait for round 2 then. :/",2015-08-25 16:07:34+00:00,cuf6k7y,1,t3_3iaqqx,38689,anime
+189,[Night Shift Nurses](http://28.media.tumblr.com/tumblr_lr2u60i1Z31r19tp7o1_500.png),2015-08-24 19:34:30+00:00,cue866q,1,t3_3i77dt,21794,anime
+190,"Programming would probably my main hobby, but I think I reached a point where it could be considered a full time thing. 
+
+I started, as probably many of us do, tinkering with games and other stuff and when I started high school I also got into extra programming classes. 
+
+One thing I should mention is that my dad is also a programmer and has pushed me in this direction and helped me out many, many times, I'll can't even express how grateful I am to him for this.
+
+One thing I regret though would be not starting earlier and not taking more chances on beginning or participating in bigger projects.
+",2015-08-24 10:42:37+00:00,cudrdgx,1,t3_3i5vfj,22962,CasualConversation
+191,YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO,2015-08-24 07:25:34+00:00,cudokmo,2,t1_cucif04,98164,anime
+192,"&gt; Please suggest your favorite anime :)
+
+[Shinsekai Yori](http://myanimelist.net/anime/13125/Shinsekai_yori) (*psychological, mystery, horror*)
+
+[The Tatami Galaxy](http://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei) (*psychological, romance*) 
+
+[Ef: A Tale of Memories](http://myanimelist.net/anime/2924/ef:_A_Tale_of_Memories.) (*romance, drama, mystery*)
+
+[Fullmetal Alchemist: Brotherhood](http://myanimelist.net/anime/5114/Fullmetal_Alchemist:_Brotherhood) (*action, adventure, drama*)
+
+[Haibane Renmei](http://myanimelist.net/anime/387/Haibane_Renmei) (*drama, psychological, slice of life*)
+
+[Texhnolyze](http://myanimelist.net/anime/26/Texhnolyze) (*philosophical, psychological, horror, sci-fi*)
+
+[Neon Genesis Evangelion](http://myanimelist.net/anime/30/Neon_Genesis_Evangelion) (*psychological, action, drama, sci-fi*)
+
+[The Kara no Kyoukai Series](http://myanimelist.net/anime/2593/Kara_no_Kyoukai_1:_Fukan_Fuukei) (*mystery, action,  drama, romance*)
+
+[Ergo Proxy](http://myanimelist.net/anime/790/Ergo_Proxy) (*psychological, action, mystery, sci-fi*)
+
+[Mushishi](http://myanimelist.net/anime/457/Mushishi) (*slice of life, adventure, fantasy*)
+
+[Spice &amp; Wolf](http://myanimelist.net/anime/2966/Ookami_to_Koushinryou) (*fantasy, adventure, romance*) 
+
+[Kokoro Connect](http://myanimelist.net/anime/11887/Kokoro_Connect) (*slice of life, romance, drama*) 
+
+[Shigatsu wa Kimi no Uso](http://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso) (*romance, drama, music*)
+
+Pick your poison and have fun!
+
+[](#idoruwinkdesu)",2015-08-24 07:18:01+00:00,cudog6z,1,t3_3i4t21,29561,anime
+193,"Maybe [Higurashi no Naku Koro ni](http://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni).
+
+",2015-08-23 05:14:55+00:00,cuck1r6,1,t3_3i1se7,932,anime
+194,"As a Lithuanian, maybe apart from Hetalia, I don't exist.",2015-08-23 03:58:00+00:00,cuci44z,1,t3_3i0v79,15469,anime
+195,"[Your lie in april.](/s ""Ok, seriously now, maybe something like the Tatami Galaxy, Kokoro Connect or Toradora."")",2015-08-22 16:50:05+00:00,cubx8ox,1,t3_3hykrm,17995,anime
+196,"Zankyou no Terror
+
+
+Your Lie in April
+
+
+Cowboy Bebop
+
+
+FLCL
+
+
+Ping Pong the Animation
+
+
+Mushishi",2015-08-22 16:43:15+00:00,cubx11f,1,t3_3hz3ch,5883,anime
+197,[*anime/10*](http://i.imgur.com/dvD5dHd.jpg),2015-08-22 16:39:36+00:00,cubwwxm,1,t3_3hyb7i,26063,anime
+198,"&gt; On a side note I am a male to female transgender person so if there are any good anime shows that have a character like me I'd like to see that!
+
+[**Hourou Musuko**](http://myanimelist.net/anime/8426/Hourou_Musuko), but I wouldn't really recommend it as a first.
+
+For a first show (or rather, movie), one of these would work best, in my opinion:
+
+[**Redline**](http://myanimelist.net/anime/6675/Redline) (*Sci-Fi, Action, Movie*), 
+
+[**The Girl Who Leapt Through Time**](http://myanimelist.net/anime/2236/Toki_wo_Kakeru_Shoujo) (*Adventure, Drama, Romance, Movie*), 
+
+[**Wolf Children**](http://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki) (*Fantasy, Slice of life, Movie*)
+
+[**The Secret World of Arrietty**](http://myanimelist.net/anime/7711/Karigurashi_no_Arrietty) (*Fantasy, Adventure, Movie*)
+
+And for a second watch:
+
+[**Baccano!**](http://myanimelist.net/anime/2251/Baccano!) (*Fantasy, Action, Comedy, Mystery, Series*),
+
+[**Trigun**](http://myanimelist.net/anime/6/Trigun) (*Action, Comedy, Sci-Fi, Series*),
+
+[**Kuragehime**](http://myanimelist.net/anime/8129/Kuragehime) (*Slice of Life, Comedy, Series*),
+
+[**Kino no Tabi**](http://myanimelist.net/anime/486/Kino_no_Tabi:_The_Beautiful_World) (*Slice of Life, Adventure, Series*),
+
+[**AnoHana**](http://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai.) (*Drama, Slice of Life, Supernatural, Series*),
+
+[**Mushi-Shi**](http://myanimelist.net/anime/457/Mushishi) (*Adventure, Slice of Life, Supernatural, Mystery, Series*)
+
+Hope this helps and happy watching!
+
+[](#idoruwinkdesu)",2015-08-20 20:48:54+00:00,cu9wttm,1,t3_3hoeo3,60097,anime
+199,"Yoko Kanno or Kenji Kawai, hard to decide.",2015-08-20 20:24:36+00:00,cu9vuy5,1,t3_3ho7w9,62190,anime
+200,"Don't watch **Texhnolyze**, unless you want to fall into a bottomless pit of despair and depression, and don't watch **Mnemosyne: Mnemosyne no Musume-tachi**, unless you can handle a bit of torture porn, and gore porn, and yuri, and psychopaths, and the sense of your own mortality...",2015-08-20 19:59:33+00:00,cu9uugo,1,t3_3hno0r,70102,anime
+201,"I swear, there's a thread like this every day...
+
+Anyways, my *favourite OSTs*:
+
+Zankyou no Terror
+
+Your Lie in April
+
+Cowboy Bebop
+
+FLCL
+
+Ping Pong the Animation
+
+Mushishi",2015-08-20 16:05:47+00:00,cu9ldvn,1,t3_3hpamp,20905,anime
+202,"[Gotta love drawing with a mouse.](http://i.imgur.com/VHOmL5b.png?1)
+
+[Reference.](http://vignette1.wikia.nocookie.net/kokoroconnect/images/7/74/Inaba_smile.png/revision/latest?cb=20130324201146)",2015-08-20 15:52:27+00:00,cu9kukg,1,t3_3hpbrx,19227,anime
+203,AOTY,2015-08-19 23:37:32+00:00,cu8vw2b,2,t1_cu8bnay,29669,anime
+204,"[](#gintamasunlight)
+
+This is truly the pinnacle of enlightement",2015-08-19 22:54:19+00:00,cu8udwm,1,t3_3hn6it,1891,anime
+205,"*Bones - the anime.*
+
+But, seriously now, this looks like it's got potential and might be a pleasant surprise for a mystery fan such as myself. Gonna keep this one in mind. Also, I'm happy to see that the Aldnoah.Zero character designer is doing alright.",2015-08-18 20:32:36+00:00,cu7gjsm,1,t3_3hgouj,14743,anime
+206,"[An article on the visual design of Texhnolyze.](https://guriguriblog.wordpress.com/2010/09/23/texhnolyze-2)
+
+[Digibro made a pretty good video on the show too.](https://www.youtube.com/watch?v=0lc8e5ZBRPE)
+
+",2015-08-17 19:44:56+00:00,cu67yxl,1,t3_3h929p,73432,anime
+207,"*My favourite full OSTs would be from:*
+
+Zankyou no Terror
+
+Your Lie in April
+
+Cowboy Bebop
+
+FLCL
+
+Ping Pong the Animation
+
+Mushishi
+
+*Singles:*
+
+[Thanatos](https://www.youtube.com/watch?v=SPFJ7LhQygw) from NGE
+
+[Komm, süßer Tod](https://www.youtube.com/watch?v=CuRwRlicEmw) from NGE (this is the piano forte version)
+
+[Kiri](https://www.youtube.com/watch?v=2ZN-zAKIfyQ) from Ergo Proxy
+
+[Making of a Cyborg](https://www.youtube.com/watch?v=D1u15C3zp50) from Ghost In the Shell
+
+[Kami-sama no Iu Tōri](https://www.youtube.com/watch?v=lMQK5MbIb1E) from The Tatami Galaxy
+
+[Shiver](https://www.youtube.com/watch?v=1o84y-5-cO0) from Mushishi Zoku Shou
+
+[Guns &amp; Roses](https://www.youtube.com/watch?v=_F5459jCtuM) from Baccano
+
+[One More Time, One More Chance](https://www.youtube.com/watch?v=WcxhgOs7PYU) from 5 Centimeters per Second
+
+[Wareta Ringo](https://www.youtube.com/watch?v=y_3Dix8vHQg) from Shinsekai Yori
+
+[Ienikaeru (aka. Dvorak's New World Symphony, 2nd movement)](https://www.youtube.com/watch?v=VRxbi_jXMOE) from Shinsekai Yori
+
+[Sweet Drops](http://www.dailymotion.com/video/xmgf54_usagi-drop-full-op-theme_music) from Usagi Drop
+
+[Guardian Angel](https://www.youtube.com/watch?v=MTY_UKnXd50) from Texhnolyze
+
+[Secret Base](https://www.youtube.com/watch?v=ndH6UqA0QSo) from Anohana
+
+[Duvet](https://www.youtube.com/watch?v=WBff4F5egLc) from Serial Experiments Lain (used the acoustic version, but both of them are equally cool)
+
+",2015-08-17 17:39:23+00:00,cu62xw8,1,t3_3hb7m2,16542,anime
+208,"Initial D
+
+I mean, if the [eurobeat](https://www.youtube.com/watch?v=kxLwGow0Tvw) doesn't already make that apparent, I don't know what does.
+
+",2015-08-17 07:23:28+00:00,cu5o67p,1,t3_3h9r23,15779,anime
+209,Haibane Renmei - [fun for the whole family.](http://static2.fjcdn.com/thumbnails/comments/It+s+so+off+fitting+from+the+rest+of+the+series+_f78104cc63e3bb1ca62c59c18388cd4f.gif),2015-08-16 20:51:43+00:00,cu56u7i,1,t3_3h64lz,59113,anime
+210,"It re sparked my love for classical music and ground my heart into tiny specks. 
+
+A truly amazing anime, would watch again, 10 outta 10.",2015-08-13 22:14:08+00:00,cu23yq9,1,t3_3gthnw,58193,anime
+211,Shigatsu wa Kimi no Uso.,2015-08-13 20:24:24+00:00,cu1zq0v,1,t3_3gvhui,9397,anime
+212,[Superior taste.](http://myanimelist.net/animelist/hyperwind),2015-08-12 18:35:14+00:00,cu0nyxj,1,t3_3gp7ag,37658,anime
+213,"Except if it's Haskell, it only gets harder...",2015-08-11 23:50:55+00:00,ctzryb3,3,t1_ctze4yf,21021,AskReddit
+214,"Used to play piano and guitar, but dropped them for some reason I can't really remember. I regret that decision every day.",2015-08-11 23:49:20+00:00,ctzrw9a,3,t1_ctz8ple,28800,AskReddit
+215,"**Light Novels:** 3 (Kara no Kyoukai, Spice &amp; Wolf, Kokoro Connect) 
+
+**Novels:** 2 (The Tatami Galaxy, Shinsekai Yori)
+
+**Manga:** 4 (EF: A Tale of Memories, Fullmetal Alchemist: Brotherhood, Mushishi, Your Lie in April)
+
+**Originals:** 3 (Texhnolyze, Neon Genesis Evangelion, Ergo Proxy)
+
+**Doujinshi:** 1 (Haibane Renmei)
+
+Haibane could also be classified as manga I guess, so that makes 5 manga adaptations. ",2015-08-11 22:50:59+00:00,ctzpttq,1,t3_3gmyjo,8361,anime
+216,"Gigguk posts a video, and now this?? IS THIS THE SECOND COMING OF [MOE JESUS](https://data.archive.moe/board/a/image/1404/07/1404077908826.jpg)?",2015-08-11 16:04:33+00:00,ctz9b9d,1,t3_3gip37,63792,anime
+217,"Take a shot every time someone says ""desu"" in Kiniro Mosaic.
+
+[Hard mode.](https://www.youtube.com/watch?v=60mLvBWOMb4) ",2015-08-10 17:04:21+00:00,cty4lpe,1,t3_3gguzj,9323,anime
+218,Fate/Zero by a long shot.,2015-08-10 16:18:20+00:00,cty2ryc,2,t1_cty0w2r,2931,anime
+219,"&gt; a lot of divs
+
+A lot of section elements (aka. the images) with a css 3d translate property attached that's controlled by some js. It's actually not that hard to reproduce, in my opinion.",2015-08-10 14:52:50+00:00,ctxzk9j,3,t1_ctxwj5c,6081,anime
+220,"dude...
+
+[](#not-raining)",2015-08-09 23:36:02+00:00,ctxdiov,2,t1_ctx8sci,8628,anime
+221,For Lithuania it would probably be ^the ^^intro ^^^part ^^^^from ^^^^^Hetalia ^^^^^^ep. ^^^^^^^17... ^^^^^^^^Maybe...,2015-08-09 22:49:27+00:00,ctxc0hr,1,t3_3gcfwg,36209,anime
+222,[ಠ_ಠ](https://www.youtube.com/watch?v=5OfwhGQONbg),2015-08-09 22:34:40+00:00,ctxbjit,3,t1_ctxbbrr,397,anime
+223,**X** is **pretentious**.,2015-08-09 22:18:51+00:00,ctxb0mx,1,t3_3gd4ae,19623,anime
+224,Anime of the year.,2015-08-09 09:11:32+00:00,ctwqk0f,1,t3_3gbjk9,15054,anime
+225,"Sir, the results have come and I'm afraid to say this, but you have a fetish.",2015-08-06 21:47:00+00:00,ctu3at4,1,t3_3g1ts8,3389,anime
+226,"# I AM THE BONE OF MY SALT
+# SALT IS MY BODY AND RAGE IS MY BLOOD
+# I HAVE CREATED OVER A THOUSAND SALTS
+# UNKNOWN TO DEATH, NOR KNOWN TO LIFE
+# HAVE WITHSTOOD RAGE TO CREATE MANY SALTS
+# YET, THOSE HANDS WILL NEVER SPICE ANYTHING
+# SO AS I PRAY...
+# [UNLIMITED SALT WORKS](https://s-media-cache-ak0.pinimg.com/originals/89/0f/1c/890f1cf9a3b135efbddb84ff87baeefe.jpg)",2015-08-06 21:24:57+00:00,ctu2fo2,1,t3_3g1vb1,1434,anime
+227,"http://myanimelist.net/animelist/hyperwind
+
+I once ate beef flavoured ice cream.",2015-08-06 20:28:42+00:00,ctu0475,1,t3_3g0jio,17594,anime
+228,I can already smell the impending salt in the air...,2015-08-05 21:58:42+00:00,ctsunjg,1,t3_3fx99p,3157,anime
+229,"Hmm, [Biribiri vs Karen](http://i.imgur.com/B2GOcFn.gif).
+",2015-08-02 22:05:12+00:00,ctp9l10,1,t3_3fjof9,3218,anime
+230,[I like](http://myanimelist.net/mangalist/HyperWind) [minimalism](http://myanimelist.net/animelist/HyperWind).,2015-08-02 15:21:50+00:00,ctowplr,1,t3_3fdv4v,116980,anime
+231,This will be the beginning of a new era.,2015-07-26 21:47:39+00:00,cth2lwr,4,t1_cth23n5,793,anime
+232,"&gt; Inaba vs Rin...
+
+Well, it has been a good fight gentlemen (and gentlewomen), [but everything has to end eventually](https://www.youtube.com/watch?v=g3ENX3aHlqU). [May Inaba's soul rest in piece.](https://thenullset.files.wordpress.com/2009/02/bamboo-blade02.jpg)
+
+
+
+",2015-07-26 21:34:30+00:00,cth23pl,1,t3_3ep5sp,585,anime
+233,"I watched it (and the rest of the trilogy) in a simulcast and I knew what I was diving into beforehand, but there were a few guys who didn't. I still remember their screams, filled with agony and regret... 
+
+[](#evilgrin)",2015-07-26 19:16:03+00:00,ctgxckk,1,t3_3enhxy,26413,anime
+234,"Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - viagra.
+
+( ͡° ͜ʖ ͡°)",2015-07-26 19:09:48+00:00,ctgx52q,1,t3_3eo6e4,9652,anime
+235,I feel... Violated... In a good way... ( ͡° ͜ʖ ͡°),2015-07-26 15:23:06+00:00,ctgpuxd,1,t3_3enh27,13280,anime
+236,"I'd be surprised if it wasn't NGE, the scene OP described seems way too similar to the one you mentioned.",2015-07-26 10:39:24+00:00,ctgkd8d,3,t1_ctgfp66,17630,anime
+237,"[""Edgy""](https://www.youtube.com/watch?v=vZjX65NYVGM)
+
+Anyways, in my opinion, **some** of those shows get labeled as ""edgy"" because they try to compensate for the lack of proper characterization and storytelling in shear amounts of gore and violence, they try to seem more complex and dark than they are.
+
+For example, in [Mirai Nikki](/s ""the main couple invites a 5 year-old to stay at their house who tries to kill them in various ways, going as far as using nerve paralyzing gas that he somehow (emphasis on the 'somehow') acquired."") Here the writers obviously try to make the show seem darker and more serious without giving the characters proper context and filling the obvious plot holes, thus making the show seem ""edgy"" and over-exaggerated. This is not even the first example of a scene like this happening in this show, it's riddled with tons upon tons of examples of ""edgyness"". 
+
+But back to the point, not all of the shows you presented are ""edgy"", but they get mistaked for being ""edgy"" as the term is getting more and more diluted with every season and is turning into a common buzzword like ""pretentious"", in my opinion, from the shows you presented and I've watched only Mirai Nikki and maybe Attack on Titan could be called ""edgy"" to a certain extent.",2015-07-26 10:27:34+00:00,ctgk7wy,1,t3_3en173,12145,anime
+238,"Thank you... I needed that...
+
+[](#yui-crying)
+",2015-07-26 09:25:44+00:00,ctgjfe5,5,t1_ctg4ucp,36766,anime
+239,"&gt; What you think of Makise Kurisu (and not Holo)?
+
+Holo best girl.",2015-07-26 05:29:52+00:00,ctgfcjt,1,t3_3elgp9,30145,anime
+240,"Never was great on giving relationship advice, but at least I can give you this: 
+
+Be honest, determined and considerate, plus don't be afraid of taking risks and getting hurt. A lot of bad things happen in life, that's just how life is, and many of those things will hurt you, but if you don't give up and continue marching onward you'll eventually prevail.",2015-07-25 22:17:36+00:00,ctg35pp,3,t1_ctg249z,1999,anime
+241,"Same here. To me it would even seem more logical if they actually killed Maria and Mamoru than both of them living their lives happily ever after, because, as you mentioned, it would (and to me it did) add a lot to the atmosphere and the tone of the series.",2015-07-25 20:46:54+00:00,ctg0cb9,3,t1_ctfyzeh,2686,anime
+242,[A slice-of-life and ecchi portrayal of WW2.](http://i.imgur.com/JH8A3wM.png),2015-07-25 20:07:24+00:00,ctfz53y,1,t3_3ekpl1,10650,anime
+243,"Yeah, probably, but it still hurts.
+
+[](#holdme)",2015-07-25 16:37:43+00:00,ctfsp5l,3,t1_ctfrzpa,1389,anime
+244,( ͡° ͜ʖ ͡°) I approve of this.,2015-07-25 16:03:20+00:00,ctfrndk,1,t3_3ekdn4,2449,anime
+245,"5 Centimeters per Second, because I didn't take my chance and had a person really close to me slip away.",2015-07-25 15:39:54+00:00,ctfqyc5,1,t3_3ekcwl,1482,anime
+246,"[Commeth at myself, brothers.](http://strawpoll.me/5023278)",2015-07-25 12:30:14+00:00,ctfmkgy,1,t3_3ehk5e,57228,anime
+247,I don't know which anime is it.,2015-07-25 12:21:00+00:00,ctfmewq,1,t3_3eickv,42979,anime
+248,"[Also sprach Zarathustra, Op. 30 by Richard Strauss](https://www.youtube.com/watch?v=IFPwm0e_K98) from 2001: A Space Odyssey
+
+[New World Symphony 2nd Movement by Antonin Dvorak](https://www.youtube.com/watch?v=hOX15agZ3-0) from Shinsekai Yori
+
+[The rendition of Jesus bleibet meine Freude](https://www.youtube.com/watch?v=CZ_ossJQ2Iw) from the End of Evangelion
+
+[Bless](https://www.youtube.com/watch?v=vJsqVOQKjEM) from Zankyou no Terror
+
+[Nightcall by Kavinski](https://www.youtube.com/watch?v=MV_3Dpw-BRY) from Drive",2015-07-25 09:39:47+00:00,ctfk90f,1,t3_3ehxer,40915,Music
+249,[Well played](#smugshinoa),2015-07-25 09:06:02+00:00,ctfjtm1,2,t1_ctfgsgh,11381,anime
+250,"It resparked my love for classical music and jazz (I blame Bebop and the amazing jazz collection simply titled ""Moe Jazz"" for the jazz part), made me like hip hop (damn you Nujabes, you beautiful man), Mushishi Zoku Shou showed me [Lucy](https://www.youtube.com/watch?v=1o84y-5-cO0) [Rose](https://www.youtube.com/watch?v=YYkrtSp8baE), Zankyou no Terror gave me its beautiful soundtrack and anime made me like a lot of non-english songs in general. ",2015-07-24 23:06:25+00:00,ctf5ftk,1,t3_3efodt,40992,anime
+251,"Hard question, it's either End of Eva, 5 Centimeters per Second or Kara no Kyoukai 5: Mujun Rasen.",2015-07-24 22:49:02+00:00,ctf4vpe,1,t3_3ega4k,27849,anime
+252,"The Tatami Galaxy
+
+Mushishi Zoku Shou
+
+and maybe Ergo Proxy",2015-07-24 22:44:03+00:00,ctf4pqp,1,t3_3ee5u5,77220,anime
+253,"&gt; But yeah, does your family know about your hobby?
+
+Yes, they do, I mean, I do have anime posters hanging in my room, how couldn't they know?
+
+&gt; If so, how do they deal with it?
+
+They don't really care that much. Like, my parents know that I watch anime and have watched a few anime themselves (totally not because I showed them those anime), for example, my mom quite enjoyed 5 Centimeters per Second and my dad liked Ghost in the Shell and Jin-Roh a lot and they sometimes make some snarky remarks, but never oppose it in any way.",2015-07-24 22:20:38+00:00,ctf3x7n,1,t3_3ehsy9,2287,anime
+254,"I actually never watched any anime subbed in my native language (aka. Lithuanian), but I know that there are a few groups that do subs from time to time and well, from what I've heard, they aren't the best.",2015-07-24 21:55:13+00:00,ctf31dt,1,t3_3egijb,20921,anime
+255,[mfw](https://pbs.twimg.com/media/BQ7hFAjCUAEA5sb.jpg),2015-07-23 20:43:58+00:00,ctdsnbw,1,t3_3eca9t,14221,anime
+256,"I'm sorry, [dear friend](http://3.bp.blogspot.com/_uOMyM8axvI0/TTevW7m2HdI/AAAAAAAAAAo/gdQ2INom07g/s1600/Sad+Wallet.jpg), but sacrifices sometimes have to be made.",2015-07-23 12:48:33+00:00,ctda31t,1,t3_3eb3nh,8495,anime
+257,"&gt; whoa your list design is really nice! a lot of lists can get jarring and feel overdone but this is really aesthetically pleasing and easy to read
+
+Well, I didn't go to a web development and design school for nothing. Anyways, thx! &lt;3 &lt;3
+
+&gt; you've watched a lot of the dark/serious shows that i've been meaning to see too so i'm kind of inspired to start on my ptw LOL
+
+They're the bread to my butter.
+
+&gt; to contrast that i'll rec usagi drop for a more light hearted watch. it's my personal favorite slice of life and everything about it (visuals, music, character interactions) contributes so well towards its themes of family and love. i loved it a lot and had to keep myself from squealing at like every ep tbh. it's definitely worth the watch and a great way to unwind and get a lil emotional too
+
+Been meaning to watch it some time this summer, I think I might give it a try after I finish Zetsuen no Tempest (which I'm gonna watch next).
+
+&gt; edit: i forgot to say something mean but klk a 5?? do you not know how to take a show lightly or what man
+
+Didn't like the middle and the second part that much and I found Mako completely obnoxious, like, if Mako weren't in this anime it probably would've been 2 grades higher, also, to me, this show suffers from the ""Mirai Nikki"" syndrome - the more I think about it, the less I seem to like it.",2015-07-23 08:56:39+00:00,ctd626m,3,t1_ctd5dr7,2622,anime
+258,"&gt; Sakura Trick - 10
+
+[( ͡° ͜ʖ ͡°)](https://www.youtube.com/watch?v=YgXAyN6gVDE)
+
+",2015-07-23 07:34:15+00:00,ctd4qq7,2,t1_ctd38f1,4736,anime
+259,[HANA GA SAITA YO](http://myanimelist.net/animelist/HyperWind),2015-07-23 07:25:35+00:00,ctd4l6m,1,t3_3e9qzb,21407,anime
+260,I love it. &lt;3,2015-07-22 23:22:33+00:00,ctcq761,3,t1_ctcp7ts,1616,anime
+261,ED 1 if I recall correctly.,2015-07-22 22:38:03+00:00,ctcok1f,3,t1_ctcogh7,153,anime
+262,/r/badjokes,2015-07-22 21:36:24+00:00,ctcm7uz,3,t1_ctclwr4,466,anime
+263,"#HIMEKO INABA FOR PRESIDENT (and best girl)!
+
+[](#pissedinaba)",2015-07-22 21:32:36+00:00,ctcm2i7,1,t3_3e8vbc,805,anime
+264,[me atm](https://pbs.twimg.com/media/BwiKhmHIIAAUVd0.jpg),2015-07-22 17:28:13+00:00,ctcbpo7,6,t1_ctb3fx7,86070,anime
+265,"Pick your poison: Your Lie in April, Anohana, 5 Centimeters per Second, EF: a Tale of Memories, Haibane Renmei, Katanagatari, Tokyo Magnitude 8.0.",2015-07-22 09:42:20+00:00,ctbxs1l,1,t3_3e69i9,7824,anime
+266,"**Shinsekai Yori** - To me it's probably third to Huxley's ""Brave New World"" and Orwell's ""1984"" in world building and exploration of a dystopian setting, I also really loved the villain and the twist ridden ending.
+
+**The Tatami Galaxy** - A love story done right, of course, I'm not saying that other shows did romance wrong, I just feel like Tatami one-upped many shows by sticking to its psychological nature and splicing the romance in where it could, thus creating a really interesting dynamic and making the already great characters feel even more organic.
+
+**Ef: A Tale of Memories** - I liked this anime not so much for its romance, but more for its view on life. What are your memories really, how much of them are the truth and how much of those are just lies, fabricated by your subconsciousness to fill in the gaps? Does every week make sense in your memories, every month, year, 5 years, 10 years, how much of that is just fake and how much was lost in the void of your mind? What will you accomplish will your life, do you have a dream and will you ever reach it?
+And many other existential questions were asked by the show and with the help of the show at least some of them were answered for me. 
+
+**Fullmetal Alchemist: Brotherhood** - Amazing world, amazing lore, great story delivery, nice characters and many themes exploring existentialism. Just what I need in my shonen action series.
+
+**Haibane Renmei** - Mystique dominates the atmosphere of this show, everything seems really familiar, but also somehow alien. The amount of questions this show raises is absolutely colossus and most of them are unanswered by the end and left for the audience's interpretation, enhancing the mystique even more. Also,  the story told by one of our main protagonists (you know who I'm talking about) was extremely relatable and touching.
+
+**Texhnolyze** - Sci-fi nihilism at its finest. The atmosphere the show created was amazing and the way it presented its themes and story was even better, I also really liked the hints taken from Edward Hopper's art and the ending left me speechless.
+
+**Neon Genesis Evangelion** - Where do I even start? I guess my favorite aspects of this show were the underlying character study and the way Anno just put all of his personality and heart into the show. Watching it was like being a psychotherapist and listening how a really internally conflicting persona let out all of their problems and paints onto you. I'm not even gonna mention the lore and the intricacies of this universe as I might be sitting writing all day.
+
+**Ergo Proxy** - Ergo proxy was like a mix of the sci-fi aspect of Texhnolyze and the atmosphere of Haibane Renmei. Many of its stories can be interpreted in many different ways and it presents something different to each and every one of us. Also, I'd be doing a injustice not mentioning its expansive lore and the characters.
+
+**Mushishi** - Mushishi throws me back to the time when I was still a little kid, listening to my parents telling me old folk stories at night and later having dreams about the many demons, withes and many mystical creatures. Mushishi really felt like those dreams, so warm, so relaxing and so, so mysterious. 
+
+**Spice &amp; Wolf** - Medieval economics plus wolf girls and pagan folklore, is there something not to like in spice and wolf? Ok, seriously now, the economics of Spice and Wolf were really great, the constant planning and one-upping made me melt in my chair and Holo to this day remains one of the best and well written female characters in my eyes.
+
+**Kokoro Connect** - This show probably had the most real, relatable and human characters in any show I've watched so far, I remember when I was like Inaba - not trusting people, afraid of getting hurt and putting up a cold façade to push people away, I remember when I was like Iori - confused and vulnerable, not knowing who I was and searching for my true self all over the place, leading to depression and many other ""fun"" experiences,
+I remember myself when I was like Taichi - selfless and yet so selfish, trying to help others just to fill some void in my heart, butting in into really personal affairs, hurting myself and others just to feel adequate and to justify my existence in this world,
+like Yui - afraid of the world around me, like Aoki - infinitely lovesick, but still clinging to my past and not considering others' feelings and like all of them, I remember growing up and growing out of these problems and facing the world as a new, stronger person in the end.
+
+**Shigatsu wa Kimi no Uso** - Besides the wonderful classical music, I really liked the dynamic between the characters and the trauma driven story of our main protagonist and how he grew out of it and started to face the world on his own, also this was one of the most emotionally wrenching anime I've watched to this day (especially the ending).
+
+Sorry for the wall of text, I just have too many favorites (didn't even include the Kara no Kyoukai movies here, but if I did I might've reached the character limit) and I like discussing them (and all anime, movies, music, etc.) way too much. :) ",2015-07-22 09:37:08+00:00,ctbxpj4,1,t3_3e4wbr,35045,anime
+267,[too far](#crazyhatgirl),2015-07-21 22:51:49+00:00,ctbgiqi,3,t1_ctbbln5,7600,anime
+268,"\**hovers on the NGE one*\*
+
+[Dude.](https://31.media.tumblr.com/dd014889d8b97a7056bbbb9446d7b76a/tumblr_mr42kxDyQk1swkyl3o1_400.gif)",2015-07-21 22:49:01+00:00,ctbgf2i,2,t1_ctbaaea,9269,anime
+269,[mfw.](http://media0.giphy.com/media/JwNPAckJDiPsI/giphy.gif),2015-07-21 22:44:02+00:00,ctbg8k5,1,t3_3e49j7,6086,anime
+270,The most recent one would be Ping Pong. That ending was beautiful.,2015-07-21 14:19:41+00:00,ctavs1b,1,t3_3e1u6a,20361,anime
+271,[Inaba best girl.](http://myanimelist.net/animelist/HyperWind),2015-07-20 22:23:52+00:00,cta7vym,1,t3_3dzju6,7355,anime
+272,"This is for the ones,
+
+for the ones beat my generic lolies,
+
+for the ones, who were unlucky,
+
+for the ones shattered beneath the crowds feet,
+
+for the ones, who were misunderstood.
+
+This is for the ones, who took our hearts,
+
+for the ones, who made us cry,
+
+for the ones, who we'll never forget.
+
+This is for the ones who were left behind,
+
+[may their souls rest in piece.](https://www.youtube.com/watch?v=2bosouX_d8Y)
+
+",2015-07-20 22:11:44+00:00,cta7g3x,1,t3_3dzqd0,3913,anime
+273,[](#forgotkeys),2015-07-20 21:44:24+00:00,cta6fln,2,t1_cta538j,2098,anime
+274,"[""One More Time, One More Chance"" by Masayoshi Yamazaki](https://www.youtube.com/watch?v=weSAge0XsOY).  
+
+^^^^^;__;",2015-07-20 20:02:31+00:00,cta2diy,1,t3_3dxxem,24654,anime
+275,Maybe something like Usagi Drop?,2015-07-20 19:49:18+00:00,cta1tyg,1,t3_3dvj1y,79286,anime
+276,"Aku no Hana in any other fucking style than it already is.
+",2015-07-20 19:42:13+00:00,cta1jm5,1,t3_3dx0i8,48979,anime
+277,"The beginning was alright, but it got (way) worse as it progressed, also, the OVA kinda ruined the ending for me as I think they got what they deserved.
+
+^^^^^^^^^[Yuki!](https://www.youtube.com/watch?v=sK4an5sJCcQ)",2015-07-20 19:26:23+00:00,cta0xam,1,t3_3dy745,17550,anime
+278,"5 Centimeters per Second. I felt like my heart was ripped out, stomped and spit on after it ended.",2015-07-20 19:18:30+00:00,cta0njj,1,t3_3dyakb,15481,anime
+279,"&gt; Berserk
+
+Nice boat.",2015-07-20 19:10:56+00:00,cta0d58,2,t1_ct9ql6j,14737,anime
+280,"It usually isn't like this, during the school year I rarely get a free day or two, so it feels really strange not to do (much) all day. 
+
+I think this year I finally realized how much I actually like school, of course, not for the lessons (*hehe*), but more for the human interaction and the bonds it forms.
+
+Also, design is rad.",2015-07-19 22:32:52+00:00,ct9202t,5,t1_ct91s3s,420,CasualConversation
+281,"Been watching some anime (just finished Kokoro Connect), reading some books (Aesop and the CEO), messing around with my programming projects, cycling a ton and I'm currently thinking of getting back into art, because I just feel that all this free time I got should be used practically in some way.
+Oh, also trying out a lot of new music, really loving Nujabes and Phat Bollard atm. ",2015-07-19 22:18:00+00:00,ct91ixx,3,t1_ct91adw,443,CasualConversation
+282,"Hello Manedblackwolf!
+I've been feeling quite similar for a while now, as most of my friends are away on vacation and stuff and I'm stuck sitting here. :(",2015-07-19 22:06:44+00:00,ct915y0,1,t3_3dult6,17982,CasualConversation
+283,"Chill and enjoy every second of life, worrying takes too much effort and time.
+
+[Also, have a nice song.](https://www.youtube.com/watch?v=MskwYQINIis)",2015-07-19 22:00:58+00:00,ct90z74,1,t3_3dvjxs,336,CasualConversation
+284,[Messy in this semi-orderly-but-still-chaotic fashion.](http://i.imgur.com/IMjfpf1.jpg),2015-07-19 21:47:39+00:00,ct90iz8,1,t3_3dvhp7,670,CasualConversation
+285,"Coffee, as I'm currently slightly addicted to anything that has highish amounts of caffeine.
+
+But that doesn't mean I dislike tea, I like tea a lot, especially green or pu-erh tea, but I just like coffee more.",2015-07-19 19:43:54+00:00,ct8wh4f,1,t3_3duek1,13343,CasualConversation
+286,This really reaks of Gainax.,2015-07-19 15:52:44+00:00,ct8pak2,2,t1_ct7md5o,98510,anime
+287,Pyramid head-chan best girl.,2015-07-19 15:26:26+00:00,ct8oj5b,1,t3_3du2bu,5603,anime
+288,['MURICA!!!!!!!!!!!!!!!!!!](https://www.youtube.com/watch?v=jafd97yJFOI),2015-07-19 11:36:48+00:00,ct8ju92,4,t1_ct8aczm,31432,anime
+289,I'm too old to respond in this thread and to young to do so in that other thread [a while back](https://www.reddit.com/r/AskReddit/comments/3cyo74/redditors_who_are_21_what_do_your_parents_still/). Fuck life. ,2015-07-19 08:43:48+00:00,ct8hm9e,1,t3_3dsbq7,31567,AskReddit
+290,"My recommendations:
+
+[Shinsekai Yori](http://myanimelist.net/anime/13125/Shinsekai_yori)
+
+[Ghost in the Shell (the movie)](http://myanimelist.net/anime/43/Ghost_in_the_Shell)
+
+[Ghost in the Shell Standalone Complex](http://myanimelist.net/anime/467/Ghost_in_the_Shell:_Stand_Alone_Complex)
+
+[Ergo Proxy](http://myanimelist.net/anime/790/Ergo_Proxy)
+
+[Texhnolyze](http://myanimelist.net/anime/26/Texhnolyze)
+
+[Serial Experiments Lain](http://myanimelist.net/anime/339/Serial_Experiments_Lain)
+
+[Haibane Renmei](http://myanimelist.net/anime/387/Haibane_Renmei)
+
+[Neon Genesis Evangelion](http://myanimelist.net/anime/30/Neon_Genesis_Evangelion)
+
+The Kara no Kyokai movie series ([1](http://myanimelist.net/anime/2593/Kara_no_Kyoukai_1:_Fukan_Fuukei), [2](http://myanimelist.net/anime/3782/Kara_no_Kyoukai_2:_Satsujin_Kousatsu_(Zen), [3](http://myanimelist.net/anime/3783/Kara_no_Kyoukai_3:_Tsuukaku_Zanryuu), [4](http://myanimelist.net/anime/4280/Kara_no_Kyoukai_4:_Garan_no_Dou), [5](http://myanimelist.net/anime/4282/Kara_no_Kyoukai_5:_Mujun_Rasen), [6](http://myanimelist.net/anime/5204/Kara_no_Kyoukai_6:_Boukyaku_Rokuon), [7](http://myanimelist.net/anime/5205/Kara_no_Kyoukai_7:_Satsujin_Kousatsu_(Kou))
+
+[The Tatami Galaxy](http://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei)
+
+[Monster](http://myanimelist.net/anime/19/Monster)
+
+[Mushishi](http://myanimelist.net/anime/457/Mushishi)
+
+[Jin-Roh](http://myanimelist.net/anime/570/Jin-Rou)
+
+[Welcome to the NHK](http://myanimelist.net/anime/1210/NHK_ni_Youkoso!)
+
+[Phantom: Requiem for the Phantom](http://myanimelist.net/anime/5682/Phantom:_Requiem_for_the_Phantom)
+
+[Katanagatari](http://myanimelist.net/anime/6594/Katanagatari)
+
+[Kuuchuu Buranko](http://myanimelist.net/anime/6774/Kuuchuu_Buranko)
+
+[Boogiepop Phantom (the books were better though)](http://myanimelist.net/anime/369/Boogiepop_wa_Warawanai:_Boogiepop_Phantom)
+
+Now, the problem is that I have no idea if these are on Hulu/Netflix or not as I don't live in America. ",2015-07-18 10:23:12+00:00,ct7kk8q,1,t3_3dq12k,3355,anime
+291,3767040 seconds.,2015-07-18 09:43:36+00:00,ct7k1zc,1,t3_3dpotn,12432,anime
+292,"Watching Kekkai Sensen is suffering.
+
+[](#stare)",2015-07-18 09:40:18+00:00,ct7k0f2,1,t3_3dor71,32597,anime
+293,"
+
+Anime | Score | Difference
+-----|-----|----------
+Texhnolyze   | 10 | +2.21
+Ikkitousen: Dragon Destiny    | 1 | -6.01
+",2015-07-18 00:40:59+00:00,ct77k68,1,t3_3dog2e,6189,anime
+294,[I'm so sorry](https://www.youtube.com/watch?v=YgXAyN6gVDE),2015-07-18 00:21:53+00:00,ct76z3b,2,t1_ct752zh,3654,anime
+295,"&gt; And since she loves wolves
+
+Spice &amp; Wolf
+
+I also recommend Shinsekai Yori, Kuuchuu Buranko, ~~Katanagatari~~ Mushishi and The Tatami Galaxy as those are more of a thinking man's animes and some of those (especially Kuuchuu Buranko) provide some spiritual healing and aren't that heavy on the negative side, as I think she wouldn't like even more emotional baggage after splitting up.
+
+Edit: On second thought, Katanagatari might be still too heavy for her.",2015-07-17 22:41:34+00:00,ct73t7v,1,t3_3dip25,109483,anime
+296,"Also Texhnolyze, Your Lie in April, A House of Small Cubes, Engels Egg and maybe Ashita no Joe to kick-start that depression even more.",2015-07-17 22:31:38+00:00,ct73h2g,2,t1_ct5vsmd,88232,anime
+297,"For me, I'd say Neon Genesis Evangelion, Kaiba, Cat Soup, Mushishi, the Abe trilogy, Kuuchuu Buranko, Shinsekai Yori and Satoshi Kon's works fit that category pretty well.",2015-07-17 22:22:34+00:00,ct735xl,1,t3_3dl1kj,68584,anime
+298,"Sengoku Basara - Really wasn't my kind of a show, also watching it in a simulcast didn't help.
+
+Watamote - I'm sorry, but the MC was horrible.",2015-07-17 22:05:07+00:00,ct72klz,1,t3_3dl32n,66704,anime
+299,"Dude, my bunker is already stuffed as it is, I can't really hide more people there... ",2015-07-17 21:56:16+00:00,ct729nc,2,t1_ct6v4mn,11269,anime
+300,[...](http://static2.fjcdn.com/comments/5270432+_3f28937bafb0ce592a4e5470bd538824.jpg),2015-07-17 21:49:44+00:00,ct721k3,3,t1_ct6un9e,11588,anime
+301,"I wonder, how many points will saber get this time?
+",2015-07-17 21:40:23+00:00,ct71pmx,1,t3_3do32j,1664,anime
+302,"&gt; Magic flying ships powered by kissing teenage girls?
+
+I guess I'll be busy tomorrow. ( ͡° ͜ʖ ͡°)",2015-07-17 18:47:51+00:00,ct6v3qv,1,t3_3dmzvl,8989,anime
+303,"K-On! x Gundam
+
+[](#mechablush)",2015-07-17 18:03:37+00:00,ct6ta5v,1,t3_3dn79c,2994,anime
+304,"I should maybe start drawing again, maybe.",2015-07-17 15:43:44+00:00,ct6nj8v,1,t3_3djqoi,68061,Art
+305,[](#nocomment),2015-07-17 14:53:57+00:00,ct6lki7,1,t3_3dmjni,2693,anime
+306,[mfw](http://i.imgur.com/laxTk7e.jpg),2015-07-17 14:50:06+00:00,ct6lf74,2,t1_ct6id52,5387,anime
+307,[Still waiting for season 2...](http://i.kinja-img.com/gawker-media/image/upload/s--OgGNRvPE--/18plrffdugl46jpg.jpg),2015-07-17 14:47:57+00:00,ct6lc8c,2,t1_ct6gdst,10112,anime
+308,[](#trollarcher),2015-07-17 14:38:48+00:00,ct6kzw3,3,t1_ct6kwk3,150,anime
+309,http://i.imgur.com/46fCNYd.png,2015-07-17 12:17:43+00:00,ct6grkn,3,t1_ct6fu8o,2794,anime
+310,"NSFW tag pls, there are younger kids on this sub too.
+
+[](#pissedkaiji)",2015-07-17 09:07:05+00:00,ct6dmup,2,t1_ct66bv4,20527,anime
+311,Just delete SAO in general.,2015-07-17 09:04:03+00:00,ct6dla1,2,t1_ct60f1m,31609,anime
+312,Yes. ^^^^^^^^^\s,2015-07-17 09:00:02+00:00,ct6dj76,3,t1_ct6dfhq,425,anime
+313,"Sono Hanabira.
+
+[](#smugshinoa)",2015-07-17 08:58:38+00:00,ct6dihx,1,t3_3dkgcv,31679,anime
+314,"Yeah, mostly open and trying to spread it a little bit around.
+
+",2015-07-17 08:56:22+00:00,ct6dhd1,1,t3_3dl8ta,16076,anime
+315,"Bikini Worriors AOTY.
+
+[](#smuglancer)",2015-07-17 08:52:08+00:00,ct6df2q,1,t3_3dl3sc,18703,anime
+316,"It's like, my life, the anime.",2015-07-17 08:47:08+00:00,ct6dceh,1,t3_3dl5rk,17296,anime
+317,ヽ(ｏ`皿′ｏ)----E,2015-07-17 08:38:32+00:00,ct6d7wk,4,t1_ct5zbf9,32151,anime
+318,"It should, but that only makes it better. &gt;:)",2015-07-17 08:35:57+00:00,ct6d6hp,3,t1_ct69ert,11960,anime
+319,me irl,2015-07-16 23:57:49+00:00,ct5zt3n,2,t1_ct5t8sq,10857,anime
+320,"Vote for Saki Watanabe, [*Or else...*](http://24.media.tumblr.com/6ae8ae13a21640c32df6b6a8cf0258f2/tumblr_mibkydN1gX1rwuvuco1_500.gif)",2015-07-16 22:06:52+00:00,ct5w0ft,1,t3_3djqwo,4545,anime
+321,"Now that I think about it, I might've misused the term ""dystopia"" a bit as it's quite broad, maybe something like ""classical dystopia"", ""social dystopia"" or ""Huxlean dystopia"" would've worked better.
+
+Anyways, I agree that the forementioned works are also great views on a dystopian world, but a different one from the one I meant, as Ergo Proxy, Texhnolyze, Psycho-Pass and Akira lean more on the post-apocalyptic, cyberpunk side of a dystopian setting and GITS goes full on cyberpunk only with some dystopian elements thrown in for good measure.
+
+This really term needs narrowing or dividing into sub-groups.
+
+",2015-07-16 17:59:16+00:00,ct5lpbr,4,t1_ct5jib6,3121,anime
+322,It's pretty k.,2015-07-16 16:31:13+00:00,ct5i070,1,t3_3dhp3g,20959,CasualConversation
+323,"You should also add some of these ones in:
+
+http://i.imgur.com/87jzano.png
+
+http://i.imgur.com/Nwxnwkb.png
+
+http://i.imgur.com/qVwOQOI.png
+
+http://i.imgur.com/SWly8Nh.png
+
+
+",2015-07-16 15:59:59+00:00,ct5gqqv,2,t1_ct4luzs,67654,anime
+324,"Maybe some other day, not in the mood for writing right now.",2015-07-16 12:33:46+00:00,ct59qvc,5,t1_ct59mvf,285,anime
+325,[KyoAni atm](https://www.youtube.com/watch?v=jh0r7C63_J0),2015-07-16 12:21:43+00:00,ct59gsk,1,t3_3dg1u1,44360,anime
+326,"What? 
+
+You expected me to write a 5 paragraph essay on F/Z or sumthin'?
+
+[](#asunanotamused)",2015-07-16 12:14:26+00:00,ct59b1l,3,t1_ct591zg,713,anime
+327,Madoka x Homura or Sayaka x ~~Red Haired Bitch~~ Sakura?,2015-07-16 12:00:14+00:00,ct590cf,2,t1_ct50w7r,26649,anime
+328,"Fate/Zero is amazing, watch it.",2015-07-16 11:43:38+00:00,ct58ooz,1,t3_3dhqam,2651,anime
+329,[I'm just gonna leave this here.](https://www.youtube.com/watch?v=dP1cqAbKF4Y),2015-07-16 11:40:09+00:00,ct58mc5,1,t3_3dhbey,15539,anime
+330,[](#gintamaspillage),2015-07-16 10:16:34+00:00,ct57aek,4,t1_ct516r2,19792,anime
+331,"Really interesting setting, mysterious characters, nice music, eerie atmosphere (in a good way), but it could've been longer (shit, there's like 18 novels of this written, adapt more!).",2015-07-16 10:10:46+00:00,ct577he,1,t3_3dfmom,43627,anime
+332,"[Wareta Ringo](https://www.youtube.com/watch?v=y_3Dix8vHQg) from SSY, this one makes me cry sometimes, no idea why, but it does.
+
+[Shiver (by Lucy Rose)](https://www.youtube.com/watch?v=1o84y-5-cO0) from Mushishi Zoku Shou, a really beautiful and heartwarming song.
+
+[Kami-sama no Iu Tōri](https://www.youtube.com/watch?v=lMQK5MbIb1E) from The Tatami Galaxy, I really love the style of this one - chilling, mysterious, technical, unrefined and somehow really warm.
+
+[Tabi no Tochuu](https://www.youtube.com/watch?v=DE-Ayx7cFpo) from Spice and Wolf, this one invokes the feeling of adventure and loneliness in me and like Wareta Ringo, somehow stirs a really strong emotional response, it's also just a really beautiful song.",2015-07-16 09:54:50+00:00,ct56za6,1,t3_3dggqw,28140,anime
+333,"In my opinion, the humor was awful and the MC chick was beyond redemption, I also read that it didn't change the tiniest speck later on, so that was a factor too.",2015-07-16 09:31:53+00:00,ct56nv5,2,t1_ct4ydg9,22693,anime
+334,[Plebian scum](#sheerdisgust),2015-07-16 09:23:04+00:00,ct56jgs,2,t1_ct4yxsq,21099,anime
+335,"Karas, I remember reading about people liking it, but I just couldn't figure out why.",2015-07-16 00:49:45+00:00,ct4tn7s,1,t3_3dfjgc,11416,anime
+336,"To name off a few, the most frequent mentions would probably be: 
+Ergo Proxy, Evangelion, Madoka, The Garden of Sinners, FLCL, Texhnolyze, Lain, GITS, Katanagatari, Bakemonogatari, Shinsekai Yori, Fate/Zero and Legend of the Galactic Heroes.
+
+But, I can assure you, anything that tries to be at least a little bit ""deeper"" than your average [SAO](http://40.media.tumblr.com/ce93ffee5e9331380cc93c451fda1f5c/tumblr_n34h5v66fc1s941zco1_500.jpg) was labeled as ""pretentious"" at some point.",2015-07-16 00:04:19+00:00,ct4s46k,2,t1_ct4oy16,5454,anime
+337,"That's true, the beginning and the ending were pretty good, but the middle bit just ruined it so much. In my opinion, it would've worked better as a 12 episode series.",2015-07-15 23:43:55+00:00,ct4retj,4,t1_ct4r2bd,610,anime
+338,"Maybe, I can't really clearly remember what happened at which episode specifically (it would be about time I rewatched this series), so I can't really comment on that, but one thing they could've done was switching up between the 2 groups during the queerrat war as Mamoru and Maria fell a bit short on character development and didn't deliver the full impact in the following arc (you'll know it when you'll see it).",2015-07-15 23:10:07+00:00,ct4q8sk,4,t1_ct4pstw,762,anime
+339,"\**[CUE THE MUSIC](https://www.youtube.com/watch?v=hOX15agZ3-0)*\*
+
+Shinsekai Yori, in my opinion, is a really special occurrence, as it's probably the only anime that did Huxlean or classical dystopias and the society they produce right. 
+
+Taking cues from such books as ""Brave New World"" by Aldous Huxley and ""1984"" by George Orwell, it presents a human crafted in such a way that seems dehumanized, foreign and illogical to us, they don't have a real feeling of consequence, morality and the concept of freedom, as the society they were raised in demands that a human is only a tool destined to do one job and eventually fade away, and like any tool, all of these humans have to fit a special mold set by the elders, that's why the weaker and the stronger usually get eliminated before they can cause trouble and why the social rules seem so lax here, this is the only way to keep the tool a tool and the only way to keep it happy and oblivious to everything happening around them. Everything is allowed as long as it doesn't pose threat to the system. 
+
+Of course, I have to admit that the characters aren't perfect in this series (nothing ever is), the way that A1 executed the characters could've been a little more tasteful, as they really did come off a bit to brat-ish in the beginning, but, if I recall correctly, they were better in the book.
+
+Now to the monk. With this example, in my opinion, they wanted to show how actually frail is the system. Even if an individual has a smallest speck of imperfect brainwashing and starts questioning the rules, the ""safety"" system falls apart.
+
+I won't go deeper into SSY, as I would probably spoil everything if I did, but I'd really recommend you to continue watching it 'till the end, it gets really good at the last arc especially, and keep in mind what I wrote, think about the system, its possible shortcomings and try to predict its and the characters' eventual end.
+
+[](#idoruwinkdesu)
+
+Cheers!
+
+
+Edit: Spelling. I really need another coffee.
+
+Edit 2: ""Dystopia"" is too broad of a term, so I narrowed it down a bit.",2015-07-15 22:50:44+00:00,ct4pkfo,2,t1_ct4nif8,3353,anime
+340,"Same here, no regrets.",2015-07-15 22:47:03+00:00,ct4pfne,4,t1_ct4osuh,1054,anime
+341,"5/10 at most. That middle bit was garbage.
+
+",2015-07-15 21:55:24+00:00,ct4nj6s,2,t1_ct4jhzk,6072,anime
+342,"I'm not alone after all.
+
+[](#gintamathispleasesme)",2015-07-15 21:53:46+00:00,ct4ngx5,2,t1_ct4jrje,5587,anime
+343,ᕦ( ͡° ͜ʖ ͡°)ᕤ Le epik [meme](http://i.imgur.com/RwF5tCg.png) legion **UNITE**!!! ᕦ( ͡° ͜ʖ ͡°)ᕤ,2015-07-15 21:44:28+00:00,ct4n42a,1,t3_3dffbl,2106,anime
+344,"I don't know why, but I always found [Casca](http://orig07.deviantart.net/2927/f/2012/110/4/5/berserk_manga_by_lalykiasca-d4wyq4c.jpg) [really](http://img07.deviantart.net/9528/i/2009/195/9/d/berserk_anime_season_2_by_cottanime.jpg) [attractive](http://33.media.tumblr.com/cf348b9045f1333063d6565fb7c43f71/tumblr_mrpd18LXpf1qkw2uho1_500.gif). It's probably less about her [looks](https://40.media.tumblr.com/1745799d98b8011b87b83c7bb32e6271/tumblr_ngpo1e6F2F1sj78v1o1_500.png) (even if she is quite cute in a tomboyish way), but more for her [character](https://33.media.tumblr.com/44097c9332a6f832fa0a0089b8da768f/tumblr_nqjbbcA3ED1u1w094o2_500.gif), I dunno, it's hard to explain.",2015-07-15 20:19:02+00:00,ct4jp32,1,t3_3dent8,8301,anime
+345,"You should hide... Like right now... But it might be too late, they might've found you already.",2015-07-15 17:17:02+00:00,ct4c919,2,t1_ct4b3kz,1725,anime
+346,"Hate is a strong word, you know? But I quite dislike the big 3 (Naruto, Bleach, One Piece), Kill la Kill, Watamote and Mirai Nikki.
+
+",2015-07-15 16:31:53+00:00,ct4afnj,1,t3_3ddg2b,15585,anime
+347,"Any of these should work:
+
+The Yoshitoshi Abe trilogy (aka. Haibane Renmei, Texhnolyze, Serial Experiments Lain), Ergo Proxy,  Neon Genesis Evangelion, The Kara no Kyoukai series.",2015-07-15 16:18:48+00:00,ct49wg5,1,t3_3de778,956,anime
+348,"I can't watch every anime in existence ever, cut me some slack. :(",2015-07-15 15:51:33+00:00,ct48tpy,6,t1_ct46t3s,3158,anime
+349,"https://youtu.be/Fib4-S9ENpE?t=6m20s
+
+You're welcome.",2015-07-15 15:42:21+00:00,ct48gnz,4,t1_ct46xvk,2391,anime
+350,"I wouldn't say so, Gurren Lagann never came off as a parody for me, I mean, it had some comedic aspects, but I wouldn't attribute those to a parody.",2015-07-15 14:51:34+00:00,ct46jcb,5,t1_ct459a2,2191,anime
+351,"&gt; Not meaning to be picky, so why did you rate Gurren Lagann so much better when it relies (even moreso than Kill la Kill) on this very thing?
+
+&gt; I'm guessing the overall tone and the themes of the show play a big role in that?
+
+You are correct, Gurren Lagann, unlike Kill la Kill, didn't try parody and critique anything, it already knew that it was a *""dumb""*, actiony show and it embraced it, while Kill la Kill tried to comment on all of the tropes and stereotypes in anime and miserably failed by mis and over using them, thus failing to achieve its original vision. 
+
+It forgot that it should've been a parody and embraced all of the things it was parodying instead.",2015-07-15 13:32:36+00:00,ct43xi5,3,t1_ct430an,1962,anime
+352,"""Obvious"" is the key word here.",2015-07-15 11:52:35+00:00,ct41hyn,3,t1_ct41e09,338,anime
+353,"I don't know, sometimes it seems like it and others not so much.",2015-07-15 11:44:45+00:00,ct41ci1,3,t1_ct41bng,78,anime
+354,"The emotional crit, aka. MC-kun/MC-chan is in danger and will never beat generic antagonist A, so we'll make them remember or see something that will make 'em angry and give them super powers out of nowhere. 
+
+^^^^^^^^^Kill  ^^^^^^^^^la  ^^^^^^^^^Kill  ^^^^^^^^^aghem...  ^^^^^^^^^aghem...",2015-07-15 10:03:56+00:00,ct3zsil,1,t3_3dd2kj,3132,anime
+355,"While I usually dislike obvious pandering, this one I like.",2015-07-15 09:58:39+00:00,ct3zpv3,1,t3_3dbspa,30955,anime
+356,"Your Lie in April, because I FEEEEEEEEEEEEEEEEEEEEEEEEEEEEL!!!
+
+No, but seriously now, I gave Your Lie in April a 10, because, in my opinion, it handled the characters and the rather shoneny story exceptionally tastefully, the dynamic between Kaori and our main character was really good and that ending hit **really** hard, also, I'm a little bit biased towards everything that has classical music, so that might've given it some points for that too.
+
+Edit: an ""e"" ran away from ""character"", fixed that.",2015-07-15 09:35:37+00:00,ct3zek1,1,t3_3dcjrx,15734,anime
+357,"It's one of my favourites and, in my opinion, the only anime that did utopias right.
+
+Also, the ending was amazing and I loved how it used [Dvorak's 2nd movement of the New World Symphony](https://www.youtube.com/watch?v=hOX15agZ3-0), eargasms all the way.",2015-07-15 09:18:49+00:00,ct3z681,1,t3_3dbe21,35399,anime
+358,"Well, I really don't know what I expected...",2015-07-15 01:29:37+00:00,ct3noov,1,t3_3dau6w,16020,WTF
+359,"I mostly go to Sushi Stop (located at the old town, Gediminas av. 2) and I'd consider their prices pretty fair (a little bit cheaper than what you'd get at Manami or Soya).",2015-07-15 00:14:25+00:00,ct3l1zy,1,t3_3da742,20889,lithuania
+360,"&gt; Neither Alexis nor I created reddit to be a bastion of free speech.
+
+Oh god, the Pao shitstorm is starting all over again.",2015-07-14 23:51:28+00:00,ct3k8i8,1,t3_3dautm,9872,announcements
+361,Vote for Tohsaka if you want a part of that sweet... sweet [anus](http://37.media.tumblr.com/1cac66cf1231300145d358556f83213b/tumblr_mibdn70i211s63hp9o1_1280.png).,2015-07-14 22:24:49+00:00,ct3h3ve,1,t3_3dau1b,4990,anime
+362,"Yeah, if I recall correctly Haruhi had some really great animation (as expected from KyoAni).",2015-07-14 21:43:05+00:00,ct3fi37,8,t1_ct3epyt,1191,anime
+363,"Well, it did come out the same year as Haruhi, Black Lagoon and Ergo Proxy, so I wouldn't really call it decent by those standards, but I think this is just a case different expectations (and tastes), as you came in with low expectations and liked it, and I came in with high only to find it a complete disappointment.",2015-07-14 21:11:45+00:00,ct3e9fx,6,t1_ct3c2cd,3204,anime
+364,"&gt; If one thing in one short scene affects your whole opinion on a series, I feel sorry for you.
+
+That was when the **""quality""** of the series peaked. 
+To me, it was pretty bad throughout and not just because of the **""dragon""**.",2015-07-14 20:08:44+00:00,ct3bnoh,4,t1_ct39qqg,2736,anime
+365,My rear bike tire exploding in the middle of a trip. I can't ride for 10 minutes without checking it.,2015-07-14 13:05:39+00:00,ct2uupe,1,t3_3d73oy,43027,AskReddit
+366,"[I know that feel, brah.](#duckhue)",2015-07-14 11:29:52+00:00,ct2sr4h,2,t1_ct1uhab,68096,anime
+367,"NHK displays self-awareness (as self-awareness is the cornerstone of comedy) and laughs form itself in this rather bitter and tragical, but inherently very comedical and ironical way. 
+
+It also emulates the ancient theatrical Greek comedy. As described here, the Greek comedy is ""*a dramatic performance which pits two groups or societies against each other in an amusing agon or conflict. Northrop Frye depicted these two opposing sides as a ""Society of Youth"" and a ""Society of the Old"". A revised view characterizes the essential agon of comedy as a struggle between a relatively powerless youth and the societal conventions that pose obstacles to his hopes. In this struggle, the youth is understood to be constrained by his lack of social authority, and is left with little choice but to take recourse in ruses which engender very dramatic irony which provokes laughter.*"", in this case, the youth are our rather socially different characters and the opposition is the world and trying to mold them into the form of a ""normal"" person and the comedy (aka. the struggle) is mainly derived from their failings to fit this mold and the extremes they display throughout the series, plus the eventual victory of the old way of thinking over the new, different generation.
+
+This is why I think NHK is a comedy, a tragical and ironical one, but still a comedy, of course, I might be wrong or I might be overthinking it, but this is my reasoning.",2015-07-14 11:15:55+00:00,ct2sic1,3,t1_ct2rbs5,4684,anime
+368,Dude...[Dragons](https://forum-static.hummingbird.me/40075b2d376203b730694d92162d55469efd449850d0a.jpg)...,2015-07-14 09:15:49+00:00,ct2qq1w,2,t1_ct2mkbg,13748,anime
+369,"*1* - Fate/Zero
+
+*2* - Saber
+
+*3* - The trailer seemed ok, even if it didn't really show anything, so you could say I'm a little bit excited.
+
+*4* - As did ""Friend A"", I watched Zero first and I greatly prefer it to UBW for mostly the same reasons. It felt like UBW lost the gritty, serious and tense atmosphere of Zero and shifted to more of a shoneny, straightforward show, also I just couldn't get behind the characters, unlike the characters from Zero, most of the ones in UBW seemed shallow and really architypey, I mean we had [the tsundere](http://40.media.tumblr.com/37f9a4ecc1bed248ba52593b16dfce5e/tumblr_ngxwizFsPe1qz70k9o4_1280.jpg), [the dumb but heroic MC-kun](http://anime.astronerdboy.com/wp-content/uploads/2014/12/x08-Harry-Potter-Shirou.jpg), [the kouhai](http://blog.viewster.com/wp-content/uploads/2015/03/fatestay-suz-1024x576.png), [the dickhead](http://anime.astronerdboy.com/wp-content/uploads/2015/05/x07-Shinji.jpg), [the (seemingly) badass](http://i201.photobucket.com/albums/aa288/reversethieves/show%20images/Type%20Moon/Unlimited%20Blade%20Works/UBW01M.jpg~original), etc. while everyone in Zero were multidimensional and complex, like even caster and his master, being the least complex and developed characters in Zero, seemed more intricate than most of the characters in UBW, also [they ruined Saber](http://i.imgur.com/mJ101q3.gif) (I was really close to dropping the show after that episode, like **really** close). 
+
+But I have to say, in defense of UBW, these problems are also present in the VN and I think the show did it's best to iron out them and at least try to keep a similar atmosphere to the one in Zero.
+
+To end this off, I don't think that UBW is a bad show, because it really isn't, the animation is stellar, the sound is great, the story and the characters, while not perfect, were also pretty good, to me it just didn't live up to what Zero presented and hyped it up to be.
+
+Edit: Commas",2015-07-14 09:11:39+00:00,ct2qnv4,1,t3_3d7tk5,16205,anime
+370,We should add a mecha to every slice of life show ever just to see what would happen.,2015-07-14 08:24:23+00:00,ct2pynu,1,t3_3d88em,3491,anime
+371,"[](#manly-tears)
+
+Why does the world have to be so cruel?",2015-07-14 00:10:32+00:00,ct2c82x,4,t1_ct2bu84,661,anime
+372,"Fight me.
+
+[](#justno)",2015-07-13 23:45:09+00:00,ct2bcpn,2,t1_ct25noq,9318,anime
+373,"mfw Shiki lost to Hange Zoë
+
+[](#arakawascream)
+",2015-07-13 22:29:34+00:00,ct28p3e,1,t3_3d67ua,5092,anime
+374,"&gt; Hange Zoë
+
+Who the fuck even is she?",2015-07-13 22:25:30+00:00,ct28jmf,2,t1_ct25lf4,4638,anime
+375,"We should rename this to the FMA bracket.
+
+Also, [hardest choice I've made today](http://i.imgur.com/6xrDBEV.png).",2015-07-13 22:24:08+00:00,ct28hsq,1,t3_3d67ua,4766,anime
+376,"My recommendations:
+
+* **Sci-fi** - Texhnolyze
+
+* **Psychological Mecha** - Neon Genesis Evangelion
+
+* **Normal Mecha** - Tengen Toppa Gurren Lagann
+
+* **Psychological** - Ergo Proxy
+
+* **Romance** - The Tatami Galaxy
+
+* **Music** - Your Lie in April
+
+* **Supernatural** - Shinsekai Yori
+
+* **Mindfuck** - Serial Experiments Lain
+
+* **Mystery** - Haibane Renmei
+
+* **Adventure** - Mushishi (and it's sequels)
+
+* **Thriller** - Monster
+
+* **Action** - Fate/Zero
+
+* **Fantasy** - Spice and Wolf
+
+* **Drama** - The House of Small Cubes 
+
+* **Comedy** - Welcome to the NHK",2015-07-13 16:01:51+00:00,ct1t7tr,1,t3_3d4ote,5501,anime
+377,"95% with http://myanimelist.net/profile/2cool4fun
+
+",2015-07-13 09:05:55+00:00,ct1jl4w,1,t3_3d31ez,21456,anime
+378,"http://myanimelist.net/animelist/HyperWind
+
+Fight me.",2015-07-13 09:03:49+00:00,ct1jk37,1,t3_3d3oo9,6696,anime
+379,Your Lie in April or Shinsekai Yori.,2015-07-13 08:23:11+00:00,ct1iyvi,1,t3_3d2ley,27318,anime
+380,[tfw](https://www.youtube.com/watch?v=nH4wtelYxLM),2015-07-13 08:17:23+00:00,ct1ivqn,2,t1_ct1cu1l,16753,anime
+381,Thirding? (is this even a word?),2015-07-12 22:30:49+00:00,ct1397l,3,t1_ct0doxu,64983,anime
+382,"Note: Some of these aren't really sci-fi, but I think you'd like 'em anyways.
+
+* [Yojouhan Shinwa Taikei (aka. The Tatami Galaxy)](http://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei) - The closest definition for this anime would probably be a coming of age story for adults, it's probably the closest one to NHK from my recommendations, also, before watching prepare yourself for a load of reading as this one really likes it's dialogue.
+
+* [Texhnolyze](http://myanimelist.net/anime/26/Texhnolyze) - Sci-fi nihilism at its finest. I consider this one the best of the ""Yashitoshi Abe's trilogy"", it's soaked in character, atmosphere, mystery and is a must watch for any sci-fi fan in my opinion, the only minor flaw would be its rather slow pacing, but it doesn't hinder the experience any bit.
+
+* [Ergo Proxy](http://myanimelist.net/anime/790/Ergo_Proxy) - This is more of a journey than an anime - tightly packed with philosophy and atmosphere, every episode hooks you in more and more into this mystery of a world and keeps you up at night thinking about it.
+
+* [Jin-Roh](http://myanimelist.net/anime/570/Jin-Rou) - This is a strange one. It feels really real, yet somewhat distant from our world. As the other anime I've recommended, this one is also quite the atmospheric piece and the atmosphere, plus hints thrown at you by the story, is what drives it forwards. Also, I have to mention that this one contains high amounts of gun and tech **'porn'**.
+
+* [Redline](http://myanimelist.net/anime/6675/Redline) - Prepare to eyegasm as this has some of the (if not) the best animation out there. The plot of this one isn't as intricate and complex as the others', but it's still quite enjoyable and good, for a short summary, imagine a star-wars move completely dedicated to pod-racing, the politics and the people surrounding it.
+
+* [Shinsekai Yori (aka. From the Brave New World)](http://myanimelist.net/anime/13125/Shinsekai_yori) - An exploration of an utopic society in the vein of to the one presented in Aldous Huxley's ""Brave New World"" (hint. the name), just not as technologically advanced and I'd say, not as brainwashed in some aspects, also, this anime is more character focused and with more expansive lore than Huxley's book. ",2015-07-12 21:59:42+00:00,ct126hi,1,t3_3d150m,15859,anime
+383,"OPs:
+
+[Spice &amp; Wolf](https://www.youtube.com/watch?v=DE-Ayx7cFpo),
+[Mushishi Zoku Shou](https://www.youtube.com/watch?v=JsP_P9Mn2qE)
+
+EDs:
+
+[Shinsekai Yori](https://www.youtube.com/watch?v=y_3Dix8vHQg),
+[Anohana](https://www.youtube.com/watch?v=wE6jzP2FLIU)
+",2015-07-11 17:04:56+00:00,csztnwv,1,t3_3cwhhi,22410,anime
+384,"[MFWYFWMFWYFWMFWYFWMFWYFWMF](http://media.tumblr.com/24df53368db459ed9c0e2bc19d14c236/tumblr_inline_mfcy1pXnSg1rxqiz0.gif)
+
+",2015-07-09 15:51:08+00:00,csxiao6,11,t1_csxgylf,2021,anime
+385,/r/badjokes,2015-07-09 15:07:51+00:00,csxgldn,2,t1_csx6j47,28566,anime
+386,"[MFWYFWMFWYFWMFWYFWMF](http://i0.kym-cdn.com/entries/icons/original/000/017/747/4772795__e188297988ce060ed77289f0d306731a.jpg)
+",2015-07-09 15:06:22+00:00,csxgjdv,9,t1_csxgcmv,298,anime
+387,"They're manly from Tsukihime and the Fate series, so you should already be covered and the ones you couldn't recognize are probably originals.",2015-07-09 15:03:22+00:00,csxgf9n,3,t1_csxg3gt,525,anime
+388,[MFWYFWMFWYFWMF](http://www.fanserviceftw.com/gallery/_images/986b0c65988d068334e444e30d370335/1122%20-%20animated_gif%20biribiri%20misaka_mikoto%20moe%20railgun%20to_aru_majutsu_no_index%20tsundere.gif),2015-07-09 14:58:12+00:00,csxg88x,7,t1_csxg67j,91,anime
+389,"Yeah, it worked now.
+
+[MFWYFWMF](http://i0.kym-cdn.com/photos/images/original/000/927/630/798.png)",2015-07-09 14:51:50+00:00,csxfzva,5,t1_csxfs7a,347,anime
+390,TFW 404 Not Found,2015-07-09 14:39:09+00:00,csxfj3y,3,t1_csxfdq7,251,anime
+391,1 upboat = 1 prayer T-T,2015-07-09 13:36:20+00:00,csxdfsn,3,t1_csxd81y,433,anime
+392,[Demo deezy has you covered. ;)](https://www.youtube.com/watch?v=lfCcOEhP4IA),2015-07-09 13:30:40+00:00,csxd9q7,1,t3_3cniqe,20921,anime
+393,"&gt; “Anno has been alienating his fan base like this since the 90s,” one fan told Anime Maru. “These guys are 20 years late to the party.”
+
+Even if this satire, this was one of the biggest truth bombs dropped.",2015-07-09 13:24:55+00:00,csxd3lc,1,t3_3cngxt,21981,anime
+394,"&gt; That fucking final episode. 
+
+[That last piece.](http://www.gifdivision.com/uploads/4/6/0/3/46032175/03_-_btscf.gif)",2015-07-09 09:49:51+00:00,csx8xkx,4,t1_csx8p2t,1042,anime
+395,"Pls don't rate shows you haven't completed, thx, &lt;3 u. ^^^^^^^^^Also ^^^^^^^^^Kaori ^^^^^^^^^best ^^^^^^^^^grill.
+
+",2015-07-09 09:27:21+00:00,csx8mhn,2,t1_csx8c7z,1214,anime
+396,"Oh boy, here we go again.
+
+http://myanimelist.net/animelist/HyperWind&amp;show=0&amp;order=4",2015-07-09 09:23:37+00:00,csx8kl8,1,t3_3cna06,12659,anime
+397,"&gt; sinh. - early spring ft. Masego
+
+Loved that song, the chill is even stronger now.",2015-07-09 08:19:27+00:00,csx7myh,3,t1_csx446c,10969,anime
+398,"Everything from Your Lie in April.
+
+But seriously, [the ending](/s ""when he played his last piece with Kaori (Chopin's Ballade no. 1 Op. 23), that was beautifully tragic"").
+",2015-07-09 08:15:24+00:00,csx7kt4,1,t3_3cn8mw,9422,anime
+399,"No, not really. It's really more of a kid oriented entry anime.",2015-07-09 02:21:25+00:00,cswyl2b,1,t3_3clw97,12936,anime
+400,"Carnival Phantasm.
+
+**Every second of it.**",2015-07-09 02:18:12+00:00,cswygx9,1,t3_3cmbci,5536,anime
+401,"Thank god I don't, but I have to wake up early regardless to go and get some packages from the mail. &gt;-&gt;
+
+Also, Luv (sic.), Part 3 - Song of the year.",2015-07-09 01:39:54+00:00,cswx3oz,3,t1_cswww1m,358,anime
+402,"It's 4 in the morning and I'm posting random shit on reddit while listening to Nujabes.
+
+Life can't get any [better](https://38.media.tumblr.com/8cb9955131fbe1d0224908cbdaea7d5b/tumblr_nfusqkpX1P1ttvqqlo1_500.gif).",2015-07-09 01:28:31+00:00,cswwp3w,1,t3_3cm5yp,5163,anime
+403,"\&gt; [Meme](http://i.imgur.com/wbGZ2AY.png)
+
+2 dank 4 u. \**tips fedora*\* 
+
+(\^:",2015-07-08 23:06:52+00:00,cswru3h,1,t3_3clj6w,7156,anime
+404,[Shinji x Hand-chan](http://i.imgur.com/2nkCMG8.jpg?1) (\^:,2015-07-08 17:53:00+00:00,cswf9hk,1,t3_3cjsho,15260,anime
+405,Ayy lmao.,2015-07-08 17:39:28+00:00,csweotu,1,t3_3axos8,1238221,PeaceAndQuiet
+406,I know... I'm always watching...,2015-07-08 17:39:03+00:00,csweo81,1,t3_3c6qnp,283392,PeaceAndQuiet
+407,hehehehehehehehehehe...,2015-07-08 17:38:37+00:00,cswenk4,1,t3_3c6qyj,283054,PeaceAndQuiet
+408,"*I smell fresh meat...*
+
+[](#stare)
+
+",2015-07-08 16:41:29+00:00,cswcae9,1,t3_3cj5p3,27014,anime
+409,"Why are you even asking?
+
+Watch Cowboy Bebop. NOW!",2015-07-08 16:24:37+00:00,cswbm78,2,t1_csw5pwt,9777,anime
+410,"So Ra No Wo To, as you like moe.",2015-07-08 16:22:04+00:00,cswbinv,2,t1_csw7rfb,5905,anime
+411,"The Kara no Kyoukai movie series, you're doing yourself an injustice by not watching them.",2015-07-08 16:16:51+00:00,cswbbdr,2,t1_csw996z,3175,anime
+412,http://myanimelist.net/animelist/HyperWind,2015-07-08 15:23:51+00:00,csw992n,1,t3_3cj5gz,22527,anime
+413,HummingBird's forums before they became shit.,2015-07-08 15:21:40+00:00,csw962d,1,t3_3cjvk3,4604,anime
+414,"Ergo Proxy.
+
+Watched it after seeing a pretty cool-looking poster in a convention, did not disappoint.",2015-07-08 15:18:18+00:00,csw91bz,1,t3_3cjk8w,10716,anime
+415,"I hated it even more after watching the OVA, lol.",2015-07-08 13:47:30+00:00,csw5wel,2,t1_csvz61w,21420,anime
+416,"[Your Lie in April](/s ""that ending made me cry buckets"")",2015-07-08 13:41:02+00:00,csw5p7x,1,t3_3cisiw,26957,anime
+417,"[Making of a Cyborg](https://www.youtube.com/watch?v=q0z08OpmEPc) from Ghost in the Shell
+
+[Lucy Rose's Shiver](https://www.youtube.com/watch?v=1o84y-5-cO0) from Mushishi Zoku Shou
+
+[Duvet (aka. the OP)](https://www.youtube.com/watch?v=4-PkAQcuZOw) from Serial Experiments Lain
+
+[Kiri (aka. the OP)](https://www.youtube.com/watch?v=K3u5h9cPTBw) from Ergo Proxy
+
+[Paranoid Android by Radiohead](https://www.youtube.com/watch?v=YQv1Lc7n3aI) from Ergo Proxy (again)
+
+[Bless](https://www.youtube.com/watch?v=vJsqVOQKjEM) from Zankyou no Terror
+
+[Tabi no Tochuu (aka. the OP)](https://www.youtube.com/watch?v=DE-Ayx7cFpo) from Spice &amp; Wolf
+
+[Kami-sama no Iu Tōri (aka. the ED)](https://www.youtube.com/watch?v=lMQK5MbIb1E) from The Tatami Galaxy
+
+[Wareta Ringo](https://www.youtube.com/watch?v=y_3Dix8vHQg) from Shinsekai Yori",2015-07-08 13:31:44+00:00,csw5eze,1,t3_3chxul,43758,anime
+418,"As a person who had been made to use Linux as a kid (my family only had one computer and my father was a programmer and Linux admin, so we had no other choice) I have a few suggestions:
+
+
+Find the most user friendly distro available (I had to use Gentoo as a first distro, didn't enjoy it).
+My suggestions would be:
+
+* Linux Mint
+* Bodhi
+* Lubuntu
+
+
+Don't force the terminal onto him, the terminal can often be a really scary place for a newbie, instead show him how he could use it to make some things he does on the computer faster.
+
+
+Often times people, especially kids, dispise Linux for its lack of windows software they were used to. In this case, install some alternatives or use wine to emulate it.
+
+
+Make him find answers himself. This is where I can give major props to my dad, he never really gave a clear answer to the problems I faced, but instead gave me some hints and led me on the correct path to solving them, he sparked curiosity inside me and eventually - love for Linux.",2015-07-08 12:58:58+00:00,csw4i04,1,t3_3cejuz,103537,linux
+419,"It just really, **really** didn't fit my taste.
+
+From a critical standpoint it's not bad, but, personally, I just couldn't stand it - it just had too many fuzzy feelings, too many awkward exchanges, too many shy characters, too many dumb teenagers, too much crying, not enough speed in its pacing, too many diabetes inducing scenes, etc.
+
+Yeah, after watching it a bit I found out that I dislike shoujo quite much.",2015-07-07 23:24:36+00:00,csvkwjr,3,t1_csvkf9f,808,anime
+420,"Being best girl in a bad show is like being the ""**best**"" piece of trash in a dumpster, the fact still remains that you're trash.",2015-07-07 23:21:31+00:00,csvksmc,3,t1_csvkeft,661,anime
+421,"Kimi ni Todoke.
+
+Literally gave me diabetes.",2015-07-07 23:06:54+00:00,csvk9vk,1,t3_3cgxl2,8557,anime
+422,"**EF: A Tale of Memories** and **Your Lie in April.**
+
+Both of them gave me a metaphorical punch in the face and made me reflect upon my own life decisions and where will I go from now. 
+
+They also left me as a complete emotional wreck and the fact that I've watched one right after another didn't help.",2015-07-07 22:57:29+00:00,csvjxxo,1,t3_3cfgvq,30205,anime
+423,"Present day! *Hehe...*
+
+PRESENT TIME! *HEHEHEHEHEHEHE...*",2015-07-07 22:46:15+00:00,csvjjbh,1,t3_3cfpgz,25638,anime
+424,"[Seriously?](http://i.imgur.com/YDeqodL.png)
+
+Edit: I dislike her not just because she's from school days, I just find the character bad in general.",2015-07-07 22:38:11+00:00,csvj8sm,1,t3_3ch0xh,5441,anime
+425,I realized that my waifu isn't real.,2015-07-07 12:38:50+00:00,csuw96x,1,t3_3ce5b4,26636,anime
+426,Project 2501 best girl confirmed.,2015-07-05 22:29:29+00:00,cst7tvv,1,t3_3c8bhn,4892,anime
+427,Maybe something like [Binbougami ga!](http://myanimelist.net/anime/13535/Binbougami_ga!)?,2015-07-05 21:37:32+00:00,cst6851,1,t3_3c4pkw,93951,anime
+428,"Also, [Yaichi](https://iblos3om.files.wordpress.com/2010/05/house_of_five_leaves_yaichi.jpg) from the House of Five Leaves.",2015-07-05 21:30:48+00:00,cst60nk,2,t1_cssfo9e,74474,anime
+429,"Sorry, but I can't read moon runes.",2015-07-05 21:25:16+00:00,cst5udd,1,t3_3c6ct1,52763,anime
+430,"Well, I've seen enough examples of people praising this anime even on this subreddit, like, every time there's a thread in the vain of ""what's your favourite anime?"" School Days gets mentioned more than once.",2015-07-04 19:23:50+00:00,css6xme,2,t1_css6rgf,364,anime
+431,"&gt; Serial Experiments Lain wasn't scary, it was just bloody.
+
+Um, what?
+
+
+Anyways, ""*scary*"" anime I'd recommend would be:
+
+Texhnolyze,
+Ergo Proxy,
+The Kara no Kyoukai series,
+Monster,
+Paranoia Agent,
+Neon Genesis Evangelion (and The End Of Evangelion).",2015-07-03 22:37:30+00:00,csrfr6u,1,t3_3c0v3l,12543,anime
+432,"School days was soooo bad, like, soooooooo bad, oh god.",2015-07-03 22:30:28+00:00,csrfjy7,1,t3_3byepb,64689,anime
+433,"[Enjoy my superior taste, mongrels.](http://myanimelist.net/animelist/HyperWind)",2015-07-03 22:25:02+00:00,csrfecu,1,t3_3c0b0t,20911,anime
+434,I might just mail myself to Japan to see that.,2015-07-03 07:36:36+00:00,csqt6rz,1,t3_3bypmc,4644,anime
+435,^^^^Please ^^^^don't ^^^^fuck ^^^^it ^^^^up...,2015-07-03 07:26:09+00:00,csqsznm,1,t3_3bxl1e,26632,anime
+436,"As the say, every beginning has an end.",2015-07-03 06:13:49+00:00,csqrhnq,1,t3_3bxjyu,22841,SubredditDrama
+437,"~~Have fun!~~
+
+Edit: Forgot I can't link OSTs here, no fun allowed. :(",2015-07-02 16:37:26+00:00,csq080e,1,t3_3bvjcc,7803,anime
+438,"[Making of a Cyborg from GITS](https://www.youtube.com/watch?v=BsiepGvjjTM), I get shivers up my spine every time I hear that music.
+
+Also [this shit from Shigatsu wa Kimi No uso](https://www.youtube.com/watch?v=wjhrGIQTR7c), buckets upon buckets of tears were cried that day.",2015-07-02 08:46:16+00:00,cspokkg,1,t3_3bseh5,47265,anime
+439,Is it because of [the music](https://www.youtube.com/watch?v=q0z08OpmEPc)?,2015-07-02 08:28:51+00:00,cspobae,2,t1_csplico,9237,anime
+440,"School days and Mars of Destruction, it would be so bad that it would invert the scale.",2015-07-02 08:24:08+00:00,cspo8rm,1,t3_3bum7r,2402,anime
+441,"With or without context, [this shit is hard to figure out](http://i.imgur.com/XGepjvf.gif)...",2015-07-02 08:22:29+00:00,cspo7w2,1,t3_3bt42f,34538,anime
+442,"&gt; Spice and Wolf
+
+I think we all know that isn't happening (at least this millennia).",2015-07-01 20:33:53+00:00,csp3tmf,1,t3_3br271,24983,anime
+443,[I think it's pretty obvious why.](http://vignette3.wikia.nocookie.net/smosh/images/0/0e/Forever_Alone.png/revision/latest?cb=20120530025823),2015-07-01 19:40:31+00:00,csp1nda,1,t3_3bs44e,4482,anime
+444,"&gt; Tell me did Demdy D lead you there?
+
+Eheeeheheheheh...^^^^^^^^Maybe
+
+
+[](#cat2)
+",2015-07-01 17:09:50+00:00,csovebj,3,t1_csouotx,1014,anime
+445,"[My Mal](http://myanimelist.net/animelist/HyperWind), please be gentle. 
+
+[](#nico-heart)",2015-07-01 12:42:06+00:00,csom4f5,1,t3_3bq0he,25356,anime
+446,[Bring it on](https://c2.staticflickr.com/6/5305/5611073897_e5a7a08b90_b.jpg),2015-07-01 00:17:29+00:00,cso67gm,1,t3_3boila,9859,anime
+447," * Mushishi
+
+
+ * Your Lie in April
+
+
+ * Shinsekai Yori (not cheating at all™)
+
+
+ * Ergo Proxy
+
+
+ * The Tatami Galaxy
+
+
+ * Spice &amp; Wolf (dis engrish is 2 cute 4 u)
+
+
+ * Samurai Champloo
+
+
+ * (maybe) Anohana",2015-06-30 23:43:53+00:00,cso52oe,1,t3_3bml3g,38565,anime
+448,The Evangelion Rebuild movies.,2015-06-30 23:33:37+00:00,cso4pux,1,t3_3bo45h,13512,anime
+449,"&gt; Ghost in the Shell
+
+I don't remember GITS being dialogue heavy, maybe Stand Alone Complex was a little at times, but totally not the movie.
+
+
+Well, anyways, my best advice would be to just wait for the correct mood and remove any attention seeking things around.
+Also, get some snacks, I don't know why, but snacks always make me concentrate more.",2015-06-30 23:29:34+00:00,cso4kzk,1,t3_3bokou,6057,anime
+450,"Zankyou no Terror was completely eargasmic, I even bought the OST afterwards.
+
+
+The first Ghost in the Shell movie was pretty amazing too.
+
+
+I also remember Mushishi having a good OST (especially the 2nd season OP, &lt;3 Lucy Rose).
+",2015-06-30 23:18:18+00:00,cso473n,1,t3_3bo48d,12560,anime
+451,"I'd say it's either Shigatsu wa Kimi no Uso or Yojouhan Shinwa Taikei (yes, it's a love story, rewatch it if you don't get it).
+
+And [Shinji x Hand-chan](http://static1.wikia.nocookie.net/__cb20121223064246/evafandom/images/2/2e/Shinjisfuckedup.jpg) comes in a close second place.",2015-06-30 23:02:20+00:00,cso3n7m,1,t3_3bognk,6199,anime
+452,"Edit: Yeah, that makes much more sense now.
+
+Yes, it's sad, really sad (I cried more than once), but it also has a ton of really intense and suspenseful moments.",2015-06-30 21:50:03+00:00,cso13ph,4,t1_csnzk0w,2401,anime
+453,"[Shigatsu wa Kimi no Uso](http://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso), I was never so hyped about classical music in my life.",2015-06-30 21:04:00+00:00,csnzbox,2,t1_csmzj3k,75513,anime
+454,If I only had money...,2015-06-30 09:09:43+00:00,csnd8c7,1,t3_3bk2mh,41924,anime
+455,"Oh, it's bad, really bad (but not the worst).",2015-06-30 08:58:38+00:00,csnd2xh,2,t1_csn8k7y,14749,anime
+456,"[""EDGY""](https://www.youtube.com/watch?v=vZjX65NYVGM)",2015-06-30 08:52:23+00:00,csnczt0,2,t1_csn1n4d,27836,anime
+457,"[Detroit Metal City](http://myanimelist.net/anime/3702/Detroit_Metal_City)
+
+If I recall correctly, it was quite popular after its release, but now it's like it has vanished in the anime singularity.",2015-06-30 08:45:15+00:00,csncw6u,1,t3_3bl3cc,22353,anime
+458,"Never Ever
+
+[](#not-raining)",2015-06-30 08:28:36+00:00,csncnoh,3,t1_csn6xkq,16504,anime
+459,"Kaori Miyazono, because I believe that people actually have good taste in anime girls. :3
+
+
+Also, [salt](http://oi60.tinypic.com/kbwtah.jpg).",2015-06-30 00:09:27+00:00,csmznwj,1,t3_3bk1wp,9847,anime
+460,"Wow... Mean...
+
+[](#manly-tears)",2015-06-29 23:57:41+00:00,csmz9na,3,t1_csmxd8d,3369,anime
+461,"(potential spoilers for Mirrai Nikki, Higurashi and Evangelion)
+
+&gt; But I don't think it was even THAT edgy or dark.
+
+ * A five-year-old tried tries to kill our main duo with what I would presume to be nerve gas.
+ * A terrorist blows up a school full of unknowing civilians and has a good ol' laugh about it.
+ * A semi-blind girl tells a tragic story of how she's raped by hundreds and hundreds of men every day.
+ * etc.
+
+Not trying to be edgy at all™
+
+
+Also, ""darkness"" isn't usually made by not all of the nasty events happening around or the headcount of character x.
+""Darkness"" is usually achieved by presenting an enthralling and immersing world, complex characters and presenting a thing I'd like to call ""the other"".
+The other can be all sorts of things.
+For example, in Higurashi ""the other"" is the contrast between the cutsie characters and their true colours and the ever present gloom and insanity hanging over the town, plus it enhances that effect through the use of the uncanny valley.
+Another example would be Eva. In Eva I'd say ""the other"" would be the complex traumas and the psychological state of the main characters.
+That's why those shows are darker the Mirai Nikki. Mirai Nikki lacks that ""the other"" aspect and tried to compensate by shear kill count and extremeness. That's why it isn't dark and that's why it comes of as edgy and cheesy as hell.
+
+
+&gt; I agree that some of the characters were cliche like the tsundere terrorist, but even for her, i thought it was kind of sweet, especially since some tsunderes are like the one taiga who is the type that makes the tsundere thing so stupid, but idk.
+
+
+Now, why does Taiga make the tsundere thing so stupid and so sweet in the end?
+Why is she liked so much and the terrorist chick comes off as bland?
+I'd say it's character depth. Taiga is not defined by that single trait, she shows emotion and reaction to everything around her, she has some moments of weakness, absolute bitterness and some moments of beautiful joy and affection, she shows humanity in her character, while the terrorist chick only gets the tag ""tsundere"" and that's that. Actually, in my opinion, she isn't even the worst offender, if I recall correctly, she has some development towards the end, the worst offenders here probably are Yuki and Yuno. Throughout the series they are only defined by one, single character trait and don't progress out of that. Yuki will always be that whiny wimpy kid, who's too afraid to do anything without his girlfriend And Yuno will always be the chick who's absolutely and utterly in love with him, in fact she's so in love, that she'd slaughter anyone and everyone in her way to get to her hubby.
+That's why these characters are so shallow and bland, that's why everything comes of as so fake and campy in the series, that's why this show is so bad, even if it had such an interesting setting and a good start.
+
+And you know what, I actually really wanted to like this show, I really love the psychological/horror ganre and I get really hyped every time a new anime comes out, but I get constantly burned by mediocre adaptations, whose authors didn't put any soul into them and just wanted a quick cash grab.",2015-06-29 23:35:17+00:00,csmyi90,4,t1_csmwfwq,3649,anime
+462,"I watched DBZ when I was 3 years old, was my favourite show at the time. Later in life I learned that it was this mystical thing called ""anime"" and the rest is history.",2015-06-29 21:38:19+00:00,csmufoe,1,t3_3bjc5i,11884,anime
+463,Every hentai is really emotionally engaging in its own way. ( ͡° ͜ʖ ͡°),2015-06-29 21:28:43+00:00,csmu34r,4,t1_csmtj33,898,anime
+464,It was like watching a hentai for the characters.,2015-06-29 21:08:48+00:00,csmtcbu,2,t1_csmgzdm,19090,anime
+465,"The characters were shallow, the story was often nonsensical and unexplained, many scenes were overreacted and, in general, it tried to be too edgy and dark for it's own sake. If the writers had spread it out and toned it down a bit, plus, given the characters some deeper motivations, context and real personality (not just ""the crazy chick"",  ""the whiny dude"", ""the tsundere terrorist"", etc.) it would've been far far better than what we've got now.",2015-06-29 21:01:09+00:00,csmt1ua,2,t1_csme0m9,23895,anime
+466,"Guys, am I the only one who thinks that GITS should just end? 
+
+
+I mean, probably nothing will come even close to the first movie and Stand Alone Complex and these new additions just feel tacked on and unwelcome by this point.
+
+
+I think it's time to let it go.",2015-06-29 20:42:17+00:00,csmsbeo,1,t3_3biv0g,15954,anime
+467,/r/badjokes,2015-06-29 19:23:57+00:00,csmp82t,1,t3_3bjjmn,667,Jokes
+468,"As I mentioned, I haven't done much work with frontend audio, so I wrote what I could gather from its description and to me it seemed like semi-simpified and more feature complete version of what the Web Audio API intended to be",2015-06-28 13:59:57+00:00,csle8j7,5,t1_csldxpb,896,webdev
+469,"From those I could recommend TypeScript, as it's probably closest to C and fixes more than a few annoyances with vanilla JavaScript.
+
+
+Also, if I recall correctly, Wad is built upon the Web Audio API and made to, pretty much, simplify it.",2015-06-28 13:21:29+00:00,csldi3d,3,t1_csldeiz,341,webdev
+470,"In the frontend (aka. the client side) there's nothing but JS, so you'll just have to deal with it or find some language that transcompiles to it (TypeScript, ClojureScript, CoffeeScript, etc.), but that doesn't make much difference.
+
+
+I haven't done much work with frontend audio manipulation, so I can't really comment on that, but I've heard that [Wad](https://github.com/rserota/wad), [Howler.js](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library) and [MIDI.js](http://mudcu.be/midi-js/)
+are pretty good libraries to do these sorts of things with.
+",2015-06-28 12:22:51+00:00,cslck7s,1,t3_3be7v6,2152,webdev
+471,"I personally enjoyed the whole thing throughout, but I think it gets a little bit better at episode 4 or 5 (can't really remember, watched it a long time ago).
+
+I just wonder why you didn't like it so far, I remember loving the shit out of it, especially the ending.",2015-06-28 10:29:35+00:00,cslb4ng,1,t3_3bdq39,14317,anime
+472,"[Come at me, bro(s)!](http://myanimelist.net/animelist/HyperWind)
+
+[Obvious one for OP](http://i.ytimg.com/vi/OCH9fVJDHYI/maxresdefault.jpg)",2015-06-27 22:20:02+00:00,cskvgfk,1,t3_3bc3ws,7073,anime
+473,"Btooom.
+Seriously, that ending was shit.",2015-06-27 22:14:57+00:00,cskvb1n,1,t3_3bbjko,17576,anime
+474,"I actually marathoned all seasons of mushishi in one night.
+That night was awesome.
+
+",2015-06-27 22:08:49+00:00,cskv4bb,4,t1_cskehbk,39210,anime
+475,"The ending of Haibane Renmei, the ending of Katanagatari and everything from Ef: A Tale of Memories, **all of it**.",2015-06-27 18:11:16+00:00,csko626,1,t3_3bbkqp,2335,anime
+476,"Shit, I just finished it today.",2015-06-27 18:08:29+00:00,csko324,1,t3_3b99le,62718,anime
+477,E-Eto...,2015-06-26 20:24:16+00:00,csjsyx2,1,t3_3b7dzd,16282,anime
+478,"Sinshekai yori, Texhnolyze, Haibane Renmei, Lain, NGE, Mushishi, EF: A Tale of Memories, Ergo Proxy, The Tatami Galxy and FMA: Brotherhood. I could probably name off a few more, but this is as much as I can remember so far.",2015-06-26 20:18:18+00:00,csjsqv3,1,t3_3b7p5l,11065,anime
+479,"You just mentioned two of my favourite books in one sentence. Kudos to you, sir.
+
+
+On a side note, why, do you think, they don't just escape when they have a chance, is some higher meaning tying them to the country?",2015-06-26 19:45:36+00:00,csjrhsu,5,t1_csjb95b,27177,IAmA
+480,"[Yoshitoshi Abe's Lain Artbook](http://www.amazon.com/Yoshitoshi-Abe-Lain-Illustrations/dp/1569708991/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1435320160&amp;sr=1-1) is really good.
+
+
+Also I've heard that these are pretty cool:
+
+* [The Art of Spirited Away](http://www.amazon.com/Art-Spirited-Away-Hayao-Miyazaki/dp/1569317771/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1435320715&amp;sr=1-1)
+
+* [Steins;Gate Art Works](http://www.amazon.com/Steins-Gate-Works-Imaginations-Huke/dp/4041103827/ref=sr_1_7?s=books&amp;ie=UTF8&amp;qid=1435320715&amp;sr=1-7)
+
+* [Type-Moon 10th Anniversary Phantasm](http://www.amazon.com/TYPE-MOON-Anniversary-Phantasm-JAPAN-IMPORT/dp/404110243X/ref=pd_sim_14_2?ie=UTF8&amp;refRID=0NE79GBWMHVQX8ZVS24R)
+",2015-06-26 12:19:25+00:00,csjbea6,1,t3_3b4sty,45430,anime
+481,"[Mushishi Zoku Shou](https://www.youtube.com/watch?v=JsP_P9Mn2qE) - makes me tear up every time.
+
+
+[Kino no Tabi](https://www.youtube.com/watch?v=Gsfu82kv3iE) - not really slow, but peaceful.
+
+
+[Lain](https://www.youtube.com/watch?v=4-PkAQcuZOw) - really relaxed, but not really slow.
+
+
+[Boogiepop Phantom](https://www.youtube.com/watch?v=Trwc34OIwlw) - funky and relaxed.",2015-06-26 11:57:14+00:00,csjaxxh,1,t3_3b5ghu,31629,anime
+482,"I've been watching anime for about 1-2 years with semi-frequent breaks and this is what I think so far:
+
+
+Anime, to me, is a really expressive and broad medium that, when used correctly, can produce really great emotionally moving and philosophically deep pieces of **art** (probably even more so than movies). Of course, this often goes unrealised as anime is greatly a commercial medium and directors mostly treat animation as childish, even if it can portray much more than film ever could. But, I'd like to stay positive and hope that, as time passes, more and more people realise the power animation gives to the author. 
+
+
+Age group: 16-20",2015-06-26 11:33:19+00:00,csjai6o,1,t3_3b6916,10093,anime
+483,"Anything from Yoshitoshi Abe as his designs portray a lot of emotions and character traits while remaining realistic and simplistic to a certain extent.
+ ([Lain](http://4.bp.blogspot.com/-IolxvxcmBIU/Tqp7Mr2mYII/AAAAAAAAAGo/CMxN4gRtJck/s1600/imgDump+Lain+J08+63.jpeg), [Texhnolyze](http://25.media.tumblr.com/tumblr_lshux82mUv1r1zft9o1_500.jpg), [Haibane Renmei](http://i.imgur.com/hCIu5hJ.jpg))
+
+
+I also love the designs from [Monster](http://static.comicvine.com/uploads/original/12/127192/3426433-3199866777-2edox.jpg), [Mushishi](http://vignette2.wikia.nocookie.net/mushi-shi/images/c/c1/Character01.jpg/revision/latest?cb=20140710053415) and [Jin-Rou](http://www.fareastfilms.com/cmsAdmin/uploads/jin_roh3.jpg) for mostly the same reasons.
+",2015-06-26 10:53:28+00:00,csj9uzk,1,t3_3b4d08,48021,anime
+484,"[Zankyou no Terror](https://www.youtube.com/watch?v=XmqRsIudBII)
+
+
+Like, ^do ^^you ^^^even ^^^^soundtrack, ^^^^^bro?
+",2015-06-26 00:30:07+00:00,csivu93,1,t3_3azsya,99976,anime
+485,"Nichijou Season 2
+
+
+Haruhi Season 3
+
+
+Spice &amp; Wolf Season 3
+
+
+Btooom! Season 2
+
+
+Moar Madoka Magica (that film really needs closure)
+
+
+(and to a certain extent Despera)",2015-06-26 00:19:02+00:00,csivgql,1,t3_3b2z5u,31803,anime
+486,"""Well, it's definitely blue, but not a waffle...""",2015-06-26 00:06:52+00:00,csiv1q1,1,t3_3b21v3,51494,AskReddit
+487,"I've had the beetus (type one though) for most of my life and can say that those are some of the most prone symptoms, also if you or any your friends, that possibly have the beetus, are experiencing most of those symptoms and/or immense shivering, difficulty speaking, horrendous headaches, paleness, difficulty concentrating and nausea, consider calling an ambulance, 'cuz it might not end well (speaking from personal experience).",2015-06-25 23:35:22+00:00,csitydr,2,t1_csid2ds,26222,AskReddit
+488,"""...Russia recommends x not to join NATO..."" so it could be invaded more easily... Yeah, how about no.",2015-06-25 23:06:45+00:00,csit0y0,1,t3_3azgy0,100377,europe
+489,"Well, you can buy a can at any convenience store around, but I doubt that anyone favours it to simple milk, if available.
+I use it mostly when I need something milk-ish that doesn't go bad in a day and is relatively easy to carry around (ex.: when camping) or when making [this beautiful diabetes-inducing lump of joy](http://www.lithuanianhomecooking.com/home/lazy-man-cake).
+",2015-06-25 22:59:35+00:00,csissgu,1,t3_3b3gqc,19286,europe
+490,"Yeah, you were right, gcc was derping out as when I tested it with 4.9 everything worked as intended.
+Well, anyways, thanks for your help, I might've still been stuck without it. :)",2015-06-22 18:50:50+00:00,csf1brg,8,t1_csf0qr2,900,sfml
+491,Yep.,2015-06-22 18:13:26+00:00,csezvmu,6,t1_cseyzx8,1405,sfml
+492,"Same as before, it threw an invalid pointer.",2015-06-22 17:43:52+00:00,cseyrel,4,t1_cseyczy,635,sfml
+493,"Totally forgot that.
+
+
+http://pastebin.com/gVSWVVdm
+
+
+It's the default testing application from their website.",2015-06-22 17:06:55+00:00,csexdjf,2,t1_csew4o1,2001,sfml
+494,"Because, as programmers, we want to know how everything works to the tiniest speck and we want something that's completely our own and made to satisfy our every and any need.
+With premade engines you just don't get that freedom.
+Also, just the thrill of making a working product is amazing.",2015-06-22 09:02:12+00:00,cselpav,1,t3_3aml50,52338,gamedev
+495,We're definitely getting occupied first.,2015-06-21 15:34:59+00:00,csduo7d,1,t3_3almeo,11003,worldnews
+496,"This makes me lose more and more faith in humanity every time I read it.
+Like...Jesus...
+You'd have to be denser than a thick, solid block of led to fail fizzbuzz.",2015-06-17 21:46:05+00:00,csa183w,1,t3_35rtve,3102491,programminghorror

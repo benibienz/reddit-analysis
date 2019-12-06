@@ -1,0 +1,276 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,[Forum announcement](http://forum.dlang.org/post/o0d4g7$caf$1@digitalmars.com),2016-11-14 20:51:08+00:00,da0awem,1,t3_5cyb8p,24,d_language
+1,You might want to post your comment in [this thread](http://forum.dlang.org/post/o08esa$osd$1@digitalmars.com). The author may not follow this subreddit.,2016-11-14 14:17:58+00:00,d9zspir,2,t1_d9z366n,52534,d_language
+2,"[Announcement](http://forum.dlang.org/post/o08esa$osd$1@digitalmars.com)
+
+[Dub package](https://code.dlang.org/packages/secured)",2016-11-13 03:36:47+00:00,d9y0hlc,1,t3_5co6in,35,d_language
+3,"In case someone else comes upon this, the answer on the forum is [here](http://forum.dlang.org/post/mailman.42.1478858729.9448.digitalmars-d@puremagic.com).",2016-11-11 16:15:02+00:00,d9vyz80,1,t3_5cdoyo,23664,d_language
+4,"""Dmitry Olshansky has been a frequent contributor to the D programming language. Perhaps his best known work is his overhaul of the std.regex module, which he architected as part of Google Summer of Code 2011. In this post, he describes an algorithmic optimization he implemented this past summer that resulted in a big performance win.""",2016-11-07 15:18:33+00:00,d9pm2x8,1,t3_5bmoko,13,d_language
+5,"I'm sure it's not a huge number overall, but some are listed here:
+http://dlang.org/orgs-using-d.html
+
+That is not comprehensive. For instance, [Ilya Yaroshenko](https://docs.google.com/presentation/d/1w1cQ8vDluglRIt8Qdnm-sY7kqxoKZxbPEWW6tR3lPpo/edit#slide=id.p) does consulting, so it is used in production elsewhere. As I recall, Andrei said other tools beyond warp are still in use at Facebook.",2016-11-03 03:02:46+00:00,d9jeuts,2,t1_d9jebn1,641,programming
+6,"Can you call the rust code from C? If so, it's straightforward to call it from D: 
+
+http://dlang.org/spec/interfaceToC.html
+
+http://wiki.dlang.org/D_binding_for_C",2016-11-02 21:35:26+00:00,d9iz88k,2,t1_d9iys89,541,programming
+7,"[Here](http://adv-r.had.co.nz/OO-essentials.html) is a description of S3, S4, and RC classes. RC classes are probably more what you are looking for. Of course, many would debate the idea that OOP is the true test of the quality of a language.",2016-11-02 02:53:49+00:00,d9huq03,2,t1_d9hil9d,15285,programming
+8,"[Download](http://code.dlang.org/packages/vibe-d/0.7.30)
+
+[Announcement](http://forum.dlang.org/post/nv89kv$mjs$1@digitalmars.com)",2016-10-31 23:44:28+00:00,d9g4fm0,1,t3_5afw57,58,d_language
+9,"[Forum announcement](http://forum.dlang.org/post/nv66le$hdi$1@digitalmars.com)
+
+[Download link](http://dlang.org/download.html)",2016-10-31 17:49:13+00:00,d9fn3s2,1,t3_5adqvg,53,d_language
+10,"[Forum thread](http://forum.dlang.org/post/bxuduoksgxmbjuwumumh@forum.dlang.org)
+
+[Background information](http://forum.dlang.org/post/nu8qq8$2i1a$1@digitalmars.com)",2016-10-28 10:21:51+00:00,d9b8m6e,1,t3_59tosn,88,d_language
+11,"I've only used D for a few years, but my understanding is that it has been ABI compatible with C from the beginning. A recent discussion about even tighter integration is [here](http://forum.dlang.org/post/nscb5h$2puo$1@digitalmars.com)",2016-10-27 14:12:34+00:00,d99ywpo,2,t1_d99p5gh,24738,d_language
+12,"[Github repo](https://github.com/libmir/mir-glas)
+
+[Dub package](http://code.dlang.org/packages/mir-glas)",2016-10-26 20:54:19+00:00,d991s9p,1,t3_59k0il,49,d_language
+13,"And there is now a third team member:
+http://forum.dlang.org/post/nu5p7b$hjk$1@digitalmars.com
+
+Hopefully there will be a blog post with more details sometime soon.",2016-10-18 19:47:54+00:00,d8xovyh,1,t3_57gcis,368260,d_language
+14,"&gt; no less readable for being dynamic
+
+I would claim that this is a false statement (less information makes it less readable to me) but that would be purely my opinion. I'm not sure that you understand that your statement is purely an opinion though.
+
+&gt; It's very rare that the type of a variable is unclear in an otherwise well-designed system.
+
+Without some supporting arguments, it's hard to understand what you are trying to say here, but I'm reminded of the programmers that objected to the introduction of compilers because a real programmer doesn't need a compiler.",2016-10-17 11:03:03+00:00,d8vjx1q,2,t1_d8vhr9j,7364,programming
+15,The D Language Foundation is adding team members to work on D-related projects. The announcement of the first addition (Alexandru) is [here](http://forum.dlang.org/post/nt1cci$pqu$1@digitalmars.com).,2016-10-14 13:32:27+00:00,d8rp5do,1,t3_57gcis,133,d_language
+16,Forum announcement is [here](http://forum.dlang.org/post/owsuyantjedwudygfijq@forum.dlang.org).,2016-10-11 13:50:43+00:00,d8naldq,1,t3_56y2mr,39,d_language
+17,"My one anecdote about SO came a few years ago. They had a blog post about finding ways to automate the closing of questions so that it could be done faster. I commented that if you can identify ""bad"" questions, rather than deleting them, maybe you could instead somehow put them on hold with a message for the person that asked it. Predictably (in hindsight) my comment was deleted within a few minutes.",2016-09-26 00:28:15+00:00,d820j5m,1,t3_54f62f,38273,programming
+18,"I pulled that information from the Github repo. I've never actually used them, but wanted to give a little background for others.",2016-09-23 13:03:40+00:00,d7ys91g,3,t1_d7yjrob,25229,d_language
+19,"This project provides containers that do not use the garbage collector. They are backed by std.experimental.allocator.
+
+[Project Github page](https://github.com/economicmodeling/containers)",2016-09-23 01:09:00+00:00,d7y9pyv,1,t3_542agq,112,d_language
+20,Apologies if anyone thinks this is not sufficiently important to post here. I personally found it interesting and think it is a nice example of GtkD and creating a Dub project.,2016-09-22 18:31:52+00:00,d7xsig0,1,t3_540flw,85,d_language
+21,"""The impetus for this post was an open source first-person shooter, called Atrium, that he develops and maintains. In the course of making the game, he has created a few other D projects, each of which could be the focus of its own post. So this time around, we’re going to do a plural Project Highlight and introduce you to the GitHub repository of Timur Gafarov.""",2016-09-16 19:04:53+00:00,d7pmewy,1,t3_533j2j,15,d_language
+22,This is release 7.0.0. Announcement: http://forum.dlang.org/post/fqwjvcolyphnlyuhkfgt@forum.dlang.org,2016-09-04 15:47:21+00:00,d796s2s,1,t3_514ie2,56,d_language
+23,"Looks like there's no ""other discussions"" link provided here because the r/programming link is https and this one is http.",2016-08-30 18:09:00+00:00,d72w8he,2,t1_d72tr14,3140,d_language
+24,"Walter Bright is the creator and first implementer of the D programming language. He was an early developer of C++ compilers starting from the mid-’80s, including the first C++ compiler to translate source code directly to object code without using C as an intermediate, and has written compilers for ABEL, C, Java, and Javascript. He believes he is the only person to have written a full C++98 compiler by himself. Empire, one of the first computer strategy games, was written by Walter at Caltech.",2016-08-30 12:12:46+00:00,d72hi3x,1,t3_50asb2,51,d_language
+25,Feel free as well to write blog posts and post links to them here. Every bit helps beginners.,2016-08-29 13:16:14+00:00,d715d4s,7,t1_d7140n3,2667,d_language
+26,"This is not really my area, so unfortunately I cannot offer any help. The community for this subreddit is somewhat smaller than the official D forums. I'd recommend posting your question in [d.learn](http://forum.dlang.org/group/learn), which is very active. (No registration is required.) 
+
+And yes, things could be made easier for the beginner, and they slowly are. Providing information about what you are struggling with will clarify which parts need more work.",2016-08-29 11:34:52+00:00,d712liw,5,t1_d70y083,15636,d_language
+27,"[DStep](https://github.com/jacob-carlborg/dstep) is a tool for translating C and Objective-C headers to D modules. One of the strengths of D is the ease with which you can [work with C libraries](http://dlang.org/spec/interfaceToC.html), but you still have to translate the C header files to D. DStep can be used to automate this process.
+
+Wojciech Szęszoł worked on DStep as a GSoC project. Some of the improvements he made include:
+
+* Windows support
+* Translation of preprocessor macros
+* Translation of comments",2016-08-28 02:14:28+00:00,d6zib4r,1,t3_4zxer7,676,d_language
+28,"GGPlotD is a plotting library for the D programming language. The design is heavily inspired by ggplot2 for R, which is based on a general Grammar of Graphics described by Leland Wilkinson. The library depends on cairo(D) for the actual drawing. The library is designed to make it easy to build complex plots from simple building blocks.",2016-08-21 13:46:03+00:00,d6qkc20,1,t3_4yuwy7,35,d_language
+29,I posted this because some users would like guaranteed TCO but may not know anything about this proposal. Discussion here: https://github.com/dlang/DIPs/pull/6#issuecomment-239691809,2016-08-15 01:11:38+00:00,d6hqtbi,1,t3_4xr4tx,191,d_language
+30,"I've also got my own project linking R and D. It's much more than just passing data between the languages, as it provides loads of statistical/numerical functionality, but unfortunately I don't have the time to turn it into a real project with Dub integration, Windows support, good documentation etc. Nonetheless it works great and I use it all the time.
+
+Here's the link in the event that anyone's interested: http://lancebachmeier.com/rdlang/
+I would be very happy if someone were interested in helping with Dub integration, Windows support, etc.",2016-08-12 14:35:59+00:00,d6ekkmt,3,t1_d6ecgiv,17488,d_language
+31,"D is a great language for scientific programming, but based on forum postings, few new D users are aware of this project. Offers lots of functionality.",2016-08-12 00:46:39+00:00,d6dwso9,1,t3_4xawnh,82,d_language
+32,"I like the idea of having these discussions here as opposed to the NG. This is a good place for bikeshedding and discussions about the language. The NG is for answering questions (learn), discussing language development (general), and important announcements (announce). Moving the noise here makes a lot of sense to me.
+
+As for the four disadvantages, this is our subreddit, so we can do whatever we want. We can repost outdated topics if we want, and the mods decide what gets deleted. Those that don't like Reddit are free to continue to use the NG if they want. But as I said above, the NG isn't really intended for the noisier discussions anyway.",2016-07-31 04:41:00+00:00,d5xzpht,1,t3_4vel7m,18610,d_language
+33,"That's true, but those individuals are going beyond using D as a better C.",2016-07-22 02:52:12+00:00,d5luy4b,4,t1_d5lq5me,7638,programming
+34,"It is somewhat misleading to say D is not a GC-free language. You can do anything in D that you can do in C - no GC required - and you get lots of additional features. What you can't do is use the full language, including large parts of the standard library. 
+
+It is not the case that the GC is required. The question is whether the ""better C"" is the best alternative.",2016-07-22 02:51:05+00:00,d5luwmj,2,t1_d5ld796,26264,programming
+35,"""If you can write for loops..."" You lost me. It's 2016. Why the hell are people still writing for loops? Especially for this kind of thing, where you don't need a for loop.",2016-07-04 15:16:34+00:00,d4yu6f8,1,t3_4r6nus,16917,programming
+36,Okay. Looks like the author's link to the podcast takes the reader somewhere else.,2016-06-16 19:58:16+00:00,d4c20xs,3,t1_d4bskwk,11280,programming
+37,Is the Cognicast podcast dead? Looks like the most recent is two years old.,2016-06-16 14:33:57+00:00,d4bm3vs,1,t3_4objpb,37240,programming
+38,Why are you doing an AMA?,2016-06-08 11:43:15+00:00,d40qmni,1,t3_4n4dn9,3896,IAmA
+39,They're doing a great job with the videos this year. If only I had the time to watch them...,2016-05-05 20:09:43+00:00,d2u8wmu,1,t3_4hzdg4,33471,programming
+40,"By ""small private usage"" do you mean you want a standalone wiki (i.e., running on your local computer) or one that you have on your web server but only you access?
+
+I use [PmWiki](http://www.pmwiki.org/). It's dead simple to set it up either way, uses plain text files rather than a database, updating is trivial, and is easy to customize.
+
+Another alternative is [Tiddlywiki](http://tiddlywiki.com/).",2016-03-08 21:29:38+00:00,d0sjmqi,1,t3_49ekez,90481,selfhosted
+41,"&gt; Whilst some commentators may see Lightbend’s preference for Java on Lagom as dark news for the Scala community at large, both  Bonér  and Brewer are emphatic about the organisation’s commitment to the language.
+
+I'm an outsider, but I don't think I'd be starting any new projects in Scala. It would be nice to know the reasons for this ""commitment"".",2016-02-23 19:04:22+00:00,d0awr5l,1,t3_4761uf,30393,programming
+42,"I understand, but the author was very specific: ""We have to rely on convention or documentation (typically -1)."" I don't think he'll convince anyone that knows C with statements like that. Some C programmers even use a macro after every function call to check for an error:
+
+    foo(x, y, result); CHECK
+    bar(z, result); CHECK
+
+Not that this is a good substitute for a better type system, but it meets the minimum standards laid out by the author.",2016-02-15 15:51:36+00:00,d00pzuz,3,t1_d00hkrx,24712,programming
+43,"I think the author should have dropped the section about C. I understand what he's saying about a better type system, and agree with it, but he doesn't do a very good job of making the point.
+
+&gt; Because C lacks sum types, we don’t know what our function will return if the element is missing. We have to rely on convention or documentation (typically -1).
+
+You can return a struct with a flag for missing. You don't need convention or documentation to interpret foo.missing.
+
+&gt; A type system alone does not help us reason about our code. Compare to Haskell.
+
+Sure it does. It is often helpful to know that a function takes int arguments and returns an int.",2016-02-14 10:23:09+00:00,czzfrv3,1,t3_45obw5,24974,programming
+44,"For one thing, it's not tied to Emacs. I do all of my D programming in org-mode but I can imagine that there are some that don't want to.",2016-01-31 17:35:22+00:00,cziq83j,2,t1_cziarwx,45355,programming
+45,"I found this probably a couple months ago. Haven't had a chance to try it yet, but it looks nice. Had no idea it was written in D.",2016-01-30 22:43:31+00:00,czhz3fa,1,t3_43fvbv,6986,programming
+46,"To my knowledge, there is no plan for version 3, so with six releases a year, they'd run out of numbers in 2021.",2016-01-29 15:20:33+00:00,czgfoca,4,t1_czgemb2,1749,programming
+47,Doesn't this subreddit have mods? This is completely unrelated to programming.,2016-01-07 00:12:06+00:00,cyopw53,1,t3_3zroyj,12831,programming
+48,"It's a [real world use case](http://blog.freecodecamp.com/2015/06/so-yeah-we-tried-slack-and-we-deeply-regretted-it.html).
+
+From the author's comment on Hacker News:
+
+&gt; I want to point out that communities are increasingly using Slack, and many of them are also in the thousands of users. Slack does nothing to discourage this, aside from posting warnings about archiving messages.
+
+&gt; The real problem is that they have an undocumented user limit. Like I said, I'm pretty sure we're the first community to hit this limit.
+
+&gt; Big online courses, for example, routinely draw 100,000s of students, and might make the same mistake we did (Harvard's CS50 class did).
+
+&gt; Slack may be able to fix its sluggishness for these other communities, and someone might build integrations that routinely export then delete messages so as to stay below the 10,000 message limit and remove the warnings. But it's too late for us. We can't pause our community growth while we wait for Slack to engineer around their undisclosed user limit. So we have no alternative but to switch.
+
+&gt; The main reason I wrote this post is to provide a cautionary tale to other open-membership organizations who are considering using Slack. Slack doesn't seem to be intended to do this! Please don't do this!",2016-01-04 14:44:03+00:00,cylj544,2,t1_cylhskz,3237,programming
+49,"What makes HN one of the worst places on the internet is the combination of arrogance and ignorance. A software engineer will post a comment on biology as if he understands what is going on. Then someone with a PhD in biology will correct him and get downvoted. And in spite of the claims that the low quality comments come from new HNers, I've seen tons of ignorant comments from those that have been there for years. The difference is that nobody downvotes those with high karma levels.
+
+tl;dr If HN has a smarter userbase, the word smart has to be redefined.",2015-12-25 19:19:22+00:00,cyb5eyt,6,t1_cyb3bq2,4653,programming
+50,I don't understand your response. What service are you talking about?,2015-12-25 19:12:13+00:00,cyb584e,6,t1_cyb2wk7,5199,programming
+51,"The new site is focused on computer science. Hacker News was originally created for startup news, then it expanded to be anything they find interesting. Some stories about Go, Rust, and various items related to web development make it to the front page, but it's loaded with ""Why my startup didn't make it"" and ""How birds evolved to have bright feathers"". And I had to pick myself up off the floor after reading the part about being attracted to HN for the users.",2015-12-25 11:44:34+00:00,cyawap7,4,t1_cyas126,18300,programming
+52,"I do use it at the command line as well, but only for testing. But since you posted here, I was reminded of several questions:
+
+1. How can I upload a file?
+2. How do I make a file available for download? You've got an example for downloading a csv file, but I want to be able to download a PDF or other file type.
+3. Will this work with https on an Apache server? In other words, will the data passed to and from the cgi script be secure?
+
+I have your book, but that only gives a single example on this topic.",2015-12-18 21:04:14+00:00,cy3t850,7,t1_cy2fbrn,98200,programming
+53,"&gt; I assume that D isn't the natural option if you're just smashing out some quick scripts, or is it suited to that also?
+
+My go to language for scripts used to be Ruby. Now it's D. I enjoy the language so much that I've automated almost all of my workflow. Of course, a lot of that is just executeShell calls, but a lot of it isn't. 
+
+I use Adam Ruppe's [cgi.d](https://github.com/adamdruppe/arsd/blob/master/cgi.d) combined with scripts to do a lot stuff from the browser that I used to do at the command line. One example is jotting down a quick note. I used to do that in a terminal. Now I do it in the browser. Not that you can't do any of that in other languages, but if your preference is for D, it's nice that it's available and that you don't have to worry about writing efficient code.",2015-12-14 21:18:41+00:00,cxz2ua8,5,t1_cxz0idc,3644,programming
+54,I created a thread about this on [the D forum](http://forum.dlang.org/post/fdbnecqbemseocwzghxw@forum.dlang.org). Please feel free to go there and give your thoughts. Registration is not required.,2015-12-14 19:05:49+00:00,cxyxrnl,5,t1_cxyvuen,3257,programming
+55,I created a thread about this on [the D forum](http://forum.dlang.org/post/fdbnecqbemseocwzghxw@forum.dlang.org). Please feel free to go there and give your thoughts. Registration is not required.,2015-12-14 19:05:43+00:00,cxyxriq,5,t1_cxyv1o0,4492,programming
+56,"There are two huge problems with the standard library documentation on dlang.org. First is ranges. If you're going to use ranges, you need to provide explanations of how they work, as if each function is someone's first encounter with ranges (because it is). Second is generic code. I passionately hate seeing something like
+
+    bool isSameLength(Range1, Range2)(Range1 r1, Range2 r2) if (isInputRange!Range1 &amp;&amp; isInputRange!Range2 &amp;&amp; !isInfinite!Range1 &amp;&amp; !isInfinite!Range2);
+
+I've submitted a small number of PRs but it takes time to do so. A nice feature of the documentation is ""Improve This Page"" in the upper right corner. For small changes, like adding a link to the ranges section of Ali's book, it's really easy. However, that's far from a complete solution.",2015-12-14 16:03:05+00:00,cxyqxuz,3,t1_cxyf0pt,35112,programming
+57,"What is ""material design wiki software""?",2015-12-12 11:29:02+00:00,cxwdilf,1,t3_3w8g2b,158102,selfhosted
+58,"If you don't like it, don't use it. It's not like there are no alternatives.",2015-12-10 14:58:40+00:00,cxu463l,2,t1_cxtzhve,11879,programming
+59,"Common Lisp is a cult. Numerous times I've suggested that Common Lisp needs to be updated, and the response is that I don't understand the magic of things like princ and cdr. It had a good run, but other languages have caught up, and the crusty outdated nature of everything from the names and clhs to the 1990s websites to the references to Lisp machines and the magic of the 1960s and 1970s have turned off anyone that isn't a true believer.",2015-12-07 00:52:51+00:00,cxpqac7,2,t1_cxovieu,67524,programming
+60,"You wrote in the book, ""This book is intended for those with some background in a C-family language who want to learn how to apply their knowledge and experience to D."" 
+
+What are your thoughts about using D as a first programming language? Do you think someone should have experience with a different programming language before jumping into D? Do you think it's a better first language than Java, which has been used for years in that role at universities?
+
+",2015-12-02 04:31:47+00:00,cxk1jmv,2,t1_cxjtcr7,13308,programming
+61,This has nothing to do with programming.,2015-11-24 13:24:26+00:00,cxbc1m2,1,t3_3u25ee,14838,programming
+62,"I've used D quite a bit, but I've done almost no web programming, and that was in PHP. When I see something like this
+
+    import vibe.d;
+
+    void index(HTTPServerRequest req, HTTPServerResponse res)
+    {
+	res.render!(""index.dt"", req);
+    }
+
+    shared static this()
+    {
+	auto router = new URLRouter;
+	router.get(""/"", &amp;index);
+
+	auto settings = new HTTPServerSettings;
+	settings.port = 8080;
+
+	listenHTTP(settings, router);
+    }
+
+without explanation, I'm lost, because I have no idea what a ""URLRouter"" is supposed to do, for instance. The Go tutorial I linked goes into detail about everything.
+
+I'll be happy to provide feedback when you're done.",2015-11-10 14:20:08+00:00,cwvb2yw,4,t1_cwv3lzt,26409,programming
+63,"Agreed. I'm sure there is good stuff in there, but I have no clue what it is. There may be some readers that can figure it out. Certainly doesn't give a good impression of D, when you compare it against an introduction like this https://golang.org/doc/articles/wiki/
+
+[Edit: But it is still better than the vibe.d documentation.]",2015-11-09 20:49:07+00:00,cwui86y,2,t1_cwuefcd,5218,programming
+64,"Then you'd be an ideal person. There is an aversion to Hello, World introductions in the D community. I've been using D for more than two years and still use other languages for a lot of things, because pretty much every other language understands the need for documentation intended for beginners better than the D community.",2015-11-04 21:09:18+00:00,cwolumk,8,t1_cwo4e6l,25072,programming
+65,"It will probably go faster if you can jump in and help out, at the very least by testing, or even just asking questions in the forum, since there's not much documentation. I don't know anything about Android development so I can't help them.",2015-11-04 13:07:12+00:00,cwo2o6f,6,t1_cwo1ic3,3417,programming
+66,http://forum.dlang.org/post/wnaxhoadwibctcbwpctl@forum.dlang.org,2015-11-04 11:24:24+00:00,cwo0roy,4,t1_cwo0l5i,725,programming
+67,"How difficult is it to set up an IRC server? Are there advantages over something like Jabber (which is really easy to set up, including encryption).",2015-11-01 21:12:02+00:00,cwkt1oo,3,t1_cwkrl6n,2102,programming
+68,"That is why the new Basecamp 3 has a ""Work Can Wait"" mode. It doesn't send any notifications of any kind outside of the work hours you set. In principle, it shouldn't be necessary, but a feature like that sets boundaries for you.",2015-11-01 21:10:21+00:00,cwksz4q,2,t1_cwkqi1i,3620,programming
+69,"I don't think it would help with any of the other points, but [Ryver](http://www.ryver.com/) offers unlimited everything, including chat/discussion history, for free.",2015-11-01 21:03:01+00:00,cwksnt8,2,t1_cwkogrd,6256,programming
+70,Deveo or RhodeCode. The latter is self-hosted so not exactly the same as Bitbucket.,2015-10-23 18:20:15+00:00,cwabcda,2,t1_cwa977o,3201,programming
+71,Is the application really so heavy that you need 3 machines to run it?,2015-10-17 01:57:51+00:00,cw2k0s1,4,t1_cw2fct8,9145,programming
+72,Do you have Javascript enabled? Have you tried the demo http://kanboard.net/demo?,2015-10-10 22:11:51+00:00,cvv6vnx,4,t1_cvv1bbr,10302,programming
+73,Drag it with the mouse.,2015-10-10 16:06:32+00:00,cvuv00u,2,t1_cvusd2b,5598,programming
+74,"Turns out that the next release will have a plugin system that will allow you to add MathJax support:
+
+https://github.com/fguillot/kanboard/blob/master/doc/plugins.markdown#asset-hooks
+
+Edit: I figured out how to do it with the current release: https://github.com/fguillot/kanboard/issues/1348",2015-10-09 14:47:47+00:00,cvtq73b,2,t1_cvtpf82,1273,programming
+75,"This is a good piece of software if you want a quick and easy way to practice the kanban methodology (i.e., a simple board to display tasks under ""Ready"", ""Work in progress"", and ""Done"".) You can attach files and add comments to tasks. I'd use it more but in spite of the use of Markdown, I can't find any way to add MathJax support, which is a big limitation.
+
+You don't need a web server to use it (a web server is nice, for obvious reasons, but not necessary).
+
+On Ubuntu 14.04:
+
+* Install php5-cli and php-sqlite.
+* Download the zip archive and extract it.
+* From the directory in which it was extracted, do `php -S localhost:8001`
+* Open your browser to localhost:8001/kanboard. The initial username and password are both ""admin"".",2015-10-09 14:26:34+00:00,cvtpf82,1,t3_3o3mal,2506,programming
+76,Is this somehow related to programming?,2015-10-04 15:07:46+00:00,cvnt25u,1,t3_3ngh1o,501,programming
+77,"It shouldn't be necessary to explain why it's not a duplicate. If you are going to claim it's a duplicate, you should explain why. That means understanding the question as well as the claimed duplicate. If you don't want to put that amount of time into it, you have no business cluttering up the site.",2015-10-01 16:37:28+00:00,cvkncbl,4,t1_cvkme1b,1271,programming
+78,"&gt; whereas up-to-date Q&amp;A's are closed with references to unhelpful or downright misleading ""duplicates"".
+
+Yep. I really love it when there are links to duplicates that have no answers.",2015-10-01 16:29:17+00:00,cvkmztg,2,t1_cvkju07,4508,programming
+79,"This looks interesting, but everything is going through pusher, a hosted service. The free plan will work for a maximum of 20 connections. If you have the app open on a computer and a phone at the same time, that's two connections, so it seems unlikely the free plan would work for more than playing around. Paid accounts start at $19/month. That may or may not be an issue, but the book basically just says to create a free account.
+
+I couldn't find any information on the website about what they'll do with your data if you're using the free plan. ",2015-09-22 16:05:15+00:00,cvaajhf,1,t3_3lxjlp,11077,programming
+80,Good to see more fast languages becoming an option for scientific computing. Hopefully someday we can choose the language we like and not even have to worry about whether the libraries are available. ,2015-09-16 14:42:55+00:00,cv3ij0i,1,t3_3l5ir2,17536,programming
+81,Use [sphinx](http://sphinx-doc.org/) with the sphinx_rtd_theme. Very easy self-hosted solution. That theme gives the same output as https://readthedocs.org/.,2015-09-09 01:43:26+00:00,cuv4jo9,1,t3_3jy01s,155658,selfhosted
+82,Is this a permanent move?,2015-08-28 14:45:48+00:00,cuinmuk,2,t1_cuimpk3,1534,programming
+83,There are many universities out there. It's easy to transfer.,2015-08-12 01:05:55+00:00,ctzullu,3,t1_ctznzoi,11107,programming
+84,"&gt; Learning calculus is great, requiring it for most programers is a waste of time.
+
+So you shouldn't study anything that you might not use in the future? What if you got a PHP certificate and then the PHP jobs dried up in a couple years? Does that mean nobody should learn PHP?",2015-08-12 01:04:13+00:00,ctzujh6,3,t1_ctzqbbj,7185,programming
+85,"I've not done much with C#, so I don't have an answer, but I can give you [this link](http://wiki.dlang.org/Programming_in_D_for_CSharp_Programmers) to the D wiki. There's a link to a DConf video at the bottom of that page as well.",2015-07-14 12:29:30+00:00,ct2ty7u,2,t1_ct2mq71,24950,programming
+86,"Nothing you've written contradicts my list of things that invalidate a question. The point is that *all* questions are invalid, but some are allowed on the site, at the discretion of the high-rep users. 
+
+Take your first quote:
+
+&gt; Some subjective questions are allowed, but “subjective” does not mean “anything goes”. All subjective questions are expected to be constructive
+
+That's meaningless because ""constructive"" is at the discretion of the high-rep user. Your second response says
+
+&gt; This is obviously wrong due to the fact that comments exist.
+
+It's not wrong. This is discussion that high-rep user have chosen to allow on the site. Any question could be closed with the justification being that it might generate discussion. The fact that some aren't doesn't change the fact that some are.
+
+The same applies to all of your responses. *Everything* is arbitrary, with the rules made up as you go at the discretion of high-rep users, who are accountable to nobody.",2015-07-11 21:22:50+00:00,ct01er1,4,t1_cszz8jx,4333,programming
+87,"The problem with your argument is that it is not possible to construct a question that meets all the requirements to be a ""good SO question"". According to the rules (some of which are explicitly stated) here are a few things that make a question invalid:
+
+* Answers might involve opinion.
+* There might be discussion.
+* You haven't searched all other available resources for an answer (well, at least existing documentation and anything available via Google, which means the entire internet).
+* You don't give a practical real-world example and information that demonstrates you've made a ""serious"" effort to figure it out yourself.
+* You are asking for help with debugging.
+* Part of the question is open-ended.
+* You are attempting to get information.
+* The question is too localized to be of general interest.
+
+Set the P=NP thing aside for a while and answer an even more difficult CS question: Is it possible to write a valid SO question?",2015-07-11 19:27:20+00:00,cszxyjy,2,t1_cszv89i,5418,programming
+88,Just watch the first half hour.,2015-07-08 15:56:19+00:00,cswai9w,2,t1_cswa17i,727,programming
+89,In what way is this different from the decision to humiliate noobs? They're **exactly** the same decisions.,2015-07-07 01:10:31+00:00,csugzov,7,t1_csue828,5003,programming
+90,"I'm not sure I get your argument. Everything that's posted is *already* supposed to be moderated by the community. I'm suggesting the imposition of different *penalties*. If those penalties are enforced on the small number of troublemakers, that will reduce the amount of work, not increase it.",2015-07-06 16:00:20+00:00,cstwma6,5,t1_cstv8x8,2293,programming
+91,"&gt; Can be pretty discouraging for reviewers.
+
+So you understand my point then. It's a serious thing when you vote to close a question.
+
+&gt; This happens via the review queue. 
+
+The review queue is meaningless for the most part. If you want closing and reopening to be part of the site, put it right there with the question, not in a queue that is accessed only by those in the mood to close questions.
+
+&gt; And pray tell, hwo are they going to implement that?
+
+So you're saying that a community site has no power to implement rules? Hmmm....seems that everyone wants to enforce rules on noobs. It's actually not difficult. You have moderators like the rest of the internet making those decisions. You know, the same way that users have their questions closed and marked as duplicates.",2015-07-06 14:50:17+00:00,cstu70u,3,t1_cstt6c5,1974,programming
+92,"Then why do we have downvotes and public humiliation if not to punish bad behavior? If we're going to punish someone, it should happen to those in a position to know the rules.",2015-07-06 14:45:39+00:00,cstu1ou,3,t1_cstt7ze,1604,programming
+93,"The main problem with the site for years has been a lack of checks and balances on the high reputation users. Most of them are good, but a small percentage use the power they've been given to vandalize the site. The problem is that they can act however they want with no negative consequences. A few ideas for how that can be fixed:
+
+* Three votes to close questions that are later reopened means you are suspended from the site for 30 days.
+* Put info by the question as soon as someone has voted to close it, and an option to vote to not close it. Add a waiting period before closing so that others have a chance to argue.
+* Hide users' points. That will make others less reluctant to downvote something or to comment on their rudeness.
+* Automatic 30-day suspension for making rude comments to new users.
+* 30-day suspension for marking something as a duplicate if it's not. That noise gets old fast. And for the life of me, I can't figure out why that crap never gets removed.
+* 30-day suspension for requesting further information about something that's already in the question, or more generally for anything that indicates you're commenting but haven't bothered to read the question.
+
+Downvotes don't much affect high reputation users (even in the few cases that they currently happen) but giving them a timeout will keep them in line, just as it does with a six year old, or at least it will prevent them from further vandalizing the site. If new users are expected to read and follow the rules, why on earth shouldn't high reputation users be expected to do the same?",2015-07-06 13:51:07+00:00,cstsfei,1,t3_3cafkp,10575,programming
+94,"I make shared libraries and call them from R. The realistic alternatives are C++ and Fortran, but I like D better. I don't know that it does anything unique (basically the case for any language today) but it's a more pleasant programming experience for me. Shared libraries allow me to move as little or as much of the code to D as I want.",2015-06-28 01:53:52+00:00,csl1e6x,2,t1_cskvbyq,13082,programming
+95,Lisp 1.5? The one from 1962?,2015-06-18 22:10:33+00:00,csb81la,6,t1_csb0yhk,10785,programming

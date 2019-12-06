@@ -1,0 +1,117 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-10-31 15:00:58+00:00,i.imgur.com,https://www.reddit.com/r/gifs/comments/5acpdo/hot_slag_snow_explosion/,False,,gifs,Hot Slag + Snow = Explosion,http://i.imgur.com/pyuFaWS.gifv
+1,2016-10-15 08:11:07+00:00,self.Ijustwatched,https://www.reddit.com/r/Ijustwatched/comments/57l6fm/ijw_les_misérables_2012/,False,"So I finally got around to watching Les Misérables as it came to Netflix(Finland). And boy I've been missing out.
+
+Before I started watching I knew nothing about this movie except it was hyped around the internet for a while. So I jumped in without any prejudice. Didnt even know it was a musical of sorts.
+
+From the beginning I was hooked, I was intrigued by it being a musical and furthermost I was curious to expand my movie knowledge. Biggest surprise (other than it was a musical) was how many big(-ish) actors there were in the movie. I did enjoy the songs through the whole movie and liked the fact that there was not a whole lot of ""silent"" moments.
+
+In the end I dont know how I was supposed to feel. I was sad and happy at the same time. I havent cried this much during a movie since... well, I dont know actually. Les Misérables did great by getting to me. I was amazed by the movie getting to me in such a emotional way.
+
+Overall I really enjoyed the constant music and singing. Filming wasnt special but it wasnt bad either. No complaints there. And oh boy the costumes and the accesories and the setting was amazingly done! Les Misérables gets a special place in my heart.
+
+I just wanted to share this experience. Also I want to hear of your opinions of Les Misérables. Please share!
+
+I tried not to spoil anything while writing this post. Feel free to point out if there is a spoiler.",Ijustwatched,IJW: Les Misérables (2012),https://www.reddit.com/r/Ijustwatched/comments/57l6fm/ijw_les_misérables_2012/
+2,2016-09-27 06:08:41+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/54p9ms/cant_boot_straight_from_ssd_gives_a_flashing/,False,"Hello!
+
+So this is a pretty odd problem. One night my other SSD (PNY XLR 120GB) boot-looped, its screwed now I guess. Oh well. I didnt really mind the fact I lost one SSD and had to completely format my other SSD (850 EVO 250GB) to install windows 10 again. No problem mates. Been reinstalling OS's anyways roughly every 9-12 months.
+
+Well here comes the odd part which has never occured. To me at least and google has not helped me. After installing Windows 10 64-bit to my 850 EVO and of course it needs restarts to install all updates I noticed it doesnt boot from my 850 to continue. Solution: BIOS -&gt; Boot options -&gt; Boot override ""Windows Boot Manager"" and the OS install can continue. After finally getting through the install I was still left puzzled why it did that. I restarted my  PC and checked my settings in BIOS that it is AHCI, Boot option #1 for my 850 EVO. Everything looks fine to my eye. Save &amp; Restart and only thing it gives me is the flashing underscore ""_"". Very odd. Reset my PC again, check BIOS, everything still looks normal. But this time I wondered and pressed again from boot override tab for ""Windows Boot Manager"". Huzzah, booted up. Works fine and is fast as before.
+
+I ran my PC for roughly 13 days straight because Im not really keen on booting up my PC every time from BIOS. Last night I think it BSOD'ed as it my screen showed me the dreaded flashing ""_"". Again BIOS -&gt; Boot options -&gt; Boot override ""Windows Boot Manager"" and well this time it started to update the OS. Okay, but again, it was annoying as hell as every time it had to restart I had to go through BIOS and you know the drill by now.
+
+TL;DR: To boot up I have to go through BIOS -&gt; Boot Options -&gt; Boot Override -&gt; Click ""Windows Boot Manager"". If I click my OS SSD (850 EVO) it only gives me a flashing ""_"" on a black screen.
+
+Maybe Im missing something in the BIOS settings? When I was trouble shooting my PNY SSD problem I did reset my BIOS by taking out the battery. I switched out SATA cables around and even changed one to a new one. By the way, I still cant find my PNY in BIOS nor in any program (?). I did switch out RAM and tried different positions.
+
+Please help. Thank you.
+
+Setup (built in 2012, GPU upgraded summer of 2015):
+
+i5 2500K
+
+P8Z68-V/Gen 3
+
+2x4GB DDR3 1333MHz (Also have lying around 2x4GB DDR3 1600MHz)
+
+GTX970
+
+HX750
+
+Windows 10 64-bit (ver. 1607)
+
+850 EVO 250GB SSD
+
+Samsung F3 1TB HDD
+
+Some old shit 225GB HDD
+
+Presumably broken PNY XLR 120GB SSD",techsupport,"Cant boot straight from SSD, gives a flashing ""_""",https://www.reddit.com/r/techsupport/comments/54p9ms/cant_boot_straight_from_ssd_gives_a_flashing/
+3,2016-09-18 19:24:31+00:00,youtube.com,https://www.reddit.com/r/ArtisanVideos/comments/53doyh/this_is_grand_seiko_9s_movement_manufacturing/,False,,ArtisanVideos,"""This Is Grand Seiko"" 9S Movement Manufacturing [X-post /r/watches]",https://www.youtube.com/watch?v=v0hR9jagpSM
+4,2016-09-15 06:08:13+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/52uvf2/whats_up_with_my_ram/,False,"So I just managed to grab a deal for a pair or 4gb DDR3 RAM-sticks. But Im having some issues with them.
+
+From 2012 I've had my G.Skill 2x4GB @1600MHz 7-7-7-21 RAM. Now I acquired Corsair 2x4GB @1333MHz 9-9-9-24 RAM. Plugged them in, no problem. PC boots though complains that OC fails and had to boot through BIOS. 
+
+Heres where the problem lies. If I shutdown my PC, it wont boot nor even post. Just keeps trying to. On-off-on-off etc... Gives me red light on my MoBo that the problem is the RAM. To get it to work I have to switch places between at least two sticks. Although I have not tried just unplugging and reseating one stick.
+
+So far I've had my sticks seated in these positions:
+
+A1 GS, B1 Cor, A2 GS, B2 Cor
+
+A1 Cor, B1 GS, A2 Cor, B2 GS
+
+A1 GS, B1 GS, A2 Cor, B2 Cor (Current)
+
+I've also tried running only the Corsair sticks in A2 &amp; B2(recommended) and in A1 &amp; B1 setups and they do work.
+Another work around I have is that I dont shutdown my PC at all as Im not too fond on going through the hassle again. Running 7 days straight right now.
+
+I've tried to figure it out through google but no avail. Only bet that they just dont like each other. Could it be the timings? I know that clock speed always go by the weakest link which is 1333MHz in my case.
+
+Sidenote: if I want to watch movies through my TV I have to shut down my PC, connect the TV &amp; turn it on, boot thr PC so its able to find my TV. Idk whats up with that, that my GPU isnt able to find my TV when I connect them two?
+
+Setup: 2500K, GTX970, P8Z68-V/gen 3, Ram is above. 1080p@144hz via DVI, 4K@60hz(tv) via HDMI sometimes.",pcmasterrace,Whats up with my RAM?,https://www.reddit.com/r/pcmasterrace/comments/52uvf2/whats_up_with_my_ram/
+5,2016-09-14 04:50:49+00:00,youtu.be,https://www.reddit.com/r/videos/comments/52ox9h/saving_a_kitten_from_almost_certain_death/,False,,videos,Saving a Kitten From Almost Certain Death,https://youtu.be/7ZI9IYh8YFE
+6,2016-07-19 15:10:46+00:00,imgur.com,https://www.reddit.com/r/Watches/comments/4tllvb/seiko_im_happy_to_join_the_skx009_club/,False,,Watches,[Seiko] I'm happy to join the SKX009 club!,http://imgur.com/a/HdrDB
+7,2016-07-12 08:37:35+00:00,self.tifu,https://www.reddit.com/r/tifu/comments/4sg09k/tifu_by_costing_my_workplace_easily_over_2500_by/,False,"This TIFU actually happened 30 minutes ago. Still at work and want to leave so badly right now.
+
+Im a fairly new guy here. Worked in this place for about 4 months now. We do contract jobs for factories, cleaning, assembly, machining (CNC &amp; lathes). Pretty wide spectrum but mostly with metal and plastic stuff.
+
+The guy who teaches me all the new stuff has left for his 6 week vacation. So I've been managing the whole assembly area alone with occasional help for the past 2 weeks. I havent been stressing much except for couple of orders. They were supposed to be delivered last week already but Ive been waiting for certain parts the whole time. Doing other orders in advance. Heres comes the TIFU part.
+
+Finally, today I get the shipment I've been waiting for. Roughly 3000-3500 pieces came back from heat treatment. Normally any part coming back has required a stonewash to get off the grime and muck off. On these particular parts I were suspicious if they needed one and couldnt remember from the past what have we done to them. I went and even asked the supervisor if I should because I thought we should. The parts were dirty, you felt something was sticking to your fingers when touching them. Supervisor thought as well I should stonewash them. Small amount of soap, ton of water, 15 minutes.
+
+I checked on the pieces every 5 minutes. Dried them off in a machine. And saw that they were really light colored, corners shining. Theyre not supposed to be like that. ""F--- me sideways with a log"" I thought to myself.
+
+Went to show them to the supervisor and he was also like ""ah crap"". Called other supervisor who usually checks items before shipping asking about them. This supervisor is also on his vacation. Then we dug up some older orders from the computer and noticed that we shouldnt have stone wash them...
+
+Now the problems are:
+
+ * Can they be blackened again? (Might get too fragile if done again)
+
+ * Are they still okay? (Highly doubt this)
+
+ * The company which does the hardening stuff for us is on a 2 week vacation
+
+ * Order is still late 1 week and supposed to send another order this week as well.
+
+ * This fuck up probably cost the company well over $2500 easily. (Quantity, orders are late, shipping &amp; etc.)
+
+Now waiting for my demise while eating my lunch. Also Im a part-time working here so I wouldnt be surprised to get fired over this. Well, an unexpected summer vacation wouldnt be unwelcomed. Would like the money though...
+
+Tl;dr: Order late, waiting for parts. Parts came, misremembered the next step. Now 3000-3500 parts probably going into the bin. Im probably screwed.
+
+Edit: Typos and formatting. On phone right now.
+
+Update: They were sent back to get the coating again. I hope theyre good then. Getting bunch of flak from co-workers. Hah, I guess I've deserve it.",tifu,TIFU by costing my workplace easily over $2500 by misremembering the next step,https://www.reddit.com/r/tifu/comments/4sg09k/tifu_by_costing_my_workplace_easily_over_2500_by/
+8,2016-07-03 13:41:58+00:00,youtube.com,https://www.reddit.com/r/videos/comments/4r21q8/terminator_2_at_25/,False,,videos,Terminator 2 at 25,https://www.youtube.com/watch?v=reMVp4zoM7Q
+9,2016-06-16 15:56:01+00:00,youtube.com,https://www.reddit.com/r/videos/comments/4oe1aw/nsfwcrushing_goat_headhydraulic_press_by_the/,False,,videos,[NSFW]Crushing Goat Head/Hydraulic Press by The Crusher,https://www.youtube.com/watch?v=QryXH0fHCMw
+10,2016-06-04 08:37:15+00:00,youtu.be,https://www.reddit.com/r/asmr/comments/4mhhr5/unintentional_making_of_a_violin_33min/,False,,asmr,[Unintentional] Making of a Violin (33min) [NoTalking][Wood working][X-post from /r/ArtisanVideos],https://youtu.be/C0dkDEcQMdA
+11,2016-06-01 19:36:28+00:00,self.Watches,https://www.reddit.com/r/Watches/comments/4m338m/steinhart_experiences/,False,[removed],Watches,Steinhart experiences?,https://www.reddit.com/r/Watches/comments/4m338m/steinhart_experiences/
+12,2016-05-15 06:26:48+00:00,gfycat.com,https://www.reddit.com/r/MilitaryGfys/comments/4jf04y/leopard_2a4s_cv9030_and_a_eurospike_firing/,False,,MilitaryGfys,"Leopard 2A4's, CV9030 and a Eurospike (?) firing",https://gfycat.com/DamagedWideeyedAmmonite
+13,2016-05-13 18:54:33+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/4j7t8r/postal_men_of_reddit_weirdest_or_funniest_stuff/,False,,AskReddit,"Postal men of Reddit, weirdest or funniest stuff you've seen while delivering mail?",https://www.reddit.com/r/AskReddit/comments/4j7t8r/postal_men_of_reddit_weirdest_or_funniest_stuff/
+14,2016-04-11 15:10:08+00:00,aw.my.com,https://www.reddit.com/r/ArmoredWarfare/comments/4eb3lg/hotfix_0141998_and_op_frostbite_tomorrow_on_the/,False,,ArmoredWarfare,Hotfix 0.14.1998 and OP: Frostbite tomorrow on the 12th,https://aw.my.com/en/forum/showthread.php?70826-Maintenance-Hotfix-0-14-1998
+15,2016-03-28 10:26:16+00:00,aw.my.com,https://www.reddit.com/r/ArmoredWarfare/comments/4c9m3n/community_highlight_pt15/,False,,ArmoredWarfare,Community Highlight - Pt.15,https://aw.my.com/gb/news/general/community-highlight-pt15
+16,2016-02-26 08:34:46+00:00,youtube.com,https://www.reddit.com/r/TankPorn/comments/47o5oo/finnish_cv9030_and_infrantry_aftermovie/,False,,TankPorn,"Finnish CV9030 and infrantry ""aftermovie""",https://www.youtube.com/watch?v=E_F8hORyWec
+17,2016-02-09 16:32:43+00:00,youtube.com,https://www.reddit.com/r/food/comments/44xh1c/the_korean_bibimbap_burger/,False,,food,The Korean Bibimbap Burger,https://www.youtube.com/watch?v=Oa9FNbJ-cL0
+18,2016-01-04 09:41:53+00:00,self.askscience,https://www.reddit.com/r/askscience/comments/3ze5qx/vacuum_packing_in_a_vacuum_on_earth_or_in_space/,False,[removed],askscience,"Vacuum packing in a vacuum on earth or in space, what would happen?",https://www.reddit.com/r/askscience/comments/3ze5qx/vacuum_packing_in_a_vacuum_on_earth_or_in_space/

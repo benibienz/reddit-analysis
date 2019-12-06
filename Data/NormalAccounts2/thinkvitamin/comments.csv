@@ -1,0 +1,504 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,It's native uninstaller takes ridiculously long as well. I just found out there's a separate program on Github called Visual Studio Uninstaller... I just used it and it's sad how necessary it seems to be.,2016-11-20 00:52:07+00:00,da7m11k,5.0,t1_da7jqvc,3648.0,Windows10
+1,"It's possible I'd have to settle for something less myself in this case, it sounds like a ""Windows to go"" USB would be necessary or it won't let you. Windows updates won't be able to install on this tablet, with such little space left..  
+**Edit:** thank you.",2016-11-19 20:44:17+00:00,da7cgll,2.0,t1_da7cbiy,215.0,Windows10
+2,"I found out about the diskpart tool, select and then clean... now, whenenever I put it back in it tells me to insert a disk into that drive. When I try to format it, it tells me that Windows was unable to complete it. ",2016-11-19 18:42:20+00:00,da77j4c,1.0,t3_5dto96,2035.0,24hoursupport
+3,"Thanks.. for my first attempt with your first suggestion, it was still happening. Now, it's back to the way it should be. I have another python file which manipulates that same CSV file for a different purpose. I wonder if running that other one somehow set things straight... I don't know if CSV files contain hidden info about what data types the cell values are. ",2016-11-04 06:06:00+00:00,d9l5qww,2.0,t1_d9l4kgb,2785.0,learnpython
+4,"I'm trying to take one cell in pandas and perform some simple math on it. So lets just say it's value is 5, I'd want it to be 6.   
+But it was nice to see how easy set_value is to use.  
+
+    df.set_value(2, 'people', 566)  
+So that's row 3 (counting starts at 0), checks for a column called 'people', and as long as it's an int, it will be 566. Pandas is one of the harder topics to Google.  
+My CSV file does not have an index, by the way... it's just column names and values. ",2016-11-01 05:33:41+00:00,d9ghj92,1.0,t3_5adgpu,45042.0,learnpython
+5,"Thanks.. After doing that, I still get the message.   
+
+    Options error: --auth-user-pass fails with 'login.conf': Permission denied  
+    Options error: Please correct these errors. 
+So I tried using that command on login.conf (chmod u+s), and I still get it. After checking permissions, this is what login.conf's permissions currently look like.  
+
+    -r-S------   1 root root    20 Oct 27 23:54 login.conf",2016-10-30 00:46:51+00:00,d9degct,2.0,t1_d9c6r60,87880.0,linux4noobs
+6,"found this on ubuntu forums, will try later:  
+username ALL= NOPASSWD: /usr/sbin/openvpn. 
+https://ubuntuforums.org/showthread.php?t=2019043&amp;p=12094739#post12094739  
+EDIT: Nope, didn't work. ",2016-10-28 03:18:49+00:00,d9aymqy,1.0,t3_59navh,59882.0,linuxquestions
+7,"(currently on mobile, no RES) Not separated by Containers:
+
+History
+Bookmarks
+Saved Passwords
+Saved Search and Form data
+HSTS Flags
+OCSP Responses
+Security Exceptions for Invalid TLS Certificates. 
+
+So it's a good start but I would hope for some of these things to be isolated as well. Hopefully it could reduce the risks of malicious JavaScript. ",2016-10-22 21:31:11+00:00,d93h6oc,1.0,t3_58tdaw,25075.0,linux
+8,"How could I modify this line to also check for the existence of these files as well:  
+
+    files = [filename for filename in os.listdir(""dirname"") if not filename.startswith(""_"")][0]
+I'd like to avoid try/catch if possible. (already have enough of those)  
+It gives an error if there aren't any. (IndexError: list index out of range) I've read about checking the existence of one file, and I was wondering about a concise way to see if any of these exist. ",2016-10-19 04:26:53+00:00,d8yca0q,1.0,t3_57yg24,127434.0,learnpython
+9,"I haven't even been able to install chrome, or chromium on my Pi. (raspbian)  
+I've seen some insecure looking instructions as I searched around for a way to do it, so I just didn't. Maybe this lack of support is why it won't work.   
+Do you have to use ChromeDriver? There is also Firefox which has its own way of using it headless. PhantomJS with python/selenium is headless by default. ",2016-10-17 05:21:29+00:00,d8vd629,1.0,t3_57vfzs,5102.0,learnpython
+10,"I actually wrote a function with that name, so that wasn't it, but it works again. I uninstalled the Chrome browser, so it just started using Chromium. ",2016-10-15 01:56:30+00:00,d8slj5z,2.0,t1_d8rvzig,35580.0,Python
+11,I use Chromedriver so maybe I'll see if the problem exists for other browsers/profiles as well. Thanks. ,2016-10-14 01:35:12+00:00,d8r5148,2.0,t1_d8qw96w,11994.0,Python
+12,"So I take it that the new boston is... not good, is he? ",2016-10-09 03:24:50+00:00,d8k1q93,5.0,t1_d8k1o3i,105.0,learnprogramming
+13,"Would you recommend Klein with Twisted for the asynchronous advantage? I've only practiced with flask before, and I'm not sure at what point asynchronous becomes important enough.",2016-10-04 02:17:42+00:00,d8d0eia,2.0,t1_d8chtwo,25647.0,learnpython
+14,"I haven't tried this lately, but I guess that selenium also has something called ActionChains where you can hover and click an element if you wanted to.  
+Something like this could also make the typing part seem more natural: https://www.reddit.com/r/learnpython/comments/4ohuf3/is_it_usually_easy_to_override_a_method_that_you/",2016-10-03 16:46:25+00:00,d8cauxa,3.0,t1_d8c3pqy,9740.0,Python
+15,"How did you scrape it... you could have written the script so that it just looked like normal browsing.   
+They can't detect whether or not your program is writing content from their site to a file. ",2016-10-03 04:22:46+00:00,d8bqtw1,1.0,t3_55m1b7,569.0,Python
+16,"Thanks.. It looks like the subject attribute will contain *post reply*, or *comment reply*. It doesn't seem to grab the permalink of the comment, or parent comment that was made. Do you know if that's possible? ",2016-10-01 05:55:36+00:00,d89aysj,,t1_d86easc,,redditdev
+17,hmm,2016-09-29 00:29:18+00:00,d86a3q7,1.0,t3_54zhxy,1139.0,PrawTests
+18,Test.,2016-09-29 00:17:33+00:00,d869ni1,2.0,t1_d869egi,392.0,PrawTests
+19,another comment. ,2016-09-29 00:11:01+00:00,d869egi,1.0,t3_54zhxy,42.0,PrawTests
+20,Hello!!,2016-09-29 00:10:26+00:00,d869dlb,1.0,t3_54zhxy,7.0,PrawTests
+21,Is there a big difference between their free and paid versions?,2016-09-20 03:12:36+00:00,d7u48uy,1.0,t3_53l55z,4391.0,webhosting
+22,"I really like Python but I don't know why /r/pythondev would be trending, with such few subscribers. It does have a good name for such a new sub though.  
+I think /r/Kivy is a python sub that should be trending. ",2016-09-15 07:41:06+00:00,d7njz4h,1.0,t3_52v18p,1941.0,trendingsubreddits
+23,The reviewers of the book in that Amazon link all commented on it as if it's a C++ book. I can't even tell what it's supposed to be. ,2016-08-30 03:19:52+00:00,d725s7y,2.0,t1_d71x0og,12886.0,C_Programming
+24,"I just found out that these two lines actually did add an image:  
+
+    im = plt.imread('logo.jpg')
+    implot = plt.imshow(im)  
+But it shrunk the chart itself, and dominated the whole thing.   
+
+I'd want to try **[this](http://stackoverflow.com/a/16743079)** out but the code produces the following error:  
+**[Errno 2] No such file or directory: '/usr/lib/python3/dist-packages/matplotlib/mpl-data/sample_data/logo2.png'**  
+from this line of code:   
+
+    datafile = cbook.get_sample_data('logo2.png', asfileobj=False)
+",2016-08-21 20:43:11+00:00,d6qzv5u,1.0,t3_4ywikc,5553.0,learnpython
+25,"Mostly strings which could probably all be converted to floats on the fly, with except for the occasion it's something more like this:  55.53 GDP  
+I found snippets which can extract floats from strings, yet I get some arcane errors still.   
+
+    TypeError: unorderable types: str() &lt; int()  
+I thought the *int* problem was all cleared. I admit that I should try some other examples from the site which doesn't even have that, just to make sure everything else is OK. 
+",2016-08-19 20:53:25+00:00,d6ojqqr,3.0,t1_d6ojav8,557.0,learnpython
+26,"/u/Allanon001 had a good point, they are supposed to be floats. Now, I'm trying to just convert it to a float when it's actually a string (eg., if it's like THIS a simple conversion doesn't work: 43.25 CAD). I tried this, without any luck:   
+
+    for p in prices:
+    	try:
+    		float(p)
+    	except ValueError:
+    		list(map(float, re.findall(r'[+-]?[0-9.]+', p)))   
+
+Of course, I tried the last line in that little snippet by itself as well. ",2016-08-19 20:20:25+00:00,d6oi60s,1.0,t3_4ykruo,3133.0,learnpython
+27,"I've noticed that Google will disable my account if I use Selenium to sign up, even after I confirm the phone number afterwards. This is even when the script types in each key one by one, so it's seemingly more human... they must have a pretty sophisticated way to check for automation. ",2016-08-15 23:06:35+00:00,d6iyqdy,2.0,t1_d6ikvfc,18374.0,learnpython
+28,Does this apply to other kinds of external devices as well? ,2016-08-08 22:20:06+00:00,d69mbjp,2.0,t1_d69k0id,3166.0,techsupport
+29,"So would that be this one:  https://www.amazon.com/Elecrow-Display-Monitor-800x480-Raspberry/dp/B013JECYF2  
+Too many screens like this have mediocre reviews, but this one seems better. ",2016-08-06 18:27:25+00:00,d66wr1q,1.0,t3_4we8lq,53269.0,raspberry_pi
+30,"I second that, this just got it working for me as well. Thanks. ",2016-08-04 21:48:25+00:00,d64ivwj,,t1_d4ykw4b,,moviepy
+31,What if they needed the password before giving the money... ,2016-08-04 06:22:43+00:00,d63lnwj,6.0,t1_d63jdun,5118.0,funny
+32,"If you develop an android app in a non-Java language, are you just using a wrapper over Java? I recently found some article on Dice about why it's supposedly a better idea to write apps in C++ vs Java. If you're just calling Java with that C++ code, It's hard for me to imagine a performance benefit.   
+Right on the Xamarin website, C# was said to just be a nice wrapper over Java. ",2016-07-30 23:22:08+00:00,d5xpcyo,1.0,t3_4v6h26,123273.0,androiddev
+33,"It sounds like you would really have to keep your fingers crossed each time, because of the warning that pops up. Developers of KB apps should have to follow stricter policies, such as having to release their source code to Apple or something. So I think the risk is too high right now. ",2016-07-30 07:56:38+00:00,d5wyxbk,4.0,t1_d5wysrd,430.0,ios
+34,"Yeah, I use one of those regularly. I'm kind of a minimalist, less weight feels even better a lot of the time.",2016-07-30 07:44:57+00:00,d5wypty,2.0,t1_d5wynwl,174.0,ios
+35,"Thank you for your thorough answer. Others provided good ones too but yours is probably the most helpful.  
+I'm reading the beginning of *Hacking: the art of exploitation* and it went from sounding a little too basic to diving right into assembly. I'll have to find more and more material that's just like that to really get this stuff and understand all of what's going on. ",2016-07-30 06:33:01+00:00,d5wx9tx,2.0,t1_d5wuc73,7019.0,rust
+36,"The problem with PiA's installation script which lets you connect via NetworkManager is that it's only suitable for debian / ubuntu. I currently use Fedora.  
+https://www.privateinternetaccess.com/installer/install_ubuntu.sh
+Other than apt-get (which should be *yum* on Fedora), I remember it telling me that the **dpkg** command wasn't found. By any chance, could someone recommend a script or modifications to make so that Linux users who don't use debian or ubuntu could enjoy the same conveniences that they have. ",2016-07-23 22:44:30+00:00,d5o3uh3,1.0,t3_4uahmr,18.0,VPN
+37,I think it was around the time when I was trying to kill an openvpn connection. The command was kind of long and unnecessary comparing to what I found later on. ,2016-07-22 14:14:48+00:00,d5mchvc,2.0,t1_d5mb8ec,1952.0,linux4noobs
+38,You could just use a Raspberry Pi if you wanted to avoid paying a monthly fee. But it would always need access to your own internet. ,2016-07-10 23:02:46+00:00,d5770ng,1.0,t3_4s5rgw,29317.0,webhosting
+39,"I hope this is all correct:  
+http://www.howtogeek.com/244678/you-dont-need-a-product-key-to-install-and-use-windows-10/  
+",2016-07-10 21:03:53+00:00,d572gfc,1.0,t3_4s74om,3307.0,techsupport
+40,"That's two OS's running at the same time, which means that memory gets to be limited for both if you use a VirtualBox, right..",2016-07-10 03:21:23+00:00,d569i1f,2.0,t1_d569bga,328.0,linuxquestions
+41,"I think Debian, possibly Ubuntu. ",2016-07-08 21:47:10+00:00,d54tzex,2.0,t1_d54f9b7,19184.0,firefox
+42,"Yesterday I tried handling it with openvpn, and I experienced the freeze up that you're describing. What would the route exception be exactly... MAC address, IP address + port?
+",2016-07-01 21:20:11+00:00,d4vvob5,2.0,t1_d4uzczp,58993.0,VPN
+43,"As of now it's showing its Ethernet connection but not the VPN connections. Supposedly a config file might need permissions of type 600.. http://stackoverflow.com/a/28412356 If only I knew exactly what that person was talking about, like if it's a crt file, all the files in system-connections folder or what. Managing VPN connections on my laptop this way was never a hassle. ",2016-06-30 01:39:06+00:00,d4tf1ia,1.0,t3_4qedbj,64355.0,linux4noobs
+44,"The chromedriver binary file is what it's talking about. I have this in my main selenium scripts:  
+
+    chromedriver = ""full path of chromedriver64""
+    os.environ[""webdriver.chrome.driver""] = chromedriver  
+    options = webdriver.ChromeOptions()  
+    driver = webdriver.Chrome(chromedriver, chrome_options=options)",2016-06-28 07:29:38+00:00,d4qyeh2,1.0,t3_4q85xy,1177.0,learnpython
+45,"It would be an added option with the subreddit.get_hot already in place. I just wasn't sure how you would use both at the same time. but thanks.  
+**EDIT:** I think the info **[here](https://www.reddit.com/r/redditdev/comments/2ehl7j/praw_get_post_flair_of_submission/)** and **[here](https://www.reddit.com/r/redditdev/comments/3sjioe/praw_searching_posts_in_a_subreddit_by_timestamp/)** have what I need. ",2016-06-23 13:50:19+00:00,d4kri68,2.0,t1_d4kkbbp,18654.0,redditdev
+46,"I just found out about AFWall+, which seems to fit the need perfectly. ",2016-06-23 03:53:59+00:00,d4kdd62,1.0,t3_4p879u,94749.0,VPN
+47,"The problem I see is that the variables appear to be getting redefined for each iteration. Yeah, it can easily afford to do that since it's only small amounts of data but that's not a good practice. but thanks. ",2016-06-21 07:34:20+00:00,d4hqh68,2.0,t1_d4hqfdg,157.0,learnpython
+48,It sounds like a way for Intel or the government to even know what you do on The Tor network then.. ,2016-06-19 11:25:41+00:00,d4f9rsj,3.0,t1_d4f47gk,20062.0,linux
+49,I found this a while back and I found it helpful. Did you come across this one yet? http://pythonforengineers.com/build-a-reddit-bot-part-1/,2016-06-19 04:31:05+00:00,d4f2675,1.0,t3_4ortcr,1920.0,learnpython
+50,"I love digital ocean and I would recommend that, as well as a VM. A VPS could allow you to learn and do other things with it when you're away from home, if you like to travel light (by using a mobile device + a VNC or SSH app.) ",2016-06-14 23:55:30+00:00,d49ih7p,1.0,t3_4o2i0g,23794.0,learnprogramming
+51,Hopefully it won't be long before you can write full programs on iOS with swift. ,2016-06-14 17:32:42+00:00,d4909br,1.0,t3_4nxy5c,72253.0,swift
+52,"&gt; How are you currently accessing your Pi? Does it have a monitor hooked up or are you just SSHing in to it?  
+
+Both of these. vncserver doesn't give any negative messages. It seems to say what is said in the tutorials. I'll have to look into checking log files.  
+
+In /etc/ssh/ssh_config I noticed this:
+
+    #   ForwardAgent no    
+    #   ForwardX11 no    
+    #   ForwardX11Trusted yes  
+As well as this:  
+
+    #   Tunnel yes
+    #   TunnelDevice any:any  
+I had to re-comment the two lines from the latter snippet, as it kept telling me that a tunnel failed whenever I tried ssh-ing into anything. 
+ 
+
+",2016-06-10 06:14:04+00:00,d43ce2q,2.0,t1_d43ad3d,5042.0,linux4noobs
+53,"I haven't had this problem before, but if what you're trying to log into is linux based, you could try:  
+http://serverfault.com/a/256083  
+Can you SSH into the system that it's no longer working on? Can you log in the normal way? Have you tried a different VNC app or reinstalling to see if the problem is the app itself.
+",2016-06-09 21:13:59+00:00,d42ttks,1.0,t3_4nc9hs,8897.0,linux4noobs
+54,Just decided to purchase it... do you use a Raspberry Pi? I keep getting a message saying that this computer doesn't allow secure connections or something. It connects to my PC (Linux) fine. ,2016-06-09 02:16:31+00:00,d41s9zd,,t1_d3spjyr,,ipad
+55,"No... AdWords, at least, will just randomly display your ad across a number of sites, including Google Search. You can't really know when your ad will appear on which specific site, during a specific time. That's what I said in my question. ",2016-06-05 22:25:47+00:00,d3xbrvc,2.0,t1_d3xamta,1896.0,marketing
+56,Posting a link to Imgur on FB seems to bring up a very good sized thumbnail from what I remember. Maybe it's the same with Reddit uploads. ,2016-05-28 21:10:12+00:00,d3nc3sm,1.0,t3_4lhg09,1920.0,socialmedia
+57,"So it makes no difference if you use VPN or Tor, they can still do such attacks anyways? (it's said that it doesn't matter if you use SSL/TLS encryption) ",2016-05-27 21:48:00+00:00,d3maiul,1.0,t3_4laa9e,37707.0,linux
+58,"Thanks, it looks like this is one that did it:  
+
+    data = pd.read_csv('reddit.csv', delimiter=""\t"", encoding=""utf-16"")  
+It's also possible that (some) previous ones were more accurate than what I thought... it's initial output looks messy, but when I narrow it down by certain columns, it seems to be right. ",2016-05-18 16:06:48+00:00,d3acvgq,2.0,t1_d3abc7r,2001.0,learnpython
+59,"I've only heard that online tutorials are bad for learning C++, and I wouldn't want to be just another bad C++ programmer as a result. Do you guys agree, is this one mentioned somehow any different. Could it be that they're usually just considered bad because they're not in depth enough (harmful information and bad practices are really what I'd like to stay away from). I happen to remember things better when it's through videos, or something interactive rather than a long book, which is why I've brought this up multiple times now. ",2016-05-10 22:53:21+00:00,d30kx8l,2.0,t1_d3081b9,16872.0,learnprogramming
+60,"So, are you duplicating the data set every time you pass it to a function without pointers? Even if the effect of that duplication only lasts until the end of the function, that would make more sense.  
+Still, it sounds like maybe compilers should know better than that. ",2016-05-05 16:39:57+00:00,d2tz79j,4.0,t1_d2tm5nw,23863.0,C_Programming
+61,"Interesting, as much as I've tried to search around for good explanations on why pointers can help, I don't ever remember seeing it explained like this. Maybe I should try and just think of it as a comparison between two different math problems, when comparing a loop that involves pointers vs one that doesn't, when the goal of the loop is the same.  
+Modern literature on C doesn't seem to dismiss pointers at all though. Could it be that the compiler just isn't as sure what to do with larger data sets. ",2016-05-05 05:33:12+00:00,d2th8cq,2.0,t1_d2tfyzr,2969.0,C_Programming
+62,"A function will need to process a bulky data structure whether the arguments are through pointers are not. The large pieces of data will still likely be in memory throughout most of the program, and then the addition of pointers take up a little bit more memory, if I'm correct about both of these things... So I'm wondering if the part of memory where pointers live is in a completely different part of it, where there's less space available or something. If that's the case, that would help it to make more sense. I can look this up but I briefly remember stack, heap, and something else. ",2016-05-05 04:51:01+00:00,d2tg5zx,2.0,t1_d2te8t8,3940.0,C_Programming
+63,"I haven't been using phantomjs with this. I figured it would use a ton of memory either way since it is Selenium.  I've been using selenium to fill out forms, and ones which require JavaScript so I doubt requests would be good enough. (JS waits for a click event on these sites I use it on) I heard this about Mechanize as well, that if JS is needed you can forget it.  ",2016-05-01 03:02:07+00:00,d2o1lcs,2.0,t1_d2nfddv,38633.0,learnpython
+64,Would there be anything wrong with you having a good VPN behind the exit node next time. ,2016-04-29 04:46:14+00:00,d2lq39y,1.0,t3_4gqkif,114658.0,TOR
+65,"I recently started a thread asking if good C++ tutorials or courses online even exist, because of what this subs wiki has to say about them: https://www.reddit.com/r/cpp/comments/4glio8/do_good_online_courses_even_exist_for_c/  
+You did ask for books, but some answers there might help you too. ",2016-04-29 03:14:06+00:00,d2lmxlr,1.0,t3_4gwl3d,15776.0,learnprogramming
+66,"It looks like Pybind is a newer one to look out for.  
+https://www.reddit.com/r/cpp/comments/4g73u7/pybind11_seamless_operability_between_c11_and/",2016-04-25 05:24:18+00:00,d2g87xz,1.0,t3_4galgv,21824.0,Python
+67,"Unless that language is C or C++, right? I've only heard that good tutorials for one, if not both of those languages don't really exist online.  
+**edit:** I wonder if Cave of Programming's C++ tutorials are any good, since he's known for making good Java tutorials.  https://www.youtube.com/playlist?list=PLmpc3xvYSk4wDCP5zjt2QQXe8-JGHa4Kt",2016-04-25 03:54:35+00:00,d2g5rvl,2.0,t1_d2fmwvr,31306.0,learnprogramming
+68,"Could this be a good way to test regular expressions for Python:  
+http://rubular.com/r/BHY3e7eokp  
+I just want to match 10 alphanumeric characters that are between slashes. On Stack Overflow I found that this was a good way to do it for JavaScript:  
+
+    url.match(""/([a-zA-Z0-9]{10})(?:[/?]|$)"")  
+But I don't know if that only needs a slight modification to work for Python. ",2016-04-20 08:19:05+00:00,d2a2vtl,1.0,t3_4fculs,141389.0,learnpython
+69,"Can Rust even be taken seriously at this time, or is it just a language to dream about for now? I haven't even tried it yet, but if future versions of this language came out which made current rust programs broken when that happens, that could be an awful lot of code to re-write.  
+Safety without garbage collection is what got me interested. ",2016-04-20 02:33:49+00:00,d29swdc,1.0,t3_4fa7v4,165596.0,rust
+70,"&gt; I'd advise to get familiar with pointers in C first. 
+
+I've read many descriptions of them before, and I thought the best way to understand them more was to start using them in what they're commonly used for. ",2016-04-20 01:17:55+00:00,d29p9vh,2.0,t1_d29o0mg,1589.0,learnprogramming
+71,"If that's true about something like this, I guess that entire subs like /r/HowToHack could fit that description. (just a little strong is all I'm saying) ",2016-04-14 01:15:11+00:00,d21zgh6,2.0,t1_d21v813,6109.0,Python
+72,I wonder if they'll ever be eligible to receive unemployment or disability income. Maybe we'll have homeless robots at some point. ,2016-04-13 05:45:53+00:00,d20ubn7,1.0,t3_4ejgvj,13094.0,technology
+73,"I could check out the subprocess module for that, but I don't know if that's considered ""poor practice"" - security, or speed (not that it should necessarily be a deal breaker if it is. )  
+The python script uses Selenium to interact with websites, and the VPN allows me to be more private about it, so that the sites don't make me use CAPTCHAS or otherwise treat me differently for coming back a number of times. ",2016-04-05 23:05:47+00:00,d1rdk1f,4.0,t1_d1rdaqn,371.0,commandline
+74,"Shortly after writing this post I figured I should just find a Python way of doing it. (which I did) The bash script which calls Python needs to start a VPN connection which Python cannot do, to my knowledge. ",2016-04-05 22:54:09+00:00,d1rd2hi,2.0,t1_d1rcxew,199.0,commandline
+75,"it's too easy to come up with a small list of links, with a little sentence describing each, which makes it blogspam. ",2016-04-04 22:11:58+00:00,d1pww9z,1.0,t3_4d862f,86782.0,java
+76,"It allows an SSH connection, and it is own a network I own... so I'm not sure if that means it allows VNC. ",2016-04-01 02:07:10+00:00,d1la27t,2.0,t1_d1l7rfu,3679.0,linux4noobs
+77,"Does anyone else wish that Windows would only keep making bad decisions, rather than smart moves like this.  
+It must be just an advanced Cygwin, right... not a true unix system like OS X and the Linux's I'm guessing. ",2016-03-31 06:31:17+00:00,d1k5cj5,1.0,t3_4clhfy,51114.0,webdev
+78,Thank you... I'm seeing that it requires an exact match to make a change: https://jsfiddle.net/rry0ztaa/9/ Is there a quick fix to make it so that it will change if it simply contains that text? ,2016-03-29 07:03:12+00:00,d1hevdp,2.0,t1_d1hcowz,6118.0,learnjavascript
+79,"Thank you... I was only looking to change it if an element simply contained that (as an alternative to using the :contains selector), rather than looking for an exact match from the array. ",2016-03-28 23:33:02+00:00,d1gzxzf,2.0,t1_d1gy44a,2734.0,Frontend
+80,"Isn't this old news? I might want to try it out and write an app for (jailbreaked) iOS devices (no means to obtain a license anytime soon). If you can't do just about everything that you can do with Swift on a Mac than I'd say who cares.  
+",2016-03-25 07:05:15+00:00,d1ct58w,1.0,t3_4bu8vl,26017.0,programming
+81,"Thanks.. When I search for xposed in Google play, all kinds of things come up... does the official xposed framework have to be installed elsewhere.... wouldn't want any fakes, malware etc. ",2016-03-25 03:03:28+00:00,d1cn27m,2.0,t1_d1b9f01,91795.0,AndroidQuestions
+82,"Hmmm, with the **at** command I tried that, but when entering cat tmp.log there was nothing.   
+
+    at&gt; sh /home/c/file.sh &gt; /home/c/tmp.log
+",2016-03-05 05:26:31+00:00,d0o9h4o,2.0,t1_d0o8q0a,1835.0,linuxquestions
+83,"As someone who bought a Pi 2 a couple of months ago, this is slightly annoying. ",2016-03-02 07:25:07+00:00,d0kh398,1.0,t3_489or5,160012.0,RASPBERRY_PI_PROJECTS
+84,"Just interaction with a website. If I only wanted to get data, I wouldn't bother with Selenium. Based on my recent searches for the mechanize library, there doesn't seem to be as many examples, to just achieve what I want (often times just entering data into text fields and clicking a few things). ",2016-02-25 08:01:35+00:00,d0d1tj1,4.0,t1_d0d144z,2300.0,learnpython
+85,"Thanks. If I just did Selenium with Java instead of Python, could that help a lot with performance? I also wonder if PhantomJS is worth looking into. ",2016-02-25 06:41:44+00:00,d0d09e2,2.0,t1_d0cbn47,39069.0,learnpython
+86,The .name extension is for people who want their full name as a URL. ,2016-02-04 09:04:47+00:00,cznd5p5,1.0,t3_43zuoj,69448.0,freelance
+87,"Thank you, now I know how to get PiA working on startup.  
+I was wondering if you knew of a good way to be able to manually connect like so: **sudo openvpn 'HongKong.conf' &amp;** , or **sudo openvpn --config Singapore.ovpn &amp;** but that didn't send it to the background the way I wanted it to (it interpreted my username as a ""command"".) It seems like it has to tie up the terminal so I wouldn't know how else to keep it connected through ssh.  Ctrl-C must be what disconnects it.  
+edit: It looks like even when sending it to the background after the HongKong.conf edit, it still ties up the terminal even when adding the ampersand. ",2016-02-03 09:35:36+00:00,czm3j4o,2.0,t1_czll948,37647.0,raspberry_pi
+88,"I've had the Tor browser, for instance warn me about downloading such files, saying that this kind of thing could happen. So I've only heard of it being possible. Also, if I were to move the PDF to a mobile device, their PDF reader's policies *could* be different than on Linux. ",2016-02-01 01:09:56+00:00,czj6mmj,2.0,t1_czj67gz,716.0,linuxquestions
+89,"If they are to work directly with memory to reduce the amount of copying that you do, to use less resources, how are they not to help optimize your code (when done properly, anyways.) ",2016-01-28 08:33:33+00:00,czexm2m,2.0,t1_czeu42o,10212.0,learnprogramming
+90,"I noticed that Nmap can't find it even though it is getting screen output on the TV... so, this brown out (new term for me) might only be keeping the ethernet off? ",2016-01-23 10:41:52+00:00,cz8tudh,2.0,t1_cz8tdcs,2186.0,raspberry_pi
+91,"In my case, I should have used sdb rather than sdb1 in the first place to successfully use the dd command, because that's what the problem was. ",2016-01-21 10:05:24+00:00,cz6clb6,2.0,t1_cz57iji,69879.0,linuxquestions
+92,"Thanks.. mounted or not, all I needed to do was use dd to burn an image onto there. I should have just used sdb to begin with, rather than sdb1, when using that command... it wouldn't even tell me if anything was wrong, the terminal just gave similar output. ",2016-01-21 10:03:01+00:00,cz6ck18,4.0,t1_cz5r4ff,42355.0,linuxquestions
+93,"Thanks, it turns out that this was the correct command:  
+**sudo dd bs=4M if=2015-05-05-raspbian-wheezy.img of=/dev/sdb**  
+Before, I had a 1 after the sdb. So I'm satisfied with dd and browsing it normally doesn't matter anymore. 
+",2016-01-21 10:00:19+00:00,cz6cik1,4.0,t1_cz67qoo,14976.0,raspberry_pi
+94,"I guess if it's not from a site associated with the makers of Raspberry Pi, you have to trust that the images aren't backdoored, or anything malicious like that... maybe a simple Google search of the site I get it from should solve that. ",2016-01-21 04:55:55+00:00,cz665yv,2.0,t1_cz635vi,5318.0,raspberry_pi
+95,"Well, I can't access the SD card as easily as before because of mounting or other issues so it's hard to say if the sd is even working the way it should. It's either the pi or the sd, I'm sure. ",2016-01-21 00:37:44+00:00,cz5wrao,2.0,t1_cz5ndp5,13441.0,raspberry_pi
+96,"&gt; ls /dev/sd*   
+
+/dev/sda  /dev/sda1  /dev/sda2  /dev/sda5  /dev/sdb  /dev/sdb1
+
+&gt;dmesg   
+
+* [  657.521447] usb-storage 2-4:1.0: USB Mass Storage device detected  
+* [  657.521567] scsi4 : usb-storage 2-4:1.0  
+* [  657.521682] usbcore: registered new interface driver usb-storage  
+* [  657.524927] usbcore: registered new interface driver uas  
+* [  658.522929] scsi 4:0:0:0: Direct-Access     Generic- SD/MMC/MS PRO    1.00 PQ: 0 ANSI: 4  
+* [  658.523580] sd 4:0:0:0: Attached scsi generic sg1 type 0  
+* [  659.196652] sd 4:0:0:0: [sdb] 62521344 512-byte logical blocks: (32.0 GB/29.8 GiB)  
+* [  659.197028] sd 4:0:0:0: [sdb] Write Protect is off  
+* [  659.197032] sd 4:0:0:0: [sdb] Mode Sense: 2f 00 00 00  
+* [  659.197462] sd 4:0:0:0: [sdb] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA  
+* [  659.199510]  sdb: sdb1  
+* [  659.200665] sd 4:0:0:0: [sdb] Attached SCSI removable disk  
+* [  670.389628] FAT-fs (sdb1): invalid media value (0x00)  
+* [  670.389638] FAT-fs (sdb1): Can't find a valid FAT filesystem
+* [  682.583015] EXT4-fs (sdb1): VFS: Can't find ext4 filesystem
+* [  682.583711] EXT4-fs (sdb1): VFS: Can't find ext4 filesystem
+* [  682.584390] EXT4-fs (sdb1): VFS: Can't find ext4 filesystem
+* [  682.585024] FAT-fs (sdb1): invalid media value (0x00)
+* [  682.585028] FAT-fs (sdb1): Can't find a valid FAT filesystem
+* [  790.554341] sdb: detected capacity change from 32010928128 to 0
+* [  792.489129] usb 2-4: USB disconnect, device number 7
+* [  792.988869] usb 2-4: new high-speed USB device number 8 using xhci_hcd
+* [  793.182924] usb 2-4: New USB device found, idVendor=0bda, idProduct=0177
+* [  793.182934] usb 2-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+* [  793.182940] usb 2-4: Product: USB2.0-CRW
+* [  793.182944] usb 2-4: Manufacturer: Generic
+* [  793.182948] usb 2-4: SerialNumber: (ommitted)
+* [  793.186990] usb-storage 2-4:1.0: USB Mass Storage device detected
+* [  793.187313] scsi5 : usb-storage 2-4:1.0
+* [  794.187142] scsi 5:0:0:0: Direct-Access     Generic- SD/MMC/MS PRO    1.00 PQ: 0 ANSI: 4
+* [  794.187987] sd 5:0:0:0: Attached scsi generic sg1 type 0
+* [  794.861712] sd 5:0:0:0: [sdb] 62521344 512-byte logical blocks: (32.0 GB/29.8 GiB)
+* [  794.862195] sd 5:0:0:0: [sdb] Write Protect is off
+* [  794.862204] sd 5:0:0:0: [sdb] Mode Sense: 2f 00 00 00
+* [  794.862645] sd 5:0:0:0: [sdb] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+* [  794.865741]  sdb: sdb1
+* [  794.867932] sd 5:0:0:0: [sdb] Attached SCSI removable disk
+",2016-01-20 19:42:41+00:00,cz5k4wv,2.0,t1_cz54eja,25076.0,linuxquestions
+97,"OK, do you know if it has to be a correctly formatted SD + NOOBS for ANYTHING to show up on the screen ? I just wouldn't know if it would bother telling you that something is missing or not right, rather than a blank screen. ",2016-01-17 02:06:45+00:00,cz12355,2.0,t1_cz11v74,348.0,raspberry_pi
+98,"I found something that looks even better: https://realpython.com/blog/python/face-recognition-with-python/  
+25 lines of code. ",2015-12-29 09:16:08+00:00,cyet5fn,1.0,t3_3yhq5j,97054.0,Python
+99,"I think JavaScript has gradually been taken more seriously over the years. I remember people saying years ago that it's an 'incomplete' language or something, but I don't remember any more details.  
+It's not object oriented, so there aren't actual classes... maybe this has a lot to do with it. ",2015-12-24 09:39:00+00:00,cy9wmjo,2.0,t1_cy9whnl,584.0,learnprogramming
+100,"I would think that if a language is so high level that it's especially easy / does all of the hard work for you, that it would get accused of not being a real programming language by elitists who know a lot about advanced topics.   Languages that have you working with .NET have all of the Object Oriented features you would need or want, so people may as well just be honest and say that they hate(d) it for being closed source (but I don't know if that has often been accused of not being real programming.)  
+So, it would sure make sense for PHP users to have a reputation like this, based on what you said.  ",2015-12-24 09:30:51+00:00,cy9wigv,2.0,t1_cy9w2mz,1846.0,learnprogramming
+101,"I should have avoided using 'a' tags in my example... could have caused some confusion, as if maybe I wanted a redirect or something. But yeah, this is about Selenium testing, with Python, specifically... Python is unable to locate a certain element, no matter how I tried to target it, so I was going to insert some JS to do it. ",2015-12-20 19:29:52+00:00,cy5qf8o,3.0,t1_cy5mmxw,6267.0,learnjavascript
+102,"
+
+Thank you, but it sounds like my question was misunderstood. I wanted to simulate a click, if the element contained certain text. ",2015-12-20 06:01:14+00:00,cy59eky,2.0,t1_cy599ua,349.0,learnjavascript
+103,I know what you're talking about but it can't even open up that little window first. ,2015-12-13 22:29:11+00:00,cxxynif,2.0,t1_cxxi6p1,26926.0,TOR
+104,I want to be able to embed WP posts onto non-WP sites... is this pretty doable now?,2015-12-10 04:49:01+00:00,cxtrkee,1.0,t3_3w06ew,102608.0,Wordpress
+105,"I have yet to try Visual Studio Code (available on non-windows). Does anyone think that's any good?  
+Also, I've only heard that ASP.NET doesn't perform as well on non-windows OS's. ",2015-12-05 00:28:44+00:00,cxnki7y,3.0,t1_cxn2zsf,26817.0,learnprogramming
+106,"It looks and feels much better, except that you now have to manually get a CDN for jQuery to add that.  
+I think it's once again better than Codepen. ",2015-12-02 08:08:45+00:00,cxk6tzz,1.0,t3_3v07fa,60576.0,javascript
+107,"Very close, thanks:  
+
+    $('tr').has('td[title*='+value+']').remove();",2015-12-02 03:16:18+00:00,cxjywl9,2.0,t1_cxjt3kw,9190.0,learnjavascript
+108,The site asked for my location. No thanks. ,2015-12-01 06:32:22+00:00,cxivqzr,1.0,t3_3uvhcs,47852.0,productivity
+109,"Couldn't you file a dispute through your bank or credit card company? From my experience PayPal makes this pretty easy.  
+",2015-11-29 06:44:24+00:00,cxgjsok,2.0,t1_cxfo9js,63672.0,webhosting
+110,"That's how I usually do it, but with audacity I assumed you had to do it manually because it didn't say to do it this way on the official site, or any of the other top results. I should have just tried it first anyways.  
+",2015-11-27 07:03:41+00:00,cxeiv3e,2.0,t1_cxee6hp,11115.0,linuxquestions
+111,It was probably silly of me to think that computers only had one MAC address. Thank you. ,2015-11-24 04:53:26+00:00,cxb2o8o,2.0,t1_cxb2mih,86.0,linuxquestions
+112,"~~bash: /home/user: Is a directory~~ Nevermind, I typed it wrong. It just gives me the same ones. (no eth0 )  
+Can someone tell me if the MAC address is for sure inside of eth0. 
+",2015-11-24 04:44:32+00:00,cxb2e17,2.0,t1_cxb2d6t,45.0,linuxquestions
+113,"Call them out on that on your site if they don't listen, showing timestamps and archives of it for proof. try and see if they stole content from others as well.  
+Better yet,do all of that before contacting them. ",2015-11-13 06:08:51+00:00,cwyn79j,1.0,t3_3sl6pi,28277.0,SEO
+114,What is the high seas? A nickname for some type of file sharing network or something... Google wouldn't tell me. ,2015-11-04 07:05:12+00:00,cwnwwpi,2.0,t1_cwnw707,2141.0,techsupport
+115,"It sounds like you can't update to the latest version without going to the website to download it first (no command line, no option from the menu that just installs updates.)",2015-11-02 21:49:14+00:00,cwm3dzx,1.0,t3_3r7rq6,24986.0,java
+116,"For programming purposes, at least, it sounds pretty cool and unique. It doesn't sound like something that would waste your time to use,if it's doing the monitoring. ",2015-11-02 04:38:46+00:00,cwl9xgi,4.0,t1_cwkymis,18172.0,webdev
+117,"I don't remember if it was gradle, or maven, that downloaded it to begin with. I remember seeing successful build commands for both, at different points. I see these two gradle commands in the history:  
+
+      459  gradle assemble
+      460  gradle build  
+as well as these Maven commands:  
+
+      397  mvn package
+      409  mvn compile
+      419  mvn compile
+      421  mvn test
+      422  mvn test
+      429  mvn package
+      431  mvn install
+      433  mvn site  
+Maybe it was Maven that did it, as I see a different version in Gradle, but I don't really know.  
+
+    apply plugin: ""java""
+    
+    repositories {
+        mavenCentral()
+    }
+    
+    dependencies {
+        compile ""org.jsoup:jsoup:1.8.1""
+    }  
+What you said about the jar sounded kind of interesting. Of course, this is basically my first time attempting to make use of any Java library that isn't part of the standard.  
+ &gt;Are you looking to execute the main class of a gradle project?  
+
+To answer *that* question... I guess I'm not quite sure. I thought gradle and maven were supposed to make it easy to get dependencies. Maybe that's how it is for larger projects. I'm trying to get the hang of just using a non-standard Java library for once, so I just picked one that sounded interesting, as I've scraped with Python before.   
+**edit:** At this point I can get jSoup itself to work, but that's only because I just downloaded the jar right from the website. (Maven / Gradle problems still persist for now.) About how many libraries/frameworks/etc would call for such tools, do you think? (if that's even the way to look at it)",2015-10-20 03:39:07+00:00,cw60inc,4.0,t1_cw5wqcf,5773.0,learnjava
+118,"I actually am, and for both it said Build Successful, as I looked over the basics of these tutorials yesterday. That's what downloaded the jar file (whichever came first).  
+First two errors:  
+
+    HTMLParser.java:4: error: package org.jsoup does not exist
+    import org.jsoup.Jsoup;
+                    ^
+    HTMLParser.java:5: error: package org.jsoup.nodes does not exist
+    import org.jsoup.nodes.Document;  
+OK, I've never used that command you mentioned. I guess it's about time. Here's the output:  
+
+        META-INF/
+        META-INF/MANIFEST.MF
+        META-INF/maven/
+        META-INF/maven/org.jsoup/
+        META-INF/maven/org.jsoup/jsoup/
+        META-INF/maven/org.jsoup/jsoup/pom.xml
+        META-INF/maven/org.jsoup/jsoup/pom.properties",2015-10-20 00:56:04+00:00,cw5u0vn,2.0,t1_cw5thlc,810.0,learnjava
+119,"I replaced the jUnit with that, it even said in the terminal output that jSoup was downloaded, yet when I try to compile any jSoup examples with javac it tells me that these jSoup classes don't exist.  
+
+    import org.jsoup.Jsoup;
+    import org.jsoup.nodes.Document;
+    import org.jsoup.nodes.Element;
+    import org.jsoup.select.Elements;  
+
+I tried taking off the org., etc... I've always felt comfortable with Sublime Text but maybe it's not a good fit for Java, if an IDE is supposed to aid you in such tasks. I've always felt that typical IDE's were too bloated and cluttered. ",2015-10-19 01:22:54+00:00,cw4nq3c,2.0,t1_cw4hbll,10360.0,javahelp
+120,"After a closer look at this, I don't think he legitimately re-posted someone else's art (I left a tweet on that stream). ",2015-10-17 09:56:15+00:00,cw2t94r,1.0,t3_3p3gq8,636.0,movies
+121," It turns out that it was as easy as doing this:  
+
+    from lxml import etree
+    doc=etree.parse('API URL')
+    print doc.xpath("".//longDescription"")[0].text  
+However, it does seem like it could be a little slow. ",2015-10-15 21:20:40+00:00,cw1481u,2.0,t1_cw0gn0f,43642.0,learnpython
+122,"It would be more like running a python script through the VPN to automate a headless browser for tests, or to use API's. That way my computer and internet wouldn't have to be on 24/7. ",2015-10-13 09:18:58+00:00,cvxywe6,2.0,t1_cvxyo8l,988.0,Python
+123,"Thanks again, I'll just wrap my head around this in the mean time. ",2015-10-09 02:23:16+00:00,cvt9lqp,4.0,t1_cvt915t,924.0,learnprogramming
+124,"Thank you... is it more about security , performance? I had the impression that if a class were to access an object that was private, more code would need to be written to allow that. But it sounds like you're saying that it just *won't* access that,when private. I hope it becomes more obvious when it should or shouldn't be allowed access as I slowly move along  (since I'm not studying Java everyday ). ",2015-10-08 23:57:50+00:00,cvt4alh,2.0,t1_cvt3uty,762.0,learnprogramming
+125,"The person who made it did well. I always like to see well known cartoon characters created in CSS,but it doesn't seem that common. ",2015-10-08 07:58:33+00:00,cvs9y54,2.0,t1_cvs8j5i,5279.0,css
+126,"No,I want to keep what's in the file without clearing it or adding new headers. ",2015-10-04 18:36:01+00:00,cvo0x5s,2.0,t1_cvnqw72,17019.0,learnprogramming
+127,"~~OK... I just decided to put this code inside of my footer, and the canvas element is just blank when I do this. (as it was before)~~ Hang on as I look at what you said more closely. It sounds like maybe I'd put it in the functions.php. I've put other JS in the footer.php before, and that ran fine.   
+
+    &lt;script&gt;
+     //start of canvas
+    window.onload = function(){
+     var canvas = document.getElementById(""myCanvas"");
+     var context = canvas.getContext(""2d"");
+     
+    
+     var imageObj = new Image();
+    imageObj.onload = function(){
+     context.globalAlpha = 0.8;
+         context.drawImage(imageObj, 10, 10);
+        context.font = ""20px Calibri"";
+    //var shortlink = [wpbitly];
+    //var shortlinkText = shortlink.text(); 
+       context.fillText(""My Text"", 50,50);
+    
+    document.write(""&lt;img src='""+canvas.toDataURL()+""'/&gt;"");    
+    
+     };
+     var imgSrc = document.getElementsByClassName('TheImage').src;
+     imageObj.src = imgSrc;
+    };
+    &lt;/script&gt;",2015-09-30 01:37:11+00:00,cvitai5,2.0,t1_cvhy5co,52415.0,Wordpress
+128,"Thank you for your help... the problem was caused by a plugin called WP Super Cache... the error messages were a little arcane so I just started off by commenting out an entire PHP , etc... ",2015-09-28 08:32:01+00:00,cvgpc88,10.0,t1_cvgoxo1,1861.0,webdev
+129,"No, but I thought it would just be a different functions file anyways, since I re-uploaded the theme folder (giving the theme a fresh start). For Installation Details in Softaculous, I see that for Automated Backups, it's set to Don't backup. Could this mean my posts are lost if these errors aren't fixed? ",2015-09-28 06:53:06+00:00,cvgnyay,8.0,t1_cvgnvuf,247.0,webdev
+130,"I was trying to get some JavaScript inside of PHP working (for the canvas) since it didn't seem to work on the widgets. So, I had the functions.php file open. I checked that file for any possible errors that could have broken the site, everything looked OK. I don't remember at this point if I had anything else open at the same time, if I was going to experiment with that or not. One thing I'm imagining (not remembering), is accidentally hitting a key before closing all of the files or something. Just something that comes to mind since nothing is obvious, not that it's like me to do that. ",2015-09-28 06:46:21+00:00,cvgnub1,6.0,t1_cvgnmr2,743.0,webdev
+131,"&gt;Can you still get to wp-admin?  
+
+No, that's blank as well. ",2015-09-28 06:32:16+00:00,cvgnlp4,4.0,t1_cvgnjhh,206.0,webdev
+132,"No messages, it's all blank. I didn't try to change the site URL, so I don't see how that could be an issue. ",2015-09-28 06:18:56+00:00,cvgnd18,2.0,t1_cvgnba7,152.0,webdev
+133,"I have this habit of not using child themes. What's to stop something like this from happening in a child theme? I figured that if I ever made any mistakes before saving a theme file, I'd go to CPanel and edit, as I have before... this time though, that's not working. I'd hope for that DB to not be destroyed if I uninstall this WP installation to reinstall a new one. ",2015-09-28 06:17:32+00:00,cvgnc1t,2.0,t1_cvgn91m,273.0,webdev
+134,"&gt; EDIT: if you dump it with a &lt;pre&gt; tag before it you can easily see how the array is structured
+
+Good point, I forgot about that, thanks guys. ",2015-09-27 20:42:16+00:00,cvg5uqt,2.0,t1_cvfnl3a,40038.0,PHPhelp
+135,Python loves you too.,2015-09-26 05:19:58+00:00,cvek8np,1.0,t3_3mfj2m,184.0,PrawTests
+136,Python loves you too.,2015-09-26 05:19:56+00:00,cvek8mx,1.0,t3_3mfj42,160.0,PrawTests
+137,"Well, interestingly enough, Example #1 does not work (Outputting a JPEG image): https://secure.php.net/manual/en/function.imagejpeg.php I've seen a number of snippets do it this way too. 
+But Example #2 does work... so the only issue yet is that it must be saved first. I'd prefer to not do that, as I may dynamically generate hundreds, or more, at some point (which would get to be too much for my cheap hosting plan). But that problem is down the road. Thanks for your input. ",2015-09-21 07:49:18+00:00,cv8tji2,4.0,t1_cv8su75,2937.0,PHP
+138,"It said ""loaded.""   
+Yeah, as I recently said in /r/webdev, GD just gave me a ton of hideous characters as the output: http://i.imgur.com/fB2HCks.png  
+I did check my folder and it looks like it's capable of making a thumbnail image, when I tested that out. But even when I used the font file sitting in my folder, as the source of the font, it gave no results when trying to write to the image. (I did try multiple code snippets for writing to the file, BTW.) ",2015-09-21 06:19:58+00:00,cv8s5rq,2.0,t1_cv8s2tk,275.0,PHP
+139,"Thank you, but I wonder if there's some kind of syntax problem there.. (blank page after trying that). ",2015-09-20 02:39:07+00:00,cv7jbqj,2.0,t1_cv7bi1y,15876.0,PHPhelp
+140,"That worked great, thank you. This snippet is worth remembering. ",2015-09-15 06:24:20+00:00,cv23ez8,6.0,t1_cv0q57e,101120.0,learnjavascript
+141,"Not to me it isn't. I think it should give examples from different languages on how to look up those items.  
+It kind of goes back to my original question.  
+After some searching through Google, I can see that there does exist, somewhere on that API documentation wrappers from years ago. ",2015-09-14 05:41:25+00:00,cv0vv9y,2.0,t1_cv0drif,33363.0,webdev
+142,"Thanks, I've realized that sometimes when selecting an element's text, you should try the parent's tag afterwards, if the immediate tag's selector doesn't show any results.  
+
+    var display = $('.info &gt; .keeper,.thisToo').text();
+    
+    prompt(display);  
+Do you know what I could put between the different selectors, to ensure a line break when doing it this way? ",2015-09-14 01:51:36+00:00,cv0p8v7,4.0,t1_cuzyyiy,45170.0,learnjavascript
+143,"I appreciate you trying, but that did not work. ",2015-09-13 03:31:49+00:00,cuzopwu,2.0,t1_cuz15xj,43532.0,learnjavascript
+144,"I did that yesterday and it works fine now, thanks. ",2015-09-05 18:58:27+00:00,curqlku,2.0,t1_curclmm,39493.0,Wordpress
+145,"So that the title of the post can be determined from the script. One less step when making a new post, it automates it more. ",2015-09-04 04:37:29+00:00,cuq4bhy,2.0,t1_cuq2oi0,3504.0,Wordpress
+146,Thanks! I'll strive to learn that much before touching android development. ,2015-09-03 02:08:17+00:00,cuouov0,2.0,t1_cuor8fm,6548.0,learnprogramming
+147,"There are back links of this site on the web, which uses sub domains that no longer exist (which it can't seem to handle). I only wanted to redirect all links to one particular URL, and didn't expect it to be hard. I also tried every snippet on Stack Overflow that was in the search results,without any luck. Thanks for trying though.  ",2015-08-22 21:17:38+00:00,cuc5p2r,2.0,t1_cuaiagy,125378.0,webdev
+148,"I looked at the path you gave me yesterday, and figured out where to find my FF profile. But that link is still handy. If I have such a script running on a remote server, would it just run the selenium webdriver script on the server, without needing a local machine? I guess it might also depend on what your web host allows, or maybe it would have to be a VPS.(I use a cheap web host only)  
+I already use the best plugin for that (random agent spoofer), and I'm glad that you can also change the user agent with the code (if a plugin can do it, so can you). I think it's the best plugin because you can even change the screen resolution with it, if you download the full version from Github. That's why I was wondering what I could possibly add to the user agent string, to change the screen resolution, time zone, etc.  
+Thanks again. ",2015-08-21 22:45:40+00:00,cub7md5,4.0,t1_cuan2yo,31972.0,Python
+149,"I must have put the wrong thing when I previously attempted to import my existing FF profile. I'll try and find a path name more like yours, thank you.  
+(what didn't work / it was as if I started firefox the usual way in Selenium)   
+
+    from selenium.webdriver.firefox.firefox_binary import FirefoxBinary  
+    binary = FirefoxBinary('/usr/lib/firefox/firefox.sh')  
+    driver = webdriver.Firefox(firefox_binary=binary)",2015-08-20 21:47:39+00:00,cu9z3ol,2.0,t1_cu9gd0s,28608.0,Python
+150,"It looks like no significant fee is involved, I thought there was one (only the cost of the domain, is what it seems). It's too bad that you have to turn off your current whois privacy to make it work. There are sites that collect such data, and even when you turn whoisguard back on, these sites still have it and if you want it taken off of theirs, they'll charge you for it. I hope these sites don't use their bots to check for whois privacy that might have been turned off every hour, minute, etc. Of course, doing any kind of search on their sites would only trigger it.  
+Easier than I thought, thank you. ",2015-08-15 08:11:36+00:00,cu3qfn9,2.0,t1_cu3pee6,4086.0,webhosting
+151,"Thanks, I was thinking that had something to do with it. I saw this on http://stackoverflow.com/a/25715497 ...I just tried these commands, and it still pulled up a Firefox without the plugins, even though when I opened up firefox the regular way, it showed FF with plugins:   
+
+    from selenium.webdriver.firefox.firefox_binary import FirefoxBinary  
+    binary = FirefoxBinary('/usr/lib/firefox/firefox.sh')  
+    driver = webdriver.Firefox(firefox_binary=binary)
+",2015-08-13 16:22:58+00:00,cu1ppv7,2.0,t1_cu1gbuv,18963.0,Python
+152,"This looks pretty cool- I was able to install it with sudo pip install pytumblr. However, it's not obvious to me right now what the callback URL is supposed to be. Probably not your Tumblr url, I'm guessing?  
+https://www.tumblr.com/oauth/register",2015-08-09 02:52:36+00:00,ctwiejt,1.0,t3_3gb6dl,118.0,Python
+153,Wouldn't disabling flash help to prevent a site from injecting into your clipboard? ,2015-08-07 23:38:50+00:00,ctve6rk,1.0,t3_3g54w5,27349.0,chrome
+154,The Tor browser is based off of Firefox... would they need to be concerned as well. ,2015-08-07 23:37:03+00:00,ctve4o9,2.0,t1_ctumxka,48977.0,linux
+155,It has not been updated since 2011 unfortunately. ,2015-08-07 09:00:03+00:00,ctum3i3,1.0,t3_3g3z2d,213.0,Python
+156,"Hmmm maybe try /r/tumblr. But if you do that, use a screenshot instead. ",2015-08-07 04:00:26+00:00,ctug29e,1.0,t3_3fvyc7,130356.0,work
+157,"Are clipboard managers nefarious? They also run in the background, and listen for user input. ",2015-08-06 23:20:04+00:00,ctu6qya,2.0,t1_cttln7a,30574.0,learnpython
+158,"It looks like this might work:  
+
+    $('.div2:parent').each(function () {
+        $(this).insertBefore($(this).prev('.div1'));
+    });
+    //for whitespace:
+    
+    $('.div2').each(function () {
+        if (!$(this).text().match(/^\s*$/)) {
+            $(this).insertBefore($(this).prev('.div1'));
+        }
+    }); //http://stackoverflow.com/a/9030469
+    
+edit: Maybe not, at least for the site I want to try it on. This appears to work well, since it has multiple elements of the same class names: http://codepen.io/anon/pen/VLgNpK  
+",2015-08-06 04:03:24+00:00,ctt7qef,1.0,t3_3ftia9,97020.0,jquery
+159,"I just followed the instructions on the PiA website for Debian / Ubuntu. The command handled mostly everything, other than I downloaded a bash script from their site. I guess it's... Network Manager, since I click the internet and see all of the different pia connections. ",2015-08-05 20:54:39+00:00,ctsrxf9,2.0,t1_ctsorqk,4285.0,VPN
+160,"I do appreciate your effort. It looks like on that example, it cloned many elements. I was hoping to not clone anything, but rather there's numerous div's of both classes on the page. I just wanted to insert each A after the following B.  
+But yeah, it's good to not always depend on jQuery. It might have made us (web dev's) less motivated or less knowledgeable in the long run.  
+That being said, it looks like /u/davidlwatsonjr's solution might work out. ",2015-08-05 06:09:20+00:00,cts1pp1,2.0,t1_ctrydkt,7995.0,jquery
+161,Python loves you too.,2015-07-31 07:28:15+00:00,ctmk0iv,1.0,t3_3bsik5,2546430.0,pythonforengineers
+162,Python loves you too.,2015-07-31 07:28:13+00:00,ctmk0i5,1.0,t3_3buauq,2513237.0,pythonforengineers
+163,Python loves you too.,2015-07-31 07:28:11+00:00,ctmk0he,1.0,t3_3cnqw1,1892869.0,pythonforengineers
+164,Python loves you too.,2015-07-31 07:28:09+00:00,ctmk0gh,1.0,t3_3cnsa8,1891625.0,pythonforengineers
+165,Python loves you too.,2015-07-31 07:28:07+00:00,ctmk0ff,1.0,t3_3da5ek,1430008.0,pythonforengineers
+166,Python loves you too.,2015-07-31 07:28:05+00:00,ctmk0ee,1.0,t3_3dvyry,977146.0,pythonforengineers
+167,I hope this is a good test.,2015-07-31 07:19:21+00:00,ctmjuu1,1.0,t3_3cdja7,2093045.0,pythonforengineers
+168,I hope this is a good test.,2015-07-31 07:19:19+00:00,ctmjutd,1.0,t3_3cdmne,2091360.0,pythonforengineers
+169,I hope this is a good test.,2015-07-31 07:19:17+00:00,ctmjusg,1.0,t3_3cdy6g,2085260.0,pythonforengineers
+170,I hope this is a good test.,2015-07-31 07:19:15+00:00,ctmjurn,1.0,t3_3ce059,2084171.0,pythonforengineers
+171,I hope this is a good test.,2015-07-31 07:19:13+00:00,ctmjuqs,1.0,t3_3cggxc,2032217.0,pythonforengineers
+172,I hope this is a good test.,2015-07-31 07:19:11+00:00,ctmjuq1,1.0,t3_3ecp1b,650933.0,pythonforengineers
+173,I hope this is a good test.,2015-07-31 07:19:09+00:00,ctmjupe,1.0,t3_3ed4r8,644160.0,pythonforengineers
+174,I hope this is a good test.,2015-07-31 07:19:07+00:00,ctmjuok,1.0,t3_3eiyrp,530668.0,pythonforengineers
+175,Was I supposed to ignore this. new bots don't always know best.,2015-07-29 08:42:58+00:00,ctk22et,1.0,t3_3ax0pw,3038761.0,pythonforengineers
+176,Was I supposed to ignore this. new bots don't always know best.,2015-07-29 08:42:56+00:00,ctk22e4,1.0,t3_3cbred,1953777.0,pythonforengineers
+177,shit comment.,2015-07-29 08:38:08+00:00,ctk1zml,1.0,t3_3eidnu,374665.0,pythonforengineers
+178,"This submission is not an endorsement, but it can give people a chance to call out bullshit. ",2015-07-28 21:48:12+00:00,ctjifmd,1.0,t3_3evjhc,48628.0,TOR
+179,sucks.,2015-07-28 08:57:13+00:00,ctiso4y,2.0,t1_ctisnva,31.0,test
+180,This comment,2015-07-28 08:56:42+00:00,ctisnva,1.0,t3_3erftw,75705.0,test
+181,I wish that there was a one click installer for this in CPanel / Softaculous. ,2015-07-26 08:06:09+00:00,ctgia69,1.0,t3_3e0okm,455560.0,8chan
+182,"Your searching habits wouldn't be the same as others... I see Reddit results from time to time. It seems like when I search for programming topics, reddit has a fairer chance of showing up.  
+Yahoo Answers SEO has long been overrated, for whatever reason. ",2015-07-25 08:04:20+00:00,ctfiz9j,1.0,t3_3ej1hj,13309.0,SEO
+183,SmartPassiveIncome and KingHuman are a couple that come to mind. ,2015-07-16 22:42:43+00:00,ct5xaoq,1.0,t3_3djaym,13647.0,Entrepreneur
+184,"Yeah.. the problem that I sometimes have with it though, is finding the exact JavaScript / CSS that was necessary to make an effect happen. The web inspector can feel like a big mess, at times. Here, I can see that the selected element for OP's example supposedly has a click event but it still can't seem to just show me the JS, etc which made the effect.  
+http://i.imgur.com/JZz8PCk.png  
+",2015-07-15 19:57:58+00:00,ct4iu44,2.0,t1_ct4dpbe,7542.0,web_design
+185,"It's pretty popular, and it's now owned by Ask.com too. ",2015-07-06 23:39:57+00:00,csudz97,2.0,t1_csucf57,2771.0,CrappyDesign
+186,It could also be that this is 4 years old. ,2015-07-02 09:13:10+00:00,cspoyc9,2.0,t1_cspostd,649.0,linux
+187,"That looks like a very good idea. Installing it on my PC was no problem, but I use Namecheap as a web host and any given instructions didn't work for that... SSH is enabled, no problems logging in. (for example, I don't have permission to move a file, I don't know what the local/bin equivalent on the server is).  
+*./wp-cli.phar --info* - just gives me question marks.  
+Anyways, I'm posting this in case anyone might know. After a Google search,  this was one of the only things I found about it:  
+http://rosrants.com/wp-cli-not-working-namecheap-com-solved/  
+Supposedly adding those aliases didn't help either. ",2015-06-27 19:30:24+00:00,cskqhnh,2.0,t1_cskef56,29983.0,Wordpress
+188,"I have these bad memories of being overwhelmed with a big style sheet, but now that I'm using a starter theme I don't expect that to be as much of an issue. ",2015-06-22 02:45:06+00:00,csee6bp,2.0,t1_cseakwy,7572.0,Wordpress
+189,"Yeah, I briefly had regular Ubuntu and after I saw the Amazon crap, not knowing about it beforehand I thought that was pathetic (other than having a big sidebar at the left, and not being able to customize.) Do you think Peppermint is fine? I don't remember if I was asked about proprietary software when installing. I think I said yes to 3rd party software during installation. ",2015-06-22 02:44:19+00:00,csee5i7,3.0,t1_csee0np,278.0,privacy
+190,"So, how often are our conversations being recorded? Does it help to use Ubuntu / Debian? The article didn't seem to make it clear enough. ",2015-06-22 02:03:00+00:00,csecyuh,1.0,t3_3aamav,297015.0,privacy
+191,I know. Could have asked for something with good comments instead.,2015-06-21 07:33:19+00:00,csdmw2w,2.0,t1_csdjsna,9873.0,Wordpress
+192,"If it was right in one of the PHP files then yes, that white screen could happen. But often times that isn't the case. ",2015-06-21 04:07:27+00:00,csdit9b,2.0,t1_csdhz34,2048.0,Wordpress
+193,Emails... I should have thought of that. They just got me going with a cron job that regularly deletes these (junk) notifications that are sent to some address I never check. thanks. ,2015-06-20 10:34:13+00:00,cscsiqe,2.0,t1_cscruz3,3345.0,webdev
+194,"I've heard someone say on here once, that Cloudflare keeps like 80-90-something% of the bots out, but I don't know how good it really is. It sounds like you don't want to rely much on a 3rd party though. ",2015-06-20 09:21:14+00:00,cscrnod,1.0,t3_3ahmj2,8929.0,webdev
+195,Those top rated comments can save you a lot of time... thanks Reddit. ,2015-06-16 23:58:26+00:00,cs8zcve,2.0,t1_cs8cg8t,35872.0,javascript

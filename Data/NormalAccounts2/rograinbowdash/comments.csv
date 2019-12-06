@@ -1,0 +1,80 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"It would be DDLB or MDLB given that you're a guy, just a heads up.",2016-11-19 17:11:09+00:00,da73u67,1,t3_5dsvui,6490,FurryKikPals
+1,I'm impatient,2016-11-15 23:32:23+00:00,da1zkqg,2,t1_da0n9lg,79846,PiratedGames
+2,"I prefer to do story roleplays, and given that ferals can't talk that'd make things extremely difficult.",2016-11-05 03:37:16+00:00,d9mheri,2,t1_d9mg3m4,2289,FurryKikPals
+3,RoGAthena,2016-11-03 01:44:41+00:00,d9jazod,1,t3_5aszvt,12161,FurryKikPals
+4,"For starters, cheer up. Secondly it's not too uncommon for dommes to have dommes, switches are a thing. All I can really say is don't jump to conclusions, usually ends badly.
+",2016-10-23 01:16:17+00:00,d93pkh2,1,t3_58twkc,31190,FurryKikPals
+5,I'd like to but can't seem to find your Kik mines RoGAthena ,2016-10-19 12:17:25+00:00,d8ymbg5,1,t3_5871qy,47069,FurryKikPals
+6,"Sorry if I don't reply immediately didn't expect so many people and I can only talk so fast. &gt;.&lt; Please be patient and message me every day or so if you're interested. I'll try to get everyone a chat at least.
+",2016-10-13 02:05:11+00:00,d8ppc0z,1,t3_575jbt,28659,FurryKikPals
+7,You didn't leave your username for anyone to add you. ,2016-10-09 11:24:20+00:00,d8kc1v3,1,t3_56jwdm,38951,FurryKikPals
+8,"Can someone be my hero and tell me where I could get a pair?
+",2016-10-03 13:12:12+00:00,d8c1w2l,1,t3_4y68by,4052502,bdsm
+9,"meat you....
+",2016-10-01 13:15:05+00:00,d89ippt,1,t3_52fdc5,1628035,FurryKikPals
+10,Found those photos but there's another artist that does that kind of art with girls and I guess it isn't her :(,2016-09-29 00:49:16+00:00,d86av1n,3,t1_d83oe4b,162479,yiff
+11,"What's that artists name, I remember seeing tons more I just can't remember who it is to search?
+",2016-09-26 23:57:20+00:00,d83dn5n,1,t3_54kb95,41599,yiff
+12,Got a source or name for the character?,2016-09-02 03:44:10+00:00,d76ckvf,1,t3_50lc26,86109,yiff
+13,"Except they're dead already :(
+",2016-08-11 02:01:40+00:00,d6cox2r,1,t3_4x3fig,29170,funny
+14,"Isn't that what I'm doing?
+",2016-01-04 14:50:10+00:00,cyljb8l,4,t1_cyl1ejo,46662,ABDLPersonals
+15,"Maybe, fair warning it would take some time to actually get me comfortable enough.",2016-01-03 16:41:14+00:00,cykgaop,2,t1_cyiclxk,173960,ABDLPersonals
+16,"You can scrap the self.key/self.string/self.integer stuff Someone said that the self.key = key would help me. I don't believe I can do what you said to because that's messing with the test function. I think I can only mess with the definitions. I can't use yours because i can't edit my_codec down
+",2015-11-07 19:43:47+00:00,cws2lko,3,t1_cws11eo,2672,learnpython
+17,"My mistake I forgot to mention the ' ' and 4 were just placeholders since they need to return a string and an integer.
+
+and I can't edit the test function, all i can do is edit the definitions. But I'm very knowledgeable in python. Easier the better.",2015-11-07 15:12:14+00:00,cwrtua3,1,t3_3rult4,41606,learnpython
+18,"Thanks I'll try that code academy tells me that's the way it should be but I'll try your advice
+",2015-10-12 17:48:27+00:00,cvx4vtk,1,t3_3o9htx,158978,learnpython
+19,"I have all of this so far. 
+
+import sys
+
+__version__ = '0.0.0'
+
+# The minimum and maximum values allowed in this program.
+min_value = 2
+max_value = 100
+
+# A variable to store the converted input value.
+number = 0
+
+# A variable to keep a running total.
+total = 0
+
+# Gather the user's input from the console.
+user_input = input(
+    'Enter a number between {} and {}: '.format( min_value, max_value )
+)
+
+#############################################################################
+# YOUR CODE STARTS BELOW THIS COMMENT
+#############################################################################
+if user_input.isdigit():
+    pass
+
+
+
+else:
+    print (""That is an invalid response. Please Restart."")
+
+#############################################################################
+# YOUR CODE STOPS ABOVE THIS COMMENT
+#############################################################################
+
+# Display the results of the program.
+print(
+    'The sum of all integers between 1 and {} is {}.'.format( number, total )
+)
+
+Most of it was provided",2015-09-23 17:36:59+00:00,cvbkkhq,1,t3_3m32vv,3004,Python
+20,"Yeah, that particular guy has had a bot running for at least a year now. It's taken every once in a while but he eventually throws up a new one.",2015-09-03 03:53:18+00:00,cuoy08f,1,t3_3jdjsh,40486,omegle
+21,How would i implement that code? The Dragon is your character that you control with the arrow keys if that helps. You'll probably have to tell me step by step what to do.,2015-08-28 18:11:25+00:00,cuivqyy,1,t3_3in978,76254,gamemaker
+22,Be as elementary with your explanation as well.,2015-08-27 22:00:58+00:00,cuhyzpn,1,t3_3in978,3627,gamemaker
+23,"So he won't leave if I change it to follow him?
+Sorry if I sound stupid. I'm very new to game maker.",2015-08-27 21:49:52+00:00,cuhykus,1,t3_3in978,2961,gamemaker
+24,"Thank you!
+",2015-07-16 02:12:26+00:00,ct4wcvs,1,t3_3dc4h1,83752,tipofmyjoystick

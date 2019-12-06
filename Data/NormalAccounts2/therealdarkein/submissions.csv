@@ -1,0 +1,40 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-10-18 15:40:34+00:00,self.explainlikeimfive,https://www.reddit.com/r/explainlikeimfive/comments/584gd9/eli5_how_does_smart_on_a_harddrive_work_what_do/,False,,explainlikeimfive,ELI5: How does S.M.A.R.T. on a harddrive work? What do all those values mean? What values are most lethal to a drive and how can you predict a harddrive failure?,https://www.reddit.com/r/explainlikeimfive/comments/584gd9/eli5_how_does_smart_on_a_harddrive_work_what_do/
+1,2016-10-12 16:12:37+00:00,imgur.com,https://www.reddit.com/r/tmobile/comments/574vyi/tmobile_introduces_their_new_tmobile_tuesday/,False,,tmobile,T-mobile introduces their new T-mobile Tuesday promotional manager.,http://imgur.com/n4C1f3T
+2,2016-09-22 02:46:49+00:00,self.tmobile,https://www.reddit.com/r/tmobile/comments/53wy5m/question_4g_lte_cellspot_will_not_connect/,False,"I am pulling my hair out on this one. I have experience with network devices and setting them up. 
+
+I am not able to get the 4G LTE Cellspot to connect. I am on Comcast and have a ARRIS SURFboard SB6190 DOCSIS 3.0 Cable Modem. I run that into a ASUS RT-N66U Dual-Band Wireless-N900 Gigabit Router. My connection speed is 180/12mbps
+
+I have tried the following (All setups have been on for 6-12 hours+)
+
+* Arris to Asus router. 4G LTE Cellspot plugged into the Asus router. Results in flashing Green and orange lights. 
+* Arris to Asus router. 4G LTE Cellspot plugged into the Asus router. Port forwarded for ip address of the 4G LTE Cellspot. (Ports forward 1-49151) Results in flashing Green and orange lights. 
+* Arris to 4G LTE Cellspot. (Should be no firewall) Results in flashing green light and solid orange light.
+
+I have all the plugs in the right locations on the 4G LTE Cellspot. T-mobile tech support doesn't seem to be able to help at all. 
+
+Does anyone have the same issue/solutions?
+Is there any interface to log into to see error codes other than the lights? I am able to see the device with my router. Maybe I have a lemon. 
+
+Please help!",tmobile,Question : 4G LTE Cellspot will not connect. Regardless of setup.,https://www.reddit.com/r/tmobile/comments/53wy5m/question_4g_lte_cellspot_will_not_connect/
+3,2016-09-12 05:36:05+00:00,flic.kr,https://www.reddit.com/r/SonyAlpha/comments/52cukb/sunflower_taken_with_sony_a6300f56_this_camera_is/,False,,SonyAlpha,Sunflower taken with Sony a6300/f5.6 - This camera is impressive!,https://flic.kr/p/M1F1iP
+4,2016-08-18 07:33:27+00:00,c2.staticflickr.com,https://www.reddit.com/r/SonyAlpha/comments/4yay9j/i_am_so_impressed_by_the_alpha_6300_i_am_not_the/,False,,SonyAlpha,I am so impressed by the alpha 6300! I am not the best photographer but the camera produces amazing images!,https://c2.staticflickr.com/9/8857/28929584905_f154f13491_h.jpg
+5,2016-03-04 01:43:53+00:00,self.arduino,https://www.reddit.com/r/arduino/comments/48v6kk/question_trying_to_repair_an_exercise_bike_with/,False,"I have an exercise bike that uses magnets (not electric ones) to create resistance. The bike is having problems with the controller to where it isn't sending the signal properly to the motor which in turn brings the magnets closer to a metal wheel (creating resistance). 
+
+The motor I am driving is the following-
+[http://www.jameco.com/webapp/wcs/stores/servlet/Product_10001_10001_238473_-1](http://www.jameco.com/webapp/wcs/stores/servlet/Product_10001_10001_238473_-1)
+
+---
+So here is the question. What parts/code would I need to safely drive this motor? It is a 12v motor, so I can't drive it from the Teensy. The best scenario is to create exercise presets. Worst case scenario would be to just us a button to turn the motor one way, then switch polarity and turn it the opposite way. 
+
+---
+Any help to get started would be amazing!
+
+ ",arduino,[Question] Trying to repair an exercise bike with simple 12v dc motor + Teensy.,https://www.reddit.com/r/arduino/comments/48v6kk/question_trying_to_repair_an_exercise_bike_with/
+6,2016-02-14 04:09:03+00:00,self.Showerthoughts,https://www.reddit.com/r/Showerthoughts/comments/45oht6/its_possible_that_hillary_clinton_is_running_for/,False,[removed],Showerthoughts,"It's possible that Hillary Clinton is running for president to have an affair at the White House, to get back at her husband, Bill Clinton, for having an affair as president at the White House.",https://www.reddit.com/r/Showerthoughts/comments/45oht6/its_possible_that_hillary_clinton_is_running_for/
+7,2015-09-17 05:06:25+00:00,self.GrandTheftAutoV_PC,https://www.reddit.com/r/GrandTheftAutoV_PC/comments/3l9m4c/can_anyone_get_into_buildings_with_vehicles/,False,I noticed while playing tonight that there is an invisible barrier for vehicles in ammunation and the bank. Is there anyway to bypass this or is this here to stay? I don't understand why Rockstar made this change. ,GrandTheftAutoV_PC,Can anyone get into buildings with vehicles anymore?,https://www.reddit.com/r/GrandTheftAutoV_PC/comments/3l9m4c/can_anyone_get_into_buildings_with_vehicles/
+8,2015-06-18 23:21:07+00:00,self.SonyAlpha,https://www.reddit.com/r/SonyAlpha/comments/3acd06/a5100_question_about_external_battery_charging/,,"I am trying to hook up an external battery while the camera is on. I have used 5 different types of usb chargers/ battery packs and I cant get the camera to stop going directly into usb data mode when trying to charge while shooting images. Has anyone else figured out a way around this? Seems pretty stupid on Sony's part to have a micro usb and not be able to charge during use. 
+
+-
+
+I used both a dataless microusb cable, data microusb, and the original cable that came with the camera. ",SonyAlpha,A5100- Question about external battery charging while camera is on.,http://www.reddit.com/r/SonyAlpha/comments/3acd06/a5100_question_about_external_battery_charging/

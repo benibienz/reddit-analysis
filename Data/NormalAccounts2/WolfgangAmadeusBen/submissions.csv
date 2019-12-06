@@ -1,0 +1,21 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-05-29 20:29:25+00:00,self.Windows10,https://www.reddit.com/r/Windows10/comments/4lm39f/how_to_reinstall_windows_10_with_bloatware/,False,"Hi all, I've decided I think my laptop would benefit from a refresh, so I was planning on just shipping off all my stuff and reinstalling Windows 10. I know a lot of people do this anyway to remove the manufacturer bloatware, but actually I kind of want to keep the ASUS USB Charger Plus, ASUS Driver Manager, Realtek Audio thing and a couple of other ones. I'm wondering if it's possible to refresh the Windows 10 install without losing these.
+
+The reason I want to reinstall Windows is because my laptop (ASUS Zenbook UX301la) no longer recovers from sleep correctly (which could be a number of things) and occasionally blue screens from memory management problems. I don't know how to fix these things but I feel like a refreshed system might be a good place to start, but I don't want to lose all my files and preexisting software.
+
+Thanks!",Windows10,How to reinstall Windows 10 WITH bloatware,https://www.reddit.com/r/Windows10/comments/4lm39f/how_to_reinstall_windows_10_with_bloatware/
+1,2016-04-22 18:02:33+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/4fzoa1/anyone_know_anything_about_system_and_compressed/,False,"Hi all, I've got an Asus Zenbook UX301la (i7-4500U, 8gb DDR3 ram) and upgraded to Windows 10 a while back. Recently it did a fairly large compulsory update (think it was Monday 18th April), and I think since then I've had big problems with ""System and Compressed Memory"" being pretty much my top process in memory usage ever since, or at least I've noticed it more now if it wasn't caused by the update. 
+
+Upon further investigation it points to ntoskrnl.exe as the culprit, but I know nothing about this. Some quick googling revealed it often is a problem when you have malware, so I downloaded and scanned with Malwarebytes and Avira (both free versions) but both found nothing. 
+
+I've also heard ""updating drivers"" could solve the problem due to problems with ASUS hardware, but not being massively techy, while I'm aware I can update my drivers in Device Manager, there's hundreds of things there and manually updating each doesn't seem to be feasible- I don't know which ones to update, or where is the best place to update them because I don't think Windows does the best job of finding the most up-to-date ones (having had to manually install ones for sound and trackpad in the past due to problems with Windows 10). 
+
+It does seem to get more of a problem as the laptop is on longer, and restarting does seem to temporarily give my cooling fan some peace, but I can't tell if it's increasing in RAM usage with time (like a memory leak), or if it's increasing because after a while I've usually got a few processes running. 
+
+Just a minute ago I was running some moderately intensive python scripts and I checked Task Manager and found ""System and Compressed Memory"" to be taking up a whopping 3gbs of memory. I closed the python scripts which has reduced it to a more manageable 400mb, but that still by far tops my idle ram usage with the next top being Chrome with 15 tabs open at 100mb, and means the fan is constantly on again. It's worth noting perhaps that it rarely occupies more than 2% CPU.
+
+Additionally, but potentially related, since upgrading to Windows 10 I get occasional BSODs with ""Faulty Hardware Corrupted Page Error"" or ""Memory Management"" problems. I've read that these are known faults with ASUS hardware and Windows 10 (having never had one in a year of Windows 8.1), but still fairly inconvenient. 
+
+Cheers all
+
+",techsupport,"Anyone know anything about ""System and Compressed Memory"" (ntoskrnl.exe) memory hog on Windows 10?",https://www.reddit.com/r/techsupport/comments/4fzoa1/anyone_know_anything_about_system_and_compressed/

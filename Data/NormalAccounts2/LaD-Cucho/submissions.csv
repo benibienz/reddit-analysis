@@ -1,0 +1,454 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-20 20:01:44+00:00,self.chile,https://www.reddit.com/r/chile/comments/5dzt3f/cuales_son_las_cosas_mas_idiotas_de_la_ley_2000/,False,eso po jajaja,chile,cuales son las cosas mas idiotas de la ley 20.00 segun ustedes?,https://www.reddit.com/r/chile/comments/5dzt3f/cuales_son_las_cosas_mas_idiotas_de_la_ley_2000/
+1,2016-11-18 04:49:57+00:00,self.chile,https://www.reddit.com/r/chile/comments/5dkmv1/alguien_sabe_donde_puedo_comprar_repuestos_de/,False,"tengo una armónica muy especial (la tiraron al público y la recibí yo)...
+es una hohner ms en C (blues special)...
+una lengueta está quebrada y quiero reemplazarla....
+no importa la ciudad :)",chile,alguien sabe donde puedo comprar repuestos de armónicas en chile?,https://www.reddit.com/r/chile/comments/5dkmv1/alguien_sabe_donde_puedo_comprar_repuestos_de/
+2,2016-11-18 02:01:40+00:00,youtube.com,https://www.reddit.com/r/chile/comments/5djwg1/nuevo_album_de_anarkia_tropikal/,False,,chile,Nuevo Album de Anarkia Tropikal,https://www.youtube.com/watch?v=-5w--7MtZ2g
+3,2016-11-17 14:47:19+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/5dg5n2/hi_guys_learning_programming_sudoku_but_need_some/,False,"well, i'm on the first year of a carrer and now we're programming, it's my first semester on this and we're using python.
+we learn through ""mini projects"" so we've a little challenge and every week we've to add something and improve the program.
+last class they taught us how to make matrix (or arrays) and here's the situation:
+week 1:
+we learned how to make lists.
+    we had to make a sudoku with 9 numbers in a random place (we had to separate the tiny matrix with | - and + in the corners)
+so i made a ""for"" in range (11) printing a list with a random number.
+now this week, we learned how to make matrix (no one learned right tough, so it's hard to even think the excercice).
+    we've to validate and restrict with the sudoku rules and return a random fully resolved sudoku... i think that i've to make 3 functions (1 for each rule, columns, rows and matrices)...
+but don't know what to do :(
+could you guys guide me?
+
+edit:
+-------------------------------------------------------------------
+well, here's more info:
+this was my first ""delivery"":
+    
+    from random import* 
+    for z in range (0,11): 
+        a,b,c,d,e,f,g,h,i,x=0,0,0,0,0,0,0,0,0,3 
+        while x==3 or x==7: 
+            x=randint(0,10) 
+        La1,La2,La3=[a,b,c,'|'],[d,e,f,'|'],[g,h,i] 
+        Lf=La1+La2+La3 
+        Ld=['---------+-------------+---------'] 
+        Lf[x]=randint(1,9) 
+        if z==3 or z==7: 
+            print Ld 
+        else:
+            print Lf
+   i know is not the most intelligent thing to do but i'm just a newbie :)
+we had to give just the matrix but with simple lists...
+now here's what we have to do: (original text in spanish and then my translation)
+""El sudoku es un puzle matemático que consta de rellenar 9 matrices de 3x3 con números de 1 a 9 sin repetirse dentro de esta (Matriz 3x3) o dentro de la fila y columna de la matriz grande, además de que las posiciones de cada número están puestas por una coordenada (i, j) las cuales deben ser validadas en cada momento"" 
+
+sudoku is a mathematical puzzle that consist in filling 9 3x3 matrix with numbers from 1 to 9 without repeting them in the 3x3 matrix, the row or the column of the huge matrix, also all the cells must be in a i,j coordenate that must be validated every moment""...
+
+now i've only got the matrix and it goes like this:
+
+    sudoku=[]
+    for f in range (11):
+        l=[]
+        for c in range (11):
+            if c==3 or c==7 and (f==3 or f==7):
+                l+=[""+""]
+            elif c==3 or c==7:
+                l+=[""|""]
+            elif f==3 or f==7:
+                l+=[""-""]
+            else:
+                l+=[0]
+        sudoku+=[l]
+    for i in range (11):
+        print(sudoku[i])
+
+-we're using python
+-we can use only matrix and not more in deep programation...
+-we must put this rows  with ""|"", ""+"" and ""-"".
+-i know there are far more intelligent ways to do this but i can't come up with no one... sadly we share campus with computational engenieers and they laugh at us the whole time and do'nt want to help (some of them does but no one have time now, we're ending the semester... :( hahahah
+sorry for my poor english :) (i'm chilean)",learnprogramming,"hi guys, learning programming (sudoku) but need some help",https://www.reddit.com/r/learnprogramming/comments/5dg5n2/hi_guys_learning_programming_sudoku_but_need_some/
+4,2016-11-08 02:51:09+00:00,self.chile,https://www.reddit.com/r/chile/comments/5bqqy1/donde_puedo_ver_los_requerimientos_para_tener_una/,False,"me refiero a las cosas legales necesarias y todo eso, es para un proyecto de la U :)",chile,donde puedo ver los requerimientos para tener una cervecería?,https://www.reddit.com/r/chile/comments/5bqqy1/donde_puedo_ver_los_requerimientos_para_tener_una/
+5,2016-11-06 18:30:16+00:00,self.mead,https://www.reddit.com/r/mead/comments/5bh75k/hello_ive_got_to_make_a_meadery_project_and_need/,False,"hello guys, let me introduce myself: 
+
+i'm an non-expert (or non even amateur) mead maker from Chile.
+
+i'm on the first year of Industrial civil engineering (if you're not familiarized with the career, is like a mix of all the engineerings but not as deep as the rest).
+
+i have to make a proyect of a meadery for a subject called ""basics of administration""
+
+with that being said...
+well, this must be a complete project cuz our teacher want to use the same rubric that the ""corfo"" uses to analize projects (corfo is one the goverment thingys that subsidizes start up business)...
+also, that is not bad at all (hard but not bad) because if chile has something good is that the goverment and universities always make competitions for funds and stuff like that for starter business people, and the next year i want to really start this meadery :) .
+but i need:
+
+    **general description of the project** 
+    
+        i can make that :) 
+    **background of the industry:**
+     
+            wich one it is (i believe is manufacturing).
+
+        behabing during last 5 years 
+        
+            i have no bibliography in chile about that, or the year :( also, there's no mead market so the closest one is the beer one.
+    
+        indicators and time stimations 
+        
+            same as before... no bibliography :( )
+    **evyronement variables**  (non controlable ones)
+   
+    **why is this innovating?** 
+ 
+        i can make that :)
+
+    **wich need am i satisfying? and wich are the opportunities on the market**
+
+    **SWOT analysis** 
+    
+    i can make that :) 
+
+    **Porter analysis**
+   
+         i can make that :) )
+
+    **kind of society and justification**
+        i can make that :) 
+
+    **strategic planning** 
+    
+        that'll be hard but i think i can do it :) )
+
+    **mission, vision, general and specific objectives, strategies and tactics** 
+       
+         i can make that :).
+
+
+but the hardest thing i guess will be:
+  
+    **detailed description of:**
+
+        -the process (cuz i only know how to make it like ""in my home"" with no machines or stuff, my fermenters are the plastic 20 lts ones).
+
+        -competition (don't know other meaderies here so i guess that'd be the brewers.
+
+        -clients (don't even know my objective clients :( )
+
+
+i know is a lot and i might sound really lazy... but this subject is quite hard for being a 1st year one :/ anything that you could help me i'd be really grafetull...
+ps: sorry for my english :)
+sorrry for the format.. i'm new on this ""format giving"" stuff on the text",mead,hello!! i've got to make a meadery project!!! (and need help :( ),https://www.reddit.com/r/mead/comments/5bh75k/hello_ive_got_to_make_a_meadery_project_and_need/
+6,2016-11-06 17:09:45+00:00,self.uruguay,https://www.reddit.com/r/uruguay/comments/5bgrft/hola_amigos_estoy_buscando_el_proyecto_mediante/,False,"Bueno, me presento, soy de Chile y para la universidad voy a hacer un proyecto (técnicamente es más ensayo que proyecto) en el cual abogaré a favor de la marihuana... me serviría mucho el proyecto ley con el que la legalizaron ustedes (y si tuvieran bibliografía seria también).
+Muchisimas gracias por su tiempo y disposición (si los tienen :) )
+",uruguay,"hola amigos, estoy buscando el proyecto mediante el cual legalizaron la marihuana...",https://www.reddit.com/r/uruguay/comments/5bgrft/hola_amigos_estoy_buscando_el_proyecto_mediante/
+7,2016-11-01 19:05:05+00:00,self.harmonica,https://www.reddit.com/r/harmonica/comments/5akzmm/where_can_i_buy_parts_to_fix_an_harmónica/,False,"Well, 2 days ago i went to a festival where i got the harmonica that the singer of a band threw to the public!!!
+Today i cleaned it cuz it was sounding like shit and tried to fix it... well, the 4 draw (it's D i think) was completely fucked and accidentally i broke the metalic thingy (but i fixed the other 3 cells that where  fucked up... now i know why he threw the harmonica to the public hahaha).
+As you might understand, i wanna use this harmonica and i want to fix it...
+Where can i find replacements to these plates? (I don't even know how they're called in english).
+The band is called ""los peores de Chile"" they're quite known in the Chilean Underpunk scene... yes, some songs are punky with harp!!!
+Thanks for your time :)
+
+It's a Hohner ms on C",harmonica,Where can i buy parts to fix an harmónica,https://www.reddit.com/r/harmonica/comments/5akzmm/where_can_i_buy_parts_to_fix_an_harmónica/
+8,2016-10-20 02:43:00+00:00,self.chile,https://www.reddit.com/r/chile/comments/58ejfx/a_raiz_del_niunamenos_que_opinan_de_los_40_cupos/,False,"bueno, el otro día comenté que considero esos 40 cupos para mujeres bajo el puntaje de corte una ofensa hacia ellas que lejos de fomentar la igualdad, a mi juicio, las discrimina...
+recibí un montón de opiniones muy contrarias que no tenían nada que ver con lo que postulé (algunas personas me salieron con que nunca sentiré lo que es ser acosado verbalmente en la calle o punteado en el metro... cosa que no tiene nada que ver y considero grotesca) .
+¿cual es la opinion de /r/chile al respecto?
+espero no me lleguen cosas sin sentido... es más, busco gente que opine distinto pero me de argumentos válidos para nutrirme un poco y dejar de ser ignorante (si es que lo soy... quien sabe?).",chile,a raiz del #Niunamenos... que opinan de los 40 cupos en la chile?,https://www.reddit.com/r/chile/comments/58ejfx/a_raiz_del_niunamenos_que_opinan_de_los_40_cupos/
+9,2016-10-12 10:22:21+00:00,self.trees,https://www.reddit.com/r/trees/comments/573dxk/need_help_for_a_prject/,False,[removed],trees,need help for a prject!!!,https://www.reddit.com/r/trees/comments/573dxk/need_help_for_a_prject/
+10,2016-10-11 17:00:40+00:00,self.Marijuana,https://www.reddit.com/r/Marijuana/comments/56z1ra/need_help_for_a_project/,False,"Hello friends... well i`ve to make a project for my spanish clases (i'm Chilean, so spanish is my native lenguage---&gt;hard project :( ).
+With my group, we've decided to make it about legalization.
+The evaluation is more about quoting than content... so i need data and persons to quote :(
+As i'm not a consumer, i don't know that much so i need your help ;).
+We must do:
+-Introduction
+-Summary
+-Theoretical framework
+-Methodology
+-Conclutions.
+Thx guys for your help!!!",Marijuana,need help for a project,https://www.reddit.com/r/Marijuana/comments/56z1ra/need_help_for_a_project/
+11,2016-10-03 23:34:18+00:00,self.mead,https://www.reddit.com/r/mead/comments/55qniz/hello_can_you_check_this_recipes_ill_do/,False,"well, to start i want to tell you guys that i make mead but a really ""pichanga"" one... (pichanga is a slang that we use in Chile that is the oppossite of methodical or organized).
+i'll tell you that i've (just by luck) access to a real premium quality water that passes trough a UV filter, so there's almost no risk of infectated mead (lucky for me :) ).
+well, i've:
+-yeast (nottingham)
+-10 kg of honey
+-1 20lts fermenter
+-6 06lts fermenter
+- mint (plant)
+- mint and orange (synthetic flavour stuff, the liquid one)
+
+well, i wanna make a mead that uses 1kg of honey every 4 lts of water...
+that means i'll make app 48 lts of must...
+
+i was thinking:
+-the 20 lts fermenter and a 6 one in normal 4ltsxkg mead
+-1  6 lts fermenter with mint
+-1  6 lts fermenter with orange
+-1  6 lts fermenter with ginger and mint
+-the other part... idk, i guess... normal with no flavour :)
+
+what do you think guys?
+at 28°C... how much time should it be fermenting... how much flavour should i put... and all of that things?
+any ideas?
+etc...",mead,Hello!!! can you check this recipes i'll do?,https://www.reddit.com/r/mead/comments/55qniz/hello_can_you_check_this_recipes_ill_do/
+12,2016-09-22 11:28:12+00:00,self.argentina,https://www.reddit.com/r/argentina/comments/53yhc8/a_raiz_de_una_pregunta_que_hice_en_rchile_ustedes/,False,"en la calle, el bus, el metro... 
+Les dan su moneda? por que?",argentina,A raiz de una pregunta que hice en r/Chile... ¿Ustedes pagan a los músicos ambulantes?,https://www.reddit.com/r/argentina/comments/53yhc8/a_raiz_de_una_pregunta_que_hice_en_rchile_ustedes/
+13,2016-09-20 22:19:21+00:00,self.chile,https://www.reddit.com/r/chile/comments/53pzpv/pagan_a_los_músicos_ambulantes_por_que/,False,"bueno, tuve una discusión con alguien quien sostenía que tocar en las micros era exactamente lo mismo que pedir limosna... que creen ustedes? 
+están de acuerdo?
+en contra?
+lo consideran un trabajo?
+lo consideran un hobby pero que está bien que les paguen?
+limosna?
+Vagancia?
+
+explayense :)",chile,Pagan a los músicos ambulantes? por que?,https://www.reddit.com/r/chile/comments/53pzpv/pagan_a_los_músicos_ambulantes_por_que/
+14,2016-09-05 22:20:53+00:00,self.leagueoflegends,https://www.reddit.com/r/leagueoflegends/comments/51by44/what_about_some_berserk_skins/,False,"well, now with the new season, i do think it'd be amazing:
+-""Trynda Gutts"", well, the ult goes well with the berzerker's armor.
+-""Yasuo Serpico"", swordsman, quick, wind elemental :)
+-""golden age Casca fiora"" well, cuz later casa is fucked up :)
+-""ekko issidoro"", explains itself :)
+-""Schierke Annie""
+-""Aatrox zodd"", cuz he can ult and rage
+-""Judeau katarina"", he's a man but... meh
+_""Irvine Varus""
+-""Rakshas Nocturne""
+-""void heimer""
+-""Skull Knight Garen""
+
+Sorry for english :p not native speaker :)",leagueoflegends,What about some Berserk skins?,https://www.reddit.com/r/leagueoflegends/comments/51by44/what_about_some_berserk_skins/
+15,2016-08-25 02:26:49+00:00,self.argentina,https://www.reddit.com/r/argentina/comments/4zgabg/necesito_ayuda_para_comprar_la_rolling_stone_de/,False,"bueno amigos, soy Chileno y muy fan de Charly (no entremos en cosas de ""careta"" u ofensas similares, la realidad es que sui Generis me acompaña desde que tengo 14 años y no ha dejado de hacerlo ni en los peores o mejores momentos de mi vida... cuando quiero multiplicar una sensación o disminuirla pongo el ""vida"").
+En fin... primero quiero saber si está en mi presupuesto jajaja... alguien me podría decir cuanto cuesta la revista y enviarla a chile (en dolares).
+http://www.rollingstone.com.ar/1930745-charly-garcia-la-guia-definitiva
+agradecería mucho su ayuda :)",argentina,Necesito ayuda para comprar la rolling stone de Charly,https://www.reddit.com/r/argentina/comments/4zgabg/necesito_ayuda_para_comprar_la_rolling_stone_de/
+16,2016-08-21 02:31:59+00:00,doomedandstonedspanish.wordpress.com,https://www.reddit.com/r/chile/comments/4ysog8/el_rock_chileno_está_lejos_de_morir/,False,,chile,El rock chileno está lejos de morir,https://doomedandstonedspanish.wordpress.com/2016/08/16/woodstaco-chile-tiene-festival/
+17,2016-08-04 22:56:57+00:00,self.pokemongo,https://www.reddit.com/r/pokemongo/comments/4w7ccs/any_app_to_practice_ball_throw/,False,[removed],pokemongo,any app to practice ball throw?,https://www.reddit.com/r/pokemongo/comments/4w7ccs/any_app_to_practice_ball_throw/
+18,2016-08-04 14:32:05+00:00,self.pokemongo,https://www.reddit.com/r/pokemongo/comments/4w4s2e/problems_with_galaxy_j7/,False,"well guys i started to play yesterday (chilean here :) )
+for some reason my celphone doesn't go on battery saving mode (i've activated)...
+and when i try AR it says that doesn't find the ""orientation"" (not sure if that's the translation of the word) of the phone...
+not sure if this is the correct sub
+thx for your patience
+sory for bad english :)",pokemongo,problems with galaxy j7,https://www.reddit.com/r/pokemongo/comments/4w4s2e/problems_with_galaxy_j7/
+19,2016-07-31 04:29:57+00:00,self.LearnJapanese,https://www.reddit.com/r/LearnJapanese/comments/4vfnu2/need_some_help_to_write_phonetically_3_words/,False,[removed],LearnJapanese,need some help to write phonetically 3 words,https://www.reddit.com/r/LearnJapanese/comments/4vfnu2/need_some_help_to_write_phonetically_3_words/
+20,2016-07-14 16:45:46+00:00,self.Learnmusic,https://www.reddit.com/r/Learnmusic/comments/4su8la/how_many_bpm_does_have_a_standard_metronome/,False,"well... i don't know a fuck about metric or this kind of stuff so i'd really love if you guys could enlighten me :)
+i'm starting to practice rithm with a metronome but i don't know how many bpm should have a 4/4 or a 6/8 or anything :(
+
+ps: sorry for my english.",Learnmusic,how many bpm does have a standard metronome?,https://www.reddit.com/r/Learnmusic/comments/4su8la/how_many_bpm_does_have_a_standard_metronome/
+21,2016-07-12 23:36:05+00:00,self.AndroidQuestions,https://www.reddit.com/r/AndroidQuestions/comments/4sk2mc/looking_for_a_way_to_traspass_data_from_ios_to/,False,:),AndroidQuestions,looking for a way to traspass data from ios to android,https://www.reddit.com/r/AndroidQuestions/comments/4sk2mc/looking_for_a_way_to_traspass_data_from_ios_to/
+22,2016-07-12 23:13:11+00:00,self.Learnmusic,https://www.reddit.com/r/Learnmusic/comments/4sjyzb/guys_need_help_with_timing/,False,"my rithm really... really SUCKS!!!!
+i can not even train with a metronome :(
+any tips and/or tricks?",Learnmusic,"guys, need help with timing",https://www.reddit.com/r/Learnmusic/comments/4sjyzb/guys_need_help_with_timing/
+23,2016-07-12 23:02:29+00:00,self.Learnmusic,https://www.reddit.com/r/Learnmusic/comments/4sjxae/apps_for_guitar_learners/,False,"well, i'm checking for that :)",Learnmusic,apps for guitar learners?,https://www.reddit.com/r/Learnmusic/comments/4sjxae/apps_for_guitar_learners/
+24,2016-07-12 22:02:58+00:00,self.Android,https://www.reddit.com/r/Android/comments/4sjnf0/former_apple_user_need_advice/,False,[removed],Android,Former apple user... need advice :),https://www.reddit.com/r/Android/comments/4sjnf0/former_apple_user_need_advice/
+25,2016-04-05 13:27:16+00:00,self.chemhelp,https://www.reddit.com/r/chemhelp/comments/4dgedx/need_to_know_the_chemical_processes_made_on/,False,"well, to start, i'm really sorry for my english cuz it sucks (i'm spanish speaker).
+it's my first work for chemistry at uni and the teacher gave us tons of topics to talk about and to understand that chemistry is EVERYWHERE.
+my topic is non-alcoholic drinks (didn't know they existed hahahaha) like sodas and stuff like that.
+do you guys know the processes involved in this?
+
+for example: how do they add CO2, why the ""pet"" bottles can hold this gas and all that stuff.
+
+thanks for your time :)  plz, if this is the wrong reddit for this or you think there's a better one for my propouses, i'd be really happy to know about it :)",chemhelp,need to know the chemical processes made on non-alcoholic drinks,https://www.reddit.com/r/chemhelp/comments/4dgedx/need_to_know_the_chemical_processes_made_on/
+26,2016-04-04 03:23:07+00:00,self.microsoft,https://www.reddit.com/r/microsoft/comments/4d9cbo/dont_know_if_this_is_the_correct_sub_but_i_really/,False,"well, i've just edited a video for tomorrow and when i want to save it as a movie it says:
+""step 1 of 1 and all that stuff"" and in the 0% it stops working and just closes itself...
+
+what can i do?
+
+ps: sorry for my english",microsoft,don't know if this is the correct sub but i really need help (moviemaker problem),https://www.reddit.com/r/microsoft/comments/4d9cbo/dont_know_if_this_is_the_correct_sub_but_i_really/
+27,2016-03-28 11:17:50+00:00,self.logistics,https://www.reddit.com/r/logistics/comments/4c9qes/need_help_with_green_logistics/,False,"well, i've got to make a work for uni about green logistics, i'm a spanish speaker so the bibliography on internet really sucks, there are like 3 decent pages with the same info :(
+could you guys help me, cuz i find this topic really really wide and don't know how to start.
+thx for your time",logistics,Need help with green logistics,https://www.reddit.com/r/logistics/comments/4c9qes/need_help_with_green_logistics/
+28,2016-03-21 23:39:49+00:00,self.de,https://www.reddit.com/r/de/comments/4bey3f/hi_im_learning_german_and_i_do_need_some_help/,False,"well, sorry if i'm writing in english but i'm a spanish speaker (from chile) and my german sucks.
+in my university they force you to learn another lenguage and i always dreamed to learn german so i can do my last year of engeniering there (cuz germany is awesome at that field).
+but the first german semester is really hard, not only because is the first but because is the one with more things to learn.
+i'd love if you guys could name me some music bands like these ones that i love:
+https://www.youtube.com/watch?v=HR-teNd_BbE
+
+https://www.youtube.com/watch?v=li9gaF41SJ8
+
+https://www.youtube.com/watch?v=srVejivhbLA
+
+thanks for your time and sorry for my bad english :)
+
+ps: i could also watch some tv shows for kids or stuff like that.",de,"hi, i'm learning german and i do need some help",https://www.reddit.com/r/de/comments/4bey3f/hi_im_learning_german_and_i_do_need_some_help/
+29,2016-03-19 13:56:11+00:00,self.harmonica,https://www.reddit.com/r/harmonica/comments/4b360j/could_someone_tab_me_this_amazing_song/,False,"https://youtu.be/BlEPBnmZ_6w?t=1856
+
+is the one called ""charagua"", is a cover of a legendary chilean musician named ""victor jara"", he's got a history with our dictatorchip but that's not for this post :)
+https://www.youtube.com/watch?v=46zoXGJvcyA (original song)",harmonica,Could someone tab me this amazing song?,https://www.reddit.com/r/harmonica/comments/4b360j/could_someone_tab_me_this_amazing_song/
+30,2016-02-24 22:59:28+00:00,self.mead,https://www.reddit.com/r/mead/comments/47foq4/about_to_make_a_gingermint_mead_when_to_add_it/,False,"Hi, when should i add the ginger and the mint?
+-How? (Leaves, leaves with the ""trunk"" or cutted leaves) or what (same fir the ginger)
+-How much time can this things stay in the must without getting bad?
+-Any tips?
+
+Thx for your time and sorry for my english.",mead,"About to make a gingermint mead, when to add it?",https://www.reddit.com/r/mead/comments/47foq4/about_to_make_a_gingermint_mead_when_to_add_it/
+31,2016-02-16 15:33:21+00:00,self.chile,https://www.reddit.com/r/chile/comments/462xjz/beno_espinosa_dejen_algo_perdido/,False,[removed],chile,Beno espinosa (dejen algo) perdido?,https://www.reddit.com/r/chile/comments/462xjz/beno_espinosa_dejen_algo_perdido/
+32,2016-01-12 04:51:21+00:00,self.LucidDreaming,https://www.reddit.com/r/LucidDreaming/comments/40kytx/brugmansia_have_you_tried_it/,False,"https://en.m.wikipedia.org/wiki/Brugmansia
+
+
+Well, the flower isn't as bad as wikipedia tells us...
+Is a plant (that i haven't tried yet) that's suposed to cause strong alucitantions or even the death of the consumer (if you eat it or drink a highly concentrated tea of it.
+But the case is that i heard that if you sleep with one to three flowers of this under your pillow, u're almost guaranteed to dream really vivid (and also high chance of LD).
+It's proved that sleeping with some flowers doesn't hurts u.
+Someone had ever tryed it?
+
+
+Ps: don't drink a tea made of more that 1 flower (leaves and others are also poisonous).
+Sorry for my english btw",LucidDreaming,"Brugmansia, have you tried it?",https://www.reddit.com/r/LucidDreaming/comments/40kytx/brugmansia_have_you_tried_it/
+33,2015-12-17 22:37:21+00:00,self.Trove,https://www.reddit.com/r/Trove/comments/3x9tb8/hi_comming_back_to_the_game_need_help/,False,"well, i've always been a noob and i played like a week at the start of the year but many stuff has changed, to start there are like 5 more classes.
+
+do guns lingers still under powered (well, a guns is my main char :(  )
+
+do neon ninjas still suck? (i wanted to have one)
+
+since i don't play a lot and is only for fun, doesn't matters but i still want to know :)
+
+thx for ur time.",Trove,"hi, comming back to the game, need help",https://www.reddit.com/r/Trove/comments/3x9tb8/hi_comming_back_to_the_game_need_help/
+34,2015-12-12 22:54:52+00:00,self.heroesofthestorm,https://www.reddit.com/r/heroesofthestorm/comments/3wko8t/ill_play_only_for_2day_maybe_and_i_need_help/,False,"Well, i'm a lol player (who doesn't have a single problem with lol exept the rest o te players maybe hahaha).
+The point is that a friend of mine (who never beated me on lol) wants me to play hots today vs him (i don't know a fu*k about the game)
+Could you guys explain me the basics? I haven't even seen a video about the game (nor trailers).
+There are free heroes for newbies or is a rotation like on lol?
+Can you give me a quick guide or tip on any free hero today?
+Thanks, i know is hard but i've heard that hots community is much more supportive than lol's...
+Thx for your time :)",heroesofthestorm,I'll play only for 2day (maybe) and i need help,https://www.reddit.com/r/heroesofthestorm/comments/3wko8t/ill_play_only_for_2day_maybe_and_i_need_help/
+35,2015-12-11 14:07:32+00:00,self.mead,https://www.reddit.com/r/mead/comments/3wdl51/medlar_mead/,False,"Well, i do have a medlar tree in my house, the fruits are really good atm and i want to make mead next week...
+Does anyone know a recipe with medlar or i'll just have to blindly try?
+
+I do use nothingham yeast, do you know any better?",mead,Medlar mead?,https://www.reddit.com/r/mead/comments/3wdl51/medlar_mead/
+36,2015-12-11 13:23:19+00:00,self.mead,https://www.reddit.com/r/mead/comments/3wdfjt/does_mead_get_fucked_with_sunlight/,False,"I mean, is a must to use dark bottles like in beer?",mead,Does mead get fucked with sunlight?,https://www.reddit.com/r/mead/comments/3wdfjt/does_mead_get_fucked_with_sunlight/
+37,2015-12-10 23:09:43+00:00,self.marketing,https://www.reddit.com/r/marketing/comments/3wakhh/computers_and_technologies_are_usually_cheaper/,False,"Well, is that :)",marketing,Computers and technologies are usually cheaper before or after christmas?,https://www.reddit.com/r/marketing/comments/3wakhh/computers_and_technologies_are_usually_cheaper/
+38,2015-11-20 00:07:01+00:00,self.mead,https://www.reddit.com/r/mead/comments/3ti489/mead_with_hops/,False,"well, my current recipe is:
+3lts of water for every kg of honey
+0.79 gallons per 2.2 lbs of honey 
+or more or less 1 gallon per 3 lbs of honey...
+how much hops do you recomend me to pot on that mix???
+i just want to reduce the sweetness without taking out the mead flavour.
+
+thx for your time :)",mead,mead with hops?,https://www.reddit.com/r/mead/comments/3ti489/mead_with_hops/
+39,2015-11-05 20:04:00+00:00,youtu.be,https://www.reddit.com/r/harmonica/comments/3ro5nr/chilean_harmonica_player_interesting_sounds/,False,,harmonica,chilean harmonica player... interesting sounds,https://youtu.be/7FFi74fI184?t=169
+40,2015-11-04 22:34:00+00:00,self.mead,https://www.reddit.com/r/mead/comments/3rjwky/its_ok_to_ad_mint_leaves_to_the_must_while_boiling/,False,"i mean, it does affect the fermentation?",mead,it's ok to ad mint leaves to the must while boiling?,https://www.reddit.com/r/mead/comments/3rjwky/its_ok_to_ad_mint_leaves_to_the_must_while_boiling/
+41,2015-11-04 20:54:56+00:00,self.Guitar,https://www.reddit.com/r/Guitar/comments/3rjhrk/guys_how_shall_i_cofigure_the_guitar_tunas/,False,"i started to play with it and i moved almost everything... now i do'nt know at wich speed should it play, and i suck at rithm and stuff...
+shall it be ""100"" speed?
+
+ (i mean for the 4/4 thingy)
+ps: sorry but i don't know much about theory",Guitar,"guys, how shall i cofigure the ""guitar tuna's metronome""",https://www.reddit.com/r/Guitar/comments/3rjhrk/guys_how_shall_i_cofigure_the_guitar_tunas/
+42,2015-11-02 17:05:17+00:00,self.mead,https://www.reddit.com/r/mead/comments/3r8bg2/a_tissue_to_wrap_spices/,False,"Well, i want to know if i can use any tissue or there are some better than others.
+Not sure if rice paper can hold above 100°C, so i'd like to know how do you put the spices in the must (i think that's the english name for the liquid before fermenting).
+
+Btw, now that we're here, is possible or recomendable to filter (before bottling) with this paper coffe filters?",mead,A tissue to wrap spices???,https://www.reddit.com/r/mead/comments/3r8bg2/a_tissue_to_wrap_spices/
+43,2015-10-27 02:03:55+00:00,self.harmonica,https://www.reddit.com/r/harmonica/comments/3qd5xa/i_do_urgently_need_to_tab_this/,False,"1st of all, sorry for my poor english.
+
+Well, i've entered on a school band for an event this fryday and one of the vocalists said that he's sick so he won't play...
+I do want to show this band that we're all uniques but no one is irreplaceable , so i need the voice of this song:
+https://m.youtube.com/watch?v=ku0jHdzOJHM
+Tabbed... I di think is for a D armonica...
+Is quite simple to tab but i do not have enough talent...
+If some one could help me i'd really apreciate it...
+Thanks for ur time :)",harmonica,I do urgently need to tab this!!!,https://www.reddit.com/r/harmonica/comments/3qd5xa/i_do_urgently_need_to_tab_this/
+44,2015-10-26 16:23:18+00:00,self.marketing,https://www.reddit.com/r/marketing/comments/3qaose/need_a_few_tips_for_marketing_in_social_stuff/,False,[removed],marketing,Need a few tips for marketing in social stuff,https://www.reddit.com/r/marketing/comments/3qaose/need_a_few_tips_for_marketing_in_social_stuff/
+45,2015-10-20 10:20:16+00:00,self.GBA4iOS,https://www.reddit.com/r/GBA4iOS/comments/3ph2t8/can_i_get_link_with_an_iphone_4/,False,don't know wich ios system u have but my gba4ios don't have link option,GBA4iOS,can i get link with an iphone 4,https://www.reddit.com/r/GBA4iOS/comments/3ph2t8/can_i_get_link_with_an_iphone_4/
+46,2015-10-20 01:41:02+00:00,self.LucidDreaming,https://www.reddit.com/r/LucidDreaming/comments/3pfly6/changing_things_of_place_in_real_life/,False,"Well, i heard once that if you change your bed from place, or some really normal ""sleeping habit"" of yourself (like sleeping naked (if you do use pijama or viceversa), you'll be more likely to have a lucid dream...
+To be honest, i always tough that that was a friking lie, but last night i tried it having some amazing results, i had the most vivid lucid dream in my life... And i'm not sure but i think it's also the longest that i can remember.
+Not sure if it was coincidence, but i'll try again to see ig it works...
+
+You should try it and tell me how it goes :)
+
+Ps:sorry for my english",LucidDreaming,Changing things of place in real life,https://www.reddit.com/r/LucidDreaming/comments/3pfly6/changing_things_of_place_in_real_life/
+47,2015-10-14 21:17:16+00:00,self.singing,https://www.reddit.com/r/singing/comments/3orvtp/help_i_have_like_2_weeks/,False,"well, i do sing awefully and just t laugh a bit, some friends invited me to sing in a school event with their band...
+they give me some songs with no hard singing and if i do sing badly, doesn't matter cuz singing is not the ""gig"" part of them.
+
+-https://www.youtube.com/watch?v=mIKrCyJfHeE
+
+-https://www.youtube.com/watch?v=DiRNZS2-DWc
+
+those 2 songs are the ones that the gave me...
+any tips or tricks to improve in no time?",singing,"help, i have like 2 weeks",https://www.reddit.com/r/singing/comments/3orvtp/help_i_have_like_2_weeks/
+48,2015-10-11 22:19:04+00:00,self.GBA4iOS,https://www.reddit.com/r/GBA4iOS/comments/3odpyu/turning_of_the_phone/,False,"Well, my game got screwed when i turned off my phone...
+I did re install the app but lost the game.
+
+-how can i prevent this from happen?
+-how can i get my game back?",GBA4iOS,Turning of the phone,https://www.reddit.com/r/GBA4iOS/comments/3odpyu/turning_of_the_phone/
+49,2015-10-10 02:42:50+00:00,self.GBA4iOS,https://www.reddit.com/r/GBA4iOS/comments/3o6e1y/is_it_possible_to_link_with_android_users/,False,"well... that
+",GBA4iOS,is it possible to link with android users?,https://www.reddit.com/r/GBA4iOS/comments/3o6e1y/is_it_possible_to_link_with_android_users/
+50,2015-10-10 02:32:02+00:00,self.iosgaming,https://www.reddit.com/r/iosgaming/comments/3o6cyh/playing_pokemon/,False,"Hi, i'd love to be able to play a gba emulator and i'd love even more if i could change pokemons with real life friends (like ob android)",iosgaming,Playing pokemon?,https://www.reddit.com/r/iosgaming/comments/3o6cyh/playing_pokemon/
+51,2015-10-10 01:51:36+00:00,self.anime,https://www.reddit.com/r/anime/comments/3o68p5/looking_for_something_like_marmalade_boy_for_my_gf/,False,"well, she's starting with anime and she did LOVED marmalade boy, soo it'll be really cool if you guys could tell me about some anime really simple and girlish.
+
+thx for ur time and knoweledge :)",anime,"looking for something like ""marmalade boy"" for my gf",https://www.reddit.com/r/anime/comments/3o68p5/looking_for_something_like_marmalade_boy_for_my_gf/
+52,2015-10-08 15:27:53+00:00,self.AcademicPhilosophy,https://www.reddit.com/r/AcademicPhilosophy/comments/3nzdkz/help_with_the_wall/,False,[removed],AcademicPhilosophy,"Help with ""the wall""",https://www.reddit.com/r/AcademicPhilosophy/comments/3nzdkz/help_with_the_wall/
+53,2015-10-06 12:41:37+00:00,self.musictheory,https://www.reddit.com/r/musictheory/comments/3np85z/hi_ive_some_questions_about_keys_to_improvise/,False,"Well, i play harmonica (i've a c and a d)
+And i know that i must improvise with g and a backtracks....
+What's the theory behind this to know that?",musictheory,"Hi, i've some questions about keys to improvise",https://www.reddit.com/r/musictheory/comments/3np85z/hi_ive_some_questions_about_keys_to_improvise/
+54,2015-10-06 12:00:16+00:00,self.mead,https://www.reddit.com/r/mead/comments/3np3n4/its_ok_to_add_hops_to_the_recipe/,False,"Well, here where i live, people don't like drinks that are too sweet...
+And a friend recomend me to add hops (not sure if its a good translation, the word is ""lupulo"" in spanish)",mead,It's ok to add hops to the recipe?,https://www.reddit.com/r/mead/comments/3np3n4/its_ok_to_add_hops_to_the_recipe/
+55,2015-10-05 18:07:53+00:00,self.singing,https://www.reddit.com/r/singing/comments/3nlp4q/is_there_an_app_to_improve_your_accuracy/,False,i mean like guitar tunners but in every note (like guitar tuna),singing,is there an app to improve your accuracy?,https://www.reddit.com/r/singing/comments/3nlp4q/is_there_an_app_to_improve_your_accuracy/
+56,2015-10-05 17:52:41+00:00,self.harmonica,https://www.reddit.com/r/harmonica/comments/3nlmsf/can_someone_give_me_the_tabs_of_this_solo/,False,"https://youtu.be/9ocGGtZk-qo?t=285
+
+well, there are tabs on internet but they suck... i can play the solo regularly well but not perfectly.
+
+is for a ""D"" harmonica",harmonica,can someone give me the tabs of this solo?,https://www.reddit.com/r/harmonica/comments/3nlmsf/can_someone_give_me_the_tabs_of_this_solo/
+57,2015-09-28 14:29:44+00:00,self.LucidDreaming,https://www.reddit.com/r/LucidDreaming/comments/3mpc0f/dreamon_app/,False,"Have you tried it?
+I find it quite usefull",LucidDreaming,Dream:ON (app),https://www.reddit.com/r/LucidDreaming/comments/3mpc0f/dreamon_app/
+58,2015-09-28 01:45:37+00:00,self.harmonica,https://www.reddit.com/r/harmonica/comments/3mnaop/clinic_from_a_chilean_harmonica_master/,False,"well, it's in spanish but if you can understand it it'll be really usefull...
+https://www.youtube.com/watch?v=ygaoGLJCzOY",harmonica,Clinic from a Chilean Harmonica master,https://www.reddit.com/r/harmonica/comments/3mnaop/clinic_from_a_chilean_harmonica_master/
+59,2015-09-27 16:58:24+00:00,self.harmonica,https://www.reddit.com/r/harmonica/comments/3mldvk/can_u_guys_give_me_some_backing_tranks_to/,False,"well, i do have a D and C harmonicas, and i've found tons of G blues back tracks to play but almost none in A...
+can you give me some links please?
+
+thanks for your time",harmonica,can u guys give me some backing tranks to improvise?,https://www.reddit.com/r/harmonica/comments/3mldvk/can_u_guys_give_me_some_backing_tranks_to/
+60,2015-09-27 01:52:03+00:00,self.Learnmusic,https://www.reddit.com/r/Learnmusic/comments/3mj7mt/hi_harp_learner_here/,False,"first time posting on this sub... well, i'm quite new with the harp (but i already know how to play decently) and i'd like to improvise with a friend...
+if i've 2 Harmonicas (C and D), wich notes shall he play with his guitar for wich harmonica? ",Learnmusic,"hi, Harp learner here",https://www.reddit.com/r/Learnmusic/comments/3mj7mt/hi_harp_learner_here/
+61,2015-09-24 15:34:33+00:00,self.mead,https://www.reddit.com/r/mead/comments/3m7km6/how_to_reduce_te_ammount_of_sediments/,False,I'm having troubles making that :(,mead,How to reduce te ammount of sediments?,https://www.reddit.com/r/mead/comments/3m7km6/how_to_reduce_te_ammount_of_sediments/
+62,2015-09-17 17:25:10+00:00,self.mead,https://www.reddit.com/r/mead/comments/3lbq2m/is_it_possible_to_keep_yeast_this_way/,False,"Well, i live far away from the store that sells yeast in my country and the shipment is quite expensive...
+Can i keep a fermentator with sugared water, and change it one or twice a week to keep my yeast and when i make mead, just do a ""yeast transfution""???
+
+Ps:sorry for my english, not native lenguage.",mead,Is it possible to keep yeast this way??,https://www.reddit.com/r/mead/comments/3lbq2m/is_it_possible_to_keep_yeast_this_way/
+63,2015-09-14 14:21:18+00:00,self.LucidDreaming,https://www.reddit.com/r/LucidDreaming/comments/3kwvdb/wich_reality_checks_u_do/,False,"I'd like to know that cuz i'm having a hard time lucid dreaming...
+
+I try to traspass my right hand with a finger of my left one",LucidDreaming,Wich reality checks u do?,https://www.reddit.com/r/LucidDreaming/comments/3kwvdb/wich_reality_checks_u_do/
+64,2015-09-04 03:03:07+00:00,self.argentina,https://www.reddit.com/r/argentina/comments/3jkmdr/tango_feroz_remasterizada/,False,"Bueno amigos... Para empezar, soy Chileno y me encanta esa película.
+Quisiera preguntar si alguien me podría dar el link para ver o descargar la versión remasterizada, Ya que encontrar algo así aquí en Chile es casi imposible.
+
+Gracias por su tiempo y ayuda.",argentina,Tango Feroz remasterizada?,https://www.reddit.com/r/argentina/comments/3jkmdr/tango_feroz_remasterizada/
+65,2015-08-26 00:48:22+00:00,self.PhysicsStudents,https://www.reddit.com/r/PhysicsStudents/comments/3ien9z/is_it_possible_to_make_a_tiny_magnus_effect_boat/,,"well... it will consist out of 2 shampoo bottles with homopolar mottors wrapped to make cilinders so i can make it move with the magnus effect...
+
+is possible to make homopolar mottors going clock wise and anti clock wise?...
+and do you think this project will work?
+
+thx for ur help",PhysicsStudents,is it possible to make a tiny magnus effect boat ut from 2 rottors powered by 2 homopolar motors???,https://www.reddit.com/r/PhysicsStudents/comments/3ien9z/is_it_possible_to_make_a_tiny_magnus_effect_boat/
+66,2015-08-25 14:29:45+00:00,self.Physics,https://www.reddit.com/r/Physics/comments/3ic5c8/help_with_my_school_project/,,,Physics,Help with my school project,http://www.reddit.com/r/Physics/comments/3ic5c8/help_with_my_school_project/
+67,2015-08-24 15:57:29+00:00,self.Physics,https://www.reddit.com/r/Physics/comments/3i7qot/need_some_help_for_a_school_project_plz/,,,Physics,Need some help for a school project plz,http://www.reddit.com/r/Physics/comments/3i7qot/need_some_help_for_a_school_project_plz/
+68,2015-08-20 13:56:35+00:00,self.LucidDreaming,https://www.reddit.com/r/LucidDreaming/comments/3hpwn0/apps_do_actually_help_you/,,"Well... I've been looking for apps to acelerate my LD ""training""... And there are quite a few ones.
+Do you guys use or find useful any of those?
+Wich one?
+
+
+Thx for ur time :)",LucidDreaming,Apps do actually help you?,http://www.reddit.com/r/LucidDreaming/comments/3hpwn0/apps_do_actually_help_you/
+69,2015-08-13 12:34:20+00:00,self.chile,https://www.reddit.com/r/chile/comments/3gucy3/si_tuvieran_que_elegir_un_ingeniero_comercial/,,"Definan para que tipo de empresa.
+
+Porfavor:
+-no tengan prejuicios por la U de donde salieron.
+-no juzguen otras opiniones sin argumentos validos.
+-tengan sentido común para deducir otros NO",chile,Si tuvieran que elegir un ingeniero comercial para su empresa... De que U sería,http://www.reddit.com/r/chile/comments/3gucy3/si_tuvieran_que_elegir_un_ingeniero_comercial/
+70,2015-08-11 16:07:54+00:00,self.LucidDreaming,https://www.reddit.com/r/LucidDreaming/comments/3glv1p/can_someone_give_me_a_how_to_guide/,,"Well, i di remember to have had lucid dreams quite often when i had like 5-8 yrs old (of course i was trying to chase dinosaurs around... Yeah i was a real jurassic park fan amd i wanted to be a dinosaur hunter).
+But it had been quite a lot of time since i last lucid dreamt and i don't dream that often anymore.
+Can you give me a detailes guide about how you do this?
+
+Ps: i'm Chilean so my english isn't that good (that means: sorry for my grammar)
+And thx for ur time and answers. :)",LucidDreaming,"Can someone give me a ""how to"" guide",http://www.reddit.com/r/LucidDreaming/comments/3glv1p/can_someone_give_me_a_how_to_guide/
+71,2015-08-04 16:12:02+00:00,self.leagueoflegends,https://www.reddit.com/r/leagueoflegends/comments/3frf8p/why_people_do_prefer_ts_over_raidcall/,,,leagueoflegends,Why people do prefer ts over raidcall,http://www.reddit.com/r/leagueoflegends/comments/3frf8p/why_people_do_prefer_ts_over_raidcall/
+72,2015-08-04 03:24:44+00:00,self.Trove,https://www.reddit.com/r/Trove/comments/3fpd9t/want_to_play_with_raidcall/,,"Well, it's that :)
+I'm new in the game, started 3 days ago and have a lvl 7 boomeranger and 13 guns.
+I'm not native english speaker, in fact i'm Chilean (spanish), but i've no problem speaking in english (as a matter of act, i'd love it cuz it'll be a nice practice).
+About timing... Im in game just when im in game XD. (No scedule cuz i don't have much time :(  ).
+If somebody wants to, just leave the in-game name to add him/her  if online when i'm...
+
+Thx 4 ur time :)
+
+Ps: don't remember my in game name atm, i think is ""ladcucho""
+Ps2: join the raidcall group 11494751",Trove,Want to play with raidcall?,http://www.reddit.com/r/Trove/comments/3fpd9t/want_to_play_with_raidcall/
+73,2015-07-31 17:17:39+00:00,self.Trove,https://www.reddit.com/r/Trove/comments/3fb908/help_for_a_newbie/,,"The fact is that i don't know a shit about the game (being the name the only thing i do know).
+I'd like a lot ig you could tell me what's the game about, tips, meta (if it exists here), etc.
+I'll start to play with some friends from next week.
+
+Thx 4 ur time and help :)",Trove,Help for a newbie,http://www.reddit.com/r/Trove/comments/3fb908/help_for_a_newbie/
+74,2015-07-31 02:15:25+00:00,self.mead,https://www.reddit.com/r/mead/comments/3f8mvy/looking_for_a_way_to_keep_the_tº/,,"Well, as u know, for fermentation, u do need a stable temperature, and i do only have fireplaces where i live... (Not sure if that's the name, but is a iron stuff where u burn wood).
+Well, now in winter i do need a smart way to solve my problem, till now, i've been putting my homemade ""things for  fermentate"" inside tons of blankets and with this stuff like plastic bags where u put hot water... It does work quite fine but is boring to be the whole time changing the water every 5 to 8 hrs...
+Do u guys have any ideas to replace this system?
+
+Ps: -i'm soooo sorry for my english, any help with that is apreciated.
+-thx for your time
+",mead,Looking for a way to keep the tº,http://www.reddit.com/r/mead/comments/3f8mvy/looking_for_a_way_to_keep_the_tº/
+75,2015-07-29 03:01:57+00:00,self.mead,https://www.reddit.com/r/mead/comments/3eze0o/wich_yeast_do_you_use_andor_recommend/,,"well, i do use Nottingham, but that's only cuz a friend recomended me to do so, i don't know much about mead making (or yeasts).
+so i'd like if you tell me wich ones and why.",mead,wich yeast do you use and/or recommend?,http://www.reddit.com/r/mead/comments/3eze0o/wich_yeast_do_you_use_andor_recommend/
+76,2015-07-24 22:21:38+00:00,self.mead,https://www.reddit.com/r/mead/comments/3ehxwl/mea_out_of_nutella/,,Have someone ever tried this?,mead,Mea out of nutella??,http://www.reddit.com/r/mead/comments/3ehxwl/mea_out_of_nutella/

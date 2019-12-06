@@ -1,0 +1,157 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"So glad to see Launch Squad made it to this list. Thanks for the support! Good call tying together free games and paid games. 
+
+This whole idea is great, and is getting me thinking about all kinds of ways to support the multiplayer games of such a small community. Way to take charge on this one!",2016-09-28 00:58:44+00:00,d84wdje,1.0,t3_54g257,200447.0,Vive
+1,Will definitely get this implemented in Launch Squad! Thanks for pointing it out,2016-09-28 00:56:57+00:00,d84wayd,1.0,t3_53l7sr,686418.0,Vive
+2,Glad you liked the game! The quit bug is a problem with UE4.13 that we've reported and should be fixed soon. In the mean time use the left grip button to quit without issue. ,2016-09-28 00:55:58+00:00,d84w9kb,,t1_d81uylh,,Vive
+3,"I might be missing something, but can't you just toggle visibility on the client based on what you care about? Since it's a networked game, every client has their own game running, so visibility can be handled locally and it won't be replicated across the network. ",2016-09-21 21:40:48+00:00,d7wmfax,1.0,t3_53uv4e,8851.0,unrealengine
+4,Cool idea. Interested in how it plays in VR. I'm assuming it's a sit down + game pad type of VR game? Prime oculus material :),2016-09-16 20:56:42+00:00,d7prr6y,1.0,t3_533q6p,4356.0,Vive
+5,You make quite a few appearances :) hope you don't mind,2016-09-16 07:44:33+00:00,d7oz1o0,2.0,t1_d7ntojp,62249.0,Vive
+6,u/littlepigmakesvr is a badass,2016-09-16 07:43:23+00:00,d7oz0xd,7.0,t1_d7oobra,21709.0,Vive
+7,"U/yrah110 not sure if you've tried the game since the stress test, buts it's been improved. Try it out!",2016-09-15 19:27:22+00:00,d7o85hg,2.0,t1_d7o6307,2496.0,Vive
+8,"Thanks u/protoman! The teleport effect has been updated a bit. Not sure when you last checked it out, but it's both a vignette and an improved blur. I like your idea to give people different options. We like the blur rather than full cut out because you can get a basic idea of where you're going, but if options means that more people can play, I'm all for it!",2016-09-15 19:26:02+00:00,d7o8371,2.0,t1_d7o44un,4801.0,Vive
+9,The infinite reflections are dope in Vectra. GPU cubes is even better,2016-09-15 04:16:37+00:00,d7nf5w4,3.0,t1_d7mlrd8,40802.0,Vive
+10,"Thanks for all the love everyone. New maps and game modes coming. Will be posting a meet up for later so we can film some gameplay and post a video about it. Keep spreading the word, we'll be rolling full games all the time soon enough!",2016-09-13 23:29:43+00:00,d7lphre,1.0,t3_52keb0,36721.0,Vive
+11,Very cool! Thanks u/fruit_cup :) and thanks u/ragamufin for suggesting that,2016-09-13 22:30:29+00:00,d7ln5jo,3.0,t1_d7l742d,20054.0,Vive
+12,"sweet, look forward to playing",2016-09-13 01:53:10+00:00,d7kfalz,1.0,t3_52gfwt,20042.0,Vive
+13,Definitely loving the idea of a Dragon Ball multiplayer fighting game,2016-09-12 20:05:54+00:00,d7k0690,1.0,t3_52e779,25606.0,Vive
+14,Why is that? I personally like showing something that represents the vive controllers more realistically. For example: I think Cosmic Trip does it really well.,2016-09-12 20:04:14+00:00,d7k03fn,2.0,t1_d7ju3z7,7393.0,Vive
+15,"Sign on another time, players seem to come in waves.
+
+We first implemented VOIP with the integrated steam chat. It was total trash so I just recently reimplemented it with TeamSpeak and a separate voice server. I'm actually writing up a forum post about it with some starter code right now. Are you a UE4 dev looking for voice chat goodies?",2016-09-12 09:29:30+00:00,d7jcvzq,2.0,t1_d7j9yfb,10276.0,Vive
+16,Good luck dude. My face would melt off before I made 24 hours.,2016-09-12 06:06:18+00:00,d7j99l4,1.0,t3_52cpuu,4293.0,Vive
+17,*Big smile*,2016-09-12 06:04:20+00:00,d7j980a,2.0,t1_d7j5imt,8059.0,Vive
+18,This issue has now been fixed! Our quick match session code wasn't working and was attempting to join full matches! Granular server searching fixes this awful problem.,2016-09-12 06:03:07+00:00,d7j96zy,3.0,t1_d7i8xgr,52268.0,Vive
+19,haha totally! I love sliding under people and shooting from below :),2016-09-12 06:00:59+00:00,d7j957p,5.0,t1_d7ir850,28632.0,Vive
+20,"haha, this is Beelzebee. Special helmets will come much later, but don't fret, you're a superior evangelist as well.",2016-09-12 03:36:00+00:00,d7j50h6,5.0,t1_d7j40n9,1576.0,Vive
+21,"hahaha, if that's what you wish for",2016-09-12 03:07:27+00:00,d7j3xid,3.0,t1_d7j3suv,200.0,Vive
+22,"u/Dal1Dal, I think we're gunna have to make you a special ""superior evangelist"" helmet in-game or something. ",2016-09-12 03:02:55+00:00,d7j3r8k,1.0,t3_52awz1,18710.0,Vive
+23,One problem with releasing it as a free demo - steam users can't leave reviews! Not sure what to do about it :/,2016-09-12 03:01:44+00:00,d7j3pl7,2.0,t1_d7j3irp,289.0,Vive
+24,Objective based game modes coming after we fix these connection issues! Glad you were able to play with someone. It's a whole new world in a full game though (can't be Launch Squad without a squad),2016-09-11 21:56:34+00:00,d7iqwj3,2.0,t1_d7ijoii,9120.0,Vive
+25,"Loving all this support and interest in the game. I'll be working all day to fix the mentioned connection issues. Stay with us while we get our feet under us, we'll have consistent full-games in no-time! Thanks so much!",2016-09-11 21:55:08+00:00,d7iquay,1.0,t3_528w26,24642.0,Vive
+26,"Ouch. Okay, I'm going to update our session joining to be a bit more granular, so you can choose rooms to join or to host your own if the available rooms are giving you problems. Thanks!",2016-09-11 21:42:35+00:00,d7iqabs,2.0,t1_d7i5kwn,28249.0,Vive
+27,"Thanks! We're working on the quit bug, but this one requires a back and forth with UE4 because we think it's an engine side issue. In the mean time, use the left grip on your controller, or the Escape key on the keyboard - these should quit the game without a problem.
+
+As for getting people online, post like these are definitely helping! I'm planning on making a little video about our latest teleporting mechanic because it seems people are digging it. A new update with an objective based gamemode will be coming out soon too. Hopefully these posts will drive more people to the game :)",2016-09-11 21:40:57+00:00,d7iq7m2,3.0,t1_d7i8tup,22295.0,Vive
+28,This was so fun to watch! Thanks for the kind words and great suggestions,2016-09-11 07:10:17+00:00,d7hy7un,1.0,t3_51ua48,200955.0,Vive
+29,Glad you liked our game! It's a bummer no one was on when you jumped in... there's not much to do by yourself :) The other dev and I will be posting when we're playing - we're hoping to start building up a community! Add me on Steam to see when we're playing: Beelzebee - LS Dev,2016-09-11 07:04:15+00:00,d7hy3mp,1.0,t3_526ysy,9690.0,Vive
+30,This made me smile!,2016-09-10 09:21:11+00:00,d7grupz,2.0,t1_d7gn9oj,14639.0,Vive
+31,Yay! There are only 2 devs though :) me (Beelzebee) and LittlePig... though pittsburgjoe was surprisingly good for a new comer.,2016-09-10 01:32:11+00:00,d7ggdgl,1.0,t3_520uo9,427.0,Vive
+32,"Agreed, I have experience with both of these products and totally like them",2016-09-09 19:45:50+00:00,d7g2gn2,2.0,t1_d7g17qp,1593.0,Vive
+33,"Yeah haha, this has to do with the way UE4 does its force feedback :/",2016-09-08 21:16:11+00:00,d7er95l,4.0,t1_d7eqxj2,430.0,Vive
+34,"Awesome! Thanks for all this feedback, we really appreciate it!
+
+Pretty much everything you mentioned will be addressed in the released build tomorrow :)
+
+Hope to see you online!
+
+-Beelzebee",2016-09-08 20:48:00+00:00,d7epxsp,2.0,t1_d7en7cp,3367.0,Vive
+35,"Thanks for the feedback! We've added a bit more instruction, so hopefully initiation into the game will be a bit smoother. 
+
+I agree, the sounds for teleportation can be improved all around.
+
+Glad you like our mid-air goo collisions, and good work using them as a shield :)
+
+Hope to see you online tomorrow for our official release!",2016-09-08 20:43:35+00:00,d7epq89,2.0,t1_d7emgyn,4001.0,Vive
+36,"Awesome! Thanks for the feedback. We definitely want to improve our paint/goo splats, but are first plan to add some gamemodes and maps.
+
+The game currently allows 3v3, but only 200 codes were given out yesterday, so not many were playing at one time (think we maxed at 10 on at once).
+
+I'd love to have some achievement style awards for double kills, team kills, and other fun stuff!",2016-09-08 20:40:26+00:00,d7epktg,2.0,t1_d7dtd1i,58015.0,Vive
+37,Thanks for the continued support u/Dal1Dal! Looking forward to playing tomorrow,2016-09-08 18:59:48+00:00,d7ekom6,1.0,t3_51roor,14777.0,Vive
+38,"Sweet. There are some controls that were not made obvious, but you can currently quit by holding the left grip for 5 seconds. We're working on the quit bug through steam though, definitely need that fixed!",2016-09-08 04:21:33+00:00,d7dszc1,4.0,t1_d7dpce1,6108.0,Vive
+39,"Wow, very cool! Hope he was able to play in a full game :)",2016-09-08 04:19:47+00:00,d7dsxac,2.0,t1_d7dpro6,5342.0,Vive
+40,beautiful,2016-09-08 02:16:13+00:00,d7dofgq,1.0,t3_51o4d7,12049.0,Vive
+41,"Thanks /u/piewpauw!  We're working hard to get more gamemodes and maps, I'm glad you're looking forward to them.
+
+- Will add the explanation at start immediately.
+- We noticed the hand scoreboard is totally swapped! We'll have the cleared up no problem
+- We saw this as well
+- Very good to know, we've never seen this but will definitely look into it.",2016-09-08 01:46:49+00:00,d7dn8tz,2.0,t1_d7dlu9p,2091.0,Vive
+42,"Thanks u/icydeadpeeps, that really makes me (and the other dev, LittlePig) happy! 
+
+This feedback is fantastic, we'll look into some of those bugs, and we're working hard to improve the voice chat.
+
+See you in-game!
+
+-Beelzebee",2016-09-08 01:42:21+00:00,d7dn2cq,2.0,t1_d7dlesy,2463.0,Vive
+43,"Thanks so much u/Dal1Dal! It was super fun playing with you, and it was great to see you on with us the entire time. Let us know if you have any specifics for those minor improvements. ",2016-09-08 01:35:47+00:00,d7dmswl,2.0,t1_d7dk1ho,4091.0,Vive
+44,Get it for free on Steam this Friday! See you on the battlefield :),2016-09-08 01:34:01+00:00,d7dmqcw,2.0,t1_d7dm00q,1082.0,Vive
+45,The game will be free and open to all in a few days. See you when you get you GPU back! Thanks for your interest :),2016-09-07 23:02:14+00:00,d7dgo3x,2.0,t1_d7crsxo,33279.0,Vive
+46,Totally copied that from you u/blueteak! Thanks for the idea :),2016-09-07 20:50:03+00:00,d7dawpq,2.0,t1_d7d78o0,4533.0,Vive
+47,You'll be getting one for sure! Thanks for posting about our game earlier. Curious to see how the ping is for you in the UK.,2016-09-07 19:10:25+00:00,d7d63yy,2.0,t1_d7d5pil,512.0,Vive
+48,No need to re-request but thanks for the continued interest :) Looking forward to playing with you soon!,2016-09-07 19:02:37+00:00,d7d5qs4,2.0,t1_d7d5m3s,163.0,Vive
+49,This looks great. Can't wait to play,2016-09-07 17:41:42+00:00,d7d20vv,1.0,t3_51lrcv,8676.0,Vive
+50,that is some fucked up shit...,2016-09-06 18:35:33+00:00,d7brz9u,1.0,t3_51fa7p,17130.0,Vive
+51,good stuff. Thanks for letting me know about the other site!,2016-09-06 18:34:02+00:00,d7brwwf,3.0,t1_d7bdnr8,23558.0,Vive
+52,"I love these posts. Is this a script that you're running to gather the data? As someone really interested in what people are playing, I'd be down to throw together a live online version of these posts. Does that strike your fancy?",2016-09-06 08:09:52+00:00,d7b9ms6,1.0,t3_51a2u3,57907.0,Vive
+53,"Very cool. Well I would jump at the chance to benefit from your work if you think about making a forum post, pull request, or plugin - and I think many others would as well. I'll reach out when I start to work on implementing this myself, and maybe we could work together to make something useful for the community. Either way, it's nice to know it's possible. Good stuff man!",2016-09-06 06:21:27+00:00,d7b7mi2,4.0,t1_d7ax1gg,19881.0,Vive
+54,"Hey u/muchcharles, your UE4 voice system sounds really cool, and definitely something I'd like to eventually put in my game. have you got it working with 4.13 and the large audio system updates?",2016-09-06 00:31:59+00:00,d7awctv,2.0,t1_d7aoytp,12162.0,Vive
+55,I really appreciate these posts. Please keep doing them!,2016-09-05 18:57:41+00:00,d7ajtu9,1.0,t3_51aolj,3157.0,Vive
+56,This looks incredible. Will be buying ASAP,2016-08-30 05:14:39+00:00,d729ct2,1.0,t3_505twu,46258.0,Vive
+57,"!flair ""Launch Squad""",2016-08-25 18:19:17+00:00,d6wel5o,1.0,t3_4fd7jm,11145841.0,Vive
+58,"The video doesn't show it, but the battle arenas are infinitely large and random generating, allowing you to explore and discover a limitless universe... a beautiful world to launch your goo all over. #NoMansGoo",2016-08-25 17:50:34+00:00,d6wd70d,2.0,t1_d6wav22,2844.0,Vive
+59,It's since been Greenlit. You can now say that you've single-handedly greenlit a game. &lt;3,2016-08-25 16:31:45+00:00,d6w9adn,2.0,t1_d6w0egj,11986.0,Vive
+60,"Wow, that's huge. I was pretty confident that all VR games were accepted, but assumed they still went through Greenlight. Thanks! ",2016-08-25 15:04:50+00:00,d6w53km,2.0,t1_d6w0egj,6771.0,Vive
+61,Lobbies up to 4v4. Client hosted for now,2016-08-25 15:03:53+00:00,d6w51yn,2.0,t1_d6w3fw6,2137.0,Vive
+62,"Just found your other piece, [Vectra](http://www.omnipudding.com/downloads/). Wow! This stuff is awesome. Keep making cool shit! ",2016-08-22 06:27:20+00:00,d6rkf78,2.0,t1_d6rhvfh,6196.0,Vive
+63,This is great! You've inspired me to go play with some large particle systems in UE4,2016-08-22 04:44:04+00:00,d6rhvfh,1.0,t3_4yxs4b,18314.0,Vive
+64,"Ooh good to know. I haven't been able to check out Raw Data yet, but now it'll be the next game I buy.",2016-08-07 01:35:08+00:00,d67baxp,2.0,t1_d667gfk,84719.0,Vive
+65,"We're just starting to post things about it, but hope to have it on Greenlight with informative trailers and the rest by the end of the month. We'll be posting all our stuff at stand-in-vr.tumblr.com as we make it!",2016-08-06 02:05:02+00:00,d667ira,4.0,t1_d65rhzw,24220.0,Vive
+66,Ooh interesting. Really like these ideas of equating the rhythm to momentum. Thanks!,2016-08-05 19:01:30+00:00,d65ql3u,4.0,t1_d65m0g6,5757.0,Vive
+67,Us too :) that was a great game,2016-08-05 18:58:37+00:00,d65qg7g,2.0,t1_d65mvc6,4522.0,Vive
+68,I definitely appreciate the desire to keep it simple and focused on the core gameplay. It's certainly something we're still experimenting with and analyzing. We're gunna try out projectile teleportation (similar to Budget Cuts) next. Thanks for the feedback! ,2016-08-05 15:12:34+00:00,d65fozt,2.0,t1_d65dazq,3219.0,Vive
+69,amazing,2016-07-28 00:36:27+00:00,d5ts8fh,1.0,t3_4uwocj,15977.0,Vive
+70,Definitely an Unreal thing I experience in my UE4 development. ,2016-07-27 16:39:37+00:00,d5t5fv6,2.0,t1_d5t3x5h,1843.0,Vive
+71,Fair enough! Still trying to figure out how to build and market a game at the same time. More informative stuff coming next,2016-07-27 16:37:52+00:00,d5t5cuy,2.0,t1_d5t43vw,1510.0,Vive
+72,"Yeah, this is just an announce trailer. We'll make a gameplay trailer sometime this week.",2016-07-27 15:41:37+00:00,d5t2kpa,2.0,t1_d5t28t8,405.0,Vive
+73,"Dev here. Launch Squad is a multiplayer battle arena where you team up and launch goo at each other. The few gameplay mechanics shown in the video:
+
+- Launch goo with a sling shot. It feels similar to shooting with a bow and arrow
+- Hit people in the face to win, or be hit a lot to get angry
+- Block incoming globs with your hands
+
+We're continuing to experiment with game types, but so far have enjoyed King of the Hill the most. We'll be posting some devblog stuff at stand-in-vr.tumblr.com. Stay tuned for details about cool features we have yet to show off.",2016-07-27 15:37:38+00:00,d5t2dmy,1.0,t3_4uv584,1004.0,Vive
+74,Just approved and featured your upload!,2016-06-23 22:36:31+00:00,d4lfya6,3.0,t1_d4lc75z,5289.0,Vive
+75,"Hah! Thanks for the heads up, I'll have to go fix that.",2016-06-23 22:08:17+00:00,d4lespa,5.0,t1_d4le8d5,800.0,Vive
+76,"Excellent, glad you like it! Looking forward to seeing your work.
+
+The website is a Rails app, though the Feedme app itself is a combination of .Net and Unreal Engine.
+
+Out of curiosity, how'd you see we're hosting with Heroku?",2016-06-23 21:48:23+00:00,d4ldy4e,3.0,t1_d4lc75z,2401.0,Vive
+77,"This is awesome, and exactly the type of project that should be shared for free with the community. and thanks for the source!
+
+The spin is a great touch, though I still haven't gotten good at releasing the ball at the right time XD
+
+I found the buttons to be a bit finicky. I also managed to get the lane in a bugged out state where it wouldn't re-rack (much like a real bowling lane!)
+
+I'm a huge fan of small projects like this and have recently been posting about a new app I made that's meant to share this type of work. Here's a post about it: https://www.reddit.com/r/Vive/comments/4ph292/i_created_a_tool_for_viewing_vr_experiments_and/ . I'd love to see you upload this project! If you do, you'll have to .zip it rather than .rar it :)",2016-06-23 19:50:36+00:00,d4l8ikr,1.0,t3_4pi6bl,5754.0,Vive
+78,It's Vive and Oculus ready!,2016-06-23 19:37:43+00:00,d4l7wcx,2.0,t1_d4kp1ec,25288.0,virtualreality
+79,"Awesome! Thanks for the feedback. Here's some thoughts:
+
+1. This is a great idea. Allowing the user to catalogue and organize their downloaded projects personally.
+2. Agreed. We have an approval system right now to solve this problem.
+3. This was a big one for me. There's nothing worse than downloading a project and it not working with your setup. Right now, when you download the app, it asks you what Inputs and HMDs you have. Similarly, when you upload a project we have a checklist of functioning Inputs and HMDs. We then only curate projects that work with your setup.
+4. Totally! We've been focusing on getting the initial release out, but have tons of ideas on how to make the lobby more exciting.
+5. Cool. For now you're able to delete experiences. Since we're focusing on small projects, I think it's totally reasonable to re-download something if you want to play it again (you don't save every YouTube video you watch do you?), although hiding would make more sense if you could organize the experiences like your suggestions in point 1
+6. This makes sense. Currently it only works with projects that have been downloaded through the app, but it'd be easy enough to make this a reality
+
+Thanks a ton!",2016-06-23 18:18:15+00:00,d4l41fn,2.0,t1_d4ky9tx,6984.0,Vive
+80,"Got the GamePad working as well!
+
+The next Feedme update will always allow you to exit the running process by quickly pressing Escape on keyboard twice, or Back on Gamepad twice",2016-06-21 20:14:11+00:00,d4ig4lu,7.0,t1_d4idwv0,2733.0,oculus
+81,"Great stuff. I took a look at your implementation. I'm working on GamePad stuff now, but in the mean time I found a way to hook into global key events:
+
+The next Feedme update will always allow you to exit the running process by quickly pressing Escape twice.",2016-06-21 19:28:38+00:00,d4idwv0,6.0,t1_d4hukiu,28328.0,oculus
+82,Apparently I do... thanks,2016-06-21 06:56:01+00:00,d4hpqkk,2.0,t1_d4hoqsy,2797.0,oculus
+83,Very cool! I'll check this out tomorrow,2016-06-21 06:04:50+00:00,d4hon1y,4.0,t1_d4hlyiw,6207.0,oculus
+84,"Totally. At this point it is up to the VR project to quit itself, but we want to require that all uploads allow the user to quit the experience without taking off their HMD. As a catch-all you can use Alt-F4, but it's definitely not ideal because it still kinda requires you to take off the HMD.  Most of the current curated projects can be quitted by pressing Escape
+
+Edit: I've since gotten this working. In v0.1.1 double tapping Escape on Keyboard or Back on Gamepad will always close the running VR experience",2016-06-21 04:04:42+00:00,d4hlg8m,2.0,t1_d4hkwb4,1039.0,oculus
+85,"Woah, I really like this! Feels surprisingly good. I think it's ideal for an experience where you would actually move with that hand motion - like a cross country skiing experience ;)",2016-05-31 09:24:01+00:00,d3q7069,1.0,t3_4jyc2i,1088309.0,Vive
+86,Woah this experience was dooooppeeee!,2016-05-06 16:49:39+00:00,d2vbrah,1.0,t3_4i5dn0,7602.0,test
+87,"Agreed. I really want to get my hands on some motion controllers. Also the switch from 0.8 to 1.3 is pretty brutal in terms of what content is available now.
+
+I would love to see a community of developers building small experiences. It's a unique form of VR content that I think deserves its own place, and I'm not sure that's on Oculus Home. ",2016-04-21 03:17:28+00:00,d2b9k9i,5.0,t1_d29qokb,91805.0,virtualreality
+88,"Right! The type of content on those sharing sites is much different than the content on Oculus Home. What's the future for those fun, short VR niblets?",2016-04-20 00:22:36+00:00,d29mqrf,3.0,t1_d29knbx,2952.0,virtualreality
+89,I've got Oculus Home as well. But it doesn't have the vast majority of the content available on other sharing sites.,2016-04-20 00:21:10+00:00,d29mohu,2.0,t1_d29civq,14075.0,virtualreality

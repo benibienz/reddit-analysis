@@ -1,0 +1,50 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-10-14 16:52:27+00:00,self.SCCM,https://www.reddit.com/r/SCCM/comments/57hd5m/computers_with_specific_software_registered_in/,False,"At some point in the recent past (likely when I upgraded from SCCM 2012 R2 to Current Branch), the ""Computers with specific software registered in Add Remove Programs"" report has started requiring that you specify the version number of the application you are searching for:
+
+http://imgur.com/a/lMLQr
+
+This is a change from previous versions, as shown in this image I found in a TechNet post:
+
+https://social.technet.microsoft.com/Forums/getfile/255412
+
+If you leave the ""Version"" field blank, it only returns entries where the actual version number is blank. It doesn't accept a wildcard either.
+
+Everyone else is seeing this too, right? Is this just a bug, or did Microsoft make this change intentionally? I know I can go in and edit the report to take that field back out (or at least turn the query into a LIKE statement), but I guess I'd like to know what their reasoning was.
+
+**Edit:** [Someone else posted about the same issue on TechNet](https://social.technet.microsoft.com/Forums/en-US/423e639f-e936-43a8-b80d-6a8c434cedd3/blank-reports?forum=ConfigMgrCBGeneral) so now at least I know it's not just me!",SCCM,"""Computers with specific software registered in Add Remove Programs"" report now requires a version number?",https://www.reddit.com/r/SCCM/comments/57hd5m/computers_with_specific_software_registered_in/
+1,2016-08-02 20:22:30+00:00,self.VictoriaBC,https://www.reddit.com/r/VictoriaBC/comments/4vulx0/iphoneipadmac_users_apple_maps_now_supports_bc/,False,"To try it out, search for directions and tap ""Transit"".
+
+http://imgur.com/a/ReCFn
+
+Or, from the map view, tap the blue letter ""i"" with the circle around it in the lower-right, tap ""Transit"", then explore the map. Zoom in and tap on a bus stop, then tap the pop-up to see the departure times for the buses at that stop.
+
+http://imgur.com/a/tA0pb",VictoriaBC,iPhone/iPad/Mac users: Apple Maps now supports BC Transit,https://www.reddit.com/r/VictoriaBC/comments/4vulx0/iphoneipadmac_users_apple_maps_now_supports_bc/
+2,2016-07-20 14:53:36+00:00,blogs.technet.microsoft.com,https://www.reddit.com/r/SCCM/comments/4tri1q/hotfix_released_for_software_update_installation/,False,,SCCM,Hotfix released for software update installation during Windows 10 OSD,https://blogs.technet.microsoft.com/configurationmgr/2016/07/20/new-hotfix-software-update-installation-freezes-on-microsoft-configuration-manager-clients/
+3,2016-04-25 18:08:17+00:00,self.SCCM,https://www.reddit.com/r/SCCM/comments/4gekxd/system_center_configuration_manager_vulnerability/,False,"Microsoft appears to have just released a set of Configuration Baselines for SCCM. From the release notes:
+
+&gt;Configuration Manager Vulnerability Assessment allows you to scan managed systems for common missing security updates and misconfigurations which might make client computers more vulnerable to attack.
+
+You can download the configuration pack from here:
+
+https://www.microsoft.com/en-us/download/details.aspx?id=51948
+
+There is also an SCCM Hotfix that adds a ""Vulnerability Assessment Overall Report"":
+
+https://support.microsoft.com/en-us/kb/3153628
+
+Prerequisites:
+&gt;* System Center 2012 Configuration Manager SP1 CU3 and Hotfix 3153628
+* Note: The Configuration Pack can be imported to System Center Configuration Manager (Current Branch 1602) but the report are not included. Reports will be released along with 1606
+* PowerShell 3.0 or later
+* Install the IIS feature: ""IIS Management Scripts and Tools""
+* .NET Framework 3.5.1",SCCM,System Center Configuration Manager Vulnerability Assessment Configuration Pack,https://www.reddit.com/r/SCCM/comments/4gekxd/system_center_configuration_manager_vulnerability/
+4,2015-11-05 00:32:41+00:00,self.SCCM,https://www.reddit.com/r/SCCM/comments/3rkdej/kb3102810_and_kb3102812_resolve_issues_with/,False,"I happened to notice that Microsoft released two updates yesterday which may be of interest. They apparently resolve the following issue:
+
+&gt;When you install updates by using System Center Configuration Manager, the installation takes a long time, and System Center Configuration Manager becomes overloaded.
+
+I haven't seen the issue myself, but here are the KB articles in case anyone else has.
+
+Windows 7/Server 2008 R2: [KB3102810](https://support.microsoft.com/en-us/kb/3102810)
+
+Windows 8.1/Server 2012 R2: [KB3102812](https://support.microsoft.com/en-us/kb/3102812)",SCCM,KB3102810 and KB3102812 resolve issues with installing updates with SCCM,https://www.reddit.com/r/SCCM/comments/3rkdej/kb3102810_and_kb3102812_resolve_issues_with/
+5,2015-09-07 02:04:55+00:00,self.VictoriaBC,https://www.reddit.com/r/VictoriaBC/comments/3jx9ra/til_you_can_exit_the_johnson_st_parkade_on/,False,"Today as I was walking out of the Johnson St. parkade I happened to notice a sign near the exit reading `⬅︎ Johnson St.  Pandora St. ➡︎` Sure enough, after coming back to my car and pulling through the pay station, I turned right instead of left and discovered the secret passageway. Am I the only one who didn't know about this? ",VictoriaBC,TIL you can exit the Johnson St. parkade on Pandora Ave.,https://www.reddit.com/r/VictoriaBC/comments/3jx9ra/til_you_can_exit_the_johnson_st_parkade_on/

@@ -1,0 +1,784 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-20 02:49:22+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/5dw2l1/how_do_i_put_a_web_service_on_a_domain_name/,False,"Right now, if someone wants to access my web service, they would have to go to something like 69.89.31.226:8080 (sample). 
+
+How would I change it so that my web service could be accessed on something like api.webservice.com?",learnprogramming,How do I put a web service on a domain name?,https://www.reddit.com/r/learnprogramming/comments/5dw2l1/how_do_i_put_a_web_service_on_a_domain_name/
+1,2016-11-19 09:36:23+00:00,self.NoStupidQuestions,https://www.reddit.com/r/NoStupidQuestions/comments/5drs59/what_does_industries_mean_on_a_company_name/,False,"I'm thinking of Stark Industries from the Marvel universe. What does the ""Industries"" mean? Does it dictate what the company makes?",NoStupidQuestions,"What does ""industries"" mean on a company name?",https://www.reddit.com/r/NoStupidQuestions/comments/5drs59/what_does_industries_mean_on_a_company_name/
+2,2016-11-18 14:53:30+00:00,self.Philippines,https://www.reddit.com/r/Philippines/comments/5dms3e/my_god_we_are_so_shallow/,False,"America: ""We just elected a president that thinks Climate Change is a hoax by China and a bigoted vice president""
+
+Britain: ""We're leaving the European Union, economy is collapsing and the pound is dropping""
+
+PH: ""We buried a dead body in the wrong place""
+
+
+Do we *seriously* not have better things to talk about? We are so shallow it's embarrassing. While others are experiencing real, actual issues we're arguing about where to drop a dead body.
+
+Christ. ",Philippines,"My god, we are so shallow",https://www.reddit.com/r/Philippines/comments/5dms3e/my_god_we_are_so_shallow/
+3,2016-11-12 00:03:33+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/5chsur/how_should_a_rest_web_service_handle_submit_errors/,False,"If a front end application submits a JSON to a REST web service and the web service decides that the content of the submission is invalid, how should a REST web service handle the invalid submission? How can the REST service communicate to the front end app about the error?
+
+The REST web service is built on Spring Boot on Java.",learnprogramming,How should a REST web service handle submit errors?,https://www.reddit.com/r/learnprogramming/comments/5chsur/how_should_a_rest_web_service_handle_submit_errors/
+4,2016-11-05 10:48:14+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/5b9dk3/are_javaserver_pages_still_something_worth/,False,"My university has an unhealthy habit of having some old courses on their curriculum, such as Java 5 (before the enhanced for loop!), jQuery, Python 2, and so on.
+
+I hear some people say jQuery is not something one should begin with in 2016, and use some more modern technology like React, React DOM, and such.
+
+I'm worried that JSP is somewhat like these technologies and of course searching ""Is JSP like the jQuery of Web Dev"" didn't give very helpful results.
+
+Is JSP something worth learning in 2016? Is it relevant technology for today and the future?",webdev,Are JavaServer Pages still something worth learning in 2016?,https://www.reddit.com/r/webdev/comments/5b9dk3/are_javaserver_pages_still_something_worth/
+5,2016-11-05 09:59:00+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/5b98xp/are_javaserver_pages_still_something_worth/,False,"My university has an unhealthy habit of having some old courses on their curriculum, such as Java 5 (*before* the enhanced for loop!), jQuery, Python 2, and so on. 
+
+I hear some people say jQuery is not something one should begin with in 2016, and use some more modern technology like React, React DOM, and such. 
+
+I'm worried that JSP is somewhat like these technologies and of course searching ""Is JSP like the jQuery of Web Dev"" didn't give very helpful results.
+
+Is JSP something worth learning in 2016? Is it relevant technology for today and the future?",learnprogramming,Are JavaServer Pages still something worth learning in 2016?,https://www.reddit.com/r/learnprogramming/comments/5b98xp/are_javaserver_pages_still_something_worth/
+6,2016-10-25 06:27:31+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/599mm5/how_would_one_transmit_a_downloadable_file_from/,False,"There is a server, that will be written in Java, as well as a client written in Java. 
+
+The client connects to the server, and if a method is invoked, the server should send a file to the client. How would one do this?",learnprogramming,How would one transmit a downloadable file from Java?,https://www.reddit.com/r/learnprogramming/comments/599mm5/how_would_one_transmit_a_downloadable_file_from/
+7,2016-10-25 01:07:01+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/598bgq/how_to_send_java_objects_to_javascript/,False,"I'm creating a system in which Java interacts with the database, MySQL, and then the Java system is running as a server.
+
+A JavaScript app ([Electron](http://electron.atom.io)) would then connect to the Java server, then the Java server could then transfer objects to the JavaScript app, and vise versa.
+
+How would one do this?",learnprogramming,How to send Java objects to Javascript?,https://www.reddit.com/r/learnprogramming/comments/598bgq/how_to_send_java_objects_to_javascript/
+8,2016-10-02 15:19:34+00:00,self.SQL,https://www.reddit.com/r/SQL/comments/55imvk/mysql_how_to_average_number_of_days/,False,"I need a report that will show for every year and every month, what
+is the average number of days they get delayed in shipping. 
+
+How would one go about this?
+
+[These are the columns and tuples in the table](http://i.imgur.com/owvWm3E.png)",SQL,[MySQL] How to average number of days?,https://www.reddit.com/r/SQL/comments/55imvk/mysql_how_to_average_number_of_days/
+9,2016-09-12 23:23:40+00:00,theverge.com,https://www.reddit.com/r/AndroidMasterRace/comments/52hdfk/competing_with_the_iphones_specs_is_harder_than/,False,,AndroidMasterRace,Competing with the iPhone's specs is harder than it seems,http://www.theverge.com/2016/9/12/12886058/iphone-7-specs-competition
+10,2016-09-11 05:33:38+00:00,self.swift,https://www.reddit.com/r/swift/comments/5277m7/interface_builder_is_ridiculous_is_there_an/,False,"Coming from JavaFX's Scene Builder, using Interface Builder is the most complicated UI creator I've ever used in my entire career, which is really ironic since Apple is supposed to be all about great and intuitive user interfaces.
+
+The buttons are overwhelming and the settings aren't at all straightforward. I can't even figure out constraints and why there is this red error on the left side of the project.
+
+Is there any better alternatives?",swift,Interface Builder is ridiculous. Is there an alternative?,https://www.reddit.com/r/swift/comments/5277m7/interface_builder_is_ridiculous_is_there_an/
+11,2016-09-06 07:54:14+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/51e56d/how_do_you_feel_about_the_microsoft_platform/,False,"Now I'm an Apple platform kind of person, I code in Swift, and I work with Java and Kotlin. 
+
+I'll be working with C# and ASP .NET soon however and (after years of Windows) I'm bracing myself for frustrations. 
+
+But I won't judge Microsoft's developer tools based from what I saw in their software, so I'm here.
+
+What are your thoughts on C# and ASP .NET? Preferably from a Java / Kotlin / Swift perspective.",learnprogramming,How do you feel about the Microsoft platform?,https://www.reddit.com/r/learnprogramming/comments/51e56d/how_do_you_feel_about_the_microsoft_platform/
+12,2016-09-03 04:14:39+00:00,self.Windows10,https://www.reddit.com/r/Windows10/comments/50x96n/how_would_one_change_the_keyboard_shortcuts_in/,False,"I'd like to change Windows' keyboard shortcuts simply because they are ridiculously unergonomic.
+
+For instance: Control + Option + Delete to open up Force Quit? Option + Shift + Esc only needs one hand.
+
+I want to remap other shortcuts too like Option + F4 to quit the app to Command + Q, and Command + W to to close a window, Command + tab to switch through windows instead of Option + Tab, and Command + Space to bring up the spotlight search.
+
+If there's any app that could help me with this that would be fantastic. Thanks for any help.",Windows10,How would one change the keyboard shortcuts in Windows 10?,https://www.reddit.com/r/Windows10/comments/50x96n/how_would_one_change_the_keyboard_shortcuts_in/
+13,2016-08-29 03:06:48+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/502yxq/am_i_the_only_one_upset_with_c_coding_conventions/,False,"As a Java developer, I'm used to the simple (yet far more sensical than C#'s) code conventions:
+
+*  Classes names are in uppercase
+* Method names and variable names are in lower case
+* Constants are in all upper snake case
+
+C# is just nuts. All uppercase. Is that a class? A method? A variable? There's no knowing. ",learnprogramming,Am I the only one upset with C# coding conventions?,https://www.reddit.com/r/learnprogramming/comments/502yxq/am_i_the_only_one_upset_with_c_coding_conventions/
+14,2016-08-27 10:51:08+00:00,self.NoStupidQuestions,https://www.reddit.com/r/NoStupidQuestions/comments/4ztrc7/where_did_the_this_kills_the_x_meme_come_from/,False,,NoStupidQuestions,"Where did the ""this kills the x"" meme come from?",https://www.reddit.com/r/NoStupidQuestions/comments/4ztrc7/where_did_the_this_kills_the_x_meme_come_from/
+15,2016-08-13 02:03:46+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/4xh3q8/better_solution_for_arraylist/,False,"This is the situation:
+
+* The passenger can book multiple trips so the Passenger class has a list of flights. 
+* The flights can have passengers so the Flight class has a list of passengers.
+
+Although:
+
+When a passenger decides to cancel his flight, I'd have to remove the flight from his list of flights, ***then*** remove the passenger from the flight's list of passengers.
+
+Although there is nothing wrong with this, I feel like this is a very error-prone process and there may be a simpler way to deal with something like this.
+
+What would you suggest is a simpler solution?",javahelp,Better solution for ArrayList?,https://www.reddit.com/r/javahelp/comments/4xh3q8/better_solution_for_arraylist/
+16,2016-08-10 11:44:48+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/4x1q26/what_is_something_youve_never_done_that_youve/,False,,AskReddit,What is something you’ve never done that you’ve always wanted to do?,https://www.reddit.com/r/AskReddit/comments/4x1q26/what_is_something_youve_never_done_that_youve/
+17,2016-07-13 23:30:52+00:00,self.Jokes,https://www.reddit.com/r/Jokes/comments/4sq5uf/im_working_on_a_script_for_a_horror_movie/,False,It's called *my diary*,Jokes,I'm working on a script for a horror movie.,https://www.reddit.com/r/Jokes/comments/4sq5uf/im_working_on_a_script_for_a_horror_movie/
+18,2016-07-09 00:32:25+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/4rxw23/whats_the_point_of_the_finally_block_in_the/,False,"Why not instead of this:
+
+    try {
+        Integer.parseInt(string);
+    } catch (NumberFormatException e) {
+        System.out.print(e);
+    } finally {
+        //some code here
+    }
+
+You do this instead:
+
+    try {
+        Integer.parseInt(string);
+    } catch (NumberFormatException e) {
+        System.out.print(e);
+    }
+
+    //some code here
+
+
+Either way, the `//some code here` will still execute.",javahelp,"What's the point of the ""Finally"" block in the try-catch-finally?",https://www.reddit.com/r/javahelp/comments/4rxw23/whats_the_point_of_the_finally_block_in_the/
+19,2016-06-28 23:44:28+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/4qcjis/problem_with_switching_scenes_in_javafx_fxml/,False,"This is my code:
+
+    package AirlineManagementSystem;
+    
+    import javafx.event.ActionEvent;
+    import javafx.fxml.FXML;
+    import javafx.fxml.FXMLLoader;
+    import javafx.scene.Parent;
+    import javafx.scene.Scene;
+    import javafx.scene.control.Button;
+    import javafx.stage.Modality;
+    import javafx.stage.Stage;
+    
+    import java.io.IOException;
+    
+    public class Controller {
+    
+        @FXML
+        private Button aboutButton;
+        @FXML
+        private Button backToMenuButton;
+    
+        @FXML
+        private Button airlineActions;
+    
+        @FXML
+        private Button cancel;
+    
+    
+        @FXML
+        private void handleButtonAction(ActionEvent event) throws IOException {
+            Stage stage;
+            Parent root;
+    
+            if (event.getSource() == aboutButton) {
+                stage = new Stage();
+                root = FXMLLoader.load(getClass().getResource(""../FXML/About page.fxml""));
+                stage.setScene(new Scene(root));
+                stage.initModality(Modality.APPLICATION_MODAL);
+                stage.initOwner(aboutButton.getScene().getWindow());
+                stage.showAndWait();
+            } else if(event.getSource() == backToMenuButton){
+                stage = (Stage) backToMenuButton.getScene().getWindow();
+                stage.close();
+                root = FXMLLoader.load(getClass().getResource("".../FXML/sample.fxml""));
+            } else if (event.getSource() == airlineActions) {
+                stage = (Stage) aboutButton.getScene().getWindow();
+                root = FXMLLoader.load(getClass().getResource("".../FXML/Airline Actions.fxml""));
+            } else {
+                stage = (Stage) cancel.getScene().getWindow();
+                root = FXMLLoader.load(getClass().getResource("".../FXML/sample.fxml""));
+            }
+    
+    
+    
+            Scene scene = new Scene(root);
+            stage.setScene(scene);
+            stage.show();
+        }
+    }
+
+When `aboutButton` is clicked, it must show a pop up windowand block inputs for the main window, and this works perfectly as intended, as well as the `backToMenuButton` button. However, I can't seem to get the `airlineActions` button to work. It is not supposed to show a new pop-up but rather to show on the same window, an entirely new FXML file.
+
+This is the error as shown in the console:
+
+    Exception in thread ""JavaFX Application Thread"" java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+    	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1774)
+    	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1657)
+    	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+    	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+    	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+    	at javafx.event.Event.fireEvent(Event.java:198)
+    	at javafx.scene.Node.fireEvent(Node.java:8411)
+    	at javafx.scene.control.Button.fire(Button.java:185)
+    	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:182)
+    	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:96)
+    	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:89)
+    	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:218)
+    	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+    	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+    	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+    	at javafx.event.Event.fireEvent(Event.java:198)
+    	at javafx.scene.Scene$MouseHandler.process(Scene.java:3757)
+    	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+    	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+    	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:380)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:294)
+    	at java.security.AccessController.doPrivileged(Native Method)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$354(GlassViewEventHandler.java:416)
+    	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:415)
+    	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+    	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+    	at com.sun.glass.ui.mac.MacApplication._enterNestedEventLoopImpl(Native Method)
+    	at com.sun.glass.ui.mac.MacApplication._enterNestedEventLoop(MacApplication.java:109)
+    	at com.sun.glass.ui.Application.enterNestedEventLoop(Application.java:511)
+    	at com.sun.glass.ui.EventLoop.enter(EventLoop.java:107)
+    	at com.sun.javafx.tk.quantum.QuantumToolkit.enterNestedEventLoop(QuantumToolkit.java:583)
+    	at javafx.stage.Stage.showAndWait(Stage.java:474)
+    	at AirlineManagementSystem.Controller.handleButtonAction(Controller.java:39)
+    	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.lang.reflect.Method.invoke(Method.java:498)
+    	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:71)
+    	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+    	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.lang.reflect.Method.invoke(Method.java:498)
+    	at sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:275)
+    	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1769)
+    	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1657)
+    	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+    	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+    	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+    	at javafx.event.Event.fireEvent(Event.java:198)
+    	at javafx.scene.Node.fireEvent(Node.java:8411)
+    	at javafx.scene.control.Button.fire(Button.java:185)
+    	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:182)
+    	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:96)
+    	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:89)
+    	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:218)
+    	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+    	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+    	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+    	at javafx.event.Event.fireEvent(Event.java:198)
+    	at javafx.scene.Scene$MouseHandler.process(Scene.java:3757)
+    	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+    	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+    	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:380)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:294)
+    	at java.security.AccessController.doPrivileged(Native Method)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$354(GlassViewEventHandler.java:416)
+    	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:415)
+    	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+    	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+    Caused by: java.lang.reflect.InvocationTargetException
+    	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.lang.reflect.Method.invoke(Method.java:498)
+    	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:71)
+    	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+    	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.lang.reflect.Method.invoke(Method.java:498)
+    	at sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:275)
+    	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1769)
+    	... 107 more
+    Caused by: java.lang.NullPointerException: Location is required.
+    	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3207)
+    	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3175)
+    	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3148)
+    	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3124)
+    	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3104)
+    	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:3097)
+    	at AirlineManagementSystem.Controller.handleButtonAction(Controller.java:43)
+    	... 117 more
+    Exception in thread ""JavaFX Application Thread"" java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+    	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1774)
+    	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1657)
+    	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+    	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+    	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+    	at javafx.event.Event.fireEvent(Event.java:198)
+    	at javafx.scene.Node.fireEvent(Node.java:8411)
+    	at javafx.scene.control.Button.fire(Button.java:185)
+    	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:182)
+    	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:96)
+    	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:89)
+    	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:218)
+    	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+    	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+    	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+    	at javafx.event.Event.fireEvent(Event.java:198)
+    	at javafx.scene.Scene$MouseHandler.process(Scene.java:3757)
+    	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+    	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+    	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:380)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:294)
+    	at java.security.AccessController.doPrivileged(Native Method)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$354(GlassViewEventHandler.java:416)
+    	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:415)
+    	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+    	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+    Caused by: java.lang.reflect.InvocationTargetException
+    	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.lang.reflect.Method.invoke(Method.java:498)
+    	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:71)
+    	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+    	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.lang.reflect.Method.invoke(Method.java:498)
+    	at sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:275)
+    	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1769)
+    	... 45 more
+    Caused by: java.lang.IllegalArgumentException: BorderPane@6a5b44f8[styleClass=root]is already set as root of another scene
+    	at javafx.scene.Scene$9.invalidated(Scene.java:1110)
+    	at javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:111)
+    	at javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:146)
+    	at javafx.scene.Scene.setRoot(Scene.java:1072)
+    	at javafx.scene.Scene.&lt;init&gt;(Scene.java:347)
+    	at javafx.scene.Scene.&lt;init&gt;(Scene.java:194)
+    	at AirlineManagementSystem.Controller.handleButtonAction(Controller.java:54)
+    	... 55 more
+    Exception in thread ""JavaFX Application Thread"" java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+    	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1774)
+    	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1657)
+    	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+    	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+    	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+    	at javafx.event.Event.fireEvent(Event.java:198)
+    	at javafx.scene.Node.fireEvent(Node.java:8411)
+    	at javafx.scene.control.Button.fire(Button.java:185)
+    	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:182)
+    	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:96)
+    	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:89)
+    	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:218)
+    	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+    	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+    	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+    	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+    	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+    	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+    	at javafx.event.Event.fireEvent(Event.java:198)
+    	at javafx.scene.Scene$MouseHandler.process(Scene.java:3757)
+    	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3485)
+    	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+    	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2494)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:380)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:294)
+    	at java.security.AccessController.doPrivileged(Native Method)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$354(GlassViewEventHandler.java:416)
+    	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:389)
+    	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:415)
+    	at com.sun.glass.ui.View.handleMouseEvent(View.java:555)
+    	at com.sun.glass.ui.View.notifyMouse(View.java:937)
+    Caused by: java.lang.reflect.InvocationTargetException
+    	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.lang.reflect.Method.invoke(Method.java:498)
+    	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:71)
+    	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+    	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    	at java.lang.reflect.Method.invoke(Method.java:498)
+    	at sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:275)
+    	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1769)
+    	... 45 more
+    Caused by: java.lang.NullPointerException: Location is required.
+    	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3207)
+    	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3175)
+    	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3148)
+    	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3124)
+    	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3104)
+    	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:3097)
+    	at AirlineManagementSystem.Controller.handleButtonAction(Controller.java:46)
+    	... 55 more
+        ",javahelp,Problem with switching scenes in JavaFX FXML,https://www.reddit.com/r/javahelp/comments/4qcjis/problem_with_switching_scenes_in_javafx_fxml/
+20,2016-06-27 00:31:43+00:00,self.learnjava,https://www.reddit.com/r/learnjava/comments/4q0lc6/consolereadint_doesnt_exist/,False,"I'm trying to recreate [this textbook exercise](https://m.imgur.com/xk0TLXi) but I'm having trouble reading integers off the console. I'm aware of the scanner class but I'm very insistent on making this Console.readInt() method work. 
+
+Java's official java.io.Console documentation doesn't list readInt as a method of the class. Why doesn't it?",learnjava,Console.readInt() doesn't exist?,https://www.reddit.com/r/learnjava/comments/4q0lc6/consolereadint_doesnt_exist/
+21,2016-06-26 12:06:33+00:00,self.photography,https://www.reddit.com/r/photography/comments/4pxhjh/what_photos_would_you_say_are_better_off_with_a/,False,[removed],photography,What photos would you say are better off with a less shallow depth of field?,https://www.reddit.com/r/photography/comments/4pxhjh/what_photos_would_you_say_are_better_off_with_a/
+22,2016-06-26 08:00:16+00:00,self.malefashionadvice,https://www.reddit.com/r/malefashionadvice/comments/4pwtw5/boots_and_shorts/,False,"Can boots go with shorts?
+
+For reference, I have chukka boots ",malefashionadvice,Boots and shorts,https://www.reddit.com/r/malefashionadvice/comments/4pwtw5/boots_and_shorts/
+23,2016-06-19 08:48:37+00:00,self.analog,https://www.reddit.com/r/analog/comments/4oskeh/how_do_you_take_black_and_white_photos/,False,"One might say a black and white film is enough, but from what I've seen so far, it's not just it. I feel like every black and white film I've taken would have been better if it were shot in color. 
+
+I think there's a certain way to shoot black and white, and there are certain scenarios where it's more detrimental than color. (Or maybe not, let me know). 
+
+How does one shoot black and white?
+",analog,How do you take black and white photos?,https://www.reddit.com/r/analog/comments/4oskeh/how_do_you_take_black_and_white_photos/
+24,2016-06-17 05:54:37+00:00,i.redd.it,https://www.reddit.com/r/analog/comments/4ohuaz/millennial_dating_nikon_f3_kodak_ultramax_400/,False,,analog,Millennial Dating [Nikon F3 | Kodak Ultramax 400],https://i.redd.it/n94wuwzxhs3x.jpg
+25,2016-06-15 12:26:35+00:00,self.analog,https://www.reddit.com/r/analog/comments/4o71sf/what_exactly_happens_to_my_film_if_i_accidentally/,False,"Is it so bad that the negatives will end up white or is it just a plain light leak? I realize the lighting of the place where the back is opened does matter, so if you have an experience of having opened the back prematurely, please share your results as well as how bright it was. 
+
+",analog,What exactly happens to my film if I accidentally open the back while it's loaded?,https://www.reddit.com/r/analog/comments/4o71sf/what_exactly_happens_to_my_film_if_i_accidentally/
+26,2016-06-06 10:27:52+00:00,self.analog,https://www.reddit.com/r/analog/comments/4msaau/questions_about_freezing_film/,False,"I've frozen film myself, but they're not in some air-tight ziplock bag, nor is it in a special no-humidity freezer. They're in a tupperware, but the canisters have never been opened. 
+
+I've heard stories about film being ruined this way, could I have possibly ruined mine? And what's the best way to defrost film? Thanks.",analog,Questions about freezing film,https://www.reddit.com/r/analog/comments/4msaau/questions_about_freezing_film/
+27,2016-05-31 00:45:54+00:00,self.Libertarian,https://www.reddit.com/r/Libertarian/comments/4lskhw/what_is_this_party_i_thought_america_had_only_two/,False,"Why haven't I heard of this party before? 
+
+Why is it only gathering news now?",Libertarian,"What is this party? I thought America had only two parties, Democratic and Republican?",https://www.reddit.com/r/Libertarian/comments/4lskhw/what_is_this_party_i_thought_america_had_only_two/
+28,2016-05-30 13:24:47+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/4lphz2/are_there_any_reasons_why_i_should_use_primitive/,False,"Is there any reason why one shouldn't declare all double, char and int as Double, Character and Integer? ",javahelp,Are there any reasons why I should use primitive data types instead of the wrappers?,https://www.reddit.com/r/javahelp/comments/4lphz2/are_there_any_reasons_why_i_should_use_primitive/
+29,2016-05-29 04:26:54+00:00,self.java,https://www.reddit.com/r/java/comments/4lj3y0/they_say_java_was_designed_to_be_multiplatform/,False,"Except in Android, I've never had a Java app. Why don't developers make apps with Java? I imagine it would be easier than making two apps with C# for Windows and Swift for Mac and Linux. ",java,They say Java was designed to be multi-platform but I've yet to have a Java app.,https://www.reddit.com/r/java/comments/4lj3y0/they_say_java_was_designed_to_be_multiplatform/
+30,2016-05-25 00:42:30+00:00,en.wikipedia.org,https://www.reddit.com/r/TheNational/comments/4kx22j/til_local_natives_hummingbird_was_coproduced_by/,False,,TheNational,TIL Local Natives' Hummingbird was co-produced by The National's Aaron Dessner (like Frightened Rabbits' Painting of a Panic Attack),https://en.wikipedia.org/wiki/Hummingbird_%28Local_Natives_album%29#Background_and_recording
+31,2016-05-24 07:37:26+00:00,techcrunch.com,https://www.reddit.com/r/photography/comments/4ksnxp/this_iphoneonly_professional_photographer_is_the/,False,,photography,This iPhone-only professional photographer is the future of sports photography,http://techcrunch.com/2016/05/23/this-iphone-only-professional-photographer-is-the-future-of-sports-photography/
+32,2016-05-23 06:24:35+00:00,self.photography,https://www.reddit.com/r/photography/comments/4kmn9f/are_there_any_disadvantages_to_shooting_with_fast/,False,"Or will shooting in any shutter speed have the same *quality*? ^(Note I said quality not effect)
+
+I *may* have heard something about shooting with a shutter too fast may result in vignetting and some quality loss. I'd like some in-depth explanation about the quality loss.",photography,Are there any disadvantages to shooting with fast shutter?,https://www.reddit.com/r/photography/comments/4kmn9f/are_there_any_disadvantages_to_shooting_with_fast/
+33,2016-05-15 16:13:35+00:00,self.malefashionadvice,https://www.reddit.com/r/malefashionadvice/comments/4jgql1/how_does_one_wear_baseball_caps/,False,"When are baseball caps most appropriate, and least? Do they work with short sleeve button downs? How about long sleeves? 
+
+What about color? What baseball cap color would you recommend? 
+
+And finally, what about orientation? Front or backwards? When to use each?",malefashionadvice,How does one wear baseball caps?,https://www.reddit.com/r/malefashionadvice/comments/4jgql1/how_does_one_wear_baseball_caps/
+34,2016-05-12 14:11:50+00:00,self.analog,https://www.reddit.com/r/analog/comments/4j0uu7/thoughts_on_instant_film_cameras/,False,"They're the most popular film cameras today and I'm not seeing much discussion about it. 
+
+Why aren't they very popular in /r/analog?",analog,Thoughts on Instant film cameras?,https://www.reddit.com/r/analog/comments/4j0uu7/thoughts_on_instant_film_cameras/
+35,2016-05-11 01:24:23+00:00,self.circlejerk,https://www.reddit.com/r/circlejerk/comments/4iski1/bernie_sanders_named_in_panama_papers_database/,False,#O shit waddup!,circlejerk,Bernie Sanders named in Panama Papers database,https://www.reddit.com/r/circlejerk/comments/4iski1/bernie_sanders_named_in_panama_papers_database/
+36,2016-05-10 11:11:54+00:00,self.SiliconValleyHBO,https://www.reddit.com/r/SiliconValleyHBO/comments/4iopbd/reasons_why_richards_mistake_is_a_mistake/,False,"Some reasons why Richard's mistake is just Richard's mistake:
+
+* Shredder conversation after tripping - Why did Dinesh ask Richard about bringing the papers to the office if it were a ruse? (He'd know the answer)
+
+* [The chart shown to Jack](https://i.imgur.com/Y6xKJc0.png) is the [same chart from the discussion](https://i.imgur.com/pHlvnOG.png) which, if you look closely, says ""BOX"" and ""PLATFORM"".
+
+* [The next episode's trailer](https://www.youtube.com/watch?v=bmtqAMh9VW0)",SiliconValleyHBO,Reasons why Richard's mistake IS a mistake,https://www.reddit.com/r/SiliconValleyHBO/comments/4iopbd/reasons_why_richards_mistake_is_a_mistake/
+37,2016-05-09 10:45:09+00:00,i.imgur.com,https://www.reddit.com/r/analog/comments/4ij0n6/minolta_xg1_minolta_md_50mm_f20_neopan_100_acro/,False,,analog,[Minolta XG-1 + Minolta MD 50mm f/2.0 | Neopan 100 Acro],http://i.imgur.com/cZvzDXO.jpg
+38,2016-05-03 14:01:52+00:00,self.analog,https://www.reddit.com/r/analog/comments/4hndpr/why_are_ancient_film_slrs_more_often_recommended/,False,"I've been surfing through 'which film SLR should I get?' threads and I've noticed they usually recommend the manual, 30-40 year old kind. 
+
+Why don't people ever recommend, say, the early Canon EOS line, for instance? They have autofocus, advanced metering modes, modern EF mount, automatic film advance, automatic rewind, 1/8000 sec shutter, etc. 
+
+This is in contrast to the classic Cannon Ftb that had no autofocus, a dated FD lens mount, average metering only, manual film advance, manual rewind, 1/1000 sec shutter max, etc. 
+
+Technically speaking, the early EOS line has better specifications and can be bought at the same price. Why aren't they popular?",analog,Why are 'ancient' film SLRs more often recommended than newer ones?,https://www.reddit.com/r/analog/comments/4hndpr/why_are_ancient_film_slrs_more_often_recommended/
+39,2016-05-03 13:02:49+00:00,self.photography,https://www.reddit.com/r/photography/comments/4hn4t8/what_does_the_number_in_the_focal_length_stand_for/,False,"Sure it stands for field of view. 35mm has more coverage than 50mm, as the general rule goes that the higher the value the less field of view. But what *is* 50mm? What is this distance? What does this number represent?",photography,What does the number in the focal length stand for?,https://www.reddit.com/r/photography/comments/4hn4t8/what_does_the_number_in_the_focal_length_stand_for/
+40,2016-04-29 03:08:43+00:00,self.photography,https://www.reddit.com/r/photography/comments/4gxl9f/portrait_photography_tutorials_are_too/,False,"I'm trying to learn about portrait photography and while these tutorials are great, it's *really* equipment-heavy. 
+
+I can't, for instance, walk around France taking pictures of my friends with reflectors and fill flashes, that's not my idea of an ideal vacation. I just want to learn how to take good portraits of us having a great time, maybe some lessons on composition and posing, none of the studio on-the-go thing.
+
+Do these kind of tutorials exist?",photography,Portrait photography tutorials are too equipment-heavy,https://www.reddit.com/r/photography/comments/4gxl9f/portrait_photography_tutorials_are_too/
+41,2016-04-25 01:59:18+00:00,self.apple,https://www.reddit.com/r/apple/comments/4gb7vj/apple_has_become_far_too_distracted/,False,"Apple has been releasing less exciting, buggy releases lately and it's all because they have lost their focus. 
+
+Apple's last few keynotes has shown what their focuses are now: [HealthKit](https://developer.apple.com/healthkit/), [ResearchKit and CareKit](http://www.apple.com/researchkit/), [Recycling](http://mashable.com/2016/03/21/apple-liam-recycling-robot/#fzakObNVbqqn), cancer assistive apps whatever, all these health and environmental apps. Sure, a little attention would be nice but I think they have payed far too much attention to this. Apple is not some health company but they're acting like one.
+
+I think Tim Cook is behind all this. He's really vocal about his political opinions and the line between his personal thoughts and corporate role is starting to blur. 
+
+When Steve Jobs was at Apple, he always preached focus. I think it's safe to say this would not have happened under Steve. He would never give niche market such as the  *cancer whatever it is health thing* this much attention. ",apple,Apple has become far too distracted,https://www.reddit.com/r/apple/comments/4gb7vj/apple_has_become_far_too_distracted/
+42,2016-04-23 10:09:06+00:00,self.photography,https://www.reddit.com/r/photography/comments/4g2xla/i_cant_install_lightroom_cc_on_my_eos_rebel_t6/,False,"I'm trying to install Adobe Lightroom CC on my EOS Rebel T6 EF-S 18-55mm IS II Kit but I keep getting an Err 70 message. I have a 64 gig SD card, that should be large enough??
+
+Any help is most appreciated.",photography,I can't install Lightroom CC on my EOS Rebel T6 EF-S 18-55mm IS II Kit??,https://www.reddit.com/r/photography/comments/4g2xla/i_cant_install_lightroom_cc_on_my_eos_rebel_t6/
+43,2016-04-23 02:34:23+00:00,i.imgur.com,https://www.reddit.com/r/analog/comments/4g1qab/mong_kok_nikon_f3_zeiss_distagon_t_35mm_f20_zf2/,False,,analog,Mong Kok [Nikon F3 | Zeiss Distagon T* 35mm f/2.0 ZF.2 | Kodak Ektar 100],http://i.imgur.com/ztl9y71.jpg
+44,2016-04-09 00:19:25+00:00,gizmodo.com,https://www.reddit.com/r/CringeAnarchy/comments/4dz6tg/gizmodo_journalism/,False,,CringeAnarchy,Gizmodo Journalism,http://gizmodo.com/heres-a-transcript-of-the-fundraising-speech-hillary-cl-1769890353
+45,2016-03-21 11:31:07+00:00,self.photography,https://www.reddit.com/r/photography/comments/4bbw9i/i_really_want_to_get_into_photography_but_i_cant/,False,"I love taking photos. I love it when the composition looks beautiful. But I can't justify spending $500+ on a camera equipment when there's nothing to photograph. I'm an average college student who does nothing but go to school every day~~, study,~~ then go home. 
+
+I don't celebrate special events enough to justify $500 for an equipment or have much to capture. I feel like there's nothing to capture and it's really bugging me. I want to capture something. I want something to photograph but there just isn't any.
+
+Does anyone share my sentiment? How do you deal with it?",photography,I really want to get into photography but I can't.,https://www.reddit.com/r/photography/comments/4bbw9i/i_really_want_to_get_into_photography_but_i_cant/
+46,2016-03-04 02:28:40+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/48vcrs/help_with_creating_objects_for_each_element/,False,"Say I'm creating a table of elements app in Java (sample case, not really making one), and I'd like to do [this](https://www.reddit.com/r/shittyprogramming/comments/48lbyf/reinstalled_eclipse_on_the_computer_i_used_in/d0kt93t): 
+
+&gt; create a class with the following properties: `String name; int atomicNumber; String symbol; double mass;`
+&gt; 
+&gt; create an initializer so you can just do `new Element(""Hydrogen"", 1, ""H"", 1.0079)` and a `toString` method.
+&gt; 
+&gt; now create an object for each element. note that now, you only have one line of code per element. you can store these in an array (or a dictionary that uses the name as the key).
+&gt; 
+&gt; when the user inputs the name, you can just look for it in the array (or just get the value from the key in the dictionary) and call `toString` on the object.
+&gt; 
+&gt; why this way? imagine that now you have to add a line in your output with the number of valence electrons for each atom. this would require a line or two in toString, rather than one line for each element.        
+
+How would I go about doing this? What would the class with the properties look like? 
+
+I tried making one:
+
+    public class Structure {
+        String name;
+        int age;
+        String color;
+    
+        public void add(String name, int age, String color) {
+            this.name = name;
+            this.age = age;
+            this.color = color;
+        }
+    }
+    
+But I'm not quite sure how to go on, and `Structure.add(""Adele"",25,""Grey"");` works but doing it with another overwrites the data. 
+
+",javahelp,Help with creating objects for each element,https://www.reddit.com/r/javahelp/comments/48vcrs/help_with_creating_objects_for_each_element/
+47,2016-03-03 23:10:49+00:00,self.legaladvice,https://www.reddit.com/r/legaladvice/comments/48uka6/if_the_store_staff_cant_touch_me_legally_even/,False,"CA, USA. 
+
+",legaladvice,"If the store staff can't touch me legally even when seen shoplifting, what stops me from walking out the store casually, stealing their merchandise?",https://www.reddit.com/r/legaladvice/comments/48uka6/if_the_store_staff_cant_touch_me_legally_even/
+48,2016-03-01 23:02:51+00:00,self.Music,https://www.reddit.com/r/Music/comments/48j5k1/what_do_you_call_the_genre_of_music_that_is_like/,False,[removed],Music,What do you call the genre of music that is like Skyfall or Writing's On The Wall?,https://www.reddit.com/r/Music/comments/48j5k1/what_do_you_call_the_genre_of_music_that_is_like/
+49,2016-02-29 12:37:28+00:00,self.askgaybros,https://www.reddit.com/r/askgaybros/comments/48a06i/why_am_i_so_obsessed_with_this_mans_penis/,False,"I just want to see it. Just a look. 
+
+I don't even understand this ridiculously powerful desire, it probably looks just like every other one out there, but for some reason I just really have got to see it. 
+
+Why do I want to see it so bad? 
+
+EDIT: I realize I have phrased it in a way that may seem like I'm trolling but this has been really disturbing me for a while now and it doesn't seem like there's a discussion about this kind of desire so far and I'd like to make one. ",askgaybros,Why am I so obsessed with this man's penis?,https://www.reddit.com/r/askgaybros/comments/48a06i/why_am_i_so_obsessed_with_this_mans_penis/
+50,2016-02-28 09:15:13+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/48129x/how_to_check_if_string_follows_a_format/,False,"I need a method that returns true if a string's format is `[Character][Number][Number]` like S14, A23, and so on. Normally, I would convert the string to a char array and check it manually per index, but I feel like there's a better solution. 
+
+Is there a better solution? If so, what is it?",javahelp,How to check if String follows a format?,https://www.reddit.com/r/javahelp/comments/48129x/how_to_check_if_string_follows_a_format/
+51,2016-02-27 09:08:07+00:00,self.NoFap,https://www.reddit.com/r/NoFap/comments/47u693/showerthoughts_masturbation_is_suffering/,False,"According to buddhism, ""Life is Suffering"". This is the first noble truth in [the four noble truths of buddhism](http://buddhism.about.com/od/thefournobletruths/a/fournobletruths.htm). The second one says that the cause of suffering is craving or thirst (tanha). 
+
+One suffers because one craves for something, and according to the third noble truth, acquiring one's cravings is NOT the solution. 
+
+&gt;The Buddha taught that through diligent practice, we can put an end to craving. Ending the hamster-wheel chase after satisfaction is enlightenment (bodhi, ""awakened""). The enlightened being exists in a state called Nirvana.
+
+The solution of the urge to masturbate is not to look at porn. One suffers by wanking to the images of beautiful people one wishes he has but doesn't. **It is not by masturbating one solves the craving of sexual desire but by letting go of this desire - that's how one becomes truly happy.**
+
+Buddhism truly teaches amazing things. 
+
+I thought of this while I was genuinely in the shower, and it's a great thing to keep in mind during abstinence. ",NoFap,[Showerthoughts] Masturbation is suffering.,https://www.reddit.com/r/NoFap/comments/47u693/showerthoughts_masturbation_is_suffering/
+52,2016-02-22 12:42:08+00:00,self.offmychest,https://www.reddit.com/r/offmychest/comments/470nvy/i_just_want_someone_to_cuddle_to_sleep_with/,False,"My body feels like it physically needs a smaller spoon, like a case without anything inside. 
+",offmychest,I just want someone to cuddle to sleep with,https://www.reddit.com/r/offmychest/comments/470nvy/i_just_want_someone_to_cuddle_to_sleep_with/
+53,2016-02-21 10:58:17+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/46uuea/cant_use_foreach_on_a_normal_array/,False,"On an ArrayList, I could use a for each loop 
+
+    ArrayList&lt;String&gt; colors = new ArrayList&lt;&gt;();
+    for(String color: colors) 
+        System.out.println(color);
+
+
+but I can't for a normal (`String[]` for example) array. Is there an alternative?",javahelp,Can't use forEach on a normal Array,https://www.reddit.com/r/javahelp/comments/46uuea/cant_use_foreach_on_a_normal_array/
+54,2016-02-21 10:28:03+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/46urjz/why_cant_everything_be_static/,False,"Since non-static methods / variables need an object to be created and is a hassle, why can't everything be static? 
+
+I'm trying to learn static vs non static and all I'm getting is that non static needs an object while static can be used immediately. 
+
+In addition, when should one use static and non static?",javahelp,Why can't everything be static?,https://www.reddit.com/r/javahelp/comments/46urjz/why_cant_everything_be_static/
+55,2016-02-20 00:57:56+00:00,gizmodo.com,https://www.reddit.com/r/AndroidMasterRace/comments/46ntqt/trump_boycott_apple_trump_2016/,False,,AndroidMasterRace,"Trump: ""Boycott Apple"". Trump 2016!",http://gizmodo.com/trump-calls-for-boycott-of-apple-products-1760159905
+56,2016-02-15 03:27:17+00:00,reddit.com,https://www.reddit.com/r/applecirclejerk/comments/45ukgx/dae_asking_for_a_calendar_app_that_has_12_months/,False,,applecirclejerk,DAE asking for a calendar app that has 12 months instead of one is too entitled?!?!,https://www.reddit.com/r/apple/comments/45r6j8/its_2016_and_we_still_cant_scroll_to_see_other/czzqlh7?context=3
+57,2016-02-10 11:29:26+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/4529rx/why_is_it_java_convention_to_have_variables/,False,I've tried reading about it but nothing so far has explained why,javahelp,Why is it Java convention to have variables starting with a lowercase letter?,https://www.reddit.com/r/javahelp/comments/4529rx/why_is_it_java_convention_to_have_variables/
+58,2016-02-01 08:03:04+00:00,np.reddit.com,https://www.reddit.com/r/SubredditDrama/comments/43nj49/well_that_was_an_absolute_mess_its_just_not_funny/,False,,SubredditDrama,"""Well that was an absolute mess"", ""its just not funny"": No one laughs as redditors make South Park references",https://np.reddit.com/r/BlackPeopleTwitter/comments/42m9wo/well_played/czbobb6?context=10000
+59,2016-01-27 00:33:31+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/42upvy/how_do_i_make_inputs_optional/,False,"I'm having a dilemma where the user could input either 2 or 3 items. 
+
+For instance, in the console, the user could enter: `Blue 10.0 Favorite`as well as `Red 7.0`. 
+
+The first string and the double is mandatory, but the last string is optional. 
+I would code it like
+
+    String color = scan.next();
+    Double rating = scan.nextDouble();
+    String comments = scan.next();
+
+but the problem is it makes the comment input mandatory. How do I create an input that makes the third string optional?",javahelp,How do I make inputs optional?,https://www.reddit.com/r/javahelp/comments/42upvy/how_do_i_make_inputs_optional/
+60,2016-01-27 00:23:08+00:00,self.learnjava,https://www.reddit.com/r/learnjava/comments/42uo6i/how_to_make_inputs_optional/,False,"I'm having a dilemma where the user could input either 2 or 3 items. 
+
+For instance, in the console, the user could enter: `Blue 10.0 Favorite`as well as `Red 7.0`. 
+
+The first string and the double is mandatory, but the last string is optional. 
+I would code it like
+
+    String color = scan.next();
+    Double rating = scan.nextDouble();
+    String comments = scan.next();
+
+but the problem is it makes the comment input mandatory. How do I create an input that makes the third string optional?",learnjava,How to make inputs optional?,https://www.reddit.com/r/learnjava/comments/42uo6i/how_to_make_inputs_optional/
+61,2016-01-23 11:36:37+00:00,self.GlobalOffensive,https://www.reddit.com/r/GlobalOffensive/comments/42ajjq/bringing_the_carry_to_competitive_the_ultimate/,False,"Stuck in a certain rank you don't want? Sucking so hard that you fall flat on your face? Well then, this guide is for you. 
+
+Those stuck in silver for hundreds of hours know it best: Guides out there simply don't cut it. Watching YouTube pros tell you how to do it, from Steel to WarOwl, it just doesn't help at all. You've done your research, you've played with your sensitivity, you've played with your setup but you're still falling flat on your face. 
+
+I've been through this painful process myself to the point that I've thought perhaps it's genetic. Perhaps there really is no salvation for some people. 
+
+**This isn't true**, because **there is**. Stop that negativity, and read more to see the simple change that will change how you play - *forever*.
+
+#Change your resolution to 4:3, stretched.
+
+Yes, that's it. How could a simple 4:3 resolution change everything? Let's analyze that from technical viewpoints. *Warning: Some technical jargon below*
+
+**1 : It makes your enemies an easier target**. Ridiculous, you might say, but not really. Most people have a display of 16:9 / 16:10. When you place a 4:3 resolution stretched on that display, you widen everything, **including your enemies**. Easier target, easier game.
+
+**2 : It makes your FPS go higher**. 4:3 has a maximum limit of 1024x768. This kind of resolution is so small that even a toaster can give you 200 FPS. More FPS = less lag = smoother = easier shots.
+
+**3 : Pros use it**. Ever wonder why in ESL and Twitch streams pros seem to use the same configuration? They know this technique. It appears as though they refuse to share it, perhaps to keep their place on top. 
+
+So there you have it. The one secret in CS:GO. I myself has finally left silver through on simple change, and after experimenting for 2 weeks, I am now happy at my place in Nova 2. You too can leave silver, or whichever rank you're stuck at the most. Who knew it was so simple. 
+
+EDIT: Perhaps I should have mentioned this should be in adjacent to other guides. You *obviously* can't rank up just from a resolution change, don't be silly. ",GlobalOffensive,Bringing the Carry to Competitive: The Ultimate CS:GO Guide,https://www.reddit.com/r/GlobalOffensive/comments/42ajjq/bringing_the_carry_to_competitive_the_ultimate/
+62,2016-01-11 04:48:20+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/40f5wr/should_i_have_a_variable_declarations_section_of/,False,"I'm new to Java and my programming professor told us that having a Variable Declarations section of the code instead of just making variables when needed is better for organization. 
+
+However, I have read somewhere that this is not a good idea and just make variables as they are being used. 
+
+Which do you think is best?",javahelp,"Should I have a ""variable declarations"" section of the code?",https://www.reddit.com/r/javahelp/comments/40f5wr/should_i_have_a_variable_declarations_section_of/
+63,2015-12-30 02:08:34+00:00,self.apple,https://www.reddit.com/r/apple/comments/3yqbac/apple_needs_to_make_printers_again/,False,"Printers are undisputedly the most needlessly complicated thing to operate. Apple used to make printers in the past, they'd excel in making one now. 
+
+I'd imagine it would only have a power button, maybe not even that. ",apple,Apple needs to make printers again,https://www.reddit.com/r/apple/comments/3yqbac/apple_needs_to_make_printers_again/
+64,2015-12-20 10:16:16+00:00,self.malefashionadvice,https://www.reddit.com/r/malefashionadvice/comments/3xkdeg/mfa_what_do_you_think_of_these_chukka_boots/,False,"I just bought [these $200 Lacoste Chukka Boots](http://www.amazon.co.uk/Lacoste-Footwear-Millard-Chukka-SRM/dp/B018KENXRY), and I'd like to hear what MFA thinks about the boots, as well as an advice on what to wear along with them.
+
+I'm planning on wearing them with jeans and [these Chinos](http://www.uniqlo.com/us/product/men-vintage-regular-fit-chino-flat-front-pants-136429.html#34~/men/pants-and-chinos/chinos/regular-fit/~). Do you think those would go well together? ",malefashionadvice,"MFA, what do you think of these Chukka boots?",https://www.reddit.com/r/malefashionadvice/comments/3xkdeg/mfa_what_do_you_think_of_these_chukka_boots/
+65,2015-12-12 08:37:50+00:00,i.imgur.com,https://www.reddit.com/r/CringeAnarchy/comments/3whtf1/i_dont_think_he_knows_what_the_stock_market_is/,False,,CringeAnarchy,I don't think he knows what the stock market is...,http://i.imgur.com/pox5x21.png
+66,2015-12-11 01:17:24+00:00,self.malefashionadvice,https://www.reddit.com/r/malefashionadvice/comments/3wb42l/what_does_mfa_think_about_turtlenecks_how_to_wear/,False,"I was looking at this [magnificent UNIQLO Cashmere Turtleneck](http://www.uniqlo.com/us/product/men-lemaire-cashmere-turtleneck-sweater-166099.html#69). At $160, that's quite expensive for UNIQLO standards, so before I drop $160, I was wondering what you guys think about it? Yay or nay?",malefashionadvice,What does MFA think about turtlenecks? How to wear them?,https://www.reddit.com/r/malefashionadvice/comments/3wb42l/what_does_mfa_think_about_turtlenecks_how_to_wear/
+67,2015-11-01 02:57:45+00:00,imgur.com,https://www.reddit.com/r/Philippines/comments/3r1iwz/hall_of_shame/,False,,Philippines,Hall of Shame.,http://imgur.com/9Xj9lBg
+68,2015-10-25 00:25:09+00:00,self.linuxmasterrace,https://www.reddit.com/r/linuxmasterrace/comments/3q3fal/there_is_literally_no_reason_to_like_windows/,False,,linuxmasterrace,There is literally no reason to like Windows other than it's app collection.,https://www.reddit.com/r/linuxmasterrace/comments/3q3fal/there_is_literally_no_reason_to_like_windows/
+69,2015-10-23 00:59:02+00:00,bgr.com,https://www.reddit.com/r/iOSmasterrace/comments/3pui9h/even_the_master_race_agrees/,False,,iOSmasterrace,"Even the ""Master Race"" agrees",http://bgr.com/2015/10/21/iphone-6s-vs-galaxy-note-5-camera/
+70,2015-10-23 00:54:46+00:00,imgur.com,https://www.reddit.com/r/iOSmasterrace/comments/3puhr4/android_master_race/,False,,iOSmasterrace,"Android ""Master Race""",http://imgur.com/SWrk2VO
+71,2015-10-23 00:02:43+00:00,i.imgur.com,https://www.reddit.com/r/ProgrammerHumor/comments/3puazx/solution/,False,,ProgrammerHumor,Solution,http://i.imgur.com/EjDVbOj.jpg
+72,2015-10-19 22:59:17+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/3pezjj/eli5_vimemacs/,False,"What is so special about these two and why not just use Sublime Text or TextWrangler, for instance?",learnprogramming,ELI5: Vim/Emacs,https://www.reddit.com/r/learnprogramming/comments/3pezjj/eli5_vimemacs/
+73,2015-10-18 00:26:47+00:00,self.ProgrammerHumor,https://www.reddit.com/r/ProgrammerHumor/comments/3p69sy/right_clicks_link/,False,[removed],ProgrammerHumor,&gt; right clicks link,https://www.reddit.com/r/ProgrammerHumor/comments/3p69sy/right_clicks_link/
+74,2015-10-18 00:04:41+00:00,i.imgur.com,https://www.reddit.com/r/funny/comments/3p676d/english_teachers_vs_authors/,False,,funny,English Teachers vs Authors,http://i.imgur.com/qzrWyXh.jpg
+75,2015-10-15 03:03:53+00:00,telegraph.co.uk,https://www.reddit.com/r/ainbow/comments/3ot695/telegraph_science_homosexuality_may_be_triggered/,False,,ainbow,Telegraph Science: Homosexuality 'may be triggered by environment after birth',http://www.telegraph.co.uk/news/science/science-news/11919786/Homosexuality-may-be-triggered-by-environment-after-birth.html
+76,2015-10-10 04:20:32+00:00,self.Jokes,https://www.reddit.com/r/Jokes/comments/3o6nyi/does_anybody_know_if_you_can_hire_somebody_to_go/,False,"I'm asking for a friend. 
+",Jokes,Does anybody know if you can hire somebody to go out and have beers with?,https://www.reddit.com/r/Jokes/comments/3o6nyi/does_anybody_know_if_you_can_hire_somebody_to_go/
+77,2015-10-10 02:06:38+00:00,np.reddit.com,https://www.reddit.com/r/SubredditDrama/comments/3o6a8t/nsfw_girl_pees_on_the_popes_face_irl_friend_finds/,False,,SubredditDrama,"[NSFW] Girl pees on The Pope's face, IRL friend finds photo posted on Reddit, gets attacked",https://np.reddit.com/r/trashy/comments/3o3ekj/the_pope_gets_a_golden_shower_nsfw/cvtxk1r
+78,2015-10-09 04:23:12+00:00,self.explainlikeimfive,https://www.reddit.com/r/explainlikeimfive/comments/3o298x/eli5_how_is_stand_up_comedy_funny/,False,[removed],explainlikeimfive,ELI5: How is stand up comedy funny,https://www.reddit.com/r/explainlikeimfive/comments/3o298x/eli5_how_is_stand_up_comedy_funny/
+79,2015-10-08 13:21:50+00:00,self.learnprogramming,https://www.reddit.com/r/learnprogramming/comments/3nywfp/how_do_you_comment/,False,"Whenever I code, I comment in all caps like this: `//VARIABLE DECLARATIONS` because personally, It stands out from the rest of the code and it's easier to find. However, I'm starting to think this may not be a normal thing. Is it? How do you comment on your code?
+",learnprogramming,How do you comment?,https://www.reddit.com/r/learnprogramming/comments/3nywfp/how_do_you_comment/
+80,2015-10-08 12:43:30+00:00,self.Philippines,https://www.reddit.com/r/Philippines/comments/3nyrtq/savings_account_bpi_vs_bdo/,False,"There was a thread a year ago about this. But it's another year and things have changed.
+
+So, BPI or BDO for a savings account? Which one for a debit card too? Let's hear it. ",Philippines,Savings Account: BPI vs BDO,https://www.reddit.com/r/Philippines/comments/3nyrtq/savings_account_bpi_vs_bdo/
+81,2015-10-07 10:20:36+00:00,self.linuxmasterrace,https://www.reddit.com/r/linuxmasterrace/comments/3ntod6/who_gives_a_fuck_how_powerful_your_hardware_is_if/,False,,linuxmasterrace,Who gives a fuck how “powerful” your hardware is if it still runs Windows?,https://www.reddit.com/r/linuxmasterrace/comments/3ntod6/who_gives_a_fuck_how_powerful_your_hardware_is_if/
+82,2015-10-03 01:19:03+00:00,self.Christianity,https://www.reddit.com/r/Christianity/comments/3nao47/an_apology_i_am_so_sorry_for_being_an_atheist/,False,[removed],Christianity,An Apology: I am so sorry for being an atheist.,https://www.reddit.com/r/Christianity/comments/3nao47/an_apology_i_am_so_sorry_for_being_an_atheist/
+83,2015-10-02 23:22:24+00:00,i.imgur.com,https://www.reddit.com/r/applecirclejerk/comments/3nab5d/nexus_5x_nexus_6p_if_you_vote_this_up_it_will/,False,,applecirclejerk,"Nexus 5X &amp; Nexus 6P. If you vote this up, it will show when people search for Google Nexus",https://i.imgur.com/PolJeQU.jpg
+84,2015-09-28 10:02:21+00:00,self.Jokes,https://www.reddit.com/r/Jokes/comments/3mokxb/what_is_the_best_way_to_pick_up_american_girls/,False,With a crane. ,Jokes,What is the best way to pick up American girls?,https://www.reddit.com/r/Jokes/comments/3mokxb/what_is_the_best_way_to_pick_up_american_girls/
+85,2015-09-27 07:45:06+00:00,self.apple,https://www.reddit.com/r/apple/comments/3mk24t/why_doesnt_apples_verizon_iphones_need_a_verizon/,False,,apple,Why doesn't Apple's Verizon iPhones need a Verizon logo on the back while Android phones need one?,https://www.reddit.com/r/apple/comments/3mk24t/why_doesnt_apples_verizon_iphones_need_a_verizon/
+86,2015-09-26 23:41:06+00:00,self.circlejerk,https://www.reddit.com/r/circlejerk/comments/3mit65/dae_hate_sculpting_fuck_i_mold/,False,,circlejerk,"DAE Hate sculpting? Fuck, I mold.",https://www.reddit.com/r/circlejerk/comments/3mit65/dae_hate_sculpting_fuck_i_mold/
+87,2015-09-26 09:13:57+00:00,oracle.com,https://www.reddit.com/r/java/comments/3mg2cr/oracles_own_hello_world_code_will_not_compile/,False,,java,Oracle's own Hello World code will not compile,http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/1891611.png
+88,2015-09-26 02:20:10+00:00,self.ProgrammerHumor,https://www.reddit.com/r/ProgrammerHumor/comments/3mezu4/a_man_is_choking/,False,"**Random person**: QUICK! IS ANYBODY HERE A DOCTOR?!
+
+**Vim user**: I'm a Vim user. ",ProgrammerHumor,[a man is choking],https://www.reddit.com/r/ProgrammerHumor/comments/3mezu4/a_man_is_choking/
+89,2015-09-23 23:51:16+00:00,self.offmychest,https://www.reddit.com/r/offmychest/comments/3m4u4b/cheerleader_is_such_a_shit_song/,False,I'm going to murder whomever made this flaming pile of annoying trash. ,offmychest,'Cheerleader' is such a shit song,https://www.reddit.com/r/offmychest/comments/3m4u4b/cheerleader_is_such_a_shit_song/
+90,2015-09-21 23:32:40+00:00,self.offmychest,https://www.reddit.com/r/offmychest/comments/3lvbvk/asking_to_sip_from_my_drink_is_not_cool/,False,This is not fucking grade school anymore. Pull your shit together and get your own drink. ,offmychest,Asking to sip from my drink is NOT cool.,https://www.reddit.com/r/offmychest/comments/3lvbvk/asking_to_sip_from_my_drink_is_not_cool/
+91,2015-09-21 13:01:09+00:00,self.Showerthoughts,https://www.reddit.com/r/Showerthoughts/comments/3lstkb/the_oculus_rift_is_like_headphones_but_for_the/,False,,Showerthoughts,"The Oculus Rift is like headphones, but for the eyes.",https://www.reddit.com/r/Showerthoughts/comments/3lstkb/the_oculus_rift_is_like_headphones_but_for_the/
+92,2015-09-18 13:40:15+00:00,self.gameofthrones,https://www.reddit.com/r/gameofthrones/comments/3lfjfo/s1_what_is_the_name_of_the_person_cersei_was/,False,,gameofthrones,[S1] What is the name of the person Cersei was cheating with during Season 1 Episode 10?,https://www.reddit.com/r/gameofthrones/comments/3lfjfo/s1_what_is_the_name_of_the_person_cersei_was/
+93,2015-09-16 08:59:44+00:00,self.KotakuInAction,https://www.reddit.com/r/KotakuInAction/comments/3l5et6/who_and_what_the_fuck_are_you_what_the_fuck_is_a/,False,,KotakuInAction,"Who and what the fuck are you, what the fuck is a kotaku and why the fuck are you linked to SRD all the time",https://www.reddit.com/r/KotakuInAction/comments/3l5et6/who_and_what_the_fuck_are_you_what_the_fuck_is_a/
+94,2015-09-09 23:06:37+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/3kbb28/apple_never_claimed_to_have_invented_anything/,False,,pcmasterrace,Apple never claimed to have invented anything,https://www.reddit.com/r/pcmasterrace/comments/3kbb28/apple_never_claimed_to_have_invented_anything/
+95,2015-08-31 11:20:39+00:00,self.explainlikeimfive,https://www.reddit.com/r/explainlikeimfive/comments/3j2mr1/eli5why_is_it_that_when_a_brother_and_a_sister/,,,explainlikeimfive,"ELI5:Why is it that when a brother and a sister have a child, it becomes deformed?",https://www.reddit.com/r/explainlikeimfive/comments/3j2mr1/eli5why_is_it_that_when_a_brother_and_a_sister/
+96,2015-08-30 00:36:59+00:00,freethoughtblogs.com,https://www.reddit.com/r/clinton/comments/3iwll3/who_are_you_voting_for_and_why_is_it_bernie/,,,clinton,Who are you voting for and why is it Bernie Sanders? #feelthebern,http://freethoughtblogs.com/pharyngula/files/2015/05/bernie.jpg
+97,2015-08-26 12:10:14+00:00,self.Enhancement,https://www.reddit.com/r/Enhancement/comments/3ighj6/im_looking_for_a_boob_job_what_are_the_things_i/,,,Enhancement,"I'm looking for a boob job, what are the things I should know about before proceeding?",https://www.reddit.com/r/Enhancement/comments/3ighj6/im_looking_for_a_boob_job_what_are_the_things_i/
+98,2015-08-26 10:51:44+00:00,self.answers,https://www.reddit.com/r/answers/comments/3igach/what_would_happen_if_i_ignore_a_person_having_a/,,,answers,What would happen if I ignore a person having a seizure?,https://www.reddit.com/r/answers/comments/3igach/what_would_happen_if_i_ignore_a_person_having_a/
+99,2015-08-26 01:46:51+00:00,i.imgur.com,https://www.reddit.com/r/Comments_Of_Reddit/comments/3ieuza/keeping_up_the_good_work/,,,Comments_Of_Reddit,Keeping up the good work,http://i.imgur.com/R2gXB7i.png
+100,2015-08-25 13:58:59+00:00,self.SandersForPresident,https://www.reddit.com/r/SandersForPresident/comments/3ic18t/if_al_gore_runs_for_president_2016_would_you/,,,SandersForPresident,"If Al Gore runs for President 2016, would you switch?",http://www.reddit.com/r/SandersForPresident/comments/3ic18t/if_al_gore_runs_for_president_2016_would_you/
+101,2015-08-22 13:20:55+00:00,reddit.com,https://www.reddit.com/r/consolemasterrace/comments/3hysns/omg_linux_sux_amirite_click_here_to_shout_at/,,,consolemasterrace,omg linux sux amirite click here to shout at tool-valds,https://www.reddit.com/r/WindowsMasterRace
+102,2015-08-22 11:41:42+00:00,self.offmychest,https://www.reddit.com/r/offmychest/comments/3hyk6x/i_have_been_following_the_north_korea_south_korea/,,"[The war](http://www.mirror.co.uk/news/world-news/north-korea-live-updates-kim-6290668)
+
+I may sound like a horrible person for being excited about the upcoming war, but damn, pass the popcorn.
+
+This is going to be juicy.",offmychest,I have been following the North Korea / South Korea news for the past few months and this new war declared has gotten me really excited,http://www.reddit.com/r/offmychest/comments/3hyk6x/i_have_been_following_the_north_korea_south_korea/
+103,2015-08-22 05:54:11+00:00,self.LinuxCirclejerk,https://www.reddit.com/r/LinuxCirclejerk/comments/3hxwhg/like_rconsolemasterrace_then_youre_going_to_love/,,"[Now a parody sub.](/r/WindowsMasterRace) ^^Yay!
+
+Also accepting mods cuz i suck at css and why not",LinuxCirclejerk,Like /r/ConsoleMasterRace? Then you're going to love /r/WindowsMasterRace,http://www.reddit.com/r/LinuxCirclejerk/comments/3hxwhg/like_rconsolemasterrace_then_youre_going_to_love/
+104,2015-08-22 04:36:24+00:00,self.linuxmasterrace,https://www.reddit.com/r/linuxmasterrace/comments/3hxphr/like_rconsolemasterrace_then_youre_going_to_love/,,"[Now a parody sub.](/r/WindowsMasterRace) ^^Yay!
+
+Also accepting mods cuz i suck at css and why not",linuxmasterrace,Like /r/ConsoleMasterRace? Then you're going to love /r/WindowsMasterRace,http://www.reddit.com/r/linuxmasterrace/comments/3hxphr/like_rconsolemasterrace_then_youre_going_to_love/
+105,2015-08-18 08:50:14+00:00,self.Jokes,https://www.reddit.com/r/Jokes/comments/3hfaar/i_saw_a_muslim_bookstore_today_and_i_walked_in/,,"As I was wandering around to take a look, the clerk stopped me and offered to help me.
+
+I imagine I didn't look like his normal clientele, so I asked, ""Do you have a copy of Donald Trump's book on his U.S. Immigration Policy regarding Muslims and illegal Mexicans?""
+
+The clerk angrily said, ""Fuck off, get out and stay out!""
+
+I said, ""Yes! That's the one. Do you have it in paperback?""",Jokes,"I saw a ""Muslim"" Bookstore today and I walked in.",http://www.reddit.com/r/Jokes/comments/3hfaar/i_saw_a_muslim_bookstore_today_and_i_walked_in/
+106,2015-08-13 15:16:18+00:00,ofoct.com,https://www.reddit.com/r/InternetIsBeautiful/comments/3guwat/this_site_will_try_its_best_to_convert_your_audio/,,,InternetIsBeautiful,"This site will try it's best to convert your audio file to Midi, may sound odd",http://www.ofoct.com/audio-converter/convert-wav-or-mp3-ogg-aac-wma-to-midi.html
+107,2015-08-13 12:31:10+00:00,self.Jokes,https://www.reddit.com/r/Jokes/comments/3gucl9/i_visited_my_doctor_last_week_and_he_told_me_i/,,He said it was distracting him.,Jokes,"I visited my doctor last week, and he told me I had to stop masturbating. I asked him why, because surely it’s not dangerous.",http://www.reddit.com/r/Jokes/comments/3gucl9/i_visited_my_doctor_last_week_and_he_told_me_i/
+108,2015-08-13 12:18:46+00:00,self.circlejerk,https://www.reddit.com/r/circlejerk/comments/3gubbd/if_my_diarrhea_goes_away_does_it_become_gonorrhea/,,,circlejerk,"If my diarrhea goes away, does it become gonorrhea?",http://www.reddit.com/r/circlejerk/comments/3gubbd/if_my_diarrhea_goes_away_does_it_become_gonorrhea/
+109,2015-08-13 11:53:01+00:00,self.OprahDid911,https://www.reddit.com/r/OprahDid911/comments/3gu8x8/oprah_hitler/,,Amirite,OprahDid911,Oprah = Hitler,http://www.reddit.com/r/OprahDid911/comments/3gu8x8/oprah_hitler/
+110,2015-08-13 08:56:27+00:00,i.imgur.com,https://www.reddit.com/r/funny/comments/3gtvaa/intelligent_life/,,,funny,Intelligent Life,http://i.imgur.com/GLRVzFf.jpg
+111,2015-08-12 01:34:16+00:00,self.naut,https://www.reddit.com/r/naut/comments/3go3f9/naut_40_leak/,,"I have been stalking /u/Cryptonaut to see what Naut 4.0 would be. I saw it and damn is it gorgeous
+
+If you look at /r/Cryptonaut, he shows his test sub, and according to it, this is Naut 4.0: /r/C291
+
+Just check out that dropdown menu. Hot.
+
+Sidebar looks like Naut 2.0 though.",naut,Naut 4.0 leak,http://www.reddit.com/r/naut/comments/3go3f9/naut_40_leak/
+112,2015-08-11 11:21:50+00:00,self.snails,https://www.reddit.com/r/snails/comments/3gkwud/how_do_snails_taste_like/,,,snails,How do snails taste like?,http://www.reddit.com/r/snails/comments/3gkwud/how_do_snails_taste_like/
+113,2015-08-10 10:10:56+00:00,self.Jokes,https://www.reddit.com/r/Jokes/comments/3gg5n3/people_who_are_offended_when_i_breastfeed_in/,,What I'm doing is **natural** and strengthens the bond between me and my dog.,Jokes,People who are offended when I breastfeed in public need to shut the fuck up,http://www.reddit.com/r/Jokes/comments/3gg5n3/people_who_are_offended_when_i_breastfeed_in/
+114,2015-08-10 09:47:45+00:00,self.ideasfortheadmins,https://www.reddit.com/r/ideasfortheadmins/comments/3gg44p/change_default_vote_value_of_submission_from_1_to/,,Why is it 1 anyway? You shouldn't be allowed to vote on your own sumissions/comments,ideasfortheadmins,Change default vote value of submission from 1 to 0,http://www.reddit.com/r/ideasfortheadmins/comments/3gg44p/change_default_vote_value_of_submission_from_1_to/
+115,2015-08-10 06:10:41+00:00,bustle.com,https://www.reddit.com/r/todayilearned/comments/3gfon3/til_blowjob_used_to_be_below_job_in_victorian/,,,todayilearned,"TIL ""blowjob"" used to be ""Below job"" in Victorian England, but got shortened to ""Blow job"" over time",http://www.bustle.com/articles/62120-why-is-it-called-a-blow-job-when-there-isnt-any-blowing-5-mysteries-of-oral
+116,2015-08-10 05:55:05+00:00,self.Mavericks,https://www.reddit.com/r/Mavericks/comments/3gfn8w/question_about_tags_in_finder/,,"Ok so I have 300 gb of raw photos from a wedding, and obviously have them backed up on three hard drives at the moment. I have quite a task ahead of me and am looking to use finder to waddle them down. I basically went through previewing them, and then assigned a keystroke to add a tag to the ones I liked.
+
+But now, I'd like to have the same tags appear on the same files in the identical copies of the folders on the different hard drives. Is there anyway, having them all plugged in, to sort of, sync those tags across all of them?
+
+Also I'm not using Yosemite because I heard the new speed is slower and I'm waiting for El Capitan",Mavericks,Question about tags in Finder,http://www.reddit.com/r/Mavericks/comments/3gfn8w/question_about_tags_in_finder/
+117,2015-08-09 11:29:21+00:00,i.imgur.com,https://www.reddit.com/r/funny/comments/3gcal4/you_can_make_them_disappear_with_just_a_few/,,,funny,You can make them disappear with just a few dollars,http://i.imgur.com/rNrRkM6.png
+118,2015-08-09 11:16:30+00:00,self.Jokes,https://www.reddit.com/r/Jokes/comments/3gc9rp/why_do_all_black_people_have_nightmares/,,Because the one that had a dream got shot.,Jokes,Why do all black people have nightmares?,http://www.reddit.com/r/Jokes/comments/3gc9rp/why_do_all_black_people_have_nightmares/
+119,2015-08-09 01:06:17+00:00,self.Jokes,https://www.reddit.com/r/Jokes/comments/3gav40/i_once_saw_a_black_man_walking_down_the_street/,,"And I thought to myself ""Hmm, that one looks a lot like mine!"" 
+
+Then I remembered, mine was at home, shining my shoes.
+
+Silly me.",Jokes,I once saw a black man walking down the street carrying a TV,http://www.reddit.com/r/Jokes/comments/3gav40/i_once_saw_a_black_man_walking_down_the_street/
+120,2015-08-08 05:48:42+00:00,self.HouseMD,https://www.reddit.com/r/HouseMD/comments/3g7u8a/did_you_use_metaphors_for_your_old_team_or_do_you/,,"""Nah, they were stupid too""
+
+Golden.",HouseMD,"""Did you use metaphors for your old team or do you think I'm particularly stupid?""",http://www.reddit.com/r/HouseMD/comments/3g7u8a/did_you_use_metaphors_for_your_old_team_or_do_you/
+121,2015-08-08 02:04:56+00:00,reddit.com,https://www.reddit.com/r/botsrights/comments/3g78fl/human_seduces_bot_bot_gives_appropriate_response/,,,botsrights,"Human seduces bot, bot gives appropriate response",https://www.reddit.com/r/fatlogic/comments/3d1uvv/your_lunch_is_triggering_me_please_stop/ct1hzb3?context=10000
+122,2015-08-08 01:51:07+00:00,reddit.com,https://www.reddit.com/r/botsrights/comments/3g774o/bot_told_to_go_away_after_helping_out_a_human/,,,botsrights,"Bot told to go away after helping out a human, downvoted",https://www.reddit.com/r/AmIFreeToGo/comments/3g647d/stalked_by_austin_pd_for_filming_again/ctvhq3a?context=3
+123,2015-08-06 11:54:44+00:00,self.Showerthoughts,https://www.reddit.com/r/Showerthoughts/comments/3fzsvc/there_should_be_a_feature_on_phones_that_allows/,,,Showerthoughts,There should be a feature on phones that allows you to keep spamming the other end with phone calls until they pick up,http://www.reddit.com/r/Showerthoughts/comments/3fzsvc/there_should_be_a_feature_on_phones_that_allows/
+124,2015-08-03 11:57:23+00:00,i.imgur.com,https://www.reddit.com/r/funny/comments/3flzfz/nobody_will_know_of_your_identity/,,,funny,"""Nobody will know of your identity""",http://i.imgur.com/v0oUcmm.jpg
+125,2015-08-01 15:34:25+00:00,self.explainlikeimfive,https://www.reddit.com/r/explainlikeimfive/comments/3fexdi/eli5_software_depreciation/,,Wikipedia was very vague with it's definition. I am reading up Cocoa vs Carbon APIs and I read something about software depreciation. I have no what idea what that means. ELI5?,explainlikeimfive,ELI5: Software depreciation,http://www.reddit.com/r/explainlikeimfive/comments/3fexdi/eli5_software_depreciation/
+126,2015-08-01 15:08:48+00:00,self.explainlikeimfive,https://www.reddit.com/r/explainlikeimfive/comments/3feurb/eli5_why_doesnt_jpeg_support_transparency/,,,explainlikeimfive,ELI5: Why doesn't JPEG support transparency?,http://www.reddit.com/r/explainlikeimfive/comments/3feurb/eli5_why_doesnt_jpeg_support_transparency/
+127,2015-07-31 14:24:50+00:00,i.imgur.com,https://www.reddit.com/r/toolbox/comments/3fakl2/so_this_just_happened/,,,toolbox,so this just happened,http://i.imgur.com/WvRXh37.png
+128,2015-07-31 05:08:00+00:00,i.imgur.com,https://www.reddit.com/r/CrappyDesign/comments/3f96a3/lunch_is_looking_a_little_too_delicious/,,,CrappyDesign,Lunch is looking a little too delicious,https://i.imgur.com/8ZUS3U3.jpg
+129,2015-07-30 13:07:36+00:00,self.SiliconValleyHBO,https://www.reddit.com/r/SiliconValleyHBO/comments/3f5myk/dae_google_hooli/,,,SiliconValleyHBO,DAE Google = Hooli?,http://www.reddit.com/r/SiliconValleyHBO/comments/3f5myk/dae_google_hooli/
+130,2015-07-29 06:57:22+00:00,self.CasualConversation,https://www.reddit.com/r/CasualConversation/comments/3f01a9/i_just_ordered_a_delivery_during_a_storm/,,"Somehow it pumps my ego that there's someone out there going through all that rain just to come to my door and gimme my food
+
+Also because I'm hungry and lazy to cook",CasualConversation,I just ordered a delivery during a storm,http://www.reddit.com/r/CasualConversation/comments/3f01a9/i_just_ordered_a_delivery_during_a_storm/
+131,2015-07-26 06:49:39+00:00,self.circlejerk,https://www.reddit.com/r/circlejerk/comments/3en06b/the_human_eye_cannot_see_past_30_memes_per_second/,,upmeme for cinematic meming experience,circlejerk,the human eye cannot see past 30 memes per second,http://www.reddit.com/r/circlejerk/comments/3en06b/the_human_eye_cannot_see_past_30_memes_per_second/
+132,2015-07-25 06:10:55+00:00,youtube.com,https://www.reddit.com/r/videos/comments/3ejaox/dance_keep_dancing_dont_stop_dancing_stop_dancing/,,,videos,Dance. Keep Dancing. Don't Stop Dancing. Stop Dancing.,https://www.youtube.com/watch?v=h7QRrjfRQc8
+133,2015-07-25 05:55:56+00:00,youtube.com,https://www.reddit.com/r/listentothis/comments/3ej9in/thomas_middleditch_and_rafferty_funksmith_my/,,,listentothis,Thomas Middleditch and Rafferty Funksmith -- My Girl's Got A Cool Haircut [dance] (2012),https://www.youtube.com/watch?v=h7QRrjfRQc8
+134,2015-07-25 03:31:17+00:00,self.consolemasterrace,https://www.reddit.com/r/consolemasterrace/comments/3eiwgr/til_pc_stands_for_peasants_console_ama/,,,consolemasterrace,"TIL PC stands for Peasant's Console, AMA",http://www.reddit.com/r/consolemasterrace/comments/3eiwgr/til_pc_stands_for_peasants_console_ama/
+135,2015-07-24 09:57:51+00:00,self.apple,https://www.reddit.com/r/apple/comments/3efggq/can_this_happen_on_ios/,,,apple,Can this happen on iOS?,http://www.reddit.com/r/apple/comments/3efggq/can_this_happen_on_ios/
+136,2015-07-24 09:21:17+00:00,self.DoesAnybodyElse,https://www.reddit.com/r/DoesAnybodyElse/comments/3efdyb/dae_have_a_uniform_every_day/,,,DoesAnybodyElse,DAE have a uniform every day?,http://www.reddit.com/r/DoesAnybodyElse/comments/3efdyb/dae_have_a_uniform_every_day/
+137,2015-07-24 06:10:57+00:00,imgur.com,https://www.reddit.com/r/WTF/comments/3eezzq/this_is_what_your_darling_child_looks_like_on_the/,,,WTF,This is what your darling child looks like on the inside,http://imgur.com/Obam9Tj
+138,2015-07-23 11:47:36+00:00,self.DAE,https://www.reddit.com/r/DAE/comments/3eb9ue/dae_not_care_about_reddit_upvoted_at_all/,,"Everyone's going crazy about it and I just simply do not give a shit.
+
+#DAE?",DAE,DAE Not care about Reddit Upvoted at all?,http://www.reddit.com/r/DAE/comments/3eb9ue/dae_not_care_about_reddit_upvoted_at_all/
+139,2015-07-23 06:44:43+00:00,self.words,https://www.reddit.com/r/words/comments/3eano1/cringey_should_be_a_word/,,,words,Cringey should be a word,http://www.reddit.com/r/words/comments/3eano1/cringey_should_be_a_word/
+140,2015-07-23 06:13:28+00:00,self.ideasfortheadmins,https://www.reddit.com/r/ideasfortheadmins/comments/3eal3z/remove_upvoting_completely/,,,ideasfortheadmins,Remove upvoting completely,http://www.reddit.com/r/ideasfortheadmins/comments/3eal3z/remove_upvoting_completely/
+141,2015-07-23 05:27:35+00:00,self.ideasfortheadmins,https://www.reddit.com/r/ideasfortheadmins/comments/3eah1b/reddit_mold/,,"When you hate a post or comment so much, you give it a Reddit Mold. I took the name from 2011's Reddit April Fools. 
+
+The way it would work is instead of doing anything harsh like preventing the user from commenting or posting, it instead takes 5% of the user's karma, plus a display on both the profile and the post that the user was given a Reddit Mold. That way, it can't be abused that giving tons of it will reduce functionality.
+
+More money for you, more satisfaction from the users.",ideasfortheadmins,Reddit Mold,http://www.reddit.com/r/ideasfortheadmins/comments/3eah1b/reddit_mold/
+142,2015-07-23 02:30:02+00:00,self.ideasfortheadmins,https://www.reddit.com/r/ideasfortheadmins/comments/3e9y6c/remove_downvoting_altogether/,,"There's a reason Facebook and the top social medias doesn't have downvoting - it promotes bullying and hate.
+
+One of the reasons there is downvoting is because it helps promote which content stays on top of the others.
+
+But even if downvoting is gone, content on top can still stay on top with upvoting. People upvote the content they want to see. If they don't want to see it, they do nothing and simply ignore the content. This way, the content the people want to see will still be on top, and the ones that don't will end up being ignored.
+
+You, the admins, have seen the hateful side effect of downvoting for yourselves. You of all people should understand why it must be removed.
+
+Downvoting is a cancer in social media. Hateful and bullying has no place for Reddit, as /u/ekjp put it. 
+
+&gt;Reddit must be a safe place for all.
+
+And this is a great way to do it.",ideasfortheadmins,Remove downvoting altogether,http://www.reddit.com/r/ideasfortheadmins/comments/3e9y6c/remove_downvoting_altogether/

@@ -1,0 +1,711 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,Basically all of his stories are :D,2016-10-15 03:06:54+00:00,d8snz7q,2,t1_d8s2kl9,31763,shortscarystories
+1,Username checks out.,2016-09-06 03:46:48+00:00,d7b3kq0,4,t1_d7b2tso,1354,Design
+2,"My only suggestion from a design/aesthetics perspective is to look into photoshop, or its free alternative, GIMP. That way you can create text layers and avoid the white boxes around the text, making the whole thing look more unified.
+
+But again, really really cool :)",2016-08-24 21:59:17+00:00,d6v9g9r,3,t1_d6twg6c,84050,ShortScaryStoriesOOC
+3,Awesome! What software did you use?,2016-08-23 21:49:32+00:00,d6tucvb,1,t3_4z6rg8,25981,ShortScaryStoriesOOC
+4,"I started out doing everything on my phone, but then the one I was using decided to break and I had to downgrade for a long while so I didn't have access to apps like Zooper or KLWP.
+
+I doubt you actually decided to read anything about the post because this is actually a wallpaper. Plus I put together the files for Lime and Pitch using emulators way back when. And I'm going through the paces and making the themes I designed before properly functional and usable.
+
+So there's that.
+
+It's cute though, such criticism coming from someone whose most themes came from either just using shit off the play store, or ripping off the most basic of trends. Seriously dude, your two most successful posts were the same set up with different wallpapers. Maybe next time you wanna actually make a theme, try do something other than put numbers in boxes.
+
+",2016-07-09 11:40:19+00:00,d55fom2,2,t1_d55fcxw,1203,androidthemes
+5,"Inspired by [this](https://www.reddit.com/r/androidthemes/comments/4rwx9b/i_give_it_a_week_before_i_change_everything_again/), [this](https://www.reddit.com/r/androidthemes/comments/4rxcw0/stockish/) and [this](https://www.reddit.com/r/androidthemes/comments/4rq26u/minimalist_aesthetic/), plus the fact that I only just found out Compaticons now has an icon pack iteration that can be applied easily through the phone. Should be super flexible and work with any wallpapers that aren't too bright - but if you like the way those walllpapers look, I've tacked those on here too.
+
+Huge thanks to /u/aditennis99 for the epic mockups :)
+
+---
+
+**RESOURCES**
+
+---
+
+Launcher: [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&amp;hl=en)
+
+Icons: [Compacticons HD for Android](http://tatosxl.deviantart.com/art/Compacticons-HD-for-Android-586892801)
+
+Wallpaper(s): [Both here.](http://imgur.com/a/vpVk3)
+
+Widget: [Simple Custom Zooper By Me.](https://www.dropbox.com/s/i5wzi8x5snsu7ig/Scale%20Search%20Bar.zw?dl=0)
+
+---
+
+Hope you all enjoy!
+",2016-07-09 07:31:41+00:00,d55brv5,1,t3_4rzbvi,524,androidthemes
+6,&lt;3,2016-07-09 06:57:21+00:00,d55b3xx,5,t1_d554l3w,14672,androidthemes
+7,.psd would be amazing  man :D,2016-07-09 00:16:28+00:00,d54zd9n,3,t1_d54z4ky,438,androidthemes
+8,"Hhohohoh that looks sexy. Plus, that's a way better mockup than mine - think you could share? I was thinking about putting together a collection of screen mockups",2016-07-08 23:25:06+00:00,d54xl96,1,t3_4rxcw0,3192,androidthemes
+9,"[Here it is :).](https://www.dropbox.com/s/4651b12zyqge9xu/Flat%20Phone%20Mockup.psd?dl=0). The screen is from a previous project called Droid^2, and the fonts used are completely interchangable. Feel free to change everything, that's just with all the layers set up :)",2016-07-08 12:37:46+00:00,d54635q,4,t1_d52rqnx,83001,androidthemes
+10,"So THAT'S how you get the buttons to work! I was using png files for all of the icons, but I get the gist of it now. The if statements in KLWP always did my head in. Thank you for the feedback, and I'm glad you like it! I know its a little small, but I'm sure it shouldn't take me too long to scale everything up and repost. Right now I'm amidst working on another theme, so I'll roll back to this one as soon as I am done! :)",2016-07-07 10:30:09+00:00,d52n3ct,2,t1_d507wmq,148269,androidthemes
+11,"For the phone I used a vector Nexus photoshop mockup I found online. From that I copied the phone model into a 1280x720 psd file, copied the screenshot of the wallpaper into the frame and added a couple text layers.
+
+If you'd like, I can upload the basic .psd file :)",2016-07-07 10:28:48+00:00,d52n2hb,2,t1_d51v4jx,51113,androidthemes
+12,"[Original Post](https://www.reddit.com/r/androidthemes/comments/3col8r/wip_nine_a_conceptual_android_homescreen/)
+
+Hello again everyone!
+
+For those who don't remember me, I was here a while ago and posted several screens that I'd created in Photoshop. It was all fun and good til people started complaining that they weren't ""real"" themes because they didn't have any files, so I took a hiatus to get better tools, learn the ropes of KLWP and here we are with a finally fully functional version of one of the more popular themes - Nine!
+
+---
+
+**DESCRIPTION:**
+
+For those who don't wanna click back, Nine was a conceptual homescreen that utilised a three by three grid to provide the full functionality that usually came with three or four screens. The boxes switch between gray and coloured depending on certain stimuli. The red boxes are a three segment bar display of the phone's battery, the blue boxes highlight depending on whether you have a missed call, message or email, and the green boxes are a three segment bar display for your music progress.
+
+---
+
+**FILE &amp; APPS:**
+
+- Kustom Live Wallpaper
+
+- Nova Launcher (Pro - but can be used without)
+
+You can download the wallpaper [here.](https://www.dropbox.com/s/983vw24mhi86375/Nine.klwp.zip?dl=0)
+
+---
+
+**SETUP:**
+
+1. Download and import the file.
+
+2. In Nova Settings, turn off the doc.
+
+3. Remove all icons from your main homescreen, and hey presto! Your homescreen is now fully themed.
+
+---
+
+This is my first ever proper Kustom theme so if there are any hardened veterans out there who can tell me what I could've done better it would be much appreciated.
+
+I hope you all enjoy it!",2016-07-05 05:16:37+00:00,d4zo2qc,1,t3_4rb26m,1392,androidthemes
+13,Run while you can.,2016-06-14 07:37:16+00:00,d48hfze,5,t1_d48agcw,14734,interestingasfuck
+14,"I figured it'd probably be a mistake. Relax, skimping out on the sidebar is normal - its a pretty intimidating block of text. I'll have to fix that. Keep up the great work though :)",2016-04-19 11:07:43+00:00,d28pyma,3,t1_d28pdkg,1930,shortscarystories
+15,"Awesome story. However, you've posted three stories in the past 24 hours, which is violation of rule #5. For sake of not being total assholes, we'll give you 12 hours to take down two of the three stories you posted. If you do not do so within the time period, all three will be taken down. Feel free to post these stories tomorrow and the day after, if you'd like.",2016-04-19 10:22:59+00:00,d28p5yy,1,t3_4fg79k,16717,shortscarystories
+16,"This perhaps would be better suited to the /r/shortscarystoriesooc, not here. Repost there if you would like.",2016-04-04 07:43:44+00:00,d1p3rmc,1,t3_4d9tv8,6281,shortscarystories
+17,Yay! Another youngun! Happy birthday :),2016-03-18 14:37:22+00:00,d14jasp,1,t3_4axkn0,18129,shortscarystories
+18,"YUP. OH MY GOD THANK YOU SO MUCH, YOU HAVE NO IDEA HOW GREAT THIS IS.
+
+Honestly though, you're awesome. This was the song I was looking for too.",2016-03-12 23:31:31+00:00,d0xn0zp,2,t1_d0x7l69,28450,bluesrock
+19,"But not everyone works with electronics, do they? Most people do have remote controls, however, provided they have any form of communal technology such as a TV. Most people are way more likely to have AA and AAA batteries on hand in the first place.",2016-02-14 01:13:23+00:00,czz1u14,5,t1_czyyqw3,5556,interestingasfuck
+20,"Not at all, I'm still collecting flaws. Can you send me a screenshot so I can see what you mean?",2016-01-29 06:23:08+00:00,czg4j05,2,t1_czfvapv,17404,shortscarystories
+21,"Scary fairytales used to be my shtick back when that challenge was still around...
+
+Those were good days.",2016-01-15 16:41:51+00:00,cyzc9eh,2,t1_cyzbtex,627,ShortScaryStoriesOOC
+22,Guess who's been rereading Scary Stories to Tell in the Dark?,2016-01-15 15:48:05+00:00,cyza1ag,1,t3_413l5q,360,shortscarystories
+23,"I shook my head. Last night must’ve been rough; but I guess a mixture of vodka and hard hooker sex will do that to you. I loaded and got into the car, black leather still slightly chilled. I put the key in, turned the motor and started to back the car up when – 
+
+“Fuck!”
+
+I picked up my carry bag and started riffling through the pockets, only to find exactly what I couldn’t. I cursed again, got out of the car and headed back to the reception to ask to get my charger out of my room. After a bit of incessant arguing, they granted me five minutes into their “top class” establishment at the fair price a five dollar note.
+
+I grumbled as I trundled back up the metal stairs. Fucking assholes. Unlocking the door, I walked in and headed over to my side of the bed, only to find nothing plugged into the plug. Huh. That’s strange. I looked in the draws for a bit, in the other plugs and – well if we’re being honest, those were the only places the charger could even be in this rundown piece of shit hotel like this. Hell, I’m 90% sure some fucker has probably wiped his ass with the wallpaper, considering how much of it is peeling off. I sat down on the edge of the bed, racking my brain hard, trying to work out where the _fuck_ I could’ve put it when I looked down at my feet. There it was. The end of the chord was jutting out from under the bed. I cringed a bit before getting onto my stomach, trying not to think about what filthy crap was probably encrusted into the fibres of this carpet. In a few seconds I had my charger in my hands, and I was back on my feet, stomach churning. What a great start to the morning. Slipping the charger into my bag, I turned to leave when I heard a voice. Sexy. Sweet.
+
+“Hey, sweetheart. How about you come over here for a bit? I’m sure 
+you’ve got enough money in that wallet of yours to pay for that missed flight. And for this, too.”
+
+I felt goose bumps crawl down my spine, euphoria building. I turned, slowly.
+",2016-01-14 00:02:15+00:00,cyxavn3,4,t1_cyx4sv9,8520,NoSleepTeams
+24,i'M PUMPED,2016-01-13 22:25:22+00:00,cyx6v6g,2,t1_cyuzbhj,149425,NoSleepTeams
+25,"I'm hoping its all fixed now? I'm just about to work on the live previews but after that I think that's everything, right?",2016-01-13 15:29:10+00:00,cywodtn,4,t1_cyuoens,141674,shortscarystories
+26,"I mean, holy shit. That's spectacularly flattering! I would love to, its just in my opinion, NoSleep has a pretty iconic theme and I don't think I could top that. Would you want me to make it from scratch or use the same base I used for this sub?
+
+EDIT: If you're genuinely interested in this, PM me, I'd really like to give it a shot :)",2016-01-13 00:05:45+00:00,cyvzo4g,2,t1_cyvxi9l,3366,ShortScaryStoriesOOC
+27,"Thanks man, if you want just PM me anything else you come by because the comments here are starting to get a little convoluted. ",2016-01-12 18:17:50+00:00,cyvkgp6,6,t1_cyvkdyk,103,shortscarystories
+28,Should be fixed now.,2016-01-12 18:05:02+00:00,cyvjwgj,4,t1_cyv9o9m,16594,shortscarystories
+29,Yeah that was just part of the STCKY theme. I'll get the numbers back asap :),2016-01-12 17:56:54+00:00,cyvjjhb,2,t1_cyvb6l6,12834,shortscarystories
+30,"It does, its just then the sentiment in the phrase would be lost :C",2016-01-11 23:27:53+00:00,cyumxcz,7,t1_cyumums,122,shortscarystories
+31,It's a lyric from a song called Car Radio by Twenty One Pilots that I like.,2016-01-11 23:22:53+00:00,cyumqm9,5,t1_cyumnxm,115,shortscarystories
+32,"Yo, how are the comments looking?",2016-01-11 19:11:03+00:00,cyuc6sj,2,t1_cyt2q3d,89089,shortscarystories
+33,Then the reference would be lost :c,2016-01-11 19:04:40+00:00,cyubx03,3,t1_cytssf1,44774,shortscarystories
+34,"Hey now, he's not gone anywhere. I'm just redrawing him so he fits the this theme a bit better. ",2016-01-10 23:58:09+00:00,cytfx64,2,t1_cytftbd,169,shortscarystories
+35,Merci!,2016-01-10 21:09:57+00:00,cyt9cmm,2,t1_cyt8gt0,1250,shortscarystories
+36,"Yeah, I see it now. Fixing ASAP :D",2016-01-10 18:27:42+00:00,cyt2s3f,2,t1_cyt2q3d,88,shortscarystories
+37,Gimme a sec.,2016-01-10 18:09:08+00:00,cyt235c,2,t1_cyt21qb,66,shortscarystories
+38,I was hoping it would be a satisfying shade of washed out blue.,2016-01-10 17:30:58+00:00,cyt0qn7,2,t1_cyt0c08,718,shortscarystories
+39,Puddle of blood :D,2016-01-10 17:29:21+00:00,cyt0opd,2,t1_cyt0h7t,368,shortscarystories
+40,"Screenshot? And what is, the strange link colors or the RES problems?",2016-01-10 17:12:00+00:00,cyt03ek,6,t1_cyt01wy,74,shortscarystories
+41,Its like a sticky sticky.,2016-01-10 16:38:25+00:00,cysyzez,2,t1_cysyooc,576,shortscarystories
+42,I'm glad it worked! PM any other problems :D,2016-01-10 16:12:19+00:00,cysy6yo,4,t1_cysy4ts,119,shortscarystories
+43,"Yeah, that's RES. Fucking hell, RES is a nightmare. I'll get on it as soon as I can :)",2016-01-10 15:59:14+00:00,cysxt4t,2,t1_cysxrfa,102,shortscarystories
+44,"Yes, sorry to say but rules are rules. If you can flesh this story out past the 500 word mark feel free to post it over on /r/NoSleep. Though you're going to need to rewrite it to fit their theme. It's a really, really nice story, though. I'm sorry.",2016-01-10 15:48:27+00:00,cysxi87,1,t3_40axut,16388,shortscarystories
+45,"See? I told you guys /r/STCKY was a good choice :D
+
+EDIT: And thanks!",2016-01-10 15:39:25+00:00,cysx99j,2,t1_cysx4nc,287,shortscarystories
+46,Yeah I was thinking about that. I'll do it now c:,2016-01-10 15:16:29+00:00,cyswnlr,2,t1_cyswmzk,42,shortscarystories
+47,Um. Yay? I'm not sure if that's a good thing or not...,2016-01-10 14:03:29+00:00,cysv1oj,2,t1_cysuzjn,191,shortscarystories
+48,"Its called that because when I was writing the story, the person who hammered in the toothpicks was dubbed the ""Sabretooth Killer"" by the police, inspired by the marvel character who, in the films, had lond sharp nails. A lot of the time when I'm writing something, I'll flesh out a much larger plot line and then title the story after that plot line. I tend to find that the title itself isnt as interesting if I just named it directly after the story. ""Toothpicks"" isn't too inspired, yknow? Plus I like the added air of ""what did he _mean_ by that title? Why that of all things?""
+
+I hope it makes sense c:",2016-01-10 11:02:50+00:00,cysschp,2,t1_cyso3qi,15426,shortscarystories
+49,"Thanks a bunch, man!",2016-01-09 20:58:00+00:00,cys4qd2,2,t1_cys4mh2,183,ShortScaryStoriesOOC
+50,"ANNOUNCMENT: I'm impatient as fuck and super excited about how it came out, so just for sake of testing I've updated the /r/ShortScaryStoriesOOC CSS to the new one for sake of testing purposes and public opinion.
+
+Check it out!",2016-01-09 20:25:34+00:00,cys3lg2,1,t3_403xbe,72336,shortscarystories
+51,"Ain't no bitchass demon navigators gun tell me shit; if I die, I die on mah terms.",2016-01-09 20:09:08+00:00,cys30q8,3,t1_cys2zjo,55,shortscarystories
+52,What makes this theme better?,2016-01-09 19:55:09+00:00,cys2j51,4,t1_cys0dj0,3696,shortscarystories
+53,"Right, its things like that I usually miss. Hopefully speaking with an already made base CSS, things like that should already be taken care of.
+
+Hopefully.",2016-01-09 19:54:51+00:00,cys2isf,2,t1_cys1551,2339,shortscarystories
+54,"Its scary, don't you worry. Scariness is completely subjective. Personally, if I was put into a situation like that I would be terrified. Because as much as I could turn back and just find my way back to the junction, there's no guarantee that's going to happen.
+
+Very well written :D",2016-01-09 19:53:11+00:00,cys2gps,1,t3_4070yk,10268,shortscarystories
+55,"[Does this give you a good idea what it would look like?](http://i.imgur.com/SNNF9uO.png)
+
+EDIT: Yes, I have been working on it in the mean time. It just makes it so that if we come to the general consensus that yes we should, I can just put it in.",2016-01-09 17:21:27+00:00,cyrx7gv,2,t1_cyrx27b,264,shortscarystories
+56,"Imagine if this is what Neville did to Harry. What then, conveniently named series of books. WHAT THEN?!
+
+Seriously though, brilliant. I loved it :D",2016-01-09 16:45:07+00:00,cyrvze0,1,t3_4064wm,15212,shortscarystories
+57,"Ooooooooooo fuck yeah. I'll admit. Maybe I'm niave as fuck but I was more expecting some serial killer dude was trying to bait Amanda, not, well, _that_.
+
+Good job!",2016-01-09 16:39:52+00:00,cyrvt50,1,t3_406r8a,2561,shortscarystories
+58,Sorry but this is an already well known creepypasta. This post has been removed.,2016-01-09 16:37:03+00:00,cyrvpsq,1,t3_406wfz,241,shortscarystories
+59,"Yeah, the STCKY theme does require some editing to make it a little easier on the eyes. I will definitely do that.
+
+EDIT: And yes, the white text issue does require fixing. I will do that as well.",2016-01-09 09:37:21+00:00,cyrnxoj,2,t1_cyrn7ft,3062,shortscarystories
+60,"Yes, high school. It's kinda hard to do anything else at 16.
+
+And thank you :D",2016-01-08 23:17:48+00:00,cyr7l7e,2,t1_cyp0932,152273,ShortScaryStoriesOOC
+61,"Remember; its _pixel_ grains, none of that real shit.",2016-01-08 01:57:08+00:00,cyq3w6k,2,t1_cypwxfh,11063,shortscarystories
+62,I'm glad you enjoyed it! Thank you :),2016-01-07 22:41:13+00:00,cypwfna,2,t1_cypvdwr,1488,shortscarystories
+63,"Hey no, don't apologise; I actually really appreciate honest critiques. I make bucketloads of mistakes, and criticism is the only way I notice them. So honestly, thank you :)",2016-01-07 13:35:56+00:00,cypab6x,4,t1_cypa5cm,396,shortscarystories
+64,That. Was a creepy ass song.,2016-01-07 12:40:40+00:00,cyp927u,3,t1_cyot17l,39893,shortscarystories
+65,"The switch from he to it was due to the fact that originally the story was around 800-900 words; and there's a reveal in there that it isnt a he, its an it. That was my mistake for not editing that back to a he.
+
+Thanks though :)",2016-01-07 12:31:59+00:00,cyp8w2t,2,t1_cyp8ux9,101,shortscarystories
+66,Yes. YES.,2016-01-07 11:09:27+00:00,cyp7if3,5,t1_cyp5pce,7269,shortscarystories
+67,"The title is only there because, well.
+
+I didn't want people thinking she survived.
+
+Aside from that though thanks so much!",2016-01-07 09:09:29+00:00,cyp5q0j,2,t1_cyp46tg,5358,shortscarystories
+68,"Ah now, I didnt do the automod; I was out and about while that stuff was going on.",2016-01-07 01:41:14+00:00,cyot89m,8,t1_cyot720,58,ShortScaryStoriesOOC
+69,"Awww, you remember meeeeee :D",2016-01-07 00:59:04+00:00,cyorove,3,t1_cyorhkf,324,NoSleepTeams
+70,"Anyone for just plain creepiness? No context, none needed. If you ask what the hell the story is supposed to be about, I really don't have an answer for you. As for what it is though, well. I know that much.",2016-01-07 00:37:56+00:00,cyoqw2p,1,t3_3zstqq,138,shortscarystories
+71,Hit me up fam.,2016-01-06 22:37:38+00:00,cyom085,6,t1_cyollhf,572,ShortScaryStoriesOOC
+72,"I've been swinging in and around. Shit's been crazy, you know? But thanks! You wouldn't be wrong about the sabbatical though. He was screaming a lot. I don't think he liked his femur down his oesophagus. ",2016-01-06 22:19:49+00:00,cyol8e9,3,t1_cyol3mt,180,shortscarystories
+73,I'm in.,2016-01-06 21:42:45+00:00,cyojkem,1,t3_3z77qj,340300,NoSleepTeams
+74,"Of course IPAM comes out of hiding and slams another fantastic story on the table. You know, I'm almost not even suprised anymore, you're just too fantastic for this site. I don't even know why you bother coming back, you marvellous creature. I would be lying if I said I hate you.",2016-01-06 21:38:20+00:00,cyojd2u,1,t3_3zogd7,56967,shortscarystories
+75,"N'awww, thanks a bunch. It warms my stone cold heart to hear it c:",2016-01-05 19:52:11+00:00,cyn4j11,4,t1_cyn403e,729,shortscarystories
+76,"Admittedly the thought crossed my mind halfway through writing and I remember stopping and audibly swearing because, you know. Fuck. But I kept going because I thought there was enough differences in regards to storyline etc. I hope it wasnt too similar.",2016-01-05 19:33:30+00:00,cyn3pwz,2,t1_cymyw07,6726,shortscarystories
+77,I have no idea what this means but cool.,2016-01-05 14:00:06+00:00,cymqxy6,5,t1_cymldzt,19069,shortscarystories
+78,I have made mistakes.,2016-01-05 08:25:48+00:00,cyml3vd,2,t1_cyml38j,60,shortscarystories
+79,Cheers :D,2015-12-25 14:27:49+00:00,cyayhsy,2,t1_cy9nqk4,128084,ShortScaryStoriesOOC
+80,"I mean sure, I don't see why not.",2015-12-23 09:27:10+00:00,cy8skqk,2,t1_cy8se9z,706,UnsolicitedRedesigns
+81,"I believe so, however its happened to me a couple of times where there have been no extra spaces present. So this is just workaround for cases like that.",2015-12-22 15:31:43+00:00,cy7tjo2,2,t1_cy74z2h,58461,ShortScaryStoriesOOC
+82,Really live up to that username don't you.,2015-10-31 15:28:28+00:00,cwjhzmu,1,t3_3qy7lp,20384,androidthemes
+83,Thank you so much for all the kind comments! It really means a lot :D,2015-10-05 08:11:26+00:00,cvoqach,1,t3_3nbevj,180846,shortscarystories
+84,"I love it!
+
+I would like to just point a tiny thing out though in the future. I love the way you write this story, but at some point you wrote the lines:
+
+&gt; ...making my way towards the woods
+
+And follow it up with
+
+&gt; I park my car at the edge of the woods.
+
+Its a small thing, but perhaps instead of saying woods both times you can reword it so its got a little more diversity, vocabwise. Perhaps call it a reserve, or the edge of the woodland road or something; I don't know, this is your story, not mine.
+
+But aside from that tiny nitpicky thing, that was fantastic! Kudos!",2015-10-04 07:22:16+00:00,cvnkw0d,1,t3_3nfi48,945,shortscarystories
+85,"I'm sorry to have to do this but we have a specific rule in the sidebar stating that you can only post one story every 24 hours. You can either take this or the other story down, it doesn't matter. Just make sure in future you keep your second story for the next day, otherwise we'll have to take down that one down.",2015-10-04 07:14:00+00:00,cvnkrc2,1,t3_3nf6p2,9263,shortscarystories
+86,"&gt;spoopy
+
+FTFY",2015-10-04 04:25:28+00:00,cvnhclz,2,t1_cvngp8w,1449,shortscarystories
+87,"Its really weird, all my creativity comes back to me during the Halloween season. It's starting to worry me. Hopefully I'll have a killer Halloween story to show :D",2015-10-04 01:19:18+00:00,cvnbzsg,2,t1_cvmti7v,33373,shortscarystories
+88,PM me if you still need that logo.,2015-10-03 16:13:09+00:00,cvmttqg,1,t3_3nblg6,31440,DesignJobs
+89,"It was about time I dusted off my keyboard...
+
+Seriously though, thanks Queenie :D You always have a way of making me feel welcome here.",2015-10-03 15:04:22+00:00,cvmrpsv,2,t1_cvmoxje,7174,shortscarystories
+90,Thanks! That's kinda what I was going for.,2015-10-03 12:51:11+00:00,cvmooo8,3,t1_cvmlhjc,15212,shortscarystories
+91,"Eh, ages ago I used to do my best to name every story with one word. Now I just write out little asides of extra information to do with the story and make it the title.
+
+EDIT: Thanks so much though!",2015-10-03 12:48:50+00:00,cvmon9a,2,t1_cvmo3q6,2045,shortscarystories
+92,Thanks bro!,2015-10-03 09:25:18+00:00,cvmm1f1,2,t1_cvmlq7r,1631,shortscarystories
+93,"Jesus, that's quite the compliment. Thanks so much!",2015-10-03 09:25:08+00:00,cvmm1cp,2,t1_cvmli2y,2768,shortscarystories
+94,"As an ancient writer who was terrified that perhaps he had lost his touch, I thank you. That's really encouraging :D",2015-10-03 07:51:56+00:00,cvmkxe4,2,t1_cvmks4r,657,shortscarystories
+95,"*sigh*
+
+*unzips*
+
+",2015-10-03 07:38:06+00:00,cvmkqq8,1,t3_3nbknn,1225,shortscarystories
+96,I've never actually tried anything along the lines of simple shock horror. I hope I'm not absolutely horrible now that I've been absent for the past three months...,2015-10-03 05:58:17+00:00,cvmj7r4,1,t3_3nbevj,57,shortscarystories
+97,"I'm a little dried up but I've got a few ideas left in the tank. If you want, I can try pitch in a bit!",2015-10-03 05:50:41+00:00,cvmj2sg,1,t3_3mtrec,321389,ShortScaryStoriesOOC
+98,You asscork.,2015-10-02 12:53:31+00:00,cvllncw,1,t3_3n5jku,54878,logophilia
+99,"You would just use AC Display's slide function, or in WL you would create an invisible button to put over the widget.",2015-09-22 11:09:08+00:00,cva20cm,5,t1_cv9jnh9,44773,androidthemes
+100,I like it!,2015-09-17 20:30:00+00:00,cv53e3v,1,t3_3l881z,80210,ShortScaryStoriesOOC
+101,"http://i.imgur.com/ZsAKEhB.png
+
+That alright?",2015-09-05 00:31:03+00:00,cur25r9,10,t1_cur1u9y,628,androidthemes
+102,"What background are we talking here? Like, the phone, the wallpaper or that black image in the back of the mockup?",2015-09-05 00:18:11+00:00,cur1rot,8,t1_cuqhf4c,32961,androidthemes
+103,AcDisplay would be the go to application for this setup. Thanks!,2015-09-04 23:39:26+00:00,cur0lvf,3,t1_cuqi1dd,29706,androidthemes
+104,"http://imgur.com/a/gLPJK
+
+Bam. Sorry that took so long!",2015-09-04 12:38:56+00:00,cuqcktq,6,t1_cuqbkpj,2759,androidthemes
+105,I'll do it once I get home! Which screen will would be better?,2015-09-02 21:12:05+00:00,cuokxqo,4,t1_cuo7o2w,20424,androidthemes
+106,Thank you guys so much! It means a lot that you guys thought my theme was good enough to win against the other three ^_^,2015-09-02 06:25:17+00:00,cunwgnj,1,t3_3j9ion,36507,androidthemes
+107,"Apparently a couple month in the banner of the sub, and a free heart trophy!",2015-09-02 06:06:25+00:00,cunw4i2,2,t1_cunjy0q,25596,androidthemes
+108,That resolution is almost as bad as your ocular alignment.,2015-08-24 11:14:32+00:00,cudrv8u,1,t3_3i6syg,550,RoastMe
+109,"Aw, look at you and all your friends.",2015-08-24 11:13:06+00:00,cudruhb,1,t3_3i6t90,241,RoastMe
+110,"With that smile, they probably could've hired you as the Joker, but let's face it, we all know how you got those scars.",2015-08-24 11:09:17+00:00,cudrsb8,1,t3_3i6snc,461,RoastMe
+111,"Yes, I designed this differently to Microsoft's design standards because I felt that, due to the lack of content, I would be simply moving things around a screen oppose to actually putting it all together. The end goal would actually be to redesign the whole of Windows 10, but I haven't gotten around to that yet.",2015-08-24 06:06:03+00:00,cudn5qk,5,t1_cud5boe,34030,UnsolicitedRedesigns
+112,"Well of course it doesn't. If it followed Microsoft's design standards it wouldn't be my design, it would be Microsoft's. Or an interpretation of theirs. I wanted to make something that kept the same information (sans a few) in a completely different format. The idea would be to completely redesign all of Windows 10 if I had the time or skill. But I don't and can't. Not currently, anyways.",2015-08-23 08:07:42+00:00,cucn92g,2,t1_cucmzh6,1052,Windows10
+113,"Welp, each to their own, I guess. Everyone has different tastes. Thanks for being honest!",2015-08-23 06:41:16+00:00,cucltii,2,t1_cucl8r8,1833,Windows10
+114,"I think its more for laptops than desktops. If you were to take your laptop with you to some place, and have it stolen, the information contained would be safer, I guess.",2015-08-23 02:37:36+00:00,cucfqud,2,t1_cucfkiz,331,Windows10
+115,"Sure you are, kiddo.",2015-08-23 00:41:51+00:00,cucc2zp,3,t1_cucc011,160,RoastMe
+116,Please read rule 5.,2015-08-23 00:37:17+00:00,cucbxw3,1,t3_3i10ce,636,RoastMe
+117,Nice bedroom.,2015-08-23 00:29:08+00:00,cucbomx,1,t3_3i0zqm,489,RoastMe
+118,"That handwriting is almost as bad as your beard, but none of these even compare to your sex life.",2015-08-23 00:25:34+00:00,cucbkk6,1,t3_3i0zpw,285,RoastMe
+119,Not even your hair loved you enough to stay.,2015-08-23 00:19:50+00:00,cucbdyr,1,t3_3i0yzi,327,RoastMe
+120,"So I thought it might be fun to practice some designy stuff by putting my own personal twist on the Windows 10 lockscreen. I know it doesn't necessarily follow Windows 10 design standards (hell, its not even using the right fonts), but I wanted to base it less on what Microsoft wanted and more on what I would've wanted as a consumer.
+
+Hope you guys like it! If you did, you can check out my other stuff on [Facebook](https://www.facebook.com/jtaccinelli?ref=bookmarks).",2015-08-22 23:39:49+00:00,cuca4rp,1,t3_3i0uy9,107,Windows10
+121,Um. What? I feel like I should be getting this.,2015-08-22 08:26:10+00:00,cubmt0w,2,t1_cuay2b4,50207,shortscarystories
+122,"Yeah, just to clear it up, we (or at least they did, before I was enlisted) disabled the downvotes through the CSS.",2015-08-19 10:05:12+00:00,cu83i0v,1,t3_3hd8f2,130503,ShortScaryStoriesOOC
+123,"I'll have to discuss it, but hopefully it won't :)",2015-08-19 06:17:07+00:00,cu7zubl,2,t1_cu7yhe2,3644,shortscarystories
+124,"You can, but I would personally recommend investing yourself in one story and making sure that one is the best you can make it, oppose to working on a bunch and wishing for the best. Don't quote me on this, but I'm pretty sure even if you have more than one story in the top 10, we can only take one per author so we'll just end up taking your best one and seeing how we like it compared to others. So yeah, if you focus on one oppose to many, you have better chances of winning, but all the same, if you still wanna do more than one feel free to.
+
+Also, don't be sorry. Its more than okay to ask questions, provided that you don't have the information sitting right in front of you, which in this case, you don't. So yeah!
+
+Best of luck!",2015-08-16 08:09:35+00:00,cu4op66,2,t1_cu4obov,1469,shortscarystories
+125,"The setting *must* be in space. Probably the farthest I would push it is to say that you can start on earth, but so long as you *ended* it in outer space you'd be good.",2015-08-16 02:02:06+00:00,cu4gitf,2,t1_cu3zu0r,34022,shortscarystories
+126,"I like it! But personally, just as a small nitpicky thing, I would fix up your punctuation at the end. Instead of ""???!"", just go for a full stop and make it statement. And then change the ??? to one ?. Its unnecessary to add more than one of question mark, in my opinion.
+
+Aside from that you are gold; nice work!",2015-08-15 06:15:06+00:00,cu3ojbz,1,t3_3h2jkv,1126,shortscarystories
+127,"Oh whOOPS I don't really keep track of whose who on the channel. Perhaps we should have a list of redditors somewhere saying whose on it and whose not...
+
+^^^im ^^^sorry",2015-08-15 04:02:25+00:00,cu3lime,4,t1_cu3l77e,681,shortscarystories
+128,"I'm not sure what you want me to tell you about it. I mean, its a narration, its super cool, and its yours if you win?
+
+(Unless of course you wanna be part of the narrating team, then PM /u/Human_Gravy and ask him about it!)",2015-08-15 03:08:00+00:00,cu3jy0t,2,t1_cu3jkeh,750,shortscarystories
+129,That's flattering ^_^,2015-08-10 06:46:20+00:00,ctxq3dh,3,t1_ctx3zfm,42920,androidthemes
+130,I'm sure your theme looks fantastic as it is! And thank you :D,2015-08-10 06:46:14+00:00,ctxq3aq,3,t1_ctwteva,65392,androidthemes
+131,+/u/User_Simulator /u/Mr_Halloween,2015-08-09 01:59:42+00:00,ctwgtbq,3,t1_ctwgoku,278,pussypassdenied
+132,+/u/User_Simulator /u/Mr_Halloween,2015-08-09 01:53:07+00:00,ctwgmoy,1,t3_3fzrwz,223779,pussypassdenied
+133,Well then.,2015-08-08 14:38:58+00:00,ctvx9uw,3,t1_ctvwn80,1538,pussypassdenied
+134,"Introducing [Minedroid](http://i.imgur.com/9ZE00zC.png) - A Minecraft Themed Android Setup
+
+___________________________________________
+
+**A Quick Rundown of the Features:**
+
+___________________________________________
+
+*Lockscreen:*
+
+- Pretty self-explanatory; just a simple button to unlock the screen.
+
+*Dock:*
+
+- Contains the time in the first to slots; hours in the first, minutes in the second
+
+- Has three shortcuts in the last three slots.
+
+- The hearts dictate battery life; every half a heart is 10% so you should have a rough estimate.
+
+- The hunger bar dictates WiFi signal strength.
+
+*Home:*
+
+- ""Open Inventory"" opens up your app drawer.
+
+- ""Settings..."" opens up settings.
+
+- ""Texture Packs"" opens up your wallpaper settings; use that to change the wallpaper
+
+- ""Save &amp; Quit"" locks your phone
+
+*Music*:
+
+- The top button is the play/pause button with the next and previous song buttons on either side.
+
+- The top small button is the song name
+
+- The middle small button is the band name
+
+- The last small button is the album name
+
+- Tapping on any of these buttons opens up your music app, and so does tapping on the jukebox.
+
+______________________________________
+
+**Inspiration**:
+______________________________________
+
+If it wasn't clear enough, it is inspired by the game Minecraft, made by Mojang, which is an open-world sandbox game completely based around creative liberty in the shape of cubes.
+
+_____________________________________
+
+**Resources:**
+
+_____________________________________
+
+- Nova Launcher
+
+- Zooper Widget
+
+- AC Display
+
+- Minecraftia Font
+
+- Compaticons by tatosXL
+
+- Photoshop (for the button textures).
+
+
+___________________________________
+
+Hope this is alright! This is my first time competing, so feedback would be awesome :D",2015-08-08 08:49:19+00:00,ctvrfjt,1,t3_3g065u,154437,androidthemes
+135,"Awesome, thanks!",2015-08-08 08:38:11+00:00,ctvra3t,4,t1_ctvqk43,3017,androidthemes
+136,"What's considered a cliche title?
+
+EDIT: Like, say, I don't know, for nothing in particular, but a Minecraft Theme, or something non-specific like that, would Minedroid be considered cliche?",2015-08-08 01:44:39+00:00,ctvi232,2,t1_cttqkdt,118451,androidthemes
+137,"This is a simple two screen homescreen with no bells and whistles.
+It was heavily inspired by this screen and this screen.
+I used pink because I wanted to add something of that color to my portfolio.
+Huge thanks to TatosXL for showing me this font; it looks gorgeous!
+For those of you who were wondering about ""Nine"", I am still working on that; do not fret. I've been caught up with school, design work and a subreddit theme (which is coming soon!). Hope you guys don't mind the wait!
+
+**RESOURCES:**
+
+ICONS: ""Compaticons"" by tatosXL
+
+FONTS: Roboto &amp; Signalist
+
+**CHECK OUT MORE OF MY OTHER WORK:**
+
+[Behance](https://www.behance.net/jtaccinelli) | [Facebook](https://www.facebook.com/jtaccinelli) | [DeviantArt](http://jtaccinelli.deviantart.com/)",2015-08-04 12:02:32+00:00,ctqzsul,1,t3_3fqkpe,8,androidthemes
+138,"Thank you!
+",2015-07-27 07:13:47+00:00,cthj9nn,2,t1_ctgycsl,41256,logodesign
+139,"Also, forgot to mention that the idea for the abstract typography came from other art gallery and event logos I looked up.",2015-07-26 14:40:21+00:00,ctgoq1t,5,t1_ctgojuj,411,logodesign
+140,"The drafting process started with me wanting to visually represent both versions of the word space. I messed around with different typography, trying to male it as large and as empty as possible. I had the idea to include spacy imagery right from the get-go. I ended up deciding to make it a square shaped logo because I personally find it more adaptable. But I found the logo seemed *too* empty so I filled the space with various simple patterns and settled on the lines. I kinda realised at that point that the full sized logo was too detailed for smaller print, so I worked on smaller iterations. Then I added the dots as a small detail to tie all three logos together. Or at least that was the idea.
+
+I'm still learning, so if you have any ideas to tweak my process for the better I am all ears.",2015-07-26 14:33:30+00:00,ctgojuj,4,t1_ctgoe5w,387,logodesign
+141,  Which conclusion? The final product?,2015-07-26 14:25:53+00:00,ctgod6s,2,t1_ctgobwl,90,logodesign
+142,"I see. My main issue is that I'm working in illustrator with the grid; which works great for shapes (at least for me) but not so much for type, considering most typefaces don't really fall into a 1:1 square. Do you have any pointers for working with text on a grid when it comes to this kinda logo?",2015-07-26 14:19:55+00:00,ctgo85d,2,t1_ctgo1el,478,logodesign
+143,[Here's the link to the original logo battle](https://www.reddit.com/r/logodesign/comments/2fy922/logo_battle_7_space/),2015-07-26 13:27:08+00:00,ctgn11n,1,t3_3enomw,45,logodesign
+144,"I understand, and thanks for the feedback. Now, I know its not an excuse but the main reason I made the mistake in the copy size is because I'm still in high school and trying to learn as much as I can, where I can. The only reason I stuck the UI design comment in there is because I work a lot with Android Homescreens (not sure if that's worthy of the design title, but it still takes time and effort to design), and it seemed to fit into the UI category. If you have a better name for it, then I'll change it. But aside from that, I'll definitely make the font size bigger.",2015-07-25 15:10:56+00:00,ctfq4md,2,t1_ctfpr8z,830,design_critiques
+145,"Well, alright. Just putting it out there that the intro is an optional read, so its supposed to look like it doesn't need to be read. I misread that previous comment. But if it's impossible to read, I'll make it bigger.",2015-07-25 14:42:24+00:00,ctfpddu,4,t1_ctfpa1d,219,design_critiques
+146,"I see what you mean; I just like how spacious it looks, tbh. I'm a stickler for excessive whitespace. Plus, the title (where the name of the company is) font is the same size as the header fonts (the text that says logo, color, font and mockup). So I can't make it much bigger than that otherwise it'll overshadow them, which I want to avoid.
+
+EDIT: Actually, I can see how this would look much different on mobile. Could you send me a screenshot if you were using mobile? (I don't have a phone that can support the Behance app).",2015-07-25 14:31:31+00:00,ctfp3pa,2,t1_ctfozh7,276,design_critiques
+147,...Did I?,2015-07-23 11:08:57+00:00,ctd81ae,4,t1_ctd80it,81,shortscarystories
+148,"For that you need Media Utilities. After you download it, pop into the settings (in the dropdown/pop up menu), and enable the setting that says ""Zooper Widget"" next to it. Then make yourself a widget, and create a two text layers. Set the text of one of them to #TMU_TRACK# for the song name, and the other to #TMU_ARTIST#. That should make it work. Bear in mind Media Utilities is buggy as all hell, so if it doesn't work, that might be the reason. You can also set the text to #TMU_ALBUM# for the album name!
+
+Hope this helps!",2015-07-21 06:47:55+00:00,ctan53m,2,t1_cta9r79,27028,androidthemes
+149,let me know how it goes! I haven't had the chance to see it on an AMOLED screen yet :D,2015-07-21 06:37:09+00:00,ctamxod,2,t1_ct9zgkj,42510,androidthemes
+150,I don't even know what they were thinking.,2015-07-19 03:25:14+00:00,ct8b7nh,4,t1_ct74a30,102572,shortscarystories
+151,"I was messing around with Illustrator and came up with these.
+
+[DeviantArt post can be found here](http://jtaccinelli.deviantart.com/art/Ain-t-No-Mountain-High-Enough-Wallpaper-Pack-546887287?ga_submit_new=10%253A1437097311&amp;ga_type=edit&amp;ga_changes=1&amp;ga_recent=1) for those of you who are interested.",2015-07-17 01:50:07+00:00,ct63d5p,1,t3_3dkrcp,124,wallpapers
+152,Thanks. I'll get on to it as soon as I can :),2015-07-16 08:15:22+00:00,ct55j5z,2,t1_ct49mu8,57802,shortscarystories
+153,Someday. When TIME TRAVEL is a thing.,2015-07-16 08:15:10+00:00,ct55j22,2,t1_ct3ui89,97952,shortscarystories
+154,Oh come on. He said he only wanted to be friends. Its not his fault you took his flowers and stepped on them...,2015-07-16 08:14:27+00:00,ct55inq,2,t1_ct4o2qv,36279,shortscarystories
+155,"Its going alright. I've hit school running, so my weekdays are pretty busy. I was on holidays up til this week, so yeah. But hopefully I'll keep working on (and hopefully have finished) the files this Saturday and Sunday.",2015-07-16 08:13:58+00:00,ct55ids,2,t1_ct4knzf,41490,androidthemes
+156,"I'm that popular, huh? Its pretty damn cool my name is known cross-subs :D",2015-07-15 12:55:40+00:00,ct42wco,2,t1_ct40u61,6032,shortscarystories
+157,Thanks!,2015-07-14 11:56:41+00:00,ct2t9bs,4,t1_ct2sdg3,2926,androidthemes
+158,"I call them conceptual because they aren't ""made"", per say. I don't have files to actually give people that they can just slap on their phones. So in essence, they exist within concept oppose to real life. Sounds hippy as shit but that's why I keep calling them that. Mind you though, I always design these with the end in mind; everything I design I know how to make from start to finish, so I'm never making anything that's ridiculously outlandish that would never be able to be created with the tools available, be it Zooper or KLWP.",2015-07-14 06:52:26+00:00,ct2oell,2,t1_ct1suti,54012,androidthemes
+159,"This story has been taken down for violating Rule 1 and linking to an outside source. Apologies, but this is not the sort of work this sub is looking for.",2015-07-14 06:48:28+00:00,ct2obqk,1,t3_3d6uzr,24600,shortscarystories
+160,&lt;3,2015-07-14 06:45:52+00:00,ct2o9x2,2,t1_ct1rae7,56207,shortscarystories
+161,"I'm 15 as of March this year. I started out on the internet when I was 8, spent about 3 years derping around with flash games before I found horror in the form on Creeypasta. After binging out on stories for about a year, a friend recommened I try make my own. I was 12 going on 13 when I joined this sub. This place is my home away from home :D",2015-07-14 06:45:40+00:00,ct2o9rs,2,t1_ct1y7t5,45451,shortscarystories
+162,"This sub is honestly one of the most supportive communities I know, and I absolutely love it beyond words. Which is slightly ironic, it being a writing sub and all, but yeah. It's fantastic :)
+
+And thank you!",2015-07-14 06:44:19+00:00,ct2o8t8,2,t1_ct2b03w,25773,shortscarystories
+163,Oh.,2015-07-14 06:43:04+00:00,ct2o7wa,3,t1_ct1v4ug,49899,shortscarystories
+164,"Aw, shucks Queenie. You are still awesome :D",2015-07-14 06:42:55+00:00,ct2o7s7,2,t1_ct1pt2m,58706,shortscarystories
+165,Don't take my example kids; I know its over the word limit.,2015-07-13 11:47:22+00:00,ct1lz9y,1,t3_3d481v,40,shortscarystories
+166,"Wow, I'm glad I inspired you!",2015-07-13 06:22:25+00:00,ct1gw67,3,t1_ct0n0mn,60565,androidthemes
+167,"Nah, totally doing it JUST for Royal Blood. Let's face it; they are a damn good band.",2015-07-13 06:22:12+00:00,ct1gw0r,2,t1_ct0sdu0,48401,androidthemes
+168,Thanks so much! That really means a lot!,2015-07-13 06:21:51+00:00,ct1gvrh,2,t1_ct0p44j,55148,androidthemes
+169,"A homescreen heavily inspired by this [dribble shot](https://dribbble.com/shots/2143789-Day-07-Profile-Widget/attachments/392251) which I thought used gradients gorgeously.
+Main edits include changes to the functionality, icons, fonts, color and imagery.
+
+**RESOURCES:**
+
+ICONS: ""Compaticons"" by tatosXL
+
+FONTS: Cabin Bold/Semi-Bold/Regular
+
+**FILES:**
+
+*Files coming soon.*
+
+**LINKS:**
+
+Be sure to check out my [Facebook](https://www.facebook.com/jtaccinelli) and [DeviantArt](http://jtaccinelli.deviantart.com/) pages, where I post screens and other design stuff!",2015-07-12 11:59:59+00:00,ct0lf0n,1,t3_3d095o,263,androidthemes
+170,:D,2015-07-12 05:11:52+00:00,ct0evhf,1,t3_3cw1ct,81644,DarkTales
+171,"We made the sub private for the sake of the sub blackout. Hopefully, we will make the sub public within the next hour or so. Thanks for you patience!",2015-07-11 02:41:53+00:00,cszcgcy,1,t3_3csguf,52106,DarkTalesOOC
+172,"You need to install the Media Utilities app, then hit the menu button on your phone (or the three dots), and it should come up with a small pop up menu. In that pop up menu, there is a button that says ""Settings"". Hit that.",2015-07-11 01:48:51+00:00,cszaw7g,2,t1_csz7bln,6773,androidthemes
+173,"The good ol' ""Fight or Flight"" response kicked in, I guess.",2015-07-10 15:57:57+00:00,csyombu,1,t3_3css2w,6826,Unexpected
+174,"Hi! I'm a designer who works with Android based themes over at /r/androidthemes. Check out my posts for what I've done recently. I can't code worth a damn, but I sure can design you one hell of an interface. I can do material, but tend to stray away from it. PM me if you're interested!",2015-07-10 15:51:44+00:00,csyodnz,1,t3_3csqnd,7196,DesignJobs
+175,Hey there! Feel free to pm me!,2015-07-10 15:45:06+00:00,csyo4gm,1,t3_3ct24r,1209,DesignJobs
+176,#negativespacematters,2015-07-10 01:56:47+00:00,csy4qq5,3,t1_csxv0e4,17304,androidthemes
+177,"Thanks! And cakeday is the day in which you celebrate when you first joined reddit. So, its like a reddit birthday. So thanks for that too! 
+
+Also, all the processes will become clear once I get this up. This will take me a bit longer, considering everything I have to work out, but it should be up in a few days!",2015-07-10 01:54:47+00:00,csy4o9a,2,t1_csy4jm7,241,androidthemes
+178,"Yes I did! Also, how did it end up looking, if I might ask? I don't to see my creations in real world.",2015-07-10 00:26:46+00:00,csy1v1w,2,t1_csy1h6w,725,androidthemes
+179,"Damn, I KNEW that one slender line was stolen from SOMETHING! I'm kidding; love the way this looks! Kudos!",2015-07-09 23:16:41+00:00,csxzk9u,1,t3_3co9se,35495,androidthemes
+180,"Heyyo! Its my cakeday, so here's a screen to celebrate!
+
+__________________________________
+
+Resources:
+
+Icons: Batch Icons
+Fonts: Visitor
+
+*Files coming soon!*
+
+__________________________________
+
+This one-screen homescreen works on the concept of a dynamic grid. The left and right bars are progress bars; left display Battery, right displays Music Progress. The center squares, however, light up based on whether the app has a notification. This leads to an awesome and animate homescreen that will change frequently. And don't worry about the size; you can make it as big as you want. I just like the excessive whitespace.
+
+Keep an eye on my [Facebook](https://www.facebook.com/jtaccinelli) and [DeviantArt](http://jtaccinelli.deviantart.com/) pages for more designs like these!",2015-07-09 14:59:32+00:00,csxga2u,1,t3_3col8r,28,androidthemes
+181,"Heyyo! Its my cakeday, so here's a screen to celebrate!
+
+__________________________________
+
+Resources:
+
+Icons: Batch Icons
+Fonts: Visitor
+
+*Files coming soon!*
+
+__________________________________
+
+This one works on the concept of a dynamic grid. The left and right bars are progress bars; left display Battery, right displays Music Progress. The center squares, however, light up based on whether the app has a notification. This leads to an awesome and animate homescreen that will change frequently. And don't worry about the size; you can make it as big as you want. I just like the excessive whitespace.
+
+Keep an eye on my [Facebook](https://www.facebook.com/jtaccinelli) and [DeviantArt](http://jtaccinelli.deviantart.com/) pages for more designs like these!",2015-07-09 14:40:16+00:00,csxfkik,1,t3_3coiqj,19,androidthemes
+182,"Heyyo! Its my cakeday, so here's a screen to celebrate!
+
+__________________________________
+
+Resources:
+
+Icons: Batch Icons
+Fonts: Visitor
+
+*Files coming soon!*
+
+__________________________________
+
+This one works on the concept of a dynamic grid. The left and right bars are progress bars; left display Battery, right displays Music Progress. The center squares, however, light up based on whether the app has a notification. This leads to an awesome and animate homescreen that will change frequently. And don't worry about the size; you can make it as big as you want. I just like the excessive whitespace.
+
+Keep an eye on my [Facebook](https://www.facebook.com/jtaccinelli) and [DeviantArt](http://jtaccinelli.deviantart.com/) pages for more designs like these!",2015-07-09 14:31:51+00:00,csxf9oz,1,t3_3cohkp,67,androidthemes
+183,"Its my cakeday! As such, here is a screen to celebrate!
+
+___________________________________
+
+RESOURCES:
+
+Icons: Batch x16
+
+Font: Visitor
+
+___________________________________
+
+For those confused as to how this would work, the grids left and right rows would be made of progress bars. Those progress bars would show a certain data set; Left shows battery, right shows Track Progress. The center however, would have squares that light up when you have a notification. That way you will constantly have an adapting grid and an interesting homescreen!
+
+Oh, and don't worry about the size; you can make it as large or as small as you want. I just like the excessive whitespace.
+
+Feel free to check out my Facebook and DeviantArt for designs I make!
+
+Files for this will also be up soon. Should I make another tutorial post or no? I'm starting to wonder if that is bugging people.
+
+'Til next time.",2015-07-09 14:20:31+00:00,csxev6p,1,t3_3cofwz,182,androidthemes
+184,"I personally wasn't aware of the fact that Google had this resource, but I've found it now, and am sharing it with you lot. Hope its helpful!",2015-07-09 03:13:28+00:00,csx0ftd,1,t3_3cmth1,27,androidthemes
+185,"Well, thank you for the thanks :D",2015-07-07 23:22:14+00:00,csvktlb,2,t1_csvfk2z,8357,androidthemes
+186,PM with your email and I'll send 'em over in the morning!,2015-07-07 14:59:44+00:00,csv0hc9,2,t1_csuzr2l,1219,androidthemes
+187,:D,2015-07-07 06:07:10+00:00,csups58,2,t1_cstyvku,47122,androidthemes
+188,"I've never had the chance to learn how to use that :P Though, I've heard its absolutely fantastic. But thank you!",2015-07-07 06:07:02+00:00,csups1t,2,t1_csu3fob,40189,androidthemes
+189,I WILL.,2015-07-07 06:06:35+00:00,csupro8,2,t1_cstyaz8,47999,androidthemes
+190,"Icons, fonts and other info (including the inspiration) be found here:
+
+[Deviant Art](http://jtaccinelli.deviantart.com/art/Pitch-544450975)
+
+I promise I will have the files up by tomorrow! Keep checking that DA post, and they should pop up at some point. And all you people complaining about Widget Locker; don't worry. I'm putting this together for AC Display :). Just putting it out there that my DA page is now harboring all my screen designs, so if you ever wanna look back at them, just pop on there.
+
+EDIT: Also, I can imagine it might be a bit confusing; the little notches on each of the screens are representations of data. The one on the main screen is for battery, the one on the music screen is song progress and the one on the notification screen is for storage levels (how full your sdcard/internal storage is).
+
+EDIT 2: [Files &amp; Instructions!](https://www.reddit.com/r/androidthemes/comments/3cf67y/tutorial_pitch_an_android_homescreen/)",2015-07-06 14:52:24+00:00,cstu9ir,1,t3_3cb293,115,androidthemes
+191,That looks sick! Kudos!,2015-07-02 13:15:06+00:00,cspt6z3,4,t1_cspsuje,790,androidthemes
+192,I'd love to get into it. Is Google+ really worth it though? I don't exactly hear good things about it,2015-07-02 11:52:07+00:00,csprc6c,4,t1_cspqrl0,1944,androidthemes
+193,"Well, I DO have a facebook page, albeit noone actually caring about it xD. I always assumed that DeviantArt was for art? And thanks! That means a lot :D",2015-07-02 03:40:25+00:00,cspi2t6,2,t1_csph2kk,2067,androidthemes
+194,And free! I love it with a passion.,2015-07-02 01:16:27+00:00,cspdnp0,4,t1_cspddl1,526,androidthemes
+195,"Sure! Its the Bebas Neue Bold &amp; Light. Zooper has the Bebas Neue built it, but you have to get the light one. Here's the link!
+
+http://fontfabric.com/bebas-neue/",2015-07-02 01:05:13+00:00,cspdaoy,2,t1_cspd5c6,275,androidthemes
+196,"The icons exist, of course. I linked them to another guy in the comments. Next time around, I'll link them right off the bat. Perhaps next time, I should use the inspiration tag oppose to the WIP one?",2015-07-01 22:11:05+00:00,csp7h88,4,t1_csp789p,410,androidthemes
+197,"He said ""the shit"", not ""is shit"".",2015-07-01 22:02:52+00:00,csp76iv,4,t1_csp6zr8,313,androidthemes
+198,"Can I just ask; why not?
+
+I mean, I have all the files; they are all phone ready. I could get this created in the space of a day, maybe even a few hours. Simply making it in Photoshop is:
+
+A.) A lot clearer and easier
+
+B.) A lot cleaner in terms of resolution (my phone is 360x480)
+
+C.) Just generally cooler
+
+What would you consider a theme?",2015-07-01 20:50:25+00:00,csp4h91,2,t1_csoodg0,24352,androidthemes
+199,"The icons are compaticons. I can link you once I get on my computer, if you want!
+
+EDIT: [Here you are!](http://tatosxl.deviantart.com/art/Compacticons-479216575)",2015-07-01 20:39:32+00:00,csp41lt,2,t1_csouwdq,13296,androidthemes
+200,I dropped it into Photoshop and through a gradient map over it. Just fuck around with the colors and choose two shades that are close to each other and you are good to go!,2015-07-01 13:18:17+00:00,cson0cj,4,t1_csomz1v,84,androidthemes
+201,"Photoshop. It's not completely real just yet, but if there is enough interest, I'll make it into a proper widget set!",2015-07-01 13:14:13+00:00,csomwk2,2,t1_csomver,73,androidthemes
+202,"Heh, its not actually a link to anything other than my facebook page. Its just a photoshop mock-up atm. If enough people like it, I'll make the files. I just avoid doing it bc my phone is a piece of shit and I would rather not waste time on something noone will like.",2015-07-01 13:10:34+00:00,csomt5g,4,t1_csomrh6,109,androidthemes
+203,What was the first option?,2015-07-01 12:46:02+00:00,csom7o7,2,t1_csom5uq,129,androidthemes
+204,Thanks!,2015-07-01 12:39:50+00:00,csom2kr,2,t1_csom1xb,49,androidthemes
+205,"[Shamless Self-Plug](https://www.facebook.com/jtaccinelli/posts/795509703901927)
+
+EDIT: Changed where it linked to.",2015-07-01 12:37:24+00:00,csom0n4,1,t3_3bqv03,634,androidthemes
+206,"I have next to no idea. Music Utilities is absolute shit, but I can't find an alternative. You could perhaps try your hand at using Tasker, though I'm not sure if thats what it could be used for.",2015-07-01 07:10:38+00:00,csogsz4,2,t1_csogo32,441,androidthemes
+207,"I did mean that, however I only use it because I don't know of any other apps that have the same or similar functionality. If you have any other suggestions, let me know.",2015-07-01 07:01:57+00:00,csogn79,2,t1_csofioe,3441,androidthemes
+208,"Oo! Sounds great! Can't wait!
+
+(Hehe. Rhyming.)",2015-07-01 00:49:52+00:00,cso6wg5,3,t1_cso6q77,602,androidthemes
+209,"The bot is one way, but I tend to prefer using Photoshop Mockups. Just search up ""Phone Mockups"" and it'll come up with a bunch of options. Knock yourself out! Its slightly more complicated than using the app, but I prefer the control :P",2015-06-30 23:34:59+00:00,cso4ria,1,t3_3bnwnw,16716,androidthemes
+210,Sounds awesome! I can't wait :D,2015-06-30 14:17:44+00:00,csnjb9y,1,t3_3bmll0,4328,androidthemes
+211,"Right, sorry. To make a 7x6 widget just make a zooper widget and resize it so its 7x6 squares on the desktop grid. And the .apk isnt the widgets, but the icon pack that comes later on. The Zooper Skins are in the folder that says Zooper Skins. You drop those into the folder thats like /sdcard/ZooperWidget/Templates and when you tap on it, click the sd card 
+
+Thanks for letting me know, I'll stick it onto the tutorial too!",2015-06-30 13:46:34+00:00,csnibx6,2,t1_csni85o,213,androidthemes
+212,There are already variables built into Zooper for notifications. But thanks (:,2015-06-30 12:47:27+00:00,csngqyg,6,t1_csnglgv,392,androidthemes
+213,"For those of you wondering what on earth this is doing reposted, it disappeared of it the page for what I can only assume is a safeguard against shortened links. I've removed all of them from the post now, so should be good. Sorry.",2015-06-30 09:33:26+00:00,csndjyt,1,t3_3bm4jd,61,androidthemes
+214,"For those wondering why this is back, the post just suddenly disappeared and I don't know why. Sorry about that.",2015-06-30 09:31:30+00:00,csndj0p,1,t3_3bm4ga,28,androidthemes
+215,"I made a post called [WIP] Conceptual Homescreen yesterday. I didnt want to repost the same images.
+
+http://www.reddit.com/r/androidthemes/comments/3bhngw/wip_conceputal_homescreen_lime/
+
+As much as I did link this in the main post, here it is again.",2015-06-30 08:59:54+00:00,csnd3jp,2,t1_csncvpw,933,androidthemes
+216,Files are now up! http://redd.it/3blorr,2015-06-30 06:26:49+00:00,csnamrb,1,t3_3bhngw,79476,androidthemes
+217,"**TAKING IT FURTHER**
+__________________________________________
+
+""Further?"" I hear you say. Yes, further.
+
+1. Install Glyphs by Tokem (its an icon pack) from inside the folder of things you downloaded. If that isn't your style or there aren't enough icons for you, I recommend using [Min](https://play.google.com/store/apps/details?id=com.ryanmkelly.me.min&amp;hl=en).
+
+2. Set your Drawer Color to #9eec22
+
+3. Remove any background color.
+
+4. Set your Drawer Style to ""Vertical""
+
+_______________________________________
+
+Bam! Now your Drawer fits your homescreen!
+
+_______________________________________
+
+If you guys liked this, really honestly liked it, I have a facebook page where I put this and other stuff relating to my design work up:
+
+https://www.facebook.com/jtaccinelli
+
+If you guys LOVED it, I'm of course giving this away from free, but donations are welcomed. I'm saving up for a better computer and a better phone, so if you want to donate to the cause, go ahead! My PayPal email is:
+
+jtaccinelli@gmail.com
+
+Thank you guys so much for everything!",2015-06-30 06:22:58+00:00,csnak6h,2,t1_csna7jx,1085,androidthemes
+218,"Righto, here it is guys! Completely free and working. Here's the link to the other post for people who haven't seen this yet: http://redd.it/3bhngw
+
+__________________________________________
+
+This was made with:
+
+- Zooper Widget
+
+- Media Utilities
+
+- Nova Launcher
+
+- Widget Locker
+
+- Photoshop
+
+Before you start throwing tomatoes, I made it in Zooper because more people would be able to use it. Kustom only really works for KitKat, which I do not have.
+
+___________________________________________
+
+**SET UP:**
+
+_______________________________________________
+
+*Homescreen*
+
+1. Nova Desktop Grid should be 7x10.
+
+2. Turn off the notification bar and navigation bar, if you can.
+
+3. Set your Desktop Transition to ""Wipe"".
+
+4. Set Media Utilities to send information to Zooper if you haven't already, and check ""Blank MetaData when Paused""
+
+4. Dump all shortcuts you have in the trash, and create three clean pages.
+
+5. Create one 7x6 Zooper Widget in the center of each page.
+
+6. Load ""clock"" in the center, ""music"" to the left and ""notifications"" to the right.
+
+7. Go through and set each widgets ""On-Tap Action"" to ""Disabled""
+
+________________________________________________________________
+
+*Lockscreen*
+
+1. WidgetLocker should be set up without an Anchor Size and with a 7x10 maingrid
+
+2. Put a 7x6 Zooper Widget in the center.
+
+3. Load up ""unlock"".
+
+4. Long press on the widget and disable touches.
+
+5. Long press and add a custom slider (use the default).
+
+6. Position it in the center, so that the center of lock is over the widget.
+
+7. Go into the customisation options and disable the left and right sliders.
+
+8. Tap in the center and set its action to ""Unlock"".
+
+9. Go into ""icon"" and hit ""file"" and search for the image in the folder called ""Empty"".
+
+____________________________________________________________
+
+And your done! Enjoy your new homescreen!",2015-06-30 06:04:53+00:00,csna7jx,1,t3_3blorr,306,androidthemes
+219,"Its going to be free, with the option to donate. It will also be made in Zooper, which will allow you to make whatever edits you like!",2015-06-30 05:59:00+00:00,csna3ax,2,t1_csn9rfh,945,androidthemes
+220,"I just found another one that works incredibly well. At this rate, I'll have Lime up for Zooper and KLWP by the end of the week :D",2015-06-30 04:28:09+00:00,csn7wpx,4,t1_csn7fek,1034,androidthemes
+221,"I apologise, my sweet sweet friend. And thank you; I'll keep that in mind (:",2015-06-30 00:06:18+00:00,csmzk32,4,t1_csmzhmu,123,androidthemes
+222,"I really honestly hate sounding like a flat soccer ball, but damn. I already told /u/TheBeeve about this. This is my portfolio work, if it works out, which, it seems, it did. I'm incredibly flattered that someone would go through the effort to make this, but this is my job. I need this. For that reason, I'm not going to be providing the icons. Thank you anyways (:",2015-06-29 23:47:57+00:00,csmyxrb,2,t1_csmmi4g,20002,androidthemes
+223,"I've fucked up one too many phones in my lifetime... I just gotta save up for a nexus, then Ill be good.",2015-06-29 23:42:09+00:00,csmyqqs,4,t1_csmipi7,25480,androidthemes
+224,I cant tell if you are serious. I live in Australia...,2015-06-29 23:25:32+00:00,csmy6b2,8,t1_csmy0iy,283,androidthemes
+225,Huawei Ascend Y201,2015-06-29 15:22:43+00:00,csmfzg4,2,t1_csmfvn2,181,androidthemes
+226,I'm definitely going to work on it :D,2015-06-29 14:59:29+00:00,csmf6ue,3,t1_csmf2is,219,androidthemes
+227,[Shhhh](http://i.imgur.com/jhlG9bG.png)...,2015-06-29 14:56:17+00:00,csmf30k,2,t1_csmerm3,583,androidthemes
+228,"I WAS REALLY LOOKING FORWARD TO MAKING THIS WORK, DUDE. Sorry. It's just annoying to keep running into obstacles.",2015-06-29 14:49:47+00:00,csmevdz,2,t1_csmekx2,539,androidthemes
+229,"All good; I'm way more familiar with Zooper than I am Kustom so I'm going to make it on Zooper first, then KWLP :D",2015-06-29 13:38:36+00:00,csmcrf6,2,t1_csmcl7y,400,androidthemes
+230,Thanks!,2015-06-29 12:27:03+00:00,csmb55n,2,t1_csmb3m2,131,androidthemes
+231,"I would say yes, but I use this work in my portfolios elsewhere. I hate to sound up myself but I'd prefer to keep my work my own... Sorry. Thanks for the offer anyways c:",2015-06-29 12:03:14+00:00,csmap57,2,t1_csm9yha,2743,androidthemes
+232,Oh if only...,2015-06-29 11:43:53+00:00,csmadbk,5,t1_csm9xwr,1644,androidthemes
+233,"Oh, it's just going to be made with widgets. I'm just gonna make em and tweak em right on my phone, I guess?",2015-06-29 09:19:54+00:00,csm8dt6,6,t1_csm8d1i,97,androidthemes
+234,"No, I just have a shitty phone.
+
+EDIT: Wait, are we talking about the phones or Photoshop version?",2015-06-29 09:14:16+00:00,csm8b5o,4,t1_csm88r9,309,androidthemes
+235,"ICS :P
+
+And thanks!",2015-06-29 08:59:59+00:00,csm84fx,2,t1_csm7tha,1371,androidthemes
+236,Is KWLP available on ICS? I have a crappy phone...,2015-06-29 08:59:48+00:00,csm84cu,3,t1_csm7sxe,1429,androidthemes
+237,"Something I put together today in Photoshop, and am currently making on my phone with Zooper. If there is enough interest, I'll post up the files once I'm done :)
+
+Enjoy!",2015-06-29 08:22:49+00:00,csm7mmh,1,t3_3bhngw,36,androidthemes
+238,How my ass feels after spicy food.,2015-06-22 12:53:16+00:00,csep9sv,1,t3_3apb9l,2825,interestingasfuck
+239,"For those who are interested in buying, I would recommend getting one of the following:
+- Laptop Skins
+- Studio Pouches
+- Mugs
+- Notebooks
+- Tote Bag
+- Drawstring Bag",2015-06-20 10:22:03+00:00,cscsdf2,1,t3_3ahyqs,75,idesignedthis
+240,What on earth is Voat? I feel like I'm missing something huge here.,2015-06-20 05:49:58+00:00,cscohuc,1,t3_3a9mrr,160191,ShortScaryStoriesOOC

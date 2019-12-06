@@ -7,6 +7,8 @@ from psaw import PushshiftAPI
 from pprint import pprint
 from dateutil import tz
 import pathlib
+import praw
+from prawcore.exceptions import NotFound
 
 from Data.suspicious_accounts import suspicious_account_usernames, suspicious_account_usernames_with_posts
 from Tools.util import random_date, load_user_posts
@@ -21,6 +23,9 @@ UTC_TZ = tz.gettz('UTC')
 NYC_TZ = tz.gettz('America/New_York')
 
 API = PushshiftAPI()
+PRAW = praw.Reddit(client_id='H8zTMC4ffxZiIg',
+                   client_secret='xRf5E5UR6K3EjTnQ1HdS4jGNXSs',
+                   user_agent='checkbanned by u/_____________l')
 
 
 def extract_author_metadata(submission_or_comment):
@@ -133,6 +138,8 @@ def sample_normal_users(num_users):
             metadata = extract_author_metadata(submission)
             if metadata is None:
                 continue
+            if check_for_ban(metadata['author']):
+                continue
             u = metadata['author'].lower()
             if 'bot' not in u and 'auto' not in u and 'network' not in u and u not in already_sampled:
                 metadata_dicts.append(metadata)
@@ -215,8 +222,7 @@ def calc_daily_downtime(time_hist):
         return moving_sum(time_hist, window_size=5)
 
 
-def add_daily_downtime(filename):
-    df = pd.read_csv(DATAPATH.joinpath(filename), index_col=0)
+def add_daily_downtime(df):
     try:
         users = df['author'].values
     except KeyError:
@@ -250,15 +256,53 @@ def add_daily_downtime(filename):
     return df
 
 
+def check_for_ban(usesrname):
+    try:
+        if getattr(PRAW.redditor(usesrname), 'is_suspended', False):
+            # account is suspended
+            return True
+    except NotFound:
+        # account is shadowbanned or deleted
+        return True
+    return False
+
+
+def remove_banned_users(filename):
+    df = pd.read_csv(DATAPATH.joinpath(filename), index_col=0)
+    new_df = df.copy(deep=True)
+    banned_users = []
+    for user in df['author'].values:
+        if check_for_ban(user):
+            banned_users.append(user)
+            new_df = new_df.loc[new_df['author'] != user, :]
+
+    print(len(banned_users))
+    return new_df
+
+
+def aggregate_normal_users(filenames):
+    dfs = []
+    fname = 'large_unfiltered_NAs_final.csv'
+    for filename in filenames:
+        dfs.append(pd.read_csv(DATAPATH.joinpath(filename), index_col=0))
+    agg_df = pd.concat(dfs)
+    agg_df = add_daily_downtime(agg_df)
+    agg_df.to_csv(DATAPATH.joinpath(fname))
+
+
 if __name__ == '__main__':
     # get_user_posts('BlackToLive')
     # generate_user_post_database(suspicious_account_usernames_with_posts)
-    # sample_normal_users(1000)
-    # users = pd.read_csv(DATAPATH.joinpath('normal_accounts3.csv'))['author'].values
-    # print(users)
-    # generate_user_post_database(users, 'NormalAccounts2')
+    # sample_normal_users(2000)
+    # add_post_numbers('normal_accounts3.csv')
     # add_post_numbers('suspicious_accounts.csv')
-    df = add_daily_downtime('All_Accounts_with_w2v.csv')
-    df.to_csv('All_Accounts_with_w2v_and_dd.csv')
-    # pass
+    # df = add_daily_downtime('All_Accounts_with_w2v.csv')
+    # df.to_csv('All_Accounts_with_w2v_and_dd.csv')
+    # add_post_numbers('normal_accounts.csv')
+    # remove_banned_users('normal_accounts.csv')
+    # aggregate_normal_users(['normal_accounts.csv', 'normal_accounts2.csv', 'normal_accounts3.csv'],
+    #                        filtered=True)
+    df = pd.read_csv(DATAPATH.joinpath('suspicious_accounts_filtered.csv'), index_col=0)
+    df = add_daily_downtime(df)
+    df.to_csv(DATAPATH.joinpath('suspicious_accounts_filtered.csv'))
 

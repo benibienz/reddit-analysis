@@ -1,0 +1,841 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"only issue is i have had horrible luck with WebDav in the past.  Is this only based off that or what?
+
+Also need Outlook Plugin for shared public links etc",2016-11-09 02:04:54+00:00,d9s1deo,,t1_d9e4m18,,msp
+1,What rmm tool?,2016-10-28 01:15:35+00:00,d9atj9q,1.0,t3_59rmz5,1813.0,msp
+2,I wish it had a backup on boot or backup right away on missed backup,2016-10-25 22:41:59+00:00,d97p2mw,1.0,t3_59brfv,24615.0,msp
+3,"Don't use it myself but from what I'm told it's limited, I think going from one of the top products to AEM would be a downgrade
+
+N-CENTRAL integrates with autotask",2016-10-23 17:20:39+00:00,d94ffwc,1.0,t3_58yzgd,7392.0,msp
+4,That's cheap.,2016-10-20 01:39:12+00:00,d8zoerp,1.0,t3_58drp6,5217.0,msp
+5,PM d,2016-10-12 21:20:18+00:00,d8pda2l,1.0,t3_574qbq,20202.0,msp
+6,"Nothing different than any other proposal.  You have items (phones, ata, headsets) and services (VoIP user, fax user, extra did, etc) and onboarding fees
+
+Adjust the numbers.....",2016-10-12 01:21:29+00:00,d8o6j0v,1.0,t3_570fqx,14834.0,msp
+7,Logoed dress shirts &gt; logo polos,2016-10-06 22:41:54+00:00,d8h3ui7,1.0,t3_5682bs,1959.0,msp
+8,Mind sharing,2016-10-05 17:01:56+00:00,d8f88ou,2.0,t1_d8ep2wa,39829.0,msp
+9,I use @oit_ray,2016-09-30 03:43:03+00:00,d87votf,1.0,t3_553tbx,31293.0,msp
+10,"Centrestack seems to be good, was talking to them.",2016-09-27 04:45:58+00:00,d83qosn,1.0,t3_54oink,7096.0,msp
+11,"I use dashlane but didn't really integrate with anything other then web stuff.
+
+Looking for this as well, n central integration, ideall",2016-09-24 14:57:01+00:00,d805tjb,1.0,t3_54afdw,265.0,msp
+12,I use the Solarwinds Backup which is IASO.  Working good,2016-09-22 00:18:07+00:00,d7wt2te,1.0,t3_53tboi,36349.0,msp
+13,"Do you renew warranty for customers Dell, etc computers and servers?
+
+I have an issue with almost all Win 7 machines with Security Manager installed.  Security Center says no antivirus.
+
+Also trying to see what other scripting other msp are running.",2016-09-21 22:52:54+00:00,d7wplo4,2.0,t1_d7wp44f,682.0,msp
+14,What's the pricing like on that?,2016-09-20 14:08:24+00:00,d7ukz8b,2.0,t1_d7twlig,49979.0,msp
+15,Costs?,2016-09-20 14:08:03+00:00,d7ukyo7,2.0,t1_d7t3bum,88418.0,msp
+16,"I'm looking for point in the right direction.
+
+Azure seems to go down.
+I don't really know the infrastructure setup of I was to collocate",2016-09-17 02:56:45+00:00,d7q4y6f,1.0,t3_530lrz,74500.0,msp
+17,"DNS made easy and GoDaddy for DNS, in motion hosting for vps",2016-09-02 03:28:31+00:00,d76c1wb,1.0,t3_50pstz,19816.0,msp
+18,"I'm trying to wrap my head around this.
+
+1 - so every client got their own physical host?
+2 - did you go new or refurbished for servers? aftermarket drives? What was the most common storage config?
+3 - with this I assume you built a vm for dc, files and a vm for terminal/citrix?
+4 - how did you handle scanning?",2016-08-28 19:55:49+00:00,d70b70f,1.0,t3_4smoai,4004745.0,msp
+19,"I didn't find it unreasonable either.  If you don't have any bitcoin account is a pain to acquire.  With Proven I could use a credit card and not drive to the city with cash in hand.
+
+From the initial diagnoses to recover was only 2-3 days.  Well worth it",2016-08-18 13:29:01+00:00,d6mjtfi,3.0,t1_d6m6m0t,34024.0,sysadmin
+20,I have used Proven for a client hit with Locky.  3 grand all done.  The clients insurance paid for it,2016-08-18 02:22:54+00:00,d6m2y4r,1.0,t3_4y9nnp,1029.0,sysadmin
+21,"I supply phone, when they leave the number stays",2016-08-10 22:03:03+00:00,d6cf8te,1.0,t3_4x2nsg,23844.0,msp
+22,I'm out East but handle clients in Manhattan.  Happy to help if i can,2016-07-27 02:52:52+00:00,d5sgt30,1.0,t3_4uqngm,24390.0,sysadmin
+23,This a server?  N able you just need to install openmanage and SNMP easy enough,2016-07-24 16:37:30+00:00,d5ov4vf,5.0,t1_d5onzfr,14971.0,msp
+24,Interested as well if you mind sharing,2016-07-23 07:08:06+00:00,d5nepuu,2.0,t1_d5n8hwy,14489.0,msp
+25,"I've stopped giving options for things.  Everything is virtualized.  Backups are only image based, no bdr talked about at this time as my market doesn't seem to want to spend it.
+
+We do all backups internally with Veeam.  Pricing is good that you can get everyone as an image",2016-07-20 22:47:26+00:00,d5k7ijn,1.0,t3_4tsma3,15115.0,msp
+26,"Meraki with Advanced Security
+Appriver Spam Filtering or Office 365
+OpenDNS for Forwarders and Agent
+Bitdefender from N-Able
+Limited Users",2016-07-20 04:34:27+00:00,d5j6esv,1.0,t3_4tocav,16076.0,msp
+27,I stopped putting details on quotes.,2016-07-19 23:25:38+00:00,d5iuht2,1.0,t3_4tla0i,33677.0,msp
+28,Where do we see the template?,2016-07-19 05:55:05+00:00,d5htybl,4.0,t1_d5hpb99,9985.0,msp
+29,"Cost on this?
+Does your website theme come with content?",2016-07-17 12:40:02+00:00,d5fk962,2.0,t1_d5fj2gh,3959.0,msp
+30,"I have two.  One is on a contract, only $200/month but they are small.  Other has a bunch of Mac machines and 3 Windows pc.
+
+I discount both not bad clients",2016-07-16 23:09:26+00:00,d5f1mny,1.0,t3_4t50bc,27439.0,msp
+31,"Great approach.  Most offices love it when you bring in some Dunkin Coffee and Donuts.  Costs you nothing but they remember it.  If an employee leaves for a different company and computer problems, your the first they remember.  ",2016-07-15 22:37:49+00:00,d5dwx1x,1.0,t3_4t1krn,2608.0,msp
+32,How can start this on a small scale?,2016-07-13 15:07:57+00:00,d5and6u,1.0,t3_4smoai,13073.0,msp
+33,Meraki for firewall the SSl VPN on the server?,2016-07-10 23:10:41+00:00,d577agh,1.0,t3_4s5mag,32262.0,msp
+34,"Have not had an issue, have our setup on 2 Mac's and 7 pc for a client.  Has revisions and I do hyper backup",2016-07-09 02:44:50+00:00,d554bvr,3.0,t1_d550wzk,6160.0,msp
+35,"I'm not a big datto fan but the Datto Drive is working great.
+
+So does cloud statipn",2016-07-08 23:04:49+00:00,d54wvbu,1.0,t3_4rw1v5,17666.0,msp
+36,"Lots of bs on resumes.  I find people list Server 2012, HyperV, different roles but have no idea what they are and have just heard the name.
+
+Annoying.  I do phone interview then on person",2016-07-08 21:11:19+00:00,d54sk18,1.0,t3_4rw5zr,9564.0,msp
+37,This sounds good.  How easy is that too share amongst users?  Accessible offline?,2016-07-08 17:02:38+00:00,d54gwuy,2.0,t1_d54gt4p,133.0,msp
+38,"Exactly, network documentation, server info, access points etc.
+
+I see everyone talk about these expensive programs i just need basic notes for the clientsv that we can access on phones and computers in the field of in the office.
+
+I see Dashlane has notes which I'll check out later",2016-07-08 16:36:14+00:00,d54fo2z,2.0,t1_d54eo84,1256.0,msp
+39,Did you do the gpo ?,2016-07-07 20:59:24+00:00,d53curk,2.0,t1_d53bu8r,1214.0,msp
+40,I worked with a use here.  It's on going.  The initial round to get me going from nothing was about $1500.  He's implementing new things for me as projects,2016-07-07 18:49:37+00:00,d536cfr,3.0,t1_d535com,1159.0,msp
+41,I paid a consultant to get mine setup as I didn't have enough time to do it,2016-07-07 16:23:00+00:00,d52z1hc,1.0,t3_4roujf,6646.0,msp
+42,It is and pricing is negotiable depending on how many other things you do with them.  Great support.  I use defaults but enable closed mode and block zip and exe,2016-07-06 00:29:54+00:00,d50r3rp,2.0,t1_d50na2j,5795.0,msp
+43,I use apprivers as I get office 365 from them,2016-07-04 00:58:18+00:00,d4ya1oo,1.0,t3_4qz5oj,98449.0,msp
+44,"Since you already know there are unhappy why don't you try to fix the issues so it doesn't affect the other corner.
+
+What complaints do they have?",2016-07-02 15:33:37+00:00,d4wnn9d,1.0,t3_4qx7g8,7789.0,msp
+45,"The client is running 1 VM of 2012 R2 for DC/File, then 5 VM of Windows 7 due to some reason I can't explain from old tech.  They complain about speed locally and remotely.  Looking at performance monitor I see the IO spiked most.  It also doesn't help they are out of space and on SATA Drives.
+
+I originally quoted 6 x 600GB 10K SAS in Raid 10.  These are from Xbyte Only have 1 year warranty but Dell drives.
+
+This was about $1200.  I have around that + $200-250
+
+I personally run 850 EVO in my servers that are handling RMM tool, VM for Quickbooks, Screenonnect, DC, and no issues yet.  
+
+But I don't want to have an issue down teh road.  
+",2016-07-01 23:08:24+00:00,d4vzsms,2.0,t1_d4vqg0r,13584.0,sysadmin
+46,I'm on the higher plan but just started out,2016-06-29 00:38:11+00:00,d4ry9oj,1.0,t3_4qcacj,6440.0,msp
+47,I do.  I'm waiting till after 5 to see what I can pull.  I'm pretty sure any software key recovery will not give me the true server key and I'm not sure you can find Rds info,2016-06-28 20:19:39+00:00,d4rnqyw,1.0,t3_4qbicd,541.0,msp
+48,"Removing doesn't break anything else?
+
+Steps for doing just remove the role?  ",2016-06-28 19:25:51+00:00,d4rl9r2,1.0,t3_4qb5g6,1411.0,msp
+49,Annoying to do on a bunch of machines.  Tried quick and online repair which didn't work needed to run the uninstaller from MS then fresh install,2016-06-26 15:33:21+00:00,d4ookf6,5.0,t1_d4omph5,3497.0,sysadmin
+50,"/profile gets me through this.  See option for default.
+
+Good enough for right now.  Invested enough time in this migration... emergency job ad the current SBS server has data corruption due to raid failure.
+
+I'll reach out to Appriver to see if they have seen the issue.
+
+I really hate this Click2Run nonsense, seems like it has more issues than older versions",2016-06-26 03:54:38+00:00,d4oa0n4,3.0,t1_d4o96sw,1746.0,sysadmin
+51,"I don't think you can set a default profile of doing that way.
+
+I'll try command in a little bit",2016-06-26 03:25:32+00:00,d4o96sw,2.0,t1_d4o6hp2,5318.0,sysadmin
+52,"Thanks guys called them to discuss.  I bet they just send bitcoin and decrypt.  But I rather use CC and get this done.  Left message and will try on Monday.
+
+Thanks",2016-06-25 14:56:59+00:00,d4njo34,3.0,t1_d4mqxoj,64794.0,msp
+53,"I have wanted to try a Z1 for small clients but was always told by sales to not.
+
+I have standardized on Meraki for clients.  I did use Zyxel and have tried Ubiquiti USG.  The USG seems promising but to soon to tell
+
+So MSP here are deploying Z1 to small offices say 1 server and 5 computers plus wifi?",2016-06-23 05:36:33+00:00,d4kgi0b,1.0,t3_4p99s7,83506.0,msp
+54,We do this in n able.  Taskbar icon,2016-06-23 01:59:39+00:00,d4k99vp,1.0,t3_4p29fp,172842.0,msp
+55,It happens.  But you don't want clients that don't value the msp.  Especially ones that don't respond to calls and emails.  ,2016-06-23 01:58:18+00:00,d4k97zv,1.0,t3_4pe2j4,3895.0,msp
+56,The FreePBX route concerns me.  I want to be able to have phone support.  I looked at 3cx before but didn't get far with it.,2016-06-22 00:20:18+00:00,d4iqpji,2.0,t1_d4iprlt,1506.0,msp
+57,"My cost for rmm, av is $2.  Servers are $6.
+I don't use any noc services.  Just our staff.
+Reports are free",2016-06-18 21:55:57+00:00,d4eptcc,1.0,t3_4oqgqp,568.0,msp
+58,"I signed up, getting website done etc.
+
+So far good experience but only in onboard stage",2016-06-13 00:59:10+00:00,d46ph38,1.0,t3_4nsia3,10764.0,msp
+59,Looking to go as last expensive as possible.  Doubt it will ever be used for movies.,2016-06-11 15:28:16+00:00,d44xtj1,2.0,t1_d44r7gy,17335.0,projectors
+60,"Heard this with the cloud version.
+
+I run on a 100/35 connection on a single core, 4gb vm and no issue at all.
+
+Just added two more licenses",2016-05-31 22:42:18+00:00,d3r07cy,1.0,t3_4lv7kl,33070.0,msp
+61,I bet if I played I could .,2016-05-31 06:21:06+00:00,d3q3rkx,3.0,t1_d3q255k,4227.0,msp
+62,"Few calls, I do about 15 private clubs, all simple fixes.
+
+Went out for one break fix client for time and a half.",2016-05-31 04:51:17+00:00,d3q1n1i,1.0,t3_4lsbkg,18310.0,msp
+63,Believe you have to add it manually through camera management. ,2016-05-30 18:11:47+00:00,d3pe14u,1.0,t3_4lq3a4,8961.0,sysadmin
+64,"i haven't looked at pricing but $20 SSL makes it worth it i think.
+
+almost same price on the domains
+
+if you wanted to you can make a landing page and then the customers sign up under you as registrar",2016-05-30 06:14:47+00:00,d3ow1pz,3.0,t1_d3okw3d,22307.0,msp
+65,We move them all to our reseller account with go Daddy ,2016-05-29 13:59:06+00:00,d3o0nf8,1.0,t3_4lk43w,8856.0,msp
+66,"Easy.  You have Ingram?
+
+Took about 5 minutes of work ",2016-05-28 00:06:00+00:00,d3mfdl5,1.0,t3_4lcyp0,8918.0,msp
+67,I think you will see that Hosted VOIP tends to price itself out of markets of that size.  I find I can sell to under 10 user but over that I bring in my NEC installer.  ,2016-05-22 23:53:28+00:00,d3fqo0o,1.0,t3_4kkyg0,3671.0,msp
+68,"What insurance do they have to have?  
+
+I currently have a tech that started as 1099 as I was only using to fill missing times but now is full time.  Reading the IRS site he should be a payroll employee since I schedule him and he does work as I want.
+
+He is giving me push back as I guess he likes the check without taxes.
+
+Confused as what I should do",2016-05-22 00:06:20+00:00,d3enxjw,1.0,t3_4kfjrc,9693.0,msp
+69,"Did you have your own Corp?
+Own insurance?
+
+I'm trying to figure this out but if your a 1099 for another company you need to hold the insurance right?  Liability and business insurance?
+
+What happens if a 1099 tech falls off a ladder on a job mounting an access point?
+
+What happens if tech cuts or drills into something?
+
+What happens if 1099 tech drops a computer on the ground?
+
+",2016-05-21 23:34:58+00:00,d3emyha,3.0,t1_d3emvo3,149.0,msp
+70,"So do you just use for projects or are they working 40 hour weeks?
+
+
+",2016-05-21 23:29:37+00:00,d3emsgm,1.0,t3_4kfjrc,7490.0,msp
+71,Who did the voice over?,2016-05-21 21:16:12+00:00,d3eiflu,1.0,t3_4kf2th,6133.0,msp
+72,I've been using the brother ads models now.  $300 compared to $700 plus,2016-05-20 00:22:33+00:00,d3cboqd,3.0,t1_d3c72ik,7470.0,msp
+73,"They should be going digital in this age.  Either direct USB sensor or scan x plate scanner.
+
+They will have to soon for insurance ",2016-05-19 16:16:01+00:00,d3bqqjx,1.0,t3_4k34ux,1175.0,msp
+74,We deploy a decent amount of all in ones but prefer sff.,2016-05-11 05:27:42+00:00,d30z67z,1.0,t3_4impb5,103447.0,msp
+75,never saw those unlimited plans before.  kinda cool.  will be out of hte price range for the client.,2016-05-11 03:57:52+00:00,d30wn70,2.0,t1_d30m717,16267.0,msp
+76,"Point to point not possible.
+
+",2016-05-11 03:36:19+00:00,d30vxfe,1.0,t3_4irzqb,16212.0,msp
+77,"Nable had some backup solutions but you would be better off either going with StorageCraft or Veeam.  
+
+I did this and still migrating about 300 or so devices.
+
+Much better product.
+
+Just make sure to fully remove gfi first and make sure the managed av is removed.  I've had to manually remove the av on more systems than I'd like.
+
+",2016-05-04 21:38:21+00:00,d2t00vf,1.0,t3_4hwavt,6212.0,msp
+78,"Told NAble to match the pricing and they did.  I had about 700ish endpoints
+
+Much better product",2016-05-03 02:52:57+00:00,d2qk131,3.0,t1_d2q56p6,20889.0,msp
+79,"I use the spam filter for clients running local exchange and for some office365 clients that get tons of spam.
+
+The email encryption is used due to ease and cost.
+
+Great company.
+
+My rep is Natalie ",2016-05-02 02:54:21+00:00,d2p7a92,5.0,t1_d2p5bhq,2630.0,msp
+80,"2 years, I use the email encryption service, office 365, spam filter.
+
+I like speaking to US based staff
+
+Price is good for reselling",2016-05-02 00:57:32+00:00,d2p2ea3,3.0,t1_d2owxbe,9044.0,msp
+81,I do office 365 from app river,2016-05-01 21:53:15+00:00,d2ovpst,1.0,t3_4hayre,8420.0,msp
+82,Get your pricing down.  I was paying under a buck a workstation and under 5 a server.  I ditched max fire nable,2016-05-01 14:25:13+00:00,d2ofazj,1.0,t3_4h84h2,26862.0,msp
+83,They currently use Explorer not happy with it but I'm thinking it's just due o not learning it and now they are so far behind in support they can't renew,2016-04-30 14:14:40+00:00,d2nbflp,2.0,t1_d2m3xe2,84515.0,msp
+84,Too expensive it seems,2016-04-30 13:25:05+00:00,d2na5jh,2.0,t1_d2lhu2k,130037.0,msp
+85,Can you do sbs 2011 SharePoint to something online,2016-04-24 16:31:21+00:00,d2fgy0m,1.0,t3_4fmnwi,368399.0,promos
+86,"Good timing. So I really like the firewalls and I'm the prices of doing a buy back on clients Rogers to move them to this device.  Just offering $200 off msrp..,.
+
+Got a client that had the budget and quoted 4 mr32, 1 mr18, 2 mr62 and the 8 port Poe.
+
+Installed today and the range want what I expected.  The client has a Mac budget and I need more access points.  I'm setting up an RMA and going back to unifi",2016-04-22 05:37:22+00:00,d2cqszh,1.0,t3_4fsnpo,62830.0,msp
+87,Transmit worked!  Thanks,2016-04-20 15:34:38+00:00,d2aewqr,,t1_d26wsuo,,sysadmin
+88,I'll try this.  Cyberduck worked now throwing an error,2016-04-18 00:03:24+00:00,d26wsuo,2.0,t1_d26vhsg,2224.0,sysadmin
+89,"Why aren't you using the cloud msp platform, it seems great",2016-04-15 23:03:27+00:00,d24m9bw,1.0,t3_4ex7fr,27535.0,msp
+90,Can you give step by step for this?,2016-04-14 13:05:10+00:00,d22i4hp,3.0,t1_d22ec6b,9658.0,msp
+91,Ruckus and Meraki are my first pick but then we go to unifi for cost,2016-04-09 23:45:15+00:00,d1wpaa0,1.0,t3_4e3bwy,4956.0,sysadmin
+92,"Speed is 50/10.  Small office, 7 computers and a server.  Current Asus n66u handled it till it fried. 
+
+Most offices would be like this",2016-04-09 03:29:52+00:00,d1vt0li,2.0,t1_d1vll03,13612.0,msp
+93,"How has the free endpoint product been?
+
+",2016-04-08 14:35:36+00:00,d1uxwzl,2.0,t1_d1us3sf,10813.0,msp
+94,Appriver,2016-04-07 17:23:53+00:00,d1ts5oh,1.0,t3_4drv3v,2902.0,msp
+95,"I do, have a few install issues I'll working on cut seems to be great",2016-04-05 17:35:20+00:00,d1qxxdj,1.0,t3_4dhdvf,1695.0,msp
+96,Do you need open DNS umbrella with this?,2016-04-05 05:41:24+00:00,d1qdtud,1.0,t3_4dcmps,37326.0,msp
+97,I also sell with very little profit.  I'm currently offering a $200 router but back for clients meaning I'll make about $20-$30 on the unit.  I'm doing this to try to standardize,2016-04-02 04:15:53+00:00,d1mo6y3,1.0,t3_4cwb2b,44616.0,msp
+98,"Soonr is like 23-27/month for three users
+
+This was the price prior to acquisition
+
+I heard they are dropping the invoices storage
+
+My rep was less than excited to email me back once he introduced himself.  Wanted me to go to ask autotask",2016-04-02 04:13:47+00:00,d1mo4ok,1.0,t3_4cyt9m,17442.0,msp
+99,"The VIP plan is around 1500.
+
+I'm about to sign up as well but looking for some real results",2016-03-26 20:49:02+00:00,d1eiup7,2.0,t1_d1egs6b,3570.0,msp
+100,"Lol, I'm surprised this still is the same as it was.  I moved 1000 nodes, still in the process due to this.
+
+Was a complete nightmare to manage",2016-03-24 01:29:13+00:00,d1b99kf,1.0,t3_4bf19r,178045.0,MaxFocus
+101,What problems are you having with Meraki?  I find this to be one of the better products to use as well as the best support ,2016-03-23 07:39:58+00:00,d1a8g5u,1.0,t3_4bjne0,34657.0,msp
+102,"I bought this http://www.amazon.com/gp/product/B000EDTSZG?psc=1&amp;redirect=true&amp;ref_=oh_aui_search_detailpage
+",2016-03-22 02:54:44+00:00,d18pif2,1.0,t3_4beo0o,15676.0,msp
+103,"Outages like this is was why I left max focus for n able.
+
+",2016-03-21 22:34:15+00:00,d18ffs5,1.0,t3_4bd0cq,21575.0,msp
+104,updated the original,2016-03-18 15:57:46+00:00,d14mk0m,2.0,t1_d14erp5,13651.0,sysadminjobs
+105,"Do you have enough income to hire a tech?
+",2016-03-15 22:01:48+00:00,d11646q,1.0,t3_4akmew,1231.0,msp
+106,"Unfortunately these are some older sites.  Most clients are on essentials role.
+
+Will be upgrading the rest that have servers to Rd gateway",2016-03-09 20:03:06+00:00,d0trgoo,2.0,t1_d0st29o,66984.0,sysadmin
+107,Meraki,2016-03-02 16:45:47+00:00,d0kutze,1.0,t3_48mufo,1349.0,msp
+108,"I believe i am reseller.  They bill me and I markup and charge client.  As an msp this is what you want.  Maintain as much of the infrastructure you can.
+
+Call and ask for tech support.  You will know why to like them.  Great sales team and great us support.  
+
+Products used are office three sixty five and secure tide",2016-02-28 00:27:33+00:00,d0gch69,,t1_d0fzkpj,22209.0,msp
+109,Mind sharing the srp?,2016-02-24 02:58:55+00:00,d0bhk4d,3.0,t1_d0aynsg,25955.0,msp
+110,Interesting.  Will need to look into this,2016-02-23 19:34:14+00:00,d0ay3xt,1.0,t3_477n8i,7844.0,msp
+111,Cost of these?,2016-02-22 00:15:16+00:00,d08og98,1.0,t3_46x967,11652.0,msp
+112,"So never start the business with your cell phone.  It's a nightmare once people start calling and texting.
+
+I did this.
+
+I have posted my main cell number to VoIP.Ms
+I have always had Intermedia but fully configured it now.
+I forward my original cell number to Intermedia auto attendant (press 1 for support 2 for sale)
+
+employee get a cell number that's marked private
+
+All DID with Intermedia also ring cell phone but voicemail stay with Intermedia.
+
+This way my clients can still text in which I'm trying to avoid and I can monitor all voice mails coming in.",2016-02-22 00:13:58+00:00,d08oelu,1.0,t3_46vof7,31574.0,msp
+113,"My self hosted has never been a problem unless my internet drops.
+
+No issues at all.  ",2016-02-20 21:07:10+00:00,d07e5ek,1.0,t3_46qxhl,14288.0,sysadmin
+114,This,2016-02-19 15:31:13+00:00,d05x3x2,2.0,t1_d05um6p,4097.0,msp
+115,"It's Server 2008, not sure the Hyper visor as I don't have access to that just rdp into my server 08 instance.
+
+Not sure what other info is needed",2016-02-17 22:12:47+00:00,d03qxku,1.0,t3_46aoqx,7417.0,msp
+116,"I get through Appriver.
+
+",2016-02-16 22:51:21+00:00,d02hiq4,1.0,t3_4631t9,24797.0,msp
+117,Same price on server?,2016-02-15 02:08:36+00:00,d0077br,2.0,t1_d006g8y,1396.0,msp
+118,"What you said was why I didn't go with continuum.  I could only see it useful for server things in the middle of the night.
+
+If you have staff on hand I wouldn't use them",2016-02-13 20:48:12+00:00,czysykw,1.0,t3_45mhnk,618.0,msp
+119,"Appriver has been solid for me.
+
+Moved 200-300 mailboxes off Max to it.",2016-02-13 14:27:04+00:00,czyglsx,1.0,t3_45kjuj,508.0,msp
+120,"Good for you.  I often argue with people about how stressful this job is.  They always think different.
+
+Glad you are moving on",2016-02-12 19:15:33+00:00,czxmt6v,1.0,t3_45fxmt,4642.0,sysadmin
+121,"I can say none of my clients would go for that.  On a new setup you will have very limited labor moving forward.
+
+$50/user $150/server all you can eat
+Bill for your monthly service (backup and voip and office 365)
+
+You will get the sell",2016-02-12 16:05:54+00:00,czxekd4,1.0,t3_45e4vp,20293.0,msp
+122,Self hosted is the best,2016-02-12 15:35:53+00:00,czxdc6r,1.0,t3_45drhs,27186.0,msp
+123,"What I've done for and clients is amazon fire stick, have then create images save to amazon cloud drive and let the screen saver run.
+
+Very easy for clients.
+
+Can also do airplay",2016-02-12 15:33:10+00:00,czxd8bm,1.0,t3_45ecxn,13662.0,sysadmin
+124,"I am moving 700 workstations and 80  servers off Max Focus to NAble and so happy that I'm doing it.  The Big Defender in Max was one of the major reasons I started to switch it killed most of my client machines (i5 with SSD). 
+
+It a very intensive process to swap rmm tools, I suggest looking at the bigger players",2016-02-12 05:20:56+00:00,czx01tk,1.0,t3_459kpc,46654.0,msp
+125,Interesting concept,2016-02-12 05:13:58+00:00,czwzuno,1.0,t3_45bhhz,24162.0,msp
+126,OpenDNS Umbrella?,2016-02-08 16:06:49+00:00,czsarkg,1.0,t3_44rc7g,2737.0,sysadmin
+127,yes looking for something to resell.  ,2016-02-08 14:26:25+00:00,czs7c61,1.0,t3_44prix,28131.0,msp
+128,"This company looked interesting but I couldn't justify the price, more than Dell",2016-02-05 19:22:09+00:00,czp5cfa,1.0,t3_44bdat,12833.0,msp
+129,"so sorry for not understanding this.
+
+do you create one resource group and then the software will automatically put stuff into separate folders?
+
+or do i need to create a new resource group for each?
+
+in the msp portal it seems like just one storage resource",2016-02-05 16:47:55+00:00,czoys4x,1.0,t3_447zbr,62621.0,msp
+130,"For units under $1000 we try to do Dell with 3 year warranty.
+
+Anything above we use a Toshiba rep who will supply Toshiba or Lexmark.  She gives me a $150 gift card and I walk away without the hassle.
+
+",2016-02-05 05:38:59+00:00,czojdxs,1.0,t3_445l5y,52874.0,msp
+131,"Very small company, dell t320, raid 10, server 12 hyper V with server 12 with Essentials role.  Backup with storage craft or altaro to the nas",2016-02-05 02:28:54+00:00,czocr3w,1.0,t3_443l7f,82052.0,msp
+132,"are you using the MSP plan or the individual?
+
+should I even bother with this product?  ",2016-02-05 01:56:06+00:00,czobi6i,2.0,t1_czo8bph,5342.0,msp
+133,"Unfortunatelyi have tried higher pricing but often get hesitation.  Cost on workstations is $1 for rmm, $1 for av and $4 on Exchange.  Server cost for rmm is $5, backup if using Altaro is charged to client and I'm using internal storage.  
+
+I have tried to do higher but when they say no I rather have a msp contract than break fix.  
+
+Most clients call very rarely and most are brand new servers and brand new workstations",2016-02-04 19:39:13+00:00,cznwhpl,2.0,t1_czn5qm7,57933.0,msp
+134,"I charge $40/desktop for All You Can Eat.  This includes AV, Patch, Remote/Onsite, and Office 365 Exchange Plan 1.  I charge $150/server that includes all you can eat and offsite storage for Altaro or Storagecraft.  
+
+I have a hard time going above these price as clients back away.  Also have a hard time selling multiple servers without discount for same reason.
+
+Not sure how to get around it. ",2016-02-04 03:33:40+00:00,czn5qm7,1.0,t3_441t2k,24058.0,msp
+135,I thought Cloudberry had to use the amazon or azure?,2016-02-03 18:54:40+00:00,czmk95i,1.0,t3_440y6q,3849.0,msp
+136,"I sell the client the software and then include offsite storage in my msp contract.
+",2016-02-01 23:12:16+00:00,czkakcp,3.0,t1_czk91t6,2316.0,msp
+137,"I use Altaro on the majority of clients, we backup up locally to USB and then offsite to backup server at the office.  Good profit on the",2016-02-01 19:57:16+00:00,czk2esv,1.0,t3_43q3bu,2169.0,msp
+138,I'm on N-Able the monitoring I get but how are you performing regards and such?  For example ask my clients are in hyper v I would go in and apply updates to the guests and restart then with the DC first.  Then another day id shut the guests down and restart the host after updates.  ,2016-01-31 22:00:05+00:00,cziznr1,1.0,t3_43kh4o,9049.0,msp
+139,Okay.  ,2016-01-31 06:06:44+00:00,czichdk,1.0,t3_43g4vq,29241.0,sysadmin
+140,What pricing does labtech give?,2016-01-30 18:32:29+00:00,czhrdbu,1.0,t3_43codf,49925.0,msp
+141,Twilio just seems like an api,2016-01-26 17:04:56+00:00,czcpbvh,1.0,t3_42s4ik,3844.0,msp
+142,Any of you above want to get some side work?,2016-01-25 01:12:25+00:00,czao9qi,4.0,t1_czamghg,2675.0,msp
+143,"I'm on 10 but will be upgrading to 10.1.
+
+I have questions and want work done.  Not sure if it's considered ton.
+
+Its pretty much default and deployed to my clients.  Not getting alerts I should be, not streamlining installs, not getting the automation setup.
+
+If your interested let's talk. ",2016-01-24 18:13:05+00:00,cza74e8,1.0,t3_42gf9r,7054.0,msp
+144,"Axcient sucks
+Storagecraft or nothing",2016-01-22 23:43:06+00:00,cz8dzrq,1.0,t3_427pwc,7683.0,msp
+145,"Thanks, female it is",2016-01-22 23:42:39+00:00,cz8dz6g,1.0,t3_427oo8,8077.0,msp
+146,Priorities!! Making a big change this year,2016-01-22 22:07:39+00:00,cz8aex5,2.0,t1_cz89wm7,752.0,msp
+147,"Does the blade always cut?
+
+I've seen some jobs where the wire want cleanly cut and was like shorting on the computer end.
+
+Just didn't want my costs to be so high on one cable.  
+
+Guess I'm being cheap.
+
+",2016-01-20 22:37:14+00:00,cz5rywx,4.0,t1_cz5rh7p,707.0,sysadmin
+148,Not sure I want to go with the ez model.  ,2016-01-20 22:23:46+00:00,cz5remb,2.0,t1_cz5r7e5,286.0,sysadmin
+149,Not really anything out of line.  I bought 5 licenses last year and paid like $250 each.  ,2016-01-19 07:01:00+00:00,cz3p9le,1.0,t3_41lh93,29970.0,msp
+150,"Multiple clients, it's kind of meant for I'd, been running for over 2 years and even migrated the server.  You can take backups as well",2016-01-18 05:36:17+00:00,cz2f6f6,3.0,t1_cz2b9qc,7269.0,msp
+151,"Same here, just me and another entry level tech, would like a remote tech for project labor and even noc monitoring.
+
+Let me know what you find",2016-01-18 05:35:25+00:00,cz2f5lu,3.0,t1_cz29w31,9451.0,msp
+152,Interested in this as well.  Often find some jobs that I just not interested in handling,2016-01-18 02:45:47+00:00,cz29emk,1.0,t3_41edh4,34425.0,msp
+153,"This sounds awesome.
+
+I'm looking for someone to handle phones and just schedule or email the messages over and follow up on the basic office with.
+
+Does she handle the accounting back end for you?",2016-01-18 02:39:28+00:00,cz295wr,2.0,t1_cz1vl3m,21235.0,msp
+154,"Was tired of waiting for features and having other features break when they updated.  Migration is going well, n-able is a much more powerful product, still on process of migrating
+
+If you have specifics questions let me know",2016-01-17 04:18:21+00:00,cz16px3,3.0,t1_cz0o15t,30915.0,msp
+155,"For three computers?
+
+Optiplex 3020 with i5, 4 or 8gb with SSD for workstations
+Can make one of these the server for QB or get a dedicated machine",2016-01-16 19:30:44+00:00,cz0nls6,1.0,t3_419s66,714.0,sysadmin
+156,Can you use crashplan free for this?,2016-01-16 18:05:22+00:00,cz0ko7z,1.0,t3_414b30,85538.0,msp
+157,"Yes run it on my home office, have like 40-50 sites on it",2016-01-16 17:30:36+00:00,cz0jg6o,1.0,t3_4197tm,1366.0,msp
+158,Went from Max to NAble,2016-01-16 06:17:14+00:00,cz0605u,1.0,t3_4155bw,32514.0,msp
+159,Send me some links to sites done. For some reason clients are very cheap here with website costs. Often shocked at pricing above $1500,2016-01-14 05:58:23+00:00,cyxmuyu,2.0,t1_cyxfbdl,14117.0,msp
+160,Send me some portfolio,2016-01-13 19:18:29+00:00,cywy7wn,2.0,t1_cywxfwa,1030.0,msp
+161,"I'm not use to the Reddit forums I commented after the person replied instead of replying to his comment.
+
+I believe the issue is resolved.  On the server the index database appeared to be fubared.  Deleted and reindexed and it then added the shared folder",2016-01-09 17:26:13+00:00,cyrxd64,1.0,t3_4067vh,15638.0,sysadmin
+162,Correct and search doesn't work,2016-01-09 13:43:47+00:00,cyrre1c,1.0,t3_4067vh,2292.0,sysadmin
+163,Good info.  Can I buy through you if needed?  As soon as I get into my house I need to staff this,2016-01-06 21:59:45+00:00,cyokch7,3.0,t1_cyok51t,274.0,sysadmin
+164,"Great.  Now is this still $500 bucks?  Just got off a plane so haven't started to get into it
+
+And can you get bitcoin with PayPal or credit card?
+
+",2016-01-06 21:52:22+00:00,cyok0fj,1.0,t3_3zs0jp,536.0,sysadmin
+165,"And what raid card?
+
+I may be thinking of my c2100",2016-01-03 01:07:00+00:00,cyjv50s,1.0,t3_3z66zw,22617.0,homelab
+166,"Comes with rails?  And is the c2100?
+
+Hard drive rails?
+Dual psu??",2016-01-03 01:06:13+00:00,cyjv43x,3.0,t1_cyjqu83,7573.0,homelab
+167,"I'm in, his much shipping to NY?
+Rails?",2016-01-02 22:51:11+00:00,cyjqjod,1.0,t3_3z66zw,14468.0,homelab
+168,"I run storagecraft to local USB drive then use iFTP to my servers.
+
+Offsite hang failed yet.  
+
+",2015-12-22 23:47:38+00:00,cy8d2x1,1.0,t3_3xtuop,40056.0,msp
+169,"I have over 600 machines in msp contact, this client is break fix and I shouldn't have bothered.  I was hoping to pick up a big physical to VM project but the owner likes to buy his own equipment and has started to price out a server with limited specs.
+
+I ideally want to get paid and tell them to f off.
+
+Not my ideal client base
+
+",2015-12-22 22:36:11+00:00,cy8aizz,2.0,t1_cy88w5m,2570.0,sysadmin
+170,"they don't like cloud.  this isn't so much about where to put the client to what platform but more of do i just connect, remove my work and tell em to f off or now that it is configured can i not touch it since it is not my system?
+
+i have given them a full workup of using existing server to hyper-v all with almost less work then this backup job and backup vm",2015-12-22 06:30:43+00:00,cy7j3th,1.0,t3_3xsx8v,1548.0,sysadmin
+171,Believe that is no longer supported on windows,2015-12-17 14:27:49+00:00,cy27x4q,1.0,t3_3x6n7s,28237.0,sysadmin
+172,"I have a client that had an old ASA unit that was end of life with a Cisco spam blocker applieancd that was also end of life.  He replaced with a Sophos XG210
+
+Not familiar with it and rather have someone configure remotely after examining adsm .
+
+
+I tried got port forwards working but couldn't get exchange mail to leave.  
+
+Had a default LAN to wan open",2015-12-15 18:03:18+00:00,cxzz1bl,1.0,t3_3wynux,2461.0,sysadmin
+173,We use Repairshopr and authorize.net,2015-12-13 18:22:21+00:00,cxxoijh,1.0,t3_3w4qkh,333118.0,msp
+174,"Not sure how you get those pricing, I can charge 50 workstation and $150 server.
+
+Not a single client side take that",2015-12-13 18:21:43+00:00,cxxohkq,1.0,t3_3w4qkh,333080.0,msp
+175,Link to setup SRP and white listing?,2015-12-11 04:56:24+00:00,cxv0y9z,1.0,t3_3wa8rl,25154.0,sysadmin
+176,Yes same here. Idrive has been working okay for the backup,2015-12-03 07:36:25+00:00,cxlg8sm,2.0,t1_cxldd1b,7269.0,msp
+177,"East end of long island.
+
+",2015-11-29 18:22:40+00:00,cxgxym0,2.0,t1_cxgwvki,1740.0,msp
+178,"NY.
+
+",2015-11-28 20:10:27+00:00,cxg08af,1.0,t3_3um2p8,5659.0,msp
+179,I'll have to check tech data I have an account but last time I looked wasn't much less than buying from MS,2015-11-27 18:32:43+00:00,cxewyac,1.0,t3_3ugpg2,18556.0,msp
+180,"You mean exchange with the office?
+
+Or you signing clients up directly for just the office side",2015-11-27 14:02:36+00:00,cxepcoo,1.0,t3_3ugpg2,2349.0,msp
+181,They do not I need ideas really on just saying welcome to my company press one for support two for sales etc,2015-11-23 16:12:53+00:00,cxa8d22,1.0,t3_3tw800,46709.0,msp
+182,"Issue with this is no permissions.  All used have same
+
+If on local exchange code 2 product is what you want
+If on hosted the shared mailbox is the only option
+
+However using the actual outlook app on the phone I head you may be able to access public contacts",2015-11-22 15:47:03+00:00,cx91xso,4.0,t1_cx8tbye,32505.0,msp
+183,"This is a great solution for these types of clients of running exchange.
+
+I use it on a few clients, we actually leave the default contact list for the end user so personal contacts can stay synced.  Then we create a Office contact list and do a round robin.  That way if the employee adds his bank information as a contact it stays private",2015-11-21 06:13:29+00:00,cx7r9yy,2.0,t1_cx7olte,6779.0,msp
+184,Going to be using the old Server 2008 CALS since they own then,2015-11-16 12:03:38+00:00,cx1zapb,2.0,t1_cx1v7xu,16815.0,sysadmin
+185,"was hoping to not join the existing crap to the new domain.  
+
+anyway to just find the open license information?",2015-11-15 23:44:09+00:00,cx1gkm0,1.0,t3_3sxlra,12311.0,sysadmin
+186,"i have removed this from max but 50 machines have it.
+
+anyone have a script to remove?  ",2015-11-11 15:03:25+00:00,cwwjkme,1.0,t3_3seii6,5812.0,sysadmin
+187,"just got calls in for this as well.  
+
+seems like i can't uninstall it from workstations, fun...",2015-11-11 14:57:22+00:00,cwwjdlk,1.0,t3_3seii6,5449.0,sysadmin
+188,"So anyone want to do this?
+
+I'm more looking for someone to say sure, get me connected tomorrow with you and will get it setup.
+
+",2015-11-08 02:29:00+00:00,cwsg9pf,1.0,t3_3rxk9d,18555.0,sysadmin
+189,I feel like I tried that but didn't work till I used a timeout before log on,2015-11-07 19:11:58+00:00,cws1gvl,2.0,t1_cws0xu7,937.0,sysadmin
+190,"Continuity, you mean spooling?
+
+That's included with outbound smart host with reseller.
+
+",2015-11-05 06:28:31+00:00,cwp5cmf,1.0,t3_3rja7x,37364.0,msp
+191,How so?  They have reseller plans?  ,2015-11-05 00:54:32+00:00,cwoujag,4.0,t1_cwonlv9,11143.0,msp
+192,"David949 - I am moving to AppRiver because a few months ago one of my clients got Cryptowall from Max Mail, actually 2 clients.  Called support to talk about it....they can't scan/filter zip files.  Can't even block it.  The support tech took some information and did something.  Next day the same clients got same cryptowall email which they didn't click.
+
+Called Appriver, got signed up and moving all clients over.
+
+Apprivers support is phenomenal.  
+
+I believe MaxMail was $0.90 per mailbox.  I am pretty sure my cost from Appriver is right around that and I made them work with me on that domain cost.  Pretty sure it is removed.
+
+  ",2015-11-05 00:54:20+00:00,cwouj1g,1.0,t3_3rja7x,17313.0,msp
+193,"I'm moving all my clients off Max mail to Appriver.
+
+I am good reseller and do a decent share of business with Appriver.  Talk to your Sales rep about pricing.
+
+I'm sure you can negotiate",2015-11-04 20:11:01+00:00,cwoj94l,1.0,t3_3rja7x,314.0,msp
+194,"Correct, which honestly I think all av is pointless
+
+I got a cloud login for f secure will try it out and report back",2015-11-04 11:49:44+00:00,cwo160m,3.0,t1_cwnxcim,15603.0,msp
+195,Is it light on the machine?  I'm coming from vipre which has like no impact. Tried big defender with max focus and shows slow down,2015-11-04 03:32:07+00:00,cwnr4b9,1.0,t3_3re1vt,29901.0,msp
+196,"Effectiveness.  Got a few clients that got Crypto wall from Max mail.  Couldn't block zip files through Max mail.  So good tired of waiting
+
+Appriver much better",2015-10-27 21:56:54+00:00,cwf4niu,3.0,t1_cwf0iuj,5736.0,msp
+197,"any others?  Zulip, Mattermost do not appear to have windows server setups.
+
+Slack requires emails for users, which most do not have.  ",2015-10-27 19:15:26+00:00,cwexmqy,1.0,t3_3pn2id,533770.0,sysadmin
+198,"I use Appriver.  Moving all my clients from MaxMail to this.  Great product.
+",2015-10-24 03:59:15+00:00,cwauuad,1.0,t3_3px2hz,44377.0,msp
+199,Unifi,2015-10-23 22:00:51+00:00,cwajrua,1.0,t3_3pyf2d,2734.0,sysadmin
+200,"Interested in this.  Does she do all accounting?
+
+Got direct contact?",2015-10-17 12:30:15+00:00,cw2v9fw,3.0,t1_cvzbnvl,258124.0,msp
+201,"Appriver for Office 365.
+You make good margin and company is great
+
+Intermediate for pbx",2015-10-13 02:48:34+00:00,cvxqa4k,1.0,t3_3oik6b,12529.0,msp
+202,SoonR has in app editibg,2015-10-12 04:14:21+00:00,cvwlr9c,1.0,t3_3o8lci,125202.0,msp
+203,"I'm actually thinking of moving the av to ESET
+
+Why are you charnging?",2015-10-07 23:51:24+00:00,cvrwik6,1.0,t3_3nun2h,30221.0,MaxFocus
+204,"Disable quick scan and behavioral scanning
+",2015-10-07 23:50:36+00:00,cvrwhkd,1.0,t3_3nun2h,30173.0,MaxFocus
+205,What rep! Since the whole swap over no formal rep,2015-10-07 03:38:19+00:00,cvqx7dp,3.0,t1_cvqve9h,3378.0,msp
+206,"Never heard of that consultant network.  
+",2015-10-07 03:04:44+00:00,cvqw54a,2.0,t1_cvquhjs,2994.0,msp
+207,Anyone see then on dell premier?,2015-10-07 02:28:23+00:00,cvquxx3,1.0,t3_3ns4o7,5580.0,msp
+208,"?
+
+Issue resolved.  Used the Sperry Software to export to XML and did a replace all after examining some of the code.
+
+Disclosure5 - client was originally using POP.  Had 30GB PST.  Moved him to Exchange and imported the PST.  ",2015-10-05 01:40:20+00:00,cvogq52,2.0,t1_cvobfmx,9493.0,sysadmin
+209,"That's what I have done.
+
+Exported rules in old outlook onto hard drive
+Setup new outlook profile with exchange let it import all mail
+Imported rules
+
+Every time needs to be modified and pointed to the folders",2015-10-04 18:17:08+00:00,cvo06ui,1.0,t3_3ngyat,3653.0,sysadmin
+210,"Interesting.  And that's all scheduled in azure?
+
+Never get a call with someone working late?",2015-10-02 00:17:47+00:00,cvl5c3z,6.0,t1_cvl4uaf,902.0,msp
+211,"When you say spin down do they actually go off?  
+
+I'll have to try it.  ",2015-10-01 20:24:10+00:00,cvkwtgs,4.0,t1_cvkkr4j,17264.0,msp
+212,"How do you actively price azure?
+
+Can you resell this?",2015-09-30 16:32:24+00:00,cvjflo8,2.0,t1_cvjbq64,5700.0,msp
+213,"for someone starting out where do we go?
+do we buy some Dell C2100 and throw them in a colo?
+do we go with a IAAS provider and just hope to make enough?
+I know we will need SPLA but really want to wrap my head around this.  I have deployed RDS for clients on the network but thats about it.",2015-09-29 16:46:06+00:00,cvi8ly4,1.0,t3_3ms1q7,54219.0,msp
+214,"Please do.  I'm interested but the 5k is a big outside my budget.
+
+",2015-09-27 11:42:04+00:00,cvfp4yv,3.0,t1_cvfemy5,34218.0,msp
+215,"Carrie, is that price set or negotiable?
+
+Interested but dont have 5k in teh budget. ",2015-09-27 01:20:34+00:00,cvfd600,1.0,t3_3mhjx6,27507.0,msp
+216,Soonr has been reliable and great mobile app.  ,2015-09-25 03:07:56+00:00,cvddca6,1.0,t3_3m7n8a,40502.0,msp
+217,I use soonr,2015-09-24 17:25:20+00:00,cvcrng2,1.0,t3_3m7n8a,5546.0,msp
+218,"I don't cover big installations but after that's done installing a relevant machine is included.
+
+Other projects are not at my discretion.  I have a few client that post and rarely use any labor.  I will handle sit idly for them",2015-09-24 00:26:26+00:00,cvc0p1m,1.0,t3_3m3353,27456.0,msp
+219,"So this is resolved.
+
+Everything listed here was tried.
+
+Just for the hell of it i restarted the Ruckus controller and everything was fine.
+
+Doesn't make much sense that the controller would block access.  I was noticing the laptop even with a IP and on Wifi was not listed in the Ruckus controller active lists.  ",2015-09-22 18:22:29+00:00,cvag1g3,1.0,t3_3ly38t,10111.0,sysadmin
+220,"Plugged in, it does the same thing.  Forgot to mention that. 
+
+I just statically configured an IP and same thing as well.
+
+I CANT ping hte device from the server or other resources.
+I can ping some random devices on the network which is very confusing. ",2015-09-22 16:00:28+00:00,cvaacv0,1.0,t3_3ly38t,1590.0,sysadmin
+221,I'm a dell guy but I've been doing the T20 model. I do raid 1 with SSD and been very pleased,2015-09-21 04:23:05+00:00,cv8pvr1,1.0,t3_3lowmc,41537.0,sysadmin
+222,What's the pricing lik,2015-09-17 23:37:52+00:00,cv5a16j,1.0,t3_3lczly,3855.0,msp
+223,"Has all those built in?  
+
+I have a demo with them coming up but from what i remember the interface wasn't that good.",2015-09-17 21:48:39+00:00,cv56d96,3.0,t1_cv55rym,966.0,msp
+224,"Sure....
+
+1 - Want to enable Shadow Copies on all drivers (not USB Flash Drives or Optical Drives) - Found this but would like it to check the drives and apply and also do a percentage of the disk space - http://www.theictguy.co.uk/2015/01/27/ps-volume-shadow-copy-v2
+
+2 - Thinking with WMI scripting we can pull some performance data.  GFI does not do desktop monitoring unless you have a server license.  Hoping that with a script and WMI it can read the performance data from the last time it checked in and report back things like processor load, disk utilization, memory used.  This way I can tell the client to upgrade memory and upgrade to solid state.
+
+3 - GFI has a script to check if the exchange database is mounted but you have to manually find and enter the database name.  Would like a generic one that checks all exchange databases on the server and confirm they are mounted
+
+4 - Would like a script that checks the exchange queue and makes sure they are not hung up or have emails left in them.
+",2015-09-17 20:46:54+00:00,cv541y8,1.0,t3_3lbjcr,14868.0,msp
+225,"Max Focus, very basic scripts just don't have the time",2015-09-17 17:11:08+00:00,cv4vdmp,1.0,t3_3lbjcr,1922.0,msp
+226,"Have you received any business from this?
+
+I've never gotten any business unless word of mouth.  ",2015-09-14 04:39:21+00:00,cv0ugvo,3.0,t1_cv0sd50,4349.0,msp
+227,"Do these guys come up with content and post it?
+
+I'm in a very large word of mouth area, not sure this would benefit
+
+What happens after you stop can you own the design?",2015-09-13 14:10:58+00:00,cv004si,1.0,t3_3kkl0a,158271.0,msp
+228,"Future auto attendant?
+
+If so will be great solution.  Hopefully partners like appriver will support",2015-09-10 01:52:08+00:00,cuwba6n,3.0,t1_cuwb6nf,167.0,msp
+229,"I don't have this problem.  I buy most Dell stock confifs from Techdata.  I add my markup and generally add a solid state. Clients don't question price.  They don't want to do around.
+
+And pricing is always cheaper then dell.com
+
+I believe they did away with Premier pricing for new accounts.  That has more discount
+
+http://www.equuscs.com/ looked good however pricing was more compared to dell",2015-09-10 01:51:18+00:00,cuwb93i,1.0,t3_3k9ct0,34610.0,msp
+230,Will this work similar to ring central or only able to call Skype users,2015-09-10 01:40:00+00:00,cuwav6c,1.0,t3_3kb9ll,9696.0,msp
+231,Can't you spla this?,2015-09-10 01:33:46+00:00,cuwank6,1.0,t3_3kbj2y,6047.0,sysadmin
+232,Probably quicker to start over,2015-09-08 18:46:06+00:00,cuup601,3.0,t1_cuu34su,54613.0,sysadmin
+233,"How many users?
+
+",2015-09-08 03:10:24+00:00,cuu2e95,1.0,t3_3k1iym,4202.0,sysadmin
+234,Roll storage craft,2015-09-06 14:18:36+00:00,cusgu14,1.0,t3_3jjrb2,228023.0,MaxFocus
+235,"Dave,
+
+Dan from Suffolk Computer Consultants here. I suggest you and John Silva reach out to me.  With the amount of problems I have talked to him about and with this increase I am not happy.  I have had my week full of demos with other tools.
+
+All I get is news about new products and price increase but no final product.  Everything has limited functionality and not a tested solution",2015-09-02 00:43:36+00:00,cunmsa1,3.0,t1_cunb6si,20255.0,MaxFocus
+236,And this is what?,2015-09-01 00:22:48+00:00,cumgx98,2.0,t1_cumg39h,1405.0,msp
+237,"Was looking into hiding some rds sessions for some clients, this may be a good option.
+
+Easy to setup?",2015-08-29 23:37:37+00:00,cuk7f0a,1.0,t3_3iupet,29534.0,sysadmin
+238,"Do you guys self host or cloud?
+
+",2015-08-29 15:24:20+00:00,cujrv43,1.0,t3_3ioa0r,135251.0,msp
+239,What are you using?,2015-08-28 02:32:57+00:00,cui7ruy,3.0,t1_cui6qhv,1976.0,msp
+240,I go to dell generally,2015-08-28 01:58:14+00:00,cui6og6,1.0,t3_3ioacl,334.0,msp
+241,Search fixitscripts for time and there is one that works good,2015-08-26 01:43:38+00:00,cufsflr,1.0,t3_3icw88,29458.0,MaxFocus
+242,What's this applocker all about?,2015-08-23 05:08:46+00:00,cucjwj6,2.0,t1_cuc5a7m,29067.0,sysadmin
+243,"I do ad.company.com and do the company initials for the netbios 
+
+",2015-08-23 05:04:53+00:00,cucjtcd,1.0,t3_3i1iwt,6161.0,sysadmin
+244,I use this as well.  Great,2015-08-22 19:02:05+00:00,cuc1in7,2.0,t1_cubxwh5,6676.0,msp
+245,Soonr,2015-08-22 16:06:14+00:00,cubvv4o,1.0,t3_3hmtmp,241843.0,msp
+246,"Why not go with Intermedia?  They offer that
+
+I I do office 365 or rackspace for pop imap, then Google apps as well",2015-08-21 01:40:43+00:00,cua6yg9,1.0,t3_3hsh67,2658.0,msp
+247,"What's the pricing like on a SFF, i5,4gb, 250gb ssd and win 7 pro?  3 year next business day warranty?
+
+",2015-08-21 01:34:20+00:00,cua6r2k,1.0,t3_3hr8vm,21874.0,msp
+248,"Interesting, ilk check then out
+
+I buy tons of dell gear from tech data and clone to ssd",2015-08-21 01:32:14+00:00,cua6onh,1.0,t3_3hr8vm,21748.0,msp
+249,Anyone?,2015-08-19 16:38:39+00:00,cu8eq6n,1.0,t3_3hjrbl,39858.0,sysadmin
+250,"So then maybe work on monitoring only with hourly support
+
+What type of things get asked of you?",2015-08-17 21:42:50+00:00,cu6cnww,11.0,t1_cu5ffeu,72745.0,msp
+251,How's the new cloud controller?,2015-08-17 12:15:53+00:00,cu5sk34,1.0,t3_3h9oxy,34593.0,networking
+252,"Also I have noticed if I creep up past this mark no one is interested.
+
+What are you charging?
+
+",2015-08-16 17:56:57+00:00,cu51149,8.0,t1_cu510ey,36.0,msp
+253,"So a 20 workstation office and one server is $950.  If they are on Office365, with rmm, antivirus I still pull out $800-$850.  
+
+If you are getting constant calls from your clients something isn't so right.  
+
+",2015-08-16 17:56:21+00:00,cu510ey,7.0,t1_cu50ln8,740.0,msp
+254,"Yes all you can eat
+
+",2015-08-16 17:22:30+00:00,cu4zv6j,5.0,t1_cu4zf2w,819.0,msp
+255,"Dell for workstations laptops servers
+Dell switches
+Meraki for firewall or zyxel
+",2015-08-16 17:11:12+00:00,cu4zhr5,1.0,t3_3gucc2,276132.0,msp
+256,"$40/workstation per month
+$100-$150 per server
+Only thing I'm flexible on is server count
+
+I'm running GFI Max, my costs are low, my backup costs are nothing.  I sell them Altaro and provide the storage.  If StorageCraft it's only $30/server and I consume that cost.  
+
+Office365 is cheap.  
+If in house exchange appriver for spam
+
+Also going to make clients renew warranty on all machines and purchase a meraki which I'll include the license
+
+These costs are so low that you consume then and they are locked in",2015-08-16 17:04:22+00:00,cu4z9sk,3.0,t1_cu4y3nl,2176.0,msp
+257,"Never had to change pricing
+I charge per device and per server
+I include everything.  You want to control everything from domain name to email to backup services
+I discount seasonal machines like point of sale terminals that are used at country clubs.  I charge half price a pos machine since they are only used six months
+I include storage craft or altaro offsite storage.  
+I include office 365 as well
+
+",2015-08-16 00:19:19+00:00,cu4diwg,1.0,t3_3h0k3g,102737.0,msp
+258,"You call a company who actually picked up and doesn't have an operator to take a call.
+You get someone that knows a product and can explain how to setup a different brand gear
+You get a response and resolution not a slew of email chains and spending time of time gathering information
+
+I get it, you guys make a great product but at my last job I started using datto, I started my own msp and then started with datto.  I started putting alto units in but after the year just went to storagecraft and do it internally.  I didn't get much value from datto.  Most smaller clients under fifty machines have no need for it and was a hard sell for anything but the alto unit.
+
+I rather deal directly with storagecraft.
+
+Come down in price and increase the support.  ",2015-08-14 04:26:01+00:00,cu2g940,3.0,t1_cu0dq97,136891.0,msp
+259,I just paid a guy to script this into a report,2015-08-13 00:46:06+00:00,cu123mo,1.0,t3_3glpat,119805.0,MaxFocus
+260,"I haven't heard about the chain corrupting
+Any links about that?
+
+I use storage craft works fine.  I back up to USB drive then offsite or",2015-08-12 05:27:37+00:00,cu02zn2,1.0,t3_3gobja,10166.0,msp
+261,Support sucks.  Make it like meraki,2015-08-12 05:24:46+00:00,cu02x0v,1.0,t3_3ghau2,133238.0,msp
+262,What did you decide?,2015-08-12 05:14:15+00:00,cu02npm,2.0,t1_cu00nis,4320.0,msp
+263,The problem with asterisk and free pbx is that I want a number to call for support our hand holding,2015-08-09 16:49:10+00:00,ctwzxrv,1.0,t3_3g9qoj,78746.0,sysadmin
+264,This type of solution looks good to me.  Any other pre built units like that?,2015-08-09 03:26:14+00:00,ctwjdu2,2.0,t1_ctwgec8,6077.0,sysadmin
+265,"I used VoIP.ms before and they were good.  
+
+Also like support to call with issues",2015-08-09 03:20:56+00:00,ctwj8dq,1.0,t3_3g9qoj,30252.0,sysadmin
+266,"First off thanks for all these comments on a Saturday night.
+
+Most clients already have an aging system from Avaya, Panasonic, etc
+Existing wiring is already in place.  More looking at a system for that.
+
+On the VoIP end I've been nervous about getting into this.  I tried 3cx and liked the familiarity with Windows and the GUI but nervosa regarding the networking end.  For example with clients that have existing analog pbx I would need to share the computer lines and implement vlans. Then need to think about qos. Just concerned about that.  Also have no experience with Linux land",2015-08-09 03:15:13+00:00,ctwj2jw,1.0,t3_3g9qoj,29909.0,sysadmin
+267,"what is the cost like on the aruba instants?
+
+they have high msrp like the rest.
+
+how do they compare to meraki?",2015-08-08 13:23:04+00:00,ctvvhys,1.0,t3_3g34ay,123499.0,sysadmin
+268,"How's pricing on then?
+
+",2015-08-07 05:12:44+00:00,ctui02q,1.0,t3_3g34ay,7679.0,sysadmin
+269,"are they true roaming?
+
+i know they have no controller since one unit acts as a brain.
+
+how is the setup like?
+
+i use Unifi gear but have used Ruckus and just wished Ruckus wasn't so expensive. ",2015-08-07 03:40:28+00:00,ctufgh0,1.0,t3_3g34ay,2143.0,sysadmin
+270,i need to rename most of the computers.  i originally named them after the employee but a lot of change over,2015-08-06 20:49:43+00:00,ctu0zzw,1.0,t3_3g1j5u,4261.0,sysadmin
+271,"What about the renaming of users, not a big deal?
+
+And any fancy way to rename the computers besides connecting to each one and changing and rebooting?",2015-08-06 20:02:28+00:00,cttyzz6,1.0,t3_3g1j5u,1426.0,sysadmin
+272,Most of mine have a local server.  Always more costly to do things in the cloud,2015-08-06 04:28:47+00:00,ctt8gcw,1.0,t3_3fys3c,283.0,msp
+273,Any reason you need to run Windows 7 vms?  Can it not be session based rds?,2015-08-05 04:32:54+00:00,ctrzf4d,1.0,t3_3frwmc,37340.0,msp
+274,It is not DFS share.  ,2015-08-04 22:09:41+00:00,ctrmh7u,1.0,t3_3fskya,4597.0,sysadmin
+275,I looked at that and its on unlimited for all,2015-08-04 20:24:33+00:00,ctri9q4,1.0,t3_3fs3w3,5113.0,sysadmin
+276,"MX64 Lan Port 1 goes into Port 1 on HP 1910, Port 24 on HP 1910 goes into Port 24 on a second HP 1910.  Ports 1-8 on the second switch has all access points.
+
+VLAN must be working since I grab the VLAN50 Address when connected, and when on the Office wireless I get the VLAN 1 (default) IP range",2015-08-04 19:12:22+00:00,ctrf62p,1.0,t3_3fs3w3,782.0,sysadmin
+277,Yes you buy it through a syndicated partner like Appriver,2015-07-31 23:33:50+00:00,ctnecev,1.0,t3_3fcncc,509.0,sysadmin
+278,Just make me an offer. ,2015-07-31 10:50:05+00:00,ctmn6ps,1.0,t3_3f8jz4,32350.0,sysadmin
+279,"Should have mentioned.  Only me and one other.  
+
+Secret Server bit pricey for two users",2015-07-31 01:21:51+00:00,ctm9qx9,1.0,t3_3f5ot6,43023.0,sysadmin
+280,"You are correct, when I started to copy it deleted the old set.
+
+What is the best practice for Shadow Copies?  No limit?  ",2015-07-28 22:03:01+00:00,ctjj1ec,2.0,t1_ctje8w5,6880.0,sysadmin
+281,"its blocking:
+%appdata%
+%appdata%\*
+%userprofile%
+%programdata%
+%localappdata%
+Recycle Bin
+Startup Folder
+",2015-07-28 21:49:45+00:00,ctjihxw,1.0,t3_3exsoe,7137.0,sysadmin
+282,"Looking specifically at the WebDAV portion.
+
+From the images the get similar to RWW in SBS and can access files over the web site",2015-07-27 03:24:44+00:00,cthdqwd,1.0,t3_3ent8d,47031.0,sysadmin
+283,"What have you looked at as alternative?
+
+What program do they use to browse on iPad?",2015-07-26 12:04:51+00:00,ctglkbe,1.0,t3_3eku4d,65716.0,sysadmin
+284,"Is this true vdi or rds?
+
+Mspbymsp, can I reach out to you directly to inquire?
+
+I'm a small msp but interested in doing this",2015-07-25 15:08:23+00:00,ctfq252,1.0,t3_3egcho,85569.0,msp
+285,"what is the network infrastructure like?
+e-mail?
+av?
+rmm?
+etc
+",2015-07-24 04:03:48+00:00,cte7qzz,1.0,t3_3eenve,175.0,sysadmin
+286,"They are already on domain, just realized intel doesn't make 1tb ssd so Samsung it is.  Will be backed up with storage craft.  About $500 cheaper then the dell t110 which isn't much of an upgrade.
+
+",2015-07-21 03:30:39+00:00,ctaibel,1.0,t3_3e04qb,16664.0,sysadmin
+287,Quickbooks.  Just really a file server.  ,2015-07-21 00:17:58+00:00,ctabst5,1.0,t3_3e04qb,5103.0,sysadmin
+288,Check out that officejet pro X.  For the money I rate above the brother color laser.  Brothers tend to need fuser and drum at 30k pages which is a good cost,2015-07-19 10:14:14+00:00,ct8is3c,1.0,t3_3drjhd,52552.0,msp
+289,Curious to hear his it goes,2015-07-19 03:59:45+00:00,ct8c3ie,2.0,t1_ct89pd2,5498.0,sysadmin
+290,"SoonR?
+",2015-07-19 03:12:18+00:00,ct8avai,1.0,t3_3drxk6,19722.0,sysadmin
+291,"Reparability.... No cheap printers are and I wouldn't repair printers
+
+HP Officejet Pro X has been great to deploy.  Good margin.  I but 3 year squaretrade
+
+Otherwise Dell with three year warranty.
+
+",2015-07-19 03:10:25+00:00,ct8atk2,1.0,t3_3drjhd,27123.0,msp
+292,"The best are the ones that send a text, then I call back and they don't pick up, but respond with a text, then I call again an no answer.,",2015-07-18 06:13:05+00:00,ct7gqp3,1.0,t3_3dnspx,37234.0,msp
+293,"This unit would just be for in the field work:
+- Remote accessing a server/workstation - RDP, Teamviewer, LMI
+- Access email in Outlook
+- Configuring a router, switch, access point
+- Taking notes 
+
+Very minimal things.  ",2015-07-17 19:55:22+00:00,ct6xs0g,1.0,t3_3dl6ys,56701.0,sysadmin
+294,"Gotomsp,
+
+I use the msp version of storagecraft.  Low monthly cost.  I back up locally to a USB drive and replicate Odysseus with the imagemanager ftp to a large data store offsite.  Has been flawless
+
+I don't get local virtualization but can restore the image back at the office on a temp server
+
+Using a dell t20 or thinkserver is a good idea but you have more upfront cost
+
+I also so this for altaro.  I include the cost. 
+
+For example if my client has 4 servers virtual or physical and I'm trying to sell on msp platform.  I can use that as my bargaining tool.  For $100-$150 month ayce plan will include backup or for xxx a month only get backup.
+
+",2015-07-15 04:41:43+00:00,ct3ty9u,7.0,t1_ct3ezjw,25908.0,msp
+295,"Agdlp?
+
+I generally share to everyone then I have groups but they are film control on ntfs",2015-07-15 01:49:03+00:00,ct3odht,1.0,t3_3dbptz,2927.0,msp
+296,I'll check out barracuda and mailstorm thanks,2015-07-14 00:37:56+00:00,ct2d5xo,1.0,t3_3co5lt,388436.0,msp
+297,"what was the password tool you used to help?
+",2015-07-13 22:40:56+00:00,ct293u8,1.0,t3_3d5pla,13370.0,sysadmin
+298,Generally just a 2tb external on the server but sometimes a NAS,2015-07-09 12:44:40+00:00,csxc1cr,3.0,t1_csx4w13,24906.0,msp
+299,"I have gone to storagecraft directly.  Most clients can't afford datto, I backup locally to local storage and issue with the ftp solution",2015-07-09 05:22:51+00:00,csx49k7,1.0,t3_3cma1r,17233.0,msp
+300,Cant this be done with ts gateway?,2015-07-07 19:34:53+00:00,csvbtd9,1.0,t3_3cga1e,5567.0,msp
+301,"I use Appriver for email and intermedia for VoIP
+
+I stop office 365 and all other email services because Appriver had much better support.
+
+Intermedia VoIP is great",2015-07-06 22:59:20+00:00,csuclz2,1.0,t3_3ca1jb,56051.0,msp
+302,That t20 is good.  I often put ssd drives in it and people are happy,2015-07-04 15:03:55+00:00,csrzex1,1.0,t3_3c31zz,26066.0,sysadmin
+303,Give them a new i5 machine with SSD and see if problem goes away.,2015-06-30 01:19:44+00:00,csn20hd,1.0,t3_3bh319,76359.0,msp
+304,I tried doing mbam but after about twenty emails to them and no response big hard,2015-06-30 01:11:57+00:00,csn1ra2,1.0,t3_3bigmm,39033.0,msp
+305,What permissions are recommended on a share?,2015-06-29 04:13:18+00:00,csm2u0f,1.0,t3_3bgogl,8830.0,sysadmin
+306,I do all Dell as well no issues.,2015-06-24 18:59:37+00:00,cshd9em,2.0,t1_csg5yaq,88247.0,msp
+307,Hikvision,2015-06-19 03:16:30+00:00,csbhq7c,1.0,t3_3acaok,15314.0,sysadmin
+308,"I like SoonR.  Has editor built in.
+Anchor has minimums",2015-06-17 11:45:04+00:00,cs9g565,1.0,t3_39yz7l,132891.0,msp
+309,Appriver all the way,2015-06-17 02:29:28+00:00,cs94eiy,1.0,t3_3a1a3s,47691.0,msp

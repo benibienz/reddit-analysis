@@ -1,0 +1,40 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"I usually don't use API's from other developers, except things like Google Analytics and whatnot.
+
+I think that over the last year, there have been a lot of new PDF Scanner type apps released, which has eaten into the downloads quite a bit.  I suppose if somebody wanted to buy my app, I wouldn't be opposed, if the price was right.  But as for me, I am looking into different genres now, perhaps ones a bit less crowded.",2015-12-09 22:22:59+00:00,cxtdi19,4,t1_cxku8wf,609203,androiddev
+1,"Really I don't do anything special in terms of marketing or generating interest.  I usually just throw a bunch of basic-functionality apps out there across different genres, and if one of them starts to gain a modest amount of traction, I go back and focus efforts on that app.
+
+I have found that I am a bad judge of what kinds of apps and games actual users like in the marketplace, so using this sort of ""spray and pray"" method has worked out pretty good for me so far.",2015-12-02 20:05:29+00:00,cxkrd0d,2,t1_cxjq8c4,74239,androiddev
+2,"I don't know exactly how many total installs I have, since I have so many apps across different platforms.  But my top app has over 5 million installs right now just on it's own, if that gives any indicaiton",2015-12-02 20:02:47+00:00,cxkr8pz,2,t1_cxjq1r2,74360,androiddev
+3,"Yeah, that's a good question.  I think it's because they want you to upgrade to their ""business"" package if you want to host your own.  The problem is, the business packages offer slower speeds and cost 3-4 times more.  So I don't think so.",2015-11-04 02:17:18+00:00,cwnocbv,4,t1_cwmadrx,91758,androiddev
+4,"The $440/mo is for three cloud hosting 'droplets' that I have from digitalocean.com
+
+I am using:
+
+8gb ram/60gb hd server for rp-forums.net
+4gb ram/60gb hd server for bastecklein.com
+32gb ram/320gb hd for market.ape-apps.com
+
+I also have a dedicated server from godaddy.com for ape-apps.com, which I paid for one year up front.
+
+I believe that my rp-forums.net server is sized appropriately, but I think that the other two are overkill and could be downsized quite a bit, it is only a matter of taking the time to do it.  They don't provide an easy way to downsize a server without just rebuilding a new instance from scratch, so that is ultimately what i am going to have to do, especially on market.ape-apps.com, which I have already made significant changes to in order to reduce it's system and bandwidth requirements.
+
+Anyway, this server stuff is one of my weak spots in terms of knowledge, so I am probably ripping myself off here.  I wish I could just host everything from my house, but my ISP is against that
+
+",2015-11-02 18:39:50+00:00,cwlv6a1,2,t1_cwlroj0,4906,androiddev
+5,"Just wondering, what do you see as the risk?",2015-10-14 14:22:12+00:00,cvzeiee,4,t1_cvm75gz,1007897,androiddev
+6,"Well, according to my Google Analytics tracking, I have a total of (on average) between 170,000 and 200,000 impressions per day.
+
+I don't have exact figures on the ad network breakdown off hand.  It's hard to compute on Facebook too, since they break everything down by app as opposed to giving you a grand total.  Well, not hard to compute really, just that I am too lazy to do so.",2015-10-02 18:03:19+00:00,cvlxe4i,2,t1_cvklnv0,93922,androiddev
+7,I agree with your assessment.  ,2015-08-03 11:39:41+00:00,ctpsjnb,2,t1_ctors62,88269,androiddev
+8,"I like to throw a bunch out there and see what sticks, then focus on those and make them as good as I can.
+
+For instance, I haven't released anything new yet this year, I have just been updating the apps that have already been successful.
+
+And yeah, almost all of my revenue is from ads.",2015-08-02 02:12:12+00:00,ctohbpj,6,t1_ctoc82p,10479,androiddev
+9,"Pretty much.  I make regular monthly updates to my top 10 apps (which generate about 75% of all of my revenue).  The others, I just update whenever I feel like it.",2015-08-01 18:01:16+00:00,cto2xns,2,t1_cto1umt,2180,androiddev
+10,Yeah.  I have been at it since mid-2010,2015-08-01 17:21:29+00:00,cto1qzb,4,t1_ctnzulr,3892,androiddev
+11,Over 200,2015-08-01 17:11:15+00:00,cto1g9s,2,t1_cto0ns7,1584,androiddev
+12,"Sure, here is a site that has all of my apps listed, with app store links
+http://apps.ape-apps.com",2015-08-01 15:59:54+00:00,ctnzdrg,2,t1_cspvlui,2597168,androiddev
+13,I really don't do anything special in terms of advertising and marketing.  I think it comes down to luck and the sheer number of apps I have published.,2015-08-01 15:48:36+00:00,ctnz2if,2,t1_cspo0iy,2619563,androiddev

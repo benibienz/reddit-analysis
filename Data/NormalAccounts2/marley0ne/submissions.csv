@@ -1,0 +1,500 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-10-22 20:47:48+00:00,self.msp,https://www.reddit.com/r/msp/comments/58v4vq/centrestack_filecloud/,False,Anyone using either of these?  How has it been?,msp,"Centrestack, FileCloud?",https://www.reddit.com/r/msp/comments/58v4vq/centrestack_filecloud/
+1,2016-10-04 22:01:28+00:00,self.msp,https://www.reddit.com/r/msp/comments/55w3br/hard_drive_failure_and_rmm_tools/,False,"So from Max to N-CENTRAL I'm still getting drive failure without any alerts to my side except the client calling that the machine doesn't boot.
+
+Seems like all told rely on SMART which must not be reliable enough.
+
+What can I do to get better alerts?
+
+Anyone using a script with smartctl out similar?",msp,Hard drive failure and rmm tools,https://www.reddit.com/r/msp/comments/55w3br/hard_drive_failure_and_rmm_tools/
+2,2016-10-04 21:51:02+00:00,self.msp,https://www.reddit.com/r/msp/comments/55w1fx/event_id_monitoring/,False,Anyone mind sharing what event id your monitoring on workstations and servers?,msp,Event ID Monitoring?,https://www.reddit.com/r/msp/comments/55w1fx/event_id_monitoring/
+3,2016-09-21 22:36:00+00:00,self.msp,https://www.reddit.com/r/msp/comments/53vuzx/nable_users/,False,Who here is running N-Central?,msp,N-Able Users,https://www.reddit.com/r/msp/comments/53vuzx/nable_users/
+4,2016-09-16 06:15:05+00:00,self.msp,https://www.reddit.com/r/msp/comments/530lrz/rds_server_in_the_cloud/,False,"Looking to start offering cloud desktops or hosted servers.  Not sure where to even start.
+
+Any assistance?",msp,RDS Server in the Cloud,https://www.reddit.com/r/msp/comments/530lrz/rds_server_in_the_cloud/
+5,2016-07-08 16:13:03+00:00,self.msp,https://www.reddit.com/r/msp/comments/4rvfiw/documentation_with_basic_apps_onenote_word_excel/,False,"Anyone want to share a template they are using for one of these ""basic"" applications?",msp,"Documentation with Basic Apps - OneNote, Word, Excel, etc",https://www.reddit.com/r/msp/comments/4rvfiw/documentation_with_basic_apps_onenote_word_excel/
+6,2016-07-07 17:04:40+00:00,self.mspjobs,https://www.reddit.com/r/mspjobs/comments/4rpnxt/hiring_long_island_ny/,False,"We are seeking a technician to join our Managed Services team in our Westhampton, NY office. You will part of a growing, fast paced team, assisting customers with problems ranging from simple applications issues and server administration to assisting senior engineers with complex network or server projects. You will be responsible for reviewing, analyzing, diagnosing, resolving or escalating trouble issues and participating in the ongoing review and improvement of customer environments.
+Key qualifications include: • Ability to work patiently with people at all levels of experience and technical knowledge. • Detail oriented and methodical when troubleshooting issues. • Knowledge or hands-on experience with troubleshooting Windows XP/Vista/7, Windows Server 2003/2008/2012, Exchange 2003/2007/2010/2013, and MS Office Suites 2003/2007/2010/2013. • Proficiency in Active Directory system administration • Troubleshooting Laptop/Desktop hardware • Mobile device support iPhones, Blackberry, Androids, etc. • Solid understanding of LAN/WAN technologies, TCP/IP troubleshooting • Experience working with telecommunications providers • VOIP / SIP / PBX • AS and/or relevant certifications and experience • Ability to speak English clearly and articulately • Excellent written English skills • Reliable transportation and clean driving record
+Candidates with the following additional skills will be considered first: • Proficiency in Windows Server management • Active Directory, DNS, DHCP, VPN, DFS • Exchange 2007 &amp; 2010 • VMware VSphere and Microsoft Hyper-V experience • Firewalls/Routers - Cisco, SonicWall • Proficiency in LAN/WAN networking troubleshooting • Wireless technologies • Mac OSX knowledge &amp; support • MCP, MCSE, Net+, A+ Certifications • Experience working within PSA / RMM systems",mspjobs,"Hiring - Long Island, NY",https://www.reddit.com/r/mspjobs/comments/4rpnxt/hiring_long_island_ny/
+7,2016-07-07 16:44:46+00:00,self.sysadminjobs,https://www.reddit.com/r/sysadminjobs/comments/4rpjzq/long_island_ny_hiring/,False,"We are seeking a technician to join our Managed Services team in our Westhampton, NY office. You will part of a growing, fast paced team, assisting customers with problems ranging from simple applications issues and server administration to assisting senior engineers with complex network or server projects. You will be responsible for reviewing, analyzing, diagnosing, resolving or escalating trouble issues and participating in the ongoing review and improvement of customer environments.
+Key qualifications include: • Ability to work patiently with people at all levels of experience and technical knowledge. • Detail oriented and methodical when troubleshooting issues. • Knowledge or hands-on experience with troubleshooting Windows XP/Vista/7, Windows Server 2003/2008/2012, Exchange 2003/2007/2010/2013, and MS Office Suites 2003/2007/2010/2013. • Proficiency in Active Directory system administration • Troubleshooting Laptop/Desktop hardware • Mobile device support iPhones, Blackberry, Androids, etc. • Solid understanding of LAN/WAN technologies, TCP/IP troubleshooting • Experience working with telecommunications providers • VOIP / SIP / PBX • AS and/or relevant certifications and experience • Ability to speak English clearly and articulately • Excellent written English skills • Reliable transportation and clean driving record
+Candidates with the following additional skills will be considered first: • Proficiency in Windows Server management • Active Directory, DNS, DHCP, VPN, DFS • Exchange 2007 &amp; 2010 • VMware VSphere and Microsoft Hyper-V experience • Firewalls/Routers - Cisco, SonicWall • Proficiency in LAN/WAN networking troubleshooting • Wireless technologies • Mac OSX knowledge &amp; support • MCP, MCSE, Net+, A+ Certifications • Experience working within PSA / RMM systems",sysadminjobs,"Long Island, NY - Hiring",https://www.reddit.com/r/sysadminjobs/comments/4rpjzq/long_island_ny_hiring/
+8,2016-07-01 01:29:46+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/4qp6z3/aftermarket_ssd_in_servers/,False,"I read some older posts on this so figured I would get a new opinion.
+
+Client has a T420 server that was purchased with SATA drives and it is overloaded with disk IO due to running VM and its also running out of space.  I am rebuilding the network.  Need 2TB of usable space.  Server has a year left on warranty which I will renew after that but I was contemplating Samsung 1TB 850 Pro.
+
+Any feedback",sysadmin,Aftermarket SSD in Servers?,https://www.reddit.com/r/sysadmin/comments/4qp6z3/aftermarket_ssd_in_servers/
+9,2016-06-28 22:47:13+00:00,self.msp,https://www.reddit.com/r/msp/comments/4qc9qo/z1_510_user_office_wireless/,False,"I often have a MX64 in the main office.  When they have a remote office of like 1-10 computers often doing another MX64 is too pricey.  
+
+Can a Z1 support an office of like 5 users plus wireless?  Don't need any other features besides vpn as they are hitting a terminal server and all DNS being sent back to corp.",msp,Z1 - 5-10 User Office + Wireless?,https://www.reddit.com/r/msp/comments/4qc9qo/z1_510_user_office_wireless/
+10,2016-06-28 20:10:38+00:00,self.msp,https://www.reddit.com/r/msp/comments/4qbicd/volume_license_recovery/,False,"So new client called me, old IT guy closed up shop and moved out of the US.  Total mess of a network and we are doing a full rebuild.  The old IT priced Server 12 and RDS CALS, however we don't have login information. The client has nothing and old IT is not responding to calls or emails.
+
+How can I get the login information or CAL info?",msp,Volume license recovery?,https://www.reddit.com/r/msp/comments/4qbicd/volume_license_recovery/
+11,2016-06-28 19:02:20+00:00,self.msp,https://www.reddit.com/r/msp/comments/4qb5g6/sbs_servers_wsus_and_rmm_tools/,False,"So I am noticing on all my SBS Servers that have WSUS I am wasting like 15-20GB.  Sometimes this is causing an issue.
+
+What are you guys doing to deal with SBS servers and WSUS when using RMM for Patch Management?  I see like 4 different approaches and I am looking for feedback.",msp,"SBS Servers, WSUS and RMM tools",https://www.reddit.com/r/msp/comments/4qb5g6/sbs_servers_wsus_and_rmm_tools/
+12,2016-06-26 01:30:45+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/4pvho2/office_2013_mail_control_panel_doesnt_load/,False,"So on Friday I connected to a client where I needed to just make a second profile on a workstation for another email account.  No big deal except the control panel for Mail does not load.  Tried all the fixes online and nothing worked.  Ran Microsoft Fix It on the Terry machines reinstalled office and was fine.  No biggie, two machines who cares.
+
+Now this weekend I'm doing a 365 migration for a 13 user office.  All machines have same issue except two that have Office 365.
+
+Has got to be a Windows update that caused it but I'm not finding anything.
+
+Any ideas?
+
+
+",sysadmin,Office 2013 - Mail Control Panel Doesn't Load,https://www.reddit.com/r/sysadmin/comments/4pvho2/office_2013_mail_control_panel_doesnt_load/
+13,2016-06-24 04:43:03+00:00,self.msp,https://www.reddit.com/r/msp/comments/4pl2jb/bitcoin/,False,"Unfortunately a client has caused me after a long time going dark.  NAS and it's local backup encrypted with Locky.
+
+I need to get 2 bitcoin.
+
+Last time I sent one of my guys into NYC to buy but I need to get by credit card and fast.  Everything seems to have limits. 
+
+What can I do?",msp,Bitcoin......,https://www.reddit.com/r/msp/comments/4pl2jb/bitcoin/
+14,2016-06-22 05:35:44+00:00,self.msp,https://www.reddit.com/r/msp/comments/4p9456/storagecraft_msp_costs/,False,"So any way to get licenses cheaper then the $30 physical, $25 virtual?  
+
+",msp,Storagecraft - MSP Costs?,https://www.reddit.com/r/msp/comments/4p9456/storagecraft_msp_costs/
+15,2016-06-21 21:18:15+00:00,self.msp,https://www.reddit.com/r/msp/comments/4p70n4/yeastar_similar/,False,Anything deploying these for clients?  Looking to start deploying phone systems for small biz where hosted doesn't fit,msp,Yeastar? Similar?,https://www.reddit.com/r/msp/comments/4p70n4/yeastar_similar/
+16,2016-06-11 07:06:11+00:00,self.projectors,https://www.reddit.com/r/projectors/comments/4nki70/need_projector_for_presentation/,False,"I have an upcoming meeting where I have to do a presentation.  I pulled out my old projector to find its dead.  
+
+I would rather get a new projector and portable screen.  This is not my area of expertise.  I use this like 2 time a year for PowerPoint presentation.
+
+What can you recommend?",projectors,Need projector for presentation,https://www.reddit.com/r/projectors/comments/4nki70/need_projector_for_presentation/
+17,2016-06-07 15:38:55+00:00,self.msp,https://www.reddit.com/r/msp/comments/4mzmtd/aftermarket_toners/,False,Who are you guys using?  Was using LD Products but seeing if anything better,msp,Aftermarket Toners?,https://www.reddit.com/r/msp/comments/4mzmtd/aftermarket_toners/
+18,2016-05-21 21:24:47+00:00,self.msp,https://www.reddit.com/r/msp/comments/4kfjrc/any_techs_1099/,False,Looking for any business owners here that have a tech as a 1099.  Would like to ask some questions,msp,Any techs 1099?,https://www.reddit.com/r/msp/comments/4kfjrc/any_techs_1099/
+19,2016-05-12 04:09:54+00:00,self.msp,https://www.reddit.com/r/msp/comments/4iyy2s/signed_up_for_mind_matrix/,False,"This is just the start of a thread regarding Mind Matrix.  I signed up for the more expensive plan (~$400 vs $300 for the cheaper plan) plus the custom website build ($1500).
+
+So far positive feedback.  Very responsive for on-boarding, I am behind.
+
+My plan is for them to re-design my image and try to assist with some lead generation.  ",msp,Signed up for Mind Matrix,https://www.reddit.com/r/msp/comments/4iyy2s/signed_up_for_mind_matrix/
+20,2016-05-10 23:06:07+00:00,self.msp,https://www.reddit.com/r/msp/comments/4irzqb/clients_remote_location_internet/,False,"I have a client that has a out building that needs internet for RDP application.  No way to get a standard Cable/DSL.  Was looking at 4G as the cell service is great, however having a hard time finding a provider that can offer unlimited data.
+
+Also have option for satellite.
+
+Any suggestions?",msp,Clients Remote Location - Internet?,https://www.reddit.com/r/msp/comments/4irzqb/clients_remote_location_internet/
+21,2016-05-10 21:54:57+00:00,self.mspjobs,https://www.reddit.com/r/mspjobs/comments/4iro47/remote_support/,False,Anyone looking to do remote support?  Hello Desk to Server work?,mspjobs,Remote Support,https://www.reddit.com/r/mspjobs/comments/4iro47/remote_support/
+22,2016-05-05 02:51:24+00:00,self.msp,https://www.reddit.com/r/msp/comments/4hy2ho/anyone_see_bittitan_concerige_thoughts/,False,https://www.bittitan.com/products/concierge/,msp,Anyone see BitTitan Concerige? Thoughts?,https://www.reddit.com/r/msp/comments/4hy2ho/anyone_see_bittitan_concerige_thoughts/
+23,2016-05-03 05:10:37+00:00,self.msp,https://www.reddit.com/r/msp/comments/4hlsoz/support_email/,False,"How do you handle this?
+Shared mailbox or distribution list?",msp,support email,https://www.reddit.com/r/msp/comments/4hlsoz/support_email/
+24,2016-04-28 23:25:33+00:00,self.msp,https://www.reddit.com/r/msp/comments/4gwq82/anyone_with_museum_clients/,False,"Have a children's museum still running on server 03 due to some legacy software.  Looking to upgrade but not finding good software package that does front ticket sales, member management, donations, gift shop etc.
+
+They were looking at Altru but bad a 20g year price tags",msp,Anyone with museum clients?,https://www.reddit.com/r/msp/comments/4gwq82/anyone_with_museum_clients/
+25,2016-04-23 06:15:37+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/4g2dr8/slow_vpn_access_of_files/,False,"Have a client that has three sites.  All with 100/30 internet pipes behind a Zyxel USG50 firewall.  Speed tests are showing right around that.
+
+Previous setup had a computer at Site1 with a shared folder, Site2 with shared folder.
+
+The sites before had no delay of accessing files.
+
+I installed a Synology at site 3.  
+
+Large delay in opening 10mb or larger files over the vpn.
+
+Copying files from site 3 to site 1 or 2 seems delay.
+Copying files from site 1 or 2 to site 3 is fast.
+
+I'm thinking it's something with the Synology but not sure where to look",sysadmin,Slow VPN access of files,https://www.reddit.com/r/sysadmin/comments/4g2dr8/slow_vpn_access_of_files/
+26,2016-04-17 19:48:04+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/4f8595/best_way_to_access_windows_file_server_remotely/,False,"Thought webdav over iis was good until it stopped working in El Capitan.
+
+Client has like 1ish TB of data on internal network.  Wants to connect to it outside on his Mac laptop.
+
+Best way?  Just VPN and map?  Or something cleaner?",sysadmin,Best way to access Windows File Server remotely from Mac?,https://www.reddit.com/r/sysadmin/comments/4f8595/best_way_to_access_windows_file_server_remotely/
+27,2016-04-14 17:09:28+00:00,self.msp,https://www.reddit.com/r/msp/comments/4es5qx/mspknowledge/,False,Anyone using?,msp,MSPKnowledge?,https://www.reddit.com/r/msp/comments/4es5qx/mspknowledge/
+28,2016-04-09 23:51:57+00:00,self.Dentistry,https://www.reddit.com/r/Dentistry/comments/4e3nu5/dentist_job_subforum_looking_for_dentist_for/,False,Not sure if appropriate but looking for a dentist to work at our dental office on the East End of Long island,Dentistry,Dentist Job Subforum? Looking for Dentist for wife's office - East End of Long Island,https://www.reddit.com/r/Dentistry/comments/4e3nu5/dentist_job_subforum_looking_for_dentist_for/
+29,2016-04-08 23:08:49+00:00,self.msp,https://www.reddit.com/r/msp/comments/4dyx6v/meraki_z1/,False,"Would like to use this at some small offices, like 5-10 workstations and a file server with a few wireless users.
+
+Would it hold up?
+
+Trying to stop using TP link and Asus router's",msp,Meraki Z1,https://www.reddit.com/r/msp/comments/4dyx6v/meraki_z1/
+30,2016-04-08 06:23:08+00:00,self.msp,https://www.reddit.com/r/msp/comments/4dv7w9/trying_to_consolidate_backups_looking_for_advice/,False,"I'm currently running Crashplan Pro on about 70 workstations or small servers.  Cost is $10/month per device.
+
+I then run Altaro on a number of HyperV hosts and back then up locally them offsite to a30tb server in my office.  These are encrypted.  I sell this software to the client and include the offsite storage as part of the contract. For break fix clients I charge for the offsite.
+
+I signed up for StorageCraft and have a $250/month bill for licenses.  I backup locally to USB Drive and offsite by FTP to my backup server.
+
+I also run Cloudberry on a few XP machines for a client and it just works.
+
+I'm looking to consolidate.  Clients are primarily in HyperV but some a physical servers.  I'm tired of paying Crashplan for a poor product.  StorageCraft is great but the cost of $25-$30 a server is hurting.
+
+Veeam looked good but reading mixed things here.  Would significantly drop costs.
+
+I would move ask the Crashplan users to Endpoint backup to a local drive and then a B&amp;R repository of just to a cloud repository. My virtual machines would get the $10 license and $5 cloud connect.
+
+My needs and my clients are the following:
+- image based backup
+- ability to restore individual files easy.  Ideally by mounting the latest backup and restoring
+- if server does, ability to restore the physical server back to a physical loaner or ideally a virtual machine
+- reliable
+- offsite
+- easy to monitor (I run n-central)
+
+No client has require the BDR but would be cool to be able to spin up a backup.
+
+Thoughts?
+
+",msp,Trying to Consolidate Backups - Looking for advice,https://www.reddit.com/r/msp/comments/4dv7w9/trying_to_consolidate_backups_looking_for_advice/
+31,2016-03-26 18:10:22+00:00,self.msp,https://www.reddit.com/r/msp/comments/4c26pl/ulistic_whos_using/,False,"Anyone using our used?
+
+",msp,Ulistic - Who's using?,https://www.reddit.com/r/msp/comments/4c26pl/ulistic_whos_using/
+32,2016-03-22 21:21:04+00:00,self.msp,https://www.reddit.com/r/msp/comments/4bjgzh/marketing_for_msp/,False,"I am looking into this again.  
+
+Spoke with Carrie
+Spoke in the past with Pronto
+
+Not really sure where to go.  Have a very word of mouth area.  ",msp,Marketing for MSP?,https://www.reddit.com/r/msp/comments/4bjgzh/marketing_for_msp/
+33,2016-03-17 23:53:43+00:00,self.sysadminjobs,https://www.reddit.com/r/sysadminjobs/comments/4avtkd/hiring_level_12_eastern_long_island_ny/,False,"We are seeking a technician to join our Managed Services team in our Westhampton, NY office. You will part of a growing, fast paced team, assisting customers with problems ranging from simple applications issues and server administration to assisting senior engineers with complex network or server projects. You will be responsible for reviewing, analyzing, diagnosing, resolving or escalating trouble issues and participating in the ongoing review and improvement of customer environments.
+
+Key qualifications include:
+•	Ability to work patiently with people at all levels of experience and technical knowledge.
+•	Detail oriented and methodical when troubleshooting issues.
+•	Knowledge or hands-on experience with troubleshooting Windows XP/Vista/7, Windows Server 2003/2008/2012, Exchange 2003/2007/2010/2013, and MS Office Suites 2003/2007/2010/2013.
+•	Proficiency in Active Directory system administration
+•	Troubleshooting Laptop/Desktop hardware
+•	Mobile device support iPhones, Blackberry, Androids, etc.
+•	Solid understanding of LAN/WAN technologies, TCP/IP troubleshooting
+•	Experience working with telecommunications providers
+•	VOIP / SIP / PBX
+•	AS and/or relevant certifications and experience
+•	Ability to speak English clearly and articulately
+•	Excellent written English skills
+•	Reliable transportation and clean driving record
+
+Candidates with the following additional skills will be considered first:
+•	Proficiency in Windows Server management
+•	Active Directory, DNS, DHCP, VPN, DFS
+•	Exchange 2007 &amp; 2010
+•	VMware VSphere and Microsoft Hyper-V experience
+•	Firewalls/Routers - Cisco, SonicWall
+•	Proficiency in LAN/WAN networking troubleshooting
+•	Wireless technologies
+•	Mac OSX knowledge &amp; support
+•	MCP, MCSE, Net+, A+ Certifications
+•	Experience working within PSA / RMM systems
+",sysadminjobs,"[Hiring] Level 1/2 - Eastern Long Island, NY",https://www.reddit.com/r/sysadminjobs/comments/4avtkd/hiring_level_12_eastern_long_island_ny/
+34,2016-03-12 19:10:56+00:00,self.msp,https://www.reddit.com/r/msp/comments/4a51q7/meraki_how_are_you_charging/,False,"How are you all charging for this?  Have client but equipment then just charge then the license cost monthly?
+
+Would like to standardize on this.  Have a client I just put in a mx64, they want upgrade WiFi and Meraki may be in budget just not sure how to price this for 5-7 access points and poe switch ",msp,Meraki - how are you charging?,https://www.reddit.com/r/msp/comments/4a51q7/meraki_how_are_you_charging/
+35,2016-03-08 19:59:22+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/49k97i/rise_in_rdp_exploit/,False,"I know not best practice but I have a lot of sites that are just port forwards for RDP (3390 to internal 3389, etc).  
+
+I have gotten a few calls this and last week with users saying they come in with another user logged in.  Generally these were some guest logins for scanning or pos with easy password.
+
+Most of these sites also had domain users as a local admin, allowing RDP.
+
+Seems odd how this is such a growth over the last year or so.
+
+Is having a TS Gateway more reliable and secure?  ",sysadmin,Rise in RDP Exploit?,https://www.reddit.com/r/sysadmin/comments/49k97i/rise_in_rdp_exploit/
+36,2016-03-08 05:29:15+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/49gzpi/mac_and_office_365_kill_me/,False,"So client asks me to get them a Mac.  No problem.  Start setting it up, add their Office 365 address to Mac Mail, got the mail, calendar going.  But now the contacts just don't load and gives ""The operation couldn't be completed. (SOAPWebServicesErrorDomain error -997.)""
+
+Found this article - https://discussions.apple.com/thread/6691918?start=30&amp;tstart=0
+
+Things tried:
+- deleted all contacts out of the user mailbox on her PC.
+- even a black contact database throws the error
+- created new user account on Mac - same issue
+- Contact Appriver who said it should just work and suggest try again
+- Ran script in above article
+- Moved all contacts into a temp iCloud account (syncs fine)
+- Tried to move them back or create new contacts and errors
+- INstalled Office 2016 and setup in Outlook and it works fine.
+
+I don't know where to go with this.  What is odd is the client has a old mac with Mavericks and it works fine.  Not sure if related to El Capitan or what.
+
+Anyone?  ",sysadmin,Mac and Office 365 - Kill me....,https://www.reddit.com/r/sysadmin/comments/49gzpi/mac_and_office_365_kill_me/
+37,2016-03-06 16:41:33+00:00,self.msp,https://www.reddit.com/r/msp/comments/4980ww/new_office_build_out/,False,"Anyone want to share some pictures/layout of their offices?  
+",msp,New office build out,https://www.reddit.com/r/msp/comments/4980ww/new_office_build_out/
+38,2016-02-19 23:30:36+00:00,self.msp,https://www.reddit.com/r/msp/comments/46ngpr/tool_bags/,False,"Looking for a new bag.  Hold things like crimper, punch, tester, toner and probe, sxrew driver, flashlight, etc
+
+What you guys using in the field?",msp,Tool bags,https://www.reddit.com/r/msp/comments/46ngpr/tool_bags/
+39,2016-02-17 20:09:10+00:00,self.msp,https://www.reddit.com/r/msp/comments/46aoqx/live_migration_of_a_cloud_server/,False,"Got a client on a cloud server where the company sucks.
+
+Looking to do a live migration and then just change dns.
+
+What options do I have without getting a local USB drive?",msp,Live migration of a cloud server?,https://www.reddit.com/r/msp/comments/46aoqx/live_migration_of_a_cloud_server/
+40,2016-02-14 18:49:50+00:00,self.msp,https://www.reddit.com/r/msp/comments/45s9pn/monitor_only_plan_or_a_silver_plan/,False,"I'm trying to get all break fix clients on a ""plan 1"", something Klinge $10/month for workstations that does nothing more than AV, Patch and Monitor.  I can't seem to come up with a price for servers.  I don't want to include patch management.   Just monitoring and alerts.
+
+What are you guys doing with this type of solution?",msp,Monitor Only Plan or a Silver Plan?,https://www.reddit.com/r/msp/comments/45s9pn/monitor_only_plan_or_a_silver_plan/
+41,2016-02-09 18:09:58+00:00,self.msp,https://www.reddit.com/r/msp/comments/44xzht/hiring_technicians_keeping_clients/,False,"I am growing to the point where I need to hire.  I am worried about the technician eventually walking off with clients.
+
+What can be done?  ",msp,Hiring Technicians - Keeping Clients,https://www.reddit.com/r/msp/comments/44xzht/hiring_technicians_keeping_clients/
+42,2016-02-08 19:40:47+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/44skym/sbs_2011_autodiscover/,False,"In the past I would just manually setup the remote clients.  I have found this isn't going to work with new Mac OS and Office 2016.
+
+I found one guide to make a srv record but that doesn't seem to be working either.
+
+What is the best approach for this?",sysadmin,SBS 2011 - Autodiscover?,https://www.reddit.com/r/sysadmin/comments/44skym/sbs_2011_autodiscover/
+43,2016-02-08 06:37:34+00:00,self.msp,https://www.reddit.com/r/msp/comments/44prix/secondary_4g_internet_connection/,False,"Any MSP friendly 4G internet isp?  Looking to offer this to some clients as a backup solution.  Need to be able to mount externally in some clients as well as normal internal. 
+",msp,Secondary 4G Internet Connection?,https://www.reddit.com/r/msp/comments/44prix/secondary_4g_internet_connection/
+44,2016-02-04 23:24:14+00:00,self.msp,https://www.reddit.com/r/msp/comments/447zbr/cloudberryazure_storage_experts/,False,"So just started playing with this and confused at the whole thing.
+
+I am walking through the wizard for Cloudberry MSP and it seems like all clients will backup to a single ""resource group"" in Azure?  
+
+I was thinking that I will create a different ""resource group"" for each client and configure the software to go to that.
+
+Am I wrong?  ",msp,CloudBerry/Azure Storage Experts?,https://www.reddit.com/r/msp/comments/447zbr/cloudberryazure_storage_experts/
+45,2016-02-03 17:50:31+00:00,self.msp,https://www.reddit.com/r/msp/comments/440y6q/file_based_backup_solution/,False,"Currently using Crashplan Pro, just reselling it, I am looking for a change.
+
+Would ideally like to be self hosted on my own storage like StorageCraft.  Any solutions?",msp,File Based Backup Solution?,https://www.reddit.com/r/msp/comments/440y6q/file_based_backup_solution/
+46,2016-01-31 19:29:16+00:00,self.msp,https://www.reddit.com/r/msp/comments/43kh4o/how_are_your_performingautomating_server/,False,How is everyone handling this?  I'm still connecting and restarting server and checking health etc,msp,How are your performing/automating server maintenance?,https://www.reddit.com/r/msp/comments/43kh4o/how_are_your_performingautomating_server/
+47,2016-01-31 06:33:12+00:00,self.msp,https://www.reddit.com/r/msp/comments/43i3a9/shadow_protect_offsite_server_configuration/,False,"How are you guys configuring your offsite backup servers?
+
+I have a Server 2012 box with Raid 6, Filezilla and it runs just on bare physical.  Been thinking of how a larger deployment is setup.  Sounds this be in hyper V?  How do you have the ftp server setup?",msp,Shadow Protect Offsite Server Configuration?,https://www.reddit.com/r/msp/comments/43i3a9/shadow_protect_offsite_server_configuration/
+48,2016-01-30 21:59:23+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/43g4vq/sbs_2008_to_server_2012_r2_with_essentials_role/,False,"I see the migration is pretty much like any of the other ones.  What I'm confused about is it doesn't seem like the machines will be listed under Devices on the console.  Do you then need to run the connect wizard on each device again?
+
+",sysadmin,SBS 2008 to Server 2012 R2 with Essentials Role,https://www.reddit.com/r/sysadmin/comments/43g4vq/sbs_2008_to_server_2012_r2_with_essentials_role/
+49,2016-01-26 16:00:52+00:00,self.msp,https://www.reddit.com/r/msp/comments/42s4ik/hosted_pbx_with_sms_support/,False,"I am in a massive bind and looking for a hosted voice/pbx with SMS support.  Ringcentral does not work.
+
+Any ideas?",msp,Hosted PBX with SMS Support?,https://www.reddit.com/r/msp/comments/42s4ik/hosted_pbx_with_sms_support/
+50,2016-01-24 16:15:31+00:00,self.msp,https://www.reddit.com/r/msp/comments/42gf9r/ncentral_consultant/,False,I'm sure many members here use N-Able.  I'm still new to it and would like the help of someone a bit seasoned to get me running more effectively.  Anyone interested in some consultant work?,msp,N-Central Consultant?,https://www.reddit.com/r/msp/comments/42gf9r/ncentral_consultant/
+51,2016-01-23 22:59:31+00:00,self.mspjobs,https://www.reddit.com/r/mspjobs/comments/42d87g/msp_position_eastern_long_island/,False,Have a position on Eastern Long Island.  Not sure if anyone is out this way.  ,mspjobs,MSP Position - Eastern Long Island,https://www.reddit.com/r/mspjobs/comments/42d87g/msp_position_eastern_long_island/
+52,2016-01-23 16:28:42+00:00,self.msp,https://www.reddit.com/r/msp/comments/42bh8x/arawrpc/,False,anyone use them/,msp,arawrpc?,https://www.reddit.com/r/msp/comments/42bh8x/arawrpc/
+53,2016-01-22 21:28:02+00:00,self.msp,https://www.reddit.com/r/msp/comments/427oo8/male_or_female_auto_attendant/,False,What do you guys suggest?,msp,Male or Female Auto Attendant?,https://www.reddit.com/r/msp/comments/427oo8/male_or_female_auto_attendant/
+54,2016-01-21 04:30:19+00:00,self.msp,https://www.reddit.com/r/msp/comments/41y9xq/whos_got_the_best_msp_site/,False,"Looking to get some ideas for a new site, anyone want to share your current site?",msp,Who's got the best MSP site?,https://www.reddit.com/r/msp/comments/41y9xq/whos_got_the_best_msp_site/
+55,2016-01-20 21:53:07+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/41wlar/cat56_ends_and_crimpers/,False,"What are you guys using?  I'm using a Klein tool which has been fine but I must have got a bad batch of ends.  I purchased like 15 100 packs of Cat5e ends on Amazon and are requiring multiple terminations due to faulty metal in the end ( offset out something).  First few bags were good
+
+",sysadmin,Cat5/6 Ends and Crimpers,https://www.reddit.com/r/sysadmin/comments/41wlar/cat56_ends_and_crimpers/
+56,2016-01-12 21:12:12+00:00,self.msp,https://www.reddit.com/r/msp/comments/40ogdj/white_label_webdesign/,False,"Looking for a company to outsource web design to.  Not fit my own msp site but for clients wanting new sites
+
+",msp,White Label Webdesign?,https://www.reddit.com/r/msp/comments/40ogdj/white_label_webdesign/
+57,2016-01-09 13:05:35+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/4067vh/server_2012_with_essential_role_client/,False,"Pulling my hair out with this one.  Newly deployed server for a20 firm office.  They can't search the shared S drive.  On the server I can but not from the workstations.
+",sysadmin,"Server 2012 with Essential Role, Client workstations can't search shared drive maps or folder",https://www.reddit.com/r/sysadmin/comments/4067vh/server_2012_with_essential_role_client/
+58,2016-01-07 03:34:47+00:00,self.BitMarket,https://www.reddit.com/r/BitMarket/comments/3ztm4t/wtb_167_btc/,False,[removed],BitMarket,[WTB] 1.67 BTC,https://www.reddit.com/r/BitMarket/comments/3ztm4t/wtb_167_btc/
+59,2016-01-06 21:43:26+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3zs0jp/crypto_wall_need_info_from_those_that_paid/,False,"My only option right now is to pay.
+What is needed to do this?
+Do you need the original machine that was infected?
+The original machine was a receptionist machine that we pulled.  I thought I had shadow copies but when I started to restore they were deleted by Cryptowall.  The SBS backup was listed as successful but this didn't list the exceptions and that it stopped backing up the data partition and the client has not swapped external drives.
+
+I don't care about paying the grand it whatever just need to know what the steps are like.  Do they send you a tool to run?  Does the original machine need to be running on the network with ask shares?  I killed all share ASAP",sysadmin,Crypto wall - Need info from those that paid,https://www.reddit.com/r/sysadmin/comments/3zs0jp/crypto_wall_need_info_from_those_that_paid/
+60,2015-12-25 14:06:14+00:00,self.VOIP,https://www.reddit.com/r/VOIP/comments/3y6llr/solution_for_starting_company_with_cell_phone/,False,"I started my one man msp with just my cell number, now that I've grown this had become an issue as I can only route the incoming calls.
+
+I have hosted VoIP with Intermedia but only use this to place calls from my other tech or to call out to clients.
+
+I need to somehow get my cell number to become route able both text and calls to the hosted VoIP.
+
+I have only come up with porting number to google voice and then having Google voice call the auto attendant number in Intermedia. With this solution clients can still text me and I'll receive in hangout.
+
+I'm not sure I want to rely on Google for this and rather a command that has support.
+
+Intermedia can port the number but text messages will not work.
+
+Thanks and Merry Christmas",VOIP,Solution for starting company with cell phone,https://www.reddit.com/r/VOIP/comments/3y6llr/solution_for_starting_company_with_cell_phone/
+61,2015-12-25 04:33:43+00:00,self.msp,https://www.reddit.com/r/msp/comments/3y5h1d/phone_solution_for_starting_msp_with_a_cell_number/,False,[removed],msp,Phone Solution for Starting MSP with a Cell Number,https://www.reddit.com/r/msp/comments/3y5h1d/phone_solution_for_starting_msp_with_a_cell_number/
+62,2015-12-22 06:04:55+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3xsx8v/how_would_you_handle/,False,"So new client found me online, should have known....
+Walk in to a complete mess... I am talking a 15 employee office with about 12 servers. All but 3 were Server 2003, all on old hardware, all with no backup, all just overkill and poorly setup.
+Client was sold a Superloader3 Backup System with Veritas (not licensed properly), not running in over 6 months.
+I use of my consultants to configure this.
+The Exchange server takes 18 hours to back up since it can't do incremental (circular logging), this pushes all over jobs back. The Exchange server I have an external drive plugged in doing the built in backup.
+
+All other jobs are backed up. Client is making excuses about this configuration and is now fighting.
+
+I personally hate this client and don't want anything to do with them. I paid my consultant $500 to complete hte job and happy to walk away but don't want to give it to them for free.
+
+Do I just connect and remove my work that I completed and my remote tool and call it a day?
+",sysadmin,How would you handle?,https://www.reddit.com/r/sysadmin/comments/3xsx8v/how_would_you_handle/
+63,2015-12-17 06:37:12+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3x6n7s/access_file_server_remotely_or_one_drive/,False,"So maybe a couple of questions....
+
+I'm still big into local servers, just send to make more sense for my client base.
+
+Have a client that is do for an upgrade but wants to access files remotely.  In the past I have done VPN and can it a day.  The client has Mac machines at home and remote locations.  
+
+This year I have tried WebDAV on Server 2012 for the remote access which has worked out well and integrated with Mac but not so easy on Windows.
+
+What other access options do we have?  Is VPN the best or some software makes sense???
+
+Another thought which has failed me in the past was doing One Drive, I'm not sure if this could integrate with the server or if ask users would have to sync down the 400GB of data.  ",sysadmin,Access File Server Remotely? Or One Drive?,https://www.reddit.com/r/sysadmin/comments/3x6n7s/access_file_server_remotely_or_one_drive/
+64,2015-12-15 17:22:17+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3wynux/any_sophos_guys/,False,Any one here with Sophos experience?  Looking to get a unit configured to match a Cisco ASA.  If you have both Cisco and Sophos experience may be best.  ,sysadmin,Any Sophos Guys?,https://www.reddit.com/r/sysadmin/comments/3wynux/any_sophos_guys/
+65,2015-12-08 23:32:56+00:00,self.msp,https://www.reddit.com/r/msp/comments/3vzzo6/what_to_do_with_acquired_equipment_pulled_from/,False,"I have boxes of equipment for example a sonicwall and 5 sonicpoints to make a few.
+
+Do we have a subreddit here for selling?",msp,What to do with acquired equipment pulled from jobs?,https://www.reddit.com/r/msp/comments/3vzzo6/what_to_do_with_acquired_equipment_pulled_from/
+66,2015-11-28 18:36:08+00:00,self.msp,https://www.reddit.com/r/msp/comments/3um2p8/technician_pay/,False,"What is the normal post for a level 1 and level 2?
+",msp,Technician pay?,https://www.reddit.com/r/msp/comments/3um2p8/technician_pay/
+67,2015-11-27 13:23:27+00:00,self.msp,https://www.reddit.com/r/msp/comments/3ugpg2/where_are_you_buying_office_from/,False,"Use to get from TrustPrice or BuyCheapSoftware however feels odd...
+
+Looking to make a few bucks on it.  
+
+Any suggestions?",msp,Where are you buying Office from?,https://www.reddit.com/r/msp/comments/3ugpg2/where_are_you_buying_office_from/
+68,2015-11-23 03:14:24+00:00,self.msp,https://www.reddit.com/r/msp/comments/3tw800/script_for_pbx_autoattendant_and_music_on_hold/,False,"I started my MSP company with just my cell phone and now moving to Hosted PBX. 
+
+I am looking for ideas for the first auto attendant and music on hold.
+
+Any input?&gt;  ",msp,Script for PBX Auto-Attendant and Music On Hold?,https://www.reddit.com/r/msp/comments/3tw800/script_for_pbx_autoattendant_and_music_on_hold/
+69,2015-11-15 20:18:58+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3sxlra/possible_to_get_server_2008_ts_cals_to_install_in/,False,"I just acquired a client that has a very poorly setup infrastructure.  They were do for a server refresh so I get to start over.  They have a Server 2008 Terminal Server that the old IT setup.  We request licensing from old IT so they sent me v Server 2003 CALs from 2004... They don't seem to be responding any more.
+
+Old server is functional I just need to get the information to load on new ts",sysadmin,Possible to get Server 2008 TS Cals to install in fresh server?,https://www.reddit.com/r/sysadmin/comments/3sxlra/possible_to_get_server_2008_ts_cals_to_install_in/
+70,2015-11-12 23:38:39+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3sli5p/server_2012_r2_essentials_role/,False,"I haven't used this before, but would like to for a new client I picked up.
+
+Currently they have different ports mapped for RDP for each computer.
+
+In SBS 2008/2011 I liked the RD Gateway to just tunnel all RDP through the SSL.
+
+I believe with the Essentials Role you get this as well?
+Do you need to join all machines through the connector?
+This client also will have a Server 2008 Terminal Machine, can users hit this through the web url that Essentials makes?  
+
+Any guides on setup/what features?
+
+Thanks in advance!",sysadmin,Server 2012 R2 - Essentials Role?,https://www.reddit.com/r/sysadmin/comments/3sli5p/server_2012_r2_essentials_role/
+71,2015-11-07 21:19:45+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3rxk9d/any_backupexec_experts_want_some_weekend_work/,False,"New client was sold BackupExec and a SuperLoader3.  Was never setup correctly for the 3 months they had it.  No backups been since this time.
+
+Very messy setup from previous IT firms just selling equipment and not coming up with a master plan (12 servers, most are doing nothing, all physical, even new servers were physical and not virtualized).  After backup the plan is to virutalize everthing.
+
+Unfortunately this SuperLoader and BackupExec is staying.
+
+I got the unit online and have added some agents and have a test backup going.
+
+I haven't touched this software in years and would rather have an expert work on it. 
+
+Looking to get all agents backing up and tapes ejecting from superloader so they can take offsite (does this even work?)",sysadmin,Any BackupExec experts want some weekend work?,https://www.reddit.com/r/sysadmin/comments/3rxk9d/any_backupexec_experts_want_some_weekend_work/
+72,2015-11-07 18:38:15+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3rwy55/ssd_and_domain_computers_boot_before_network/,False,"I'm noticing on some sites that machines with solid state drives seem to not up faster then the network card initializes.  This leads to group policy mailed drives to have a red x and sometimes folder redirection to give the error that it can't find the desktop or my documents.  A simple log off and on fixes or refreshing desktop and clicking on the mapped drive
+
+What is the best way to fix?  At one site I put some 30-60 second delay in with group policy.
+
+Thanns;!",sysadmin,SSD and Domain Computers - Boot before network initializes?,https://www.reddit.com/r/sysadmin/comments/3rwy55/ssd_and_domain_computers_boot_before_network/
+73,2015-11-07 00:25:51+00:00,self.msp,https://www.reddit.com/r/msp/comments/3rtz3m/nable/,False,"Who is using it?
+
+I am looking at moving away from MaxFocus.  
+
+How is the Bitdefender integration?  In MaxFocus this was taking machines down in speed and the computers are all i5 with Solid State and 4-8GB memory.  Dental clients couldn't even use the software with all exclusions.  
+
+Other thoughts?",msp,N-Able?,https://www.reddit.com/r/msp/comments/3rtz3m/nable/
+74,2015-11-03 19:13:46+00:00,self.msp,https://www.reddit.com/r/msp/comments/3re1vt/anyone_using_fsecure/,False,Looks interesting....,msp,Anyone using F-Secure?,https://www.reddit.com/r/msp/comments/3re1vt/anyone_using_fsecure/
+75,2015-11-02 23:53:52+00:00,self.msp,https://www.reddit.com/r/msp/comments/3ra56t/holiday_gifts_for_msp_clients/,False,"I know I saw some threads on this but can't seem to find them.
+
+What do you give your MSP clients for the holidays?  In the past I would send a chocolate tower or something from Harry and David.  ",msp,Holiday Gifts for MSP Clients,https://www.reddit.com/r/msp/comments/3ra56t/holiday_gifts_for_msp_clients/
+76,2015-10-21 14:59:16+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3pn2id/office_messenger_alternative_to_spark/,False,"Normally I do Opemfire and Spark.  However I have an office with many common users and need the option to log into the messaging program in multiple spots with the same user.  So when someone needs to message the front desk it goes to the four computers.
+
+Spark/Opemfire does not do this.
+
+Any other options for basic messager?  Free is ideal but cheap is okay",sysadmin,Office Messenger - Alternative to Spark,https://www.reddit.com/r/sysadmin/comments/3pn2id/office_messenger_alternative_to_spark/
+77,2015-10-17 12:41:10+00:00,self.msp,https://www.reddit.com/r/msp/comments/3p3tyx/purchasing_another_msp_firm/,False,"What are your thoughts on this?
+
+How do you evaluate once you have an offer?
+
+I assume since of the client's will not stay so hard to judge this
+",msp,Purchasing another msp firm?,https://www.reddit.com/r/msp/comments/3p3tyx/purchasing_another_msp_firm/
+78,2015-10-09 19:32:24+00:00,self.msp,https://www.reddit.com/r/msp/comments/3o4ybb/need_a_web_designer/,False,Looking for a web designer for clients.  Need someone for WordPress and just nice sites.  Anyone here do this or can recommend a company that is responsive and cost effective,msp,Need a web designer,https://www.reddit.com/r/msp/comments/3o4ybb/need_a_web_designer/
+79,2015-10-04 17:16:15+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3ngyat/outlook_rules_into_exchange_folders_not_find_blah/,False,"Anyone got a solution for this?
+
+Importing from local outlook using pop to exchange saying folder not found after importing pst then rules.
+
+Unfortunately this guy has 600 rules it seems",sysadmin,"Outlook rules into exchange, folders not find, blah!",https://www.reddit.com/r/sysadmin/comments/3ngyat/outlook_rules_into_exchange_folders_not_find_blah/
+80,2015-09-29 01:42:27+00:00,self.msp,https://www.reddit.com/r/msp/comments/3ms1q7/infrastructure_for_rds/,False,"I know we have some experts in this.  Looking to start offering and figured I should get right into my own hardware and hosting.
+
+Need some guidance.  Doubt this will get much traction but can do this for a few clients.
+
+Anyone care to share?",msp,Infrastructure for RDS?,https://www.reddit.com/r/msp/comments/3ms1q7/infrastructure_for_rds/
+81,2015-09-26 17:42:07+00:00,self.msp,https://www.reddit.com/r/msp/comments/3mhjx6/managed_sales_pro/,False,"What's this all about?
+
+Anyone getting results?",msp,Managed Sales Pro?,https://www.reddit.com/r/msp/comments/3mhjx6/managed_sales_pro/
+82,2015-09-22 15:33:58+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3ly38t/beating_my_head_on_this_issue/,False,"I have one laptop on the domain which is wireless.  This is the second time it has happened.  It gets a IP from DHCP Server (SBS 2011) but can't get DNS resolution.  IP is correct it gets with DNS to the SBS server.  I can ping externally by IP but can't ping anything else by DNS.  Can't ping the server by DNS or by IP.
+
+Last time this happened I wiped and reloaded the machine and issue went away for about a month.  
+
+It is back now.
+
+I have removed all monitoring/antivirus software. 
+I am trying this on both the domain profile and the local user.
+If I connect to the guest wifi (same access points different vlan) I can ping external by DNS.  
+
+",sysadmin,Beating my head on this issue....,https://www.reddit.com/r/sysadmin/comments/3ly38t/beating_my_head_on_this_issue/
+83,2015-09-17 16:39:06+00:00,self.msp,https://www.reddit.com/r/msp/comments/3lbjcr/looking_for_a_scripter/,False,Anyone want to do some scripting for a rmm tool?  Of course paying,msp,Looking for a scripter,https://www.reddit.com/r/msp/comments/3lbjcr/looking_for_a_scripter/
+84,2015-08-31 22:46:29+00:00,self.msp,https://www.reddit.com/r/msp/comments/3j57v8/eset_vs_bitdrfender/,,"Who's using what?
+
+I remember back a few years ESET was the best, now seems like bit defender
+
+Just looking for opinions",msp,eset vs bitdrfender,https://www.reddit.com/r/msp/comments/3j57v8/eset_vs_bitdrfender/
+85,2015-08-30 16:52:57+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3iyz5f/which_ups_brand_you_using/,,"I'm using Cyberpower at my clients, what about you guys?",sysadmin,Which UPS brand you using?,https://www.reddit.com/r/sysadmin/comments/3iyz5f/which_ups_brand_you_using/
+86,2015-08-29 15:25:23+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3iupet/starwinds_vsan/,,"Anyone use this with HyperV?
+
+How is it?  Reliable? Speed?",sysadmin,Starwinds VSan,https://www.reddit.com/r/sysadmin/comments/3iupet/starwinds_vsan/
+87,2015-08-28 01:50:09+00:00,self.msp,https://www.reddit.com/r/msp/comments/3ioa0r/labtech/,,How good is this product? I am currently with Max focus which I liked up until recently but now I'm starting to get annoyed with the little issues and items that do never never get fixed. How easy is it to deploy? How easy is it to get going out of the box? You need to do a lot of scripting to get to the effective? Are you guys running it on a cloud server with lab tech or in house? Pricing is about double on workstations but functionality is there I'm interested! Thank you,msp,Labtech?,https://www.reddit.com/r/msp/comments/3ioa0r/labtech/
+88,2015-08-19 05:34:21+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3hjrbl/faxing_solution/,,"Client needs to be able to eFax.  The only issue I am having is this is going on a Terminal Server and I need to have a dedicated eFax number for each of the terminal server sites.  The client has 3 sites.  I need something simple like just a printer device that I can install on the server, one for each site, and call it Site1-Fax which they can select.
+
+Any suggestions?  ",sysadmin,Faxing Solution,http://www.reddit.com/r/sysadmin/comments/3hjrbl/faxing_solution/
+89,2015-08-17 02:39:20+00:00,self.networking,https://www.reddit.com/r/networking/comments/3h9oxy/xclaim_anyone_use/,,"I posted this is /r/sysadmin but was suggested to post here.
+
+Anyone using this product?
+New cloud manager looks good.
+Reliable, performance?",networking,Xclaim ? Anyone use?,http://www.reddit.com/r/networking/comments/3h9oxy/xclaim_anyone_use/
+90,2015-08-16 17:58:50+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3h7ybo/xclaim_wireless/,,"Anyone using this?
+
+Looks good especially when made by ruckus.
+
+",sysadmin,Xclaim wireless?,http://www.reddit.com/r/sysadmin/comments/3h7ybo/xclaim_wireless/
+91,2015-08-10 23:36:58+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3giya2/next_step_up_from_unifi/,,"Having some issues with unifi that appears to be device related.  After rebooting then all is good.  This client had about 40 units on them same load in both locations.  One location has three units the other had one access point.
+
+Looking to move up to the next level.  Seems like next step is Aruba, Meraki, ruckus or sonicpoints.  
+
+Crazy price jump $100 to $600
+
+What is recommended?",sysadmin,Next step up from Unifi?,http://www.reddit.com/r/sysadmin/comments/3giya2/next_step_up_from_unifi/
+92,2015-08-08 18:56:44+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3g9qoj/pbx_system_installation/,,"I currently resell RingCentral and Intermedia VOIP.  I keep seeing the need for traditional PBX systems.  I was looking at NEC systems since they seem to be a good bang for the buck solution. 
+
+I have very limited experience with wiring these solutions, does anyone have any good resources for wiring the blocks?  I know the configuration is done through a piece of software which I can play with.  
+
+Thoughts on doing this?",sysadmin,PBX System Installation,http://www.reddit.com/r/sysadmin/comments/3g9qoj/pbx_system_installation/
+93,2015-08-07 03:04:45+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3g34ay/aruba_wireless/,,Anyone using these?  ,sysadmin,Aruba Wireless?,http://www.reddit.com/r/sysadmin/comments/3g34ay/aruba_wireless/
+94,2015-08-06 19:38:42+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3g1j5u/sbs_2008_to_server_2012_no_exchange/,,"Hey SysAdmins,
+
+One of my clients is on a SBS 2008.  I am currently in the process of migrating to Google Apps due to the integration with SalesForce.  We have a new server for the client and it will just be Server 2012 AD, File, Printer, DNS, DHCP.  Originally I was just going to do a fresh install and start fresh.  Now I am thinking against it.  
+
+The server is in decent shape.  Over the years computers have been swapped around and all computer names are out of order.  In the last year this client has had alot of employee turnover and instead of creating fresh users we have just renamed existing accounts.  
+
+Do you think I should migrate or start fresh?
+
+Any way to rename the computers from the server directly so I don't have to log into each one?
+
+Everything else is already in Group Policy so I just need to re-do those for printers, folder redirection and drive mappings.  ",sysadmin,SBS 2008 to Server 2012 - No Exchange,http://www.reddit.com/r/sysadmin/comments/3g1j5u/sbs_2008_to_server_2012_no_exchange/
+95,2015-08-04 20:53:04+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3fskya/saving_gets_contactingservernameshareusername_and/,,"This one is beating me up.
+
+One user in a small office is getting this ""contacting://server/share/username"" when saving out of Outlook.  That is a folder redirection for his My Documents. 
+
+I have done the following:
+- wipe and reload multiple times
+- removed antivirus
+- change backup time
+- installed new switch
+
+about to swap machines but i can't imagine thats the cause",sysadmin,"Saving gets ""contacting://servername/share/username"" and hangs",http://www.reddit.com/r/sysadmin/comments/3fskya/saving_gets_contactingservernameshareusername_and/
+96,2015-08-04 18:59:20+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3fs3w3/unifi_over_vlan_slow/,,"Kind of odd but this is the second time I seem to be encountering this.
+
+I have the default VLAN as the ""Office Wireless"".
+
+I create VLAN 50 for ""Guest Wireless""
+
+Setup the switches so this works but it seems like the guest wireless is always very slow.
+
+I can connect to it and get an IP that makes it part of VLAN50 but web speeds are slow.
+
+I am working on this issue at one site with a Meraki in front.",sysadmin,Unifi Over VLAN - Slow?,http://www.reddit.com/r/sysadmin/comments/3fs3w3/unifi_over_vlan_slow/
+97,2015-07-31 01:50:55+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3f8jz4/teamviewer_for_sale/,,,sysadmin,Teamviewer for sale,http://www.reddit.com/r/sysadmin/comments/3f8jz4/teamviewer_for_sale/
+98,2015-07-30 13:24:48+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3f5ot6/password_manager/,,What do you all recommend for a password manager app?  Would ideally like one that can have an extra user that can see a subset of information.... Master account for me and a secondary account with limited access to items for a technician,sysadmin,Password Manager,http://www.reddit.com/r/sysadmin/comments/3f5ot6/password_manager/
+99,2015-07-28 19:50:48+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3exsoe/cryptowall_confused/,,"Client called me and got hit with Cryptowall.  Went past GFI Mail (resume.zip).  Anyway I found the owner of the file and had him disconnect.  Shadow Copies were still intact so I started restoring.  Half way through I got error and noticed now all Shadow Copies were removed.  Great... Start pulling from last nights Altaro backup. 
+
+Things I do not get is I had CryptoPrevention installed and working.  I couldn't run notepad.exe out of AppData how did this thing run?
+
+They were local admin of the machines (I know...) which is I imagine how they cleared the Shadow Copies on the server.
+
+So how did this thing run if couldn't run in Appdata? 
+How are Shadow Copies cleared?  ",sysadmin,Cryptowall - Confused,http://www.reddit.com/r/sysadmin/comments/3exsoe/cryptowall_confused/
+100,2015-07-26 14:20:53+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3ent8d/server_2012_with_essentials_role/,,"This seems to be the RWW replacement.
+
+Does this setup WebDav as well?
+
+Can I then use this to configure WebDAV on the clients home PC, MAC and phones to access information without being on a VPN",sysadmin,server 2012 with essentials role?,http://www.reddit.com/r/sysadmin/comments/3ent8d/server_2012_with_essentials_role/
+101,2015-07-25 17:49:35+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3eku4d/webdav_over_https_on_server_2012/,,Anyone doing this?  I have a client that I'm thinking of setting this up.  We have a few remote worked with personal Mac and PC machines that need access when out of the office.  Looks good just not sure of any issues,sysadmin,WebDAV over HTTPS on Server 2012?,http://www.reddit.com/r/sysadmin/comments/3eku4d/webdav_over_https_on_server_2012/
+102,2015-07-20 22:52:55+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3e04qb/dell_poweredge_t20_server/,,"Anyone using these for clients?  
+
+I have a 4 person office needing to upgade from Server 2003.  I seem to like the idea of this T20 with the Xeon, 8GB memory, and 2 x 1TB Solid States on the Intel Raid 1.  With three year warranty comes out cheaper then the Dell T110 without solid state.
+
+I haven't in the past liked the idea of ""building"" a server but for under 5 person office just doing files and QB this seems like a great option.  Should be fast with all machines having solid state drives.  
+
+Thoughts? ",sysadmin,Dell Poweredge T20 Server?,http://www.reddit.com/r/sysadmin/comments/3e04qb/dell_poweredge_t20_server/
+103,2015-07-17 04:10:21+00:00,self.sysadmin,https://www.reddit.com/r/sysadmin/comments/3dl6ys/surface_3_for_sys_admin/,,"Anyone using these in the field?  I'm tired of the laptop, was hoping to get the surface 3 lte and use it for email, ticket updates, standard remote support outside of the office and configuring networking equipment. I know I will need to use the USB to network.
+
+Anyone using them in our field?  Yes, no?",sysadmin,Surface 3 for Sys Admin?,http://www.reddit.com/r/sysadmin/comments/3dl6ys/surface_3_for_sys_admin/
+104,2015-07-15 01:00:16+00:00,self.msp,https://www.reddit.com/r/msp/comments/3dbptz/permissions_for_shared_folders/,,What is the correct share and security permissions?  I hate to admit but most are everyone full control,msp,Permissions for shared folders?,http://www.reddit.com/r/msp/comments/3dbptz/permissions_for_shared_folders/
+105,2015-07-09 12:44:00+00:00,self.msp,https://www.reddit.com/r/msp/comments/3co5lt/exchange_archiving/,,"All my clients running local Exchange servers are unlimited mailbox size.  We are in SMB market.  Some are having 30gb mailboxes and if like to start offering an archiving solution.  These clients do often need to search their mailbox for items and it needs to seamlessly search the archives as well.
+
+What options are out there for an msp?
+
+If like something with a monthly price but in the end doesn't matter",msp,Exchange Archiving?,http://www.reddit.com/r/msp/comments/3co5lt/exchange_archiving/
+106,2015-06-30 01:20:53+00:00,self.msp,https://www.reddit.com/r/msp/comments/3bkunp/white_label_hello_desk/,,"Anything that's reliable? 
+
+I need someone to handle level 1 calls take messages etc",msp,White label hello desk?,http://www.reddit.com/r/msp/comments/3bkunp/white_label_hello_desk/

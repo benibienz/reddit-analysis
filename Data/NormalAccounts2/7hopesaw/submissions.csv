@@ -1,0 +1,90 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-14 13:01:11+00:00,imgur.com,https://www.reddit.com/r/minimalphonescreens/comments/5cvtbc/weekly_screengrab/,False,,minimalphonescreens,Weekly screengrab!,https://imgur.com/gallery/CkuH9
+1,2016-08-08 15:35:04+00:00,demorgen.be,https://www.reddit.com/r/news/comments/4wqpv9/pokémon_go_players_in_belgium_can_now_receive/,False,,news,"Pokémon Go Players in Belgium can now receive ""Pokémon Go Fine"" of 55 Euros if they bring themselves or others in danger, or otherwise misbehave whilst playing it.",http://www.demorgen.be/nieuws/politie-kan-pokemon-jagers-boete-van-55-euro-geven-b346ec63/
+2,2016-02-06 12:24:45+00:00,self.askscience,https://www.reddit.com/r/askscience/comments/44fzti/how_come_i_hesitate_to_breathe_when_a_lot_of_wind/,False,[removed],askscience,How come I hesitate to breathe when a lot of wind is hitting my face?,https://www.reddit.com/r/askscience/comments/44fzti/how_come_i_hesitate_to_breathe_when_a_lot_of_wind/
+3,2016-01-13 12:16:23+00:00,imgur.com,https://www.reddit.com/r/Watches/comments/40rrs4/timex_intelligent_quartz_flyback_chrono_got/,False,,Watches,"[Timex Intelligent Quartz flyback chrono] Got myself a new watch today, gotta say it looks quite stunning.",http://imgur.com/ukfCAGk
+4,2015-12-25 15:40:12+00:00,self.askscience,https://www.reddit.com/r/askscience/comments/3y6t8x/could_you_theoretically_measure_the_strength_of_a/,False,[removed],askscience,Could you (theoretically) measure the strength of a black hole by analyzing how black it is?,https://www.reddit.com/r/askscience/comments/3y6t8x/could_you_theoretically_measure_the_strength_of_a/
+5,2015-11-14 16:00:39+00:00,youtube.com,https://www.reddit.com/r/videos/comments/3ssh3y/people_who_use_long_words/,False,,videos,People Who Use Long Words,https://www.youtube.com/attribution_link?a=g61UWQdX34U&amp;u=%2Fwatch%3Fv%3DLZCRxxb_rwY%26feature%3Dshare
+6,2015-10-08 12:37:16+00:00,imgur.com,https://www.reddit.com/r/origami/comments/3nyr4e/a_friend_of_mine_just_freehand_folded_the_tiniest/,False,,origami,A friend of mine just freehand folded the tiniest boat I've ever seen while we were in class.,http://imgur.com/XGpNNL3
+7,2015-09-21 14:59:35+00:00,self.Watches,https://www.reddit.com/r/Watches/comments/3lt8fx/is_watches_with_secret_compartments_a_thing/,False,[removed],Watches,Is watches with secret compartments a thing?,https://www.reddit.com/r/Watches/comments/3lt8fx/is_watches_with_secret_compartments_a_thing/
+8,2015-08-26 22:18:41+00:00,soundcloud.com,https://www.reddit.com/r/hiphopheads/comments/3iiu53/didnt_get_much_love_in_rmusic_perhaps_it_will_do/,,,hiphopheads,Didn't get much love in r/music. Perhaps it will do better here! Kontrafakt - JBMNT,https://soundcloud.com/maikybeatz/kontrafakt-jbmnt-prod-maiky
+9,2015-08-25 17:30:59+00:00,youtube.com,https://www.reddit.com/r/Music/comments/3icvzu/kontrafakt_jbmnt_rap/,,,Music,Kontrafakt - JBMNT [Rap],https://www.youtube.com/watch?v=Z2Y30NNTQ0Y
+10,2015-08-23 00:44:15+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3i127w/wifi_sometimes_randomly_shuts_off_at_irregular/,,"Greetings, people of tech support.
+
+I've been having an issue which has been reoccuring lately.
+The Wi-Fi in my laptop sometimes randomly shuts off, and I'm not able to fix this unless I reboot the system. it doesn't seem to be related to under how much load it is, neither is there any indicator as to what triggers it.
+
+ I've had this problem a year or so ago too, when I first updated my laptop to Windows 8.1. Back then the problem would only occur when I pressed the Wi-Fi toggle button on my keyboard. however, now it has popped up again, but it doesn't happen when I press said button. it always happens at irregular intervals.
+
+interestingly too, my subscription for BitDefender (malware and virus scanner and privacy guard) ran out as I was no longer interested in their service, as I felt there were free solutions with the same competence. from this point on, I started having aforementioned problem.
+
+I have already scanned my pc for any malicious software twice using 360 Total Security, to no avail, as my wireless just gave up again in the middle of writing this post. 
+
+so thank you in advance, for at least taking a look at my problem.
+
+edit: I also use OpenDNS, I have no idea if that even has a single shit to do with it, but better safe than sorry I guess.
+
+system info:
+C:\WINDOWS\system32&gt;systeminfo
+
+* Host Name:                 LAURENZ-HP
+* OS Name:                   Microsoft Windows 8.1 Pro
+* OS Version:                6.3.9600 N/A Build 9600
+* OS Manufacturer:           Microsoft Corporation
+* OS Configuration:          Standalone Workstation
+* OS Build Type:             Multiprocessor Free
+* Registered Owner:          Windows User
+* Registered Organization:
+* Original Install Date:     1/11/2013, 17:04:50
+* System Boot Time:          22/08/2015, 12:51:49
+* System Manufacturer:       Hewlett-Packard
+* System Model:              HP Pavilion dv7 Notebook PC
+* System Type:               x64-based PC
+* Processor(s):              1 Processor(s) Installed.
+*                            [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineInt
+* el ~800 Mhz
+* BIOS Version:              Hewlett-Packard F.02, 3/10/2011
+* Windows Directory:         C:\WINDOWS
+* System Directory:          C:\WINDOWS\system32
+* Boot Device:               \Device\HarddiskVolume1
+* Total Physical Memory:     8 140 MB
+* Available Physical Memory: 4 064 MB
+* Virtual Memory: Max Size:  16 332 MB
+* Virtual Memory: Available: 11 365 MB
+* Virtual Memory: In Use:    4 967 MB
+* Page File Location(s):     C:\pagefile.sys
+* Domain:                    WORKGROUP
+* Logon Server:              \\MicrosoftAccount
+* Hotfix(s):                 200 Hotfix(s) Installed.
+*                      
+* Network Card(s):           2 NIC(s) Installed.
+*                            [01]: Intel(R) Centrino(R) Wireless-N 1030
+*                                  Connection Name: Wi-Fi
+*                                  DHCP Enabled:    Yes
+*                                  DHCP Server:     192.168.0.1
+*                                  IP address(es)
+*                                  [01]: 192.168.0.205
+*                            [02]: Realtek PCIe GBE Family-controller
+*                                  Connection Name: Ethernet
+*                                  Status:          Media disconnected
+* Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+*                            Virtualization Enabled In Firmware: No
+*                            Second Level Address Translation: Yes
+*                            Data Execution Prevention Available: Yes",techsupport,Wi-Fi sometimes randomly shuts off at irregular intervals,http://www.reddit.com/r/techsupport/comments/3i127w/wifi_sometimes_randomly_shuts_off_at_irregular/
+11,2015-08-07 01:21:06+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/3g2sey/is_temperature_by_weatherstations_measured_in_the/,,"By which I mean are the 'feelers' of the thermometer placed in the sun or in the shadow. 
+
+My mother says  direct sunlight makes the readings untrustworthy, thereby placing them in the shadow makes more sense. 
+
+I say they have to be placed in the sun, because a shadowed environment is a variable that connot be controlled or compensated for. 
+
+",AskReddit,Is temperature by weatherstations measured in the sun or in the shadow?,http://www.reddit.com/r/AskReddit/comments/3g2sey/is_temperature_by_weatherstations_measured_in_the/
+12,2015-08-05 00:34:12+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/3fte8p/males_of_reddit_how_do_you_get_rid_of_your_cum/,,I can't imagine every one of you has a seemingly inconspicuous trashcan filled to the brim with cleenexes. ,AskReddit,"Males of reddit, how do YOU get rid of your cum?",http://www.reddit.com/r/AskReddit/comments/3fte8p/males_of_reddit_how_do_you_get_rid_of_your_cum/
+13,2015-07-28 06:33:54+00:00,imgur.com,https://www.reddit.com/r/Throwers/comments/3evbia/anyone_who_knows_about_the_fuse_by_duoman_have/,,,Throwers,"Anyone who knows about the Fuse by Duoman? have one here in all it's glory. Doesn't seem to be a well-known yo-yo, so I thought I'd drop this here.",http://imgur.com/hE2Gita
+14,2015-07-23 13:36:30+00:00,self.Throwers,https://www.reddit.com/r/Throwers/comments/3ebkye/hi_guys_d_any_belgian_throwers_here/,,"I feel like doing a little meetup for the belgian throwers around here, anyone interested? maybe there's no Belgian throwers here at all, but I can at least give it a try :)",Throwers,Hi guys! :D Any Belgian throwers here?,http://www.reddit.com/r/Throwers/comments/3ebkye/hi_guys_d_any_belgian_throwers_here/
+15,2015-07-18 16:33:28+00:00,self.askscience,https://www.reddit.com/r/askscience/comments/3dqy45/we_all_know_a_lot_venomous_or_poisonous_animals/,,"i.e. like an animal with bright colors that actually isn't poisonous at all, but just trying to look like it.",askscience,We all know a lot venomous or poisonous animals mostly have bright colors to warn predators. Are there any animals that abuse this fact?,http://www.reddit.com/r/askscience/comments/3dqy45/we_all_know_a_lot_venomous_or_poisonous_animals/
+16,2015-07-17 11:01:32+00:00,self.LifeProTips,https://www.reddit.com/r/LifeProTips/comments/3dm2fw/lpt_request_a_hasslefree_way_to_manage_both_my/,,,LifeProTips,LPT request: a hassle-free way to manage both my glasses and my sunglasses when out and about,http://www.reddit.com/r/LifeProTips/comments/3dm2fw/lpt_request_a_hasslefree_way_to_manage_both_my/
+17,2015-07-17 10:01:51+00:00,self.LifeProTips,https://www.reddit.com/r/LifeProTips/comments/3dlybt/request_a_hasslefree_way_to_manage_my_glasses_and/,,,LifeProTips,[REQUEST] a hassle-free way to manage my glasses and sunglasses when out and about.,http://www.reddit.com/r/LifeProTips/comments/3dlybt/request_a_hasslefree_way_to_manage_my_glasses_and/
+18,2015-07-15 19:44:59+00:00,self.Minecraft,https://www.reddit.com/r/Minecraft/comments/3df34o/havent_played_minecraft_in_a_year_and_wanting_to/,,,Minecraft,Haven't played minecraft in a year and wanting to pick it back up again. What has changed about minecraft that's noteworthy since then?,http://www.reddit.com/r/Minecraft/comments/3df34o/havent_played_minecraft_in_a_year_and_wanting_to/
+19,2015-07-05 09:43:53+00:00,self.askscience,https://www.reddit.com/r/askscience/comments/3c6mvc/ive_never_ever_been_hungover_after_a_heavy_night/,,,askscience,"I've never ever been hungover after a heavy night, and I'm not a light drinker. How is this possible?",http://www.reddit.com/r/askscience/comments/3c6mvc/ive_never_ever_been_hungover_after_a_heavy_night/
+20,2015-06-20 13:02:22+00:00,youtube.com,https://www.reddit.com/r/corgi/comments/3ai9ea/corgi_pups_chasing_the_camera_d/,,,corgi,corgi pups chasing the camera :D,https://www.youtube.com/watch?t=57&amp;v=X7P5sk8r4es
+21,2015-06-17 14:04:39+00:00,youtube.com,https://www.reddit.com/r/urbanexploration/comments/3a5wys/abandoned_subtropical_swimming_paradise_in/,,,urbanexploration,"Abandoned subtropical swimming paradise in Rotterdam, The Netherlands",https://www.youtube.com/watch?v=ojZKSjyX9Iw

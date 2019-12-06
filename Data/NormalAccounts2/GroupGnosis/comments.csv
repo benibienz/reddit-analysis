@@ -1,0 +1,271 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"&gt; Just looked over the website and saw a typo. In the first paragraph for the Hunch video, I'm assuming the last word should be ""prizes,"" not ""prices.""
+
+You're right, thanks for pointing this out to us!",2016-09-08 19:34:22+00:00,d7emckw,,t1_d7cq97m,109924.0,ethereum
+1,Thanks!,2016-08-26 21:21:26+00:00,d6y1tmm,3.0,t1_d6xy9bo,4900.0,Augur
+2,"We've just created one for price of Ether/USD on Sunday:
+https://www.gnosis.pm/management/#/market/0x87348f78ec0365f763b4368ccc036e4a85005dcd84be3f91bbc6120ccc320d97/0x6ca7f214ab2ddbb9a8e1a1e2c8550e3164e9dba5/0xc1b34701ffe2ecc474ed63b2bb41c2db4559e1484727f623e1fb55b3d5666ee6",2016-08-26 20:45:05+00:00,d6y09o1,2.0,t1_d6xb0f0,39334.0,ethereum
+3,"No, however Gnosis, Martin and Stefan's newer project, is!",2016-08-26 18:59:25+00:00,d6xvhy8,1.0,t3_4znxxy,30358.0,Augur
+4,"Thanks, we are also!",2016-08-26 00:25:43+00:00,d6wutqq,2.0,t1_d6wtkk9,1939.0,ethereum
+5,Join our slack (slack.gnosis.pm) and join the #testpilots channel. There are instructions pinned to that channel and we are there to guide anyone through. Markets can be viewed at https://www.gnosis.pm/management/#/market-list ,2016-08-25 21:09:09+00:00,d6wmngj,1.0,t3_4zkvd7,64.0,ethereum
+6,We are very excited about SingularDTV!,2016-08-23 21:26:27+00:00,d6ttbb1,1.0,t3_4z7ym6,10812.0,ethereum
+7,"Yes, it's here: http://livestream.com/internetsociety/blockchain-newyork/videos/133246744?t=1471892293689
+Disclaimer: I'm a bit embarrassed by my frequency of ""um's"" and was really hoping to get into the more interesting bits of DAO!",2016-08-23 17:35:46+00:00,d6ti3o7,2.0,t1_d6tglc9,1835.0,ethereum
+8,"Yes, I'm very proud of the Ethereum community and how we've handled this. It has actually resulted in me having MORE confidence in the future of Ethereum!",2016-08-23 16:56:28+00:00,d6tg60c,2.0,t1_d6tewlh,1546.0,ethereum
+9,Thanks for posting this!,2016-08-23 16:18:23+00:00,d6teb0i,3.0,t1_d6s9a1v,74579.0,ethereum
+10,"Here's a comment from Martin in our slack (slack.gnosis.pm):
+""we want to be on the place where all the other DAPP developers are because we see lots of positive networks effects. We haven’t heard about a single relevant project that has publicly announced to focus on ETC to we are pretty sure that despite the current confusion ETH will be the way to go.""",2016-08-02 18:10:18+00:00,d61bpeh,4.0,t1_d61bitt,222.0,ethereum
+11,There may be edge cases in which none of these projects deploy on ETH. I don't expect those to occur and we are solidly on ETH (and we have been for the past ~6mo).,2016-08-02 18:06:36+00:00,d61bitt,3.0,t1_d60pfz1,42904.0,ethereum
+12,Gnosis was live for most of the past 5 months. Vitalik has described it as the most advanced DApp live on the Ethereum main net. We've closed markets on the previous DApp because we are releasing a major software update soon. You can still view the previous DApp here: http://gnosis.pm/dapp/,2016-08-01 23:35:19+00:00,d60b2yt,,t1_d5njw9q,,Augur
+13,"Yes, it will be released prior to crowdsale.",2016-08-01 23:32:48+00:00,d60azbm,,t1_d5nasqy,,Augur
+14,Thanks for having me on! I'd be happy to come back on sometime.,2016-08-01 18:49:31+00:00,d5zy2ec,2.0,t1_d5yxmhz,68018.0,ethereum
+15,Thanks! Join our slack at slack.gnosis.pm if your interested,2016-08-01 18:49:09+00:00,d5zy1pn,2.0,t1_d5z0q1d,62887.0,ethereum
+16,[Gnosis](http://gnosis.pm) is on ETH.,2016-08-01 16:48:16+00:00,d5zs9or,1.0,t3_4vlk4j,28637.0,ethereum
+17,"Thanks for asking!
+
+Crowdsale:
+-Probably starting Sep12 and lasting for a month to coincide with Devcon2
+-Base rate for 2 weeks, linear increase for 1 week, flat rate for last week
+-gnosisDAO Token used to create low or 0 fee markets, and low fee trading. Also receives portion of fee revenue.
+-gnosisFund token invests in projects building on Gnosis
+-DAO will use Futarchy for some portions of Governance
+
+Gnosis:
+-New software update will be on main net in coming days
+-Oracle market, not just for PM but for general smart contract ecosystem
+-Technical differences between Augur and Gnosis (Oracle mechanism, Focus on platform and customization tools)
+
+We'll be releasing more info on our website in the coming weeks.
+
+Also, please join us in our slack for any questions and discussion at slack.gnosis.pm!",2016-07-22 18:30:43+00:00,d5moa0y,2.0,t1_d5lk0o1,73466.0,ethtrader
+18,"Also, please join us in Slack!
+
+Signups at slack.gnosis.pm",2016-07-21 21:01:27+00:00,d5lh892,1.0,t3_4tslnb,95356.0,ethereum
+19,"Great question! We've written an article about this: https://media.consensys.net/2016/06/01/a-visit-to-the-oracle/
+
+It's not incredibly technical, but provides a good high level definition. ",2016-07-21 20:51:53+00:00,d5lgson,2.0,t1_d5ldmkq,4164.0,ethtrader
+20,Please sign up for our slack at slack.gnosis.pm!,2016-07-21 20:50:40+00:00,d5lgqq2,1.0,t3_4ty7e7,11497.0,ethtrader
+21,Cointelegraph article: https://cointelegraph.com/news/ethereum-based-oracle-holds-key-to-future,2016-07-20 18:32:33+00:00,d5jvo11,1.0,t3_4tslnb,22.0,ethereum
+22,Uh oh! Thanks for letting us know. We'll look into it ASAP.,2016-07-14 23:28:01+00:00,d5cn29s,3.0,t1_d5cfsso,10320.0,ethereum
+23,Our slack signups are at slack.gnosis.pm if anyone is interested!,2016-07-13 17:48:44+00:00,d5aur5u,1.0,t3_4skilq,59353.0,ethereum
+24,"Thank you, good summary! Also worth noting - crowdsale will take place around Devcon, probably starting one week before and lasting for a month. We will have two types of tokens, one for the gnosisDAO platform and one for a gnosisFUND which will invest in projects built atop gnosisDAO. We will be using Futarchy mechanisms for governance in both entities. ",2016-07-13 17:12:59+00:00,d5at2q9,3.0,t1_d5ada25,29157.0,ethereum
+25,"We're shooting for 1 week before Devcon 2 (September 19 is Devcon, so ~September 12 is target) and lasting one month. ",2016-07-13 17:10:05+00:00,d5asxw8,4.0,t1_d5aifb1,14950.0,ethereum
+26,"The trading currently works through a simple interface which allows for trading of binary, multi-outcome, or scalar shares. You can try it at: http://test.groupgnosis.com/",2016-06-15 03:51:33+00:00,d49r73y,2.0,t1_d49o1yu,5304.0,ethereum
+27,I'm going to have to tiptoe around this question... but there might be a mysteriously empty #crowdsale channel in our slack...,2016-06-14 22:43:46+00:00,d49fn15,3.0,t1_d499nby,7313.0,ethereum
+28,Thanks for the feedback and good wishes! We've removed the links.,2016-06-14 22:19:29+00:00,d49emou,3.0,t1_d49aegc,5243.0,ethereum
+29,Really appreciate the feedback! We've opened a slack channel. This would be the best way for you to get in contact with developers and the rest of the Gnosis team and community. Email me at matt.liston@consensys.net for an invite!,2016-06-08 17:30:06+00:00,d414vhe,,t1_d376hl2,,ethereum
+30,In accordance with the moratorium proposed by Vlad and Emin we are considering delaying this proposal. We are looking into the details of this now and intend to do whatever is best for the DAO.,2016-06-02 21:34:51+00:00,d3tnf61,1.0,t3_4kaj3l,1123354.0,TheDao
+31,"I'm working on a timeline, detailed milestones spreadsheet, and terms (how funds will be held, dispensed, etc). I think we'll focus on the $150k proposal.",2016-05-27 21:15:46+00:00,d3m99zf,,t1_d3l6t3m,73815.0,TheDao
+32,"We've discussed this a bit and want to ask for $150k for the proposal in the document with a 5 month target for the token selling feature. We will also provide detailed milestones for the rest.
+
+If there is interest for something more, we'd also like to make an expanded $500k proposal which would involve creating a general purposed Futarchy (and potentially other) governance app. This would be used within The DAO, and also be an application which could serve external projects. 
+
+We would absolutely appreciate feedback from the community on these numbers and what milestones are most important. We would also like to get thoughts on what would be valuable to see in an expanded proposal.",2016-05-26 22:03:14+00:00,d3l0udt,,t1_d3dvr52,,TheDao
+33,Coindesk covered Futarchy (with Robin Hanson and Gnosis) in a feature article. Thinking it may be of interest here!,2016-05-26 19:06:49+00:00,d3ksx44,1.0,t3_4l6x6i,32.0,etherpunk
+34,This is a great idea and we are thinking of doing something similar for this proposal to The DAO (offer several funding levels with additional deliverables).,2016-05-23 20:23:15+00:00,d3gtlrk,2.0,t1_d3gtfsh,224.0,TheDao
+35,"Our post for the proposal is here:
+https://www.reddit.com/r/TheDao/comments/4kaj3l/a_gnosis_written_proposal_to_the_dao_futarchy_and",2016-05-23 18:36:12+00:00,d3gostn,1.0,t3_4kpfsv,28.0,TheDao
+36,"Honored that Gnosis members and Robin Hanson are highlighted in this Coindesk article on Futarchy and ‪‎DAO‬ governance! Mentions The DAO and our proposal.
+http://www.coindesk.com/futarchy-dao-governance/",2016-05-23 18:34:58+00:00,d3goqsw,1.0,t3_4kaj3l,248561.0,TheDao
+37,"This isn't baked into the governance module, and as mentioned is not effective and will find use as an informative tool.",2016-05-23 04:08:54+00:00,d3g07a8,6.0,t1_d3fzwb0,608.0,TheDao
+38,"Yes, that could work however I suspect the incentives in practice are less straightforward than you anticipate, and regardless direct vote bribing is more effective.
+
+The primary use of a such a market is to allow token holders to estimate the probability of a proposal passing.",2016-05-23 03:52:14+00:00,d3fzp1s,4.0,t1_d3fx0pg,4402.0,TheDao
+39,"This proposal has 4 components. The first three do not involve using futarchy for governance, and the fourth would be implemented on a voluntary basis:
+
+1. Prediction market for each proposal, “will proposal be implemented”
+2. Automated proxy voting for futarchy or another voter
+3. Sell DAO shares if proposal implemented
+
+Of these three, the third is most imminently applicable to DAO users. There has been an overwhelmingly positive response to this demonstrating that users understand the need for this solution.
+
+From an above comment, ""It's a pre-commitment to sell your token for a particular price only if a proposal that you do not want is approved.""
+
+As for your concerns with futarchy, this paper is best to address this.(http://mason.gmu.edu/~rhanson/futarchy2013.pdf)
+
+It's also worth noting that The DAO itself is a completely unproven model of governance, one which we are all excited to participate in! :)
+
+We appreciate the criticism as it helps us develop our argument and we believe transparency and open discussion is paramount!",2016-05-22 18:55:42+00:00,d3fga69,2.0,t1_d3evsvy,52010.0,TheDao
+40,"Thanks for bringing this up! I have a budget in mind, but I'd like to discuss it in more detail with everyone at Gnosis. I should be able to share more of this on Monday or Tuesday.",2016-05-21 19:53:01+00:00,d3efkah,2.0,t1_d3dvr52,49087.0,TheDao
+41,"Our proposal is for internal use, yes, but I expect the futarchy module could also be served from The DAO to other DAO.
+
+More generally though, Gnosis, outside of this proposal is a platform for all predictions. ",2016-05-21 19:52:25+00:00,d3efjj4,4.0,t1_d3dqxfz,60762.0,TheDao
+42,"Phew, thanks! Let me know if you have any more questions!",2016-05-21 00:55:14+00:00,d3dmzay,10.0,t1_d3dmulr,247.0,TheDao
+43,"In this case, it's not a bet. It's a pre-commitment to sell your token for a particular price only if a proposal that you do not want is approved.",2016-05-21 00:40:08+00:00,d3dmhrr,8.0,t1_d3dm2t7,779.0,TheDao
+44,Ah I see. You sell the maybe-DAO token (if Proposal Yes for example) for a maybe-Eth token (redeems for Eth value instead of DAO value if proposal yes).,2016-05-21 00:03:05+00:00,d3dlaci,6.0,t1_d3dkh6s,1449.0,TheDao
+45,"We've made a proposal here:
+https://www.reddit.com/r/TheDao/comments/4kaj3l/a_gnosis_written_proposal_to_the_dao_futarchy_and/
+
+and a video here:
+https://www.reddit.com/r/TheDao/comments/4jmnhr/a_video_introducing_a_futarchy_oriented_proposal/
+
+For improvements including Futarchy and a mechanism to pre-commit to selling tokens at a particular price if a proposal that you disagree with is implemented. 
+
+Along with this we will implement proxy voting and automated markets asking ""will this proposal be implemented.""",2016-05-20 23:14:25+00:00,d3djng6,1.0,t3_4k6kbm,67832.0,TheDao
+46,"I'm not sure what you mean by ""betting a DAO token for a certain amount of eth,"" could you rephrase?
+
+""effectively selling the DAO token for that eth"" In this case, you sell the token regardless of whether or not the proposal that you're trying to avoid is accepted. In our case, selling the token is contingent on the proposal decision.
+",2016-05-20 22:47:35+00:00,d3dipqj,4.0,t1_d3din64,120.0,TheDao
+47,"We've just made another post with our written proposal!
+https://www.reddit.com/r/TheDao/comments/4kaj3l/a_gnosis_written_proposal_to_the_dao_futarchy_and/",2016-05-20 22:44:57+00:00,d3dimaj,1.0,t3_4jmnhr,359452.0,TheDao
+48,https://www.reddit.com/r/TheDao/comments/4kaj3l/a_gnosis_written_proposal_to_the_dao_futarchy_and/,2016-05-20 22:44:03+00:00,d3dil6l,1.0,t3_4kafho,5585.0,TheDao
+49,Getting it! :),2016-05-20 22:41:15+00:00,d3dihiy,2.0,t1_d3dg8ty,3654.0,TheDao
+50,"First of all, I don't think ""compete"" is the best way to describe our relationship with Augur. I expect success to have a greater positive than negative correlation - first we both need to prove our hypotheses that there is demand for decentralized prediction markets.
+
+That said, I can state a few differentiators:
+
+1. We are already live and stable with real Ether compared to an unknown release date.
+2. Our oracle mechanisms are simpler and more efficient. Passes lower costs to users, less failure modes.
+3. Our focus is on enabling customized applications to be built on our platform
+
+If you keep both tokens you will receive back 1 DAO token from the token corresponding to the decision implemented. ",2016-05-20 22:40:43+00:00,d3digtm,2.0,t1_d3dhb0e,1923.0,TheDao
+51,"Greetings decentralized autonomous denizens.
+We recently posted a video introducing a proposal that we are making to The DAO: https://www.reddit.com/r/TheDao/comments/4jmnhr/a_video_introducing_a_futarchy_oriented_proposal/
+We appreciate all of the great feedback that we've received.
+Following up here with a written proposal. Comments are enabled.
+The tl;dr: - Mechanism to pre-commit to selling DAO tokens at a particular price if a proposal that you do not like is approved - Futarchy module for governance (markets instead of voting) - Proxy voting system (vote along with the futarchy or your favorite voter) - Automated markets asking ""will this proposal be accepted""
+Long live The DAO, Your friends at Gnosis
+
+edit1: If you would like to join our Slack to discuss, please write to matt.liston@consensys.net!
+",2016-05-20 21:32:28+00:00,d3dfy5m,1.0,t3_4kaj3l,11.0,TheDao
+52,"We closed this post due to a faulty link. Current post is here:
+https://www.reddit.com/r/TheDao/comments/4kaj3l/a_gnosis_written_proposal_to_the_dao_futarchy_and
+
+Greetings decentralized autonomous denizens.
+
+We recently posted a video introducing a proposal that we are making to The DAO: https://www.reddit.com/r/TheDao/comments/4jmnhr/a_video_introducing_a_futarchy_oriented_proposal/ 
+
+We appreciate all of the great feedback that we've received.
+
+Following up here with a written proposal. Comments are enabled.
+
+The tl;dr: 
+- Mechanism to pre-commit to selling DAO tokens at a particular price if a proposal that you do not like is approved
+- Futarchy module for governance (markets instead of voting)
+- Proxy voting system (vote along with the futarchy or your favorite voter)
+- Automated markets asking ""will this proposal be accepted""
+
+Long live The DAO, 
+Your friends at Gnosis
+",2016-05-20 21:14:28+00:00,d3df98r,1.0,t3_4kafho,210.0,TheDao
+53,"Thanks for posting this. I agree that it provides a strong argument toward our proposal!
+
+I think many valid points are made in your post. I'm not ready to say with 100% certainty that in the current setup there is never an incentive to vote no, but your arguments are certainly logical.
+
+We can certainly improve this situation with our proposal. ",2016-05-19 19:50:18+00:00,d3c0pbb,2.0,t1_d3buv01,7558.0,TheDao
+54,"Here you go:
+https://youtu.be/KAtvLLMWki8
+",2016-05-17 03:15:21+00:00,d38dads,2.0,t1_d38bt5c,2387.0,TheDao
+55,"Thanks for taking the time to write this :)
+
+Your assumptions and options look correct. 
+
+There is potentially a way to extend the marketplace. In our proposal to create DAO_yes/no and Eth_yes/no tokens, a mechanism could also be included to implement the proposal with the greater exchange rate, or this could be factored into the greater voting process.
+
+A prediction market can be more meaningful particularly when conditional markets are used. For example ""what will the DAO token value be if this proposal is implemented"".
+
+Regarding multiple proposals in a short period of time. Our system would allow for selling tokens at a pre-determined price only if a particular proposal is implemented. 
+
+Let me know if I've missed anything or if you have more questions/comments!",2016-05-17 00:16:19+00:00,d386cwb,2.0,t1_d381qpx,7198.0,TheDao
+56,The exchange rates could even help determine whether or not the proposal is accepted (also we would plan on introducing futarchy markets and proxy voting for this).,2016-05-16 23:24:45+00:00,d384cwm,2.0,t1_d3815ku,5004.0,TheDao
+57,Unfortunately this would take time to implement. ,2016-05-16 23:23:45+00:00,d384bgo,2.0,t1_d382taq,2392.0,TheDao
+58,"I think you're right regarding the voting. 
+
+If big amounts of money are swished around then yes there would likely be ample liquidity in these markets. We would implement this to make it easy and not stressful for you and other users :)
+
+The prediction market could be used to estimate the likelihood of a proposal being passed (and to hedge on that) and also through futarchy markets for the actual proposal decision. We would like to add this futarchy mechanism to the DAO itself. As much of this is possible should be internal to the DAO.",2016-05-16 21:22:52+00:00,d37zkho,4.0,t1_d37z4np,634.0,TheDao
+59,"Good questions! 
+
+Here's how it would work. You exchange your one DAO token for a ""DAO_proposalyes"" and a ""DAO_proposalno"" token. Each token returns either nothing or one DAO token depending on the corresponding decision. 
+
+If you do not like the proposal you would first vote ""no"". You would then exchange your DAO token for both tokens. You would keep the ""DAO_proposalno"" token and you would trade your ""DAO_proposalyes"" token for a (or a fraction of a) ""Eth_proposalyes"" token (done on an open market). 
+
+If the proposal is not accepted, then your ""DAO_proposalno"" token is then redeemable for a DAO token. If the proposal is accepted, then your ""Eth_proposalyes"" token is redeemable for an Eth. 
+
+If there are no counterparties willing to buy the ""DAO_proposalyes"" token then that would be an issue, however if there are enough votes to approve the proposal then this would be unlikely!",2016-05-16 20:58:55+00:00,d37ykjv,2.0,t1_d37xvn3,945.0,TheDao
+60,DAO TAO :),2016-05-16 20:22:52+00:00,d37wzra,2.0,t1_d37wfcp,791.0,TheDao
+61,We would design separate interfaces for this that would plug in to existing DAO governance as well as Gnosis markets.,2016-05-16 19:32:08+00:00,d37uqyy,2.0,t1_d37ufmu,425.0,TheDao
+62,Great suggestion! We are working on a related proposal at Gnosis and have just posted an introduction to it here: https://www.reddit.com/r/TheDao/comments/4jmnhr/a_video_introducing_a_futarchy_oriented_proposal/,2016-05-16 18:58:28+00:00,d37t970,1.0,t3_4j2n3a,340830.0,TheDao
+63,"Hi! Martin Koeppelmann from Gnosis (http://groupgnosis.com/) has created this video explaining a proposal that we will be making to The DAO.
+
+Main components include:
+1. A mechanism to allow users to pre-commit to selling their DAO tokens for a particular ether amount if a proposal which they don't like is accepted
+2. Markets asking ""will this proposal be accepted?""
+3. Futarchy mechanisms for DAO proposal evaluation
+4. automated proxy voting
+
+Questions and comments greatly appreciated! We are also discussing this in the daohub slack and a proposal write up is in progress.
+
+Long live The DAO,
+Your friends at Gnosis
+
+edit 1:
+Youtube link - https://youtu.be/KAtvLLMWki8
+
+edit 2:
+Written proposal! https://www.reddit.com/r/TheDao/comments/4kaj3l/a_gnosis_written_proposal_to_the_dao_futarchy_and/
+
+edit 3:
+If you would like to join our Slack to discuss, please write to matt.liston@consensys.net!
+",2016-05-16 18:56:57+00:00,d37t6tm,1.0,t3_4jmnhr,172.0,TheDao
+64,Hi! Thanks for pointing this out. I've just messaged our developers about it. ,2016-05-05 18:49:30+00:00,d2u582p,2.0,t1_d2tla4j,35012.0,ethereum
+65,"The initial funding helps with starting liquidity, but once there is some trading volume initial funding is less important. The current predicted outcome is 2,564,479.19 Ether! Perhaps when we raise The DAO level funding (Congratulations!) we can start markets with greater initial funding. ",2016-05-01 21:31:20+00:00,d2ouwrp,4.0,t1_d2oobwy,10275.0,slockit
+66,"Thanks for pointing this out! I've just edited this to say:
+“Tip: if you think the current forecast is too high: buy short shares, if you think it is too low buy long shares.”",2016-05-01 21:27:28+00:00,d2ouria,2.0,t1_d2o8en9,48134.0,ethereum
+67,"Sorry, you're correct. Thanks for pointing that out!",2016-05-01 21:19:46+00:00,d2ouh0o,4.0,t1_d2o6nmh,53707.0,slockit
+68,"The upper bound of the market is 30M Eth . 1,618,414 Eth is the current prediction. If you think it's low, buy a long share and profit!",2016-05-01 01:24:47+00:00,d2nyh34,2.0,t1_d2nsic9,10652.0,slockit
+69,The market is currently below $12M usd. You could make a profit if you're right!,2016-04-30 19:56:35+00:00,d2nnbsa,2.0,t1_d2nn9b8,118.0,ethereum
+70,"Ok, thanks for letting us know. Our apologies for not fitting within the rules!",2016-04-15 18:46:56+00:00,d24bvar,2.0,t1_d24b4uw,979.0,politics
+71,Thanks for pointing this out. Do you have any suggestions on how to design a market with more value?,2016-04-15 18:10:49+00:00,d24a8ho,3.0,t1_d2494gn,1452.0,politics
+72,Please let us know if there are any suggestions on how to improve upon this market for future markets. Would a scalar market (predict the actual number of delegates each receive) be more interesting? Other suggestions?,2016-04-15 18:10:27+00:00,d24a7we,1.0,t3_4exr6c,3011.0,politics
+73,"Good idea, I'll look into doing that soon. Would you recommend using https://btcvol.info/ for 30-day volatility index at a given day in the future, or something else?",2016-04-15 17:17:51+00:00,d247sik,4.0,t1_d23rwww,30715.0,BitcoinMarkets
+74,"You're right that there are existing opportunities to long and short. This isn't meant to replace that, we're testing other prediction market based mechanisms for price speculation. ",2016-04-15 01:09:00+00:00,d23egp9,2.0,t1_d23ak86,5961.0,BitcoinMarkets
+75,"Thanks for pointing out that the High + Low / 2 can be manipulated. I agree with this, but don't think it will be a problem given that the shares are spaced out by outcomes (425-450, 450-475, ...) and that incentive for such manipulation would require very high volumes in this market. In future markets we will use vwap or another method less susceptible to manipulation. ",2016-04-15 01:06:01+00:00,d23ec5r,2.0,t1_d23aui8,5338.0,BitcoinMarkets
+76,"Here's a prediction market for the Bitcoin price on 5/15:
+http://groupgnosis.com/dapp/#/markets/0x2cfdf27e2382323792c50f275c4160ae/0x1c4ee1329fbc3961b045a8c9bd50046a966ab5ac2",2016-04-14 19:12:36+00:00,d22ywgj,1.0,t3_4egl9c,186315.0,CryptoMarkets
+77,"thank you so much for all the feedback! This is incredibly useful
+",2016-03-13 14:25:39+00:00,d0y7pwv,,t1_czpf4fy,,ethtrader
+78,Feel free to suggest some :) ,2016-03-10 00:02:18+00:00,d0u1w0o,,t1_d0qdbvn,,ethtrader
+79,feel free to reach out!,2015-12-07 21:26:14+00:00,cxqq1m5,2.0,t1_cxqph1n,799.0,ethereum
+80,"Apologies, the market maker for the Patriots market experienced a hdd crash before the launch of the remote node. Please direct message us with your purchase address and we will refund + reward you :)  ",2015-12-06 23:42:37+00:00,cxpng8x,1.0,t3_3vogrm,22147.0,ethereum
+81,We updated our geth node. Please try again to send your transactions.,2015-11-17 20:47:42+00:00,cx3plis,1.0,t3_3t4uo5,44387.0,ethereum
+82,Thank you for your notice spiderwars. We are working on a fix. In the meantime it should still work with a local node.,2015-11-17 09:35:56+00:00,cx34rhr,1.0,t3_3t4uo5,4081.0,ethereum
+83,Sorry for the delay. The bet will be resolved today.,2015-11-04 09:59:14+00:00,cwnzl7s,1.0,t3_3rerut,43299.0,ethereum
+84,Everyone is working to be as polished as possible during an experimental test of a revolutionary network. Still ironing out the bugs and detailed input is always greatly appreciated. Two years ago this was just a dream...,2015-10-05 02:09:56+00:00,cvohpco,7.0,t1_cvnjhj9,72607.0,ethereum
+85,"This sounds great! There are a couple ways we can go about creating this, and we would love to help.
+
+Feel free to login to Gnosis and use Suggest market. We will approve it on our end if you send us a pm :)",2015-10-05 02:06:01+00:00,cvohkoq,3.0,t1_cvo1ywj,25418.0,ethereum
+86,"excellent idea, we're already working on it. ",2015-10-03 14:01:50+00:00,cvmq434,6.0,t1_cvm1hdm,65697.0,ethereum
+87,create your own market as in suggesting a market or actually being the market maker? ,2015-10-02 19:22:22+00:00,cvm0i3b,4.0,t1_cvlwfjw,6174.0,ethereum
+88,thanks! Please let us know if you have any feedback,2015-10-02 17:32:23+00:00,cvlw4z2,2.0,t1_cvlek06,45254.0,ethereum
+89,New site is up! http://UjoMusic.com,2015-10-02 16:01:51+00:00,cvlseja,5.0,t1_cvlqi2o,2753.0,ethereum
+90,"Assuming you read the agreement and are running an ethereum node :), all the active markets should appear. Since all the markets are held in contracts, you must have a node running. You can also view the contract address here: http://frontier.ether.camp/account/2935aa0a2d2fbb791622c29eb1c117b65b7a9085 , We will be publishing our code soon and should have a remote node available within the next day. ",2015-09-16 04:41:07+00:00,cv36m6k,2.0,t1_cv33gcp,7843.0,ethereum
+91,See elaborated response above. However in theory - an automated oracle could pull information from a trusted 3rd party API and submit it to the chain,2015-09-16 02:13:48+00:00,cv32wor,4.0,t1_cv2gd7p,36034.0,ethereum
+92,"Hey Housemobile,
+
+Our markets are on GroupGnosis.com - please note that you currently need a local Geth node to place bets. We are currently tweaking and testing a remote node + wallet. 
+
+EDIT: The main difference between Gnosis and Augur is the way how our event resolving works. Augur uses its reputation token system. Anyone who owns REP can participate in the voting process to select the right outcome. Those who vote for the finally selected outcome are rewarded.  In contrast Gnosis can work with any kind of oracle. We are starting with our own oracle ""Fact server"", which relys on Gnosis as third party to resolve events. But our contracts allow to work with any kind of oracle. In theory we could even use Augurs results, as soon as they are written on the chain. To create a market on Augur or on Gnosis a Market Maker has to provide some funding to fund the automated market maker. The only compensation for this investment are fees collected from users betting on those markets. The downside of Augur's system is that market makers have to split the collected fees with the people participating in the voting process. Unlike Gnosis, where market makers pay nothing for the Fact server information.",2015-09-15 15:14:08+00:00,cv2e5ke,2.0,t1_cv1mwld,61967.0,ethereum
+93,Thanks! Feel free to make suggestions!,2015-09-14 19:34:05+00:00,cv1h6rp,2.0,t1_cv1ddpe,5810.0,ethereum
+94,Steelers: 0.27 - Patriots: 0.73,2015-09-11 01:04:28+00:00,cuxesse,4.0,t1_cuxdyx9,1413.0,ethereum
+95,That sounds like a great plan to test live betting.,2015-09-03 06:17:44+00:00,cup0lht,2.0,t1_cujrxio,399074.0,ethereum
+96,"Thank you for your post.
+
+The market has been closed and does not appear in the market list anymore. You should see your shares in ""My Shares in closed Markets"" on the ""My Account"" page. There is a button next to your shares to redeem your winnings.
+
+There was a bug preventing the dapp from showing your shares in closed markets. It should work now. If you have any other issues, please let us know.",2015-08-29 14:48:12+00:00,cujqt8x,3.0,t1_cujnsku,8211.0,ethereum
+97,"Thank you christianlundkvist for clearing up misconceptions.
+
+We thank the community for bringing up these valid concerns and want to foster clarity around these issues. We did our own investigation and tested go-node settings in our network to make sure they actually work.
+
+So far we can confirm that NOT setting the --rpcaddr option will prevent geth from accepting connections from other computers. The default setting for --rpcaddr is 127.0.0.1, which means that only local connections are accepted. 
+
+If you start your go-node with the settings requested by groupgnosis (geth --rpc --rpccorsdomain ""http://groupgnosis.com"" --unlock &lt;YourAccount&gt; '&lt;Password&gt;') your accounts are not vulnerable to this particular attack. Only the groupgnosis dApp can access your unlocked account.
+
+We have tested only with the go-node and cannot make any statement on other clients!",2015-08-29 12:20:54+00:00,cujnm8n,1.0,t3_3iu60n,954.0,ethereum
+98,We are working to update our website with a more cohesive warning and working harder to build a solution that does not require that at all. We are in Alpha after all! ,2015-08-29 02:51:30+00:00,cujdoor,2.0,t1_cujaz72,5618.0,ethereum
+99,"We apologize for the lack of communication. That is something we are going to change. We will be posting a full FAQ this coming week as well as updating the site with more information and markets. 
+
+The best solution for using Gnosis at the moment is to open a geth rpc node with a coinbase that only contains as much as you are willing to lose. Do not unlock the account until right before you make a purchase. In your rpc terminal (if you don't have one running use &gt;geth attach) type;
+     personal.unlockAccount(eth.coinbase, ‘Password’, 30)
+Then place your bet within 30 seconds. This is not the best solution but we are working on a better one. Stay tuned for more updates!",2015-08-29 02:39:12+00:00,cujdc4g,6.0,t1_cujb1yw,4723.0,ethereum

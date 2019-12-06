@@ -1,0 +1,2092 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Burn $100,000 dollars.",2016-05-18 03:13:59+00:00,d39ro1x,1.0,t3_4jqfka,56542.0,AskReddit
+1,"Alright, I updated the github commit. It's a bit messy if you look at the nitty gritty, but it works.  I'll probably go in and clean it up soon.
+
+Let me know if you have any issues running it.",2016-04-13 18:44:13+00:00,d21i329,,t1_d1nfqof,,undeleteShadow
+2,"Right on.  The github link is in the sidebar info, but in serious need of a new git commit.  I'll let you know when I update it.  Should be tonight or tomorrow.",2016-04-03 19:58:40+00:00,d1of9d0,2.0,t1_d1nfqof,77733.0,undeleteShadow
+3,"Nice, locked detection works.",2016-02-28 04:16:27+00:00,d0gjy8e,1.0,t3_47zz8i,2311.0,undeleteShadow
+4,"Sorry for the wait, this took a lot longer to crawl than expected. Here's the top 300 subreddits from longtail's post history.  1546 unique subreddits are in the list.
+
+1	/r/funny	6820
+
+2	/r/leagueoflegends	3387
+
+3	/r/blackpeopletwitter	3335
+
+4	/r/worldnews	3271
+
+5	/r/pcmasterrace	3100
+
+6	/r/todayilearned	2568
+
+7	/r/adviceanimals	1891
+
+8	/r/trees	1795
+
+9	/r/gifs	1398
+
+10	/r/science	1374
+
+11	/r/showerthoughts	1371
+
+12	/r/mildlyinteresting	1369
+
+13	/r/askreddit	1342
+
+14	/r/gaming	1309
+
+15	/r/dota2	1252
+
+16	/r/movies	1213
+
+17	/r/wtf	1194
+
+18	/r/aww	1135
+
+19	/r/pics	1054
+
+20	/r/news	1003
+
+21	/r/globaloffensive	958
+
+22	/r/cringepics	878
+
+23	/r/me_irl	867
+
+24	/r/videos	820
+
+25	/r/politics	718
+
+26	/r/smashbros	671
+
+27	/r/4chan	665
+
+28	/r/relationships	641
+
+29	/r/destinythegame	611
+
+30	/r/nottheonion	571
+
+31	/r/gentlemanboners	548
+
+32	/r/nba	548
+
+33	/r/imgoingtohellforthis	542
+
+34	/r/explainlikeimfive	538
+
+35	/r/tumblrinaction	502
+
+36	/r/fatpeoplehate	424
+
+37	/r/squaredcircle	404
+
+38	/r/soccer	393
+
+39	/r/hearthstone	387
+
+40	/r/reactiongifs	385
+
+41	/r/cringe	379
+
+42	/r/internetisbeautiful	379
+
+43	/r/android	362
+
+44	/r/thathappened	335
+
+45	/r/fallout	321
+
+46	/r/justiceporn	309
+
+47	/r/facepalm	298
+
+48	/r/tf2	293
+
+49	/r/art	289
+
+50	/r/woahdude	282
+
+51	/r/fiftyfifty	278
+
+52	/r/ps4	275
+
+53	/r/lifeprotips	269
+
+54	/r/tifu	266
+
+55	/r/bestof	255
+
+
+56	/r/earthporn	238
+
+57	/r/wow	238
+
+58	/r/atheism	226
+
+59	/r/circlejerk	223
+
+60	/r/mma	222
+
+61	/r/technology	210
+
+62	/r/perfecttiming	209
+
+63	/r/europe	206
+
+64	/r/unexpected	204
+
+65	/r/celebs	198
+
+66	/r/baseball	195
+
+67	/r/fffffffuuuuuuuuuuuu	190
+
+68	/r/iama	190
+
+69	/r/polandball	189
+
+70	/r/oldschoolcool	188
+
+71	/r/upliftingnews	188
+
+72	/r/techsupportgore	183
+
+73	/r/fitness	179
+
+74	/r/tattoos	179
+
+75	/r/music	177
+
+76	/r/magictcg	175
+
+77	/r/motorcycles	175
+
+78	/r/sex	175
+
+79	/r/instant_regret	170
+
+80	/r/pokemon	169
+
+81	/r/kotakuinaction	167
+
+82	/r/lifehacks	165
+
+83	/r/sports	165
+
+84	/r/skyrim	160
+
+85	/r/holdmybeer	159
+
+86	/r/xboxone	159
+
+87	/r/anime	156
+
+88	/r/space	154
+
+89	/r/gadgets	152
+
+90	/r/canada	149
+
+91	/r/gamegrumps	148
+
+92	/r/getmotivated	147
+
+93	/r/trashy	145
+
+94	/r/thewalkingdead	140
+
+95	/r/dataisbeautiful	136
+
+96	/r/doctorwho	135
+
+97	/r/sandersforpresident	131
+
+98	/r/hockey	130
+
+99	/r/shittyaskscience	128
+
+100	/r/starwars	128
+
+101	/r/youshouldknow	128
+
+102	/r/minecraft	125
+
+103	/r/creepy	124
+
+104	/r/asoiaf	123
+
+105	/r/fantasyfootball	121
+
+106	/r/frugal	120
+
+107	/r/smite	118
+
+108	/r/askscience	115
+
+109	/r/fatlogic	111
+
+110	/r/youtubehaiku	111
+
+111	/r/programming	109
+
+112	/r/animalsbeingjerks	108
+
+113	/r/reddevils	106
+
+114	/r/justrolledintotheshop	105
+
+115	/r/formula1	103
+
+116	/r/gaybros	103
+
+117	/r/crazyideas	102
+
+118	/r/tech	100
+
+119	/r/diy	99
+
+120	/r/britishproblems	96
+
+121	/r/naruto	94
+
+122	/r/futurology	93
+
+123	/r/prettygirls	92
+
+124	/r/rage	92
+
+125	/r/thelastairbender	91
+
+126	/r/dayz	89
+
+127	/r/roosterteeth	89
+
+128	/r/changemyview	88
+
+129	/r/cats	85
+
+130	/r/thebutton	85
+
+131	/r/clashofclans	84
+
+132	/r/television	84
+
+133	/r/punchablefaces	83
+
+134	/r/quityourbullshit	83
+
+135	/r/running	83
+
+136	/r/halo	81
+
+137	/r/whatcouldgowrong	80
+
+138	/r/perfectloops	79
+
+139	/r/steam	79
+
+140	/r/books	78
+
+141	/r/justneckbeardthings	78
+
+142	/r/ladyboners	78
+
+143	/r/personalfinance	78
+
+144	/r/subredditdrama	77
+
+145	/r/startledcats	76
+
+146	/r/oddlysatisfying	75
+
+147	/r/zelda	74
+
+148	/r/osha	73
+
+149	/r/shutupandtakemymoney	73
+
+150	/r/morbidreality	72
+
+151	/r/wheredidthesodago	71
+
+152	/r/iamverysmart	70
+
+153	/r/food	69
+
+154	/r/grandtheftautov	69
+
+155	/r/oldpeoplefacebook	69
+
+156	/r/bitcoin	68
+
+157	/r/conspiracy	68
+
+158	/r/listentothis	68
+
+159	/r/bodybuilding	66
+
+160	/r/documentaries	65
+
+161	/r/history	65
+
+162	/r/patriots	65
+
+163	/r/talesfromretail	65
+
+164	/r/civ	64
+
+165	/r/malefashionadvice	64
+
+166	/r/trollxchromosomes	64
+
+167	/r/abandonedporn	63
+
+168	/r/nonononoyes	63
+
+169	/r/theredpill	62
+
+170	/r/comicbooks	61
+
+171	/r/historyporn	61
+
+
+172	/r/adventuretime	60
+
+173	/r/demotivational	60
+
+174	/r/lewronggeneration	60
+
+175	/r/quotesporn	60
+
+176	/r/animalsbeingbros	59
+
+177	/r/cfb	59
+
+178	/r/idiotsfightingthings	59
+
+179	/r/nononono	59
+
+180	/r/starcraft	59
+
+181	/r/montageparodies	58
+
+182	/r/nobodylikesfatpeople	55
+
+183	/r/classic4chan	54
+
+184	/r/firstworldproblems	54
+
+185	/r/iphone	54
+
+186	/r/onepiece	54
+
+187	/r/youdontsurf	54
+
+188	/r/2007scape	53
+
+189	/r/askhistorians	53
+
+190	/r/eve	53
+
+191	/r/unexpectedthuglife	52
+
+192	/r/notinteresting	51
+
+193	/r/crappydesign	50
+
+194	/r/tinder	50
+
+195	/r/pettyrevenge	49
+
+196	/r/twoxchromosomes	49
+
+197	/r/nintendo	48
+
+198	/r/philosophy	48
+
+199	/r/nosleep	47
+
+200	/r/witcher	47
+
+201	/r/electronic_cigarette	45
+
+202	/r/planetside	44
+
+203	/r/breakingbad	43
+
+204	/r/teenagers	43
+
+205	/r/buildapc	42
+
+206	/r/linux	42
+
+207	/r/wiiu	42
+
+208	/r/guildwars2	41
+
+209	/r/murica	41
+
+210	/r/australia	40
+
+211	/r/citiesskylines	40
+
+212	/r/foodporn	40
+
+213	/r/pcgaming	40
+
+214	/r/carporn	39
+
+215	/r/creepypms	39
+
+216	/r/interestingasfuck	39
+
+217	/r/eatcheapandhealthy	38
+
+218	/r/fullmoviesonyoutube	38
+
+219	/r/netsec	38
+
+220	/r/tumblr	38
+
+221	/r/dbz	37
+
+222	/r/dccomics	37
+
+223	/r/itookapicture	37
+
+224	/r/mapporn	37
+
+225	/r/seahawks	37
+
+226	/r/web_design	37
+
+227	/r/economics	36
+
+228	/r/heroesofthestorm	36
+
+229	/r/kerbalspaceprogram	36
+
+230	/r/chelseafc	35
+
+231	/r/comics	35
+
+232	/r/dnd	35
+
+233	/r/niceguys	35
+
+234	/r/starcitizen	35
+
+235	/r/delusionalartists	34
+
+236	/r/mensrights	34
+
+237	/r/spaceporn	34
+
+238	/r/cosplaygirls	33
+
+239	/r/fifthworldpics	33
+
+240	/r/battlestations	32
+
+241	/r/gonewild	32
+
+242	/r/hiphopheads	32
+
+243	/r/lotr	32
+
+244	/r/freebies	30
+
+245	/r/jontron	30
+
+246	/r/marvel	30
+
+247	/r/nocontext	30
+
+248	/r/apple	29
+
+249	/r/facebookwins	29
+
+250	/r/floridaman	29
+
+251	/r/gentlemanbonersgifs	29
+
+252	/r/stevenuniverse	29
+
+253	/r/sweden	29
+
+254	/r/business	28
+
+255	/r/catsstandingup	28
+
+256	/r/rpg	28
+
+257	/r/talesfromtechsupport	28
+
+258	/r/watchitfortheplot	28
+
+259	/r/amiibo	27
+
+260	/r/chemicalreactiongifs	27
+
+261	/r/gif	27
+
+262	/r/india	27
+
+263	/r/streetwear	27
+
+264	/r/astronomy	26
+
+265	/r/cowboys	26
+
+266	/r/fatpeoplestories	26
+
+267	/r/gamephysics	26
+
+268	/r/guitar	26
+
+269	/r/jailbreak	26
+
+270	/r/mildlyinfuriating	26
+
+271	/r/programmerhumor	26
+
+272	/r/startrek	26
+
+273	/r/educationalgifs	25
+
+274	/r/fifa	25
+
+275	/r/masseffect	25
+
+276	/r/bad_cop_no_donut	24
+
+277	/r/battlefield_4	24
+
+278	/r/bettercallsaul	24
+
+279	/r/coffee	24
+
+280	/r/community	24
+
+281	/r/gunners	24
+
+282	/r/imaginarymonsters	24
+
+283	/r/watchpeopledie	24
+
+284	/r/guns	23
+
+285	/r/humanporn	23
+
+286	/r/nyc	23
+
+287	/r/buyitforlife	22
+
+288	/r/candidfashionpolice	22
+
+289	/r/elitedangerous	22
+
+290	/r/gamernews	22
+
+291	/r/offbeat	22
+
+292	/r/ssbpm	22
+
+293	/r/terraria	22
+
+294	/r/cinemagraphs	21
+
+295	/r/damnthatsinteresting	21
+
+296	/r/militaryporn	21
+
+297	/r/perfectfit	21
+
+298	/r/writing	21
+
+299	/r/blackout2015	20
+
+300	/r/cars	20
+",2015-10-10 01:20:20+00:00,cvudkyc,10.0,t1_cvp59ng,371626.0,undelete
+5,"Comparing undeleteShadow's post history to undelete, it's not really the bot that is different, but more in the behavior of the monitored subreddits.
+
+The only thing I remember being changed about frontpagewatch was it was going to stop posting NSFW content.  It must be certain subs, because one of the hot posts right now is a NSFW /r/WTF link.",2015-10-08 12:18:50+00:00,cvsdx01,2.0,t1_cvsde4k,1500.0,undelete
+6,"Hurricane coming in. Dams are collapsing, but I hadn't heard it mentioned being due to lack of maintenance.",2015-10-06 01:19:42+00:00,cvpli8i,2.0,t1_cvpl4uc,632.0,undeleteShadow
+7,"Aside from the  extra disk storage to get the history of submissions for each of these subreddits, I suppose it would also need to take into account the number of subscribers at the time of submissions.
+
+Also, certain subreddits will tend to have more strictly enforced duplicate rules, like news articles.
+
+In the end, taking into account every factor is time consuming and resource heavy, and also still prone to leaving out an unseen variable.
+
+I still wouldn't go as far as to say this list is useless, but more entertaining than informative.",2015-10-05 18:55:45+00:00,cvp78s2,2.0,t1_cvp6k45,1022.0,undelete
+8,"I'd have to alter the code a little, just so it crawls smoothly without interruption.  Other than that, I'd give it a day to scrape, since long tail is long.  I also slow it down to avoid over requesting Reddit.
+
+I'll see about starting that later tonight.",2015-10-05 17:58:09+00:00,cvp4xcv,8.0,t1_cvp48s0,1020.0,undelete
+9,That's much more pleasant to look at.,2015-10-05 17:25:01+00:00,cvp3lhr,6.0,t1_cvowkh7,11790.0,undelete
+10,"No problem.  I just happened on this crawling technique while fixing the undeleteShadow bot.  So I can crawl any subreddit like this from beginning to end.
+
+If there's anything else interesting you can think to pull from the data, let me know.",2015-10-05 13:45:52+00:00,cvovwai,6.0,t1_cvovkbr,700.0,undelete
+11,"Removals between the creation of /r/undelete and Sept 20, 2015
+
+1	/r/funny	3455
+
+2	/r/todayilearned	1726
+
+3	/r/adviceanimals	1498
+
+4	/r/gifs	797
+
+5	/r/mildlyinteresting	622
+
+6	/r/showerthoughts	586
+
+7	/r/aww	557
+
+8	/r/leagueoflegends	545
+
+9	/r/gaming	540
+
+10	/r/blackpeopletwitter	509
+
+11	/r/worldnews	432
+
+12	/r/science	430
+
+13	/r/pics	406
+
+14	/r/trees	402
+
+15	/r/wtf	385
+
+16	/r/movies	376
+
+17	/r/cringepics	260
+
+18	/r/pcmasterrace	245
+
+19	/r/askreddit	239
+
+20	/r/news	236
+
+21	/r/videos	188
+
+22	/r/politics	169
+
+23	/r/4chan	155
+
+24	/r/explainlikeimfive	148
+
+25	/r/imgoingtohellforthis	146
+
+26	/r/me_irl	144
+
+27	/r/nottheonion	140
+
+28	/r/reactiongifs	133
+
+29	/r/woahdude	133
+
+30	/r/bestof	126
+
+31	/r/lifeprotips	102
+
+32	/r/dota2	96
+
+33	/r/space	91
+
+34	/r/tifu	89
+
+35	/r/iama	86
+
+36	/r/technology	82
+
+37	/r/tumblrinaction	81
+
+38	/r/earthporn	78
+
+39	/r/facepalm	75
+
+40	/r/unexpected	68
+
+41	/r/justiceporn	65
+
+42	/r/skyrim	64
+
+43	/r/circlejerk	60
+
+44	/r/art	58
+
+45	/r/gentlemanboners	57
+
+46	/r/internetisbeautiful	54
+
+47	/r/getmotivated	53
+
+48	/r/music	53
+
+49	/r/atheism	52
+
+50	/r/sports	49
+
+51	/r/fallout	48
+
+52	/r/globaloffensive	46
+
+53	/r/android	40
+
+54	/r/oldschoolcool	40
+
+55	/r/soccer	40
+
+56	/r/creepy	35
+
+57	/r/dataisbeautiful	32
+
+58	/r/oddlysatisfying	32
+
+59	/r/pokemon	31
+
+60	/r/tattoos	31
+
+61	/r/thathappened	31
+
+62	/r/fatpeoplehate	29
+
+63	/r/lifehacks	29
+
+64	/r/relationships	29
+
+65	/r/askscience	28
+
+66	/r/food	28
+
+67	/r/futurology	28
+
+68	/r/perfecttiming	28
+
+69	/r/destinythegame	27
+
+70	/r/hearthstone	27
+
+71	/r/television	27
+
+72	/r/fiftyfifty	26
+
+73	/r/starwars	25
+
+74	/r/upliftingnews	25
+
+75	/r/animalsbeingjerks	24
+
+76	/r/diy	24
+
+77	/r/nba	24
+
+78	/r/interestingasfuck	23
+
+79	/r/smashbros	23
+
+80	/r/tinder	23
+
+81	/r/wow	23
+
+82	/r/books	21
+
+83	/r/canada	21
+
+84	/r/fffffffuuuuuuuuuuuu	19
+
+85	/r/shittyaskscience	18
+
+86	/r/fitness	16
+
+87	/r/historyporn	16
+
+88	/r/nonononoyes	16
+
+89	/r/quityourbullshit	16
+
+90	/r/sandersforpresident	16
+
+91	/r/thebutton	15
+
+92	/r/wheredidthesodago	15
+
+93	/r/youdontsurf	15
+
+94	/r/animalsbeingbros	13
+
+95	/r/cats	13
+
+96	/r/europe	13
+
+97	/r/comics	11
+
+98	/r/minecraft	11
+
+99	/r/steam	11
+
+100	/r/thewalkingdead	11
+
+101	/r/crappydesign	10
+
+102	/r/instant_regret	10
+
+103	/r/programming	10
+
+104	/r/rage	10
+
+105	/r/gadgets	9
+
+106	/r/murica	9
+
+107	/r/prettygirls	9
+
+108	/r/whatcouldgowrong	9
+
+109	/r/baseball	8
+
+110	/r/holdmybeer	8
+
+111	/r/mapporn	8
+
+112	/r/notafathatesub	8
+
+113	/r/paoyongyang	8
+
+114	/r/trollxchromosomes	8
+
+115	/r/anime	7
+
+116	/r/blackout2015	7
+
+117	/r/britishproblems	7
+
+118	/r/history	7
+
+119	/r/jokes	7
+
+120	/r/mildlyinfuriating	7
+
+121	/r/motorcycles	7
+
+122	/r/progresspics	7
+
+123	/r/ps4	7
+
+124	/r/quotesporn	7
+
+125	/r/tumblr	7
+
+126	/r/youshouldknow	7
+
+127	/r/celebs	6
+
+128	/r/cringe	6
+
+129	/r/fatterpeoplehate	6
+
+130	/r/overweightawareness	6
+
+131	/r/paout	6
+
+132	/r/twoxchromosomes	6
+
+133	/r/asoiaf	5
+
+134	/r/breakingbad	5
+
+135	/r/classic4chan	5
+
+136	/r/conspiracy	5
+
+137	/r/doctorwho	5
+
+138	/r/fantasyfootball	5
+
+139	/r/frugal	5
+
+140	/r/gonewild	5
+
+141	/r/mensrights	5
+
+142	/r/punchablefaces	5
+
+143	/r/roosterteeth	5
+
+144	/r/sex	5
+
+145	/r/abandonedporn	4
+
+146	/r/civ	4
+
+147	/r/fatpeoplestories	4
+
+148	/r/fattiesnotwelcome	4
+
+149	/r/firstworldproblems	4
+
+150	/r/justrolledintotheshop	4
+
+151	/r/kotakuinaction	4
+
+152	/r/lotr	4
+
+153	/r/notinteresting	4
+
+154	/r/personalfinance	4
+
+155	/r/squaredcircle	4
+
+156	/r/sweden	4
+
+157	/r/thebeachhead	4
+
+158	/r/trashy	4
+
+159	/r/battlestations	3
+
+160	/r/behindthegifs	3
+
+161	/r/bodybuilding	3
+
+162	/r/business	3
+
+163	/r/cfb	3
+
+164	/r/citiesskylines	3
+
+165	/r/documentaries	3
+
+166	/r/everymanshouldknow	3
+
+167	/r/formula1	3
+
+168	/r/halo	3
+
+169	/r/highqualitygifs	3
+
+170	/r/humansbeingbros	3
+
+171	/r/justneckbeardthings	3
+
+172	/r/kerbalspaceprogram	3
+
+173	/r/ladyboners	3
+
+174	/r/mma	3
+
+175	/r/morbidreality	3
+
+176	/r/polandball	3
+
+177	/r/roomporn	3
+
+178	/r/starcraft	3
+
+179	/r/teenagers	3
+
+180	/r/tf2	3
+
+181	/r/thelastairbender	3
+
+182	/r/	2
+
+183	/r/askhistorians	2
+
+184	/r/beamazed	2
+
+185	/r/beards	2
+
+186	/r/blep	2
+
+187	/r/buildapc	2
+
+188	/r/chemicalreactiongifs	2
+
+189	/r/christianity	2
+
+190	/r/community	2
+
+191	/r/dadjokes	2
+
+192	/r/dayz	2
+
+193	/r/disney	2
+
+194	/r/drunk	2
+
+195	/r/exmormon	2
+
+196	/r/eyebleach	2
+
+197	/r/fatlogic	2
+
+198	/r/gameofthrones	2
+
+199	/r/grandtheftautov	2
+
+200	/r/gta	2
+
+201	/r/guitar	2
+
+202	/r/heresafunfact	2
+
+203	/r/hiphopheads	2
+
+204	/r/iamverysmart	2
+
+205	/r/idiotsfightingthings	2
+
+206	/r/itookapicture	2
+
+207	/r/jenniferlawrence	2
+
+208	/r/lol	2
+
+209	/r/malefashionadvice	2
+
+210	/r/marvelstudios	2
+
+211	/r/montageparodies	2
+
+212	/r/netflixbestof	2
+
+213	/r/nintendo	2
+
+214	/r/oculus	2
+
+215	/r/paomustresign	2
+
+216	/r/patriots	2
+
+217	/r/pcgaming	2
+
+218	/r/penmanshipporn	2
+
+219	/r/peoplehatefat	2
+
+220	/r/pettyrevenge	2
+
+221	/r/planetside	2
+
+222	/r/popping	2
+
+223	/r/programmerhumor	2
+
+224	/r/protectandserve	2
+
+225	/r/shittyreactiongifs	2
+
+226	/r/shittyrobots	2
+
+227	/r/subredditdrama	2
+
+228	/r/techsupportgore	2
+
+229	/r/toronto	2
+
+230	/r/watchitfortheplot	2
+
+231	/r/195	1
+
+232	/r/2d2	1
+
+233	/r/4chan)(upvote	1
+
+234	/r/aaronswartz	1
+
+235	/r/addiction	1
+
+236	/r/adventuretime	1
+
+237	/r/all.	1
+
+238	/r/all..	1
+
+239	/r/anormaldayinrussia	1
+
+240	/r/archerfx	1
+
+241	/r/assassinscreed	1
+
+242	/r/astronomy	1
+
+243	/r/atlanta	1
+
+244	/r/australia	1
+
+245	/r/baconreader	1
+
+246	/r/battlefieldgifs	1
+
+247	/r/biology	1
+
+248	/r/blackpeople	1
+
+249	/r/blog	1
+
+250	/r/boston	1
+
+251	/r/breathinginformation	1
+
+252	/r/browns	1
+
+253	/r/busty	1
+
+254	/r/buyitforlife	1
+
+255	/r/carporn	1
+
+256	/r/casualconversation	1
+
+257	/r/celebsmx	1
+
+258	/r/chicago	1
+
+259	/r/childfree	1
+
+260	/r/cinemagraphs	1
+
+261	/r/clg	1
+
+262	/r/colorado	1
+
+
+263	/r/comicbooks	1
+
+264	/r/cosplay	1
+
+265	/r/cosplaygirls	1
+
+266	/r/coys	1
+
+267	/r/creepypms	1
+
+268	/r/cring?pics	1
+
+269	/r/cringepics...do	1
+
+270	/r/cubs	1
+
+271	/r/damnthatsinteresting	1
+
+272	/r/datgap	1
+
+273	/r/dermlife	1
+
+274	/r/dnd	1
+
+275	/r/dogecoin	1
+
+276	/r/drugs	1
+
+277	/r/economics	1
+
+278	/r/electronic_cigarette	1
+
+279	/r/everythingscience	1
+
+280	/r/expectationvsreality	1
+
+281	/r/facebookwins	1
+
+282	/r/fatpeoplehate02	1
+
+283	/r/fatpeoplehate19	1
+
+284	/r/fatpeoplehate26	1
+
+285	/r/feminism	1
+
+286	/r/ffxiv	1
+
+287	/r/fifa	1
+
+288	/r/filmmakers	1
+
+289	/r/finalfantasy	1
+
+290	/r/foodporn	1
+
+291	/r/frugalmalefashion	1
+
+292	/r/fuckolly	1
+
+293	/r/funny..	1
+
+294	/r/funnyandsad	1
+
+295	/r/futurama	1
+
+296	/r/germany	1
+
+297	/r/gif	1
+
+298	/r/gifextra	1
+
+299	/r/ginger	1
+
+300	/r/girlsinyogapants	1
+
+301	/r/gsming	1
+
+302	/r/guildwars2	1
+
+303	/r/guns	1
+
+304	/r/hacking	1
+
+305	/r/halloweencostumes	1
+
+306	/r/happygirls	1
+
+307	/r/hardbodies	1
+
+308	/r/heroesofthestorm	1
+
+309	/r/hockey	1
+
+310	/r/honestconversations	1
+
+311	/r/houseofcards	1
+
+312	/r/houston	1
+
+313	/r/humanporn	1
+
+314	/r/iasip	1
+
+315	/r/imaginarywesteros	1
+
+316	/r/india	1
+
+317	/r/indianpeoplefacebook	1
+
+318	/r/ireland	1
+
+319	/r/jailbreak	1
+
+320	/r/jontron	1
+
+321	/r/karmacourt	1
+
+322	/r/kneesocks	1
+
+323	/r/koans	1
+
+324	/r/korea	1
+
+325	/r/leannadecker	1
+
+326	/r/lego	1
+
+327	/r/linuxmasterrace	1
+
+328	/r/listentothis	1
+
+329	/r/magictcg	1
+
+330	/r/makeupaddiction	1
+
+331	/r/mars	1
+
+332	/r/marvel	1
+
+333	/r/medievalthings	1
+
+334	/r/mildyinteresting	1
+
+335	/r/monsanto	1
+
+336	/r/mortalkombat	1
+
+337	/r/netsec	1
+
+338	/r/nevertellmetheodds	1
+
+339	/r/nobodylikesfatpeople	1
+
+340	/r/nomansskythegame	1
+
+341	/r/nyc	1
+
+342	/r/ocean	1
+
+343	/r/offbeat	1
+
+344	/r/okcupid	1
+
+345	/r/oldpeoplefacebook	1
+
+346	/r/orbo	1
+
+347	/r/osha	1
+
+348	/r/pandr	1
+
+349	/r/peoplebeingjerks	1
+
+350	/r/perfectfit	1
+
+351	/r/perfectloops	1
+
+352	/r/philosophy	1
+
+353	/r/politicalhumor	1
+
+354	/r/portland	1
+
+355	/r/pregnant	1
+
+356	/r/progun	1
+
+357	/r/pureawesomeness	1
+
+358	/r/pushbullet	1
+
+359	/r/pussypassdenied	1
+
+360	/r/puzzleanddragons	1
+
+361	/r/pyongyang	1
+
+362	/r/realgirls	1
+
+363	/r/reallifedoodles	1
+
+364	/r/reddevils	1
+
+365	/r/redditgetsdrawn	1
+
+366	/r/relationship	1
+
+367	/r/rugbyunion	1
+
+368	/r/sanfrancisco	1
+
+369	/r/seaporn	1
+
+370	/r/seriouseats	1
+
+371	/r/shorthairedhotties	1
+
+372	/r/shutup	1
+
+373	/r/slowcooking	1
+
+374	/r/smite	1
+
+375	/r/sneakers	1
+
+376	/r/snowboarding	1
+
+377	/r/somalia	1
+
+378	/r/sons	1
+
+379	/r/spacedicks	1
+
+380	/r/spaceporn	1
+
+381	/r/ssbpm	1
+
+382	/r/standupshots	1
+
+383	/r/startledcats	1
+
+384	/r/suns	1
+
+385	/r/supershibe	1
+
+386	/r/sysadmin	1
+
+387	/r/talesfromtechsupport	1
+
+388	/r/teslamotors	1
+
+389	/r/that70show	1
+
+390	/r/themartian	1
+
+391	/r/theydidthemath	1
+
+392	/r/topgear	1
+
+393	/r/traingifs	1
+
+394	/r/travel_hd	1
+
+395	/r/twitchplayspokemon	1
+
+396	/r/unbgbbiivchidctiicbg	1
+
+397	/r/uncensorship	1
+
+398	/r/undelete	1
+
+399	/r/unexpectedthuglife	1
+
+400	/r/unitedkingdom	1
+
+401	/r/wastedgifs	1
+
+402	/r/watchpeopledie	1
+
+403	/r/webdev	1
+
+404	/r/wifesharing	1
+
+405	/r/wildstar	1
+
+406	/r/windows10	1
+
+407	/r/witcher	1
+
+408	/r/zelda	1",2015-10-05 13:37:26+00:00,cvovnlu,4.0,t1_cvotfmv,5777.0,undelete
+12,"I just browsed through the top 300 words previously and removed instances of ""it"",""was"", etc, and put them into an array to check against.  If anyone wants to see the list, I'll make it available.",2015-10-05 13:21:38+00:00,cvov824,8.0,t1_cvojtn5,36448.0,undelete
+13,"Sure, I'm at work, so I'll check into it when I'm on break or at home.",2015-10-05 13:20:43+00:00,cvov76j,4.0,t1_cvotfmv,4774.0,undelete
+14,"I edited the OP to exclude common words, but this one didn't count ""meta"" posts.  They are slightly different.",2015-10-05 02:31:16+00:00,cvoif5k,5.0,t1_cvohll0,1469.0,undelete
+15,"Oh, I just import the data from the files and generate the same reports, with the suggested filter parameters.
+
+In this case, I created a list of words to check against when counting each words occurrence, and all posts containing the ""meta"" flair were excluded entirely.",2015-10-05 02:29:51+00:00,cvoidhx,6.0,t1_cvohkfl,1442.0,undelete
+16,"I pulled the json results from searches by time stamps.  It was a day by day crawl, that stored in the data in some local files.
+
+The list of words is taken directly from /r/undelete's posts' titles.  I posted the results of the same report, sans ""meta"" flaired posts, in a lower comment.
+
+edit - That lower comment was you.
+
+edit - Since I have this data sitting around, there's a lot of other reports I can make, as well.",2015-10-05 01:09:14+00:00,cvofoh8,4.0,t1_cvodmb3,3784.0,undelete
+17,Date.,2015-10-04 22:30:06+00:00,cvoa9tx,2.0,t1_cvoa8x6,41.0,undelete
+18,"Here it is with the word exclusions and no meta posts
+
+1	/r/funny	3455
+
+2	til	3034
+
+3	from	1846
+
+4	/r/todayilearned	1726
+
+5	/r/adviceanimals	1498
+
+6	just	1202
+
+7	up	1134
+
+8	after	1107
+
+9	all	1082
+
+10	one	1064
+
+11	who	1045
+
+12	out	1028
+
+13	like	1014
+
+14	her	948
+
+15	about	925
+
+16	can	868
+
+17	people	854
+
+18	time	832
+
+19	new	815
+
+20	/r/gifs	797
+
+21	get	737
+
+22	years	730
+
+23	reddit	725
+
+24	no	717
+
+25	i'm	710
+
+26	first	688
+
+27	will	680
+
+28	more	670
+
+29	found	664
+
+30	guy	659
+
+31	would	642
+
+32	had	636
+
+33	him	629
+
+34	only	628
+
+35	got	626
+
+36	/r/mildlyinteresting	622
+
+37	now	619
+
+38	were	618
+
+39	year	618
+
+40	-0	610
+
+41	man	593
+
+42	over	591
+
+43	/r/showerthoughts	586
+
+44	day	581
+
+45	today	562
+
+46	/r/aww	557
+
+47	don't	555
+
+48	every	552
+
+49	friend	546
+
+50	/r/leagueoflegends	545
+
+51	/r/gaming	540
+
+52	old	538
+
+53	/r/blackpeopletwitter	509
+
+54	some	499
+
+55	made	498
+
+56	think	495
+
+57	good	473
+
+58	make	445
+
+59	see	437
+
+60	world	436
+
+61	ever	433
+
+62	never	433
+
+63	/r/worldnews	432
+
+64	/r/science	430
+
+65	back	429
+
+66	girl	425
+
+67	here	423
+
+68	life	417
+
+69	best	413
+
+70	right	409
+
+71	know	407
+
+72	/r/pics	406
+
+73	down	405
+
+74	/r/trees	402
+
+75	most	400
+
+76	two	392
+
+77	should	391
+
+78	last	389
+
+79	off	389
+
+80	/r/wtf	385
+
+81	while	381
+
+82	game	379
+
+83	/r/movies	376
+
+84	dog	375
+
+85	could	361
+
+86	post	355
+
+87	little	344
+
+88	before	341
+
+89	someone	340
+
+90	work	340
+
+91	go	330
+
+92	still	330
+
+93	way	329
+
+94	feel	320
+
+95	these	320
+
+96	other	316
+
+97	said	312
+
+98	gets	303
+
+99	really	303
+
+100	school	297
+
+101	picture	295
+
+102	nsfw	293
+
+103	during	289
+
+104	love	289
+
+105	did	288
+
+106	say	286
+
+107	much	280
+
+108	any	278
+
+109	going	277
+
+110	want	276
+
+111	black	275
+
+112	thought	274
+
+113	look	272
+
+114	2	265
+
+115	even	265
+
+116	/r/cringepics	260
+
+117	home	259
+
+118	use	259
+
+119	take	258
+
+120	cat	256
+
+121	i've	256
+
+122	real	255
+
+123	3	253
+
+124	girlfriend	252
+
+125	night	252
+
+126	police	251
+
+127	car	250
+
+128	help	250
+
+129	am	246
+
+130	getting	246
+
+131	/r/pcmasterrace	245
+
+132	show	245
+
+133	wife	244
+
+134	does	242
+
+135	/r/askreddit	239
+
+136	guys	237
+
+137	/r/news	236
+
+138	high	235
+
+139	let	233
+
+140	men	233
+
+141	called	229
+
+142	friends	229
+
+143	actually	228
+
+144	million	227
+
+145	same	226
+
+146	government	221
+
+147	well	221
+
+148	free	220
+
+149	need	220
+
+150	something	220
+
+151	makes	219
+
+152	saw	219
+
+153	ago	217
+
+154	you're	217
+
+155	white	216
+
+156	woman	215
+
+157	house	213
+
+158	didn't	212
+
+159	days	211
+
+160	4	210
+
+161	always	210
+
+162	bad	210
+
+163	says	209
+
+164	thing	209
+
+165	took	209
+
+166	facebook	208
+
+167	since	208
+
+168	women	208
+
+169	used	207
+
+170	give	206
+
+171	internet	206
+
+172	own	206
+
+173	movie	205
+
+174	without	204
+
+175	dad	202
+
+176	sex	202
+
+177	video	201
+
+178	water	199
+
+179	looks	198
+
+180	1	197
+
+181	trying	197
+
+182	american	196
+
+183	through	196
+
+184	mrw	194
+
+185	very	194
+
+186	vs	192
+
+187	money	190
+
+188	put	190
+
+189	left	189
+
+190	person	189
+
+191	/r/videos	188
+
+192	front	188
+
+193	sent	188
+
+194	5	187
+
+195	please	187
+
+196	10	186
+
+197	asked	186
+
+198	away	185
+
+199	family	185
+
+200	went	184
+
+201	name	183
+
+202	times	183
+
+203	find	182
+
+204	many	182
+
+205	face	181
+
+206	better	180
+
+207	google	180
+
+208	around	179
+
+209	may	179
+
+210	seen	179
+
+211	stop	179
+
+212	job	177
+
+213	morning	177
+
+214	told	177
+
+215	children	176
+
+216	doesn't	176
+
+217	live	176
+
+218	making	176
+
+219	having	175
+
+220	mom	175
+
+221	week	175
+
+222	page	173
+
+223	f	172
+
+224	come	171
+
+225	next	170
+
+226	pretty	170
+
+227	study	170
+
+228	/r/politics	169
+
+229	also	169
+
+230	death	169
+
+231	everyone	169
+
+232	using	168
+
+233	..	167
+
+234	public	167
+
+235	play	164
+
+236	top	164
+
+237	kid	163
+
+238	child	162
+
+239	finally	162
+
+240	again	160
+
+241	bill	159
+
+242	fuck	159
+
+243	human	159
+
+244	doing	158
+
+245	shot	158
+
+246	company	157
+
+247	hours	157
+
+248	kids	157
+
+249	/r/4chan	155
+
+250	once	154
+
+251	long	153
+
+252	posted	153
+
+253	until	153
+
+254	war	153
+
+255	against	151
+
+256	happy	151
+
+257	came	150
+
+258	star	150
+
+259	things	150
+
+260	another	149
+
+261	months	149
+
+262	son	149
+
+263	/r/explainlikeimfive	148
+
+264	playing	148
+
+265	shit	148
+
+266	spoilers	148
+
+267	instead	147
+
+268	later	147
+
+269	/r/imgoingtohellforthis	146
+
+270	anyone	146
+
+271	killed	146
+
+272	x-post	146
+
+273	&amp;amp;	145
+
+274	big	145
+
+275	irl	145
+
+276	news	145
+
+277	/r/me_irl	144
+
+278	favorite	144
+
+279	great	144
+
+280	three	144
+
+281	wrong	143
+
+282	call	142
+
+283	/r/nottheonion	140
+
+284	almost	140
+
+285	eli5	140
+
+286	enough	140
+
+287	photo	139
+
+288	state	139
+
+289	tried	139
+
+290	hit	138
+
+291	oh	138
+
+292	single	138
+
+293	u.s	138
+
+294	minutes	137
+
+295	those	137
+
+296	hard	136
+
+297	pay	136
+
+298	dead	135
+
+299	lpt	135
+
+300	lost	134
+",2015-10-04 22:24:17+00:00,cvoa1zj,3.0,t1_cvo8peh,2153.0,undelete
+19,"Ok, I added a lot of words to be excluded. Let me know if you need the list.  The post has been updated with the edit.",2015-10-04 22:00:42+00:00,cvo9648,2.0,t1_cvo6yq3,3400.0,undelete
+20,"I have a set of data I'm pulling from. It's abut 70 files of json data.  I plan on converting it into some mysql tables at some point.
+
+This does include META posts, however. If anyone's interested in the difference, I can pull a report like this one and exclude META posts.",2015-10-04 20:42:29+00:00,cvo63rl,1.0,t3_3nhpvb,287.0,undelete
+21,"Ah, I'm a bit out of the loop, there. I've been getting a bit more handy with the code involved.  I'll see if there's anything that can be done to keep a watch on that.",2015-09-25 23:20:30+00:00,cvear2o,8.0,t1_cveaabs,894.0,undelete
+22,"I hadn't looked at the code myself, but I was under the assumption that automoderator accessed data through api requests.  I don't think it is running on Reddit servers (although I think it was officially adopted/endorsed by reddit at one point or another).  It was written by your average Redditors.",2015-09-25 23:03:34+00:00,cvea820,6.0,t1_cve9r10,895.0,undelete
+23,"Nice to hear that.
+
+I'd consider it watching defaults, but monitoring all 25 defaults might result in over-requesting Reddit.
+
+I'll be updating the source code in the sidebar, after I fix a couple more things.  I plan on making a single running .jar file that any user can enter in their account info and some subreddits, then start scraping to their hearts content. If about 3 users split it up, they can make a subreddit to have their bots post to, which will consist of only default deletions.
+
+Anyone can run the bot right now, but it currently only runs in a specific program that some users have reported having trouble with.  I'm willing to help guide anyone through the process.",2015-09-25 22:46:25+00:00,cve9oij,2.0,t1_cve8sa2,1661.0,undeleteShadow
+24,"You can check out /r/undeleteWorldNews.
+
+It scrapes the new section and catches things removed by Automoderator.",2015-09-25 22:41:44+00:00,cve9j5z,4.0,t1_cve8uuc,1247.0,undelete
+25,"Just noticed some ""Not Deleted"" threads getting through.  Reddit has been making a couple of changes lately and I've had to make some adjustments.",2015-08-29 01:03:29+00:00,cujajra,1.0,t3_3is15t,11374.0,undeleteShadow
+26,"This is getting a little frustrating.  I wrote a bot a year ago and when writing the code, I made decisions based on how Reddit generally ran.  I never had the thought, ""Hey, I should check to make sure a subreddit is there before seeing if a post is there.  I mean, I just pulled data from the subreddit a minute ago, but I should make sure that subreddit hasn't gone anywhere in the last minute.
+
+I'd mentioned I would fix the code, but I'm uncertain as to whether it's worth the effort, anymore.
+
+",2015-07-04 14:42:33+00:00,csryvqd,1.0,t3_3c3ghf,10440.0,Blackout2015
+27,"Bot error due to certain character used in title. Showing up in in a lot of Bernie Sanders posts, oddly enough.",2015-06-21 22:14:20+00:00,cse6hwo,1.0,t3_3alyea,26017.0,undeleteShadow
+28,"FYI, this link has been reported as spam.  I approved it, however, as I like all canned, spreadable meats.
+
+If you're the transfinancial guy from the post, best of luck to you.",2015-06-19 11:53:54+00:00,csbrb5f,2.0,t1_csbes9p,36840.0,undeleteShadow
+29,"At the time of removal, the article had two comments.  It looks like it was reapproved shortly afterward.
+
+I am capable of seeing it on r/all, but it's several pages down, now.",2015-06-17 21:14:01+00:00,csa01vq,4.0,t1_cs9r22e,13854.0,undelete

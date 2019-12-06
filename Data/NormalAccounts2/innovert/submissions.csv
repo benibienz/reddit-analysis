@@ -1,0 +1,352 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-20 23:35:17+00:00,self.Tkinter,https://www.reddit.com/r/Tkinter/comments/5e0w95/needing_help_getting_a_widget_to_update_in_tkinter/,False,"Hey everyone! First time posting here.
+
+I'm playing with Tkinter for the first time, and am having some weird results when I am trying to update part of the window.
+
+I'm using Open Weather Maps API to get and display current weather, and I'm also displaying a corresponding icon. 
+
+The part I'm having an issue with, is getting the icon to stay on the screen. I'm able to update the weather status and it stays on the screen just fine, but the icon will show up for a brief moment when the method is updated, and disappear. 
+
+[This](http://pastebin.com/SDJCw0w2) is what that part of the code looks like.
+
+What's strange is if I move the WeatherClass constructor to ouside of the def, both status/icon will be drawn, but not updated; If I move it inside the function the status is drawn and updated, and the icon comes and goes.
+
+",Tkinter,Needing help getting a widget to update in Tkinter,https://www.reddit.com/r/Tkinter/comments/5e0w95/needing_help_getting_a_widget_to_update_in_tkinter/
+1,2016-11-15 07:57:24+00:00,self.learnpython,https://www.reddit.com/r/learnpython/comments/5d1eqs/tkinter_question_updating_a_widget_in_a_window/,False,"Alright, so I'm trying to make a smart mirror, and it's going pretty well so far :)
+
+I've made some good progress, but I'm having an issue updating one of my methods and drawing it to my tkinter window.
+
+The tkinter window is going to be holding several things, one of which is current weather conditions. I wrote a function that draws the current weather status and a matching icon, and I found a way to update the function, but the problem is that when I update it, it just draws another set of icons to the window.
+
+So initially I have what I want, then 5 seconds later I have 2 sets of icons, then 5 seconds later 3..etc
+
+[This is what my code looks like so far](http://pastebin.com/7zLKngWN).
+
+I guess I'm just wondering what the best way to go about erasing this part of the window before quickly redrawing an updated result.
+
+Any help is appreciated!",learnpython,Tkinter question (updating a widget in a window),https://www.reddit.com/r/learnpython/comments/5d1eqs/tkinter_question_updating_a_widget_in_a_window/
+2,2016-11-13 11:19:30+00:00,self.learnpython,https://www.reddit.com/r/learnpython/comments/5cpjmu/how_to_get_rid_of_annoying_gaps_between_tkinter/,False,"So, I am playing around with GUI for the first time (using tkinter), and am wondering how I can get rid of these annoying gaps between the [windows on the right](https://i.sli.mg/ZiJnkU.png).
+
+Anyone ever experienced this?",learnpython,How to get rid of annoying gaps between tkinter windows,https://www.reddit.com/r/learnpython/comments/5cpjmu/how_to_get_rid_of_annoying_gaps_between_tkinter/
+3,2016-10-20 07:11:36+00:00,self.learnpython,https://www.reddit.com/r/learnpython/comments/58fkwj/sending_a_text_message_over_the_airwaves_using/,False,"Hello.
+
+So I was wanting to start a project, with the goal being to send a short message (text) from one raspberry pi to another using just AM or FM radio. 
+
+I know this is probably really ambitious, but I'm trying to get a grasp on what would be involved. I already have resources where people have made [pirate radios using raspberry pi's](http://makezine.com/projects/raspberry-pirate-radio/), so that's a start.
+
+Anyone know if this is somehow possible? Any resources that may help me along the way?",learnpython,"Sending a ""text"" message over the airwaves using Pirate Radio and a Raspberry pi",https://www.reddit.com/r/learnpython/comments/58fkwj/sending_a_text_message_over_the_airwaves_using/
+4,2016-10-09 01:37:10+00:00,self.learnpython,https://www.reddit.com/r/learnpython/comments/56k50g/help_with_opencv_smile_detection/,False,"I posted this on r/opencv, but figured I'd ask here too in the event that some of you have used OpenCV int he past.
+
+I am following a tutorial to try to recognize smiles in an image, and though[ this code](http://pastebin.com/XXq7BBpA) seems to have worked for the guy in the tutorial, it does not generate any boxes around the smile when I try it.
+I've tried a variety of different images, and messed with the scale quite a bit, but have not seen one rectangle yet.
+Most of the tutorials I've seen use some sort of machine learning, which I am trying to avoid using for now.
+
+Anyone have any ideas what I'm doing wrong?",learnpython,Help with OpenCV smile detection.,https://www.reddit.com/r/learnpython/comments/56k50g/help_with_opencv_smile_detection/
+5,2016-10-09 01:04:04+00:00,self.opencv,https://www.reddit.com/r/opencv/comments/56k0fc/first_time_using_opencv_having_a_hard_time/,False,"Alright, so I am dabbling with OpenCV in Python, and it's amazing what those haarcascades can do.
+
+I am following a tutorial to try to recognize smiles in an image, and though [this code](http://pastebin.com/XXq7BBpA) seems to have worked for the guy in the tutorial, it does not generate any boxes around the smile when I try it.
+
+I've tried a variety of different images, and messed with the scale quite a bit, but have not seen one rectangle yet.
+
+Most of the tutorials I've seen use some sort of machine learning, which I am trying to avoid using for now.
+
+Anyone have any ideas what I'm doing wrong?",opencv,First time using OpenCV. Having a hard time recognizing smiles (Python),https://www.reddit.com/r/opencv/comments/56k0fc/first_time_using_opencv_having_a_hard_time/
+6,2016-09-22 20:15:38+00:00,self.tax,https://www.reddit.com/r/tax/comments/540yw7/im_a_cs_student_commuting_to_school_and_working/,False,"Hello everyone. First time posting here.
+I am attending a CSU and commuting 70 miles there and 70 miles back 2 days a week (280 miles each week).
+
+I was told that I may be able to log these miles, and write them off on my taxes as a school expense? (I've already begun logging the miles).
+
+I also head that I cannot do this, but since I am supporting myself while in school, that I could write off the miles from my home to my part time job?
+
+Are either of these correct?",tax,I'm a CS student commuting to school and working in IT,https://www.reddit.com/r/tax/comments/540yw7/im_a_cs_student_commuting_to_school_and_working/
+7,2016-09-05 12:06:33+00:00,self.gridcoin,https://www.reddit.com/r/gridcoin/comments/51940z/snapshot/,False,"Hello everyone.
+
+Is there a link I can use to find the current snapshot for the client?
+
+I used to get this via !snapshot in the IRC, but have had a tough time joining since it changed to private.
+
+
+Thank you.",gridcoin,Snapshot?,https://www.reddit.com/r/gridcoin/comments/51940z/snapshot/
+8,2016-09-05 10:53:49+00:00,self.learnpython,https://www.reddit.com/r/learnpython/comments/518w36/is_there_a_more_efficient_dynamic_way_to_do_this/,False,"Alright, so I am wondering if there is a better way to append to a list, but the catch is I need to append to it dynamically.
+
+I have a list called tempPixels that I am adding RGB values to from some images. I am trying to make it so the user can specify how many images are going to be processed, by taking in an inputValue.
+
+[This is what my code currently looks like.](http://pastebin.com/LQC9e9gG)
+
+The variable inputValue is what I am getting from the user. And I was hoping to modify my code to add to the list according to their input.
+
+Anyone have any idea if this is possible?
+",learnpython,Is there a more efficient/ dynamic way to do this?,https://www.reddit.com/r/learnpython/comments/518w36/is_there_a_more_efficient_dynamic_way_to_do_this/
+9,2016-09-02 22:07:22+00:00,self.Python,https://www.reddit.com/r/Python/comments/50vsh3/trouble_keeping_track_of_values_in_lists_pil/,False,[removed],Python,Trouble keeping track of values in lists (PIL),https://www.reddit.com/r/Python/comments/50vsh3/trouble_keeping_track_of_values_in_lists_pil/
+10,2016-09-02 19:48:44+00:00,self.learnpython,https://www.reddit.com/r/learnpython/comments/50v4bz/trouble_keeping_track_of_values_from_multiple/,False,"Alright, so I am trying to write a script that will go through a series of images (9 in this case), and look at the R,G,B values for each pixel in the images.
+
+After doing this, I want to find the median value for the R,G,B pixels at each point between the images.
+
+For example, I would look at the Red values at pixel 0,0 (from images 0-9), find the median, and set that value to be the Red value of my final image at 0,0.
+
+I have the logic in my head, but am having a hard time keeping track of the values in Python. I think using a 2D array (or list of lists) would probably be the best bet, so I could have 9 lists in the first [] and the corresponding values in the second[](?)
+
+Currently, I am opening each image, and adding the median value to another list, but this causes an error when I try to show the image because I am adding to many values to the list to fit the dimensions &gt;_&lt;
+
+This is what [my code](http://pastebin.com/vDJ1Dsp2) looks like, at the moment. Any ideas are appreciated.",learnpython,Trouble keeping track of values from multiple images (PIL),https://www.reddit.com/r/learnpython/comments/50v4bz/trouble_keeping_track_of_values_from_multiple/
+11,2016-08-22 06:30:08+00:00,i.imgur.com,https://www.reddit.com/r/pokemongo/comments/4yz92l/sf_chronicle_has_a_sense_of_humor/,False,,pokemongo,SF Chronicle has a sense of humor,https://i.imgur.com/PIH6ChQ.png
+12,2016-08-20 02:05:39+00:00,self.learnpython,https://www.reddit.com/r/learnpython/comments/4ymoju/trying_to_write_a_script_to_perform_pings/,False,"So, I am trying to write a script that will continually ping hosts which I have listed in a .txt file.
+
+I'm able to ping the hosts, but I always get a response of ""2"", which I guess means they are offline, even when I'm pinging things like google.com
+
+[This is what my code looks like at the moment](http://pastebin.com/T1sWva1e).
+
+I'm running this through Bash on Windows.
+
+Anyone have any tips/ see anything obviously wrong?",learnpython,Trying to write a script to perform pings,https://www.reddit.com/r/learnpython/comments/4ymoju/trying_to_write_a_script_to_perform_pings/
+13,2016-08-18 06:42:48+00:00,self.Python,https://www.reddit.com/r/Python/comments/4yas5f/ping_response_always_giving_2/,False,"I'm writing a script which will ping machines I have specified in a .txt file, and am having issues in that each response I get is a ""2"" regardless of whether or not it is pinging google.com or fasdfjalsdgjasdlkjgaskjdg.com (exaggerated made up site).
+
+I've found a few tutorials that use the subprocess method as I am, but for some reason, my responses seem to be different.
+
+[Here is what that def: looks like at the moment.](http://pastebin.com/4unDpp6Q)
+
+Anyone have any ideas what might be going on?",Python,"Ping response always giving ""2""",https://www.reddit.com/r/Python/comments/4yas5f/ping_response_always_giving_2/
+14,2016-08-17 06:29:18+00:00,self.Python,https://www.reddit.com/r/Python/comments/4y4543/how_to_remove_system_text_from_my_output/,False,"So, I'm writing a script to ping machines I am keeping in a .txt file (I'm able to do this without issue).
+
+However, when I get my output, it contains
+
+""ping: unknown host &lt;servername&gt;""
+
+before each output.
+
+If I could somehow remove this, my output would be much cleaner.
+
+The portion of the code responsible for pinging looks[ like this](http://pastebin.com/XF4W2DbV)
+
+
+Anyone have any ideas?",Python,How to remove system text from my output,https://www.reddit.com/r/Python/comments/4y4543/how_to_remove_system_text_from_my_output/
+15,2016-07-17 08:51:13+00:00,self.androiddev,https://www.reddit.com/r/androiddev/comments/4t8wbr/where_should_i_start/,False,[removed],androiddev,Where should I start?,https://www.reddit.com/r/androiddev/comments/4t8wbr/where_should_i_start/
+16,2016-07-01 02:27:09+00:00,self.learnpython,https://www.reddit.com/r/learnpython/comments/4qpfl4/reading_a_number_from_a_txt_as_an_integer/,False,"Hello world.
+
+So, I am working on a program that 
+
+* Reads a number from a .txt (there will only be one number in this file).
+
+* Does some processing
+
+* Then returns this number to the .txt and does the whole thing again
+
+I have been able to do this successfully, except I am running into an issue with reading the value from the file as an int.
+
+
+My code looks [something like this](http://pastebin.com/HMeH1p45).
+
+
+And the error I get is:
+
+value= int(value)
+TypeError: int() argument must be a string or a number, not '_io.TextIOWrapper'
+
+",learnpython,Reading a number from a .txt as an integer,https://www.reddit.com/r/learnpython/comments/4qpfl4/reading_a_number_from_a_txt_as_an_integer/
+17,2016-06-24 04:13:37+00:00,self.learnpython,https://www.reddit.com/r/learnpython/comments/4pky47/efficiently_reading_writing_to_a_file_quickly/,False,"I'm working on a prime number generator, of which I want the output to be saved to a file.
+
+I did that sucessfully, but the files were getting huge, because I was just appending values with a ""\n"" after each one.
+
+I am now trying to write only the last value to the text file, so that it basically ""saves"" it in case the program suddenly haults.
+
+My code seems to be working about 2/3 of the time, but once in a while it will just erase the .txt and write nothing :(
+
+PS: I know my efficiency for generating the primes is terrible, I'll work on that later.
+
+[My code](http://pastebin.com/R4u55rm8)",learnpython,"Efficiently reading/ writing to a file quickly, repeatedly",https://www.reddit.com/r/learnpython/comments/4pky47/efficiently_reading_writing_to_a_file_quickly/
+18,2016-06-18 03:08:47+00:00,self.emacs,https://www.reddit.com/r/emacs/comments/4omtxh/connecting_to_emacs_through_ssh_wan/,False,"Hello everyone, first time posting here-
+
+So, I just set up my CHIP (rasberry pi type device), and am attempting to set up an emacs/ python environment that I can access from anywhere (like I was doing this past semester for my CS classes).
+
+I currently am able to access my CHIP via its local IP address through putty, but am wondering how I can access it through WAN?
+
+I've tried using its world IP address, and that doesn't seem to work (also, it's dynamic, so it will change over time anyways).
+
+Anyone have any resources they can point me towards?",emacs,Connecting to emacs through SSH/ WAN,https://www.reddit.com/r/emacs/comments/4omtxh/connecting_to_emacs_through_ssh_wan/
+19,2016-05-15 10:47:00+00:00,self.learnpython,https://www.reddit.com/r/learnpython/comments/4jfm1x/removing_special_characters_from_beginning_and/,False,"Hello there. I'm still pretty new to Python, and am wondering if there is an easy way to accomplish the removal of special characters from only the beginning and end of a string, leaving in place any special characters actually in the string.
+
+I'm having success in removing all special characters using strip(), but am trying to find a more precise method of removal
+
+UPDATE: Thank you everyone for the feedback!",learnpython,Removing 'special characters' from beginning and end of a string?,https://www.reddit.com/r/learnpython/comments/4jfm1x/removing_special_characters_from_beginning_and/
+20,2016-05-13 03:00:28+00:00,self.gridcoin,https://www.reddit.com/r/gridcoin/comments/4j4dpg/0_magnitude_for_2_weeks_now/,False,"So, all of a sudden I got the 0 mag issue again. I've had it in the past, but it usually resolves itself by now.
+
+When I try running the 'list cpids' command, I get [this](http://pastebin.com/LuMUmZhS)
+
+And when I try to run the 'execute advertisebeacon' command, I am told that my wallet is locked..even though it is unlocked (not sure if this is related to the 0 mag issue.
+
+Anyone have any ideas?
+
+**UPDATE**: Today (5/14), my magnitude is back to normal. Readvertising the beacon may have helped, so its worth giving it a try if anyone else is having the same issue. Thanks everyon!",gridcoin,0 magnitude for 2 weeks now,https://www.reddit.com/r/gridcoin/comments/4j4dpg/0_magnitude_for_2_weeks_now/
+21,2016-05-12 10:05:56+00:00,self.trees,https://www.reddit.com/r/trees/comments/4izz3n/day_5_without_tree/,False,"I've been smoking daily for the last 8 years or so, but decided to stop and try to clean up for an internship I just landed (not sure if they'll drug test me or not, but just trying to play it safe, because I really want this).
+
+Didn't realize how much I would miss it :( especially now that its finals week.
+
+Someone put one in the air for me.",trees,Day 5 without tree,https://www.reddit.com/r/trees/comments/4izz3n/day_5_without_tree/
+22,2016-05-06 10:55:27+00:00,self.gridcoin,https://www.reddit.com/r/gridcoin/comments/4i4l1o/snapshot/,False,"Hello. I'm wanting to update my client (it's been a couple of months) and I'm trying to find a copy of the current snapshot.
+
+I used to get them from the IRC channel, but it seems the IRC channel has changed?",gridcoin,Snapshot?,https://www.reddit.com/r/gridcoin/comments/4i4l1o/snapshot/
+23,2016-04-05 08:27:36+00:00,self.Python,https://www.reddit.com/r/Python/comments/4dfji7/python_function_of_olog_n_and_on_log_n/,False,[removed],Python,Python function of O(log n) and O(n log n),https://www.reddit.com/r/Python/comments/4dfji7/python_function_of_olog_n_and_on_log_n/
+24,2016-03-15 00:03:47+00:00,self.SQLServer,https://www.reddit.com/r/SQLServer/comments/4afw62/very_new_to_sql_trying_to_figure_out_a/,False,[removed],SQLServer,Very new to sql. Trying to figure out a conditional statement,https://www.reddit.com/r/SQLServer/comments/4afw62/very_new_to_sql_trying_to_figure_out_a/
+25,2016-03-14 09:17:19+00:00,self.sqlite,https://www.reddit.com/r/sqlite/comments/4aceb1/new_to_sqlite_and_trying_to_figure_out_a/,False,"So, like the title says, I am brand new to sqlite, and have been tasked with finding values of 2 columns when a certain condition is met.
+
+I am trying to find the values of 2 particular columns (say 'A' and 'B') when less than 5 'No' values are found in a table called 'SomeTable'.
+
+I can get a list of all of the 'Yes' and 'No' values by doing:
+""SELECT vote FROM vote;""
+
+I don't even know where to start with this.
+
+Does anyone have any pointers or resources they could share that might help me?",sqlite,"New to Sqlite, and trying to figure out a conditional statement",https://www.reddit.com/r/sqlite/comments/4aceb1/new_to_sqlite_and_trying_to_figure_out_a/
+26,2016-03-11 03:43:55+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/49wz1p/what_is_the_equivalent_of_this_line_of_code_for/,False,"I'm trying to use an ArrayList container (instead of an array[] that the example I'm using was predicated on), and am wondering if I am translating this correctly.
+
+The original line is:
+
+bucket[a[i]]++;
+
+And the equivelant line I am trying to use with ArrayList is:
+newBucket.set(A.get(i), A.get(i) +1);
+
+Note that 'a' in the first line is an array[] called 'a', and 'A' in the second line is an ArrayList called 'A'.
+
+",javahelp,What is the equivalent of this line of code for an ArrayList?,https://www.reddit.com/r/javahelp/comments/49wz1p/what_is_the_equivalent_of_this_line_of_code_for/
+27,2016-03-10 01:10:10+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/49r7oe/bucket_sort_issue/,False,"So, I'm working on a basic bucket sort routine, and am getting a bounds issue when trying to convert the [example I found](http://www.javacodex.com/Sorting/Bucket-Sort) into one that uses an arrayList.
+
+The line I'm having a problem with is line 40.
+
+Does anyone who's familiar with bucket sort see anything that pops out to them?
+
+Any pointers appreciated.
+
+[My code](http://pastebin.com/w1Ag5F2F)",javahelp,Bucket Sort issue,https://www.reddit.com/r/javahelp/comments/49r7oe/bucket_sort_issue/
+28,2016-01-31 03:21:40+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/43hgzk/getting_all_values_from_a_stack/,False,"After getting some pointers, I have been able to reinvent the will making my own linked list, and am now trying to pass all the values to a stack to be popped.
+
+I've had some success with this, as I am able to push and pop the first value from my list, but that is the only value that I can pop.
+
+Stacker class: http://pastebin.com/qQ99mpTS
+
+listEntries  method: http://pastebin.com/yT7pQDwD
+
+Current example input/ output:
+
+**Input:**
+
+3.1415926
+
+777
+
+9.99
+
+**Output:**
+
+3.1415926
+
+**Desired output:**
+
+9.99
+
+777
+
+3.1415926
+
+I have tried calling the pop() more than once in my pop method, but it simply repeats the first value entered.
+
+Anyone seeing something that I'm not?
+",javahelp,Getting all values from a stack,https://www.reddit.com/r/javahelp/comments/43hgzk/getting_all_values_from_a_stack/
+29,2016-01-29 22:26:27+00:00,self.javahelp,https://www.reddit.com/r/javahelp/comments/43b8ce/getting_values_from_linked_list/,False,"So, I have been trying to figure this out for a while now, but seem to have hit a wall.
+
+I'm trying to manually code a LinkedList, and believe to have set it up correctly, but am having no luck in retrieving any values I have inserted into the list (to check whether or not my list is actually working/ storing entries).
+
+I have only had luck in printing up jumbled strings (probably memory addresses).
+
+I know eventually I will need to iterate doing something like while head != null, do something, but for now I am just trying to get **any** value from the list, so that I can keep working knowing my list is doing what it should.
+
+Main class: http://pastebin.com/fTETyaiu
+
+List class: http://pastebin.com/2EwwMDeC
+
+Stack class (extends List): http://pastebin.com/VSD5szYd
+
+
+Any input or pointers are appreciated.",javahelp,Getting values from linked list,https://www.reddit.com/r/javahelp/comments/43b8ce/getting_values_from_linked_list/
+30,2016-01-22 03:47:18+00:00,self.BitcoinMining,https://www.reddit.com/r/BitcoinMining/comments/423rt2/general_noobie_question/,False,"So, I am wanting to pick up my first miner, probably in the 50-60 gh/s range just to get the hang of mining, as I've only ever done cloud mining. 
+
+My question is, with this whole block size debacle, will existing mining hardware still work going forward, or should I wait until the block size issue is sorted? Does it matter?
+
+I'm assuming the hardware will be the same, but a software update of some sort will be required?",BitcoinMining,General noobie question,https://www.reddit.com/r/BitcoinMining/comments/423rt2/general_noobie_question/
+31,2016-01-22 02:25:49+00:00,self.Bitcoin,https://www.reddit.com/r/Bitcoin/comments/423g2g/general_question/,False,"So, I am wanting to pick up my first miner, probably in the 50-60 gh/s range just to get the hang of mining, as I've only ever done cloud mining. 
+
+My question is, with this whole block size debacle, will existing mining hardware still work going forward, or should I wait until the block size issue is sorted? Does it matter?
+
+I'm assuming the hardware will be the same, but a software update of some sort will be required?",Bitcoin,General question,https://www.reddit.com/r/Bitcoin/comments/423g2g/general_question/
+32,2016-01-22 01:23:07+00:00,self.btc,https://www.reddit.com/r/btc/comments/4236rx/general_question/,False,"So, I am wanting to pick up my first miner, probably in the 50-60 gh/s range just to get the hang of mining, as I've only ever done cloud mining. 
+
+My question is, with this whole block size debacle, will existing mining hardware still work going forward, or should I wait until the block size issue is sorted? Does it matter?",btc,General question,https://www.reddit.com/r/btc/comments/4236rx/general_question/
+33,2015-12-08 21:24:59+00:00,self.MathHelp,https://www.reddit.com/r/MathHelp/comments/3vzf7m/differentiating_integral_of_esqrtx/,False,"So, we're learning about substitution, and I'm trying to figure out if it is needed to differentiate this integral.
+
+I am asked to differentiate the integral from 0 to x of e^ sqrt(x), [which wolfram alpha tells me should just be e^sqrt(x)](http://bit.ly/1IDaoqQ) 
+
+However when I try this, I am letting u = sqrt(x) which makes du = 1/2sqrt(x), and after multiplying both sides by 2sqrt(x) to get dx by itself, I get lost.
+
+Am I on the right track, or completely lost?",MathHelp,Differentiating integral of e^sqrt(x),https://www.reddit.com/r/MathHelp/comments/3vzf7m/differentiating_integral_of_esqrtx/
+34,2015-11-17 02:26:04+00:00,self.MathHelp,https://www.reddit.com/r/MathHelp/comments/3t3qm1/finding_extrema_on_a_closed_interval/,False,"So, I [missed this problem](http://i.imgur.com/fNqux9B.jpg), and I want to know what I did wrong, and how I can resolve it.
+",MathHelp,Finding extrema on a closed interval,https://www.reddit.com/r/MathHelp/comments/3t3qm1/finding_extrema_on_a_closed_interval/
+35,2015-11-15 11:50:46+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3sw0k6/pc_randomly_shut_off_wont_turn_back_on/,False,"So, I built this rig about 6 months ago. All of the components are brand new.
+
+Earlier tonight, I was playing fallout 4, and randomly my PC shut down. I restarted and kept going about my business.
+
+Then a few hours later (also while gaming), my computer shut down again unexpectedly. This time, however, it will not turn back on.
+
+It powers up for about 1/2 of a second, then dies.
+
+In order to get it to do this again, I have to flip the psu switch off until power drains from the mobo. And then it will turn on for another 1/2 second.
+
+I've had no issues with this build until today.
+
+I'm plugged into a UPS, so it is likely not a surge/ under-voltage issue.
+
+I've tried re-seating the PSU connections, and the RAM.
+
+The motherboard and my keyboard have lights on, so I know power is flowing.
+
+
+
+
+Really hoping someone can help.
+
+Edit: Also tried with GPU unplugged, using only 1 stick of RAM, and I remembered earlier today I actually got a blue screen saying bad pool header.
+
+I'm stumped.",techsupport,"PC randomly shut off, won't turn back on.",https://www.reddit.com/r/techsupport/comments/3sw0k6/pc_randomly_shut_off_wont_turn_back_on/
+36,2015-11-15 08:52:47+00:00,self.MathHelp,https://www.reddit.com/r/MathHelp/comments/3svp4z/finding_concavity_and_points_of_inflection_with/,False,"So, I know how this is supposed to work, but I'm a little thrown off by this problem, since there is not a variable in the numerator (which I would normally solve for 0 to find critical numbers).
+
+The 2nd derivative is: f''(x) = -1 / 2x^3/2
+
+I know based on looking at the graph of the original function that there appears to be a PI at x = 1, but can someone give me some advice as to how to work this out?
+
+Very much appreciated :)",MathHelp,Finding concavity and points of inflection with 2nd derivative,https://www.reddit.com/r/MathHelp/comments/3svp4z/finding_concavity_and_points_of_inflection_with/
+37,2015-10-23 11:43:58+00:00,self.MathHelp,https://www.reddit.com/r/MathHelp/comments/3pw96g/related_rates_finding_change_in_surface_area/,False,"Alright, so I'm trying to figure out this problem, and I'm not quite sure what the answer is, but I feel like I am on the right track, possibly correct? [Does anyone know if I did this right?](http://i.imgur.com/HjB9j8k.jpg)
+
+Edit: Fixed broken link
+",MathHelp,Related rates/ finding change in surface area,https://www.reddit.com/r/MathHelp/comments/3pw96g/related_rates_finding_change_in_surface_area/
+38,2015-10-11 02:26:40+00:00,self.MathHelp,https://www.reddit.com/r/MathHelp/comments/3oaeo2/first_time_posting_needing_help_finding_slope_of/,False,"Ok, so I'm pretty terrible at math in general, but I've managed to work hard and make my way up to calculus. The material is getting a bit tricky now, and I'm just wanting help to see if I am doing this right, or at least on the right track.
+
+I am asked to find the **slope of the line tangent to the curve 2xy + 4^x = y^2 - tan(2x) at the point (0,1)**.
+
+This problem involved product rule, constant multiple rule and implicit differentiation (as far as I can tell).
+
+And [this is as far as I have managed to get](http://i.imgur.com/XU1BE4L.jpg?1). Who knows, maybe I'm on the right track, but I'm not confident or skilled enough in math to know, so any helpful feedback is appreciated.",MathHelp,First time posting; needing help finding slope of the line tangent to a curve,https://www.reddit.com/r/MathHelp/comments/3oaeo2/first_time_posting_needing_help_finding_slope_of/
+39,2015-10-08 06:05:30+00:00,self.gridcoin,https://www.reddit.com/r/gridcoin/comments/3nxu6z/tired_of_0_magnitude/,False,"So are we :P
+
+Please make sure to **keep your GRC client up to date**, as it is *believed*  that older clients finding superblocks is causing a reset of magnitude to 0.
+
+Thanks, and happy crunching-",gridcoin,Tired of 0 magnitude?,https://www.reddit.com/r/gridcoin/comments/3nxu6z/tired_of_0_magnitude/
+40,2015-06-18 22:05:17+00:00,self.legaladvice,https://www.reddit.com/r/legaladvice/comments/3ac3rg/my_family_is_hurting_and_my_dads_workers_comp_is/,,"First of all, I'm not sure that this is the right place to be posting this (if anyone has a suggestion for a better sub, please let me know).
+
+A little back story. When I was growing up, my dad worked in the Air Conditioning/ Heating and Air field. One day him and a coworker were loading up a cement cutter onto a lift, and the cement cutter began to fall. My dad (for whatever reason) tried to keep the cutter from falling, and hurt his back in the process. 10 years and 5 surgeries later, his lower lumbar region has several pieces of hardware keeping things ""together"", and he has a mesh in his stomach (to keep him from herniating) that causes him a lot of pain (he's tried having surgery to fix this to no avail). Needless to say he is unable to work, and has been relying on workers comp checks to get by. 
+
+Today I called my dad to see how things were going, and he told me the news about being discontinued workers comp payments, and that his workers comp lawyer said that there was nothing he could do to help him. My dad said that he didn't receive any type of notice indicating that his compensation was going to be discontinued, and now he doesn't know what he's going to do.
+
+Does anyone have a family member in a similar position, or been in this position themselves? are there any directions I can point him in to contest the discontinuation of his only source of income (or keep his moral up)?
+
+I don't usually post these kinds of things here..but I hate seeing my family suffer and potentially lose their house over this.
+
+Thank you.",legaladvice,"My family is hurting, and my dad's workers comp is being discontinued",http://www.reddit.com/r/legaladvice/comments/3ac3rg/my_family_is_hurting_and_my_dads_workers_comp_is/

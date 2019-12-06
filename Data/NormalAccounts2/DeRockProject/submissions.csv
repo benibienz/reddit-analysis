@@ -1,0 +1,293 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-10-30 03:16:37+00:00,self.speedrun,https://www.reddit.com/r/speedrun/comments/5a48vh/i_wanna_kill_the_kamilia_3_stinkycheeseone890/,False,"WR seems likely! He's more than 1.5 hours ahead.
+
+https://www.twitch.tv/stinkycheeseone890",speedrun,[I Wanna Kill the Kamilia 3] StinkyCheeseOne890 beat Secret 5 in 7 minutes!,https://www.reddit.com/r/speedrun/comments/5a48vh/i_wanna_kill_the_kamilia_3_stinkycheeseone890/
+1,2016-10-30 02:32:24+00:00,youtube.com,https://www.reddit.com/r/speedrun/comments/5a42on/how_to_get_almost_anywhere_in_lamulana/,False,,speedrun,How to Get Almost Anywhere in La-Mulana,https://www.youtube.com/watch?v=I66_0EeD4Lw
+2,2016-10-26 05:34:10+00:00,twitch.tv,https://www.reddit.com/r/speedrun/comments/59fxd6/twwhd_100_in_72504_by_linkus7/,False,,speedrun,TWWHD: 100% in 7:25:04 by Linkus7,http://www.twitch.tv/linkus7/v/97196854
+3,2016-09-28 20:18:33+00:00,self.speedrun,https://www.reddit.com/r/speedrun/comments/54yecx/super_mario_1key2bowsers_tas_prerelease/,False,"A TAS that skips the BitDW and the key to the basement will be premiering at 9/29! Are you excited? Will they collect 10 stars to get wing cap or is there another way? Will it be faster than the current sub5m any% TAS? What new tricks will there be other than all the Parallel Universe shenanigans we know of?
+
+And importantly...where is it airing? I need help. ~~If I had to guess, it'll be on youtube on maybe MKDasher or~~ **It's on [SonicPacker's youtube!](https://www.youtube.com/user/sonicpacker/)**
+
+**[Also, it's at 9:30 AM PDT!](https://twitter.com/sonicpacker/status/781288204284616704) So that's 4:30 PM UTC!** So keep that in mind! ",speedrun,Super Mario 1Key/2Bowsers TAS Pre-Release Discussion/Speculations (Sep. 29),https://www.reddit.com/r/speedrun/comments/54yecx/super_mario_1key2bowsers_tas_prerelease/
+4,2016-09-11 04:25:15+00:00,self.PokemongoSeattle,https://www.reddit.com/r/PokemongoSeattle/comments/526z43/anywhere_not_too_far_from_seattle_for_the_rural/,False,"So I wanted to try that trick where if you use an incense where you're nowhere near any Ingress XMs, you'll get some really good pokemon. I could just go real far out and check if whatever locations has no XMs, but I thought I'd ask here first, if anyone already found a super convenient spot or anything. Thanks!",PokemongoSeattle,Anywhere not too far from Seattle for the Rural Incense strat?,https://www.reddit.com/r/PokemongoSeattle/comments/526z43/anywhere_not_too_far_from_seattle_for_the_rural/
+5,2016-09-07 01:52:44+00:00,self.Minesweeper,https://www.reddit.com/r/Minesweeper/comments/51iu9q/i_wanna_try_a_different_kinda_puzzle_advanced/,False,"Here's the board. Exactly how many arrangements of mines could there be on this board?
+
+http://image.prntscr.com/image/cf07f90ed11c4987aeeadadfbd5d9b8f.png
+
+To save you the trouble of counting it all, there are 49 unopened squares total. (Not including mines, ofc.)
+
+I have to do this all the time, so I wanted to see other people try.",Minesweeper,I wanna try a different kinda puzzle (advanced).,https://www.reddit.com/r/Minesweeper/comments/51iu9q/i_wanna_try_a_different_kinda_puzzle_advanced/
+6,2016-08-31 02:08:17+00:00,discord.gg,https://www.reddit.com/r/faultmilestone/comments/50euf1/aid_discord_server_still_very_active_after_a_month/,False,,faultmilestone,AiD Discord Server (still very active after a month),http://www.discord.gg/2fZ8hXB
+7,2016-08-25 09:25:32+00:00,youtube.com,https://www.reddit.com/r/ultrahardcore/comments/4zhnlj/147_moles_uhc_ep2/,False,,ultrahardcore,1.4.7 moles UHC ep2,https://www.youtube.com/watch?v=CTYLEfTPEkg
+8,2016-08-23 10:34:29+00:00,youtu.be,https://www.reddit.com/r/ultrahardcore/comments/4z5tiy/jongyon_tommysx_bobbytheturtle_caesaroctavius/,False,,ultrahardcore,"Jongyon, TommySX, BobbyTheTurtle, CaesarOctavius, Silhou (1.4.7 moles UHC ep1)",https://youtu.be/0SaX7h_6wJ0
+9,2016-08-21 07:11:39+00:00,youtube.com,https://www.reddit.com/r/ultrahardcore/comments/4ytnsg/i_am_this_scatterbrained_and_idiotic/,False,,ultrahardcore,I am THIS Scatterbrained and Idiotic.,https://www.youtube.com/watch?v=_eNxQxGQ6o4
+10,2016-08-16 22:27:21+00:00,self.ultrahardcore,https://www.reddit.com/r/ultrahardcore/comments/4y29ck/derockcompensation/,False,"Edit: ***WHY IS THIS TOP POST?!***
+
+I got drunk and made this. I dunno. (I wasn't actually drunk. Just sleepy.)
+
+So as a refresher, in Compensation, when a player on a team dies, the player's max health is divided up and added to the max health of the player's teammates. The extra health received will also be filled, effectively healing the player by extra hearts given.
+
+---
+Now, what I'm **adding** to that, when a person dies, the amount of damage the person took just before they died must be subtracted from the health that gets healed, then do a square root, round down, THEN split among the teammates. Then multiply that by 0.9, subtract 0.2 hearts, round up, and everyone in the OTHER teams will get the NEGATIVE of that amount of damage. (The minimum damage from this will be 3% because √(0.1) is 0.3 hearts, while the minimum negative damage will be 0.9*0.3-0.2 = 1%. When enemy teams take this negative damage, they WILL receive knockback.)
+
+And every time someone takes damage, the other teams will take 20% of that damage, maxing out at 1.5 hearts (20% of 7.5 hearts). And when someone heals, everyone in the other teams will take half a heart of damage per heal.
+
+And when someone makes an enchanting table or an anvil, everyone in that team takes half a heart (no knockback).
+
+And when pvp happens, the Damage Dealer (the DD) takes half a heart, and the Damaged (the D) also takes half a heart. If a player gets a kill, they get fall damage immunity for 2 seconds.
+
+These extra damages will all be dealt one third of a second from each other (in the order in which I mentioned each in this post), knockback included.
+
+The intention is that this results in (with enough combos), for a player to get knocked high enough to take fall damage on flat ground. Two players in a sword fight will gradually float up in the air until one of them dies.",ultrahardcore,DeRockCompensation,https://www.reddit.com/r/ultrahardcore/comments/4y29ck/derockcompensation/
+11,2016-08-16 07:24:26+00:00,self.TrueDeemo,https://www.reddit.com/r/TrueDeemo/comments/4xyaha/is_there_any_fanmade_chart_of_alice_good_night/,False,"Yeah, the ending song! I don't know if there are fanmade charts of Deemo, but did anyone maybe make a chart for it for...even in other games like Osu or DDR or whatever! I just have to play this song on some rhythm game of some sort! I just feel it, you get me? Love it so much.",TrueDeemo,Is there any fanmade chart of Alice Good Night?,https://www.reddit.com/r/TrueDeemo/comments/4xyaha/is_there_any_fanmade_chart_of_alice_good_night/
+12,2016-08-16 05:53:35+00:00,self.Nichijou,https://www.reddit.com/r/Nichijou/comments/4xy05q/the_possible_meaning_of_igosoccer_and_the_nuclear/,False,"I warn that this involves a lot of interpreting of the history of the Nichijou universe, and I tried my best to fit the tone of the original show when I could.
+
+When I saw the scenes of Igo-Soccer being played, whether it was the passion or that ""feeling of watching a game I had no idea about"" being conveyed from the author, I felt a certain empathy, as I like to watch Tool Assisted Speedruns of video games I never played, displaying technical skill and knowledge of the game entirely beyond me, and literally beyond human.
+
+Anyway, assuming all statements in these scenes as truth, that Sakurai and Takasaki sensei are pros going beyond the convention of the game, that no move was being wasted, that it was true someone might've died, and that this game truly is intended to be a combination of Igo and Soccer, then I realized there weren't too many possible interpretation.
+
+---
+Made at the insistence of the president of Daiku Corp for unknown reasons, it singlehandedly ended the cold war 10 years ago. At first, it was used as a proxy of warfare, bringing peace to the era. Soon after, the evolution of the metagame replaced the war with an international game more bloody and chaotic than the war itself ever was.
+
+A sport so extreme, a single move could kill a majority of the pieces on the board/play field .
+
+It's soccer, but with igo rules applied. There are no ""turns"", but players must take considerable thought before taking each action. There is no limit to the people who can join, including the enthusiastic spectators, hyped up by the ultra-nationalism at the time. The few can surround the many and wipe out the opposing team, in the name of putting the ball into the opponent's goal. Most of the violence in the sport can be attributed to hateful and racist propaganda by the governments of participating nations. Examples major Igo-Soccer tournaments during the Cold War Era include the games hosted in Vietnam and Korea.
+
+Because spectator participation is allowed, 3rd parties could form, either with intent to reduce fatalities, or from disagreeing with their own home team, or in extreme cases, to disrupt and end the game itself through bombings, all allowed by Daiku Corp's rulings.
+
+To keep further loss from occurring, the metagame evolved to the point of surpassing violence, whole games consisting nothing but various threats and treaties, which if one team breaches, the other team may break several in return, exponentially escalating tensions between teams.
+
+One way of keep low fatalities was to make ""deals"" or ""bets"", where players will agree on rules for a game within the game, and whoever wins could gain territory in the soccer field, or even go ""all-in"", producing a winner without ever kicking the ball. Shockingly, Daiku Corp made new rules stating that deals made in this way must be adhered to strictly, overriding even the game's original rules, or the referees will forcefully ban the offending team (the referees at the time being the full military force of the entire world). With this, the game can turn more and more labyrinthine as players add arbitrary rules after rules.
+
+Since any sort of action (especially small movements) could be suspected by enemies as ciphers, all players are mostly seen seemingly frozen perfectly still in thought, moving only rarely, and explicitly, to signal the other team various requests, threats, or challenges. When this happens, every single position of the fingers and angle of the limbs is scrutinized for any hint or motive of foul play.
+
+With this final state, you can say igo-soccer is a complicated series of mating rituals, and, in fear of retaliation and struggles to deescalate tensions: M.A.D, Mutually Assured Destruction.
+
+The reason for these complicated changes in the sport is partially caused by excessive ""updates"" in the rules by Daiku Corp, who claims it was done at the insistence of the ""benefactor"". When asked for the reasons this mysterious man added these rules, the president stated ""Because it's cool."" The UN agreed to severely limit Daiku Corp from making new rules by the time igo-soccer started determining the fate of the world, saying ""It's as if the person who made the rules doesn't know real people are playing and dying in this sport.""
+
+Modern day igo-soccer is considered a martial art of peace, sociology, and rationality.
+
+To this day, Daiku Kenzaburou still does not know that he invented the sport, his doting parents accepting his absurd requests using their massive political influence. Only by finding his younger self, who made the sport on a whim, will he find his true potential in igo-soccer.
+
+Some historically notable players include John von Neumann, John F. Kennedy, his assassin, and Mao Zedong.
+
+---
+It just...it just became Calvinball. But I didn't know Calvinball existed until I was halfway through the rules of the game. Hope it wasn't too similar.
+
+Look, I just thought, man there's a lot of Daily Nichijou art posts and stuff, but I needed something different, so here! This was fun to make, and is in every way bad, but hope you like my overanalysis!
+
+Edit: I wrote this in Word doc but oh my god there's so many typos for some reason. ",Nichijou,The Possible Meaning of Igo-Soccer (and the Nuclear Bomb of the Nichijou Universe),https://www.reddit.com/r/Nichijou/comments/4xy05q/the_possible_meaning_of_igosoccer_and_the_nuclear/
+13,2016-08-02 20:59:03+00:00,self.ultrahardcore,https://www.reddit.com/r/ultrahardcore/comments/4vussn/whats_your_favorite_meetup_in_a_recorded_round/,False,"I didn't want to make a post for this, but I'm surprised to see this wasn't anywhere in all the years of UHC. I think it's what makes an RR good or bad. It's where everything leads to, and is the most important part. 
+
+I personally don't watch a lot of UHCs except the early Mindcrack seasons, so I can't give a good answer. Someone showed me ameliorate 2 meetup and that was good. I love UHC ghasts! So many ghasts!!
+
+(btw, I appreciate a short sentence or so on why you liked a RR meetup. I mean, you don't have to say too much if it's spoilery, but there's always something to say, right?)",ultrahardcore,What's your favorite Meetup in a Recorded Round?,https://www.reddit.com/r/ultrahardcore/comments/4vussn/whats_your_favorite_meetup_in_a_recorded_round/
+14,2016-07-24 07:52:28+00:00,youtu.be,https://www.reddit.com/r/TAS/comments/4ucaf6/pannenkoeks_tas_competition_7_submission_wait_for/,False,,TAS,Pannenkoek's TAS Competition 7 submission (wait for it),https://youtu.be/gR0GLOvYW7k
+15,2016-07-17 07:11:59+00:00,youtube.com,https://www.reddit.com/r/TAS/comments/4t8nmq/need_help_with_a_desync_the_tas_looks_impressive/,False,,TAS,Need Help with a Desync! (The TAS looks impressive so far.),https://www.youtube.com/watch?v=yQf6nOht2rU
+16,2016-07-09 21:08:09+00:00,self.speedrun,https://www.reddit.com/r/speedrun/comments/4s29rt/sgdq_2016_tas_block/,False,"Well, this thread is gonna exist. btw, thanks /u/tecuser for the VOS links!! This block consisted of:
+
+---
+[Super Mario Land 2](https://www.twitch.tv/gamesdonequick/v/77097504?t=7h32m47s)
+
+Memory Tour/Glitchfest
+
+Game End Glitch
+
+---
+[VVVVVV](https://www.twitch.tv/gamesdonequick/v/77097504?t=7h47m42s)
+
+Twenty Trinkets No Death
+
+Any% Glitched
+
+---
+[Super Mario Bros. 1, 2, &amp; 3](https://www.twitch.tv/gamesdonequick/v/77097504?t=8h21m43s)
+
+1 Controller 3 Games
+
+TASBot vs MitchFlowerPower race
+
+---
+So, it's TASBlock, you know how it goes. TAS is god. Everything is perfect. All hail TASBot! Actually, I was worried since last TAS block had Ikaruga which I dunno why they decided to show a shoot em up with TAS. But thankfully it seems all these are going to be amazing segments to watch!",speedrun,SGDQ 2016 TAS Block,https://www.reddit.com/r/speedrun/comments/4s29rt/sgdq_2016_tas_block/
+17,2016-07-07 04:53:11+00:00,self.speedrun,https://www.reddit.com/r/speedrun/comments/4rmtpi/it_only_just_started_but_the_deus_ex_runners/,False,"He's explaining everything, the game, story, or its glitches, so perfectly! And the humor is 10/10.
+
+[VOD Link!!](https://www.twitch.tv/gamesdonequick/v/76671979?t=01h24m11s) Thanks to /u/Anonymous3542! ",speedrun,It only just started but the Deus Ex runner's commentary is just great!!!,https://www.reddit.com/r/speedrun/comments/4rmtpi/it_only_just_started_but_the_deus_ex_runners/
+18,2016-06-21 18:44:49+00:00,youtube.com,https://www.reddit.com/r/ultrahardcore/comments/4p67yb/shikenzaneds_daily_derps_may_2_july_5_2013/,False,,ultrahardcore,"Shikenzaned's Daily Derps: May 2 - July 5, 2013",https://www.youtube.com/playlist?list=PLP0jCPw9IPWj3kI9k3KunU8g4SemURiLv
+19,2016-06-14 19:29:12+00:00,self.speedrun,https://www.reddit.com/r/speedrun/comments/4o36m5/has_any_speedrun_game_require_calculus_or_any/,False,"I guess any TAS would benefit from good math, walking from point A to B is just...walking for an RTA runner, but the true fastest path may be far more complicated than it would seem.
+
+I saw plenty of pannenkoek's videos, but most of that is more related to computer programming. I mean, considering the subject matter, of course there'll be a ton of CS, but I'm just curious.
+
+Basically, just wanna know if anyone has some interesting examples of math in speedrunning, that you wanna share.",speedrun,"Has any speedrun game require calculus or any advanced math? (I assume, mostly in routing or TAS)",https://www.reddit.com/r/speedrun/comments/4o36m5/has_any_speedrun_game_require_calculus_or_any/
+20,2016-06-10 02:16:12+00:00,youtube.com,https://www.reddit.com/r/Minesweeper/comments/4ne88x/minesweeper_guessing_calculations_link_to_text/,False,,Minesweeper,Minesweeper Guessing Calculations (link to text version in comment),https://www.youtube.com/watch?v=piXrbq5p-xQ
+21,2016-06-09 11:21:12+00:00,youtube.com,https://www.reddit.com/r/speedrun/comments/4nacn9/may_apply_to_other_platformers_how_quickly_you/,False,,speedrun,(May apply to other platformers) How quickly you fall may depend on the PREVIOUS jump you did.,https://www.youtube.com/watch?v=sqCPv7PAgJc
+22,2016-05-27 00:35:40+00:00,youtube.com,https://www.reddit.com/r/touhou/comments/4l8dm8/koishi_komeijis_heartthrobbing_adventure_19_79/,False,,touhou,Koishi Komeiji's Heart-Throbbing Adventure 19 [7/9] (Eng sub),https://www.youtube.com/watch?v=jGfo1AMxtXE
+23,2016-05-26 16:34:27+00:00,self.botting,https://www.reddit.com/r/botting/comments/4l66o7/can_bots_be_used_to_make_tases_for_pc_games/,False,"Most TASes are super-optimized with frame-by-frame and such, but I've seen games with limited TAS tools where the TAS had to be less optimal, or the game just doesn't have a TAS at all. 
+
+So, just saying TAS is just a speedrun using tools, I thought it'd be cool to at least *have* a TAS for some of these games. I just...like TASes. Hope this isn't too stupid a question. ",botting,Can bots be used to make TASes for PC games? (singleplayer or multiplayer),https://www.reddit.com/r/botting/comments/4l66o7/can_bots_be_used_to_make_tases_for_pc_games/
+24,2016-05-25 22:40:13+00:00,youtube.com,https://www.reddit.com/r/touhou/comments/4l2adx/東方_koishi_komeijis_heartthrobbing_adventure_part/,False,,touhou,【東方】 Koishi Komeiji's Heart-Throbbing Adventure Part 19 [6/9] (English),https://youtube.com/watch?v=G97NaZcCaME
+25,2016-05-02 03:26:41+00:00,self.MMORPG,https://www.reddit.com/r/MMORPG/comments/4hdy2t/has_anyone_tried_something_different_like_this_in/,False,"My only experience with MMOs was more than 10 years ago, when I used to be absolutely horrible at Maplestory, as I've never reached lvl30 (dunno if Korean version was different from US).
+
+But I once got the idea to make a new characters with dark sight (rogue skill to hide from monsters) and just explore. Some monsters could hurt you with magic, but only a fraction of them auto-aggroed you. I basically got to places with lvl150 players and took their leftover loot, go through a 100F tower in stealth mode, or I would try to reach a boss I would only dream of seeing ingame, and die to it in one shot after getting a quick look at it (these late game stuff seemed to have higher quality animation than beginner stuff. Staring at it on the death screen felt like a great achievement). And that was basically the most fun I had in the game. Level-locked bosses&amp;areas kinda ruined that. 
+
+Anyway, I wanted to do that again, but I heard you couldn't do something like that in Maplestory anymore. I think it's not just about exploration but...maybe about being able to do something different, something not exactly intended, or a beginner achieving some high level thing. As long as it doesn't hurt other players. I'm a speedrun fan, so maybe it has something to do with that. But I was wondering if there's any MMO out there where I could do something like this. New to this subreddit, so sorry if this isn't the right place to ask. I also didn't know what exactly to name the post title...",MMORPG,Has anyone tried something different like this in an MMO?,https://www.reddit.com/r/MMORPG/comments/4hdy2t/has_anyone_tried_something_different_like_this_in/
+26,2016-04-21 10:09:29+00:00,self.antinatalism,https://www.reddit.com/r/antinatalism/comments/4fsb4w/wouldnt_antinatalism_go_well_with_likechina_or/,False,"I mean, just as an example, China has thos One Child Policy thing going on. Wouldn't antinatalism go really well with that? I mean that's the whole point, that their birthing up more children is hurting everyone. Even the politicians would accept it. 
+
+Sorry, I dunno what it must really be like in high population density countries cuz I'm Korean. I mean, that's like, literally the lowest birth rates on earth, so you can guess everyone's trying to get people to have more kids. So it's kinda the opposite to there. 
+
+Edit: Dang, I wrote this while I'm sleepy as hell at 3am. Hope there's no typos. ",antinatalism,Wouldn't Antinatalism go well with like...China or something?,https://www.reddit.com/r/antinatalism/comments/4fsb4w/wouldnt_antinatalism_go_well_with_likechina_or/
+27,2016-04-13 22:24:44+00:00,self.Minesweeper,https://www.reddit.com/r/Minesweeper/comments/4eo2ca/kinda_important_question_what_would_you_do_here/,False,"http://i.imgur.com/tUuNy1W.png
+
+Assumptions are that you don't know how many mines are left because there's a few stuff on the opposite side of the board, but it's (somehow...) worse than what you see in the image (Like, blocks completely surrounded by mines. Let's say there are 3 of them. And you have 6 mines left.), so it's better to take care of this part now.
+
+The reason about this is I'm doing a series of test playthroughs with the [Minesweeper Risk Calculator tool](http://mrgris.com/projects/minesweepr/demo/player/) that was posted in this subreddit a few times, because there's a WR that apparently completed a 24x30 board with 226 mines.
+
+Which I'm calling bullshit.
+
+^(btw, the Risk Calculator also keeps track of the ""Total Accumulated Risk"". Every time I completed a 226 mine board, no matter how I do it, it always ended up with such a high number that it rounded up to 100.00% before some of the board is even cleared. I'm estimating at least 200,000 absolutely perfect attempts required before you can actually clear a 226 mine board.)
+
+Anyway, there's an image of the WR cleared board (no video, just an image), so I'm thinking of taking different starting points and see if this is in any way just some lucky RNG seed spawn.
+
+Also, should I make a post about efficiently solving minesweeper? It's actually an entirely different world there. I hate trying to go fast in minesweeper, so I've started looking into guessing and calculating risk and gain. I started like 4 years ago and I'm still not done yet. It gets very complicated.
+
+Oh btw, here's the ""answer"". It doesn't really matter if you look because your answer should NOT look like this. Still better if you don't look at first. http://i.imgur.com/FYXCZCV.png
+
+I'll give the exact probability in the comments soon.
+
+Edit: Sorry, I was actually really sleepy when I wrote this. Dunno if I'll edit its contents or whatever. Too lazy. However, here's a step-by-step to solving probability. https://www.reddit.com/r/Minesweeper/comments/42n9cy/minesweeper_puzzle_find_one_or_more_mines/czev15s",Minesweeper,Kinda Important Question: What would you do here?,https://www.reddit.com/r/Minesweeper/comments/4eo2ca/kinda_important_question_what_would_you_do_here/
+28,2016-04-09 01:56:53+00:00,self.incremental_games,https://www.reddit.com/r/incremental_games/comments/4dzixx/good_incremental_speedrun_preferably_hourslong/,False,"So incremental games are usually known to take a VERY long time, so I thought it would be interesting to see someone go fast on them as see what the best could be. I guess what I'm most interested about is the route that would be planned for this, rather than anything about the skills of the speedrunner themselves. (which makes me think, maybe a TAS would be more appropriate for this genre?)
+
+Still, there doesn't seem to be very long speedruns, most lasting around 10 minutes...
+
+The best I could find was Clicker Heroes 10 hours to the lvl100 boss. I just found it, so I just started watching it, tbh. 
+
+http://www.speedrun.com/ch/Omeet",incremental_games,Good Incremental Speedrun (preferably hours-long),https://www.reddit.com/r/incremental_games/comments/4dzixx/good_incremental_speedrun_preferably_hourslong/
+29,2016-04-01 08:22:52+00:00,self.ultrahardcore,https://www.reddit.com/r/ultrahardcore/comments/4cunhi/til_climbed_couldve_deleted_the_uhc_subreddit/,False,[removed],ultrahardcore,"TIL Climbed could've deleted the UHC subreddit back in 2013, eliminating everything that spawned from it.",https://www.reddit.com/r/ultrahardcore/comments/4cunhi/til_climbed_couldve_deleted_the_uhc_subreddit/
+30,2016-03-21 10:16:10+00:00,self.antinatalism,https://www.reddit.com/r/antinatalism/comments/4bbpxn/antinatalism_will_never_become_popular/,False,"Are you saying ""never"" literally? Because I'm sure it'll become the popular opinion in less way than a thousand years. I bet on this 100%, if antinatalism is the truth, it WILL become accepted eventually. Even if you believe, in the most extreme case, when a thorough scientific research shows there is more pain in life than happiness, that people will try to hide that truth, people will eventually have to face it, since it's an answer to such a fundamental question.
+
+So I just wanted to ask, what's your opinion of the fate of antinatalism in the (near/far) future?",antinatalism,"""Antinatalism will never become popular.""",https://www.reddit.com/r/antinatalism/comments/4bbpxn/antinatalism_will_never_become_popular/
+31,2016-03-20 16:03:48+00:00,self.touhou,https://www.reddit.com/r/touhou/comments/4b82j1/from_the_maker_of_komeiji_koishis_heartthrobbing/,False,"I don't really know how Niconico works, but I think he intentionally put these two videos in his KKHTA playlist. They were made between ep6~8. I'm linking to the translations I did, but I made sure to credit the original videos in the desc.
+
+Dodonpa: https://www.youtube.com/watch?v=5wXT5ZkVh4g
+
+3rd Eye Dance: https://www.youtube.com/watch?v=anwRErrcyYk
+
+(Yeah, these videos are old. Nobody bothered to translate them, but I went ahead with it as practice as I was going to translate the entirety of episode 8. **Edit: EP8 is translated!**)
+
+P.S: Also, just wanna mention here that the Eng-translated KKHTA ep2 to 11 were deleted from youtube, but some of us managed to retranslate them back except for ep10.",touhou,From the maker of Komeiji Koishi's Heart-Throbbing Adventure...some adorable stuff.,https://www.reddit.com/r/touhou/comments/4b82j1/from_the_maker_of_komeiji_koishis_heartthrobbing/
+32,2016-03-17 07:33:42+00:00,youtube.com,https://www.reddit.com/r/TAS/comments/4arzbu/sm64_tas_competition_2016_task_2_compilation/,False,,TAS,SM64 TAS Competition 2016 ~ Task 2 Compilation (comparison of top 2 at the end),https://www.youtube.com/watch?v=aOYxjwv8av8
+33,2016-03-04 06:34:34+00:00,self.TAS,https://www.reddit.com/r/TAS/comments/48w8wt/what_youtube_or_twitch_tasrelated_channels_do_you/,False,"Or any social media, I guess.
+
+I follow Pannen*koek* and *keok*, of course the TASvideos channel, and... some minor SM64 and Majora TAS youtube channels. Yeah, I don't have much. Followed Weatherton and Tompa in case they stream. TheWayfaringFox is currently working on an MM TAS. And of course, I follow this reddit.
+
+Also, is there interest in having some regular stickied discussion threads on this reddit? More discussions would be fun.",TAS,What Youtube or Twitch TAS-related channels do you follow?,https://www.reddit.com/r/TAS/comments/48w8wt/what_youtube_or_twitch_tasrelated_channels_do_you/
+34,2016-03-04 06:26:45+00:00,youtube.com,https://www.reddit.com/r/TAS/comments/48w84d/tas_super_mario_64_bowser_in_the_fire_sea_any_in/,False,,TAS,"[TAS] Super Mario 64: Bowser in the Fire Sea (any%) in 17""57",https://www.youtube.com/watch?v=tRARBxpCcaw
+35,2016-02-24 08:23:28+00:00,self.gravityfalls,https://www.reddit.com/r/gravityfalls/comments/47blcq/heard_the_series_is_ending_so_i_just_started/,False,"Like, I heard about the cryptograms and stuff, but I'm bad at them, so I'm checking the wiki as I go along. Nothing super-secrety so far. I just realized there were some shorts. 6 Dipper's Guide shorts. But this series seems like it would have something more complicated if it even has an ARG (from what I heard). Are there stuff I should be knowing about by the time I'm watching a certain episode or, like, between season 1 and 2? Almost done with season 1 right now. 
+
+Sorry if this gets asked a lot. If I seem to be lacking in research, I didn't wanna find too many spoilers.",gravityfalls,Heard the series is ending(?) so I just started watching. Anything I should be following other than just those two 20-episode seasons?,https://www.reddit.com/r/gravityfalls/comments/47blcq/heard_the_series_is_ending_so_i_just_started/
+36,2016-02-16 20:56:40+00:00,speedrun.com,https://www.reddit.com/r/PokemonPicross/comments/464jop/well_this_exists_i_dont_know_why_butit_does_happy/,False,,PokemonPicross,"Well, this exists... I don't know why, but...it does. Happy speedrunning, if anyone ever does.",http://www.speedrun.com/popi
+37,2016-02-09 20:24:27+00:00,self.PokemonPicross,https://www.reddit.com/r/PokemonPicross/comments/44ypo0/whats_your_fastest_daily_challenge_lvl10_time/,False,"My personal best I could remember is 1m11s, and I consider myself to be pretty bad at this game. So what's yours?
+
+Edit: PBed again just now. 1m3s.",PokemonPicross,What's your fastest Daily Challenge Lvl.10 time?,https://www.reddit.com/r/PokemonPicross/comments/44ypo0/whats_your_fastest_daily_challenge_lvl10_time/
+38,2016-02-07 23:07:52+00:00,self.PokemonPicross,https://www.reddit.com/r/PokemonPicross/comments/44o5jv/should_we_make_a_new_guideroute_taking_the/,False,"So since there's an exploit to farm picrites, why should we wait each day for them anymore, right? There's no reason not to exploit this. There's a bit something that gets completely changed if we do this. If we want to get 25 areas unlocked with least picrites used. We'll assume that farming dailies takes about 3 minutes, that you need 3470 picrites total, excluding the 50 picrites on the way to profit from having a 3rd party slot. I did a terrible job approximating this, but you'll spend only 1130 minutes farming picrites for dailies.
+
+But then there's a new limiting resource here and it's no longer picrites. 1200 minutes means 1200 energy, and you need way more than 1200 to reach 25 areas unlocked, right? And that's considering that you only took the fastest path to the end of each area AND that you Revealed/Hyper Scanned/Auto Fixed X at 0 energy immediately when your pokemon recharge. You can go about this a few ways, just use 10 picrites each time you run out, or upgrade to infinite energy with 650 picrites total. Or you could level up once or twice with 100 picrites or 250 picrites total, which makes your 10 picrite energy recharge x1.5 or x2 times better per use. (Using 250 picrites to upgrade seems like the best idea atm without doing calculations.)
+
+So what I want to figure out is, how many picrites can we get exactly from missions and medals at each specific point just before we would unlock our 5th, 9th, 13rd, 17th, 21st, &amp; 25th area? Then we just need to consider that we get 150(?) picrites at the starting tutorials. To do this, all we really need is if someone who unlocked these areas to list all the mission objectives and mission rewards, how much energy each puzzle costs, and what puzzle(or 1 of 2 puzzles) we need to unlock to access another puzzle.
+
+With this, we should be able to figure out when we should spend energy to get picrites (by finding a X energy per picrite, or epp, we shouldn't spend above at, which I believe is somewhere below 40epp), and when we should spend precious picrites to energy for the sake of time.
+
+After reaching 25 areas and getting the max possible 13 picrites per daily, it'll be simpler from there. Probably just farm the rest of the needed picrites and spend them all on energy, pokemon slots, the mega pencil, whatever.
+
+After all this... we'll be limited by the mythical pokemon rate, totaling at least... 170 hours? Note that you'll get 10200 energy in that time, so you want to spend picrites if beating the 170 hours is possible. Unless there's a way to exploit the internal clock, going 10 minutes at a time, to speed this up, the fastest completion time is probably that. At worst case scenario, the pricrites needed would be 4000+ and that's still around 20 hours, way less than 170.
+
+tl;dr: We can figure out a way more efficient route using the daily exploit, and right now, I believe you *might* want to upgrade your energy twice to 250. Unless you must spend more than 400 picrites to get 16000 energy in the long run, in which case, it's worth just using 400 picrites for unlimited energy.
+
+Sorry, if this turned out a bit disjointed. Also, I hate this game. And it's horrifying how much time I evidently spent on it.",PokemonPicross,Should we make a new guide/route taking the Dailies exploit into account?,https://www.reddit.com/r/PokemonPicross/comments/44o5jv/should_we_make_a_new_guideroute_taking_the/
+39,2016-02-04 04:39:49+00:00,youtube.com,https://www.reddit.com/r/TAS/comments/443tan/loz_majoras_mask_deku_playground_minigame_day_2/,False,,TAS,LoZ Majora's Mask: Deku Playground Minigame Day 2,https://www.youtube.com/watch?v=lVIePD5ny5A
+40,2016-01-18 14:29:48+00:00,youtu.be,https://www.reddit.com/r/speedrun/comments/41j5el/wr_camera_obscura_any_340575_by_jongyon7192p/,False,,speedrun,[WR] Camera Obscura any% 34:05.75 by JongYon7192p,https://youtu.be/N3JfmI7knQI
+41,2015-12-29 08:57:23+00:00,self.Undertale,https://www.reddit.com/r/Undertale/comments/3ymy6y/spoilers_to_2_games_comparing_the_fallen_child_to/,False,"Undertale spoilers won't be hidden in spoiler bars, but since this is not a Fault subreddit, I hid all the Fault Milestone 1 spoilers. I tried to mention as little spoilers as possible, but there's still a lot I had to hide, so sorry there's a bunch of black bars around.
+
+---
+So it starts with the fact that nobody has to die. And yet there are 3 people I can count who we couldn't save (excluding the 6 souls. I'd say they're saved when they're freed from the containers).
+
+**Asriel**: He comes back for a moment but it's said he'll turn back to flowey again. I've seen plenty comments about wanting to save him.
+
+**Gaster**: I don't need to list down everything people did to the game to find anything that could lead to him.
+
+And there’s **Chara**: But there's no sympathy for this kid, at least not in the game.
+
+The other two have a more physical problem, but Chara seems to have a mental problem that existed either since birth, or some time before she fell into the underground. It might as well be figuratively ""since birth"" for us, since we know nothing about them before they came to the underground.
+
+The point I will make with Fault Milestone One is pretty much all within the demo, so I recommend you check out the free demo. FM1 is a story that begins with a princess and her royal guard running from an attack on the capital by escaping using some teleport magic. They end up in a place where there's no magic and is run by technology and capitalism. They have to find a way back home to fight back against the mysterious foe. There, they meet **Rune** who awkwardly introduces herself and wants to introduce them around town. In exchange, she wants to know what the world outside her town is like. Milestone 1 is mainly about the mystery surrounding Rune.
+
+Demo Spoilers: In the past, there was a kid named Rune Zhevitz, daughter of a CEO, [who seemed to be a completely different person. She stabbed a kid in the eye with a stick, cut up wild animals with scissors after school, and after 6 years of pretending to be reformed into a kind, innocent girl, she poisoned her mother, Elise, to death as a test. She then uses the same poison to kill about 10 more people. Her dead body was later found in the ocean. All this leads to her father, Cid, to go from capable CEO to a shut-in at his lab. Rune was sadistic and a habitual liar. People question if she is even human, some even calling her a “hellspawn”. And here's the important part. There was a MRI brain scan and it revealed that she lacked a part of her limbic system that regulates emotions.](#spoiler)
+
+Quote from the Demo: “[I feel like a blank canvas, every waking moment of my life ...until I've brushed it with the pain of the living, stained it with the purest blood of the heart, and captured the very essence of sweet, euphoric death. All the 'pleasant' memories with our family mean absolutely nothing to me. Natural or not, observing death's will is the only pleasure I derive from life. If only you understood the beauty behind the sweet sound of a death rattle, and the spastic contractions of rigor mortis... If only you knew how fulfilled they make me feel!](#spoiler)""
+
+---
+Full Game Spoilers: As for the rest of the story, [Rune's father commits suicide after building a mysterious, impossibly human automaton that seems to look just like Rune, but she seems to act more normally, and lacks some memories. Of course, nobody believes this. And since it's just a robot, the company plans to dismantle and study it, rather than keep a possibly psychotic magic robot in the company building.](#spoiler) Our main characters figure out the whole story and go to Rudo, [Rune's brother and current CEO, to convince him against dismantling Rune. They figure out that her father built the current Rune using her memory mana from her dead body, using a method based on Path-Down, a ritual the main character's royal family line use to directly transfer all the ancestors' experiences to the next in line. He sacrificed himself to make the automaton so Rune can redeem herself through her 2nd chance at life without her congenital disorder, and so the two siblings can stay together.](#spoiler) And as you can easily see on Fault Milestone 2’s steam page, [Rune becomes their 3rd party member in their journey back home.](#spoiler)
+
+""Just because she's devoid of emotions doesn't make her any less human! It's our heart that makes us who we are!"" - Cid Zhevitz
+
+Next paragraph includes a quote Elise made at the end of the game. I had to include this because I feel it said the point better than anything I ever could. Don't read this if you haven't read the whole VN already. There are even some videos online if you can’t buy it or something.
+
+Final quote from the game: (talking to her husband) “[After Rune died, several regrets stacked up in my mind. I wished I never gave birth to her. I wished that I never met you.](#spoiler)  Most of all, I wished that I had never fallen in love with your ambition. Those were the sort of regrets that overwhelmed my mind. But truth be told, I wouldn't have done it any differently. I love you all too much to give any of those experiences up. [I couldn't even think about living a life without my dear daughter. Regardless of what she did to me, I still would have chosen to bring my one and only daughter into this world.](#spoiler) Nothing made me feel more fulfilled than becoming your wife, becoming a mother, giving birth to Rudo. And even though the world as we know it may [never forgive her for everything she's done, I was glad to have given birth to Rune. I'm glad that she was able to experience life... for as long as she did.](#spoiler)"" - Elise Zhevitz
+
+---
+There's all this ""nice Chara"" fanwork, and it's refreshing after all the unsympathitic depictions. But Chara was the kind of kid who laughed at Asgore when they poisoned him. They used Asriel to go kill humans, whether their motive was to open the barrier or if it was ""for fun"". They don't even have a troubled past mentioned, if there is one. 
+
+But they’re just a kid! I’m certainly unwilling to give them full responsibility for their actions. I just need to know that *something* made them the way they are, even a birth defect, and that's enough that I'm willing to feel sorry for them. The fact that Chara could be so evil makes them so tragic. Not someone who is misunderstood, but who misunderstands the world. Who was so unhappy they wanted to disappear, and is willing to kill all monsters and human.
+
+I honestly don't know what Toby was trying to say by making Chara as an evil, genocidal character with no known motives or redeeming traits (a kid at that), cleverly tricking us into giving them our name, but then making them a separate entity to the player. But I can at least see, playing the game, that this emotion is not what he intended. And if I’m supposed to hate them, I reject that.
+
+---
+
+I posted this before, but I kinda deleted it a bit after, so I'm posting it again. Hope that's okay. It's late night here, so hopefully I didn't make a bunch of typos or stuff.
+
+Sorry for such an ""english essay"" (making simple comparisons), but this wasn't just ""making bullshit comparisons between two games"" for me. Characters like these are something I've been hugely invested on, and I felt nobody else understood Chara in this particular way. I mean, not many people probably played both this game and that VN.
+
+Also, if anyone's a fan of Fault, there's /r/faultmilestone/
+
+There are so much more parallels I can make between Rune's and Chara's families, like how this changed their brothers, the use of poison, and who in the family survived in the end, but I don't wanna add onto this post anymore than I already did.",Undertale,[Spoilers to 2 Games] Comparing the Fallen Child to a character in the Fault Milestone 1,https://www.reddit.com/r/Undertale/comments/3ymy6y/spoilers_to_2_games_comparing_the_fallen_child_to/
+42,2015-12-29 07:16:23+00:00,self.kaizotrap,https://www.reddit.com/r/kaizotrap/comments/3ymppu/since_the_high_score_video_is_out_now_how_much/,False,"I felt maybe there was a bit of a damper in discussions since I sure didn't wanna spoil the fun for everyone, but the game is done, right?
+
+/u/unfortunatejordan said there's more to find, including what may be the most important part of these series of videos. So I just wanna ask here if it's okay to spoil that stuff entirely (maybe make a whole walkthrough about it, too) and we could do some kinda group/teamwork thing, looking for easter eggs and not ending-related 'branch' puzzles!",kaizotrap,"Since the High Score video is out now, how much can we spoil about the whole series of secret endings?",https://www.reddit.com/r/kaizotrap/comments/3ymppu/since_the_high_score_video_is_out_now_how_much/
+43,2015-12-24 22:16:15+00:00,self.Undertale,https://www.reddit.com/r/Undertale/comments/3y4h7s/ending_spoilers_what_if_fanart_and_fancomics/,False,"If Chara was in some fanwork, what if the author/artist used their own name for 'Chara'? I've seen the ones so far and I feel like it's a bunch of missed opportunities. Would be kinda neat, and could keep Toby's intentions, too.
+
+Edit: Oops, could've replaced DEROCK's name with my name. But that would just get confusing. I'm talking about fanworks because in those, the artist could give DEROCK their own name. In normal conversation and all other stuff, giving DEROCK your own name would just get really confusing and gimmicky. It would be kinda dumb. ",Undertale,[Ending Spoilers] What if fanart and fancomics...,https://www.reddit.com/r/Undertale/comments/3y4h7s/ending_spoilers_what_if_fanart_and_fancomics/
+44,2015-12-24 07:20:59+00:00,store.steampowered.com,https://www.reddit.com/r/steamdeals/comments/3y26nr/winter_sale_96_off_059_it_has_17_worth_of_great/,False,,steamdeals,[Winter Sale] 96% off - $0.59. It has $17 worth of great speedrun games. All very positive reviews.,http://store.steampowered.com/sub/66904/
+45,2015-11-25 04:36:28+00:00,pastebin.com,https://www.reddit.com/r/kaizotrap/comments/3u6asg/my_kaizo_trap_translations_of_the_manual_some/,False,,kaizotrap,My Kaizo Trap Translations of the Manual (some spoilers!),http://pastebin.com/BNTy2y2j
+46,2015-11-23 05:35:20+00:00,self.Underminers,https://www.reddit.com/r/Underminers/comments/3twopz/undyne_fight_at_her_date_1_damage_attack/,False,"So at Undyne's house, when you fight her after doing all the cooking, I started wondering what would happen if you could do more than 1 damage, and even kill her in that fight. Sorry, hopefully, nobody asked this already... Tell me if this is redundant, and I'll delete this post so it doesn't waste space in the subreddit.",Underminers,Undyne fight at her date (1 damage attack),https://www.reddit.com/r/Underminers/comments/3twopz/undyne_fight_at_her_date_1_damage_attack/
+47,2015-11-01 04:18:03+00:00,youtube.com,https://www.reddit.com/r/touhou/comments/3r1qi3/for_halloween_koishi_komeijis_heartthrobbing/,False,,touhou,For Halloween: Koishi Komeiji's Heart-Throbbing Adventure Part 19 [5/9],https://www.youtube.com/watch?v=IPZj37V3-Tc&amp;index=23&amp;list=PLP0jCPw9IPWi-Tjr88g5HUvQuqY1asTP4
+48,2015-10-26 05:18:13+00:00,youtube.com,https://www.reddit.com/r/touhou/comments/3q8ss3/koishi_komeijis_heartthrobbing_adventure_19_49/,False,,touhou,Koishi Komeiji's Heart-Throbbing Adventure 19 [4/9] (English) [next episode will be uploaded Oct. 31st],https://www.youtube.com/watch?v=PltK4cVHI6g
+49,2015-10-17 01:09:45+00:00,youtube.com,https://www.reddit.com/r/speedrun/comments/3p28wh/wr_camera_obscura_any_speedrun_392984_sub40m/,False,,speedrun,[WR] Camera Obscura any% Speedrun 39:29.84 (Sub40m!),https://www.youtube.com/watch?v=fjkun0RFcds
+50,2015-10-07 05:03:26+00:00,self.faultmilestone,https://www.reddit.com/r/faultmilestone/comments/3nsyko/fault2_intro_bit_spoiler_struggling_with_a/,False,"Sorry, if I'm being a bit desperate to make the subreddit a little less emptier, but here's a question I could never find the answer. (Actually, I have like 2 more that would make good discussion topics, but maybe I should space these out.)
+
+What does ""kache"" in Kachekravte mean? I mean it's......gotta have something to do with atoms, right? Or radioactivity? This is the thing Melano(melona? melano?) used to blow up everything, undo everything, and implant memories of what was undone into our heroines. If that is really what happened. What was the full name of it? Something like... ""kachekravte, magic fusion""? And I tried to find any meaning to ""kache"" that has anything to do with what we saw, through any language I could, but nope. I'm limited with google translate anyway, so...I'm kinda worthless in this case.
+
+Hmm, what do we know about Melano's group so far? I recall some of them calling each other ""sister"", is that a title? I'm so lost, hahah.",faultmilestone,[Fault2 Intro bit SPOILER] Struggling with a meaning of a name...,https://www.reddit.com/r/faultmilestone/comments/3nsyko/fault2_intro_bit_spoiler_struggling_with_a/
+51,2015-10-05 05:29:00+00:00,self.Undertale,https://www.reddit.com/r/Undertale/comments/3njiny/spoilers_odd_one_out/,False,"So this wiki page really shows how all the appearances of the 6 colors(excluding red) are all closely connected to each other. 
+
+http://undertale.wikia.com/wiki/List_of_Human_Souls
+
+Martial artist, ballerina, writer, chef(also, wiki page doesn't mention green bullets heal you), and cowboy.
+
+But then what is light blue? Toy knife seems like a boy's thing, then the ribbon seems like a girl's. ""Ball"" is ""small""? Wat? And waiting patiently before a sharp attack? That does seem similar to standing still to not take damage, to let attacks pass by.
+
+So light blue child might be...a opportunistic, patient kid who...really likes her toy knife?",Undertale,[SPOILERS] Odd One Out...,https://www.reddit.com/r/Undertale/comments/3njiny/spoilers_odd_one_out/
+52,2015-09-02 20:26:03+00:00,i.imgur.com,https://www.reddit.com/r/Minesweeper/comments/3jei0c/well_this_is_an_interesting_5050_i_think_its_a/,False,,Minesweeper,"Well, this is an interesting 50/50 (I think it's a 50/50)",http://i.imgur.com/FlmwSVI.png
+53,2015-08-31 22:59:01+00:00,self.DeRockProject,https://www.reddit.com/r/DeRockProject/comments/3j59lb/if_you_find_this_subredditshit_you_probably_know/,,"Just...don't mind. I didn't write this thinking anyone would find this yet. I'm a bit(very) nervous about telling anyone about this. It's less about if it's fucked up, than that it's kinda embarrassing.
+
+Just, say whatever you want here. Feedback, I guess. What you feel about this. Questions. You can ask here WTF is going on, WTF is wrong with you, etc. Thanks for stopping by.",DeRockProject,"If you find this subreddit...shit, you probably know my name from somewhere. Ask here if you have questions.",https://www.reddit.com/r/DeRockProject/comments/3j59lb/if_you_find_this_subredditshit_you_probably_know/
+54,2015-07-27 18:59:51+00:00,gamesdonequick.com,https://www.reddit.com/r/digimon/comments/3esyng/whos_hype_for_digimon_world_on_sgdq_this_tuesday/,,,digimon,Who's Hype for Digimon World on SGDQ this Tuesday?!?! (7:17AM Eastern),https://gamesdonequick.com/schedule
+55,2015-07-18 20:04:31+00:00,self.TAS,https://www.reddit.com/r/TAS/comments/3drmig/blockdude_tasreally_about_bizhawk_questions/,,"http://i.imgur.com/Tswn1oK.png
+
+So I made a partial TAS of Blockdude and now I'm doing the rest, so I can say I made a TAS at all. I feel this is way more complicated that it is. I *think* each button press needs to be separated by about 6 frames for some reason except one button which takes 8 frames before allowing me to input something next. So I've been manually counting frames to add each action...
+
+And then there are all these red rows and I don't really understand what they are, but I guess they're supposed to be when I'm not allowed to press anything or the game wouldn't respond. When it gets annoying is when these red rows overlap with a button press, requiring me to wait a frame to press another button. So 6-&gt;7 &amp; 8-&gt;9. And then there are long stretches of the game where I have to do some repetitive action over and over again and if I copypaste the actions, I would have to align all these button presses so they avoid red rows and I swear I made a mistake of moving a 7 frame to 8 or 9 to 10 instead of back to 6 or 8. Maybe if there's a way to detect these... It would just be easy to have one action per frame, even if the game would have way less fps.
+
+BTW, do a lot of games have variable framerate or something? The fps seems to move around close to 20fps, but I wonder if that has something to do with the problem.
+
+Finally, when I have multiple strats, is there an easy way to try both, starting from an identical savestate, then compare the two side-by-side?
+
+This sounds kinda like complaining, but I'm just new to this, so I know all problems are probably on my side. Thank you for any help! God this post is long.",TAS,Blockdude TAS(really about Bizhawk) questions,http://www.reddit.com/r/TAS/comments/3drmig/blockdude_tasreally_about_bizhawk_questions/

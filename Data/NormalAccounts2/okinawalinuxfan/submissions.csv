@@ -1,0 +1,317 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-12 11:08:31+00:00,youtube.com,https://www.reddit.com/r/LinuxActionShow/comments/5cjz7h/solus_linux_os_121_new_mate_edition_oh_yea/,False,,LinuxActionShow,Solus Linux OS 1.2.1 New - Mate Edition - Oh Yea!,https://www.youtube.com/watch?v=_52By5ahrWQ
+1,2016-10-03 00:17:40+00:00,hackread.com,https://www.reddit.com/r/techsnap/comments/55l3ux/someone_hacked_this_billboard_in_indonesia_and/,False,,techsnap,Someone hacked this billboard in Indonesia and defaced with Japanese porn,https://www.hackread.com/billboard-indonesia-load-japanese-porn/
+2,2016-09-23 00:44:46+00:00,bbc.com,https://www.reddit.com/r/LinuxActionShow/comments/54273w/lenovos_signature_laptops_refuse_to_install_linux/,False,,LinuxActionShow,Lenovo's Signature laptops refuse to install Linux,http://www.bbc.com/news/technology-37431299
+3,2016-09-12 23:38:40+00:00,self.LinuxActionShow,https://www.reddit.com/r/LinuxActionShow/comments/52hfws/hey_why_does_noahs_video_look_so_good_this_week/,False,,LinuxActionShow,"Hey, why does Noah's video look so good this week on LAS? Is there a new video system being used? I have to say it looks much better now!",https://www.reddit.com/r/LinuxActionShow/comments/52hfws/hey_why_does_noahs_video_look_so_good_this_week/
+4,2016-09-05 17:26:17+00:00,20years.kde.org,https://www.reddit.com/r/LinuxActionShow/comments/51ahn7/20_years_of_kde_book_released_pdf_link_at_bottom/,False,,LinuxActionShow,"20 Years of KDE"" book released! PDF link at bottom of page.",https://20years.kde.org/book/
+5,2016-07-30 23:31:16+00:00,kolor.com,https://www.reddit.com/r/LinuxActionShow/comments/4velah/360degree_video_photo_player_for_desktop_linux/,False,,LinuxActionShow,"360-degree video &amp; photo player for desktop Linux: watch 360° videos locally, like say Mr. Robot Virtual Reality Experience.",http://www.kolor.com/gopro-vr-player/download/
+6,2016-07-28 11:58:19+00:00,self.LinuxActionShow,https://www.reddit.com/r/LinuxActionShow/comments/4v0c1d/linux_mint_18_question_accounting_for_delays_on/,False,"Also: What best practices can the average user employ to harden Mint to an acceptable level?  Please don't recommend another distro, I am well aware of available security focused distros.  Can Mint be hardened or are there fundamental security concerns that can not be overcome? ",LinuxActionShow,"Linux Mint 18 Question: Accounting for delays on updates stated by Chris, how do the recommended settings for Linux Mint stack up against Windows and Mac Defaults?",https://www.reddit.com/r/LinuxActionShow/comments/4v0c1d/linux_mint_18_question_accounting_for_delays_on/
+7,2016-07-21 22:38:17+00:00,theregister.co.uk,https://www.reddit.com/r/LinuxActionShow/comments/4tznld/microsoft_to_rip_up_p2p_skype_killing_native_mac/,False,,LinuxActionShow,"Microsoft to rip up P2P Skype, killing native Mac, Linux native apps",http://www.theregister.co.uk/2016/07/21/cloud_upgrade_for_skype_will_kill_os_x_linux_clients/
+8,2016-07-15 10:13:32+00:00,forbes.com,https://www.reddit.com/r/LinuxActionShow/comments/4syfl1/microsoft_confirms_windows_10_new_monthly_charge/,False,,LinuxActionShow,Microsoft Confirms Windows 10 New Monthly Charge,http://www.forbes.com/sites/gordonkelly/2016/07/14/microsoft-confirms-windows-10-new-monthly-charge/#43f800c3dfab
+9,2016-06-22 18:37:11+00:00,imgur.com,https://www.reddit.com/r/LinuxActionShow/comments/4pc9gj/hello_friend/,False,,LinuxActionShow,Hello friend.....,https://imgur.com/gallery/7QhAj6E
+10,2016-05-13 22:30:08+00:00,self.linuxquestions,https://www.reddit.com/r/linuxquestions/comments/4j8rlz/error_installing_veracrypt_117_in_rhel_72/,False,"Upon installing VeraCrypt 1.17 in RHEL 7.2 I get the following error:
+
+Verifying archive integrity... All good. Uncompressing VeraCrypt 1.17 Installer.. Warning: Missing charsets in String to FontSet conversion Warning: Missing charsets in String to FontSet conversion Warning: Missing charsets in String to FontSet conversion Option ""--title"" is no longer supported in this version of gnome-terminal. Error constructing proxy for org.gnome.Terminal:/org/gnome/Terminal/Factory0: The connection is closed
+
+Any ideas on how to fix this?
+",linuxquestions,Error installing VeraCrypt 1.17 in RHEL 7.2,https://www.reddit.com/r/linuxquestions/comments/4j8rlz/error_installing_veracrypt_117_in_rhel_72/
+11,2016-05-12 19:43:15+00:00,self.linux,https://www.reddit.com/r/linux/comments/4j2gu0/error_installing_veracrypt_117_in_rhel_72/,False,[removed],linux,Error installing VeraCrypt 1.17 in RHEL 7.2,https://www.reddit.com/r/linux/comments/4j2gu0/error_installing_veracrypt_117_in_rhel_72/
+12,2016-05-10 20:09:15+00:00,self.redhat,https://www.reddit.com/r/redhat/comments/4ir5lu/error_installing_veracrypt_117_in_rhel_72/,False,"Upon installing VeraCrypt 1.17 in RHEL 7.2 I get the following error:
+
+Verifying archive integrity... All good.
+Uncompressing VeraCrypt 1.17 Installer..
+Warning: Missing charsets in String to FontSet conversion
+Warning: Missing charsets in String to FontSet conversion
+Warning: Missing charsets in String to FontSet conversion
+Option ""--title"" is no longer supported in this version of gnome-terminal.
+Error constructing proxy for org.gnome.Terminal:/org/gnome/Terminal/Factory0: The connection is closed
+
+Any ideas on how to fix this?",redhat,Error installing VeraCrypt 1.17 in RHEL 7.2,https://www.reddit.com/r/redhat/comments/4ir5lu/error_installing_veracrypt_117_in_rhel_72/
+13,2016-05-08 19:32:37+00:00,self.linux,https://www.reddit.com/r/linux/comments/4ifywv/red_hat_enterprise_linux_72_as_an_everyday_machine/,False,"Red Hat Enterprise Linux 7.2 as an Everyday Linux-Box
+
+An everyday linux-box running RHEL 7.2? Well...yes, with the caveat that this is the right system setup for me. I do understand that this will not be the ideal setup for most people. I should say that I did try other distributions and variants, particularly Ubuntu-MATE 16.04. I was hugely impressed with the polish the Ubuntu-MATE team put into their latest release; but the back-end Ubuntu-base bugs and current Network Manager problems were inexcusable IMO. Not the Ubuntu-MATE folks fault I should point out.
+
+I know, I know....distros other than RHEL 7 provide a far wider selection of applications..I got it. In my case everything I needed (other than a flexible media player), was in the RHEL 7 and EPEL repositories ready for easy and reliable installation and use.
+
+Enable EPEL: https://fedoraproject.org/wiki/EPEL - look for appropriate RPM / Right-click / Install with Software Install See repo-list in Terminal: yum -v repolist See only enabled repos: yum repolist enabled
+
+Also, before you reply, “but you have to pay for updates!”. I know, but $49.00 for a self-support subscription is very reasonable and the equivalent to buying a pair of pants or a night out with a few drinks. Even though I have a self-support contract I have been helped by Red Hat engineers time and time again, and I can say it is the best support for ANY service that I have received. Also, I see the selection of RHEL 7 as an alternative to all OSes to include Windows 10 and MAC OSX. Compared to these systems RHEL is a downright bargain.
+
+Priority of requirements for distribution selection:
+
+1) Distro stability
+
+2) Distro security
+
+3) Application requirements based on my use profile below.
+
+4) Ease of use (or simplicity/KISS principle) – Does it just work everytime.
+
+5) Distro documentation and support
+
+6) FOSS community support
+
+
+
+Computer profile: Essentially, a very stable and reasonably secure internet and media client. Also, native OpenVPN and bit-torrent support.
+
+Use profile: I needed this machine to do the following – reliably and securely.
+
+1) Internet client, with reasonable security and functionality. Solution: Firefox with HTTPS Everywhere and Ublock Origin plugins. Chrome requires 3rd party repositories to meet dependencies, so it was not an option for me.
+
+2) Media client that can play all standard formats. MPEG2, MPEG4part2, DivX 3.11 Alpha ;-). H264, MP3, AAC , LPCM, Dolby Digital, iLBC, ADPCM, and FLAC. Solution: Fluendo ONEPLAY Player is a paid ($35.00) software application that delivers high quality playback of movies, TV shows and web video clips across for the most popular formats, including AVI, H265, H264, and MPEG4, Windows Media, and more. I tried alternate repositories for VLC, but in the end went with the solution that just worked and didn't require questionable 3rd party repositories.
+
+3) Support for VPN with OpenVPN and bit-torrent support. Solution: As admin: yum install openvpn and install Transmission client for torrents
+
+4) Robust security software and support. I travel for a living and regularly have to connect to hotel wired and WiFi internet nodes. Solution: Install clamav, clamav-update and rkhunter. Set firewall to “Public” profile. Do not turn off SELinux, I have had 0 conflicts with SELinux in it's standard configuration. Check status with command: sestatus
+
+You should see something like this:
+
+SELinux status: enabled
+
+SELinuxfs mount: /sys/fs/selinux
+
+SELinux root directory: /etc/selinux
+
+Loaded policy name: targeted
+
+Current mode: enforcing
+
+Mode from config file: enforcing
+
+Policy MLS status: enabled
+
+Policy deny_unknown status: allowed Max kernel policy version: 28
+
+Install the Red Hat Insights Client and Register Up to 10 Systems for Free with your RHEL subscription
+
+YouTube video:https://www.youtube.com/watch?v=t1tlntxyJyc
+
+Register your system for updates with Red Hat Subscription Manager to resolve software dependencies:
+
+""subscription-manager-register-auto-attach-done-above-""&gt;subscription-manager register --auto-attach (Done above)
+
+
+
+Install the Red Hat Insights RPM:
+
+""yum-install-redhat-access-insights""&gt;yum install redhat-access-insights
+
+Register the system to Red Hat Insights (as root)
+
+redhat-access-insights-register""&gt;redhat-access-insights --register
+
+After registration, the Insights client will upload initial system information to Red Hat Insights. You should be able to immediately see your system in the Insights user interface:
+
+https://access.redhat.com/insights/systems/
+
+the-initial-analysis-results-will-be-available-shorty-thereafter-""&gt;The initial analysis results will be available shorty thereafter.
+
+Other software I installed from the RHEL 7 and EPEL repositories:
+
+Added applications to standard application base
+
+uGet 
+Gparted 
+FileZilla 
+Pidgin 
+Xchat 
+GIMP 
+htop 
+transmission 
+Bleachbit 
+QPhotoRec
+Time Tracker 
+SCAP workbench (Software Installer) 
+p7zip 
+ntfsprogs 
+fuse 
+ntfs-3g
+Gnote
+
+
+
+If you absolutely need to have Flash plugin (I do not recommend) instructions below do work:
+
+sudo -i
+
+&lt; or""&gt;OR
+
+su
+
+Adobe Repository 64-bit x86_64
+
+rpm -ivh http://linuxdownload.adobe.com/adobe-release/adobe-release-x86_64-1.0-1.noarch.rpm rpm --import /etc/pki/rpm-gpg/RPM-GPG-KEY-adobe-linux
+
+yum check-update
+
+yum install flash-plugin nspluginwrapper alsa-plugins-pulseaudio libcurl
+
+This is how I use RHEL 7 as an everyday computer. Hope this helps someone that just wants a stable and secure system to browse the internet and watch downloaded media. I am not a a sys-admin or a computer security specialist so I welcome your input when it comes to configuration and security. Please research your own security requirements and configuration, don't rely on my configuration for your security needs. I should also say, I do not run as admin, I use a standard account and log into admin/root for administrative requirements only.
+
+okinawalinuxfan
+",linux,Red Hat Enterprise Linux 7.2 as an everyday machine,https://www.reddit.com/r/linux/comments/4ifywv/red_hat_enterprise_linux_72_as_an_everyday_machine/
+14,2016-05-08 01:34:41+00:00,self.LinuxActionShow,https://www.reddit.com/r/LinuxActionShow/comments/4icpnt/red_hat_enterprise_linux_72_as_an_everyday/,False,"Red Hat Enterprise Linux 7.2 as an Everyday Linux-Box
+
+An everyday linux-box running RHEL 7.2? Well...yes, with the caveat that this is the right system setup for me. I do understand that this will not be the ideal setup for most people. I should say that I did try other distributions and variants, particularly Ubuntu-MATE 16.04. I was hugely impressed with the polish the Ubuntu-MATE team put into their latest release; but the back-end Ubuntu-base bugs and current Network Manager problems were inexcusable IMO. Not the Ubuntu-MATE folks fault I should point out.
+
+I know, I know....distros other than RHEL 7 provide a far wider selection of applications..I got it. In my case everything I needed (other than a flexible media player), was in the RHEL 7 and EPEL repositories ready for easy and reliable installation and use.
+
+Enable EPEL: https://fedoraproject.org/wiki/EPEL
+
+Look for appropriate RPM / Right-click / Install with Software Install See repo-list in Terminal: yum -v repolist See only enabled repos: yum repolist enabled
+
+Also, before you reply, “but you have to pay for updates!”. I know, but $49.00 for a self-support subscription is very reasonable and the equivalent to buying a pair of pants or a night out with a few drinks. Even though I have a self-support contract I have been helped by Red Hat engineers time and time again, and I can say it is the best support for ANY service that I have received. Also, I see the selection of RHEL 7 as an alternative to all OSes to include Windows 10 and MAC OSX. Compared to these systems RHEL is a downright bargain.
+
+Priority of requirements for distribution selection:
+
+1) Distro stability
+
+2) Distro security
+
+3) Application requirements based on my use profile below.
+
+4) Ease of use (or simplicity/KISS principle) – Does it just work everytime.
+
+5) Distro documentation and support
+
+6) FOSS-and-opensource-community-support
+
+
+Computer profile: Essentially, a very stable and reasonably secure internet and media client. Also, native OpenVPN and bit-torrent support.
+
+Use profile: I needed this machine to do the following – reliably and securely.
+
+1) Internet client, with reasonable security and functionality. Solution: Firefox with HTTPS Everywhere and Ublock Origin plugins. Chrome requires 3rd party repositories to meet dependencies, so it was not an option for me.
+
+2) Media client that can play all standard formats. MPEG2, MPEG4part2, DivX 3.11 Alpha ;-). H264, MP3, AAC , LPCM, Dolby Digital, iLBC, ADPCM, and FLAC. Solution: Fluendo ONEPLAY Player is a paid ($35.00) software application that delivers high quality playback of movies, TV shows and web video clips across for the most popular formats, including AVI, H265, H264, and MPEG4, Windows Media, and more. Optimized with the Oneplay codec pack, the Oneplay media player is the must-have professional media player for any business that requires high quality video on any screen, over any operating system. I tried alternate repositories, but in the end went with the solution that just worked and didn't require questionable 3rd party repositories.
+
+3) Support for VPN with OpenVPN and bit-torrent support. Solution: As admin: yum install openvpn and install Transmission client for torrents
+
+4) Robust security software and support. I travel for a living and regularly have to connect to hotel wired and WiFi internet nodes. Solution: Install clamav, clamav-update and rkhunter. Set firewall to “Public” profile. Do not turn off SELinux, I have had 0 conflicts with SELinux in it's standard configuration. Check status with command: sestatus
+
+You should see something like this:
+
+SELinux status: enabled
+
+SELinuxfs mount: /sys/fs/selinux
+
+SELinux root directory: /etc/selinux
+
+Loaded policy name: targeted
+
+Current mode: enforcing
+
+Mode from config file: enforcing
+
+Policy MLS status: enabled
+
+Policy deny_unknown status: allowed Max kernel policy version: 28
+
+Install the Red Hat Insights Client and Register Up to 10 Systems for Free with your RHEL subscription
+
+YouTube video:https://www.youtube.com/watch?v=t1tlntxyJyc
+
+Register your system for updates with Red Hat Subscription Manager to resolve software dependencies:
+
+""subscription-manager-register-auto-attach-done-above-""&gt;subscription-manager register --auto-attach (Done above)
+
+Install the Red Hat Insights RPM:
+
+""yum-install-redhat-access-insights""&gt;yum install redhat-access-insights
+
+Register the system to Red Hat Insights (as root)
+
+redhat-access-insights-register""&gt;redhat-access-insights --register
+
+After registration, the Insights client will upload initial system information to Red Hat Insights. You should be able to immediately see your system in the Insights user interface:
+
+https://access.redhat.com/insights/systems/
+
+the-initial-analysis-results-will-be-available-shorty-thereafter-""&gt;The initial analysis results will be available shorty thereafter.
+
+Other software I installed from the RHEL 7 and EPEL repositories:
+
+Added applications to standard application base
+
+uGet Gparted FileZilla Pidgin Xchat GIMP htop transmission Bleachbit QPhotoRec Time Tracker SCAP workbench (Software Installer) p7zip ntfsprogs fuse ntfs-3g
+
+gnote""&gt;Gnote
+
+If you absolutely need to have Flash plugin (I do not recommend) instructions below do work:
+
+sudo -i
+
+&lt;
+or""&gt;OR
+
+su -
+
+Adobe Repository 32-bit x86
+
+rpm -ivh http://linuxdownload.adobe.com/adobe-release/adobe-release-i386-1.0-1.noarch.rpm rpm --import /etc/pki/rpm-gpg/RPM-GPG-KEY-adobe-linux
+
+Adobe Repository 64-bit x86_64
+
+rpm -ivh http://linuxdownload.adobe.com/adobe-release/adobe-release-x86_64-1.0-1.noarch.rpm rpm --import /etc/pki/rpm-gpg/RPM-GPG-KEY-adobe-linux
+
+yum check-update
+
+yum install flash-plugin nspluginwrapper alsa-plugins-pulseaudio libcurl
+
+=======================================================================
+
+This is how I use RHEL 7 as an everyday computer. Hope this helps someone that just wants a stable and secure system to browse the internet and watch downloaded media. I am not a a sys-admin or a computer security specialist so I welcome your input when it comes to configuration and security. Please research your own security requirements and configuration, don't rely on my configuration for your security needs. I should also say, I do not run as admin, I use a standard account and log into admin/root for administrative requirements only.
+
+okinawalinuxfan
+",LinuxActionShow,Red Hat Enterprise Linux 7.2 as an Everyday Linux-Box. How-To.,https://www.reddit.com/r/LinuxActionShow/comments/4icpnt/red_hat_enterprise_linux_72_as_an_everyday/
+15,2016-04-11 09:56:26+00:00,imgur.com,https://www.reddit.com/r/LinuxActionShow/comments/4ea2dx/mrw_i_hear_ubuntu_on_windows_10/,False,,LinuxActionShow,MRW I hear Ubuntu on Windows 10,https://imgur.com/r/linuxmemes/kRK3gI3
+16,2016-02-27 10:32:35+00:00,youtube.com,https://www.reddit.com/r/LinuxActionShow/comments/47udz0/ronald_jenkees_new_track_in_the_works_dr_goose/,False,,LinuxActionShow,Ronald Jenkees - New track in the works! Dr. Goose Robbins,https://www.youtube.com/watch?v=A_e1ZSFvSPE
+17,2016-02-24 11:13:05+00:00,nickforall.nl,https://www.reddit.com/r/LinuxActionShow/comments/47c3ee/dear_skypemicrosoft/,False,,LinuxActionShow,Dear Skype/Microsoft,http://nickforall.nl/skype/
+18,2016-02-15 02:02:56+00:00,s7.postimg.org,https://www.reddit.com/r/wallpaper/comments/45u8rr/obeyish_linux_sudo_wallpaper_2560x1440/,False,,wallpaper,OBEYish Linux sudo Wallpaper [2560x1440],http://s7.postimg.org/479o031tl/OBEYish_Linux_sudo_Color_Punch.png
+19,2016-02-15 01:32:00+00:00,postimg.org,https://www.reddit.com/r/wallpapers/comments/45u4ke/obeyish_linux_sudo_wallpaper_2650x1440/,False,,wallpapers,OBEYish Linux sudo Wallpaper [2650x1440],http://postimg.org/image/4k1269k3b/full/
+20,2016-02-14 23:12:02+00:00,postimg.org,https://www.reddit.com/r/LinuxActionShow/comments/45tkdb/improved_obeyish_linux_wallpaper_highres/,False,,LinuxActionShow,Improved OBEYish Linux Wallpaper: High-Res,http://postimg.org/image/4k1269k3b/full/
+21,2016-02-14 20:35:22+00:00,imgur.com,https://www.reddit.com/r/LinuxActionShow/comments/45ssvs/obeyish_linux_wallpaper_i_made_in_gimp_while/,False,,LinuxActionShow,OBEYish Linux wallpaper I made in GIMP while watching LAS live.,http://imgur.com/fXdiDZj.jpg
+22,2016-02-14 20:17:03+00:00,imgur.com,https://www.reddit.com/r/linux/comments/45spd4/obeyish_linux_wallpaper_i_made_in_gimp/,False,,linux,OBEYish Linux Wallpaper I made in GIMP,http://imgur.com/fXdiDZj.jpg
+23,2016-02-14 20:15:45+00:00,imgur.com,https://www.reddit.com/r/linux/comments/45sp3b/obeyish_linux_wallpaper_i_made_in_gimp/,False,,linux,OBEYish Linux Wallpaper I made in GIMP,http://imgur.com/fXdiDZj
+24,2016-02-14 20:10:35+00:00,imgur.com,https://www.reddit.com/r/linux/comments/45so44/obeyish_linux_wallpaper_i_made_in_gimp/,False,,linux,OBEYish Linux Wallpaper I made in GIMP,https://imgur.com/fXdiDZj
+25,2016-02-14 20:09:13+00:00,imgur.com,https://www.reddit.com/r/wallpapers/comments/45snv4/obeyish_linux_sudo_wallpaper/,False,,wallpapers,OBEYish Linux sudo Wallpaper,https://imgur.com/fXdiDZj
+26,2016-02-10 10:49:29+00:00,cio.com,https://www.reddit.com/r/LinuxActionShow/comments/4525k6/is_docker_ditching_ubuntu_linux_confusion_reigns/,False,,LinuxActionShow,Is Docker ditching Ubuntu Linux? Confusion reigns,http://www.cio.com/article/3031761/is-docker-ditching-ubuntu-linux-confusion-reigns.html?google_editors_picks=true
+27,2016-01-28 11:14:32+00:00,youtube.com,https://www.reddit.com/r/LinuxActionShow/comments/432vi7/linux_sucks_2016_bryan_lunduke_scale/,False,,LinuxActionShow,"""Linux Sucks"" - 2016 (Bryan Lunduke @ SCaLE)",https://www.youtube.com/watch?v=WipM3SAYqK4
+28,2016-01-26 20:00:05+00:00,techtimes.com,https://www.reddit.com/r/LinuxActionShow/comments/42td6q/the_new_bq_ubuntu_tablet_will_show_off/,False,,LinuxActionShow,The New Bq Ubuntu Tablet Will Show Off Desktop-Mobile Convergence,http://www.techtimes.com/articles/127664/20160125/new-bq-ubuntu-tablet-will-show-desktop-mobile-convergence.htm
+29,2016-01-20 21:09:35+00:00,fudzilla.com,https://www.reddit.com/r/LinuxActionShow/comments/41we0m/ubuntu_tablet_ready_for_mobile_world_congress/,False,,LinuxActionShow,Ubuntu Tablet ready for Mobile World Congress,http://www.fudzilla.com/news/mobile/39720-ubuntu-tablet-ready-for-mobile-world-congress
+30,2015-12-13 08:13:19+00:00,self.redhat,https://www.reddit.com/r/redhat/comments/3wmk1v/ran_yum_update_on_my_rhel_7_box_this_morning/,False,"Ran yum update on my RHEL 7 box this morning.  Updates went smoothly until reboot, or I should say attempted reboot.  I got the following error on start-up.
+
+error: /vmlinuz-3.10.0-327.3.1.el7.x86_64 has invalid signature.
+
+error: you need to load the kernel first
+
+Press any key to continue...
+
+Pressing any key starts the cycle all over again, same error.  I am running RHEL 7 primarily for it's stability, and this happens?  I am running a secure boot enabled machine, and want to continue to do so.  Any thoughts?  Is this my fault or is this a bug?  Thanks for any help.",redhat,"Ran yum update on my RHEL 7 box this morning. Updates went smoothly until reboot, or attempted reboot. Then I got this.....",https://www.reddit.com/r/redhat/comments/3wmk1v/ran_yum_update_on_my_rhel_7_box_this_morning/
+31,2015-11-27 07:20:43+00:00,galliumos.org,https://www.reddit.com/r/LinuxActionShow/comments/3ufwfv/galliumos_a_fast_and_lightweight_linux_distro_for/,False,,LinuxActionShow,GalliumOS: A fast and lightweight Linux distro for ChromeOS devices. Interesting.,https://galliumos.org/
+32,2015-11-27 05:05:47+00:00,self.LinuxActionShow,https://www.reddit.com/r/LinuxActionShow/comments/3ufj0o/getting_nonfree_codecs_working_on_red_hat/,False,"Hello all,
+
+For some time I have been trying to run Red Hat Enterprise Linux 7 on my daily machine.  Most of that time was trying to get non-free codecs or VLC installed.  I've tried 3rd party repositories, but all failed me in some way or another.  With a few I was in missing-dependency-hell, others didn't have RHEL 7 repositories, and a few were completely off-line.   Needless to say, there were no reliable solutions that I trusted.  I know, I know, there are those of you that are asking yourself ""WTF, why would anyone want to run RHEL 7 as a daily machine?""  The only answers that I can give is that it was a challenge I had to overcome, and that I respect the integrity of Red Hat as an advocate for Linux in the enterprise.  There are also some security requirements that I had to fill, and RHEL 7 fit the bill nicely. 
+
+OK, so enough with the back-story.  The solution is NOT free, but it does work perfectly if you require non-free codecs in a Linux distro that does not support non-free packages.  I just installed Fluendo Oneplay and it works perfectly, and was very easy to install. I don't mind having to pay if there is no reliable free solution.  There is a 30 day trial at the link below.
+
+http://www.oneplaydirect.com/oneplay/oneplay-player/
+
+I hope this helps someone, Its a very easy solution, and might keep another Linux user from the frustration I felt dealing with shady 3rd party repositories.  BTW, I am extremely happy with RHEL 7, it makes an awesome reliable daily machine.
+- okinawalinuxfan ",LinuxActionShow,Getting non-free codecs working on Red Hat Enterprise Linux 7 (RHEL 7). Solution for those crazy enough to run RHEL as a daily machine!,https://www.reddit.com/r/LinuxActionShow/comments/3ufj0o/getting_nonfree_codecs_working_on_red_hat/
+33,2015-11-26 03:03:35+00:00,self.redhat,https://www.reddit.com/r/redhat/comments/3uat0c/what_are_the_most_reliabletrusted_repositories/,False,"I run RHEL 7 Desktop on a HP Folio13 laptop as one of two daily use machines.  Although it can perform 90% of what I need it to do, I am always on the hunt for the elusive last 10%.  I have a RHEL video course that I would like to run on this machine, but it is coded as mp4s.  What is the best repository for RHEL 7 Desktop video codecs?  Currently I am running another distro in Boxes and watching the videos there.  Any suggestions?",redhat,What are the most reliable/trusted repositories for RHEL 7 Desktop video codecs?,https://www.reddit.com/r/redhat/comments/3uat0c/what_are_the_most_reliabletrusted_repositories/
+34,2015-10-11 21:56:09+00:00,self.LinuxActionShow,https://www.reddit.com/r/LinuxActionShow/comments/3odn0y/feedback_on_linux_action_show_386_great_show_guys/,False,"To the JB and LAS team, I just want to say great job on the last show.  The shift back to an emphasis on the community made me want to sit back with a beer and enjoy the drama, chaos, and beauty that is the Linux and FOSS community.  Very entertaining, and informative.",LinuxActionShow,"Feedback on Linux Action Show 386. Great Show Guys, Feeling the Old LAS.",https://www.reddit.com/r/LinuxActionShow/comments/3odn0y/feedback_on_linux_action_show_386_great_show_guys/
+35,2015-09-29 18:58:39+00:00,bulletinleader.com,https://www.reddit.com/r/LinuxActionShow/comments/3mv974/microsoft_selects_ubuntu_for_first_linuxbased/,False,,LinuxActionShow,Microsoft selects Ubuntu for first Linux-based Azure offering,http://www.bulletinleader.com/microsoft-selects-ubuntu-for-first-linux-based-azure-offering/103326/
+36,2015-09-14 19:11:54+00:00,techworm.net,https://www.reddit.com/r/LinuxActionShow/comments/3ky2g6/linux_based_boss_to_replace_microsofts_windows_as/,False,,LinuxActionShow,Linux based Boss to replace Microsoft’s Windows as OS for Indian Government,http://www.techworm.net/2015/09/linux-based-boss-to-replace-microsofts-windows-as-os-for-indian-government.html
+37,2015-09-14 19:08:45+00:00,itworld.com,https://www.reddit.com/r/LinuxActionShow/comments/3ky1xe/how_microsoft_could_finally_kill_linux/,False,,LinuxActionShow,How Microsoft could finally kill Linux,http://www.itworld.com/article/2983806/linux/how-microsoft-could-finally-kill-linux.html
+38,2015-09-06 02:47:44+00:00,franchiseherald.com,https://www.reddit.com/r/LinuxActionShow/comments/3jtf2h/ibm_joins_open_mainframe_project_for_wider_linux/,False,,LinuxActionShow,IBM Joins Open Mainframe Project For Wider Linux Adoption; New LinuxONE Mainframes Launched,http://www.franchiseherald.com/articles/37783/20150905/ibm-linux-adoption.htm
+39,2015-08-31 08:34:52+00:00,youtube.com,https://www.reddit.com/r/LinuxActionShow/comments/3j29hj/windows_ten_spying_on_every_image_you_look_at/,,,LinuxActionShow,Windows ten spying on every image you look at. (VIDEO),https://www.youtube.com/watch?v=Gghj03J_ri0
+40,2015-08-31 08:28:58+00:00,youtube.com,https://www.reddit.com/r/techsnap/comments/3j28yx/windows_ten_spying_on_every_image_you_look_at/,,,techsnap,Windows ten spying on every image you look at. (VIDEO),https://www.youtube.com/watch?v=Gghj03J_ri0
+41,2015-08-18 04:52:13+00:00,1.bp.blogspot.com,https://www.reddit.com/r/LinuxActionShow/comments/3hepur/an_update_is_available_for_your_computer_funny/,,,LinuxActionShow,An update is available for your computer - funny and true,https://1.bp.blogspot.com/-UM2wUizrk64/U_LQca3mRaI/AAAAAAAAATU/Jq2IPHP9Mg0/s1600/update_o_986903.jpg
+42,2015-08-03 10:48:10+00:00,self.LinuxActionShow,https://www.reddit.com/r/LinuxActionShow/comments/3fltzx/ok_i_love_this_show_but_noahs_camera_is_really/,,"OK, I love this show, but Noah's camera is really distracting.  I know its a Linux solution, but the quality of the show, which used to look so good now looks unprofessional.  Sorry to have to say it, but it is a fact.  I tried to get a friend who is new to Linux to watch the show,and that was his first comment.  When I see videos like this on YouTube I immediately switch to another video.  The Linux Action Show is so well produced, why drag the production quality back 10 years?  I think the Free Software Crusade has drifted a little too far into the ""Stallman"" dimension.  Like to hear what other viewers think.  One last thing, why does Chris look so good?  If you are not going full Linux in production, why go half way at the expense of the show?  Just bringing this up because I care.",LinuxActionShow,"OK, I love this show, but Noah's camera is really distracting.........",http://www.reddit.com/r/LinuxActionShow/comments/3fltzx/ok_i_love_this_show_but_noahs_camera_is_really/
+43,2015-07-31 11:15:19+00:00,public.dm2302.livefilestore.com,https://www.reddit.com/r/wallpapers/comments/3f9zzd/windows_10_ninja_cat_timeline/,,,wallpapers,Windows 10 Ninja Cat Timeline,https://public.dm2302.livefilestore.com/y3ptsGwz12O6GoHWVkgCz-a4Qscmfa52BuGkUMhvO7AeyBUxCIuBIDs0tLAEiExbhTFZOyb4S3yzVMbe96uSdioXYXFL8WYeaTjfxUwcr5nFVwO2h9U_pZZKjB_8Ft_P89v/NCUSpeeddial-highres.jpg?psid=1
+44,2015-07-07 08:30:52+00:00,techtimes.com,https://www.reddit.com/r/LinuxActionShow/comments/3cel1u/ubuntupowered_intel_compute_stick_to_go_on_sale/,,,LinuxActionShow,Ubuntu-Powered Intel Compute Stick To Go On Sale This Week For $110,http://www.techtimes.com/articles/66521/20150706/ubuntu-powered-intel-compute-stick-go-sale-week-110.htm
+45,2015-07-06 09:43:44+00:00,privacytools.io,https://www.reddit.com/r/techsnap/comments/3caat9/great_privacy_guide_long_list_of_tools_services/,,,techsnap,"Great privacy guide. Long list of tools, services, and add-ons. Enjoy.",https://www.privacytools.io/
+46,2015-07-03 22:53:34+00:00,opensource.com,https://www.reddit.com/r/LinuxActionShow/comments/3c1n91/linux_as_a_lifestyle/,,,LinuxActionShow,Linux as a lifestyle,https://opensource.com/life/15/6/my-linux-story-Aleksandar-Todorovic
+47,2015-06-25 06:42:27+00:00,youtube.com,https://www.reddit.com/r/LinuxActionShow/comments/3b1oxm/great_opensource_presentation_paul_cormier/,,,LinuxActionShow,Great OpenSource Presentation: Paul Cormier announces new products and technologies at Red Hat Summit,https://www.youtube.com/watch?v=tekg8OjrfDM

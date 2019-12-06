@@ -1,0 +1,239 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-20 19:09:01+00:00,self.VintageApple,https://www.reddit.com/r/VintageApple/comments/5dzjo6/studio_display_17_adc_lcd_usb_hub_and_brightness/,False,"I recently bought this monitor along with a G4 Quicksilver and the button and hub were working correctly. After a few hours of use I couldn't use my keyboard through the hub and after that both USB ports and the brightness button don't work anymore. The button blinks when I touch it but that's about it. Is it a hardware issue with the display and if it is, would it be expensive or hard to repair?",VintageApple,"Studio Display 17"" ADC LCD USB hub and brightness button not working.",https://www.reddit.com/r/VintageApple/comments/5dzjo6/studio_display_17_adc_lcd_usb_hub_and_brightness/
+1,2016-11-05 17:54:31+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/5bb5xh/this_is_weird/,False,,pcmasterrace,This is weird.,https://i.redd.it/lapcla1xauvx.jpg
+2,2016-11-02 21:07:49+00:00,self.VintageApple,https://www.reddit.com/r/VintageApple/comments/5askg9/whats_the_easiest_way_to_transfer_files_to_a/,False,"I'm soon going to buy my first PPC Mac and I've got some software to try it out with. It's mostly in toast images and sit archives and while I will just burn the images to CDs I don't really know what to do with the archives. I can easily extract the files inside but I've heard that classic Mac OS marks some files as ""PC"" for no real reason making them almost unusable, even if you use a newer Intel Mac to transfer them over. Is it better to let the G4 unpack the archives or should I just extract them on a newer machine and copy the files over?",VintageApple,What's the easiest way to transfer files to a Power Mac G4?,https://www.reddit.com/r/VintageApple/comments/5askg9/whats_the_easiest_way_to_transfer_files_to_a/
+3,2016-10-16 17:38:45+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/57sji7/the_next_generation_cpu_from_amd/,False,,pcmasterrace,The next generation CPU from AMD.,https://i.redd.it/t4ny9wvohvrx.jpg
+4,2016-10-15 18:25:36+00:00,youtu.be,https://www.reddit.com/r/pcmasterrace/comments/57ncwk/installing_windows_98_on_drugs/,False,,pcmasterrace,Installing Windows 98 on drugs.,https://youtu.be/hBD8LxtmqEo
+5,2016-10-14 10:50:42+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/57fqwj/razer_blackwidow_registering_wrong_keys/,False,"Today my 2010 BlackWidow started having some issues with registering keys. Nothing was spilled on it. I've tried using different USB ports or even different OSes to rule out any Windows issues. For example:  
+q q  
+w  
+e e  
+r r  
+t t  
+y y  
+u u  
+i i  
+o o  
+p p  
+a a  
+s s  
+d d  
+f f  
+g g  
+h (that's a fun one, sometimes it behaves like win+tab or something else)  
+j j  
+k k  
+l l  
+z z  
+x x  
+c c  
+v v  
+b b  
+n  
+m m  
+
+It often behaves as if there's a modifier key pushed down, for example when I press W it might start closing all of my browser tabs (Ctrl-W). Does anyone have an idea why this happens?",pcmasterrace,Razer BlackWidow registering wrong keys.,https://www.reddit.com/r/pcmasterrace/comments/57fqwj/razer_blackwidow_registering_wrong_keys/
+6,2016-10-04 19:30:08+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/55vayc/the_ie6_powered_windows_update_website_is_still/,False,,pcmasterrace,The IE6 powered Windows Update website is still up. It still works!,https://i.redd.it/vp227p6peipx.png
+7,2016-10-03 13:09:31+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/55nk7z/network_cards/,False,,pcmasterrace,Network cards.,https://i.redd.it/6kw5mde0e9px.png
+8,2016-08-27 16:37:19+00:00,i.redd.it,https://www.reddit.com/r/techsupportgore/comments/4zuzkw/opened_up_my_cheap_minidpvga_adapter_to_see_why/,False,,techsupportgore,Opened up my cheap miniDP-VGA adapter to see why it broke.,https://i.redd.it/irx2prm8dyhx.jpg
+9,2016-08-26 17:32:24+00:00,i.redd.it,https://www.reddit.com/r/me_irl/comments/4zptdb/me_irl/,False,,me_irl,me irl,https://i.redd.it/hqvttxd8irhx.png
+10,2016-08-23 12:58:02+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/4z6bhl/what_a_deal/,False,,pcmasterrace,What a deal!,https://i.redd.it/x3abewsjq4hx.png
+11,2016-08-15 09:35:03+00:00,i.redd.it,https://www.reddit.com/r/me_irl/comments/4xst9q/me_irl/,False,,me_irl,me irl,https://i.redd.it/ujmg8211nifx.png
+12,2016-08-01 14:30:39+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/4vmrkj/ide_to_sata_adapter_drive_not_detected_in_uefi/,False,"Mobo: Asus B85M-G
+
+I bought a cheap IDE to SATA adapter to use an IDE optical drive on my newer motherboard.  
+ The drive isn't detected in the UEFI.  
+ I've tried all of the jumper settings and 2 different drives that work in other PCs.  
+I tested the SATA cable and it works just fine.  
+The drive is getting its own power (can eject and seek) and I've plugged in the adapter's floppy power connector.  
+The SATA controller is set up in AHCI mode (all ports have to be set to one mode so I can't just switch the optical drive's port to IDE emulation mode).
+
+My adapter looks like [this](https://upload.wikimedia.org/wikipedia/commons/9/91/IDE-SATA_ADAPTER.jpg), except it's only got 1 SATA connector.  
+It also has a [switch](http://i.imgur.com/Mb0IlPg.jpg) on it (sorry for the quality, my phone's camera sucks). Any ideas what it could do?
+
+Any help is appreciated, thanks.
+",techsupport,IDE to SATA adapter - drive not detected in UEFI.,https://www.reddit.com/r/techsupport/comments/4vmrkj/ide_to_sata_adapter_drive_not_detected_in_uefi/
+13,2016-07-28 18:53:51+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/4v2c7s/how_we_thought_quake_looked_like_back_in_1996/,False,,pcmasterrace,How we thought Quake looked like back in 1996...,https://i.redd.it/it3squx9y0cx.png
+14,2016-07-17 15:22:12+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/4ta1sm/hanging_out_with_friends_pcmr_style/,False,,pcmasterrace,"Hanging out with friends, PCMR style.",https://i.redd.it/rxcyrr3ket9x.jpg
+15,2016-07-16 19:43:56+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/4t64ap/when_you_buy_a_new_hdd/,False,,pcmasterrace,When you buy a new HDD.,https://i.redd.it/p94uo4wckn9x.png
+16,2016-07-16 08:54:35+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/4t3swx/how_i_think_apple_should_name_their_batteries/,False,,pcmasterrace,How I think Apple should name their batteries.,http://i.imgur.com/s6m4l1H.png
+17,2016-07-14 13:51:05+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/4stcf7/did_windows_just_forget_about_that_unused_25_gb/,False,,pcmasterrace,Did Windows just forget about that unused 2.5 GB of RAM?,https://i.redd.it/wgiu02qfj79x.png
+18,2016-07-12 11:58:51+00:00,gfycat.com,https://www.reddit.com/r/gaming/comments/4sgmdm/overwatch_martyrdom_is_back/,False,,gaming,Overwatch - Martyrdom is back.,https://gfycat.com/HoarseAlienatedCaribou
+19,2016-07-12 11:57:47+00:00,gfycat.com,https://www.reddit.com/r/pcmasterrace/comments/4sgm8f/blizzard_added_martyrdom_to_overwatch/,False,,pcmasterrace,Blizzard added Martyrdom to Overwatch.,https://gfycat.com/HoarseAlienatedCaribou
+20,2016-07-12 11:56:53+00:00,gfycat.com,https://www.reddit.com/r/Overwatch/comments/4sgm51/new_patch_martyrdom_from_cod4_and_crazy_ragdolls/,False,,Overwatch,New patch: Martyrdom from COD4 and crazy ragdolls added.,https://gfycat.com/HoarseAlienatedCaribou
+21,2016-07-08 21:22:21+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/4rx0xp/i_had_some_old_parts_laying_around_so_i_built_a/,False,,pcmasterrace,I had some old parts laying around so I built a 2003-2005 era PC.,http://imgur.com/a/lpYN3
+22,2016-07-05 07:21:05+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/4rbj3m/i_have_my_reasons_not_to_update_leave_me_alone/,False,,pcmasterrace,I have my reasons not to update. Leave me alone already.,https://i.redd.it/c6md8tprdd7x.png
+23,2016-06-29 14:04:04+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/4qfo2l/and_i_cant_afford_it/,False,,pcmasterrace,And I can't afford it.,https://i.redd.it/w26lprx5k86x.png
+24,2016-06-27 13:13:10+00:00,i.redd.it,https://www.reddit.com/r/pcmasterrace/comments/4q3951/how_quake_champions_would_run_on_consoles/,False,,pcmasterrace,How Quake Champions would run on consoles.,https://i.redd.it/cv1yra781u5x.jpg
+25,2016-06-18 14:19:52+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/4ooojw/thanks_vmware/,False,,pcmasterrace,"Thanks, VMware.",http://i.imgur.com/RmjFzIF.png
+26,2016-06-09 14:14:09+00:00,self.osx,https://www.reddit.com/r/osx/comments/4nayx2/how_to_install_106_on_a_2010_mac/,False,My 2010 MacBook came with a modified build of SL that had the necessary drivers. However the retail version doesn't have them and causes a kernel panic. I bought the laptop used so I don't have the installation discs. Is there a way to install 10.6 on it?,osx,How to install 10.6 on a 2010 Mac?,https://www.reddit.com/r/osx/comments/4nayx2/how_to_install_106_on_a_2010_mac/
+27,2016-05-30 18:33:11+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/4lqwfx/you_might_be_able_to_use_an_intel_igpu_for_extra/,False,,pcmasterrace,You might be able to use an Intel IGPU for extra outputs.,http://imgur.com/a/qKvmi
+28,2016-05-29 22:07:58+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/4lmi61/asking_for_help_in_identifying_a_problem_with_my/,False,"I've wanted to learn if I can use my IGPU's output for a second monitor. It turns out that it's possible. I just had to reboot into my UEFI to activate it.
+
+I rarely reboot my PC. The last boot was probably for installing the latest Windows 10 Insider build. Since then I've updated my GPU drivers without rebooting and everything worked fine.
+
+So I rebooted, enabled that feature in my UEFI…
+
+**And everything went to shit after Windows booted to the desktop.**
+
+After a few seconds of properly rendering the desktop artifacts popped up so I did a hard reset manually. I disabled the multimonitor feature…
+
+**And the same thing keeps happening.**
+
+Since my Linux install still worked I booted Windows into Safe Mode to uninstall the GPU drivers with DDU.
+
+After uninstalling them and rebooting everything worked fine again (if that's how you can call our good friend, the MS Basic Display Adapter). I downloaded the Nvidia drivers and installed them. Everything still worked fine - f.lux started working again, the GPU was recognized and I could probably even play a game (I didn't try). I rebooted to see if it worked for sure…
+
+Nope, artifacting. This time I waited long enough for a VIDEO_SCHEDULER_INTERNAL_ERROR BSoD to pop up. I reinstalled drivers again the same way, but this time I installed the previous version. Nope, still the same. Hello DRIVER_IRQL_NOT_LESS_OR_EQUAL my old friend, I've come to bang my head aganist you again. Haven't seen you since Vista, how've you been?
+
+Because the artifacts occured when executing startup programs, happened only on the Nvidia driver and were yellow(ish) I thought it might be f.lux's fault so I uninstalled it and reinstalled the current Nvidia drivers. Nah, it's still fucked.
+
+So, do any of you have any ideas what might be causing the artifacting and crashes? I'm using the newest Insider build (14352).
+
+TL;DR: No drivers good, Nvidia drivers before rebooting good, Nvidia drivers after rebooting fucked.
+
+I'll respond to you in about 6 hours, it's midnight here, I'm bored of troubleshooting and I just need some sleep.
+
+I think I'll try reverting to the previous build tomorrow, but I'd like to try other things first.",pcmasterrace,Asking for help in identifying a problem with my Windows installation.,https://www.reddit.com/r/pcmasterrace/comments/4lmi61/asking_for_help_in_identifying_a_problem_with_my/
+29,2016-05-28 15:54:59+00:00,gfycat.com,https://www.reddit.com/r/Overwatch/comments/4lgbuk/my_first_time_playing_as_reinhardt/,False,,Overwatch,My first time playing as Reinhardt.,https://gfycat.com/CrispLargeBordercollie
+30,2016-05-28 15:52:10+00:00,gfycat.com,https://www.reddit.com/r/gaming/comments/4lgbgq/overwatch_my_first_time_playing_reinhardt/,False,,gaming,[Overwatch] My first time playing Reinhardt.,https://gfycat.com/CrispLargeBordercollie
+31,2016-05-24 10:34:20+00:00,archive.rebeccablacktech.com,https://www.reddit.com/r/pcmasterrace/comments/4kt4xu/how_to_defraggle_a_motherdisc/,False,,pcmasterrace,How to defraggle a motherdisc.,https://archive.rebeccablacktech.com/boards/g/img/0387/52/1387069179629.jpg
+32,2016-05-16 14:28:13+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/4jlehw/when_your_pc_is_so_quiet/,False,,pcmasterrace,When your PC is so quiet...,http://imgur.com/tPugSw2
+33,2016-05-10 20:25:01+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/4ir8e8/no_video_output_after_inserting_agp_card/,False,"This is not a joke, okay? I'm serious. ^^^Really.  
+I built it as a PC for older games that have trouble running on a newer OS.
+
+There's just one problem. After plugging in my GeForce 6600 (confirmed working) there's no video output from either the GPU or the IGPU. I've set it to use the dedicated AGP card in the BIOS and the preferred card to AGP, but after plugging it in there's just no video at all. Everything works fine after unplugging the GPU.
+
+Motherboard: Asus A7V400-MX.",pcmasterrace,No video output after inserting AGP card.,https://www.reddit.com/r/pcmasterrace/comments/4ir8e8/no_video_output_after_inserting_agp_card/
+34,2016-05-01 17:03:34+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/4ha126/my_new_old_build_straight_out_of_2004_specs_in/,False,,pcmasterrace,My new old build - straight out of 2004. Specs in comments.,http://imgur.com/a/DTs8Y
+35,2016-05-01 16:19:40+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/4h9sfk/getting_ready_for_monday/,False,,pcmasterrace,Getting ready for Monday...,http://i.imgur.com/c4r7Aub.jpg
+36,2016-04-30 11:08:24+00:00,gfycat.com,https://www.reddit.com/r/pcmasterrace/comments/4h42na/no_button_no_problem/,False,,pcmasterrace,No button? No problem!,https://gfycat.com/RemoteExemplaryDaddylonglegs
+37,2016-04-09 17:12:30+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/4e22nq/the_xbox_both_360_and_one_section_at_my_local/,False,,pcmasterrace,The Xbox (both 360 and One) section at my local store.,http://i.imgur.com/1sG9HiA.jpg
+38,2016-04-07 15:59:37+00:00,i.imgur.com,https://www.reddit.com/r/AndroidMasterRace/comments/4drotj/at_least_we_can_just_sideload_the_apk/,False,,AndroidMasterRace,At least we can just sideload the apk.,http://i.imgur.com/2KGCb3c.png
+39,2016-03-31 16:19:03+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/4cqqgc/i_actually_thought_a_pixel_suddenly_died_for_a/,False,,pcmasterrace,I actually thought a pixel suddenly died for a moment there.,http://i.imgur.com/VwJWDah.png
+40,2016-03-12 08:57:33+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/4a36v6/square_enix_just_sent_me_an_email_about_a_bundle/,False,,pcmasterrace,Square Enix just sent me an email about a bundle... I probably shouldn't buy it.,http://imgur.com/a/Redkq
+41,2016-02-27 00:59:32+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/47skdy/when_the_new_parts_finally_arrive/,False,,pcmasterrace,When the new parts finally arrive.,http://i.imgur.com/KBiLPv0.png
+42,2016-02-26 12:01:16+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/47ops5/superhot_is_glorious/,False,,pcmasterrace,SUPERHOT is glorious.,http://i.imgur.com/HBnl1vz.png
+43,2016-02-19 18:37:15+00:00,i.imgur.com,https://www.reddit.com/r/GlobalOffensive/comments/46m2eg/you_can_trick_the_game_into_displaying_a_knife/,False,,GlobalOffensive,You can trick the game into displaying a knife wallbang on the killfeed.,http://i.imgur.com/lQpJyeq.jpg
+44,2016-02-12 18:15:49+00:00,strawpoll.me,https://www.reddit.com/r/pcmasterrace/comments/45g0s4/what_keyboard_switches_do_you_use/,False,,pcmasterrace,What keyboard switches do you use?,http://strawpoll.me/6797111
+45,2016-01-25 16:19:11+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/42m5p6/windows_xp_in_glorious_640x480x8/,False,,pcmasterrace,Windows XP in glorious 640x480x8.,http://imgur.com/a/O6vJ7
+46,2016-01-24 10:56:10+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/42fhgv/this_keyboard_was_probably_designed_by_satan/,False,,pcmasterrace,This keyboard was probably designed by Satan.,http://i.imgur.com/dVFQloO.jpg
+47,2016-01-14 15:22:54+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/40y031/why_would_the_sticker_lie_it_has_to_be_64gb/,False,,pcmasterrace,"Why would the sticker lie, it has to be 64GB!",http://imgur.com/a/1rlJO
+48,2016-01-13 07:51:19+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/40r1gt/my_windows_xp_laptop_just_got_some_new_updates_in/,False,,pcmasterrace,My Windows XP laptop just got some new updates. In 2016.,http://i.imgur.com/gGKBFEU.png
+49,2015-12-28 17:59:47+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3yjq8c/oh_so_thats_how_to_remove_the_keyboard_in_my/,False,,pcmasterrace,"Oh, so THAT'S how to remove the keyboard in my laptop.",http://imgur.com/a/RrF5b
+50,2015-12-24 18:43:53+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3y3t51/i_just_got_my_first_mechanical_keyboard_the_razer/,False,,pcmasterrace,I just got my first mechanical keyboard: the Razer Blackwidow 2010 with Cherry MX Blues.,http://imgur.com/a/gI8ZR
+51,2015-12-24 18:42:57+00:00,imgur.com,https://www.reddit.com/r/MechanicalKeyboards/comments/3y3t1b/i_just_got_my_first_mechanical_keyboard_the_razer/,False,,MechanicalKeyboards,I just got my first mechanical keyboard: the Razer Blackwidow 2010 with Cherry MX Blues.,http://imgur.com/a/gI8ZR
+52,2015-12-17 17:52:49+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3x8nlb/dont_just_post_the_box_post_whats_in_it/,False,,pcmasterrace,"Don't just post the box, post what's in it!",https://i.imgur.com/Vkk1sVc.png
+53,2015-11-28 22:45:35+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3un331/i_am_officially_a_time_traveler_at_least/,False,,pcmasterrace,I am officially a time traveler. At least according to Steam.,http://i.imgur.com/pai7i2E.png
+54,2015-11-19 17:57:16+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3tgkgc/i_thought_this_was_finally_the_time_to_buy_an_ssd/,False,,pcmasterrace,I thought this was finally the time to buy an SSD.,http://imgur.com/a/Z7jKY
+55,2015-11-06 17:02:20+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3rs6xa/seems_like_black_ops_3_has_some_minor_performance/,False,,pcmasterrace,Seems like Black Ops 3 has some minor performance problems...,"http://imgur.com/1dHEXQr,UhBOKE8"
+56,2015-11-04 17:59:42+00:00,gfycat.com,https://www.reddit.com/r/pcmasterrace/comments/3riq0m/my_laptop_is_blazing_fast/,False,,pcmasterrace,My laptop is blazing fast!,http://gfycat.com/WhisperedGiantFawn
+57,2015-11-02 12:45:47+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3r7dgc/the_ultimate_digital_media_center/,False,,pcmasterrace,The ultimate digital media center!,https://imgur.com/a/AbFRP
+58,2015-10-19 14:48:30+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3pcxqs/some_ram_to_revive_an_old_laptop_thanks_urahnis/,False,,pcmasterrace,"Some RAM to revive an old laptop - thanks, /u/Rahnis!",http://imgur.com/a/T9way
+59,2015-10-14 19:43:56+00:00,gfycat.com,https://www.reddit.com/r/YouSeeComrade/comments/3orhk7/you_see_comrade_enemy_weapon_is_not_safe_to_use/,False,,YouSeeComrade,"You see comrade, enemy weapon is not safe to use.",http://gfycat.com/EminentAnotherGermanspitz
+60,2015-10-13 12:28:16+00:00,self.tifu,https://www.reddit.com/r/tifu/comments/3okug9/tifu_by_trying_to_help_my_friend_with_his_phone/,False,"This happened today, about 4 hours ago. I'll try to explain the terms I use, but you can just read the TL;DR.  
+My friend was complaining about bad battery life on his Nexus 5, and I told him that's probably because he never considered a factory reset after updating it. Still, my Nexus 7 loves to do weird stuff that can easily be fixed by clearing the cache. It's painless and quick. I told him that I can do it and he trusted me - maybe because of my phone dual booting different ROMs and my Linux laptop. I enter recovery mode and there it is - ""wipe cache partition"". I select it and confirm.... and it's stuck. It should take 2 seconds, not 2 minutes so I rebooted the phone and it entered a bootloop (a soft brick when the phone only gets to the boot animation). I go into recovery and it can't mount /cache... This is bad. Really bad. The only way I could repair it was to do a factory reset and he didn't back anything up... and even this might not be enough. With my phone/tablet I'd just use Google's factory images (you can use them to replace any partition of a Nexus to the factory state) to repair the partition, but he's got a locked bootloader. Unlocking it means FULL WIPE. I knew I fucked up. He got mad at me, took the phone and went to the nearest repair shop. I don't blame him for not trusting me anymore. The moment he walked out I started to google WHY did this happen? I found out it's \\\\**WIZARD TALK AHEAD**\\\ because of his updates - basically, Android's runtime changed between 4.4 and 5.0 - and when I wiped one of the cache partitions there was a conflict with the old runtime's remains in the second partition. When you do a factory reset 3 things are wiped - your /data with the exception of /data/media (your apps), /cache and the dalvik cache - I only wiped /cache. Normally it's just not a full wipe, but in this case the two caches were too different to work. \\\\**WIZARD TALK END**\\\ He came back and the first thing that I said was that I'll pay him back with 50% extra. But they wiped the phone and he had no backups... He lost 2 years of photos that he really didn't want to lose. And it's because of me. It works now because it's pretty hard to kill a Nexus, but the data won't come back.  
+At least the battery drain is fixed.
+
+TL;DR: wanted to fix a battery drain, broken a phone's OS. And fixed the drain.",tifu,TIFU by trying to help my friend with his phone.,https://www.reddit.com/r/tifu/comments/3okug9/tifu_by_trying_to_help_my_friend_with_his_phone/
+61,2015-10-09 12:37:13+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3o3ebs/my_9_year_laptop_used_every_day_for_7_years_is/,False,,pcmasterrace,"My 9 year laptop, used every day for 7 years is still in a good condition. I just need some extra DDR2 to make it usable in 2015.",http://imgur.com/a/GVpq0
+62,2015-10-03 13:40:27+00:00,self.AndroidMasterRace,https://www.reddit.com/r/AndroidMasterRace/comments/3ncb3g/why_im_probably_not_upgrading_from_my_nexus_4_any/,False,"I was thinking about getting a new phone, but... is it really worth it? We haven't really come far in these 3 years since the N4. I'll compare what has changed between the Motorola Droid from 2009, the Nexus 4 from 2012 and the standards of 2015 to explain what I mean.
+
+**2012-2015**  
+1. We have moved from ~720x1280 screens to 1080x1920 and 1440x2560, but 1440p isn't really that good (battery life) and the difference between 1080p and 720 isn't as pronounced as the change from 240 to 320 PPI.  
+2. Do you really need all that RAM? 2GB is enough. Sure, it's nice to have more, but the difference between 4GB and 2 is just not as big as 1 and 2.  
+3. A 2012 SoC is still good enough today - by good enough I mean almost no slowdowns on the newest OS. The S4 Pro used in the N4 is close to a mid end SoC in today's phones, like the Moto G. And I don't think a Moto G is slow.  
+
+
+**2009-2012**  
+1. The Droid had a pretty good screen - instead of a 320x480 3.5 inch screen it had a 480x854 3.7 inch display. 240 PPI was really good compared to the old 160 PPI. The Nexus 4 is the 2nd Nexus with a 320 PPI screen which made individual pixels almost invisible... unless you looked closer. In day to day use you don't really stick your phone 5cm in front of your face, however, so 320 DPI looks pretty nice.  
+2. The Droid had 256MB of RAM. The N4 has eight times as much.  
+3. The 600MHz OMAP3430 just can't compare to a quad core 1.5GHz Snapdragon S4 Pro. It's just too slow if you want smooth animations.
+
+The phones we use haven't changed as much since 2012 as they did before. You can still use a Galaxy S3 today, but the low amount of RAM is a bit painful. The Optimus G or Xperia Z are still decent phones today. But the original Samsung Galaxy or HTC Hero in 2012? Welcome to the world of stuttering, waiting and stuttering. So if you have a limited budget and a 2012/2013 phone - don't upgrade unless you really have to.",AndroidMasterRace,Why I'm probably not upgrading from my Nexus 4 any time soon.,https://www.reddit.com/r/AndroidMasterRace/comments/3ncb3g/why_im_probably_not_upgrading_from_my_nexus_4_any/
+63,2015-09-28 20:41:15+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3mqvnk/a_60ghz_monitor_on_olx_something_like_craigslist/,False,,pcmasterrace,A 60GHz monitor on OLX (something like craigslist).,http://i.imgur.com/xKSWvG2.png
+64,2015-09-25 22:44:46+00:00,i.imgur.com,https://www.reddit.com/r/mildlyinteresting/comments/3me8pp/my_friend_got_some_extra_paper_with_his_textbook/,False,,mildlyinteresting,My friend got some extra paper with his textbook.,http://i.imgur.com/qFT0puK.jpg
+65,2015-09-20 21:11:38+00:00,gfycat.com,https://www.reddit.com/r/stalker/comments/3lpzj6/never_trust_the_monolith/,False,,stalker,Never trust the Monolith.,http://gfycat.com/EminentAnotherGermanspitz
+66,2015-09-20 14:50:58+00:00,gfycat.com,https://www.reddit.com/r/gaming/comments/3loh16/never_trust_an_enemy_weapon/,False,,gaming,Never trust an enemy weapon.,http://gfycat.com/EminentAnotherGermanspitz
+67,2015-09-17 07:31:29+00:00,i.imgur.com,https://www.reddit.com/r/linuxmasterrace/comments/3l9yj8/are_there_many_more_satisfying_things_than/,False,,linuxmasterrace,Are there many more satisfying things than getting a game in Wine to work for the first time?,http://i.imgur.com/voXQxn6.png
+68,2015-09-16 11:02:09+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3l5olk/this_is_basically_a_fire_hazard_your_move_amd_and/,False,,pcmasterrace,"This is basically a fire hazard. Your move, AMD and Nvidia.",http://imgur.com/a/6H88f
+69,2015-09-12 15:39:02+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3ko8md/what_happens_to_screenshots_from_an_overheating/,False,,pcmasterrace,What happens to screenshots from an overheating phone with a high overclock? Imgur can't read them.,http://i.imgur.com/4LEsYeZ.png
+70,2015-09-10 15:35:59+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3kevuy/customize_your_accounts/,False,,pcmasterrace,"""Customize your accounts""",http://i.imgur.com/7VtvUOS.jpg
+71,2015-09-08 16:03:20+00:00,gfycat.com,https://www.reddit.com/r/pcmasterrace/comments/3k3wdi/being_the_family_tech_guy_can_have_some_benefits/,False,,pcmasterrace,"Being the ""family tech guy"" can have some benefits...",http://gfycat.com/SingleSardonicHart
+72,2015-09-08 16:02:22+00:00,gfycat.com,https://www.reddit.com/r/ThatPeelingFeeling/comments/3k3w80/sometimes_having_to_set_up_every_piece_of_tech_in/,False,,ThatPeelingFeeling,Sometimes having to set up every piece of tech in your house pays off.,http://gfycat.com/SingleSardonicHart
+73,2015-09-05 13:50:16+00:00,youtube.com,https://www.reddit.com/r/pcmasterrace/comments/3jqs68/every_time_i_quit_a_stalker_game_i_get_a_blue/,False,,pcmasterrace,Every time I quit a Stalker game I get a blue screen and I have no idea how to fix it.,https://www.youtube.com/watch?v=hUuoLMQM06U
+74,2015-09-03 12:49:15+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3jhdmv/i_love_steam_groups/,False,,pcmasterrace,I love Steam groups.,http://i.imgur.com/geebDF5.png
+75,2015-09-02 10:38:53+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3jcapm/whatever_you_say_steam/,False,,pcmasterrace,"Whatever you say, Steam...",http://i.imgur.com/f9sOXwE.png
+76,2015-09-01 22:32:12+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3ja2wz/fallout_1_2_and_tactics_for_10_worth_it_if_youre/,False,,pcmasterrace,"Fallout 1, 2 and Tactics for $10. Worth it. If you're waiting for FO4 and never played the classics - maybe it's time?",http://i.imgur.com/2a5qAUn.png
+77,2015-08-31 12:08:49+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3j2r2y/windows_i_use_a_desktop_not_some_touchscreen/,,,pcmasterrace,"Windows, I use a desktop. Not some touchscreen laptop or a tablet. Stop telling me to tap the screen!",http://i.imgur.com/kgt5K0e.png
+78,2015-08-28 18:25:25+00:00,youtu.be,https://www.reddit.com/r/pcmasterrace/comments/3ir8e0/what_it_must_be_to_play_new_vegas_in_hc_mode/,,,pcmasterrace,What it must be to play New Vegas in HC mode without dehydration/hunger/sleep shown on your HUD thanks to a mod.,https://youtu.be/HhHP3sY4Tm0
+79,2015-08-25 21:29:27+00:00,youtube.com,https://www.reddit.com/r/pcmasterrace/comments/3idvu8/sometimes_inhome_streaming_cant_help/,,,pcmasterrace,Sometimes in-home streaming can't help.,https://www.youtube.com/watch?v=PQNaFGSM4nQ
+80,2015-08-25 21:25:53+00:00,youtu.be,https://www.reddit.com/r/pcmasterrace/comments/3idvbg/unreal_engine_1_logic/,,,pcmasterrace,Unreal Engine 1 logic.,https://youtu.be/1xXZiHkG7_c
+81,2015-08-25 21:17:59+00:00,youtu.be,https://www.reddit.com/r/pcmasterrace/comments/3idu3z/what_happens_when_you_stream_a_game_from_a/,,,pcmasterrace,What happens when you stream a game FROM a craptop to a gaming PC? This happens.,https://youtu.be/pWDYy2pIgbQ
+82,2015-08-23 23:21:36+00:00,imgur.com,https://www.reddit.com/r/gaming/comments/3i4vb4/play_this_game_do_it_just_do_it_there_are_no/,,,gaming,Play this game. Do it. Just do it. There are no excuses for not playing Fallout 2.,http://imgur.com/a/UHytC
+83,2015-08-23 23:12:06+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3i4ty8/pc_has_no_exclusives_says_the_console_peasant_who/,,,pcmasterrace,"""PC has no exclusives"" - says the console peasant who doesn't even know what Fallout was back in the day.",http://imgur.com/a/UHytC
+84,2015-08-23 12:33:05+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3i2o8r/new_vegas_dos_edition/,,,pcmasterrace,New Vegas: DOS Edition.,http://i.imgur.com/n1hsBV4.png
+85,2015-08-16 07:15:51+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3h6hmb/i_was_installing_origin_when/,,,pcmasterrace,I was installing Origin when...,http://i.imgur.com/gjSUv0n.png
+86,2015-08-15 15:21:40+00:00,youtu.be,https://www.reddit.com/r/pcmasterrace/comments/3h3owa/i_think_i_unlocked_the_true_hidden_power_of_paint/,,,pcmasterrace,I think I unlocked the true hidden power of Paint.,https://youtu.be/vRDJmfwuSKc
+87,2015-08-14 20:49:17+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3h0syh/insiders_actually_have_received_a_licence_if_you/,,,pcmasterrace,Insiders ACTUALLY HAVE RECEIVED a licence. If you tested the preview builds skip when asked for a key (both when installing and in the OOBE) and log in with your MS account. It's safe to reinstall.,http://i.imgur.com/Jz4N6oz.png
+88,2015-08-14 14:01:37+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3gz6uc/when_a_custom_theme_andor_shitty_drivers/,,,pcmasterrace,When a custom theme and/or shitty drivers completely destroy your OS installation... (story in comments),http://i.imgur.com/Sos3lD6.png
+89,2015-08-14 09:26:52+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3gyhoh/thanks_gf_experience/,,,pcmasterrace,"Thanks, GF Experience.",http://imgur.com/a/Onmds
+90,2015-08-13 18:23:06+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3gvmvw/how_glorious_is_my_desktop/,,,pcmasterrace,How glorious is my desktop?,http://i.imgur.com/sSUmxlE.png
+91,2015-08-10 17:42:03+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3ghlqi/what_browser_uses_the_most_memory_firefox_vs/,,,pcmasterrace,"What browser uses the most memory? Firefox vs Chrome. 35 tabs or 2 tabs. And both browsers' extension lists. I'll also test Edge, just for fun.",http://imgur.com/a/CCd4Y
+92,2015-08-05 23:11:43+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3fxqep/halflife_in_120x90/,,,pcmasterrace,Half-Life in 120x90.,http://i.imgur.com/pUR2JcD.png
+93,2015-08-03 21:14:50+00:00,imgur.com,https://www.reddit.com/r/AndroidMasterRace/comments/3fo1a4/having_choice_of_a_pocket_7_inch_tablet_grandpas/,,,AndroidMasterRace,"Having choice of a pocket 7 inch tablet, grandpa's phone, an average phone and everything in between.",http://imgur.com/a/5uxTI
+94,2015-08-03 18:35:29+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3fne4m/uh_thanks_for_the_free_vram_upgrade_i_guess/,,,pcmasterrace,"Uh... Thanks for the free VRAM upgrade, I guess?",http://i.imgur.com/xcn0OwN.jpg
+95,2015-07-29 14:07:16+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3f12zc/i_dont_know_if_the_upgrade_gets_this_piece_of/,,,pcmasterrace,"I don't know if the upgrade gets this piece of cancer, but the RTM preview didn't.",http://i.imgur.com/MbtxUaa.png
+96,2015-07-28 16:32:42+00:00,self.AndroidMasterRace,https://www.reddit.com/r/AndroidMasterRace/comments/3ewz1z/my_nexus_4_came_back_from_a_warranty_repair/,,"Completely wiped, as expected. Not downgraded to 4.3, as not expected. (I heard that they flash 4.3 - not 5.1 or 4.2) I unlocked the bootloader and immediately flashed TWRP. It kept booting into TWRP. I looked at the logs and - suprise - /data, /cache etc. were corrupted. Formatted them. Rebooted into system, no, wait, recovery again. It kept booting into recovery. Flashed system, nothing. Out of curiosity I flashed the stock recovery to see what would happen. It booted into the recovery which showed me [this](http://source.android.com/devices/tech/images/composite01.png) animation - I don't think I ever saw it on my Nexus. After about 10 seconds of magic it rebooted... into the system. Which, as expected, was in a bootloop. I quickly did a factory reset... and it booted. It actually booted. Huh. Time to flash CM12.
+
+Edit: Well hello, Cid. It's been too long.",AndroidMasterRace,My Nexus 4 came back from a warranty repair.,http://www.reddit.com/r/AndroidMasterRace/comments/3ewz1z/my_nexus_4_came_back_from_a_warranty_repair/
+97,2015-07-22 21:36:17+00:00,self.AndroidMasterRace,https://www.reddit.com/r/AndroidMasterRace/comments/3e8xpo/is_the_oneplus_one_still_worth_it/,,"Or is it better to wait for the 1+2? I'll replace my N4 in December, so I can wait.",AndroidMasterRace,Is the OnePlus One still worth it?,http://www.reddit.com/r/AndroidMasterRace/comments/3e8xpo/is_the_oneplus_one_still_worth_it/
+98,2015-07-21 19:53:52+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/3e3zpc/i_need_to_confess_something/,,"I used Vista.
+
+32 bit.
+
+For over 5 years.
+
+And didn't feel a need to upgrade.
+
+It was pretty good on an E8200 with 4GB of RAM.",pcmasterrace,I need to confess something.,http://www.reddit.com/r/pcmasterrace/comments/3e3zpc/i_need_to_confess_something/
+99,2015-07-20 08:44:46+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3dxbwb/this_is_why_we_love_you_rws/,,,pcmasterrace,"This is why we love you, RWS.",http://imgur.com/a/4dmDs
+100,2015-07-18 23:30:43+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3ds8z7/the_hard_choices_sleep_or_watch/,,,pcmasterrace,The hard choices: sleep or watch?,http://i.imgur.com/L7HP2Wv.png
+101,2015-07-18 14:43:58+00:00,youtu.be,https://www.reddit.com/r/gaming/comments/3dqmye/flappy_dude/,,,gaming,Flappy Dude,https://youtu.be/LYxwWshQODk
+102,2015-07-18 14:42:29+00:00,youtu.be,https://www.reddit.com/r/pcmasterrace/comments/3dqmt5/flappy_dude/,,,pcmasterrace,Flappy Dude,https://youtu.be/LYxwWshQODk
+103,2015-07-16 15:17:30+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3dih1k/he_told_me_to_post_this_for_some_internet_points/,,,pcmasterrace,"He told me to post this for some internet points, so here ya go, fagit.",http://i.imgur.com/h0kntTG.png
+104,2015-07-16 12:41:45+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3dhyyc/windows_10_just_hit_rtm_and_all_insiders_are/,,,pcmasterrace,"Windows 10 just hit RTM and all Insiders are receiving a build almost if not identical to the build for OEMs, for example it has no watermark in the lower right corner.",http://i.imgur.com/tW88KbA.png
+105,2015-07-15 15:07:56+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3ddzu3/best_space_heaters/,,,pcmasterrace,Best space heaters.,http://i.imgur.com/wfXSEtl.png
+106,2015-07-15 12:03:49+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3ddfan/til_windows_10_can_properly_update_your_gpu/,,,pcmasterrace,TIL Windows 10 can properly update your GPU drivers.,http://i.imgur.com/WnUFOyl.png
+107,2015-07-13 09:53:29+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/3d3zob/is_an_overclocked_290_similar_in_perfomance_to_a/,,"I know that they use the same GPU with some parts disabled on the 290. Assuming modding the BIOS won't help, is a moderately overclocked 290 close to the 290x in terms of perfomance?",pcmasterrace,Is an overclocked 290 similar in perfomance to a 290X?,http://www.reddit.com/r/pcmasterrace/comments/3d3zob/is_an_overclocked_290_similar_in_perfomance_to_a/
+108,2015-07-12 23:46:25+00:00,de.pcpartpicker.com,https://www.reddit.com/r/pcmasterrace/comments/3d2e6e/my_friend_has_a_700_euro_budget_for_a_pc_is_the/,,,pcmasterrace,"My friend has a 700 euro budget for a PC, is the build good or not? It's meant to last a while.",http://de.pcpartpicker.com/p/6N3pkL
+109,2015-07-11 09:52:58+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3cwe3k/i_guess_my_motherboard_is_pretty_cool/,,,pcmasterrace,I guess my motherboard is pretty cool.,http://i.imgur.com/y2X3SnH.png
+110,2015-07-06 22:50:48+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/3ccwi1/is_vga_that_bad/,,"I bought the cheapest 1080p/1680x1050 monitor possible knowing that it only supports VGA for my younger brother's build but now I use it because his GTS 450 doesn't have a VGA port - only DVI and HDMI. I know it's not unusable (that's why I bought it, a 10 year old wouldn't even be able to tell the difference), but is it worth it for me to switch back to the DVI monitor and for him to use a DVI to VGA connector? Is the connector bad for quality/lag? Right now the only differences I spotted are that the UEFI doesn't use the native resolution on the bootscreen and that GPU scaling doesn't work and the monitor always upscales, no matter my settings. The quality is, well, just as good as the DVI monitor (cheap TN) so I don't know if it's even worth it to change back.
+
+Also, not even the integrated graphics support VGA. Pretty wierd, especially for an LGA 775 board.",pcmasterrace,Is VGA that bad?,http://www.reddit.com/r/pcmasterrace/comments/3ccwi1/is_vga_that_bad/
+111,2015-07-06 17:53:39+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3cbqkf/why_cant_they_just_learn/,,,pcmasterrace,Why can't they just learn?,http://i.imgur.com/DTLrQWd.png
+112,2015-07-06 16:22:03+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3cbe29/gaming_console_lets_do_it_again_if_this_gets/,,,pcmasterrace,Gaming Console. Let's do it again. If this gets enough upvotes Google will show this in the search results - picture included.,http://i.imgur.com/Z3AeXNR.jpg
+113,2015-07-06 11:10:37+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3cagrw/i_must_disagree_with_this_statement/,,,pcmasterrace,I must disagree with this statement.,http://i.imgur.com/KWyerMx.png
+114,2015-06-30 00:13:38+00:00,imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3bkmqh/an_lga_775_build_for_my_brother_ltt_style_in_the/,,,pcmasterrace,"An LGA 775 build for my brother, LTT style in the kitchen! Sorry for the potato quality, I can't do better with a Nexus 4.",http://imgur.com/a/cls8i
+115,2015-06-26 18:04:29+00:00,youtu.be,https://www.reddit.com/r/pcmasterrace/comments/3b7w6r/a_peasant_stick_yeah_thats_a_nice_name_for_it/,,,pcmasterrace,"""A peasant stick."" Yeah, that's a nice name for it.",https://youtu.be/aqWw8AEttyo?t=16s
+116,2015-06-23 14:08:58+00:00,self.gaming,https://www.reddit.com/r/gaming/comments/3atxtc/dont_get_hyped_for_battlefront/,,"Remember Battlefield 4? The 2 year dev time for a large multiplayer focused title? Trailers that made so many people preorder, hoping for a good game? The unplayable state on release? The broken netcode? This game will kill DICE just as SimCity 2013 killed Maxis. It will, just like BF4, cause many lawsuits etc. which for EA means that DICE is no longer a viable studio and that's totally not their fault - employees can work 24/7 and sleep under their desks, amirite? I don't want to hate on DICE, they're a great studio, but EA will fuck this game up. They're not gamers. They just want profit. They don't care about games, they only care about their wallet - remember that.
+
+In 2013 EA fucked up - SimCity and Battlefield 4 were awful on release. Because of enforcing awful DRM (and other things like less content than the previous games - JUST LIKE BATTLEFRONT) SimCity was a failure and led to the death of Maxis.
+
+In 2014 Ubisoft took the spotlight by releasing broken/rushed/overhyped/boring games. People forgot about EA.
+
+Now, in 2015 it's EA's time to be hated again. Battlefield Hardline had very little content to justify the $60 price tag. Battlefront is completely overhyped and will probably kill DICE.
+
+DO NOT PREORDER.
+",gaming,Don't get hyped for Battlefront.,http://www.reddit.com/r/gaming/comments/3atxtc/dont_get_hyped_for_battlefront/
+117,2015-06-23 14:06:52+00:00,self.pcmasterrace,https://www.reddit.com/r/pcmasterrace/comments/3atxix/dont_get_hyped_for_battlefront/,,"Remember Battlefield 4? The 2 year dev time for a large multiplayer focused title? Trailers that made so many people preorder, hoping for a good game? The unplayable state on release? The broken netcode? This game will kill DICE just as SimCity 2013 killed Maxis. It will, just like BF4, cause many lawsuits etc. which for EA means that DICE is no longer a viable studio and that's totally not their fault - employees can work 24/7 and sleep under their desks, amirite? I don't want to hate on DICE, they're a great studio, but EA will fuck this game up. They're not gamers. They just want profit. They don't care about games, they only care about their wallet - remember that.
+
+In 2013 EA fucked up - SimCity and Battlefield 4 were awful on release. Because of enforcing awful DRM (and other things like less content than the previous games - JUST LIKE BATTLEFRONT) SimCity was a failure and led to the death of Maxis.
+
+In 2014 Ubisoft took the spotlight by releasing broken/rushed/overhyped/boring games. People forgot about EA.
+
+Now, in 2015 it's EA's time to be hated again. Battlefield Hardline had very little content to justify the $60 price tag. Battlefront is completely overhyped and will probably kill DICE.
+
+**DO NOT PREORDER.**",pcmasterrace,Don't get hyped for Battlefront.,http://www.reddit.com/r/pcmasterrace/comments/3atxix/dont_get_hyped_for_battlefront/
+118,2015-06-17 15:01:36+00:00,i.imgur.com,https://www.reddit.com/r/AndroidMasterRace/comments/3a641t/making_your_phone_blazing_fast/,,,AndroidMasterRace,Making your phone blazing fast!,http://i.imgur.com/fHdRxWr.jpg
+119,2015-06-17 13:50:56+00:00,i.imgur.com,https://www.reddit.com/r/pcmasterrace/comments/3a5v7h/guys_check_out_my_overclock/,,,pcmasterrace,"Guys, check out my overclock!",http://i.imgur.com/fHdRxWr.jpg

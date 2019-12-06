@@ -1,0 +1,42 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-09-10 23:29:39+00:00,self.computervision,https://www.reddit.com/r/computervision/comments/525soq/drone_python_boolean_template_matching/,False,"Hi all, 
+
+I'm currently trying to implement a very quick and robust image processing program, that will recognize if an image is in the frame or not at different altitudes. We can match any object (such as a white paper in a field), however, we thought facial recognition with a printed out face is the easiest, as there are many open source projects already out there. 
+
+The best thing I have been able to find so far is this: (https://realpython.com/blog/python/face-recognition-with-python/), however, it has many issues. 
+
+
+1.) The processing is very slow, even with a potential tradeoff between speed and accuracy.
+2.) The scale factor has to be modified every meter the drone moves up, therefore proving to be very inaccurate.
+
+
+Are there any good solutions to this problem? ",computervision,Drone - Python Boolean Template Matching,https://www.reddit.com/r/computervision/comments/525soq/drone_python_boolean_template_matching/
+1,2016-07-21 01:36:09+00:00,self.pokemongodev,https://www.reddit.com/r/pokemongodev/comments/4tukmx/fast_pokemon_go_map_prebeta_pokenotifications/,False,[removed],pokemongodev,Fast Pokemon Go Map - Pre-Beta Poke-Notifications,https://www.reddit.com/r/pokemongodev/comments/4tukmx/fast_pokemon_go_map_prebeta_pokenotifications/
+2,2016-03-02 15:58:37+00:00,itunes.apple.com,https://www.reddit.com/r/apps/comments/48mqh8/damn_daniel_button_click_that_button/,False,,apps,Damn Daniel Button - Click That Button!,https://itunes.apple.com/us/app/damn-daniel-button/id1088111457?mt=8
+3,2016-03-02 03:47:58+00:00,self.legalhelp,https://www.reddit.com/r/legalhelp/comments/48kcuj/were_getting_sued_by_damn_daniel_and_need_help/,False,"Hi,
+So recently I made a pretty dumb app, which used sound effects from the ""Damn Daniel"" viral videos. I was just today contacted by the Damn Daniel kids' lawyers, asking me to remove the app from the app store, due to copyright infringements. Thanks for all replies!
+&gt; ""As the copyright owners of “Damn Daniel,” under the United States Copyright Act as set forth in 17 U.S.C. Section 106, Mr. Lara and Mr. Holz hold the exclusive rights to reproduce, display and distribute all images and content contained within the Damn Daniel video. Mr. Lara and Mr. Holz recently learned of this material being sold on iTunes making unauthorized use of, and exploiting, their intellectual property (the “Infringing Material”) by reproducing, displaying and distributing the images, sounds and other copyrighted content contained within the Damn Daniel video.""
+Is there anything I can do to comply with these standards, and not take the app down?
+",legalhelp,We're Getting Sued By Damn Daniel and Need Help,https://www.reddit.com/r/legalhelp/comments/48kcuj/were_getting_sued_by_damn_daniel_and_need_help/
+4,2016-02-28 23:41:17+00:00,apple.co,https://www.reddit.com/r/ios/comments/486zs3/damn_daniel_button/,False,,ios,Damn Daniel Button,http://apple.co/1QPQHjf
+5,2016-02-28 22:37:22+00:00,apple.co,https://www.reddit.com/r/apple/comments/486fu0/damn_daniel_app/,False,,apple,Damn Daniel App :)!,http://apple.co/1QPQHjf
+6,2016-02-27 20:26:59+00:00,self.apps,https://www.reddit.com/r/apps/comments/47xtl2/damn_daniel_button_game_for_ios/,False,[removed],apps,Damn Daniel Button / Game for iOS,https://www.reddit.com/r/apps/comments/47xtl2/damn_daniel_button_game_for_ios/
+7,2016-02-18 01:28:09+00:00,self.arduino,https://www.reddit.com/r/arduino/comments/46c8jn/how_to_use_hkt22_rotary_encoder/,False,"http://www.robotshop.com/en/hkt22-optical-rotary-encoder.html
+
+Does anyone know how to use this rotary encoder? 
+
+Here is the unassembled piece: http://prntscr.com/a4oq41.
+I managed to assemble it looking at the product description, etc;. However, now that I have assembled it, I am stuck with this picture. http://prntscr.com/a4oqfj.
+
+Where do all the wires go :D
+
+Thanks for the help!",arduino,How to Use: HKT22 Rotary Encoder,https://www.reddit.com/r/arduino/comments/46c8jn/how_to_use_hkt22_rotary_encoder/
+8,2015-11-21 07:17:52+00:00,itunes.apple.com,https://www.reddit.com/r/iosapps/comments/3to37l/dodgen_an_emoji_themed_fun_fastpaced_dodge_game/,False,,iosapps,"Dodgen - An Emoji Themed, Fun, Fast-Paced Dodge Game",https://itunes.apple.com/us/app/dodgen/id1002650365?ls=1&amp;mt=8
+9,2015-11-21 07:07:53+00:00,self.IPhoneApps,https://www.reddit.com/r/IPhoneApps/comments/3to2d8/dodgen_a_fun_fastpaced_dodge_game/,False,"It's a fast paced, emoji themed, dodge game, where you collect emoji smiley faces to receive EmotiBucks, which can be later redeemed for more emojis with special abilities and powers. 
+
+https://itunes.apple.com/us/app/dodgen/id1002650365?ls=1&amp;mt=8",IPhoneApps,"Dodgen - A Fun, Fast-Paced Dodge Game",https://www.reddit.com/r/IPhoneApps/comments/3to2d8/dodgen_a_fun_fastpaced_dodge_game/
+10,2015-09-18 01:34:06+00:00,self.whatsthisworth,https://www.reddit.com/r/whatsthisworth/comments/3ldm0d/7_days_on_san_diego_beachfront_house_condo/,False,"Hey guys, 
+
+Wondering how much people would pay for this? As the title literally implies, it's a beachfront house / condo, and the stay would be for one week.
+
+Thanks for the replies!",whatsthisworth,7 days on San Diego Beachfront House / Condo,https://www.reddit.com/r/whatsthisworth/comments/3ldm0d/7_days_on_san_diego_beachfront_house_condo/

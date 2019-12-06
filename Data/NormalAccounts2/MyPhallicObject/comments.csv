@@ -1,0 +1,700 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,Opening braces on a new line is against Java convention. Please refrain from doing so.,2016-11-18 23:21:42+00:00,da6bv3y,1.0,t3_5dobs9,13872.0,ProgrammerHumor
+1,"&gt;  When we trivialize these occurences, we ignore the injustices that were commited during Martial Law.
+
+Nonsense.
+
+Human rights were violated in the Martial Law, that was tragic. It doesn't take a Martial Law for people to realize people dying is terrible, but we've seen it, and it's real.
+
+This burial event here has been controversial because, at least so far I've heard, people are suddenly going to think highly of the Marcoses now. And frankly it doesn't matter what people think of them. What matters is the PH Protects the human rights and that martial law doesn't happen again. The image of the Marcoses are irrelevant.
+
+And speaking of human rights, are there not other rights we have to look into? Maybe women rights with abortion? LGBTQ+ equality? 
+
+It's time to direct our attention from thinking about the image of the Marcoses and into the minorities and the *actual* injustice today.",2016-11-18 16:06:35+00:00,da5rv8s,7.0,t1_da5rm8z,329.0,Philippines
+2,"Well now, aren't you just a ray of sunshine?",2016-11-18 15:42:51+00:00,da5qse3,3.0,t1_da5qgne,438.0,Philippines
+3,"&gt; trying to rehabilitate their image
+
+Is this what we have resorted to? Arguing about a family's *image* while others are talking about human rights in the middle east, economies dropping, and so on.
+
+Can you even *hear* yourself?",2016-11-18 15:39:10+00:00,da5qmhe,5.0,t1_da5q77f,575.0,Philippines
+4,"&gt;tell us what we should be talking about right now
+
+Seriously?
+
+How about these for a change?
+
+* LGBTQ+ marriage / rights equality
+* Divorce
+* Gun rights vs Gun control
+* China
+
+and a couple hundred others. Every single one more important than petty politics.",2016-11-18 15:36:57+00:00,da5qiw2,2.0,t1_da5q75v,444.0,Philippines
+5,"&gt;We gave a plundering, murderous dictator
+
+A dead body.
+
+&gt;a hero's burial
+
+Do whatever ritual you want to do to it. Dance to it, sing to it, it doesn't matter. It's incredibly trivial. At the end of the day it's a dead body on the ground.
+
+&gt;paving the road for their return to power
+
+Because the body was buried? 
+
+
+This issue will blow over in a month or so, mark my words. ",2016-11-18 15:22:09+00:00,da5pvfj,3.0,t1_da5piu3,477.0,Philippines
+6,"I've said it before and I will say it again:
+
+America: ""We just elected a president that thinks Climate Change is a hoax by China and a bigoted vice president""
+
+Britain: ""We're leaving the European Union, economy is collapsing and the pound is dropping""
+
+PH: ""We buried a dead body in the wrong place""
+
+
+Do we *seriously* not have better things to talk about? We are *so* shallow it's embarrassing. While others are experiencing real, actual issues we're arguing about where to drop a dead body.
+
+Christ. ",2016-11-18 14:55:48+00:00,da5or17,1.0,t3_5dmcrx,5634.0,Philippines
+7,How does anyone like this? It looks terrible.,2016-11-16 22:49:35+00:00,da3eulw,1.0,t3_5d9qkc,26686.0,apple
+8,"&gt;I would go with spring boot in back end and react frontend now.
+
+This is *exactly* my project right now! It's almost like you could read what I was thinking.",2016-11-05 12:39:54+00:00,d9ms9sf,2.0,t1_d9ms2nh,583.0,webdev
+9,"Thank you so much, this is exactly what I'm looking for!",2016-11-05 10:44:09+00:00,d9mq8z0,2.0,t1_d9mq5b7,401.0,learnprogramming
+10,"In simpler terms,
+
+    ArrayList x = new ArrayList();
+    x.add(new Object()); //Object in list
+    x.remove(0); //Remove reference to object
+
+This deletes the object. In more detail, the Java Garbage Collector (GC) removes it automatically for you because there are no ""references"" to the object. Meaning, there is no way to access the object.
+
+Here's another way in which an object can be deleted (collected by the GC):
+
+    Object x = new Object(); //Initial Object
+    x = null; //Replaces variable contents with null value
+
+The null value takes over the object. Since there is no way to call the object (there aren't any ""references""), it then deletes (collected by the GC) the original object created. ",2016-11-05 10:06:21+00:00,d9mpor6,3.0,t1_d9mos58,3689.0,learnprogramming
+11,"    var varsForSale:List&lt;Vehicle&gt; = ArrayList&lt;Vehicle&gt;()
+    carsForSale.add(Car(""Volvo plz"", ""740""))
+
+FTFY",2016-11-02 23:17:12+00:00,d9j40da,2.0,t1_d9i3xvh,53589.0,ProgrammerHumor
+12,"`class Dog(dog: Dog) {}`
+
+FTFY",2016-11-02 10:59:03+00:00,d9i6lui,4.0,t1_d9i3kga,10598.0,ProgrammerHumor
+13,"`var dog = Dog(""dog"")`
+
+FTFY",2016-11-02 03:38:21+00:00,d9hwngx,1.0,t3_5amzrv,9901.0,ProgrammerHumor
+14,"This is barely helpful at most, and condescending at least. Thanks for nothing.
+
+
+#To anyone else looking for a helpful answer to the question, here it is:
+
+There is a way for one programming language to communicate with another, it is called a [Web Service](http://www.javatpoint.com/web-services-tutorial).  In other words, web service provides a way to achieve interoperability.
+
+A way to send JSON from Java to a JavaScript app for instance, would be through a web service built on REST. 
+
+[Here is a great YouTube series I've found that teaches how to create a Java app that achieves exactly this](https://www.youtube.com/watch?v=xkKcdK1u95s&amp;list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn). 
+
+",2016-10-30 11:21:46+00:00,d9du120,,t1_d96rzat,,learnprogramming
+15,"The link helps, because there are other non-Java systems that will be interacting with the server to grab the file, and I assume it would need a link to retrieve the file. 
+
+",2016-10-25 07:48:38+00:00,d96rqlu,4.0,t1_d96r7da,1761.0,learnprogramming
+16,"I should probably clarify, the server is still being planned. I need a way to somehow generate a web link from Java where if a computer connects to that link, it would download the file. How would one do that?",2016-10-25 06:54:49+00:00,d96qq76,2.0,t1_d96qa4u,1291.0,learnprogramming
+17,Thank you so much!,2016-10-25 05:01:09+00:00,d96o29v,2.0,t1_d96fib9,13647.0,learnprogramming
+18,"&gt;program
+
+App. App. Say it with me. APP. ",2016-10-20 13:37:02+00:00,d909bbt,2.0,t1_d8zxtc7,30690.0,apple
+19,"was it really his fault?
+
+maybe the dead guy should have stepped aside because there's a 5,000 pound piece of metal that wants to move?? honestly if he was dumb enough to be that close to it then he deserved it. /r/darwinawards",2016-10-19 10:54:06+00:00,d8ykcuq,2.0,t1_d8yf8ij,16727.0,Philippines
+20,"Why is camera good? It's missing OIS, a very basic feature even the iPhones have had for TWO years now. ",2016-10-19 07:32:15+00:00,d8ygu4r,2.0,t1_d8x6gfv,63986.0,Android
+21,Kotlin makes C# look bad. ,2016-10-07 06:58:40+00:00,d8hllak,,t1_d8e3u8n,,ProgrammerHumor
+22,Wow. That is five years old and it still looks better than the new Pixels. ,2016-10-05 02:41:06+00:00,d8ei3c4,5.0,t1_d8dsekz,33122.0,Android
+23,"Thanks, this helped.",2016-10-02 15:19:56+00:00,d8atvkr,2.0,t1_d8atcvg,849.0,SQL
+24,"Classic Java. 
+
+Fix for this would be Command + Option + K (Convert to kotlin)
+
+Then inside the companion object, 
+
+`val version = //your string`
+
+Never deal with Java again. ",2016-09-20 15:09:39+00:00,d7unolh,1.0,t3_53mmon,18991.0,ProgrammerHumor
+25,"Not Apple - Foxconn. And Foxconn has more customers than Apple, including Microsoft and Google.
+
+But you're not going to say Fuck them, would you? No, because you don't really give a shit about children in China building products. You just really want to hate Apple. And that's just pathetic.
+
+Here's a list of Foxconn's other customers:
+
+* Acer Inc.
+* Amazon.com
+* Apple Inc.
+* BlackBerry Ltd.
+* Cisco
+* Dell
+* Google
+* Hewlett-Packard
+* Huawei
+* InFocus
+* Microsoft
+* Motorola Mobility
+* Nintendo
+* Nokia
+* Sony
+* Toshiba
+* Vizio
+* Xiaomi",2016-09-16 13:53:20+00:00,d7p7jrc,3.0,t1_d7p5tgr,2776.0,worldnews
+26,"Apple's A9 already competes head-to-head with Android's finest, A10 is 50% faster than A9.",2016-09-12 23:24:16+00:00,d7k919i,1.0,t3_52hdfk,36.0,AndroidMasterRace
+27,&gt;returns nothing on function with int return type,2016-09-11 17:39:15+00:00,d7iegmu,3.0,t1_d7fpgvq,181838.0,ProgrammerHumor
+28,"Take note of the superior installation process of Mac OS. Gone are setup wizards, all you have is the app itself. Consequently, it doesn't have uninstallers. Deleting an app is simply dragging to the bin. 
+
+Microsoft, take note. ",2016-09-11 17:35:05+00:00,d7ie9g8,2.0,t1_d7i95hw,7037.0,ProgrammerHumor
+29,Go beyond just replacing your Samsung. Learn from it. Get Apple.,2016-09-11 12:40:42+00:00,d7i3tag,,t1_d7b0x14,,GalaxyNote7
+30,Do you want an exploding phone or a phone without a headphone jack?,2016-09-10 10:55:55+00:00,d7gtb8r,1.0,t3_521fim,25156.0,Smartphones
+31,"I am livid. Ever since he's become president he thinks he's some hot shot big guy. 
+
+Well, big guy, who's going to save your ass when China decides to go after you?
+
+",2016-09-05 13:21:32+00:00,d7a7rxs,1.0,t3_5195ls,3737.0,Philippines
+32,"Ah, yes I am. 
+
+Running Windows 10 on bootcamp and really unhappy with the keyboard shortcuts.",2016-09-03 11:06:51+00:00,d77vdj3,2.0,t1_d77uaq9,4397.0,Windows10
+33,I need to change Windows 10 keyboard shortcuts to my preference.,2016-09-03 05:13:09+00:00,d77pgfh,2.0,t1_d77ons8,1911.0,Windows10
+34,But will they give me as much bass as my Beats?,2016-08-31 12:38:56+00:00,d73wfl0,5.0,t1_d73r3c5,15889.0,headphones
+35,"Joke's on you, I use IntelliJ
+
+
+
+^(Seriously though nobody should use the monstrosity that is Eclipse)",2016-08-28 01:45:11+00:00,d6zhaxk,1.0,t3_4zuwy0,33829.0,ProgrammerHumor
+36,"CAN WE PLEASE ADDRESS THE ISSUE HERE. 
+
+Neither fag nor autistic is an insult. This is demeaning to these minorities. it's 2016, what are you degenerates doing with this language? Being gay is okay, and so is being autistic. These people did not choose to be this way, you all should know better. 
+
+Jesus christ. This should not have had to be said. ",2016-08-25 11:57:10+00:00,d6vy53d,1.0,t3_4zglfk,29663.0,classic4chan
+37,"I'm confused, how would I deal with it?",2016-08-13 04:17:05+00:00,d6fjbw4,2.0,t1_d6ff6sg,7526.0,javahelp
+38,My school required a haircut for boys. ,2016-08-10 12:00:45+00:00,d6boqh6,1.0,t3_4x1ru6,33.0,AskReddit
+39,"This is horrible. How could you recommend eclipse to a beginner? IDEs can shape a person's way of code and eclipse is no way to be it.
+
+Honestly, IntelliJ not only exceeds everything eclipse does, it's by far the best in the industry. 
+
+OP, Community Edition is free, but if you insist on not IntelliJ, at least go with NetBeans. Eclipse is a massive no no.",2016-08-07 12:09:12+00:00,d67phpp,,t1_d1u2v22,,java
+40,"Do you ever see a photo of a white couple with a title describing that they're white? I don't think so. This is double standards, and in 2016 we have no room for such. 
+
+#**Couple in their wedding finery, 1920s**",2016-07-17 08:05:11+00:00,d5ffyn6,3.0,t1_d5faxuk,13655.0,OldSchoolCool
+41,"On the other hand, this is a list of ransomware that has ever infected iOS in it's entire history:
+
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+",2016-07-10 12:57:56+00:00,d56lnnr,2.0,t1_d561d7v,49388.0,Android
+42,Now y'all gotta listen to what Valve's sayin with this update. TF2 is `@Deprecated` and the next major update y'all lookin for [is this way](/r/Overwatch),2016-07-10 02:58:56+00:00,d568s1n,2.0,t1_d562biq,11746.0,tf2
+43,"Why is this Java code in such cancer of a bracketing? Have they not taught your friend Glenn that Java conventions are to have them at the end of line? (as any proper language should be, to hell with C#).",2016-07-08 11:13:08+00:00,d5442kz,5.0,t1_d52uzon,72978.0,ProgrammerHumor
+44,"I already solved it a while ago, but yes, this was the problem.
+
+Thanks.",2016-06-29 12:36:11+00:00,d4sghuk,2.0,t1_d4s238c,36701.0,javahelp
+45,"Well I have, especially with all the bokeh pornography lust some people have. ",2016-06-26 12:34:01+00:00,d4ojngd,2.0,t1_d4ojj0e,385.0,photography
+46,"I've seen a lot of comments saying this and yet I've yet to find a comment that does mention why. 
+
+After all, why not? If intended, 1.8 brings a shallow depth of field, and in some cases, the shallower the more attractive the photo. 
+
+",2016-06-26 12:03:39+00:00,d4oj3j8,2.0,t1_d4ns82z,61810.0,photography
+47,"Male portraiture is difficult portraiture. Women open up, they're easy to pose. It's why female portraiture is everywhere. Capturing the male is an endeavor, and photos that do are truly mesmerizing. 
+
+What a great photo. ",2016-06-26 11:39:59+00:00,d4oioyn,1.0,t3_4pv35v,42472.0,analog
+48,I feel like this could have been a lot blurrier if it were shot wide open. I'd love to see that,2016-06-22 11:43:48+00:00,d4j8wh3,1.0,t3_4p81gi,38867.0,analog
+49,"It wouldn't catch on. Some of the posts here have missing parts, some don't have any of the three at all. 
+
+I would prefer a ""lab scan unless otherwise stated"" kind of system. ",2016-06-22 11:42:10+00:00,d4j8v1c,1.0,t3_4pa3ap,2344.0,analog
+50,I love you,2016-06-22 07:36:21+00:00,d4j4env,4.0,t1_d4j27i0,6210.0,food
+51,I died,2016-06-21 23:00:39+00:00,d4inn4i,3.0,t1_d4i8kfl,19370.0,photography
+52,"#*Play of the Game*
+^***/u/ProfessorFakas***
+
+***As Pyro***",2016-06-20 00:27:14+00:00,d4fz4ty,1.0,t3_4otg0p,37001.0,tf2
+53,"How would you describe the light then, was it pitch black or was it just dim? 
+
+I'm genuinely surprised at how much little light it takes to create light leaks. ",2016-06-15 12:37:58+00:00,d4a2vnv,2.0,t1_d4a2qum,273.0,analog
+54,"In general, Portra for portraits (it's in the name!) and Ektar for outdoor, preferably bright photography. Although Ektar can be used for portraits (I've seen some, it can be lovely), it tends to capture a lot of red so if you're shooting white people, they can appear unnaturally red. Other complexions are fine though. Ektar captures colors a lot more than other films, so you can expect some saturation. 
+
+Portra too is used in landscapes, however Portra, unlike Ektar, tones are softer. It might appear dull, though I've seen great landscape photos with Portra. 
+
+There are general films, yes. Kodak Gold is an example. Very versatile. 
+
+36 exposures does not always mean 36 photos. There are panoramic cameras that take two spots (or one and a half) frames in the film, so they may end with less photos. ",2016-06-15 12:23:49+00:00,d4a2h02,4.0,t1_d4a1yuf,1150.0,analog
+55,"Absolutely. Get in it, you might love it. 
+
+There are advices out there however that will advise you to buy cheap film to start with. Ignore these advices, your photos will end up terrible, especially with the ridiculously cheap ones and the expired. Get Portra and/or Ektar depending on what you're shooting. Black and white Illford or T-MAX/TRI-X if you're into that. Settle for nothing but premium fine grain film. ",2016-06-15 12:01:21+00:00,d4a1vx1,2.0,t1_d48gqwf,104295.0,analog
+56,"I would chose the Ektar but I wouldn't push it. It's a camping trip - daylight is enough exposure. Night photography can be a problem, and that's where another roll can come in handy. 
+
+",2016-06-15 11:50:52+00:00,d4a1ml5,2.0,t1_d4744qh,181033.0,analog
+57,"Are you, quite literally, asking /r/photography for a FREE camera?
+
+Did you really expect to get one? ",2016-06-14 01:08:06+00:00,d484cff,1.0,t3_4nxt7x,14829.0,photography
+58,Have you been living under a rock? It's only the biggest event yearly in all of Silicon Valley. It's humiliating to even ask 'what is WWDC',2016-06-13 17:27:07+00:00,d47jq2l,2.0,t1_d47fmul,5303.0,Android
+59,"&gt; Oh I was unaware that Apple had a monopoly on electronic components.
+
+Your beloved OP himself [is having a hard time accessing Apple components](https://np.reddit.com/r/IAmA/comments/4nn5zv/iama_electronics_repair_technician_hated_by_apple/d45av6n)
+
+
+&gt;I know the difference between a PSU and a graphics card. 
+
+You really are dumber than I thought. You can't recover files from a graphics card.
+
+This only proves you're too dumb for anything I have to say and I'm wasting my time here.
+",2016-06-12 04:49:51+00:00,d45oimo,18.0,t1_d45odl4,318.0,IAmA
+60,"Honey, /r/talesfromIT knows it best. People are idiots. Once, a person brought in a PSU to the IT department and asked them to ""recover files from this HDD"". I'm starting to think you're no smarter than that person. 
+
+Apple does these certifications so when a repair happens it's less likely to be fucked. If you are an Apple Authorized Service Provider, you get access to Apple's spare parts inventory. 
+
+ ",2016-06-12 03:41:10+00:00,d45mnc8,16.0,t1_d45m5xr,967.0,IAmA
+61,"&gt;Hate to break it to you but apple doesn't ""repair"" shit.
+
+Oh but they do. They do order parts and repair them. I have had some products of mine sent out for repair and they come out either with new battery, display, keyboard set, and so forth. How do I know it's not a new product? The dents on the outside are still there. Now if you're insisting they made those dents for the sake of covering the fact that they switch out products you're plain delusional.
+
+&gt;people would blame Toyota if they took their car Joe's Mechanic shop resulting in a botched repair
+
+Yes. You have no idea how incompetent people can be (look at yourself, for instance). People in services division, **especially** IT knows. Apple can't risk reputation because some unaffiliated incompetent tool repaired an Apple product, so they have certifications for repairs.
+
+",2016-06-12 02:22:39+00:00,d45kabg,14.0,t1_d45jx1u,737.0,IAmA
+62,"No. Are you even capable of logic? If everyone is allowed to repair Apple products, there can be incompetent repair people that would be repairing Apple products that can make the situation worse and people turn to Apple, calling their repair jobs sleazy. 
+
+This is why Apple has certified personnel do the work only for people knowledgeable with Apple electronics. 
+
+But of course you wouldn't get this, you're too busy sucking OP's dick. ",2016-06-12 01:57:52+00:00,d45jjox,12.0,t1_d45h3jy,4772.0,IAmA
+63,"Well I hate to break it to you honey but the only people that were SUPPOSED to repair Apple products by design were Apple Authorized Service Providers. Apple never designed their products to be fixed by everybody. Apple has parts available for the ASP. Unless you are one, you're not entitled to an access to their parts. ",2016-06-12 00:19:06+00:00,d45gh0w,9.0,t1_d45f9f5,2267.0,IAmA
+64,"&gt;The reason some images use '.jpeg' and not just '.jpg' is because of Apple being Apple
+
+As an Apple® fanboy, iHave been triggered.
+
+The reason .jpeg exists is because the Joint Photographic Experts Group proposed it as the original file extension. However, because of Microsoft's inferior blue-screen-of-death extraordinaire operating system we all love to hate, this was not possible so it was cut down to just three letters. Apple's UNIX™ Architecture POSIX-Compliant™ Mac OS supported something as trivial as more than three letter file extensions however, so JPEG remained on Mac OS.
+
+If any fingers must be pointed, it must be towards Windows.",2016-06-11 14:45:37+00:00,d44wg7i,1.0,t3_4nd7cp,146415.0,ProgrammerHumor
+65,"Film is best preserved in cold temperatures so much that if preserved properly, it can be in perfect condition years after expiry date.  ",2016-06-06 14:01:47+00:00,d3y1rhs,2.0,t1_d3y1daa,655.0,analog
+66,"Everyone is saying go for it but let's put things in perspective here. 
+
+When you were twelve, he literally did not even exist. By the time you were a teenager, he was a mere infant that couldn't even walk. 
+
+When you turned 18 he was 6. Six. 
+
+This should give you something to think about. ",2016-05-30 14:18:43+00:00,d3p5n1j,1.0,t3_4lpdba,5502.0,askgaybros
+67,"You wanna talk about Apple hardware? Let's talk about Apple hardware. 
+Let's talk about 5400 RPM drives on the iMac and the 16 GB base model iPhone, as well as the monstrosity that is the MacBook iSight that barely passes for a camera. 
+
+Let's talk about the 2013 Mac Pro with a joke of a price for such outdated specifications. 
+
+Let's talk about how Apple refuses to place OIS on anything other than the plus model of the iPhone, crippling other models. 
+
+Then tell me that Apple hardware is amazing. ",2016-05-29 14:02:25+00:00,d3o0qr4,1.0,t3_4lkh1u,1056.0,apple
+68,"Is that supposed to be impressive? 
+
+iPhone 4S, released 2011, a day after Steve Jobs died. Received its most recent update a few days ago. 
+
+This is a half a decade old phone. 
+
+This is impressive. ",2016-05-29 04:31:59+00:00,d3nq4r9,4.0,t1_d3m87kz,114188.0,Android
+69,"Let's get a few things straight here, honey.
+
+* Command &gt; CTRL
+* Option &gt; Alt
+* Mac &gt; PC
+* Ferrari &gt; Honda
+* Premium &gt; Plebian
+* iPhone &gt; Android
+* Apple &gt; Everyone else
+
+So please, take your poverty stricken keyboard shortcuts elsewhere and CMD + Option+ ESC. 
+
+
+",2016-05-28 04:41:33+00:00,d3mnws3,4.0,t1_d3m5c1j,32519.0,woahdude
+70,The start of Heavy Feet too,2016-05-25 22:12:44+00:00,d3jo59g,2.0,t1_d3iqp0z,60710.0,TheNational
+71,"Are you kidding look at her shoulders. 
+
+And to everyone downvoting, please. Let's be *objective* and *rational* here. Fat is only an insult *because you make it out to be*. Unlike the word 'ugly', fat is **not** subjective. It is as precise as 1+1=2. So please, get off your high horses. Fat is not an insult. 
+",2016-05-22 13:07:29+00:00,d3f4y7j,4.0,t1_d3f4a6g,1903.0,lifeisstrange
+72,"#**HOW DOES IT NOT HAVE MT. WASHINGTON, THEIR MOST POPULAR SONG**",2016-05-20 10:47:25+00:00,d3crhcm,1.0,t3_4jou53,287725.0,localnatives
+73,"    if (Windows.getVersion().startsWith(""9"")) {
+    //Windows 95 &amp; 98 code
+    } ",2016-05-20 10:07:15+00:00,d3cqs5t,5.0,t1_d3cph64,4951.0,aww
+74,"&gt; if people are happy
+
+Are they really?  This very comment thread is about Apple pricing it too high. I don't think that's very 'happy'.
+
+&gt; People be like ""take my money Apple!""
+
+Not for accessories, they're not.",2016-05-09 15:34:33+00:00,d2yoijq,5.0,t1_d2yktls,5658.0,apple
+75,"&gt;We generally associate products with higher prices to be of higher quality. 
+
+But who is Apple kidding, really, Apple Watch Sport Bands are nothing but dried molten plastic on a mold.
+
+$40. 
+
+I'd bet my left nut it costs no more than $1  to make.",2016-05-09 15:24:14+00:00,d2yo2x7,4.0,t1_d2ya3h5,36723.0,apple
+76,"Cue the apologists:
+
+&gt;Apple will price their products however they want. If people buy them, people buy them. '*Greed*' matters not.
+
+
+",2016-05-09 12:21:56+00:00,d2yhvwv,3.0,t1_d2xwtc8,50240.0,apple
+77,did you get it yet,2016-05-07 06:02:37+00:00,d2w3uw8,,t1_d1znnkw,,Philippines
+78,"A lot of them uses a dated 2CR5 that most stores don't even carry anymore. You could get a battery pack for the camera though, it lets you use AA on it instead.",2016-05-04 00:04:31+00:00,d2rqwoj,2.0,t1_d2r4n35,29658.0,analog
+79,"The Windows version of Exposé lets you close windows instead of just clicking them.
+
+Windows 10 boots up faster than OS X.
+
+Windows 10 runs on old Macs that can only run Snow Leopard max.
+
+Windows 10 has multi-touch support.
+
+Windows 10 has DirectX which blows OpenGL on Mac away. Every game in my Mac library in steam, Windows 10 runs better with significantly more FPS. Apple has abandoned their graphics library and has no regard for gaming whatsoever.
+
+Honestly, it's not even a competition at this point. Apple has lost their Mac game, and Microsoft is bringing Windows back. While I admit Mac was better in it's golden days of Snow Leopard, it no longer is now. 
+
+You can nit pick against Windows security issues that will be fixed by a simple update, but you can't argue against the OS X flaws Apple can/would never fix (like DirectX, Multi-touch support, running on older Macs, etc).",2016-05-01 11:00:50+00:00,d2oaxs2,3.0,t1_d2oaoym,981.0,apple
+80,"Microsoft is the new Apple and Apple is the new Microsoft.
+
+Windows 10 is literally superior in every way in comparison to OS X, and I'm a long time OS X user. I have switched to Windows and literally can't think of one thing OS X does better.
+
+Surface Pro and Surface Book are Microsoft's way of reinventing the laptop and it's fantastic. The multi-touch display blows the Mac away. Apple's way of ""reinventing"" is by reducing ports and anorexia, the typical Jony Ive formula.
+
+Honestly, is Apple even trying?",2016-05-01 03:03:13+00:00,d2o1mix,1.0,t3_4h78qk,4573.0,apple
+81,"But the amount of grain is absolutely appalling.
+
+This scene deserved an Ektar.",2016-05-01 02:39:04+00:00,d2o0vqc,2.0,t1_d2ne38i,39466.0,analog
+82,"Of course what I meant was the golden age of Apple, when he returned to Apple in the late 90's and drastically cut down some products.
+
+But it's not even product expansion that I'm worried about, it's Apple's ridiculous focus on things like health, research and environment. Their keynotes now has more or less 20 minutes of preaching about their new Research, health and environment apps. When Apple was questioned on ROI on their Green Energy Project at an Investor's meeting, [Tim Cook lashed out at investors](http://www.cultofmac.com/268413/tim-cook-tells-profit-obsessed-investors-sell-stock/). 
+
+Apple needs to divert more attention to their main product line and less to these political projects Tim Cook is personally invested on.
+",2016-04-25 02:22:19+00:00,d2g2jvw,2.0,t1_d2g29ch,460.0,apple
+83,"[They refuse to release the Apple Watch sales count](http://bgr.com/2016/01/26/apple-watch-sales-figures/). [iPad sales are drastically falling](http://www.investors.com/news/technology/click/apple-ipad-sales-falling-twice-as-fast-as-overall-tablet-market/). [iPhone sales are stagnating](http://www.theweek.co.uk/iphone-7/68239/will-iphone-sales-drop-this-year) and analysts predict [a potential fall in sales](http://www.fastcompany.com/3055947/analyst-apples-iphone-sales-could-fall-17-in-the-march-quarter).
+
+
+The old ""Apple isn't doomed because they're still making money"" isn't as strong as it was before.  
+
+Apple needs to get back in focus if they want to stay relevant in this highly competitive market. And they can't do that by having their team dedicated to some health and research apps far too often. 
+
+",2016-04-25 02:17:03+00:00,d2g2cpk,2.0,t1_d2g27ic,221.0,apple
+84,"Steve Jobs is gone. 
+
+Apple Watch is a failure. iPad sales are dying and the iPhone is stagnating. 
+
+Apple is just another tech company with a pretty industrial design. 
+
+Tesla will still make superior electric cars but Apple will somehow make pretty ones. 
+
+",2016-04-20 14:55:21+00:00,d2ad3gf,3.0,t1_d29qvu0,47032.0,apple
+85,"If I have a 35-75mm zoom lens, why should I get a 50mm prime lens, for instance? Wouldn't the image be the same as though I set my zoom lens to 50mm?",2016-04-15 23:44:28+00:00,d24npxz,1.0,t3_4ewlwb,38521.0,photography
+86,It's weird. The subject is covered. I think it would look better if the subject were sticking out.,2016-03-28 09:18:22+00:00,d1g5tl3,1.0,t3_4c6ygi,47822.0,photocritique
+87,"    static void laugh() {
+        System.out.println(""HA!"");
+    }
+
+    psvm {
+        while(true) laugh();
+    }",2016-03-23 14:29:45+00:00,d1ahgvy,5.0,t1_d180ezw,164445.0,ProgrammerHumor
+88,"Fuck off, Microshill. Keep that shit to /r/pcmasterrace or whatever hellhole you came from. ",2016-03-23 14:05:46+00:00,d1agjt1,2.0,t1_d1aev10,2942.0,pics
+89,"Let's not kid ourselves, the only reason Samsung has this feature is because Apple did too. And I guarantee you in their software labs it's the iPhone they were looking at, not the Nokia. ",2016-03-06 23:38:54+00:00,d0q4f4f,2.0,t1_d0q2fs6,3203.0,Android
+90,#LOW ENERGY REPLY,2016-03-06 14:17:59+00:00,d0plbww,3.0,t1_d0pfw70,20783.0,AskReddit
+91,iOS 9 requires at least six digits of passcode. ,2016-03-05 12:00:10+00:00,d0ofvbd,2.0,t1_d0od8e7,11857.0,dataisbeautiful
+92,"Happy birthday! 
+
+Personally I'd just shut off everything and do whatever it is that makes me happy, as though it were my last birthday. 
+
+Eat my favorite food, listen to my favorite song, maybe go somewhere",2016-03-05 02:47:54+00:00,d0o548e,1.0,t3_4906i8,8535.0,CasualConversation
+93,Because that would be illegal.,2016-03-03 23:13:49+00:00,d0mn7x3,2.0,t1_d0mn5a2,110.0,legaladvice
+94,How dare thee mention the unholy brand!,2016-02-28 12:25:50+00:00,d0gt6vf,3.0,t1_d0glid9,26338.0,apple
+95,"Technically the amount of living cats has never changed, only the location of the kittens did. ",2016-02-22 08:26:55+00:00,d093azt,2.0,t1_d08zgbo,10777.0,aww
+96,Would you mind showing an example? I can't quite understand what you meant. ,2016-02-21 11:05:03+00:00,d080koa,2.0,t1_d080i5m,324.0,javahelp
+97,"Users such as myself paid $300, some even higher, for this device. Christ, there's even a $20,000 model. 
+
+We ARE entitled to a competent watch OS with such basic features. ",2016-02-15 00:31:21+00:00,d00437b,3.0,t1_czzqlh7,23433.0,apple
+98,"I'm new in Java, how is this crappy?",2016-02-14 00:55:13+00:00,czz18za,1.0,t3_4504nd,344289.0,shittyprogramming
+99,"&gt;In Japan Uniqlo is really uncool among young people. 
+
+Really? I thought it was popular. What made you think that?",2016-02-07 14:39:32+00:00,czr1wxf,2.0,t1_czqy4go,14190.0,malefashionadvice
+100,Polo shirts is a very controversial topic. What's your thoughts about it? Is it really an item of clothing to avoid?,2016-01-31 11:27:44+00:00,czihua5,1.0,t3_43impb,3412.0,malefashionadvice
+101,This works! Thanks!,2016-01-27 07:38:05+00:00,czdmo7e,2.0,t1_czdfbl7,15544.0,learnjava
+102,"There's a problem - It still asked for the comments.
+
+I entered ""Red 7.0"", yet it still asked for the comment. ",2016-01-27 03:09:42+00:00,czdez5p,2.0,t1_czda2wq,7518.0,javahelp
+103,I can't. The project requirements specifically asked that the user must not be asked,2016-01-27 03:05:10+00:00,czdet1v,2.0,t1_czdedpl,675.0,learnjava
+104,It's like you didn't read the guide at all.,2016-01-23 11:50:48+00:00,cz8uqn6,2.0,t1_cz8ulzs,600.0,GlobalOffensive
+105,"It's not just about being unranked, it's still competitive in every way: Leaving can get you banned, TKing can get you banned, anti-cheat is still there, and so on. 
+
+The only thing that changes is literally no rank. ",2016-01-19 10:55:52+00:00,cz3t3z0,4.0,t1_cz2vppg,62763.0,GlobalOffensive
+106,"Say what you will about the TK, but it really IS frustrating being ignored in a competitive game. 
+
+The TK may be unjustified, but the anger was. ",2016-01-19 10:07:55+00:00,cz3sehk,4.0,t1_cz3os5f,12582.0,GlobalOffensive
+107,"Being public is one of Apple's biggest problems right now IMO. If Apple went private, surely they can afford to trim a lot of their profit margins and lower their prices. No shareholder pressure to care about, just innovation. ",2016-01-01 03:35:44+00:00,cyhzunf,4.0,t1_cyhi8wt,33155.0,apple
+108,"I got these gorgeous [Fossil Aiden EW Messenger bag](https://www.fossil.com/us/en/men/bags/messenger/aiden-ew-messenger-sku-mbg9252201c.html) for around ~$200. Absolutely gorgeous. Fits my 15"" MacBook perfectly, along with some others. [They have others, too](https://www.fossil.com/us/en/men/bags/messenger.html).",2015-12-31 05:54:36+00:00,cyh1i2o,1.0,t3_3yvmuc,1768.0,malefashionadvice
+109,"What a joke. As if Craig Federighi tells his engineers to insert code that will intentionally slow down older devices. People sue for anything and everything these days. Only in America.
+
+",2015-12-30 12:38:18+00:00,cyg2jy8,1.0,t3_3ypyxm,43612.0,apple
+110,"So they gave free formula and they got shit for it? What is this lack of gratitude? If anything, Nestle should be thanked. ",2015-12-23 03:03:25+00:00,cy8joki,8.0,t1_cy82lty,27825.0,AskReddit
+111,"\- Steve Jobs, if he were to see this.",2015-12-08 12:38:48+00:00,cxrg3ec,2.0,t1_cxrfa3d,2815.0,apple
+112,"&gt;the iPhone is barely trending water at 16% on average with a lot of hills and valleys when people upgrade, but it's not going anywhere and really looks like it's declining somewhat.
+
+Honey, if you were in the stock market, you'd be broke.
+
+Keep sucking whatever kool-aid you're drinking.",2015-11-17 14:03:04+00:00,cx39fgo,11.0,t1_cx379rv,5728.0,technology
+113,"Just so every one knows this guy is in love with hating Apple, so take his posts with a HUGE grain of salt. He's shown up before and been rebutted many times but continues spreading the same fud, either misinterpreted or plain made-up.
+
+Apple isn't perfect (no one is) but he'd have you believe Tim Cook is hiding under your bed with a camera and tub of lube and Steve Jobs faked his death and is now the secret leader of the New World Order.
+
+I know Reddit isn't the biggest fan of Apple in the world, but this guy is just over the top nuts about them.
+
+He literally talks to himself in /r/AppleSucks",2015-11-17 03:53:32+00:00,cx2x0la,9.0,t1_cx2o8nk,14284.0,technology
+114,"Fuck the civilians, we're overpopulated anyway
+
+Give it to em, France",2015-11-16 00:11:01+00:00,cx1hm4d,1.0,t3_3sxrct,11544.0,worldnews
+115,shut the fuck up,2015-11-11 00:32:46+00:00,cwvyofo,6.0,t1_cwvn9er,17684.0,Android
+116,"And featured yet again in the hall of shame. 
+
+&gt;Cross the Philippines off my list of places to see.
+
+
+
+&gt;Do yourself a favor, stay away. I don't even want to go back right now.
+
+
+Fantastic. ",2015-11-03 22:25:33+00:00,cwnfe0a,1.0,t3_3rczrr,25716.0,Philippines
+117,"Hi, I'm a pretentious arse who wants to look sophisticated by adding a signature after my every comment. I think I look cool even though nobody else really does.
+
+-G.",2015-10-25 09:38:05+00:00,cwc1ah1,7.0,t1_cwbzftz,8292.0,Marvel
+118,2 vs 1 syllables. Gonna stay with Apps. ,2015-10-25 03:40:55+00:00,cwbutqz,2.0,t1_cwbt44q,3501.0,linuxmasterrace
+119,"USB and discs are ancient technology. It's 2015, not 2001. Use the cloud. ",2015-10-24 13:30:40+00:00,cwb4ad0,2.0,t1_cwb1enc,11178.0,linuxmasterrace
+120,-G.,2015-10-24 10:13:34+00:00,cwb19y1,2.0,t1_cwas3yi,28023.0,MAA
+121,[Here](https://www.reddit.com/r/Philippines/comments/2vncnm/anyone_here_got_a_paypal_account_maybe_using_bdo/?ref=search_posts) and [here](https://www.reddit.com/r/Philippines/comments/3i7boi/which_online_retailers_have_you_used_your_bdo/?),2015-10-08 13:58:01+00:00,cvsgqlp,4.0,t1_cvsg1ku,1287.0,Philippines
+122,"Wow, I was thinking of getting the MasterCard one for online stuff. Does it really not work anywhere? How about restaurants, do they accept those?
+
+I just read this article that said debit cards are supposedly more widely accepted than credit cards in stores, so now I'm really confused. ",2015-10-08 12:48:20+00:00,cvsemxe,2.0,t1_cuempmz,3840016.0,Philippines
+123,"This whole copy-paste irrelevant copy pastas isn't even funny. It never was, it never will. 
+
+Why these get upvoted is beyond me. ",2015-10-04 11:28:16+00:00,cvno6xi,2.0,t1_cvnica5,22955.0,circlejerk
+124,Is this 'Metal' thing Apple's alternative to OpenGL and DirectX?,2015-10-02 22:42:32+00:00,cvm7rpk,1.0,t3_3n7mlc,44164.0,apple
+125,"Of course it's the Nazis on the head of Human Rights. 
+
+Jesus, who runs the UN anyway? ",2015-10-02 05:06:52+00:00,cvler3s,5.0,t1_cvl5zud,16174.0,worldnews
+126,"Oh my god, are you joking? Am I on /r/atheism or on /r/gayrights? Last I checked, atheism means not believing Ina dirty, not supporting gays. It's not even relevant. ",2015-10-02 03:36:15+00:00,cvlc7wl,3.0,t1_cvkggao,50253.0,atheism
+127,"I sometimes picture that some sensible political makes parking on the bloody sidewalks illegal, which quite frankly it should be. The law might not be enforced though. We're too far gone in that regard. 
+
+",2015-10-01 12:10:45+00:00,cvke6b1,4.0,t1_cvke0o7,462.0,Philippines
+128,"I wouldn't say so. They really do believe there's a God up there, they just don't do the worshipping bit. 
+
+",2015-10-01 11:03:48+00:00,cvkd7on,2.0,t1_cvjfeat,66972.0,Philippines
+129,"You'll have better luck with eBay. The shipping will be absurd, that's just how it is. ",2015-10-01 11:01:58+00:00,cvkd6nv,1.0,t3_3mza06,68995.0,Philippines
+130,"Irrelevant, but Samsung is trash. If you want to go Android, try the all-new Nexus 6P, the LG G4, or a Motorola Pure. iPhones aren't a bad way to go to either. 
+
+As for uber, well it's really not like that much. I've had plenty of great rides. ",2015-10-01 10:59:42+00:00,cvkd5d2,3.0,t1_cvkd3zj,138.0,Philippines
+131,"Computer shops? They are absolutely dreadful. Kids have zero regard for etiquette, and not to mention the computers are complete trash. Might as well kill myself, I might enjoy that more. 
+
+Get a PC. Or a phone. Or an iPad. Anything. Anything but computer shops. ",2015-10-01 10:57:07+00:00,cvkd3tz,1.0,t3_3n2wll,8262.0,Philippines
+132,"None of them. Smoking causes cancer, and why you'd want to smoke is beyond me. Might as well take a knife to your chest, because that's essentially what you're doing anyway. ",2015-10-01 10:51:58+00:00,cvkd0z8,1.0,t3_3n2xn4,7057.0,Philippines
+133,"He is a homophobic, bigoted cunt. How could you like that?",2015-10-01 09:22:30+00:00,cvkbtj8,2.0,t1_cve95w8,471128.0,atheism
+134,"Oh my god, this.
+
+And the sidewalks are for walking, not for your blasted vehicles. I can't even take a good stroll without walking on the *road*. 
+
+&gt;you guys need to get rid of all those smokey jeeps and tricycles
+
+Fucking yes, please.",2015-10-01 02:08:55+00:00,cvk27ab,2.0,t1_cvjvtoq,10836.0,Philippines
+135,"/r/shitpost
+
+Literally the cringiest thing I've ever read, nor does it add to the discussion of the Master Race. This just strokes your ego.
+
+",2015-09-30 05:05:07+00:00,cvizmhh,1.0,t3_3mvdlz,34624.0,AndroidMasterRace
+136,Bloody colonists. ,2015-09-28 10:57:13+00:00,cvgr6pa,1.0,t3_3mmotb,43655.0,MURICA
+137,"You weren't wrong. 
+
+Now you are. ",2015-09-27 10:02:46+00:00,cvfnwv9,3.0,t1_cvfg39o,25192.0,AndroidMasterRace
+138,"`public static void main (string [] args)`
+
+Should have been a capital `S`",2015-09-26 09:27:55+00:00,cvenv8z,2.0,t1_cvenuni,82.0,java
+139,He got hard. He literally likes it. Fucking Men.,2015-09-19 12:48:20+00:00,cv6v7qo,2.0,t1_cv6ubil,3002.0,confession
+140,Where has this been all my life,2015-09-16 11:07:21+00:00,cv3cu4o,3.0,t1_cv35twt,26378.0,blunderyears
+141,"Kotaku... from Gawker? Lol they have such shit journalism. 
+
+",2015-09-16 09:33:09+00:00,cv3bjhd,2.0,t1_cv3bfw0,472.0,KotakuInAction
+142,"You just got me banned from /r/OffMyChest
+
+Wtf. 
+
+Reverse it. ",2015-09-16 09:10:49+00:00,cv3b96k,2.0,t1_cv3b6s4,312.0,KotakuInAction
+143,"A small price for the abolishment of ignorance. 
+
+Unless of course you still choose to believe the lies you've made for yourselves, then you are undeniably morons. ",2015-09-09 23:31:11+00:00,cuw6jdi,4.0,t1_cuw6bc2,396.0,pcmasterrace
+144,What are you to do about it? Are you going to shove me that inaccurate 'Apple claims to invent everything' argument? Which one of us would be the moron then?,2015-09-09 23:11:07+00:00,cuw5ugv,2.0,t1_cuw5ss1,83.0,pcmasterrace
+145,I'm educating you morons so you can actually have valid arguments for once. ,2015-09-09 23:09:39+00:00,cuw5sos,2.0,t1_cuw5qni,100.0,pcmasterrace
+146,"&gt;Best OS Ever
+
+
+You better delete that comment soon before people think you have a severe case of retardation. 
+
+If you actually mean it though, you do have a severe case of retardation and must see a mental doctor immediately. ",2015-08-31 23:39:25+00:00,cumfdz1,2.0,t1_cum4czb,17079.0,pcmasterrace
+147,"Try an operating system with far less bloat. It's the best solution. It also gets rid of all your Windows issues. 
+
+There are tons of great Linux distros that can help you with that, Arch with very minimal bloat. 
+
+",2015-08-31 13:41:55+00:00,culslba,1.0,t3_3j2rjs,5302.0,pcmasterrace
+148,"It's alright, dear. 
+
+These are the same people that chose PCs because they want freedom and yet are using a proprietary, inferior OS. 
+
+Logic isn't exactly their strong suit. ",2015-08-31 13:31:11+00:00,culsa1z,2.0,t1_culegqs,40107.0,pcmasterrace
+149,"If you're going to take a free OS, at least do it legally. 
+
+Thank god Linux is free. One of its great features, other than being virus-free, shit like this not happening, and just overall superior. ",2015-08-31 13:21:08+00:00,culrzy6,2.0,t1_culos26,9445.0,pcmasterrace
+150,"&gt;Something fucked my PC
+
+Was it Windows?",2015-08-30 23:51:17+00:00,cul9m1c,1.0,t3_3iyv7v,26972.0,pcmasterrace
+151,"I'm sure it would run, although I think drivers would be your biggest concern. 
+
+I'd get a laptop that is already popularly used with Linux. ",2015-08-30 14:59:40+00:00,cuks8r6,2.0,t1_cukrzej,566.0,linuxmasterrace
+152,They key word here is 'was'.,2015-08-30 14:16:11+00:00,cukr3h0,2.0,t1_cukpxl0,2591.0,linuxmasterrace
+153,"I agree. If only they could get a little more open minded and see what's on the other side. 
+
+Wake up, people. ",2015-08-30 14:14:25+00:00,cukr1ty,3.0,t1_cuk9kge,48517.0,pcmasterrace
+154,At least you people actually give Apple some merit. They hit it right when they did UNIX. ,2015-08-30 14:08:58+00:00,cukqwyo,2.0,t1_cukqudp,171.0,linuxmasterrace
+155,"Samsung is the cancer of Android. Avoid it like a plague.
+
+",2015-08-30 09:49:39+00:00,cukm2y0,4.0,t1_cuj4ach,129578.0,technology
+156,"http://www.theverge.com/2015/4/29/8514345/windows-spotlight-lock-screen-with-ads
+
+http://www.wired.co.uk/news/archive/2015-07/30/windows-10-paid-ad-removal-solitaire",2015-08-30 08:22:31+00:00,cukkusb,11.0,t1_cukkr26,415.0,pcmasterrace
+157,"Downvoted for expressing an opinion?
+
+It's amazing how you people don't see how cancerous you are.",2015-08-30 08:21:37+00:00,cukkuai,2.0,t1_cukekx6,17416.0,AndroidMasterRace
+158,"Well at least Windows is dying gradually.
+
+Windows 8 failed miserably.
+
+Windows 10 is a joke.
+
+The design itself is regression. Ads pollute first party apps and the lock screen. Paying for DVD playback is a joke. Viruses everywhere. Gabe Newell himself said Linux is the future of gaming and resented recent versions of Windows.
+
+#Wake up, sheeple. Windows is trash.",2015-08-30 08:02:53+00:00,cukkk9i,9.0,t1_cukkifz,197.0,pcmasterrace
+159,"If Windows never existed, Linux would have taken the most popular Desktop OS, just as Android did with phones. 
+
+What would suck is *this*, where great apps are being developed for a shitty platform and Linux is left without apps. It's terrible. 
+
+Shit like [this](http://i.imgur.com/kSBjc52.jpg) or [this](http://i.imgur.com/Rwc5dh1.jpg) would have never happened in a Linux world. ",2015-08-30 07:55:25+00:00,cukkg1n,7.0,t1_cukjzwv,1646.0,pcmasterrace
+160,"You're joking. Windows is the shittiest OS of all three, and the only reason it's widely used is because it has all the apps.
+
+Windows is **NOT** the Master Race. It's every bit as peasantry as consoles, which is why /r/ConsoleMasterRace and /r/WindowsMasterRace are both satirical.
+
+EDIT: Why the downvotes? **You sheeps are hypocritical.** You say you love the PC Master Race because it's 'free' and 'customizable', then you use this cancer of a proprietary OS. Sheeps, the lot of you. **Wake up.**",2015-08-30 03:54:42+00:00,cukf8nm,4.0,t1_cukf4nu,236.0,pcmasterrace
+161,"/r/WindowsMasterRace
+
+its not a bug its a featoor XDXD",2015-08-30 02:07:29+00:00,cukc2vc,2.0,t1_cuk7lfk,8672.0,pcmasterrace
+162,"&gt;I added my music library to iTunes, and oh boy was it bad.
+
+Have you tried learning the app? It couldn't be simpler. Drag music. Done. 
+
+Turn on manual syncing and then autofill.
+
+Literally all those three steps.
+
+If you wish to learn a new platform, take some steps and learn it, but if you choose not to then don't whine with ignorant comments. It's cancerous. ",2015-08-29 23:54:59+00:00,cuk7z1w,1.0,t3_3iutbv,28525.0,AndroidMasterRace
+163,"I'll say it: This is the worst launch ever.
+
+Even the original iPad did not take this long to get here. And now Apple Watch 2 is just around the corner, we don't even have the original.
+
+Terrible. 0/10, Apple. ",2015-08-29 07:16:49+00:00,cujjgy1,1.0,t3_3itm5y,1228.0,apple
+164,"Why is this on /r/Apple
+
+I don't happen to recall Apple making a Galaxy S6 phone. ",2015-08-28 15:06:45+00:00,cuioer0,1.0,t3_3io54f,50285.0,apple
+165,"&gt;Now your post is much more likely to get downvoted 
+
+Because too many people here suck google's dick",2015-08-28 14:22:42+00:00,cuimsqh,2.0,t1_cuijxtm,5685.0,apple
+166,*cringe*,2015-08-26 01:20:24+00:00,cufrn1n,3.0,t1_cufiju9,15280.0,blunderyears
+167,oh my god whatever okay,2015-08-26 01:16:48+00:00,cufrigd,6.0,t1_cufgiqr,18132.0,OldSchoolCool
+168,"Rouge mod removed you. Removed him, added you instead.",2015-08-26 01:04:28+00:00,cufr30n,1.0,t3_3idnag,16280.0,WindowsMasterRace
+169,They should have just went and destroyed North Korea when they had the chance.,2015-08-25 13:56:26+00:00,cuf1t09,1.0,t3_3ibrru,4596.0,NorthKoreaNews
+170,And you don't ,2015-08-24 10:58:50+00:00,cudrmeo,5.0,t1_cudq6cx,6110.0,worldnews
+171,"oh noes i follow le instructions but muh pc dunt hav the vista :c
+
+help plz",2015-08-23 08:35:19+00:00,cucnn0j,1.0,t3_3hyze4,65163.0,WindowsMasterRace
+172,"&gt;YOU MUST GIVE MONEYS$$$$
+
+AND MONTHLY
+
+GO SUBSCRIBE 2 LE SOLITAIRE PREMIUM",2015-08-23 02:02:11+00:00,cucemdq,1.0,t3_3hzrxb,27594.0,WindowsMasterRace
+173,"Because it's your cakeday, why not
+",2015-08-22 13:14:05+00:00,cubr5oz,2.0,t1_cubr4wn,68.0,linuxmasterrace
+174,Asshole.,2015-08-22 12:36:56+00:00,cubqf75,2.0,t1_cublqzv,19250.0,offmychest
+175,"Nope, we haven't. 
+
+I'm putting you in",2015-08-22 09:06:52+00:00,cubndcu,2.0,t1_cubn5xl,907.0,linuxmasterrace
+176,DIRECTSEX MASTER RACE,2015-08-22 05:54:47+00:00,cubkae3,1.0,t3_3hxvgr,752.0,WindowsMasterRace
+177,"Fuck, Indonesia is gigantic.
+
+And Russia is tiny.",2015-08-19 03:13:39+00:00,cu7uy4p,1.0,t3_3hj7lm,1678.0,InternetIsBeautiful
+178,He is fucking cute,2015-08-12 13:01:12+00:00,cu0b5ap,1.0,t3_3gpjmy,7306.0,Philippines
+179,Google = Hooli confirmed,2015-08-11 05:37:36+00:00,ctyvek5,1.0,t3_3gijto,28513.0,SiliconValleyHBO
+180,"Thank you, my sweet.
+
+This reddit thing is confusing sometimes",2015-08-11 01:25:12+00:00,ctynnxc,2.0,t1_ctxqvkn,64510.0,Mavericks
+181,"&gt;Gimme a below job honeybun
+
+Doesn't have the same ring to it",2015-08-10 06:21:07+00:00,ctxplo0,2.0,t1_ctxpj9f,192.0,todayilearned
+182,"Actually, [I won't be tipping](https://www.reddit.com/r/CasualConversation/comments/3f01a9/i_just_ordered_a_delivery_during_a_storm/ctk0d04)",2015-07-29 07:18:23+00:00,ctk0lyz,2.0,t1_ctk0l9d,63.0,CasualConversation
+183,"Food. Great food.
+
+",2015-07-29 07:17:17+00:00,ctk0l8i,1.0,t3_3f02hs,334.0,CasualConversation
+184,"Well, you know, there are a few things worse than cavity.
+
+Personally, I had $2,000 braces once put on me, then I didn't really stick around during the retainer stage, and so it kinda went back to it's previous form. $2,000 down the drain.",2015-07-29 07:13:56+00:00,ctk0j0c,1.0,t3_3f022n,444.0,CasualConversation
+185,"Tipping's not really in our culture over here. 
+
+If you give them tips, they'll think you are confused and gave a little too much.
+
+So yeah... no.",2015-07-29 07:05:09+00:00,ctk0d04,4.0,t1_ctk0c4r,75.0,CasualConversation
+186,"Maybe...
+
+I could also be a good guy. I just gave the delivery man a job",2015-07-29 07:00:44+00:00,ctk09zx,2.0,t1_ctk08in,125.0,CasualConversation
+187,"We're probably not in the same timezone.
+
+Also it's spaghetti. Love me some of those.",2015-07-29 07:00:15+00:00,ctk09np,2.0,t1_ctk08oe,84.0,CasualConversation
+188,"Aww. Getting new headphones are pretty exciting for me as well.
+
+My headphones are the Photive Bluetooth headphones. ",2015-07-29 06:59:34+00:00,ctk096i,1.0,t3_3f00wk,423.0,CasualConversation
+189,"Guys, the OP gave you a fucking link to free Civ V at $20 value and you just downvoted him.
+
+You ungrateful fucks.",2015-07-25 02:50:55+00:00,ctfc5ju,3.0,t1_ctetvbn,31609.0,apple
+190,"&gt; you will need to reinstall the extension
+
+ugh
+",2015-07-25 01:01:14+00:00,ctf8zt8,2.0,t1_cteukp6,24001.0,toolbox
+191,Did you even stop to think that maybe adding more would be an idiotic UX decision or do you just blindly hit Apple when you get the chance?,2015-07-24 14:39:21+00:00,ctelkge,1.0,t3_3ee96t,46407.0,AndroidMasterRace
+192,/r/Themes,2015-07-24 09:41:52+00:00,cteeljg,1.0,t3_3eb04i,86625.0,Sharknado
+193,"Nope, it's all good",2015-07-24 09:28:04+00:00,cteee5s,3.0,t1_cte1xlq,30389.0,OldSchoolCool
+194,"ur a shitpost
+
+-rep this guy is a fokin double a-hole",2015-07-24 09:14:56+00:00,ctee740,3.0,t1_ctec04s,7853.0,funny
+195,nobody cares hun,2015-07-24 06:51:40+00:00,ctebrbv,2.0,t1_ctebh1j,882.0,WTF
+196,http://dictionary.reference.com/misspelling?term=cringey&amp;s=t,2015-07-23 10:29:54+00:00,ctd7eyf,2.0,t1_ctd7ebe,66.0,words
+197,"Be a little rebel.
+
+Just go with it. It will end up much more nicely and less cringey that way.",2015-07-23 06:15:00+00:00,ctd385l,1.0,t3_3eag0j,3504.0,AskReddit
+198,Should have put a serious tag,2015-07-23 06:14:03+00:00,ctd37ea,1.0,t3_3eaibr,1931.0,AskReddit
+199,"What is this obsession with internet points?
+
+The only time you should ever care about your karma is when it's becoming too low that you can't comment or post anymore.
+",2015-07-23 05:22:55+00:00,ctd20x3,1.0,t3_3e7yf9,42907.0,ideasfortheadmins
+200,"People don't upvote what they don't want to see.
+
+If people wanted to see it, it would be highly upvoted. 
+
+Nothing's going to shit.",2015-07-23 04:47:17+00:00,ctd141b,2.0,t1_ctcznk7,2970.0,ideasfortheadmins
+201,"Although technically they could do what they did back in 2005 with Rosetta and the PowerPC to Intel transition.
+
+Tons of effort, but there's a solution.",2015-07-22 13:19:59+00:00,ctc217p,2.0,t1_ctbu4ho,26152.0,apple
+202,"This is true.
+
+Google has built an ecosystem and pulling over their Apps would be beyond idiotic.
+
+Google engineers themselves use Macs, if they pulled their apps they would generate a ton of hate from not only inside Google, but from outside as well",2015-07-22 13:12:42+00:00,ctc1tb0,3.0,t1_ctbvndp,21062.0,AndroidMasterRace
+203,"Read, then sleep.",2015-07-22 05:11:52+00:00,ctbsy63,1.0,t3_3e5rt7,3320.0,AskReddit

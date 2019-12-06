@@ -1,0 +1,296 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-12 18:11:49+00:00,self.mac,https://www.reddit.com/r/mac/comments/5cllsg/whats_the_best_windows_os_for_parallelscoherence/,False,"Have to run MS Project (ick). What's the best Windows version to run in Parallels/Coherence? By best, I mean best performance. 
+
+Appreciate the help.",mac,What's the best Windows OS for Parallels/Coherence?,https://www.reddit.com/r/mac/comments/5cllsg/whats_the_best_windows_os_for_parallelscoherence/
+1,2016-11-08 19:31:02+00:00,self.chicago,https://www.reddit.com/r/chicago/comments/5bvd3i/week_long_work_space_rental/,False,"Looking for an out-of-the-box work space rental idea. Would have to accommodate ~6 ppl and have reasonably day internet. 
+
+Preferably north side or near west side. 
+
+Thanks for your ideas.",chicago,Week long work space rental,https://www.reddit.com/r/chicago/comments/5bvd3i/week_long_work_space_rental/
+2,2016-10-31 18:20:24+00:00,self.malefashionadvice,https://www.reddit.com/r/malefashionadvice/comments/5ady8v/help_me_spend_600_on_work_pants_for_cold_season/,False,"I need new work pants for the fall/winter/early spring seasons. I will be traveling as a consultant to mostly white collar clients i.e., not suit coat and tie, like financial services and health care. I'm looking for advice on specific brands, styles or actual pants.      
+
+I would like to basically find 3-5 pairs (enough to get me thru 4-5 days on-site at a client) of higher quality slacks that are as versatile as possible:   
+1) I can dress them down or up a bit with a blazer but almost always will be worn primarily with a nice button-down shirt  
+2) Safer colors/patterns e.g., not giant purple houndstooth pattern  
+3) Fabrics that either appear to be or are slightly heavier or have some texture since I will be traveling to colder climates e.g., not linen or very thin/light cotton.  I'm thinking probably wool tweed.   
+4) Preferably something that wears and travels decently. I don't want to be a mess of wrinkles the second I sit down or get out of a car. But I also do not necessarily need pants that are treated with a chemical that guarantees no wrinkling.  
+5) I'm fine with self-laundering or dry cleaning options  
+6) A more modern or safe cut. No pleats or cuffs. Totally fine with having to take them to be hemmed.
+
+ Thanks very very much for your thoughts and help!  ",malefashionadvice,"Help me spend ~$600 on work pants for cold season, please.",https://www.reddit.com/r/malefashionadvice/comments/5ady8v/help_me_spend_600_on_work_pants_for_cold_season/
+3,2016-10-05 14:04:40+00:00,self.imagus,https://www.reddit.com/r/imagus/comments/55zm2k/imagus_causing_safari_technology_preview_release/,False,"Diagnosed the issue as being between Imagus and Safari Technology Preview Release 14. All other extensions were disabled. This issue was not present in prior releases of Safari Technology Preview.   
+
+Steps to recreate crash:  
+1. Install and run Safari Technology Preview 14  
+2. Install Imagus extension in aforementioned browser  
+3. Navigate to Reddit  
+4. Hover over ***imgur ~~or similar image host~~ link   
+5. Browser tab ""crashes"" and displays the error message and popup linked below. 
+
+Details on Technology Preview Release: https://developer.apple.com/safari/technology-preview/    
+Error Message and Popup Screenshot: http://imgur.com/a/dFwIz  
+MacOS Crash Report:
+
+*** Edit: appears to only crash with imgur but not with redditupload",imagus,Imagus causing Safari Technology Preview Release 14 to crash on hover,https://www.reddit.com/r/imagus/comments/55zm2k/imagus_causing_safari_technology_preview_release/
+4,2016-09-18 13:01:04+00:00,self.FloridaGators,https://www.reddit.com/r/FloridaGators/comments/53c1sk/where_can_i_download_the_n_texas_game/,False,It is becoming harder and harder to find Gator games. Appreciate any help.,FloridaGators,Where can I download the N. Texas game?,https://www.reddit.com/r/FloridaGators/comments/53c1sk/where_can_i_download_the_n_texas_game/
+5,2016-09-18 03:34:04+00:00,self.chicago,https://www.reddit.com/r/chicago/comments/53am1r/how_to_load_transit_value_or_passes_to_your/,False,"I have asked several CTA employees about this and no one has a clue what I'm talking about. It is right on the Ventra website.
+
+Under ""Can I use an iPhone 6/6 Plus or Apple Watch with Apple Pay to board with Ventra?""
+
+""You can also load transit value or passes to your iPhone 6 or 6 Plus at a Ventra Vending Machine to take advantage of transfer discounts. Be sure to have the same funding source selected within Apple Pay every time you touch your device to a fare reader. Learn more about using mobile wallets with Ventra.""
+
+https://www.ventrachicago.com/featured-questions/#386
+",chicago,How to load transit value or passes to your iPhone 6 or 6 Plus at a Ventra Vending Machine?,https://www.reddit.com/r/chicago/comments/53am1r/how_to_load_transit_value_or_passes_to_your/
+6,2016-09-16 14:25:04+00:00,self.googlecloud,https://www.reddit.com/r/googlecloud/comments/5324si/best_value_google_cloud_training_for_certification/,False,"A number of free and very inexpensive training courses have been developed to help prepare for AWS certification. What are the best values out there for Google Cloud certifications? 
+
+Reddit and Subreddit search yields nothing. 
+
+Appreciate the direction.",googlecloud,Best value Google Cloud training for Certification,https://www.reddit.com/r/googlecloud/comments/5324si/best_value_google_cloud_training_for_certification/
+7,2016-09-15 19:40:52+00:00,self.HomeNetworking,https://www.reddit.com/r/HomeNetworking/comments/52xyv4/troubleshooting_jumbo_frames_and_reverse_proxy/,False,"I am having difficulties accessing services exposed through a reverse proxy from my laptop when both my laptop and the server providing those services and the reverse proxy are on the same intranet. 
+
+Here's the setup: Jumbo frames is configured on the NAS server configuration, the router and my MacBook. 
+
+When I access the aforementioned services via http://IP:port i.e., http://192.168.0.111:12345, I am able to load the webpage without problem.
+
+When I access the aforementioned services via nginx reverse proxy i.e., https://mydomain.com/theservice, my browser just appears to load forever and never actually shows the webpage. 
+
+I have tested across several browsers and I have the same problem when I use a separate application UI that fetches data through the reverse proxy as well. 
+
+I have diagnose this down to jumbo frames. When I set MTU on my MacBook to 1500, I can access the websites/services just fine from the reverse proxy. When it's set to 9000, I cannot. 
+
+What am I doing wrong? 
+
+Thanks for your help!",HomeNetworking,Troubleshooting Jumbo Frames and Reverse Proxy,https://www.reddit.com/r/HomeNetworking/comments/52xyv4/troubleshooting_jumbo_frames_and_reverse_proxy/
+8,2016-09-07 12:02:56+00:00,self.tenyardtracker,https://www.reddit.com/r/tenyardtracker/comments/51kw6d/umass_vs_florida_week_1_request/,False,"Noticed no one signed up for it on the schedule. If you have SEC Network, would you be so kind as to cap the game from this past weekend?
+
+Thank you. 
+",tenyardtracker,UMass vs Florida Week 1 Request,https://www.reddit.com/r/tenyardtracker/comments/51kw6d/umass_vs_florida_week_1_request/
+9,2016-08-05 20:11:20+00:00,self.legaladvice,https://www.reddit.com/r/legaladvice/comments/4wcdtc/neighbor_preventing_access_to_exterior_wall_for/,False,"Issue is in Palm Beach County, FL.   
+
+An exterior portion of a home wall is damaged and is causing flooding in the house. The home wall is up against or very close to the property line. The exterior wall needs to be repaired. The only way to get access to the exterior wall is to go into the neighbor's yard either through the gate or jumping the wall/fence/gate.  
+
+The neighbor is an absolutely horrible person. The neighbor is refusing that anyone, the property owner, insurance or repair people access the exterior wall via her yard. The neighbor even went so far as to provide a written direction to the police that anyone trying to get access to the wall through her property should be arrested.   
+
+The HOA refuses to intervene even though the HOA documents detail that  
+1) there is an easement  
+2) neighbor must provide access with prior notification.  
+
+Notification has been provided in the past via: 1) registered mail 2) HOA has called to notify the neighbor.  Still the neighbor refuses access.  
+
+The police say they will not do anything since it is an HOA easement and not some municipal/county/state easement/access right.   
+
+What can be done?  
+
+We are not sure how to find the local/county/state easement right/law that provides the owner with access to the wall from the neighbor's yard. Surely this must exist. If such a right/law/code exists, can the police enforce it? Are the police obligated to enforce it?
+
+The damaged wall is being covered by residential insurance. Can I expect the insurance agency to take legal action against the neighbor? Every day that passes, more damage is occurring to the house and foundation, which is increasing the cost of repairs that the insurance agency will have to cover.
+
+Is the only option to sue the neighbor? This is for a very low-income home owner with a damaged wall who simply cannot afford large legal fees. Can these legal fees be recouped from the neighbor? Is this a type of situation where someone might do it pro-bono?
+
+Appreciate any guidance on who to contact or what to do next.   
+
+Edit: added a few details
+
+Edit: See this really crappy drawing I did. The owner has to enter the neighbor's back yard in order to get access to the damaged section of the exterior wall. 
+
+http://imgur.com/a/CLlYt",legaladvice,Neighbor preventing access to exterior wall for repair,https://www.reddit.com/r/legaladvice/comments/4wcdtc/neighbor_preventing_access_to_exterior_wall_for/
+10,2016-08-04 15:43:41+00:00,self.BBQ,https://www.reddit.com/r/BBQ/comments/4w54vr/who_is_innovating_in_bbq/,False,"Let's be honest. A lot of what we're seeing these days is minor variations on the same old thing. That's not to say that the same old thing isn't absolutely amazing - it's our passion after all. But is anyone innovating in this space i.e., flavors, textures, cooking methods, presentation, etc? ",BBQ,Who is innovating in BBQ?,https://www.reddit.com/r/BBQ/comments/4w54vr/who_is_innovating_in_bbq/
+11,2016-07-25 02:21:44+00:00,video.twimg.com,https://www.reddit.com/r/chicago/comments/4ugc7d/video_of_the_blue_line_station_fire_and_collapse/,False,,chicago,Video of the Blue Line station fire and collapse from the 07/24 storm,https://video.twimg.com/ext_tw_video/757367858678599681/pu/vid/1280x720/NbPuDe_-A7y22lfV.mp4
+12,2016-07-16 02:46:49+00:00,self.learnpython,https://www.reddit.com/r/learnpython/comments/4t2qr9/help_normalizing_unicode_from_scraped_site/,False,"I've written a simple scraper which successfully scrapes data off a page. However, when I print the data, I am seeing a lot of unicode or so my google searching tells me. 
+
+I did a little searching on how to handle this, but the examples I find either don't work for me or don't make sense to me.
+
+What's the optimal way to take care of this? Should it be handled in the parsing line or should it be handled after the data is scraped? 
+
+Thanks!
+
+Sample Code:
+
+&gt; tree = ASSESSOR.parse('URL')  
+&gt; print ([td.text_content() for td in tree.xpath('//td')])  
+
+
+Sample Output: 
+
+&gt; Owner Name ', u'\n\xa0TARGET CORPORATION\xa0\n', "" Today's Date "", u'\xa0July 14, 2016\xa0', u'
+&gt; Mailing Address \xa0', u'\xa0 P O BOX 9456\xa0', 
+
+Edit: Some more info",learnpython,Help normalizing unicode from scraped site,https://www.reddit.com/r/learnpython/comments/4t2qr9/help_normalizing_unicode_from_scraped_site/
+13,2016-06-28 17:04:06+00:00,self.daddit,https://www.reddit.com/r/daddit/comments/4qai22/whats_better_than_baby_einstein/,False,"Looking for some good distractions for my 12-24 mos old. We've been very successful at limiting screen time to just a handful of times in his first year. But we're finding this has been a god send to distract him when he's sick or in pain from teething. 
+
+What do you recommend that is *hopefully* better quality than the Baby Einstein series?",daddit,What's better than Baby Einstein?,https://www.reddit.com/r/daddit/comments/4qai22/whats_better_than_baby_einstein/
+14,2016-06-20 19:40:10+00:00,self.chicago,https://www.reddit.com/r/chicago/comments/4p0ki4/seeking_advice_on_personal_storage/,False,"Have too much stuff and need to put some of it in storage. Casual googling and yelping leads me to places with seemingly expensive pricing!  
+
+Anyone have a good lead on more affordable storage?  ",chicago,Seeking advice on personal storage,https://www.reddit.com/r/chicago/comments/4p0ki4/seeking_advice_on_personal_storage/
+15,2016-06-15 14:00:55+00:00,self.VideoEditing,https://www.reddit.com/r/VideoEditing/comments/4o7fy6/adding_smooth_transitioning_date_text_to_imovie/,False,"In iMovie, I'm putting together a video showcasing 1+ second of every day of my kid's first year on planet Earth - cheesy I know. I have added a changing date stamp to the lower right-hand corner, but the transition between movies has it fade out by default. In my opinion, this doesn't look good.
+
+What is the optimal way in which the changing dates transition is cleanest? In the format of MM/DD/YYYY, I think it would look best where DD changes with a smooth transition but the MM and YYYY remains constant without fade or flash, until of course the month and year actually change. 
+
+If not in iMovie, is there an alternative video editing program that you recommend where I can import my existing movie and quickly and easily add the changing date? I simply do not have the time to become a pro at a complex video editing program at this very moment. I have to get this done in the next 36 hours.
+
+I have searched for YouTube tutorials and generally on the web, but have not found anything helpful. Perhaps I'm not using the correct terms.
+
+Thanks so much in advance for your kindness and help!   ",VideoEditing,Adding smooth transitioning date text to iMovie or alternative application,https://www.reddit.com/r/VideoEditing/comments/4o7fy6/adding_smooth_transitioning_date_text_to_imovie/
+16,2016-05-28 21:20:48+00:00,chicago.eater.com,https://www.reddit.com/r/chicago/comments/4lhltn/burts_place_is_reopening_this_summer_with_new/,False,,chicago,Burt's Place is reopening this summer with new owners,http://chicago.eater.com/2016/5/26/11791426/burts-place-sold-reopening
+17,2016-05-28 21:10:39+00:00,chicago.eater.com,https://www.reddit.com/r/chicagofood/comments/4lhkh0/burts_place_is_reopening_this_summer_with_new/,False,,chicagofood,Burt's Place is reopening this summer with new owners,http://chicago.eater.com/2016/5/26/11791426/burts-place-sold-reopening
+18,2016-05-24 14:23:23+00:00,self.chicagofood,https://www.reddit.com/r/chicagofood/comments/4ku0c2/where_to_get_lunch_catered_for_small_party_of/,False,"We need to get lunch catered for a small party of 12-18 people consisting of close friends and immediate family. I'm looking for something nicer than Subway but not three-course-meal-from-BOKA nice.  
+
+In the past, we have done things like sandwiches and sides from Irazu, roasted pig hind quarter from Cermak Market.   
+
+What's interesting and delicious to you that you'd recommend?
+   
+Thanks in advance for your suggestions!",chicagofood,Where to get lunch catered for small party of friends and family,https://www.reddit.com/r/chicagofood/comments/4ku0c2/where_to_get_lunch_catered_for_small_party_of/
+19,2016-05-12 13:51:00+00:00,self.financialindependence,https://www.reddit.com/r/financialindependence/comments/4j0rgy/where_to_buy_future_parttime_home_for_fire/,False,"Edit: Not even sure why I bothered asking. No one can read the post and it's 9/10s negativity. Thanks for nothing /r/FI!
+
+For all the poo-pooers, no we're not going to make an investment just because strangers on the Internet say so. This is a crowdsourcing exercise to get a range of ideas for a possible lifestyle choice in FIRE.
+
+Let's say you're planning on FIRE in about 18-20 years around the age of 50-52 with single digit millions in assets. Part of your plan is to spend significant time outside of the USA in a second home in addition to foreign and domestic USA travel. You'd like to buy a second home, probably outside of the USA, at some point in the future leading up to that FIRE date. You will probably rent it out to help cover some costs in the meantime, and you will probably vacation there annually to take advantage of your investment. 
+
+Part of the difficulty of this crowdsourcing exercise is making assumptions and predictions about another locale 18-20 years in the future.
+
+Other requirements:  
+1. Reasonably short flight from most major USA airports like MIA, ATL, ORD, etc. I'm saying we don't want a 15 hour flight to Hong Kong, Bangkok, Buenos Aires, Santiago, etc.   
+2. Warm climate - tropical preferably  
+3. The city is and will continue to be OR will likely become an intriguing destination that has some elements of culture, food, activities, etc. We're not looking for isolated island or a bustling metropolis, but would consider something like an island that has some other stuff going on.   
+4. Home prices are currently and you forecast to be low-to-medium over the next 5-10 years, which is when we will likely make the investment.   
+5. Currently does not have and hopefully will not have an incredibly expensive cost of living in the future e.g., St. Barth's, St Martin, Hong Kong, Tokyo, Singapore, Paris, London, etc.  
+6. Provides for some amount of active lifestyle i.e., not climbing super tall mountains but not also just a dessert island.   
+
+So, I know people will say, what does low-to-medium housing cost mean to me, etc. I'm leaving this intentionally vague to try to get a range of ideas. It's a challenging exercise to predict the future! 
+
+Also, for people that say, why not retire on X&lt;1MM rather than several MM:  
+1. We enjoy our jobs for the time being. Maybe this will not always be the case, but this is the plan for now.    
+2. We save a very large % of our income.  
+3. We want to continue to work to demonstrate work ethic and contribution to society to our children.  
+4. We currently do and continue to do a nice job of balancing work and life.  
+5. We're planning on FIRE roughly around when kid(s) go to college.   
+
+Thanks for playing! Show your work. ",financialindependence,"Where to buy future, part-time home for FIRE",https://www.reddit.com/r/financialindependence/comments/4j0rgy/where_to_buy_future_parttime_home_for_fire/
+20,2016-04-28 13:49:33+00:00,self.chicagofood,https://www.reddit.com/r/chicagofood/comments/4gu1vt/local_competitive_services_like_blue_apron_plated/,False,"Curious if /r/chicagofood is aware of any local services that are competitively priced and similar to Blue Apron, Plated, etc. ",chicagofood,"Local, competitive services like Blue Apron, Plated, etc?",https://www.reddit.com/r/chicagofood/comments/4gu1vt/local_competitive_services_like_blue_apron_plated/
+21,2016-04-22 18:46:35+00:00,self.homeautomation,https://www.reddit.com/r/homeautomation/comments/4fzvq7/warm_to_daylight_white_color_changing_led_bulbs/,False,"Full spectrum color changing LEDs are very expensive.
+
+Are there any options for LED bulbs that can change from warmer to cooler/daylight color temps? My searching turns up nothing. 
+
+I'd love to transition my kitchen from daylight while preparing food and hosting people to warmer tones in the evening when people are merely passing through or seeing it from the dining room or living room.
+
+Thanks for your insight.",homeautomation,Warm to daylight white color changing LED bulbs,https://www.reddit.com/r/homeautomation/comments/4fzvq7/warm_to_daylight_white_color_changing_led_bulbs/
+22,2016-01-30 15:09:38+00:00,self.applehelp,https://www.reddit.com/r/applehelp/comments/43eem9/question_about_icloud_subscribed_calendar_syncing/,False,"If I add a calendar subscription to iCal and put it on my ""iCloud"" account, the subscribed calendar appears across all iCloud enabled devices as expected.
+
+If I set the subscribed calendar to sync on a five minute interval, which system actually does the syncing? Does my local mac/calendar app do the sync every 5 minutes or does iCloud cloud do the sync and push the changes to all of my devices?
+
+Thanks!",applehelp,Question about iCloud subscribed calendar syncing,https://www.reddit.com/r/applehelp/comments/43eem9/question_about_icloud_subscribed_calendar_syncing/
+23,2016-01-20 17:54:32+00:00,self.MechanicAdvice,https://www.reddit.com/r/MechanicAdvice/comments/41vgvm/request_quiet_muffler_for_00_4runner_sr5_v6_xpost/,False,"I appreciate it if someone can recommend a relatively quiet muffler for a 2000 Toyota 4Runner SR5 V6. The old one has a rusted hole in it. I need something new and relatively inexpensive, but prefer to keep exhaust noise minimal without giving up MPG or any other performance. ",MechanicAdvice,Request: quiet muffler for '00 4Runner SR5 V6 (x-post from /r/autorepair),https://www.reddit.com/r/MechanicAdvice/comments/41vgvm/request_quiet_muffler_for_00_4runner_sr5_v6_xpost/
+24,2016-01-20 17:44:20+00:00,self.autorepair,https://www.reddit.com/r/autorepair/comments/41vfaz/request_quiet_muffler_for_00_4runner_sr5_v6/,False,"I appreciate it if someone can recommend a relatively quiet muffler for a 2000 Toyota 4Runner SR5 V6. The old one has a rusted hole in it. I need something new and relatively inexpensive, but prefer to keep exhaust noise minimal without giving up MPG or any other performance. ",autorepair,Request: quiet muffler for '00 4Runner SR5 V6,https://www.reddit.com/r/autorepair/comments/41vfaz/request_quiet_muffler_for_00_4runner_sr5_v6/
+25,2016-01-15 03:22:51+00:00,self.Metal,https://www.reddit.com/r/Metal/comments/4118sq/searching_for_name_of_indian_american_metal/,False,[removed],Metal,Searching for name of Indian American metal percussionist,https://www.reddit.com/r/Metal/comments/4118sq/searching_for_name_of_indian_american_metal/
+26,2016-01-05 19:00:25+00:00,self.Insurance,https://www.reddit.com/r/Insurance/comments/3zll1r/impact_to_car_insurance_rates_if_dot_refunds_for/,False,"**Questions:**   
+1) Based on the information below, can i expect my car insurance rates to increase based on a non-fault loss where my car insurance company is reimbursed by the department of transportation?   
+2) Is it instead better to go with scenario 1 so I don't risk higher rates?  
+
+**Damages:** I hit a pothole on the highway. Either the impact of the pothole or road debris caused my catalytic converter to bust open in an area.   
+
+**Scenario 1** DOT refunds me: My local department of transportation has a fund set up to refund for damages incurred on the high way. The process takes 120-180 days once a claim has been filed for a final determination. I need to submit my claim with two written repair estimates. I can make the repair to my car and have DOT refund or pay me directly.   
+
+**Scenario 2** DOT refunds my car insurance: I essentially file a non-fault loss with my car insurance company. The car insurance company then files the claim with DOT directly as per scenario 1. 
+
+**Benefits of scenario 2** are that I don't have to deal with extra paperwork and waiting for refund. I also don't have to put any money of my own out. 
+
+**Potential downside of scenario 2**, my car insurance says they cannot guarantee that my rates will not increase as a result. The person I spoke to says she doesn't know all the underwriting criteria. Should I even open a claim with them?     
+
+Thanks for your help. ",Insurance,Impact to car insurance rates if DOT refunds for non-fault loss,https://www.reddit.com/r/Insurance/comments/3zll1r/impact_to_car_insurance_rates_if_dot_refunds_for/
+27,2015-12-09 22:57:03+00:00,self.Miami,https://www.reddit.com/r/Miami/comments/3w50rg/beach_club_recommendation_for_families/,False,"Thinking of relocating my family to the Miami area. One of the major draws is pools, beaches, etc.
+
+I'm looking for a beach club that offers membership access to the beach, cabanas, a little bit of food/drink service, etc. Preferably something that is not necessarily right smack in the middle of an extremely touristy area and is *somewhat* family friendly. When I say family friendly I mean no obvious drug use, frat boys ripping beer bongs, etc. However, we are considering moving to Miami for the melting pot that it is. 
+ 
+Do such places exist? How costly are they?
+
+Googling ""beach club miami"" and other such things isn't so successful as it tends to return dance/party clubs. 
+
+Thanks for the help. 
+
+Edit: So far the ""help"" you have provided is to direct me to a gay nude beach and posting an article about why raising a family in Miami is such a terrible idea. And the post has been down voted to neutral. Thanks for the help!",Miami,Beach club recommendation for families,https://www.reddit.com/r/Miami/comments/3w50rg/beach_club_recommendation_for_families/
+28,2015-12-04 23:14:44+00:00,imgur.com,https://www.reddit.com/r/UrbanHell/comments/3vh6x2/a_peruvian_mine_is_literally_consuming_the/,False,,UrbanHell,"A Peruvian mine ""is literally consuming the 400-year-old town that supports it"" (story in comments)",http://imgur.com/wIyOkAl
+29,2015-11-19 22:15:26+00:00,self.chicago,https://www.reddit.com/r/chicago/comments/3thox6/car_service_with_infant_car_seat_tofrom_airport/,False,"The title is pretty self-explanatory. I'm looking for a black car or taxi service from Chicago to/from the airport that can provide an infant car seat. 
+
+I have found one black car service. Hoping to find more options. 
+
+Appreciate the help. ",chicago,Car service with infant car seat to/from airport,https://www.reddit.com/r/chicago/comments/3thox6/car_service_with_infant_car_seat_tofrom_airport/
+30,2015-11-13 14:30:16+00:00,self.churning,https://www.reddit.com/r/churning/comments/3snxty/best_visamc_for_2100_monthly_expense/,False,[removed],churning,"Best VISA/MC for $2,100 monthly expense",https://www.reddit.com/r/churning/comments/3snxty/best_visamc_for_2100_monthly_expense/
+31,2015-11-08 17:40:14+00:00,self.PleX,https://www.reddit.com/r/PleX/comments/3s0xvw/any_tutorials_or_advice_on_building_plex_media/,False,What would be the starting point for building Plex Media Player (not Server or Home Theater) for a NAS device like QNAP? ,PleX,Any tutorials or advice on building Plex Media Player for NAS's like QNAP?,https://www.reddit.com/r/PleX/comments/3s0xvw/any_tutorials_or_advice_on_building_plex_media/
+32,2015-10-23 02:25:35+00:00,self.AskCulinary,https://www.reddit.com/r/AskCulinary/comments/3putjv/beeflamb_shawarma_cuts_tenderizer_spices_temp_and/,False,"Multiple questions:
+
+1. I wish to make beef/lamb shawarma by alternating cuts of each animal on skewers on a smoker. What are the preferred cuts of meat? 
+
+2. I want to ensure the cuts are very tender. With my chicken shawarma, which I believe I have nearly perfected for my personal tastes, I can count on juice of a lemon + my spices below to tenderize about 3lbs of chicken thighs very nicely. Can I count on similar ratio of lemon juice and beef/lamb to result in very tender meat?  
+3. Below are the spices I use for my awesome chicken shawarma. Should I omit any spices or am I missing any spices for a beef/lamb variety? 
+ *  Garlic clove
+ *  Coriander
+ *  Cumin
+ *  Cardamom
+ *  Cayenne pepper
+ *  Smoke Paprika
+ *  All Spice
+ *  Turmeric
+ *  Cinnamon
+ *  Salt + Pepper
+ *  Lemon juice
+ *  Olive oil  
+
+4. As mentioned above, I will cook on a big green egg (without any additional smoking woods aside from charcoal) with direct heat. I get fantastic results cooking chicken thighs tightly skewered together direct at 350 dome temperature for 10 minutes per side. Any suggestions on aiming higher/lower on temp and/or time for beef/lamb?   
+
+Thanks for the assist! ",AskCulinary,"Beef/lamb shawarma cuts, tenderizer, spices temp and time",https://www.reddit.com/r/AskCulinary/comments/3putjv/beeflamb_shawarma_cuts_tenderizer_spices_temp_and/
+33,2015-09-04 13:50:45+00:00,self.OSXElCapitan,https://www.reddit.com/r/OSXElCapitan/comments/3jmalb/java_does_not_update/,False,"I continue to be prompted to update from Java 8 Update 51 to Java 8 Update 60 build 27. The update downloads and I am prompted relaunch and install. I am prompted to enter admin password, which I do. Then the application disappears and the update is never applied. Have no idea how to rectify this situation.  Help appreciated.",OSXElCapitan,Java does not update,https://www.reddit.com/r/OSXElCapitan/comments/3jmalb/java_does_not_update/
+34,2015-08-20 02:04:02+00:00,self.chicago,https://www.reddit.com/r/chicago/comments/3hnzsn/where_can_i_purchase_sheet_of_steel_in_chicagoland/,,Where can I purchase a sheet of steel cut to my desired dimensions preferably in or near Chicago?,chicago,Where can I purchase sheet of steel in Chicagoland?,http://www.reddit.com/r/chicago/comments/3hnzsn/where_can_i_purchase_sheet_of_steel_in_chicagoland/
+35,2015-08-19 14:12:31+00:00,self.AskCulinary,https://www.reddit.com/r/AskCulinary/comments/3hl458/recipe_requestrefinement_quadcities_pizza_dough/,,"Curious if anyone has recipe and steps for a quad-cities-style pizza dough. It's essentially a pizza dough with some amount of malt. 
+
+Here are some excerpts on what it is and what I could find out about it:  
+  
+  
+**What makes Quad-Cities Pizza Style**   
+Source: http://qctimes.com/what-makes-a-pizza-quad-cities-style/article_78fcec0a-8a7c-11e0-866d-001cc4c03286.html
+&gt; Malt crust: The house-made pizza dough contains a heavy dose of dark-roasted brewer's malt that gives the crust a darker appearance and a taste that's nuttier and slightly sweeter than others. There's also a unique Quad-City spice mix that makes its way into the dough.
+
+**Another Quad-Cities style breakdown without recipe**  
+http://www.timeout.com/chicago/restaurants/quad-cities-pizza-a-primer  
+&gt; The dough It must contain a “spice mix” that is heavy on malt, which lends a toasted, nutty flavor, and it must be hand-thrown to be stretched into an even quarter-inch thin crust with a slight lip ringing the edge.
+
+
+
+**Pizza dough recipe with malt component**   
+Source: http://www.masterstech-home.com/the_kitchen/recipes/main_course_recipes/pizza_&amp;_calzone_recipes/pizzadough.html  
+&gt; 1 cup hot water in a bowl with a package of yeast  
+&gt; 1 heaping tablespoon of Barley Malt (Honey can be substituted)  
+&gt; Stir the barley malt in with the yeast and water till all is dissolved and let it stand till it
+&gt; bubble a little.    
+&gt; Add 2 tbls of Olive Oil or Basil Olive Oil    
+&gt; 1 tsp  of salt    
+&gt; 3 cups of flour  
+&gt; Optional:  add 5 cloves of fresh crushed garlic into the dough while your kneeding it.  
+&gt; Mix all these ingredients together to form a ball  of dough and then kneed it for 5  
+&gt; minutes.  Let it rise for 15 minutes.  ",AskCulinary,Recipe Request/Refinement: Quad-Cities Pizza Dough,http://www.reddit.com/r/AskCulinary/comments/3hl458/recipe_requestrefinement_quadcities_pizza_dough/
+36,2015-08-19 01:13:33+00:00,i.imgur.com,https://www.reddit.com/r/trypophobia/comments/3hivc3/my_homemade_meatball_pizza_xpost_from_rpizza/,,,trypophobia,My homemade meatball pizza (x-post from /r/Pizza),http://i.imgur.com/0BEQZPK.jpg
+37,2015-08-18 20:03:58+00:00,self.homeautomation,https://www.reddit.com/r/homeautomation/comments/3hhmpc/where_do_you_find_smart_home_home_automation_deals/,,"What subreddits, other forums, deal sites, etc do you follow to be alerted when there are great deals on home automation/smart devices?",homeautomation,Where do you find smart home/ home automation deals?,http://www.reddit.com/r/homeautomation/comments/3hhmpc/where_do_you_find_smart_home_home_automation_deals/
+38,2015-08-18 14:32:10+00:00,i.imgur.com,https://www.reddit.com/r/Pizza/comments/3hg87t/homemade_meatball_roasted_garlic_onion/,,,Pizza,"Homemade Meatball, Roasted Garlic &amp; Onion",http://i.imgur.com/0BEQZPK.jpg
+39,2015-08-16 15:10:33+00:00,imgur.com,https://www.reddit.com/r/Pizza/comments/3h7etr/thai_red_curry_cashew_squash_pineapple_pesto/,,,Pizza,"Thai Red Curry, Cashew, Squash, Pineapple &amp; Pesto, Tomato Sea Salt",http://imgur.com/a/Xe95l
+40,2015-08-15 01:42:17+00:00,self.trackers,https://www.reddit.com/r/trackers/comments/3h1u1r/college_football_tracker_that_is_not_tyt/,,"Aside from TYT, are there other decently supported college football trackers with particular interest in SEC football games?",trackers,College football tracker that is not TYT?,http://www.reddit.com/r/trackers/comments/3h1u1r/college_football_tracker_that_is_not_tyt/
+41,2015-08-13 23:00:12+00:00,self.churning,https://www.reddit.com/r/churning/comments/3gwpyl/is_there_a_no_fee_alternative_to_citi_aa_amex/,,"Simple question, I got the Citi AA Amex two years back. I no longer wish to retain the card due to the annual fee. I would like to convert it to a no-fee card. Is anyone aware of a no-fee option?
+
+Thanks!",churning,Is there a no fee alternative to Citi AA Amex?,http://www.reddit.com/r/churning/comments/3gwpyl/is_there_a_no_fee_alternative_to_citi_aa_amex/
+42,2015-07-08 16:01:05+00:00,self.PleX,https://www.reddit.com/r/PleX/comments/3ckar8/change_plex_server_for_xbox_one_client/,,"I have two Plex servers on my LAN. XBOX One Plex client only sees one of these servers, Server A, and never sees the other server, Server B, even when Server A is turned off. 
+
+How can I change servers or manually specify the other server? 
+
+Both servers are connected to my Plex account. Both servers are fully accessible outside of my network. 
+
+Wish the Plex forums weren't down =(",PleX,Change Plex Server for XBOX One Client,http://www.reddit.com/r/PleX/comments/3ckar8/change_plex_server_for_xbox_one_client/
+43,2015-06-30 02:57:14+00:00,self.AskCulinary,https://www.reddit.com/r/AskCulinary/comments/3bl664/sourcing_espelette_pepper_inexpensively/,,"I'm addicted to dried, ground espelette pepper. It's relatively expensive. 
+Any leads on where to source it inexpensively without needing wholesale, tax ID, etc? I'm willing to buy it in quantities larger than the &lt;4 oz that it is most commonly found.
+
+Thanks!",AskCulinary,Sourcing espelette pepper inexpensively,http://www.reddit.com/r/AskCulinary/comments/3bl664/sourcing_espelette_pepper_inexpensively/
+44,2015-06-25 20:36:56+00:00,self.Nest,https://www.reddit.com/r/Nest/comments/3b45hi/where_is_nest_50_on_amazon_android_app_store/,,"Multiple official Nest announcements say that the new Nest 5.0 app is available on the Amazon Android Appstore and yet I am unable to find the app anywhere. What gives? 
+
+Appreciate the help.",Nest,Where is Nest 5.0 on Amazon Android App Store?,http://www.reddit.com/r/Nest/comments/3b45hi/where_is_nest_50_on_amazon_android_app_store/
+45,2015-06-21 17:55:20+00:00,self.dropcam,https://www.reddit.com/r/dropcam/comments/3amhad/where_is_the_kindle_fire_app/,,"I cannot find the nest cam/dropcam app on the amazon android kindle app store. Dropcam's forum says the kindle fire is supported, but I only find the old Nest app and no Dropcam app. 
+
+Hoping to use an old kindle fire as an almost-always-on dropcam viewer.
+
+Thanks for your help!",dropcam,Where is the Kindle Fire app?,http://www.reddit.com/r/dropcam/comments/3amhad/where_is_the_kindle_fire_app/

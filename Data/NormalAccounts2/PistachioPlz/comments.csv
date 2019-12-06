@@ -1,0 +1,1061 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"ITT: People and IT guys overstepping their bounds breaching the trust of their friends/customers.
+
+If you see a folder called ""Porn"" or ""Private"", why open it? It's none of your business.....",2016-11-19 14:45:28+00:00,da6yvyy,1,t3_5dqc4n,44993,AskReddit
+1,Is this true? You can't write that many words and not take the time to figure out if it's true or not.,2016-11-18 20:51:59+00:00,da65i0p,3,t1_da5i6qn,35907,politics
+2,That's great. Thanks!,2016-11-17 18:22:44+00:00,da4i9t0,2,t1_da4bifc,8229,videos
+3,he needs his flick,2016-11-17 05:33:27+00:00,da3v0zy,2,t1_da3uvyw,275,LivestreamFail
+4,"He doesn't know if got banned or not, no? He just woke up one day to his channel being gone.",2016-11-15 04:02:31+00:00,da0u2uu,3,t1_da0n6bg,9783,videos
+5,Also you don't have to ACTUALLY open up arnolds head,2016-11-14 18:59:44+00:00,da05cvc,5,t1_da02xpv,2939,videos
+6,"IIRC, at least with 5.3 it returns a collection.
+
+Should work fine.",2016-11-11 05:09:36+00:00,d9vgwtb,3,t1_d9v7uuf,13372,laravel
+7,"    Game::with(['city' =&gt; function ($q) {
+        $q-&gt;orderBy('name');
+    }])-&gt;get();
+
+Now if you do for example:
+
+    foreach ($cities as $city) {
+        echo $city-&gt;name
+    }
+
+it will be ordered by that property
+
+`city.name` is not a relationship. name is a property. The dot separation in the `with` method is a way to load relationships of relationships.
+
+For example you would do `Post::with('comments', 'comments.author')-&gt;get();`
+That would load the comments, and each comment would load it's author relationship",2016-11-10 23:23:28+00:00,d9v2hdu,3,t1_d9v24fg,480,laravel
+8,"    Game::with(['relationship' =&gt; function ($q) {
+        $q-&gt;orderBy('someField');
+    }])-&gt;get();
+
+Or make a new relationship like
+
+    public function relationshipOrdered() {
+        $this-&gt;belongsTo(SomeClass::class)-&gt;orderBy('someField');
+    }",2016-11-10 23:09:49+00:00,d9v1vap,1,t3_5cb0ld,486,laravel
+9,https://en.wikipedia.org/wiki/Punctuation,2016-11-10 06:39:10+00:00,d9u0xhe,2,t1_d9twl7k,8082,fffffffuuuuuuuuuuuu
+10,It was a dumb question to be fair,2016-11-09 20:32:27+00:00,d9tbuhq,6,t1_d9tbgws,453,gifs
+11,As I replied to another person - that's a perfectly valid policy during the campaign. But the subreddit for the winning side - even if it was Hillary who won - really should hold up to the ideals of the country where their candidate won the presidency.,2016-11-09 20:23:52+00:00,d9tbf2j,5,t1_d9tb70k,263,gifs
+12,"But I'm not talking about before the election. Trump won, he's president elect now. Is the ""official subreddit"" still going to be like /r/pyonyang ?
+
+When they were electing him, then sure. That policy made sense. But now - he's as he says: Going to be the president for all of america
+
+Their slogan ""Last bastion of free speech"" was ironic enough during the campaign - now it just looks sad if they continue the policy.
+
+And for what it's worth, I don't like either of them",2016-11-09 20:21:43+00:00,d9tbb55,5,t1_d9tb3ak,261,gifs
+13,"I'm more curious if r/the_donald is gonna start unbanning people now?
+
+It really won't look good having the self proclaimed ""official subreddit for the president"" instabanning everyone with criticism",2016-11-09 20:11:34+00:00,d9tasyj,3,t1_d9tac2e,555,gifs
+14,"was that a gun he drew? I get how it looks bad, and it was a failure on all fronts - but when the cops see a man running out of a building with a gun - then apparently turn to run away - they are gonna shoot him. It was a shitty situation - and the cops could definitely have handled it better - but it's really not the same.",2016-11-08 02:27:20+00:00,d9qi7mp,9,t1_d9qi2bs,205,CombatFootage
+15,Source?,2016-11-08 02:22:58+00:00,d9qi0sx,7,t1_d9qg4oe,2540,CombatFootage
+16,"How many instances of cops shooting civilians running from an active shooter have you heard of? I've not heard of any.
+
+You're comparing apples to oranges. This is a very specific situation where the police are fully aware of civilian hostages or victims. It's EXACTLY what they train for.
+
+To go around telling people not to run towards police during such a situation is dumb. If any of these two things are gonna get someone killed - staying in a building with an active shooter instead of running for the police is exactly what is going to get you killed.
+
+The cops aren't there to kill you. Yes, a lot of people die from cops, but for fucks sake. They aren't going to fucking shoot you during a hostage situation because you're running away from the gunman. There have been thousands of situations like that, and not once have I seen a cop shoot a civilian running.
+
+But hey, we gotta vilify the police right? No way there are situations where they won't shoot you on sight because they are blood thirsty killers.",2016-11-07 17:25:56+00:00,d9ps725,7,t1_d9pqc1r,2229,CombatFootage
+17,Who the hell teaches you that shit? Cops aren't just gonna shoot at anything that comes running. Paranoid bullshit like that is what is dividing America,2016-11-07 16:25:18+00:00,d9pp6jb,5,t1_d9pm3yj,3968,CombatFootage
+18,I like this charity,2016-11-05 15:21:26+00:00,d9mwwk8,1,t3_5bac3w,542,blog
+19,What about Pistachios? o_O,2016-11-04 18:12:29+00:00,d9ltayp,2,t1_d9l7ez0,38929,NoMansSkyTheGame
+20,The Paris terrorists tried entering the stadium where France and German were playing. They couldn't get in so they blew themselves up outside.,2016-11-04 18:09:47+00:00,d9lt614,4,t1_d9lillx,12526,news
+21,"They probably don't have a system set in place that has the option for ""partial birth""",2016-11-02 21:37:08+00:00,d9izb8z,1,t3_5aqnpp,20729,news
+22,Probably the best solution until they could get it replaced or fixed. Quick thinking.,2016-10-30 17:39:05+00:00,d9e5jps,4,t1_d9dzh8x,9094,LivestreamFail
+23,"For controllers, you should use CRUD.
+Some people adhere strictly to that, and have ONLY those methods in any controller.
+
+`index()`, `create()`, `store()`, `show()`, `edit()`, `update()` and `destroy()`
+
+If say you have a `PostController` and you need to add tags, consider, creating a TagController that also uses the same methods. Any time you feel ""I need to add a `doThis()` method"", that should probably go in another CRUD controller.
+
+When it comes to emails, you should make Mailable classes, or even use Notifications with Events and whatnot.
+
+A lot of people also try to keep the controllers as clean as possible, as you mentioned. Using Request classes to handle validation, and various other service classes and repositories. Often the Model itself can be utilized for a lot of the processing. For example, I handle all user registrations through the User class.
+
+If you have a subscription (and you should), there's a great series on this here: https://laracasts.com/series/whip-monstrous-code-into-shape",2016-10-30 09:31:58+00:00,d9dseyk,1,t3_5a5a4x,1319,laravel
+24,whatever happened to those lovely youtube streams we had last year? (pm me if it's secret please :)),2016-10-28 23:38:48+00:00,d9c5701,1,t3_59uki1,34461,rangers
+25,:(,2016-10-27 00:00:39+00:00,d99a1z1,1,t3_59kytp,119,nhl_games
+26,"Not really. Labour Party is all for this. We don't really have ""left and right"" here, we have ""left and more left"" when you compare it to the US.",2016-10-25 21:41:03+00:00,d97mfpn,4,t1_d97ldbb,1424,worldnews
+27,"Doesn't Q already have a U pronounced? Why is a u necessary after words like Queen and Quest? Could just do with Qeen and Qest. If you actually pronounce the letter Q instead of what we normally do, replace it with K it would work",2016-10-19 13:51:23+00:00,d8ypivz,1,t3_586yek,53764,fffffffuuuuuuuuuuuu
+28,"Have I ever said Wikileaks is not a credible source? What I'm saying is that they have an agenda, as does everyone. Their agenda might be that they are too afraid of Russia, but the fact is.... they haven't had a single leak that is damaging to Russia. With what we know of Russia, how corrupt it is - ask yourself. What are the chances that they just never received any leaks that damage Russia in the slightest?",2016-10-19 13:32:07+00:00,d8yorzh,11,t1_d8yojde,380,worldnews
+29,"I think as long as he's in Putin's care he won't leak anything related to Russia.
+
+And your argument is ridiculous.",2016-10-19 12:54:12+00:00,d8ynfk4,11,t1_d8ym0gr,2877,worldnews
+30,"&gt; I think there are plenty of people who's after Putin's secrets (from CIA to local opposition), Assange is not some omnipotent hacker who can acquire any secret.
+
+No, but there are hackers and whistleblowers who provide him the information. I don't believe for a second that no one has ever leaked anything related to Russia to wikileaks.",2016-10-19 10:09:33+00:00,d8yjipl,9,t1_d8yihbw,3687,worldnews
+31,"Bullshit. They don't go after Russia because Putin wouldn't give a shit that Assange was hiding in an embassy. He wouldn't just jokingly talk about a drone strike. He would actually straight up murder Assange and randomly wikileaks contributors and staff would end up mysteriously dead.
+
+For all his bluster, Assange is a coward.",2016-10-19 08:18:00+00:00,d8yhnar,7,t1_d8y76h7,21759,worldnews
+32,I never said they did. Read the comment again - and the comment I replied to.,2016-10-17 11:54:31+00:00,d8vl2yp,5,t1_d8vic68,8335,worldnews
+33,"The US army, because they are better trained, will take longer. Where the commanders might be skeptical of sending a squad into a building because of the danger, an untrained army will just run in. The question isn't necessarily how long it will take, but how many casualties you take.",2016-10-17 07:36:40+00:00,d8vg9sz,3,t1_d8uz34q,29532,worldnews
+34,I assume you mean Alzheimer's? Maybe you're the one who should visit the doctor :P,2016-10-17 06:33:52+00:00,d8veyku,4,t1_d8v9s9r,10515,scifi
+35,"&gt; The Reality Dysfunction
+
+Of course, how could I forget. I mean I've read all books from Peter F. Hamilton, some even multiple times.
+
+I guess since he has so many different characters and story arcs in many of his books, I assumed what I remembered was a book of its own!
+
+Thanks!",2016-10-16 12:45:20+00:00,d8u8pcl,2,t1_d8u7932,4534,scifi
+36,I remember reading about some tourist taking a piss by a wall that happened to have a picture of the king on it somewhere. He ended up in jail.,2016-10-13 17:15:48+00:00,d8qhsmh,2,t1_d8q4ora,18520,worldnews
+37,Who?,2016-10-12 16:12:12+00:00,d8oxqc3,5,t1_d8ox22f,798,movies
+38,I don't get it,2016-10-10 16:18:43+00:00,d8m0glk,1,t3_56p32k,58577,LivestreamFail
+39,"&gt; Look, I respect his children. His children are incredibly able and devoted, **and I think that says a lot about Donald**.
+
+Seems like a compliment to me",2016-10-10 07:23:39+00:00,d8lm6r3,4,t1_d8llu66,1000,AdviceAnimals
+40,"Aren't the white helmets accused of also being in close ties with terrorist organisations like the Al-Nusra front? Even the Islamic State gives out aid, but not sure if a peace prize to the IS charitable organization would be a good move.",2016-10-07 12:17:48+00:00,d8hrjy9,3,t1_d8hps74,4733,worldnews
+41,Too much chinese o_O,2016-10-04 01:23:28+00:00,d8cy4wb,1,t3_55qv2j,3630,vuejs
+42,And this ladies and gentlemen is what we call a man.,2016-10-03 06:22:14+00:00,d8bty9a,1,t3_55lmpu,14100,videos
+43,"I can tell you, with one hundred percent certaintly, that there are nearly no scenarios other than Saudi Arabia nuking the US that the US would ever invade Saudi Arabia.
+
+You thought Islamic extremists were bad now? Imagine them when they see US troops patroling Medina and images of US tanks rolling by the Kaaba in Mecca
+
+Just saying.",2016-10-02 08:44:50+00:00,d8al5zj,6,t1_d8a0pyn,40394,worldnews
+44,Oh modern art... please change,2016-10-01 13:28:56+00:00,d89j2lk,1,t3_55bgus,38183,WTF
+45,"""Our military are full of idiots"" is basically what that law is saying then?",2016-09-30 05:53:48+00:00,d87zjfl,4,t1_d87z2p8,1110,news
+46,"Seems to work fine for me. Just make sure you keep it inside a responsive container. Doesn't look like the demo page does that, so there's overflow",2016-09-29 17:41:30+00:00,d876298,3,t1_d875ies,685,laravel
+47,"http://alex-d.github.io/Trumbowyg/
+
+Clean, lightweight and more or less everything you need.
+
+Though, it has less features than say TinyMCE, but check it out regardless.
+
+Plugins aren't nearly documented well enough - but they are also quite simple to use so it shouldn't be a big problem.",2016-09-29 15:06:26+00:00,d86ypzo,1,t3_552f2f,2338,laravel
+48,"There are almost no practical differences to using 5.3 over 5.2.
+
+I highly recommend you to go with 5.3, and keep following the 5.2 tutorial. I can almost guarantee you other than the routes file and some minor changes - you won't know the difference.
+
+Also, if you're not already doing it - use Laracasts for your tutorials.
+It's a paid service - however the series ""Laravel from Scratch"" is free and is the go-to learning place for laravel.
+https://laracasts.com/series/laravel-5-from-scratch
+
+Speaking of laracasts, they have a ""What's new in 5.3"" (also free) series that can help you if you decide to go with 5.3 instead, or later when you decide to move over.
+https://laracasts.com/series/whats-new-in-laravel-5-3
+
+
+However, if you still want 5.2, download the branch off github here
+https://github.com/laravel/laravel/tree/5.2
+
+Or you can use composer:
+
+**composer create-project laravel/laravel your-project-name 5.2.***",2016-09-29 04:11:17+00:00,d86iels,1,t3_550fkw,752,laravel
+49,"There are dozens of national political parties in the US. 12 hour debate? Only the 5 major parties? That is more than doable. But then you are excluding the minor and regional parties.
+
+As a European, what you need to do it take money out of campaigning. Limit campaigning to 2 weeks before the election. No political ads at all are allowed before then. All networks give the same air time to every party. If they show a 30 second ad for Clinton - they show a 30 second ad for Gary Johnson within the same 12 hours. Networks who don't follow this fairness rule are prohibited from airing any political advertisement.
+
+Money spent is strictly monitored. Your sports league have salary caps. Have spending caps and let candidates win on their merits not on their wallet.
+
+But hey, you guys might be too fucked to be able to fix that shit. You've given up your country, and you have to live with it. Even if you all want the change - you don't actually have the power to make the change happen.
+
+American Democracy (Not to be confused with Democracy) (As seen on TV)
+
+Sorry about the rant",2016-09-27 05:11:58+00:00,d83rgg7,7,t1_d83ljue,9199,pics
+50,I'd turn it into a PSA about safely disposing coke cans.,2016-09-26 17:37:14+00:00,d82wfxe,4,t1_d82s2km,5494,videos
+51,"Actually, it is.
+
+Imagine someone making a script that starts from 1 and iterates up.
+Fetches all the users in your database. Suddenly your competitors know exactly how many users you have, and their usernames and other information. That's bad practice.",2016-09-23 11:50:24+00:00,d7yq5oh,3,t1_d7yo7c6,5763,laravel
+52,"Ha actually got blocked by the ""Clash of Clans"" developer...",2016-09-20 09:18:59+00:00,d7ude9e,2,t1_d7ua3wp,10655,NHLStreams
+53,Quick delete it :P,2016-09-17 19:36:30+00:00,d7qvkui,3,t1_d7qvgbv,194,NHLStreams
+54,"Only in Canada, no?",2016-09-17 14:54:02+00:00,d7qkq3b,2,t1_d7qjg1m,2322,NHLStreams
+55,here?,2016-09-17 14:53:52+00:00,d7qkpvp,2,t1_d7qb32s,28664,NHLStreams
+56,Not sure I should trust someone who loved Neighbors 2 but hated The Equalizer,2016-09-17 10:01:43+00:00,d7qe4aw,3,t1_d7q653c,23245,movies
+57,"That might be true, but when facebook disseminates the news, previously using editors - now using a failed algorithm, they are part of the news sphere. Just like reddit. Imagine the outcry if reddit decided to straight up delete every post referencing Trump in a positive manner. ",2016-09-09 12:08:30+00:00,d7fit96,4,t1_d7filom,500,worldnews
+58,"When Facebook is responsible for serving 44% of Americans with their daily news, then they have a responsibility of journalistic integrity.",2016-09-09 07:10:01+00:00,d7fd7jk,2,t1_d7f54tj,15960,worldnews
+59,"Yeah LOL, it looks like some fourth grade science shit! What a dumbcunt /s",2016-09-06 04:55:09+00:00,d7b5lij,4,t1_d7b5aer,680,videos
+60,"If this is a feature, not a bug, then it's VERY appropriate to complain about it. OP was raising awareness of a possible major issue with the game, but most people are saying it's just a bug. Which is fine. But if it's not, it should get the attention it deserves.",2016-09-04 07:41:41+00:00,d78wtwj,2,t1_d78p6lu,18824,gaming
+61,"Or he was just surprised to see a dick. You know, not everything has to be over analyzed",2016-09-03 15:26:51+00:00,d781tl3,4,t1_d7815mk,1174,videos
+62,"I had the same issue, and instead of trying to fiddle around passport, I just made my own routes file called: vue.php and registered a new middleware group with all I needed.
+
+So in RouteServiceProvider.php I added:
+    
+    // in RouteServiceProvider.php I added: 
+    //// in map() method
+    $this-&gt;mapVueRoutes();
+    
+    //// mapping my new routes
+    protected function mapVueRoutes()
+    {
+        Route::group([
+            'middleware' =&gt; 'vue',
+            'namespace' =&gt; $this-&gt;namespace,
+            'prefix' =&gt; 'vue',
+        ], function ($router) {
+            require base_path('routes/vue.php');
+        });
+    }
+
+    // In my Http/Kernel.php file I added
+    'vue' =&gt; [
+            \App\Http\Middleware\EncryptCookies::class,
+            \Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse::class,
+            \Illuminate\Session\Middleware\StartSession::class,
+            \Illuminate\View\Middleware\ShareErrorsFromSession::class,
+            \Illuminate\Routing\Middleware\SubstituteBindings::class,
+            \Illuminate\Auth\Middleware\Authenticate::class,
+            'throttle: 60,1',
+        ],
+
+
+Now this was just a first go, and I'll probably make some changes or look around to see if anyone solved it better. But for now, this is how I got around separating my web routes from my own internal api routes. Again, not ideal but..",2016-08-23 16:51:16+00:00,d6tfwt8,1,t3_4z71hu,4829,laravel
+63,"&gt; kangaroo court
+
+Dude it's brazil, not australia",2016-08-19 12:20:31+00:00,d6ny36o,3,t1_d6nx04k,2543,worldnews
+64,"&gt; it's a third world country
+
+Ohh that's gonna piss a lot of people off :D
+",2016-08-19 12:17:01+00:00,d6nxznp,5,t1_d6nwv7w,2688,worldnews
+65,"All we can do is compare it to what match fixing we know is going on in other sports.
+
+Whenever there's gambling involved, you can be sure as fuck that someone is going to be trying to tilt the results in their favor. Be it the  casinos giving out free drinks to get people drunk when they are on a roll, or the player counting cards.
+
+Sports betting is even worse, because there's not one localized casino to play in. There are betting sites, bookies and local pubs where you can put money on anything and everything. Especially in Europe and the former soviet union there are major match fixing syndicates who make billions fixing matches. They are extremely careful and know exactly how to go after players.
+
+Say you're a footballer in a polish top tier football club. There's almost a guaranteed chance that you are being followed. They see that you go into a gay bar, and a few days later you get a message with a photograph and some instructions. The week after, you miss a penalty.
+
+This isn't just speculation. They prey on your weaknesses. Take Tim Donaghy, a NBA ref. He loved to gamble. Not on basketball mind you - but he did get involved with some shady bookies and mafia types. He of course got into debt. And did he get out of debt? Yup, he match fixed NBA games....
+
+NBA is on a massive scale. The payout for the match fixing is huge, but it's also very risky - which lead to the inevitable discovery and arrest only a few years after it started.
+
+Imagine what happens in lower tier basketball. The basketball being played in Europe. Not the top tier, but the second top tier. There's betting there as well you know. Like in CSGO, the players there don't have as much to lose, and the scrutiny is way lower. So why not make money. It's not like you make a lot of money playing in front of 400 people in a school gym.
+
+Match fixing is a huge problem, and you only need to google it to realize. But hard proof is hard to come by, since there are so much secrecy and motivation to keep quiet from all sides. I did a quick search for tennis betting, since that's an easy one to throw, but since it's not a team sport - statistics are much more accurate to analyze predicted wins:
+
+http://www.tennis.com/pro-game/2014/09/study-shows-unusual-betting-patterns-almost-two-dozen-matches-year/52644/
+
+**next one is buzzfeed, but it's a legitimate report. honest**
+https://www.buzzfeed.com/johntemplon/how-we-used-data-to-investigate-match-fixing-in-tennis
+
+So I kind of went too long with this, and probably 3 people will read it but fuck it. Anyway, the point is... if it's that prevalent in sports, CSGO is even more vulnerable. It's new, and especially in low tier competitions the ability to influence players and ""turn them"" is so much greater because if you're a 16 year old kid in school being offered real hard cash to throw a match you'd take it. Even if you got caught you'd probably still come out on top in the grand scheme of things.
+
+ok no more typing, this has gone on too long",2016-08-17 06:07:26+00:00,d6kt2qa,9,t1_d6kku36,14965,GlobalOffensive
+66,She answered a question from someone who obviously went through her post history.,2016-08-16 11:28:30+00:00,d6jjxz1,4,t1_d6jjtpj,328,mildlyinteresting
+67,What titan jump?,2016-08-16 10:36:03+00:00,d6jiwm6,3,t1_d6jflti,11002,NoMansSkyTheGame
+68,"Not seeing much hope for my bug where I'm stuck at 0.0 sols remaining of the extreme survival milestone, since apparently I'm the only one having that problem.",2016-08-16 10:33:01+00:00,d6jiunm,2,t1_d6j3z1a,33312,NoMansSkyTheGame
+69,"I wouldn't have known about it unless you told us, seeing as it's not exactly obvious by looking at her ass. You're advertising more than she is apparently. Or maybe that's her plan. Post the picture and wait for someone to tell her how lame she is for advertising her services - thereby advertising her services.",2016-08-16 10:26:00+00:00,d6jiq7u,2,t1_d6jgaoy,8237,mildlyinteresting
+70,That was so obvious :P,2016-08-16 10:21:54+00:00,d6jino7,3,t1_d6jdfdu,15987,mildlyinteresting
+71,"What, it's a fair point. Certain christians do believe all humans came from Adam and Eve. So in the discussion of how much genetic diversity is necessary to sustain life - is it not allowed to bring up an argument that people are trying to get taught in school, and some do?",2016-08-16 03:50:52+00:00,d6j9ry2,7,t1_d6j2n6o,11164,todayilearned
+72,Two according to the christians,2016-08-15 23:50:42+00:00,d6j0h3d,5,t1_d6j00js,708,todayilearned
+73,"All I need is level 3. And if you read my post, I know how to do it. I know what's wrong. The milestone is bugged. It's stuck at 0.00. It doesn't reset. I've killed myself on a planet and in space, but no matter what I do, I cannot progress in that milestone.",2016-08-15 21:56:09+00:00,d6ivtmv,2,t1_d6ivohg,193,NoMansSkyTheGame
+74,I have and I haven't. Trust me I've tried everything. Right now I'm even trying the experimental build,2016-08-15 21:48:57+00:00,d6ivi59,2,t1_d6iutmi,926,NoMansSkyTheGame
+75,"Mostly I've found them with space scans. Keep going until there's nothing more being found, and then proceed to the next system.",2016-08-15 21:02:01+00:00,d6itey3,6,t1_d6it921,216,NoMansSkyTheGame
+76,Yes,2016-08-15 20:53:39+00:00,d6it0x7,4,t1_d6isj1l,614,NoMansSkyTheGame
+77,"I would never have seen this, or cared about it, unless someone threatened to attack the artists.
+
+Good job guy",2016-08-15 10:37:14+00:00,d6i598r,2,t1_d6htuvk,28871,worldnews
+78,"It's ""STORM EXTREME"" for the last 20 minutes, and I have been outside the whole time refreshing my theta thermal protection with titanium",2016-08-14 22:21:51+00:00,d6hkj88,2,t1_d6hkezz,187,NoMansSkyTheGame
+79,"They did provide screenshots of the PC options a day or so before launch tho, so maybe they did?",2016-08-13 10:48:27+00:00,d6fr5tz,2,t1_d6f6d9i,44940,NoMansSkyTheGame
+80,"So to be clear, to get all the checkmarks I just need animals? Thanks :D",2016-08-12 22:28:59+00:00,d6f6r9r,2,t1_d6f6mq8,186,NoMansSkyTheGame
+81,His name is Peter Ness. P. Ness is a perfectly acceptable username. It's a common name combination in Norway/Scandinavia,2016-08-12 13:10:46+00:00,d6eh94x,1,t3_4xadf7,57024,videos
+82,"This seems too personal for this sub. Talk to your family. If you and his doctors don't know how he has left, you should let them see each other in case it's too late next month.",2016-08-12 02:25:56+00:00,d6e0wik,1,t3_4xbbdu,515,AskDocs
+83,"(Not a doctor)
+
+I had something similar a year ago after I changed my office chair. Turns out the pain wasn't actually in my testicles, I only got a friend who's a doctor to take a look and he found nothing wrong. After a while I just realized the pain wasn't **actually** in my testicle, but it was some kind of back problem that radiated down there. It went away after a few weeks / or when I got a new chair. Don't remember which came first :D
+
+Again, not a doctor, but take some time and examine your testicle. It should be smooth all the way around (except for the veins feeding it of course). If you notice any lumps or the veins feel big and swollen (compare it to the side where your testicle doesn't hurt), you should definitely get it checked out.
+
+But if you're still worried you should go see your primary care physician. They'll fondle you a bit and tell you if it's all okay down there. Some times just the assurance from a doctor can go a long way in making things better :P",2016-08-12 02:18:45+00:00,d6e0mcr,1,t3_4x9jgo,27843,AskDocs
+84,"I'm not a doctor, but honestly I'd get to the doctor sooner than later. No one else has replied yet, but if someone I'd known had shown me that I'd tell them to visit a doctor ASAP. Another week seems too long.",2016-08-12 02:12:52+00:00,d6e0dtq,1,t3_4xa12j,21740,AskDocs
+85,You just completely contradicted your earlier post. But ok,2016-08-10 14:35:25+00:00,d6btzgm,6,t1_d6bs7wa,2628,NoMansSkyTheGame
+86,That's not how physics work.,2016-08-10 13:42:02+00:00,d6bruog,4,t1_d6brfhd,703,NoMansSkyTheGame
+87,Asssuming the parameters for spawning isn't limiting spawn planets to a certain subset of planets which would make your number go up.,2016-08-10 11:12:09+00:00,d6bnnkk,4,t1_d6bnbvi,990,Games
+88,"*cough*
+
+They owe me $60 worth of entertainment. They didn't do this game for charity, and I'm a paying customer, so I do expect to get a certain level of quality goods - and the features promised when I bought it.",2016-08-10 10:56:53+00:00,d6bncr2,1,t3_4x0b6b,25429,NoMansSkyTheGame
+89,"But he's already said MULTIPLE times that there is a certain level of multiplayer, i.e **people can see each other if they end up on the same spot**. But when this was tested, it didn't work. So we ***do actually need*** a straight and specific answer to this right now.",2016-08-10 10:53:50+00:00,d6bnakx,2,t1_d6bkxdq,7972,NoMansSkyTheGame
+90,"He also said ""You can meet other players"" and that it would be exceedingly rare. In other words: ""Don't expect it because the chance of it happening to you is 'close to zero', but it is possible to meet other players"".",2016-08-10 00:38:28+00:00,d6b6dew,2,t1_d6b63to,386,NoMansSkyTheGame
+91,"As much of an idiot this bike rider is, did the guy in the car do that on purpose. That's attempted murder right? Unless you argue self defense. Would be interesting to see what a lawyer has to say. If the bike rider had died, would there be consequences for the driver of the car?",2016-08-09 14:28:32+00:00,d6aea1s,1,t3_4wupyf,29959,videos
+92,"Anyone can get a pulmonary embolism when the cause is a clot from a Deep vein thrombosis. Increased risk for sitting still a lot, but other than that it's one of those ""Shit out of luck"" things that can happen at any time to any person.",2016-08-06 11:27:27+00:00,d66kj7l,2,t1_d66dmzi,22476,technology
+93,Said 9'th on Steam here in Norway. UK usually gets shit on tho because of major game retailers.,2016-08-06 10:39:53+00:00,d66jskr,2,t1_d6641bp,36845,Games
+94,"Obligatory wallpaper
+
+http://i.imgur.com/AO8DYDm.jpg",2016-08-04 14:06:03+00:00,d63wuyb,1,t3_4w2vfr,33013,pics
+95,Why would you even bring that up?,2016-07-28 09:52:00+00:00,d5u8lep,2,t1_d5u7y49,2210,LivestreamFail
+96,"When the servers first started improving, people were seeing connections to amazon AWS when logging in. Google and Niantic are not related any more. Google is not a parent company, just an investor.",2016-07-23 23:40:43+00:00,d5o5rd4,8,t1_d5o0ggc,9245,pokemongo
+97,Thanks amazon,2016-07-23 23:39:21+00:00,d5o5ppg,1,t3_4u8opn,28778,pokemongo
+98,Someone here read teacher? What does the red text say?,2016-07-21 05:42:25+00:00,d5kmqs7,1,t3_4ttbex,31681,funny
+99,I thought the purpose was to get rid of all the shady uncontrolled shit that broke their terms of service.,2016-07-20 05:51:18+00:00,d5j8kow,2,t1_d5j8jb8,91,GlobalOffensive
+100,insightful,2016-07-20 05:48:27+00:00,d5j8i31,2,t1_d5j8htc,18,GlobalOffensive
+101,"Looks like something I would put in as placeholders while designing the site.
+
+""So here's where you can put in your users testimonials from the control panel. I just made some up in there to show you how it would look""",2016-07-20 01:51:15+00:00,d5j0e9z,3,t1_d5iiq5j,24454,AskReddit
+102,Source?,2016-07-20 00:43:29+00:00,d5ixo1c,6,t1_d5ixhf6,285,LivestreamFail
+103,"I can't, because I have my phone on a phone holder on my bike handle. So everyone knows I'm cruising round the neighborhood catching the Pokés",2016-07-18 13:14:22+00:00,d5gr25t,3,t1_d5gma6a,14165,pokemongo
+104,"That really depends on if you own the satellite or not. In your case, yes it's slow. In the case of the US military - not so much.",2016-07-18 04:49:30+00:00,d5ggqv9,8,t1_d5gg905,1053,news
+105,"Just so you know, you made me laugh. Thanks",2016-07-18 03:56:25+00:00,d5gf69f,5,t1_d5fzqpd,26858,news
+106,"Satellites dude. They don't rely on anything that can be cut off by a host nation, or intercepted.",2016-07-18 03:54:29+00:00,d5gf43f,6,t1_d5gbis0,6603,news
+107,"https://www.reddit.com/r/pokemongo/comments/4tbqtc/pok%C3%A9mon_go_amazon_servers/?st=iqrd7m5q&amp;sh=9cf95d43
+
+Oops",2016-07-18 01:42:41+00:00,d5gasfi,8,t1_d5exl8o,102974,pokemongo
+108,"Neither can these guys.
+
+https://www.reddit.com/r/pokemongo/search?q=south+park&amp;restrict_sr=on&amp;t=month",2016-07-17 18:03:32+00:00,d5fu9bw,1,t3_4tai1y,3313,pokemongo
+109,"ISIS keeps claiming responsibility. Whatever happened to Al Qaeda. Are they still up to their shenanigans, or are they just slow typers so ISIS always tweets claiming responsibility first? Or did ISIS buy exclusivity on terror?",2016-07-17 05:41:18+00:00,d5fd4hs,1,t3_4t5tte,39876,worldnews
+110,"I learned that from Brother Ali's song ""Forest Whitaker"".
+
+Great song. He's got albinism and that song touches on that.",2016-07-17 05:00:13+00:00,d5fc3sq,2,t1_d5eqxl1,40115,IAmA
+111,"Not sure who you're arguing with, but you're arguing against points I never made.",2016-07-16 22:05:41+00:00,d5ezjp2,8,t1_d5exl8o,3554,pokemongo
+112,"Again, I think you're confused about what AWS is and does.",2016-07-16 20:29:08+00:00,d5ewc7f,6,t1_d5eu4fi,3929,pokemongo
+113,But the whole point of AWS is that it scales automatically. There's no need to pre order anything. It doesn't matter if you get 20 players or 20 million players.,2016-07-16 18:05:15+00:00,d5erehd,4,t1_d5emly1,8079,pokemongo
+114,"Overwatch used AWS, and servers were down for the first 20 minutes of release. Then it was smooth as silk. It's 2016, we can expect them to fix their servers before adding another 5 million players to them.",2016-07-16 15:05:47+00:00,d5el2af,2,t1_d5ei97e,5765,pokemongo
+115,"2 months? Are you crazy? I know people who aren't ""that into pokemon"" who are expressing interest in the game, but they'll no way in hell keep playing if there's two months of server problems. I mean many of them doesn't even know how to force quit an app, or why you'll need to.",2016-07-16 15:03:31+00:00,d5ekznn,2,t1_d5eiqnn,4510,pokemongo
+116,was* an internal google company. They are independent now.,2016-07-16 15:01:45+00:00,d5ekxlz,6,t1_d5ej15g,3764,pokemongo
+117,He got 13% didn't he?,2016-07-15 23:38:55+00:00,d5dz4cy,4,t1_d5dtgqw,9011,news
+118,Still can't figure out how to actually submit in ingress,2016-07-15 13:34:38+00:00,d5d9lrb,5,t1_d5d7xf5,3196,pokemongo
+119,"It enables zooming using one finger. Tap it, then drag up or down to zoom. (two touches, not one)",2016-07-15 12:18:29+00:00,d5d7b09,1,t3_4syrqh,513,pokemongo
+120,"My closest gas station is the same distance away as the closest gym. 90 minute walk, one way.",2016-07-15 11:16:06+00:00,d5d5vfo,2,t1_d5cujm9,30083,pokemongo
+121,"The oversight is not remembering people from rural areas may also want to play. And the fact is, since we can't add any more stops/gyms I have to walk for 90 minutes to get to the nearest gym. Which is silly.",2016-07-14 21:12:08+00:00,d5chf15,3,t1_d5chatj,160,pokemongo
+122,"Don't download this.
+Only download from apkmirror
+http://www.apkmirror.com/apk/niantic-inc/pokemon-go/pokemon-go-0-29-2-release/pokemon-go-0-29-2-android-apk-download/
+
+Actually confirmed safe by millions",2016-07-14 20:02:55+00:00,d5cea8r,1,t3_4sv8vf,617,pokemongo
+123,This.... can't be true?,2016-07-14 19:58:23+00:00,d5ce2vk,1,t3_4sv9p6,49,pokemongo
+124,No you need the app,2016-07-14 17:00:02+00:00,d5c5r5z,5,t1_d5c5od4,100,pokemongo
+125,Try downloading the Ingress game and look for XM on the map.,2016-07-14 16:00:02+00:00,d5c2wt0,3,t1_d5c0a3d,3399,pokemongo
+126,"The reason for this is simple, but also a major oversight by the developers. Since Pokemon Go's is based on Niantics other game Ingress, it's underlying code is designed for a science fiction game. Part of Ingress was to collect something called ""XM"" (as seen here: http://1.bp.blogspot.com/-EvPWfHdVo5s/UYqgOsGEncI/AAAAAAAAA7g/GUfFf95VVVE/s1600/ingress+3.png). Apparently, Pokemon spawns and XM locations are tied together. I can bike about 10 minutes from my house to a major apartment complex and suddenly 5-6 pokemon will just spawn in the middle of it. Ingress map shows there's an abundance of XM there as well. Around my house there are 2 XM spots, with just a tiny sliver of XM shown. Once or twice a day, a pokemon will spawn near my house with two tracks and I can calmly walk to one of those two spots to collect it. There is no chance of it being anywhere other than either of those two xm locations.
+
+XM locations are apparently based on cellphone usage in that area, which for rural areas... well you get it. So it's an inherent flaw in the underlying system, and depending on how tied together the Pokemon Go and Ingress systems are, it could be very easy or extremely hard to change the underlying pokemon spawn mechanics of Pokemon Go.
+
+So rural players are shafted. Not only by pokestops, but because the underlying code is designed for a science fiction game where cell phone usage is key. If your area has few people, few pokemon will spawn. Which of course is contrary to the entire lore of Pokemon.",2016-07-14 14:49:42+00:00,d5bzoh1,1,t3_4st95m,4788,pokemongo
+127,"Well, first of all he was Deputy Attorney general, under **Bush**, so that's quite a while ago. Secondly, it's not actually the person who got accused.
+
+Still can't find anything relating to the original claim that Eric Holder, who was the **Attorney General** received any bribes from HSBC.",2016-07-12 13:15:04+00:00,d5952eq,6,t1_d594zga,158,news
+128,"Still can't find anything relating to HSBC bribing the Attorney General of the United States. Maybe you should subscribe to the great saying ""The burden of proof is on the accuser"" (paraphrasing, but you get the idea)",2016-07-12 13:01:08+00:00,d594n9i,4,t1_d594h2o,359,news
+129,Got any proof of that or are you just saying shit because of karma?,2016-07-12 12:27:12+00:00,d593pnc,2,t1_d58t3ri,30182,news
+130,"My phone keeps auto locking though, do I need to turn that off?",2016-07-11 17:08:58+00:00,d582n06,2,t1_d57un59,11364,pokemongo
+131,"How do you know any of what you're saying? All we know is that pokestops, gyms and map api is sourced from Ingress. If you have some technical source on how the game is designed, please share.",2016-07-11 17:08:22+00:00,d582ly0,8,t1_d581it6,1439,pokemongo
+132,It's really not easier to walk 60 minutes each way to get to a gym.,2016-07-11 16:58:01+00:00,d58251y,2,t1_d581z46,218,pokemongo
+133,"That's not how it works at all. You catch them all, and transfer them for candy that you use to evolve the pokemon of the same type you already have. If that's fully evolved, you can increase its power - or keep evolving other pokemons of the same type for massive xp.",2016-07-11 16:16:21+00:00,d5808yp,6,t1_d55xwbz,153812,pokemongo
+134,I know people who have pokestops outside their house in big cities. Literally farming all the pokeballs.,2016-07-11 16:15:19+00:00,d5807bt,4,t1_d559fxh,210792,pokemongo
+135,Is this actually true? I need to know because where I live there's ONE pokestop unless I drive 10 minutes,2016-07-11 14:21:16+00:00,d57vfwq,8,t1_d57kojg,29435,pokemongo
+136,"It was a church when Ingress/* players marked it as a public point of interest. Later it was converted to a private home. It would be pretty difficult for Niantic to preemptively know which businesses/public buildings are converted to private homes. Hopefully they'll be able to contact Niantic directly and get it removed.
+
+
+/* Ingress is the game Pokemon Go borrows most if not all its ""spots"" from. Developed by the same company using a similar system of real life exploration.",2016-07-11 03:16:44+00:00,d57fppy,3,t1_d57fccc,659,news
+137,Someone just got put on a list...,2016-07-11 03:00:34+00:00,d57f628,5,t1_d57egi0,1250,news
+138,In some states.,2016-07-11 02:57:29+00:00,d57f2df,3,t1_d57ac18,8259,news
+139,Someone pretty please make a zip of this?,2016-07-10 00:33:58+00:00,d5640vf,2,t1_d55r2ox,22521,AskReddit
+140,Wait what?,2016-07-09 15:01:21+00:00,d55kd6o,3,t1_d55jw03,938,technology
+141,That joke seems to set up. The skeptic in me wants to know if /u/dxdrummer and /u/AtomsOrGalaxies are the same person,2016-07-08 22:42:10+00:00,d54w1t5,3,t1_d54i5tz,18786,worldnews
+142,"Or someone is lying.
+
+Quick, call the internet detectives
+",2016-07-07 13:16:20+00:00,d52r4cs,4,t1_d52q2vd,2006,funny
+143,"They need the original. It will be copied and sealed by the forensic team. All future enhancements and digital forensics will be done on the copy to preserve the integrity of the original tape.
+
+Also, it's to stop the store owner from distributing the video, which could hurt the investigation.",2016-07-06 13:29:19+00:00,d51bvqt,7,t1_d519gc3,4932,news
+144,You're trying too hard man,2016-07-06 11:54:17+00:00,d51959i,7,t1_d517eej,5265,funny
+145,Obama 2016?,2016-07-06 11:47:36+00:00,d518zn0,1,t3_4rdgai,70406,technology
+146,"You missed a step.
+
+1. One officer notices a gun
+2. One officer tells suspect not to move or he'll be shot
+3. One officer yells ""He's going for the gun""
+4. Shots are fired.",2016-07-06 11:41:05+00:00,d518u7o,2,t1_d511w5x,21607,news
+147,They really aren't.,2016-07-06 11:39:35+00:00,d518syv,5,t1_d517rx0,3103,news
+148,"He hates baseball. Trust me, I'm from the internet.",2016-07-05 18:28:42+00:00,d50b9dw,2,t1_d4zyr25,16601,aww
+149,"Kevin Richardson has a youtube channel where all procedes go to conservation of lions and the care of the animals on his habitat.
+
+I highly recommend subscribing to his channel and watching his videos. 
+
+https://www.youtube.com/channel/UC_NS4MiiHAFo3CYI7fRSLtQ
+
+Here are some lion hugs
+
+https://www.youtube.com/watch?v=vMnSbsjGK9k",2016-07-05 15:06:13+00:00,d501kee,1,t3_4rcf7t,9559,gifs
+150,"If you're gonna be fundamentalist about anything, free speech seems like a great one.
+
+Human rights fundamentalist?",2016-07-05 11:20:12+00:00,d4zutkh,2,t1_d4zrrbu,11131,worldnews
+151,"He's not ""small"". He showed his paypal balance (from twitch donations, I believe) and it was in excess of $78,000 dollars. So he's not small in the slightest. And that was quite a while ago, he's only grown since then. He has thousands of viewers routinely on twitch, and around 50k per video on youtube, which he often puts out 2 or 3 a day.
+
+He's always been a little shit, and I know from experience in the Arma community. His only concern, ever, is getting viewers for his channel and twitch. He lies, cheats and acts most of what he does.",2016-07-04 18:51:39+00:00,d4z329u,2,t1_d4yzmtf,5027,GlobalOffensive
+152,It,2016-06-17 19:07:03+00:00,d4depap,5,t1_d4ddzzk,912,worldnews
+153,"I mean there's very little options other than microphone levels and noise removal. Levels are at full, noise removal is turned off.
+
+I even unisntalled all my audio drivers and reinstalled LGS. Still sounds like a $2 microphone. Super disappointed. But I mean I bought a logitech gaming headset, I can't be surprised.",2016-06-15 16:03:22+00:00,d4aba3n,2,t1_d4a3wag,10386,LogitechG
+154,"Libraries are publicly funded, no? So why do they care. If they die out because of lack of interest, more money to spend somewhere else, right? People will still get their books.",2016-06-15 09:12:21+00:00,d49yn8r,5,t1_d49wvk5,5940,todayilearned
+155,"Saying thank you even when the service provided was expected or menial. Like when you're at the checkout register at the supermarket, saying ""Thank you, have a good day"" - for me - is a sign of good parenting.",2016-06-10 14:13:09+00:00,d43n0qs,1,t3_4nfg9s,18840,AskReddit
+156,They also have cameras on the audience during performances just in case stuff like this happens.,2016-06-09 18:13:10+00:00,d42lfne,2,t1_d42jrfp,2113,videos
+157,Woah thanks a lot. Really wasn't necessary :D But thanks :D,2016-06-09 06:52:36+00:00,d420gbw,4,t1_d41lssu,26307,Twitch
+158,"Also, since this is probably gonna end up on top:
+
+If you're doing it for the sweepstake - and you're not from the US, you should be aware that prizes are only for US residents. As a Norwegian, I did them all anyway :P",2016-06-08 21:59:39+00:00,d41hzis,2,t1_d41htnr,230,Twitch
+159,See my edit,2016-06-08 21:47:43+00:00,d41hh66,3,t1_d41hbzn,202,Twitch
+160,"It says in the email log in by clicking the button, but it takes you straight to a survey. The survey also specifically asks you to enter your twitch username. This seems fishy..... If they are twitch, they would have no problem authenticating you.
+
+Edit: I made the plunge and went through it all. After you sign up, you are presented a MUCH more professional looking site, that I trust to be twitch. Also the whois records seem to support it being legit. So I say it's legit.
+
+Edit2: I also talked to /u/kanthes who confirmed it is indeed a legit site :)",2016-06-08 21:25:39+00:00,d41giuf,1,t3_4n7f7g,421,Twitch
+161,What tournament was that?,2016-06-08 14:25:53+00:00,d40w32c,2,t1_d40qkco,9915,Games
+162,"&gt; Family: piracy
+
+That might be because of your peg leg and eye-patch",2016-06-06 16:20:45+00:00,d3y7j25,2,t1_d3xxzqn,15996,AskReddit
+163,"Very few people I know who are conservative when it comes to immigration have any issues at all with REFUGEES, especially from Syria. However, there are a few issues.
+
+Will these people return when/if the conflict ends? If not, they aren't refugees any more.
+
+Are they actually Syrian, or actually persecuted or in danger? A lot of people coming to Europe right now are economic migrants blending in with actual refugees.
+
+Also, should they be allowed to pick and choose where they should be safe? Say they enter Europe in Greece. If they continue going north with the intention of settling in Sweden, they can also no longer be considered refugees, but again economic migrants. If they are escaping persecution and danger, they should be happy with any country willing to take them in.
+
+Unless you have something valuable to contribute to the country you are immigrating to, and you're not a legitimate refugee, then you can stay in your own country.
+
+We have a welfare system that is very lucrative for a lot of people, and we have to protect it. It's not about racism. It's about making sure the systems that are in place to help those who need it is sustainable.",2016-06-06 14:40:17+00:00,d3y37ql,3,t1_d3xzea4,6665,gifs
+164,"I bought winrar a long time ago on an old email, but lost the license. Now I can't find it anywhere :(",2016-06-05 12:21:07+00:00,d3wr3fn,1,t3_4mmdbi,18885,IAmA
+165,Are you a bad infomercial?,2016-06-05 11:44:18+00:00,d3wqeyx,2,t1_d3wiudd,24849,aww
+166,"But a few hours before this he was in Toronto...
+
+https://twitter.com/UberCSGO/status/739243184723726337",2016-06-05 08:26:51+00:00,d3wnffo,1,t3_4mlpd5,18382,GlobalOffensive
+167,"I guess the sarcasm didn't go through as I had hoped. To elaborate, when I say ""would be nice to see a reporter from IGN"" - the point is that we all know IGN has no balls and would never dare to ask this question. Hence my allusion that independent game journalists should be responsible for all the E3 content.",2016-06-05 03:36:19+00:00,d3wgo05,3,t1_d3wgcwk,550,gaming
+168,"Would be nice to see a reporter from IGN or something ask a ubisoft representative at E3 this year after one of their presentations: ""So how much is the final product going to be downgraded for release?""
+
+Then again, fuck E3. Get TB or something to E3 and let him do all the interviews.",2016-06-05 02:16:47+00:00,d3we2cp,1,t3_4mk0pq,21640,gaming
+169,So how did it go? Anyone show up? Full house?,2016-06-04 02:38:50+00:00,d3vbe0b,1,t3_4me1n8,32374,GlobalOffensive
+170,You also spilled something on the floor,2016-06-03 05:13:01+00:00,d3u4cn8,1,t3_4maowg,11279,pics
+171,I'm skeptical of the 3 minute claim....,2016-06-03 04:41:32+00:00,d3u3g63,2,t1_d3tt57f,16690,technology
+172,Is it Chicago?,2016-06-02 04:40:32+00:00,d3sq4g1,3,t1_d3sih97,13033,thedivision
+173,"yeah I got it, thanks",2016-06-02 02:54:27+00:00,d3smoik,4,t1_d3rzwkh,32682,atheism
+174,"The baby dies, or it doesn't. Isn't that how you measure infant mortality?",2016-06-02 02:52:55+00:00,d3smmhz,7,t1_d3sb660,17794,worldnews
+175,"Checking the amount of money spent on CS:GO. (Yes you can do that, but don't)",2016-06-01 16:18:23+00:00,d3rvok1,1,t3_4m0mh6,20178,AskReddit
+176,Ouch.,2016-06-01 14:01:15+00:00,d3rpsh4,5,t1_d3rn4yp,4633,videos
+177,"$500? Where did you get that number from.
+
+On newegg the console is sold for £329
+
+It's also currently $299 on bestbuy",2016-06-01 06:47:34+00:00,d3rg5e6,5,t1_d3rarg3,12139,Games
+178,Legally they can ban any account they play on. So that will stop them streaming CS:GO.,2016-05-30 19:44:27+00:00,d3phj0v,7,t1_d3p40gt,22958,GlobalOffensive
+179,"To be fair, all he did was take a plane to a non-extradition country, and then get stuck in Russia where he's now used as a fuck-you-america tool for Putin. The day he whistleblows on Putin and evades the KGB - then I'll be impressed.",2016-05-30 11:25:04+00:00,d3p1hzo,3,t1_d3od0pn,55065,technology
+180,"Is this guy some kind of Messiah now? ""Avoid it for now"" sounds so preachy.
+
+Why are we suddenly taking everything this guy says as holy truth? He's not a security expert.",2016-05-30 11:23:07+00:00,d3p1gs6,1,t3_4lku3v,71459,technology
+181,[Rémi Gaillard](https://www.youtube.com/channel/UCmPSwsooZq8an7xOLQQhAdw),2016-05-28 04:47:38+00:00,d3mo25t,1,t3_4ldie2,17299,AskReddit
+182,I'm guessing ME won't be a game you can spend months on.,2016-05-28 02:40:03+00:00,d3mkf9e,4,t1_d3mfvnr,8327,Games
+183,Thanks for your help :),2016-05-26 18:31:29+00:00,d3kr9x1,4,t1_d3kp2pc,2807,electricians
+184,"Actually it's hardwood flooring. It's a proper living basement. I always assumed the wiring and stuff was up to code, but now I'm beginning to wonder.",2016-05-26 17:28:05+00:00,d3koa8e,2,t1_d3knov8,747,electricians
+185,"8651
+
+8,651 with comma
+
+:D",2016-05-18 02:57:25+00:00,d39r09o,1,t3_4jt5qe,20766,Overwatch
+186,That's..... shitty of them. What? Really?,2016-05-11 13:46:38+00:00,d319sbb,4,t1_d319kse,337,Games
+187,"Why does everyone think it's €60? I paid €40 on the official store. The origins edition is €60, but that's just for cosmetic items in game and cosmetic stuff in other blizzard games. You really don't need to buy that.",2016-05-11 13:33:11+00:00,d319aob,2,t1_d3144fw,12896,Games
+188,"Wait, is /r/the_donald a serious or parody subreddit? I'm honestly confused",2016-05-05 09:57:50+00:00,d2tm306,4,t1_d2tkuag,4795,worldnews
+189,Pretty sure it's pants,2016-05-04 11:00:28+00:00,d2s9v0k,1,t3_4hsnwz,27764,Showerthoughts
+190,"I did as well. I find myself quite often able to recognize Norway in videos. I some times confuse it with Sweden but not often. I can also instantly recognize Russia for some reason.
+
+I'm Norwegian.",2016-05-02 22:35:51+00:00,d2q9bpl,4,t1_d2q6ven,3341,WTF
+191,"I was trying to make that exact same point. Both religions believe in the same thing when it comes to homosexuality. Both are mortal sins. But only in Islam is it ""okay"" to actually kill because it's in scripture. I don't imagine a lot of priests condoning it if an American LGBT activist was executed in San Fransisco under the banner of Christianity - although technically if Christians were to follow scripture, they should condone the killing of homosexuals.
+
+So why can't Islam do what Christianity does?",2016-04-30 20:09:19+00:00,d2nnrzz,4,t1_d2nixhg,8034,atheism
+192,"It's also in Christian scripture, but most of them don't condone it - even though technically they should.",2016-04-30 13:22:43+00:00,d2na3g2,2,t1_d2n9pxm,945,atheism
+193,"That's not even remotely what I was saying. I'm saying it's impossible for parents to stay up to date on everything their child is doing. Did your mom know you were jerking off to porn? She probably did, but did she ever sit next to you and made sure you only watched the good type of porn where the woman was respected? Thought not.
+
+Imagine Justin Bieber doing heroin and going on Instagram saying how amazing it is. It's about being a good role model, understanding your influence on other people - and behaving in a responsible way.",2016-04-30 05:40:55+00:00,d2n2c7c,5,t1_d2m9slk,45828,GlobalOffensive
+194,"Valve has the ability to shut these gambling sites down. They are using Valve's trademark and trading system. 
+
+The fact that they can, but won't is an indication that they want it to continue. Why? Because these 12 year olds are buying keys to open cases to fuel their addiction. Valve is making hundreds of millions of these cases.
+
+This phenomenon is new, so business ethics hasn't quite caught up. But I can imagine it will catch up, or governments will, and Valve will have to do something about it.",2016-04-29 16:01:02+00:00,d2m77vf,9,t1_d2m6spe,562,GlobalOffensive
+195,"Parenting isn't about that. Parenting is about teaching values and boundaries and letting your kid figure it out for themselves. You're supposed to be the role model, not the guardian that reads your kids email and texts and puts a screen snooper on their PC.
+
+Imagine all the things a 12 year old is exposed to every day. The only way a parent can have full control is literally always being with the kid. ",2016-04-29 15:55:27+00:00,d2m6ywx,3,t1_d2m2357,6912,GlobalOffensive
+196,"To withdraw money, they usually do a check on your bank account to verify the owners age. If not, you have to send in an ECOGRA statement to verify your identity and age.",2016-04-29 15:52:34+00:00,d2m6u8l,8,t1_d2m45p4,3665,GlobalOffensive
+197,"Yes valve. They need to put a stop to this ridiculous gambling shit. Not to mention it's illegal in most countries, which might come bite Valve in the ass one day. European Union for example aren't exactly known to be lenient to big business enabling vices.
+
+I gamble, real money. Quite a bit. But there are 0 regulations. 0 protections and 0 verification in this system. Valve has created a monster and it's going to blow the fuck up soon.",2016-04-29 15:49:05+00:00,d2m6omp,7,t1_d2m6fg8,343,GlobalOffensive
+198,"""We know you killed that guy. Since you won't tell us how you did it, we will keep you in jail until you're ready to tell us how to put you in jail""",2016-04-28 02:37:06+00:00,d2k7fpc,1,t3_4gq36m,26547,news
+199,"Pretty sure it was Gross's third strike, and lea's second strike",2016-04-26 10:28:26+00:00,d2hqsyk,5,t1_d2h80qb,39356,LivestreamFail
+200,"I'm assuming you are referring to Gross Gore, who is much bigger than lea.... 
+
+grossie_gore average viewers: 4,729 (ranked 287 most popular)
+
+legendarylea average viewers: 1,492 (ranked 1661 most popular)
+
+The stream where she flashed was watched by 1,328 people live.
+
+source:
+http://twitchstats.net/streamer.php?id=grossie_gore
+http://twitchstats.net/streamer.php?id=legendarylea",2016-04-25 22:51:29+00:00,d2h6h2r,3,t1_d2h3jnt,4394,LivestreamFail
+201,"Why do everyone care so much? Seems like she's providing a lot of entertainment for you guys, since all I see on this subreddit lately is talk about her. I get it, I don't like her either, but she's far from the only shit streamer using tits to get attention on twitch. Just ignore her and don't watch her stream. Seems like going out of your way to try and get her banned is as childish as she is. Just let her do her thing and ignore it if you don't like it. This attention is what is keeping her relevant, have you thought about that? If there weren't 50 posts on social media every time she flashed her ass she would fade into oblivion soon enough.
+
+But hey. It's the internet.",2016-04-25 21:09:17+00:00,d2h2aq0,1,t3_4geun6,7480,LivestreamFail
+202,I'll just pull out if that's okay,2016-04-25 20:59:01+00:00,d2h1u4z,3,t1_d2h0sb1,1334,videos
+203,"""Awake?""
+
+A metaphor",2016-04-25 15:08:43+00:00,d2glhp5,1,t3_4gcw0j,13087,AskReddit
+204,"Danish is the weirdest language in the world. If you google ""Danish language"", this is the second result for me:
+
+https://www.youtube.com/watch?v=s-mOy8VUEBk",2016-04-25 08:53:31+00:00,d2gc3zs,4,t1_d2g9c7z,9581,AdviceAnimals
+205,That can literally happen anywhere. We're nowhere near as bad as the Brits with their drunken shenanigans and the Germans with their entitled beach towels.,2016-04-25 08:50:22+00:00,d2gc2d6,2,t1_d2g2s0s,22916,AdviceAnimals
+206,I bought destiny,2016-04-20 20:58:09+00:00,d2aunp6,1,t3_4fnhhr,24612,thedivision
+207,"That's not how life works. I can't call you a rapist, and it's automatically true because you haven't proven otherwise... If you're going to accuse someone of being a child molester, you should damn well have something to back it up.",2016-04-20 01:47:13+00:00,d29qo9r,2,t1_d29p8yj,1792,LivestreamFail
+208,"Thanks for the offer! I'm gonna spend some time alone with the game first tho. One thing I like about a new game is experiencing the lore and setting during the ""leveling up"" if you know what I mean. Often I play with friends co-op and they rush through stuff or don't want to wait for me spending 5 minutes looking into the distance at some mountains that just look great :P",2016-04-16 16:03:40+00:00,d25bf56,2,t1_d25415l,18325,DestinyTheGame
+209,Thanks a lot! :),2016-04-16 04:51:39+00:00,d24xo5b,2,t1_d24xl9c,194,DestinyTheGame
+210,"Thanks :) Really helped.
+
+Just one more quick question. Is there a way to get into a group not using external services? You say the game isn't ""super single player friendly"", and there are ""LFG websites to help team up with randoms"".
+
+Are there no Matchmaking system for groups?",2016-04-16 04:49:18+00:00,d24xm1q,2,t1_d24xhrw,283,DestinyTheGame
+211,"Do you live in space? No seriously, the astronauts at the ISS gets better speeds than that.",2016-04-14 16:36:35+00:00,d22rcmq,3,t1_d22kilz,8902,gaming
+212,Seems like every patch there's some stupid exploit that some people get to use that boosts them way past everyone else. Massive's botching of nearly every patch has slowly and surely made me not want to play this game.,2016-04-13 02:19:42+00:00,d20o0tx,1,t3_4eirg5,11231,thedivision
+213,"But box office doesn't include world bluray, dvd, streaming, rentals, merchandise, promotions etc. Don't worry, they made their money back somehow.",2016-04-11 14:33:58+00:00,d1ygtiu,7,t1_d1y6780,30546,movies
+214,"Also I seem to never get any pitches outside of the zone, and they are all fastballs. I have dynamic difficulty on",2016-04-08 00:58:49+00:00,d1uc9kp,2,t1_d1ubb3f,1474,MLBTheShow
+215,"It's set to ""Some"" o_O",2016-04-08 00:35:50+00:00,d1ubdbj,2,t1_d1ubb3f,95,MLBTheShow
+216,"Oh don't start off saying that. People will assume they are supposed to downvote you, and will. You're obviously correct. You don't have to condone the sport for sympathizing with someone getting their face ripped off. But reddit is as black as white as ever, where nuances are irrelevant. Either you're part of the flock, or you're not - and you never get heard.",2016-04-05 03:53:03+00:00,d1qari0,2,t1_d1q8l50,3466,WTF
+217,"&gt; There was NO, NONE, SIP, NADA situational reason to pull a trigger, yet here you are defending that while making it sound like ""Cops have a need to draw their guns, for their own safety."".
+
+Firstly. Yes, that's exactly what they need. Unless you want to argue that police should never draw their gun until the suspect draws a weapon first. If it was a routine traffic stop, of course they should have their guns holstered. But here they are arresting a drug dealer. Drug dealers are known to be violent. So yes, I fully support having guns ready when arresting drug dealers. You can argue the validity of the laws all you want, but the fact remains there is currently a law that prohibits the sale of narcotics.
+
+
+&gt; Cowboys, one and all, with only the most minimal of accountability. Is that the SIM simulation YOU would have set up had you been afforded the honor of sitting in Philadelphia with Messrs. Franklin, Jefferson and Adams?
+
+
+Have you even READ the discussion? I FULLY AGREE that cops in the US are way to trigger happy. But I also recognize they have a dangerous profession where weapons are commonly encountered. I also recognize that most cops are good decent people who risk their lives to serve their community. Others are assholes, like in any other profession. Only here they have a gun.
+
+But you and your kin seem to have taken this absolutist stance against the police. Since a large minority of them are dicks, they must all be dicks, and nothing anyone says can ever stray you from the path. What you fail to understand is your hostile attitude is only helping to grow this endless circle of ""us vs. them"". 
+
+When you vilify the police like you've done with your assumptions, do you think the police will be more inclined to change? No, it will be the opposite. Why would a cop be nice to you if he'd read what you wrote in your post? That he, like every other cop, were guarantee to let anyone not being a police officer bleed to death. As I said, most cops are decent and hard working, and don't appreciate you calling them murderers.",2016-04-03 13:21:42+00:00,d1o163v,6,t1_d1nurmw,23877,news
+218,"&gt; No, I'm saying that people who sign up to enforce victimless crime and show disregard for human life are amoral authoritarians who are only causing harm to society.
+
+Even if it is a victimless crime, I'm sure you won't deny that drug dealers are much more likely, not only to own, but use, weapons against those that threaten their income. Which is why, in drug related incidents - police go in with weapons drawn. I don't think this is strange or unexpected at all.
+
+&gt; Lol, k. ""I don't like that thing you're choosing to put in your body so now you must listen to me and submit to my authority or die.""
+
+You're arguing like a child. The police don't set the laws. They enforce them. If you want - vote to change the laws (when you're old enough). A democratic society decides for itself what should, and shouldn't, be legal. You can disagree with the law, but those that enforce it aren't the ones you need to blame.
+
+&gt; Yeah, I do think that American cops over use force, both non-lethal and lethal. The rest of Western nations seem to be able to keep their police trained and under control, US cops, not so much.
+
+
+I do as well, but there's a reason for it as well, which is easy to overlook. How often do UK, Norwegian, French, Swiss and German cops, for example, encounter weapons? Not even close to the amount of weapons in the hands of criminals in the US, even when accounting for per capita statistics. Police violence is a symptom of the culture where the police have been taught to treat everyone as someone who can and will kill you given the chance. It's futile and illogical to place the blame solely on the officers who, in most part serve their communities well. No one questions the military when they conduct house searches in Afghani villages with their weapons drawn. I'm not saying the streets in America is equal to a war zone, but at least the cops in this video had a fairly good idea that the guy they were there to arrest actually was a criminal, involved in a trade that often involves violent people.",2016-04-03 03:20:23+00:00,d1npsgh,4,t1_d1no42o,3145,news
+219,"Are you saying the undercover officer should have asked the two drug dealers nicely to give up? That might work in your fairy tale world, but it's not real life. There are plenty of criminals out there who would rather shoot a cop than spend any time at all in jail, as proven many times over.
+
+Your assumption that the officer shot was ""ready to end the life of someone"" is true, but still a stupid part of your argument. The same can be said of any police officer who draws his gun in any other situation. So what you are really advocating for is that police only draw their guns after they know the bad guys have a weapon?",2016-04-02 22:57:23+00:00,d1ngwwz,2,t1_d1myykz,31374,news
+220,I thought reddit enabled an april fools prank on post titles and comments a little eearly,2016-03-31 02:05:05+00:00,d1jx87f,1,t3_4cloo8,32502,worldnews
+221,"They're not trying to kill off linux. Maybe in some small part the linux desktop environment, but it's more a stab at Mac developers.",2016-03-31 01:37:51+00:00,d1jw6im,6,t1_d1jpjn5,10180,technology
+222,Vidya games,2016-03-31 01:20:47+00:00,d1jvj3r,7,t1_d1jv2py,718,programming
+223,To all the replies saying their terrier also had the same change of color... the above reply applies to you too. It's something your parents will take to their grave.,2016-03-28 01:43:19+00:00,d1fv7h0,2,t1_d1faea2,36832,pics
+224,"http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session27/Documents/A_HRC_27_60_ENG.doc
+
+&gt; Government forces used chlorine gas, an illegal weapon.  (summary)
+
+Relevant page 19 of the document documents the United Nations Human Rights Council findings on illegal weapons.
+
+There are dozens of other attacks most countries are highly confident were carried out by the Syrian regime. Russia always refutes Assad's involvement of course, and blames the rebels - which makes it very hard to get a security council resolution assigning blame. However, individual countries place the blame on the majority of these attacks on Assad's government.
+
+https://en.wikipedia.org/wiki/Use_of_chemical_weapons_in_the_Syrian_Civil_War",2016-03-27 16:39:59+00:00,d1fcoyd,4,t1_d1fbgbq,2246,worldnews
+225,"Did we forget he used chemical weapons against his own people?
+
+I mean, the west didn't start the civil war. We just picked sides and decided hopefully the FSA and it's allies would be better for both the west and the Syrian people.",2016-03-27 15:12:58+00:00,d1f9vvk,2,t1_d1f36pa,22335,worldnews
+226,"12 comments, but I can't see any?",2016-03-24 00:50:24+00:00,d1b81cj,1,t3_4botk0,8880,LivestreamFail
+227,"As of December there were 1.2 billion videos on youtube. 36% of those were uploaded in the last year. Considering the growth will only become higher in the future, it's really not a stretch to assume within a few years, if not earlier, youtube will pass the 5 billion video mark.
+
+Source:
+http://www.reelseo.com/youtube-changes-33-percent-a-year/",2016-03-22 10:35:40+00:00,d18yzu0,3,t1_d18qgxw,25958,videos
+228,"This is a fairly common weapon type used in many science fiction stories. I can't help you with the book, but I know a more recent series that has a large focus on these types of weapons in large battles is the Ark Royal series by Christopher Nuttall
+
+https://www.goodreads.com/series/125038-ark-royal
+",2016-03-19 17:34:38+00:00,d15u5vm,1,t3_4b3dtr,9257,scifi
+229,"For that to be true it would have to be original.
+
+https://twitter.com/fillwerrell/status/147496304254271491
+(this is just one of many similar, but the first to appear on google)
+
+Just saying.. It's a good joke, but not the best AskReddit response ever.",2016-03-18 13:35:13+00:00,d14h3s2,3,t1_d14g543,1885,AskReddit
+230,"Also, whenever you watch it with someone else in the room, you'll tell them all about how the commercial was made.",2016-03-16 19:56:18+00:00,d12dczj,2,t1_d126ol2,8936,todayilearned
+231,"What Eric Schmidt actually said:
+
+""If you have something that you don't want anyone to know, maybe you shouldn't be doing it in the first place, but if you really need that kind of privacy, the reality is that search engines including Google do retain this information for some time, and it's important, for example that we are all subject in the United States to the Patriot Act. It is possible that that information could be made available to the authorities.""",2016-03-15 20:29:10+00:00,d11225m,5,t1_d10nwnv,19295,news
+232,That's not a real quote.,2016-03-15 14:20:40+00:00,d10m4xz,2,t1_d10jstj,4450,news
+233,"It's good, but it EATS bullets. Get ready to resupply after nearly every boss pack :P",2016-03-14 13:12:31+00:00,d0za17e,4,t1_d0z7o9d,6577,thedivision
+234,Does she pay child support?,2016-03-12 08:18:47+00:00,d0wzuhc,2,t1_d0whddd,37335,news
+235,"eh, I happened to watch a bit of last night stream and he was talking quite a bit to the dealers. I think when I was watching he was trying to guess her age.",2016-03-12 07:58:27+00:00,d0wziec,4,t1_d0ws2p3,17450,LivestreamFail
+236,"I did it fairly quickly by streamlining the entire process. Start at a safe house, go get the first side-mission, encounter or mission, and just do a loop of the entire zone. Clean it out and then go to the next safe house. Rinse and repeat. You shouldn't have to go back to a safe house until you've cleared the zone. Also, every 2-3 levels or so, see if you can craft a better weapon, but only if it massively increases your dps.",2016-03-10 23:20:39+00:00,d0vcngz,4,t1_d0v9w7j,4043,thedivision
+237,"&gt; As a Norwegian I find this to be quite disappointing. We're spending millions of tax money to free up FM frequencies so that they can be sold off to private companies.
+&gt; 
+
+So basically, stimulating job growth and industry. How is that bad?",2016-03-08 18:19:42+00:00,d0sav7s,2,t1_d0s8ayy,3514,todayilearned
+238,"Win10 gtx970 two monitors here,
+
+constant bluescreen on boot, had to go safe mode and uninstall drivers. But windows apparently installed the newest drivers again at first boot and it seems to work now",2016-03-07 18:28:01+00:00,d0r0ifv,1,t3_49dg66,6441,thedivision
+239,"&gt; someone is thirsty, porn is free now you know?
+
+Are you 12?",2016-03-07 06:29:41+00:00,d0qi3bp,3,t1_d0qews6,7154,GlobalOffensive
+240,Do... other things.... get longer?,2016-03-04 23:28:17+00:00,d0nyjc9,3,t1_d0nghgc,25844,IAmA
+241,"But they don't actually call from 911. Every dispatch has their own number, so how does Android distinguish incoming calls from your mom and a 911 dispatcher/police? Or are all incoming calls put through, just not outgoing?",2016-03-04 02:25:40+00:00,d0mujp6,5,t1_d0mtpbp,1243,videos
+242,"The youtube ads are fine. Firstly I rarely, if ever, see any more than 5 seconds of ads before a video. That's worth it considering it's how the creators make their money. What annoys me are the sites (like twitch) that serve you 30-45 seconds of unskippable ads. Especially when it's the same ad you just saw 2 minutes ago because you just switched to another streamer while the first guy was taking a shit.
+
+I must have seen the Just Cause 3 ad at least 15 times in one day before I decided to adblock twitch.",2016-03-03 05:50:19+00:00,d0lq8ud,3,t1_d0liqbj,13491,videos
+243,"It's actually illegal. Not that it really matters at this time, but suddenly Youtube will make an example of you, and I don't want to spend 2 years in jail.",2016-03-03 05:47:19+00:00,d0lq5ta,2,t1_d0lbtlw,24763,videos
+244,Let's keep batman out of this shall we?,2016-02-29 19:39:04+00:00,d0iejp2,3,t1_d0i5kiy,12369,movies
+245,"&gt; Goalie Terry Sawchuk sports fake scars and wounds applied by a make-up artist to simulate injuries accumulated in 16 years of professional hockey, 1966.",2016-02-27 00:29:11+00:00,d0f9kn0,2,t1_d0f8u1k,1281,WTF
+246,"It makes sense. They want you to use their online streaming service, channel 4 on demand.",2016-02-25 02:35:41+00:00,d0cskoy,3,t1_d0cqu96,2720,aww
+247,"http://abcnews.go.com/Politics/video/white-house-confirms-obama-leader-democratic-party-31079633
+
+Search google for ""Leader of the democratic party"" and google shows an infobox of Obama.
+
+On the democratic party's website, he's the first listed under ""Our Leaders"".
+
+I get what you're saying, but everywhere I look it seems like he is.",2016-02-23 21:12:31+00:00,d0b2ogr,6,t1_d0b1oz7,1254,news
+248,"&gt; Obama's not the leader of the Democratic part
+
+Isn't he? I thought the president was the de facto leader of their party.",2016-02-23 20:23:21+00:00,d0b0cml,4,t1_d0aox0f,15212,news
+249,Did you have a stroke?,2016-02-22 02:28:06+00:00,d08tauc,4,t1_d08rq6p,2527,NHLStreams
+250,"That's still not high enough to be considered HD. Although there's no ""standard"", I don't think anything under 3000 should be considered HD.
+
+Also, streaming in 2000kbps doesn't help if the source is 800kbps. Impossible for me to tell the source, but I can tell you the stream from django is not high enough quality to be considered HD.",2016-02-22 00:54:28+00:00,d08pujk,4,t1_d08pjij,511,NHLStreams
+251,Not HD. 720p resolution doesn't mean HD if the bitrate is 800kbps,2016-02-22 00:16:00+00:00,d08oh5m,2,t1_d08md48,3581,NHLStreams
+252,"Made by Norwegians so :D
+",2016-02-19 19:17:55+00:00,d066xut,5,t1_d065ra7,1646,videos
+253,Yeah even for us Norwegians it's hard to tell if they are saying hello or having a stroke.,2016-02-19 16:03:29+00:00,d05yfij,2,t1_d05x3av,1962,videos
+254,Will this guy get 500 lawsuits for copyright infringement? :P,2016-02-18 19:36:43+00:00,d04vpl8,1,t3_46ejji,25072,videos
+255,"What book? Commonwealth Saga has a whole bunch of books.
+
+Pandora's Star is what people usually start with. But there is no problem starting with The Dreaming Void either.
+
+Thing with Hamilton is that it can take a little while to get started, but once it does you'll be glad for the detailed character development and backstory. That's when the fate of characters and events really matter to you. Eddeards story is probably one of the most emotional I've ever been reading a book.",2016-02-16 10:07:39+00:00,d01r40m,4,t1_d01osua,8645,scifi
+256,"I'm more concerned that you're inbox is ""smoldering"" than the fact that you know these things.",2016-02-15 09:54:04+00:00,d00idio,3,t1_d004m7a,32759,AskReddit
+257,ALL_MY_FILES_ARE_CONSTANTS,2016-02-15 03:56:46+00:00,d00aqkx,3,t1_d00a9nx,930,AdviceAnimals
+258,I guess it depends on your country. Nudity is nothing to be ashamed of outside the US. The only weird thing is people trying to make it sexual somehow...,2016-02-14 17:40:19+00:00,czzpv85,2,t1_czznae8,4552,LivestreamFail
+259,"The Night Without Stars. The Abyss Beyond Dreams came out a few years ago. Both are set in the Commonwealth universe, and in the timeline of the void trilogy.",2016-02-14 14:11:09+00:00,czzjj13,4,t1_czzev0z,17665,scifi
+260,"https://i.imgur.com/93oWQzJ.png
+
+I'm really really really hoping this is going forward. I've read the commonwealth saga twice so far, and I can't wait for the next book later this year.0",2016-02-14 06:19:12+00:00,czzbimq,2,t1_czz4bdn,13883,scifi
+261,"Also because the first guy Obama nominated (Tsunis) was a complete idiot who had no idea what he was doing.
+
+https://www.youtube.com/watch?v=7EFMHtmNHbg
+
+But nominating an ambassador and a justice are two quite different beasts. The embassy still has staff that more than adequately continues the work even without an ambassador.
+
+The supreme court however is reliant on their 9 members. It's unthinkable that for nearly 341 days there will be no ninth justice.
+Besides, I'm pretty sure a block would mean the end of any republican presidential nomination. I think the democrats would pounce on it, calling out the republicans for their obstructionism. Them winning is more important than the process and constitution.",2016-02-14 03:07:04+00:00,czz5pn7,5,t1_czyvl39,17976,news
+262,"He emigrated from his own country to immigrate to the UK. He's both, and both were correct. But all the kids in the chat decided that wasn't a word, and started making fun of her, apparently for not knowing ""the word is immigrant, not 'mmigrant'""",2016-02-13 19:25:43+00:00,czyq6z2,4,t1_czypsoh,694,sodapoppin
+263,"Emigrant, which is the correct word in context. It was fun watching the chat go full retard not knowing that's an actual word.",2016-02-13 15:49:23+00:00,czyiu0d,2,t1_czy398c,46966,sodapoppin
+264,"Not really science related, but I'm currently binge watching Numb3rs, and one hour ago I was at an episode where they were talking about Maxwell's Demon..... Is this /r/science or /r/paranormal?
+
+http://numb3rs.wolfram.com/511/",2016-02-13 02:06:49+00:00,czy21a3,1,t3_45g1zn,27868,science
+265,"They say they implemented anti cheat, but that could be as broad as detecting someone running ""TheDivisionHack.exe"". Nothing that says it's actually effective. I mean VAC is supposed to be great, but we all know how terrible it is.",2016-02-10 12:02:58+00:00,czunk07,2,t1_czukhcp,12649,Games
+266,I would probably donate if the stream was actually watchable. Just buffers for me every 2 seconds.,2016-02-09 00:16:39+00:00,czsulz2,2,t1_czstx42,1127,NHLStreams
+267,The whole world watches you masturbate.,2016-02-08 15:09:57+00:00,czs8p0c,1,t3_44qkzv,12016,todayilearned
+268,"    this.$http.post('http://example.com/product', this.products').then....
+
+This doesn't work? (using vue resource for ajax calls but you can use anything). Of course in my example I renamed product to products. I don't really see the issue you're having.",2016-02-05 09:41:10+00:00,czonz5r,1,t3_449mxv,11570,vuejs
+269,How thoroughly did you clean that before you took that picture? I refuse to believe your computer is normally that clean.,2016-02-02 18:41:51+00:00,czl9jjf,1,t3_43ub6s,16854,mildlyinteresting
+270,"Basically this entire drama is about The Fine Bros protecting their FORMAT, not just the name. If you make a video about teenagers reacting to, say old movies, then they will take action against you. Because they own the trademark on the format of teens reacting to... well anything apparently.",2016-01-31 14:55:23+00:00,czilgqs,3,t1_czijjvn,5570,videos
+271,"Trademarks like these are the worst type of trademarks.
+
+What if I could make a better ""Teens React"" type show? What if the people who trademarked that sucked ass, but still had the trademark. If my videos suck, then no one would watch it and FineBros would be safe. If my version is better, then my superior product would win the viewers. I.e capitalism. But if I can't even be allowed to try and compete because of a stupid trademark then we'll have that shitty version for years and years to come.
+
+Trademark on formats (and to some degree patents) are terrible for innovation. 
+
+Oh and fuck you ""The Fine Brothers""",2016-01-31 12:31:50+00:00,cziir3f,1,t3_43igca,12445,videos
+272,"Give me a break...
+
+&gt;The State Department said it had “upgraded” the classification of the emails at the request of the nation’s intelligence agencies. Mr. Kirby said that none of the emails had been marked at any level of classification at the time they were sent through Mrs. Clinton’s computer server.
+
+Source: http://www.nytimes.com/2016/01/30/us/politics/22-clinton-emails-deemed-too-classified-to-be-made-public.html?_r=0
+
+Just because someone doesn't immediately 100% agree with your view that she's 100% definitely no questions asked a felon and should be put in prison, doesn't make me part of the ""Clinton Spin Machine"". There may be parts to this story more complex than just black and white. But when your views are so polarized as yours apparently are, facts are secondary right?",2016-01-30 14:03:11+00:00,czhjc5p,3,t1_czhierv,2872,news
+273,"Weren't the emails unclassified at the time, and only became designated Top Secret at a later date? At least that's what I read.
+
+edit: http://www.nytimes.com/2016/01/30/us/politics/22-clinton-emails-deemed-too-classified-to-be-made-public.html?_r=0
+&gt;The State Department said it had “upgraded” the classification of the emails at the request of the nation’s intelligence agencies. Mr. Kirby said that none of the emails had been marked at any level of classification at the time they were sent through Mrs. Clinton’s computer server.",2016-01-30 12:18:03+00:00,czhhih9,1,t3_43ayik,53440,news
+274,Not my blog post :) Hopefully he sees this and adds it to his post :),2016-01-29 19:26:53+00:00,czgq95r,2,t1_czgahcg,26111,laravel
+275,"That's how envoyer is designed. Every time you deploy, it's a full deploy. It copies your github repo, creates a new release folder, and runs hooks, including composer install. If no errors, it sets that release as current. So yes, even a minor change to your code triggers a full redeploy using envoyer.",2016-01-29 19:24:58+00:00,czgq62r,6,t1_czglyon,5738,laravel
+276,"There are minimal downsides to what I can see, and it does the job much quicker. So what's the reason **not** to use it? I can see many situations where, with for example envoyer, these two tools can be a huge benefit. Say you push some bad code, and you need to rectify it as soon as possible, but don't want your site to go down. Push the change and instead of having to wait 10 minutes, the issue is fixed in a minute.
+
+I don't see the point of you arguing when I need to use it. I'm not telling you to use it, nor am I saying it's a necessary addition to your workflow. I'm saying, if you do have situations where you need to improve the speeds of npm and composer, these tools can help you. My workflow should be of no concern to you. If you don't need the tools, don't use them.",2016-01-29 16:45:49+00:00,czgj76x,4,t1_czgh57w,2877,laravel
+277,"Personally I use Envoyer. When deploying with envoyer, it creates a new relase folder, installs composer dependencies, and any other hooks you have set, like NPM install. Once everything works, it sets that release to the current release, ensuring zero downtime.
+
+Going from a 10 minute deployment to a 1 minute deployment is definitely worth the 5 minutes I spent installing these two tools.",2016-01-29 11:59:04+00:00,czga95x,2,t1_czga1av,762,laravel
+278,"&gt;Some people may not even exhibit signs of having it, though are still possibly able to transmit it (citation needed).
+
+AFAIK, Zika Virus cannot be spread from human to human",2016-01-28 15:36:01+00:00,czf6p8y,3,t1_czf3p87,5226,worldnews
+279,"Originally you didn't get a copy of Portal 2 with the complete pack if you had pre-ordered Portal 2. However, after people started making a fuss, a few hours later they gave a gift copy to everyone who already owned Portal 2.",2016-01-25 12:13:54+00:00,czb4y8k,6,t1_czawnwn,26834,Games
+280,But only if you hadn't already pre-ordered Portal 2. So I didn't get Portal 2 :P But then we made a big fuss and those who pre-ordered got a gift copy :D,2016-01-24 18:01:01+00:00,cza6ody,4,t1_cza5aok,2269,Games
+281,I got a potato badge from an ARG once. Oh and the Valve Complete Game Pack,2016-01-24 16:54:10+00:00,cza4apg,2,t1_cza2yld,2391,Games
+282,These two guys were on Stargazing Live (S06E01 @ around 30 minute mark) talking about rogue planets and solar system simulations and how to find them. They talk about adding planets to our solar system in simulations and see what happens if that planet is ejected. Quite interesting. Not sure how it relates to this discovery but thought I'd share.,2016-01-20 23:39:22+00:00,cz5ugdi,1,t3_41uqfl,30471,worldnews
+283,"In Norway we have this:
+
+http://www.oralmedic.co.uk/
+
+You can buy it without a perscription here at least.",2016-01-20 17:02:33+00:00,cz5d39v,3,t1_cz57i94,8522,WTF
+284,"http://www.oralmedic.co.uk/
+
+This will be super painful for 10 seconds, but after that you won't feel a thing from the sore any more. I've used that like 3-4 times, and it's a life saver.
+
+Not sure I'd use it if I had a sore like OP's picture lol",2016-01-20 16:59:50+00:00,cz5cz6w,2,t1_cz4xs6z,38281,WTF
+285,"According to wikipedia, it was one guard who wanted to know the lyrics, long into their incarceration.
+
+https://en.wikipedia.org/wiki/Hainan_Island_incident#On_the_ground",2016-01-20 01:41:16+00:00,cz4ol0v,1,t3_41pju3,31182,todayilearned
+286,"I found out about this from the BBC series ""Stargazing Live"". They even have a guy in a car with a radio receiver to find people using radio signals. At one point he had to remove a heating blanket from a doghouse because it interfered with one of the telescopes.",2016-01-16 00:33:20+00:00,cyzvoq2,1,t3_415xyz,660,todayilearned
+287,"Can you not see the difference between a private citizen taking it upon herself to make a music video, however cheesy, and a person running for president having these kids sing the song in an official capacity at his rally?",2016-01-15 21:06:35+00:00,cyznqci,3,t1_cyzk554,4951,funny
+288,"Difference is..... these are citizens taking it upon themselves to create and perform these songs. The Trump song was a performance at one of his official rallies, and according to the title (written by fox), is the ""Official Trump Jam"".
+
+Also, the end of your first video literally has video of Hitler Youth and (since apparently it's still 2008) trying to portray Obama as a muslim. Do you have these videos saved under a folder titled ""antichrist barack HUSSEIN(!!!) obama brainwashing kids""?",2016-01-15 21:04:42+00:00,cyznniw,2,t1_cyzhw6j,7937,funny
+289,Damn that was a beautiful logo.,2016-01-15 10:35:30+00:00,cyz2687,1,t3_411t5z,16784,gaming
+290,"https://www.govtrack.us/congress/votes/114-2015/h698
+
+First draft was unanimously voted to pass, senate amended it and passed it with unanimous consent, and then referred back to congress who again unanimously passed it. This was less than a month ago.
+
+You might be dead sooner than you think.",2016-01-15 00:45:11+00:00,cyymdke,2,t1_cyxyday,34136,AskReddit
+291,What about ageing?,2016-01-15 00:36:01+00:00,cyym146,2,t1_cyxt01c,45569,AskReddit
+292,Don't fall asleep,2016-01-15 00:35:15+00:00,cyym02n,2,t1_cyxryhu,49525,AskReddit
+293,Thay posts is pretty old. Are these concerns still valid after months of updates?,2016-01-09 05:12:13+00:00,cyriuiu,2,t1_cyr34nf,28004,scifi
+294,Why is this getting downvoted? He's literally telling the guy that his comments are automatically removed by reddit and he should contact the admins... And I assume at the same time manually enables the comment to be viewed.,2016-01-08 02:55:22+00:00,cyq5zaz,3,t1_cyq1pc6,7067,sodapoppin
+295,"Maybe it was supposed to be but when they didn't hear any explosion, they realized they had given the guy the wrong vest and it would have been too embarrassing to continue.",2016-01-07 14:27:48+00:00,cypbrpt,2,t1_cyp8g3p,8404,worldnews
+296,"Tom Scott did a great video of this while sitting at Pulpit Rock in Norway.
+
+https://www.youtube.com/watch?v=B5a6wrJpxP4",2016-01-05 18:58:37+00:00,cyn27mu,2,t1_cymr1c6,17706,pics
+297,Ridiculous mask? Last year my reddit secret santa gave one of those to me :P,2016-01-03 02:00:23+00:00,cyjwwej,2,t1_cyjmo35,18405,LivestreamFails
+298,"I wasn't exactly sure what that was just by the name. English isn't my first language, so I googled it to see if it was what I thought. I regret that now.",2016-01-01 21:14:50+00:00,cyily2f,4,t1_cyidm7b,15219,AskReddit
+299,"Just imagining a pleasure craft going out to fish running over this thing and breaking it,",2016-01-01 19:48:19+00:00,cyij0oe,1,t3_3z0rd3,18527,technology
+300,Also death,2016-01-01 15:47:32+00:00,cyibtgz,1,t3_3z06vc,22610,funny
+301,Watching the fireworks,2016-01-01 15:17:13+00:00,cyib71a,5,t1_cyib0s6,553,funny
+302,*not a doctor,2015-12-26 05:52:43+00:00,cyblora,4,t1_cybj5w0,6431,WTF
+303,"Royal Guards are conscripted soldiers, rotating on a 12 (or 18?) month basis. So over the last 40 years, there's been quite a lot of royal guards.
+
+They are only meant to serve as visible security, ""manpower"" and ceremonial reasons. The primary guard duty falls to the ""Royal police escort"", who are the guys in the black suits always close. These are more like the secret service, and the royal guard are more like the presidential marines.
+
+Another duty of the royal guards are the military tattoo. The Royal guards are one of the worlds foremost tattoo units. Again, it's especially impressive seeing as they are conscripted 18-20 year olds who have to learn their routines and coordination in months, not years which most units do.
+
+Here's an example: https://www.youtube.com/watch?v=7gS7iq3S1ME",2015-12-23 15:56:50+00:00,cy90os8,4,t1_cy8zeck,2272,todayilearned
+304,"Well a quick hint would be:
+
+Create getLogin and postLogin methods in Auth/AuthController.php
+
+This will then override the default methods used for auth in laravel.
+
+For more details look here.
+https://scotch.io/tutorials/simple-and-easy-laravel-login-authentication
+
+This is old though, for Laravel 4, so take it with a grain of salt.",2015-12-21 23:08:26+00:00,cy74nu4,1,t3_3xqhso,14948,laravel
+305,Those are some hairy balls,2015-12-19 17:48:46+00:00,cy4mz6c,1,t3_3xh01a,8480,atheism
+306,This isn't that bad. Any day my poopo is dry is a good day.,2015-12-19 01:58:58+00:00,cy4304p,1,t3_3xdc0i,28851,worldnews
+307,"The drive was shut off. Even if they were moving, the momentum would carry over to the wrench as well and it would just float there, even if it was moving at 4000 km/h",2015-12-16 19:23:10+00:00,cy1bonx,4,t1_cy19kcj,2996,scifi
+308,"What's this from July then?
+http://www.imdb.com/media/rm1199762176/tt1289401?ref_=ttmd_md_nxt#",2015-12-16 16:12:33+00:00,cy13rrc,1,t3_3x2u6w,8454,movies
+309,He's not rude. He's Australian,2015-12-15 23:16:00+00:00,cy0ckg4,3,t1_cxzygf4,19582,worldnews
+310,Not always. Some times it's nooN,2015-12-15 23:14:56+00:00,cy0cixl,6,t1_cy06d5p,8607,worldnews
+311,"&gt;Somethings fishy here!! 15 days ago, OP was a 19 year old female. 11 hours ago, ""she"" was an 18 year old female(?)
+
+Err, no? She replied to a thread titled ""Me [19F] with my boyfriend [20M] of three years, huge argument between me and his family"" 15 days ago.
+
+Are you one of those guys who comment stalk people to ""catch them"" in a lie so people can praise you on the internet?",2015-12-15 19:16:37+00:00,cy026si,2,t1_cxzy2kx,5760,WTF
+312,"What's with the apologists?
+
+Throwing a game for skins is on the same level as cheating. They deserve their lifetime bans, and if Ska also threw on purpose, so does he. But it's impossible to prove since he didn't receive any skins.
+
+But then we have people like Moe, who cheated (literally cheated to aim better), and he's allowed to still have a career playing Counter Strike.
+
+If you cheat, in any form while playing competitive, you should be permanently banned from playing competitive, on any level, by any organizer.",2015-12-13 23:55:36+00:00,cxy1uut,1,t3_3wozlh,10328,GlobalOffensive
+313,I'm sure many feel the same about you.,2015-12-13 23:43:58+00:00,cxy1f4p,2,t1_cxxzx8v,2433,LivestreamFails
+314,What....?,2015-12-13 05:37:08+00:00,cxx8b7t,2,t1_cxx229q,12519,AdviceAnimals
+315,"No, whoever made this video misquoted him. He said ""Yeah I called him a faggot"", not ""I didn't call him a faggot"" which is what the subtitle say.",2015-12-12 02:26:45+00:00,cxw2h3y,3,t1_cxvwvfy,10418,LivestreamFails
+316,"Yeah, it can. But can it run Crysis?",2015-12-11 19:24:26+00:00,cxvnd04,2,t1_cxv8q55,26193,technology
+317,"If you're interested, this book is pretty great.
+
+http://www.amazon.com/Cathedral-Sea-Novel-Ildefonso-Falcones/dp/B002HREKEQ",2015-12-11 19:02:15+00:00,cxvmfqr,3,t1_cxvhq1o,6797,pics
+318,"Nothing to do with the Norse religion.
+
+&gt; In 1180 there was great activity in Borgund: they were going have a new church. The trees had been felled and the great logs hauled to the site. The old wooden church had to be replaced because the timbers were rotting, especially the roof-bearing posts where they were set in the ground. In the new church the timber framework would not be in contact with the damp earth: it would be raised up on stone foundations, a great improvement that would lengthen the life of the building. Skilled and experienced craftsmen arrived and set to work trimming the logs and planks and timbers-perhaps as many as 2,000 pieces in all.
+With the help of the local people, the great posts or ‘staves’ – were slotted into the ground frame and hauled upright to form the main structure. The rest was relatively easy and soon the local community was planning the consecration of their fine new church. The service was conducted by the bishop himself. He first went round the building three times, then knocked thrice on the closed door with his bishop’s crook before he entered and led the parishioners in mass, **consecrating the building in the name of Christ**, conqueror of all evil and Lord of the Church.
+Five crosses were carved in the altar and five more in the walls. They were sprinkled with holy water and consecrated with oil. The nave was full, the men and boys standing to the south of the aisle, the women and girls to the north. The only benches were along the walls and these were reserved for the old and the crippled.
+
+http://stavkirke.no/index.php?option=com_djclassifieds&amp;view=item&amp;cid=1:stavkirke&amp;id=1:borgund&amp;Itemid=131&amp;lang=en",2015-12-11 15:41:05+00:00,cxvearm,1,t3_3wdka2,6005,pics
+319,"Oh, and the $20 reference is to the fact that most DDOS attacks from these kids are done through ""booters"" or ""stresses"", which are services, some legit, that stress websites with massive traffic.
+
+If you're a 14 year old kid who mostly finds VB scripts online, change a line of code (per the tutorial), and send it to randoms on the internet compiled in an exe - you can purchase time on these ""booters"" to send a massive amount of bandwidth in a short time to any server you point it to.
+
+Of course using booters for servers you don't own or have permission to test is very illegal, and some times the cops show up on these 14 year olds doorstep and they get grounded.",2015-12-11 10:22:49+00:00,cxv78kd,5,t1_cxv5c7x,7757,worldnews
+320,https://twitter.com/_RektFaggot_/status/673947093027962882,2015-12-10 20:22:11+00:00,cxuhn69,3,t1_cxuhjkd,139,worldnews
+321,"DDOS is not hacking...... I get the media calling it hacking, because it's a simple term, although it's still a huge misrepresentation. But these kids who did the DDOS puts ""HACKED"" on their twitter ... that's just sad.
+
+Just to put it clearer.
+Hacking usually require a small level of skill.
+DDOS'ing requires zero skill. Just $20 and your moms credit card.",2015-12-10 19:44:26+00:00,cxug0zn,1,t3_3w88gn,18164,worldnews
+322,All I keep hearing is that he's leading the polls.... is this not true? Wouldn't that mean he has at least some chance of becoming president?,2015-12-10 19:41:01+00:00,cxufvnv,2,t1_cxubmuz,5943,worldnews
+323,So what's the real answer.....,2015-12-10 19:03:57+00:00,cxueatv,1,t3_3w5dpg,67032,funny
+324,I liked the music...,2015-12-10 15:20:06+00:00,cxu4xmu,1,t3_3w6cye,39032,movies
+325,"A house and a car.
+
+Hi, I'm Alex.",2015-12-09 15:01:04+00:00,cxsuchk,1,t3_3w2prc,3282,AskReddit
+326,FUCKING GIFS. WHY NOT THE VIDEO!? IS THE VIDEO NOT [FUNNY?](http://reddit.com/r/funny),2015-12-09 09:05:23+00:00,cxsn7wg,1,t3_3vzeiw,42264,funny
+327,"Here's Norway's
+
+http://minecraft.kartverket.no/",2015-12-08 17:38:14+00:00,cxrq7ud,1,t3_3vwylv,24848,gaming
+328,"Did Trump just call people who follow the constitution ""foolish people"" ?",2015-12-08 07:35:36+00:00,cxrbd5e,1,t3_3vvphm,15696,technology
+329,"Pepsi Max &gt; Any diet cola product
+
+But for regular, coke &gt; any pepsi product",2015-12-07 02:26:48+00:00,cxptl96,3,t1_cxp5znm,36797,gifs
+330,"His wife makes them, by hand. This one however was made by a fan in Italy and sent to Richard.",2015-12-05 22:58:44+00:00,cxohw21,3,t1_cxo4zg7,22820,atheism
+331,Anyone got a link for this?,2015-12-04 18:11:01+00:00,cxn5w6o,2,t1_cxn4n64,1790,news
+332,"We rarely see when the NSA actually DOES stop attacks though. During the Syria debate in the UK parliament, the PM hinted to 7 attacks being stopped by intelligence services in the last 6 months.
+
+I assume US intelligence agencies have stopped as many is not many more, that we will never know about.
+
+It's impossible to stop all attacks, even with full access to every private correspondence from every person in the entire world. Not only will the amount be overwhelming and impossible to verify in time - there will always be the lone gunman who doesn't communicate, or those who communicate using low-tech methods impossible to intercept.
+
+We need intelligence services. Their reach is of course up for debate and many people have strong views. But the fact is they stop attacks. And the public **shouldn't** know exactly how they do it. However, the public should be safe knowing they are not being targeted for no reason.
+
+But to your point. US intelligence wouldn't have stopped this attack even if they had 10x more surveillance reach, nor would they with 10x less surveillance reach. It would be interesting to see how many people currently living in the US intelligence services have listed as ""showing support for terrorism"". I'm sure the number is in the hundreds, if not thousands. Regardless of surveillance reach, some of these are going to be put on a lower priority, and some of those deemed as lower priority are going to carry out attacks.
+
+It's difficult, and my post ended up much longer than I imagined. But my point, through all of this, is that we need intelligence services, and although we should be careful of the power we give them, we can't assume that they will stop every attack. Blaming them here is pointless and in the eyes of lawmakers will probably mean MORE reach not less-",2015-12-04 18:06:46+00:00,cxn5psp,2,t1_cxn09qo,7949,news
+333,"Funny thing just happened, and figured I'd put it here. As I was reading this, one of the light bulbs above me went out. Guess I'm buying LED's tomorrow! Thanks",2015-12-01 01:17:27+00:00,cxil7mu,4,t1_cxibltg,15119,todayilearned
+334,"&gt; ISIS already has 50,000 Europeans in Syria
+
+That's not even close to accurate. 
+
+http://www.rferl.org/contentinfographics/foreign-fighters-syria-iraq-is-isis-isil-infographic/26584940.html",2015-11-28 14:36:53+00:00,cxfpy27,3,t1_cxfpp58,725,worldnews
+335,So it's less sad: Pretty sure it's a team joke.,2015-11-28 12:32:59+00:00,cxfntuj,3,t1_cxfng8v,1720,funny
+336,"2 hours after installing this extension, I've managed to visit 12 out of 200 websites. I had no idea how much Star Wars had ingrained in our society. ",2015-11-27 12:15:47+00:00,cxenjpr,1,t3_3ue3cn,54383,movies
+337,"I think you are missing the point of CS:GO.
+
+Knives...
+",2015-11-26 20:36:15+00:00,cxe1531,3,t1_cxdygn8,4802,Games
+338,"Nah he just says that to everyone saying anything positive about the drone.
+
+Pretty sure he's from another company developing similar drones :P",2015-11-25 19:09:44+00:00,cxcvtkq,5,t1_cxcveq6,624,pics
+339,"Correction: Turkey didn't fire at the parachuting pilots.
+
+Rebels did.",2015-11-24 16:35:53+00:00,cxbidp7,2,t1_cxbg2pl,3476,worldnews
+340,"To be fair, Russia does this. All the time. This isn't the first time (allegedly) they've violated Turkeys borders. They fly over, say it's a mistake, to test the Turkish response. Turkey has said, many times, they will shoot down any plane violating their airspace (as they have before when Assad aircraft passed into Turkey).
+
+According to Turkey, and the Pentagon - Turkey warned the Russian plane multiple times that they would fire.
+
+It's definitely not an overreaction if the allegations are true. It's every countries right to take military action if another country's MILITARY FORCES are crossing your border without permission. No country is going to be happy about that. 
+
+Russian planes in the North, around Norway and Britain, like to ""skirt the edges"" of borders, flying as close as they can to measure the response. Some times they stray over the line, and they get warned back. I imagine without a doubt, if the UK warned Russia 10 times to stop passing their border, the UK would also shoot down the encroaching plane.",2015-11-24 16:34:21+00:00,cxbibdr,2,t1_cxbce9i,10524,worldnews
+341,These the guys who claim ISIS has only killed 250 syrian civilians?,2015-11-24 16:29:52+00:00,cxbi4vh,2,t1_cxbd31m,8664,worldnews
+342,"I watch those. She's really bad at Fallout 4, but it's still calming to watch :D",2015-11-24 01:58:16+00:00,cxaw19k,4,t1_cxavpvo,494,videos
+343,"https://www.reddit.com/r/worldnews/comments/3tpzcy/china_declares_war_on_isis_after_terrorists/
+
+You were saying?",2015-11-22 01:03:09+00:00,cx8jl8y,6,t1_cx5im8u,234195,worldnews
+344,I GET A CLOCK!? SOLD!,2015-11-20 18:51:23+00:00,cx760t2,1,t3_3tkczk,18786,videos
+345,"AFAIK, a random police officer was close to the Bataclan and instantly went in and shot one of the terrorists. The terrorist who was guarding the emergency exit. The same exit where most people escaped through.
+
+That cop, who had a gun, saved countless lives by his quick decision and access to a firearm.
+
+I'm not saying cops should or shouldn't be armed, but in this case, armed police were a blessing for those who otherwise would have been sprayed down by the terrorist guarding the exit.",2015-11-20 18:44:19+00:00,cx75qq1,2,t1_cx6w3me,15375,worldnews
+346,"They just announced today, in the new issue of their magazine Dabiq, that they executed their first and only Chinese prisoner, together with a Norwegian prisoner.
+
+So yeah, China is now involved.",2015-11-18 20:29:00+00:00,cx4wkfh,4,t1_cx4rqye,6832,worldnews
+347,That's not really fair. Some of his political interviews on his new show have been amazing.,2015-11-17 15:57:40+00:00,cx3damx,3,t1_cx3bcj5,3175,atheism
+348,"No they didn't.
+
+From the same article you linked:
+
+&gt; “Our review indicates that interrogations of detainees on whom [enhanced interrogation techniques] were used did produce intelligence that helped thwart attack plans, capture terrorists, and save lives,”
+(CIA)",2015-11-15 08:16:50+00:00,cx0rzb1,5,t1_cx0qdro,5132,worldnews
+349,"I keep hearing that argument, and yes - to a degree - it's true.
+
+Don't get me wrong, I'm against torture. Of course I am, but the notion that torture never work is ridiculous. When torturing an innocent person, or asking someone about something they actually don't know anything about - that's when the large majority of these ""say anything to avoid more torture"" scenarios play out.
+
+http://web.maths.unsw.edu.au/~jim/torturecardozo.pdf
+
+
+""He asked them where the bomb was. The terrorists-highly
+dedicated and steeled to resist interrogation-remained silent.
+[He] asked the question again, advising them that if they did not
+tell him what he wanted to know, he would kill them. They
+were unmoved. So [he] took his pistol from his gun belt,
+pointed it at the forehead of one of them, and shot him dead.
+The other two, he said, talked immediately; the bomb, which
+had been placed in a crowded railway station and set to explode
+during the evening rush hour, was found and defused, and
+countless lives were saved""
+
+The fact is that torture works. Some times. Not always and not enough to justify it. Even the ""mild"" torture conducted by the US on detainees has most certainly produced _some_ relevant intelligence that probably saved lives. Was it worth it? Probably not.",2015-11-15 08:15:18+00:00,cx0ryd8,5,t1_cx0riyp,1538,worldnews
+350,How do you know? Did the CIA tell you?,2015-11-15 06:18:03+00:00,cx0pl3h,3,t1_cx0opex,1830,worldnews
+351,Sounds a lot like you're trying to justify this...,2015-11-14 06:46:00+00:00,cwzqmia,3,t1_cwzpy28,2062,AskReddit
+352,"This isn't ""terrorism"" in the sense they want to frighten us or make us scared. That's a bonus for them, but their specific intent is to KILL us. To wipe us out. Traditional terrorism is terrorism with a political goal. These people have no other goal than the total annihilation of everyone but the followers of their very specific interpretation of Islam. What this is, and what ISIS is continuously doing, is a long drawn out attempt at genocide.",2015-11-14 04:32:15+00:00,cwznm1e,2,t1_cwzknd4,6415,AskReddit
+353,"The rest of the Muslim world has to not only say they condemn the attacks, they have to actively go in and stop ISIS. ISIS by far kills more Muslims than westerners. The same goes for Taliban, Al Qaeda and every other Islamic extremist group. It's not just that they want to kill infidels, they want to kill everyone who doesn't subscribe to their very specific ideology. The other Muslim countries need to get their head out of their ass and realize ISIS is as much a problem for them as it is for us. Guess what happens if ISIS does, for some reason, manage to kill every westerner. Well, they are coming for you Pakistan. And you Saudi Arabia. And you Morocco. And you Turkey.",2015-11-14 04:28:24+00:00,cwzniav,1,t3_3spy8a,19401,AskReddit
+354,"You made it seem like Ebay didn't steal his stuff and auctioned it off.
+
+""No officer, I didn't kill _that_ man""",2015-11-13 16:03:38+00:00,cwyz6ui,4,t1_cwyvnlc,6265,videos
+355,"From what I can tell, they auctioned the item to a guy who then re-auctioned it",2015-11-13 13:49:30+00:00,cwyuupl,2,t1_cwyuetq,1092,videos
+356,You're a strange guy,2015-11-12 09:59:00+00:00,cwxjnt6,3,t1_cwxjgd5,922,worldnews
+357,Didn't Obama get it even earlier because of threats? I remember some white supremacist guys getting arrested with a bunch of weapons on their way to one of his meetings (or maybe the democratic convention?),2015-11-11 08:43:13+00:00,cwwci7b,3,t1_cww7pg6,13840,pics
+358,Loading websites.,2015-10-31 21:12:39+00:00,cwjt8im,1,t3_3qynmv,28393,AskReddit
+359,"Actually, the royal family was in attendance. Which means, there probably would be an investigation if they noticed fake tickets. I imagine they take security very seriously.",2015-10-28 01:49:31+00:00,cwfds6a,6,t1_cwf5fq9,12758,videos
+360,How exactly do you have sex with a Dali lithograph?,2015-10-27 13:36:42+00:00,cwejrnn,1,t3_3qecly,15358,AskReddit
+361,"Thanks. Managed to do some research and looks like the value of the piece would be around €800, which is nice. Also found out it was from my grandmothers collection. She had no idea it had any value, so she didn't really display it. Might just keep it :)
+
+Will definitely get it reframed!
+
+Thanks for the help!
+
+https://theartstack.com/artist/salvador-dali-1/serenity-faith
+The Serenity of Faith - Salvador Dali",2015-10-27 05:22:09+00:00,cweave5,2,t1_cweahkx,988,whatsthisworth
+362,"Reddit calls for body cameras for 4 years.. when it happens for the third largest department in the country, barely gets any attention (5 hours after submission)",2015-10-24 15:09:32+00:00,cwb6t4k,1,t3_3q0ior,20529,news
+363,"Because I've been invested in GTA since I played GTA 2 in computer class. I don't play console, and if it takes a company 2 years to put their games on PC, normally I wouldn't even get into the game at all, but if since I've spent thousands of hours on GTA, I'd wait for that. Even though I hate it.",2015-10-23 18:46:25+00:00,cwacelf,3,t1_cwa9iy7,4276,Games
+364,that /s is misleading concerning the second paragraph,2015-10-23 16:25:44+00:00,cwa6q0c,5,t1_cwa5txa,1325,worldnews
+365,"I don't care. Since I'm a PC gamer I have no interest or loyalty to this series. I know they came out for PC, but remember, they were released on PC years after the console versions.
+
+Rockstar is the only company that gets to do that in my book, and I'm still not very happy about it.",2015-10-23 12:52:56+00:00,cw9z6ll,1,t3_3puk2q,41998,Games
+366,This is how you get shot in Brazil,2015-10-22 18:07:53+00:00,cw93mgy,1,t3_3prqvu,16963,videos
+367,"Did you think your comment through?
+I live in the city. I drive in this city. I work in this city. This will affect me daily. So yes, I should have a say in this.
+
+Imagine 5% of your city wanted to ban all singing in the city center. Would you not be a little bit upset that 5% of the city can decide for everyone else? Where's the democracy in that.",2015-10-22 04:12:28+00:00,cw8i7vv,3,t1_cw8gpep,2922,worldnews
+368,"Lawyers are questioning the legality of this. The local government is effectively banning people from reaching their own home with a vehicle, which under current Norwegian law is illegal. They'll need parliament to make this happen, and seeing as it was party that only got 5% of the votes who are forcing this through because of blackmail politics, it's probably not going to happen.
+
+Not to mention the gigantic lawsuits that will come from this, where the taxpayers will end up paying for lost revenue and investments. Hundreds of millions of dollars have been spent by private companies building car parks and underground garages in the city center, to name a few who will be losing huge sums of money on this.",2015-10-21 18:58:38+00:00,cw7xfrm,1,t3_3pmcae,27202,worldnews
+369,"You say that, but afaik they have no consensus. They are just saying random things at this point. Some things are exempt one day, and the next day it's not. The party spearheading this don't even know if it's legal. They are just forcing this through since they were in a position to make a demand as a party that had 5% of the votes - and the other parties needed them to get a majority.",2015-10-21 18:53:52+00:00,cw7x8go,3,t1_cw7n98l,14288,worldnews
+370,"&gt; because the general public is in general, stupid
+
+What? So politicians knows the best, which is why all their decisions should be accepted and no opposition should be made?
+
+I'd rather trust the people to make the decision about their own future than a bunch of dogmatic people from a party who blackmailed their way into power.",2015-10-21 16:44:41+00:00,cw7rqq7,3,t1_cw7r9qx,662,worldnews
+371,"To put things in perspective...
+
+The Green Party is who is spearheading this. They got 5% of the votes. Only a very tiny fraction of people in Oslo actually wants this. The reason they are able to do this is because they had the 5% the other left wing parties needed to form the city leadership. And their condition could have been anything, but it was this stupid shit.
+
+Oslo has had problems with parking over the last few decades, so a ton of money has been invested into underground parking structures in the city center, and now they are... well fucked..
+
+The green party has no idea what they are doing, they are just winging it. Their plan is completely ridiculous and not even thought out. The press asked a bunch of them what they planned on doing with taxis and deliveries etc, and they all had different answers. They don't know. They are just dogmatic in their views that they have to force change on everyone because they are the ""only ones who care"".
+
+It's going to be a disaster. AND NO ONE WANTS IT. It's just a 5% party taking the city hostage because they can. Americans may some times envy our political system, but this is just stupid.
+
+Switzerland does it right. In switzerland there would be a referendum on stuff like this, where every citizen has the chance to actually vote for something like this.",2015-10-21 16:17:08+00:00,cw7qkab,1,t3_3pmcae,17512,worldnews
+372,I would have found it interesting and I'd talk more to that person.,2015-10-12 09:20:51+00:00,cvwrgs6,4,t1_cvwrey0,226,AskReddit
+373,"Wait, is this /r/conspiracy? I had to double check after reading these comments",2015-10-10 13:05:48+00:00,cvuqffu,1,t3_3o74ir,18996,worldnews
+374,"And this has to do with an armored truck driver how?
+
+*edit ""driver""",2015-10-08 14:25:34+00:00,cvshpg2,4,t1_cvsgxep,1312,news
+375,I don't get it.,2015-10-08 13:45:41+00:00,cvsgc0r,2,t1_cvsfw85,832,news
+376,"There's a difference between checkin and boarding.
+
+If you miss the checkin, there's no way any airline will let you on the flight. This isn't specific to Norwegian. And seeing as you need a boarding pass to pass security, I'm assuming you missed the checkin. Again, NO AIRLINE would let you board their plane if you miss checkin.
+
+If you miss boarding, they look for you. But since you aren't checked in, they don't know you're supposed to be on the flight.
+
+The reason why checkin is so important is because it finalizes the flight manifest. Once checkin closes, the lists of passengers, and weight caluclations are sent to the governing airspace authorities, pilots and ground crew so they can calucate a whole bunch of stuff including how much fuel there is. Suddenly a bunch of people come and demand to be checked in? That's never going to happen, not with any airline. You missed your flight. The FAA don't have a record of you on the plane. The pilots don't know you're on the plane.  The ground crew has fueled the plane for x passengers and bags, and they're not going to refuel the plane because you didn't plan your trip well enough.",2015-10-07 06:35:18+00:00,cvr1ag4,2,t1_cvr055p,3582,worldnews
+377,I can fly him from Birmingham to Birmingham for 69,2015-10-07 06:23:01+00:00,cvr12kc,3,t1_cvqzi3s,4599,worldnews
+378,Pretty sure that's against every air safety protocol in the world.,2015-10-07 06:19:52+00:00,cvr10h6,3,t1_cvqy5pq,7632,worldnews
+379,"""Lab puppy"".
+
+I thought it was a puppy used in a laboratory....",2015-10-07 03:35:34+00:00,cvqx4f1,1,t3_3npdgj,50919,videos
+380,poop.cfg,2015-10-06 09:02:41+00:00,cvpwtl9,1,t3_3nltfn,51981,AskReddit
+381,Did you actually watch the video? Do you not see the clearly agressive charging he does towards the police?,2015-10-05 13:30:56+00:00,cvovh34,6,t1_cvorevr,13720,worldnews
+382,"No  one thought Iraq had nukes. They thought Saddam _wanted_ nukes, but it was biological weapons they were referring to when they said WMD's. Not a big stretch as Saddam had used bioweapons many times before.",2015-10-05 10:42:42+00:00,cvos6hb,3,t1_cvoob9u,16642,worldnews
+383,About 10 years too late there buddy,2015-10-05 10:40:13+00:00,cvos586,4,t1_cvopsai,11105,worldnews
+384,Thanks for the reply. I appreciate what you're doing.,2015-10-05 06:11:27+00:00,cvoofch,2,t1_cvomq0h,4736,GlobalOffensive
+385,"I'm pretty sure they had some idea who he was and what he had done. And if you look at the video right before the shots are fired, he is CLEARLY charging towards the officers - who did the correct thing and shot the person CHARGING THEM AFTER HE HAD STABBED PEOPLE.",2015-10-05 01:32:21+00:00,cvoggez,4,t1_cvnzo3m,26871,worldnews
+386,"Military doctors are some of the best in the world - and battlefield surgery is on the cutting edge of medical science. A lot of new techniques and life saving procedures were developed in the wars over the past 15 years.
+
+If I ever got shot in Afghanistan, I'd much rather go to a NATO hospital than any local hospital, regardless of the NGO running it",2015-10-05 01:30:37+00:00,cvoged4,3,t1_cvnxzhm,29293,worldnews
+387,"&gt;was killed Sunday morning while being pursued by Israeli police officers after stabbing a 15-year-old Israeli teen in Jerusalem.
+
+What I see, is a guy who just stabbed a 15 year old charging at the police. I mean, your video clearly shows the complete opposite of what you are claiming. It's not in cold blood when an armed attacker is charging towards you.....",2015-10-04 18:01:37+00:00,cvnzjwx,2,t1_cvnypnc,1242,worldnews
+388,"&gt;Life must have been terrifying before the invention of modern modern (or at least some sort of medicine)..
+
+Don't think I could ever live without my modern modern",2015-10-04 17:54:41+00:00,cvnz9nn,4,t1_cvnytp8,664,aww
+389,"Have you driven in Norway?
+
+Suddenly, ice out of nowhere",2015-10-04 17:44:24+00:00,cvnyuvd,8,t1_cvnyi5r,503,pics
+390,Is there some significance to blood type?,2015-10-03 05:30:59+00:00,cvmipp5,3,t1_cvmgo35,5570,WTF
+391,Don't even joke about that. You never know what these fucked up people who govern us are capable of.,2015-10-02 11:42:28+00:00,cvlk3rs,2,t1_cvl1ew2,48086,videos
+392,That doesn't sound anything like Louis CK.......,2015-09-28 02:22:03+00:00,cvgh6su,3,t1_cvga1t4,13379,videos
+393,"&gt; Thank you. Not surprising that Reddit has so many idiots who think they're so clever making jokes about $899 in bribes
+
+To be fair, he is a drunkard. An Scottish. Not sure if I need to state both.
+",2015-09-25 02:24:48+00:00,cvdbxda,3,t1_cvd965k,4751,worldnews
+394,"I literally bought a laptop 3 days ago, and it was between a Lenovo and an MSI gaming laptop.
+
+Thankfully I went for the MSI. I can honestly say the only reason I didn't buy the lenovo, which was according to everyone better quality and performance, is because of this spyware shit they've been pulling.
+
+Who runs that company. They must be idiots.",2015-09-24 17:47:57+00:00,cvcsl43,2,t1_cvcezhm,25397,technology
+395,"The Americans were warned twice, I believe, about picking the ball up early. Suzann Pettersen complained that they picked it up again without an okay, and the Americans were punished. I don't see the problem.",2015-09-20 09:26:18+00:00,cv7rfso,1,t3_3lnmxb,4330,golf
+396,Maybe that's why I can't remember a single Prince song or have any interest at all in his music.,2015-09-16 03:27:53+00:00,cv358y9,4,t1_cv2n6ko,30105,videos
+397,Does anyone verify what you translate or are you just trusted to not start World War III ?,2015-09-12 14:09:55+00:00,cuyz335,1,t3_3knpb3,5225,IAmA
+398,Fun fact: This is not a fun fact,2015-09-11 17:02:33+00:00,cuy3fc1,1,t3_3kj8sw,16688,technology
+399,WHY ARE YOU TOUCHING IT!?,2015-09-10 11:12:06+00:00,cuwmhht,1,t3_3kbee1,42368,WTF
+400,"That's why I have two scrubs. One for dirty stuff, that I use to help the water rinse the plate, and one clean scrub that should never lose its pure white color. Take a dirty plate, put it under hot water and scrub it with the dirty brush. Water only needs to be on a little to get teh really dirty stuff off. Then, put a drop of soap and a little water on and scrub using the clean brush. Rinse with water and you're done.",2015-09-10 10:46:11+00:00,cuwm36q,4,t1_cuwks40,6560,todayilearned
+401,So you have no friends?,2015-09-09 11:36:22+00:00,cuvh62f,5,t1_cuvaef9,24749,pics
+402,"To be fair. 1) This is reddit 2) This is in a different subreddit.
+
+There's a reason why this community is split into different subreddits. You didn't submit it to r/funny, so someone else did. The people not subscribing to r/movies are now able to see the image.
+
+Congratulations. You made a post popular on r/movies. But you don't have copyright on reddit posts. You're just making yourself look dumb.",2015-09-09 11:32:01+00:00,cuvh38s,2,t1_cuv6t8v,31548,funny
+403,He makes suits. You can buy suits while still married you know.,2015-09-06 18:47:04+00:00,cusoswa,4,t1_cusmed2,4487,todayilearned
+404,"I'm assuming - and I'm sorry for assuming, as I know you don't like people assuming, I assume - that the news reported him as homeless.",2015-09-05 16:59:14+00:00,curmslt,2,t1_curmqa5,121,videos
+405,"Also, the pants gained notoriety, especially in Canada after the Norwegian Curling Team started using the pants during Vancouver Olympics. They played Canada in the gold medal match.
+
+http://i.huffpost.com/gen/1576139/thumbs/o-NORWEGIAN-CURLING-900.jpg?14",2015-09-05 12:27:30+00:00,curg0na,2,t1_cur7se7,31065,funny
+406,You pray,2015-09-05 12:21:55+00:00,curfxgj,5,t1_curfvdk,212,funny
+407,"Anyone else notice this is just for one year?
+December 9, 2016 you're shit out of luck.",2015-09-01 15:45:04+00:00,cun36w6,1,t3_3j7h0d,15703,news
+408,"This entire ad is about awareness. They aren't trying to sell you anything. It's all about getting it shared and seen by as many people as possible. In that regards, they hit it out of the park. Sure, it's cringy and annoying, but a ton of people just watched something they'd never watch otherwise because of it.",2015-08-31 23:18:34+00:00,cumem6h,4,t1_cum9fx8,8165,videos
+409,same,2015-08-31 21:04:32+00:00,cum9iof,1,t3_3j4thv,12,GlobalOffensive
+410,"135,000 (as of now) extra people just watch an anti-smoking advertisement, with no cost to the advertiser, about an important message that may help people, using what they knew was over the top, cringy and completely misplaced memes. Still, you cared enough to not just watch it till the end, but post a comment, increasing the visibility of this social media post. I'll bet you there are a ton of people like you right now sharing that video to their facebook page. Just as the advertisers intended.
+
+Now tell me it didn't work again.",2015-08-31 12:34:27+00:00,culqu6p,2,t1_culmq3c,15559,videos
+411,How do you know?,2015-08-23 14:05:38+00:00,cucst9b,4,t1_cucrbxk,4052,technology
+412,10 hours and no quarter final games added?,2015-08-22 17:58:40+00:00,cubzgpc,1,t3_3hpvpq,187783,CSeventVODs
+413,https://petitions.whitehouse.gov/response/ale-chief-white-house-beer-recipe,2015-08-22 14:43:40+00:00,cubtdin,3,t1_cubn1re,21622,news
+414,"Seoul is 35 miles from the border. There are thousands of NK artillery guns pointed **AT** Seoul, not to mention even Kim's 1970 missile technology puts Seoul well within range.",2015-08-21 12:56:08+00:00,cualbl2,6,t1_cuabchg,31860,worldnews
+415,"And let's say we stop taking them seriously. 5 more threats from now they actually follow through, and South Korea is fucked because they ""didn't take it seriously"".
+
+NK is a real threat. That makes all their threats real and not being prepared or taking it seriously isn't an option.",2015-08-21 02:26:15+00:00,cua8fim,4,t1_cua87kq,425,worldnews
+416,I knew I recognized the skjærgård of Scandinavia.,2015-08-17 18:28:19+00:00,cu64w3w,4,t1_cu64rv8,177,WTF
+417,Where was this?,2015-08-17 16:41:38+00:00,cu60q2i,2,t1_cu5rnza,18924,WTF
+418,"Wait, isn't this the exact video I just watched?",2015-08-07 15:15:35+00:00,ctuuoga,2,t1_ctur7f8,5907,todayilearned
+419,I'm too lazy to fact check this. Can anyone confirm?,2015-08-06 13:21:51+00:00,cttio3q,4,t1_ctt0i6l,46225,todayilearned
+420,"But they are using many of the stadiums for the winter games, so that will save a lot of money at least.",2015-08-03 21:40:06+00:00,ctqdmlr,4,t1_ctqcbzk,2060,news
+421,"The only Giraffes that are legally allowed to be hunted are either aggressive, ostracized or otherwise an animal that cannot function properly in the wild. The money the parks get for these types of hunts are a huge part of the conservation effort, and a lot more animals would die if they didn't allow these hunts for rich people.",2015-08-03 21:25:15+00:00,ctqd2n6,2,t1_ctpwogm,24872,news
+422,"lol, what?
+Are you telling me New Zealand can do it, but Russia can't?
+New Zealand isn't in the Five Eyes partnership for their advanced and highly effective signal intelligence program. They are there because they'll allow the US to use their strategic pacific position.",2015-08-01 09:09:39+00:00,ctns3ci,4,t1_ctnqn5k,6208,technology
+423,"If it was a spokesperson there's surely a record of the statement right? Unless Radio 4 were the only ones recording it. Again, all the sources I've found have been pretty clear on calling it terrorism, and you seem like the angry bitter type, so I'll chose to believe you misheard him until you can provide actual proof.",2015-07-31 18:11:28+00:00,ctn245z,4,t1_ctmy1bg,5713,worldnews
+424,"Netanyahu called it terrorism.
+
+&gt;Israeli PM tells Palestinian President Abbas that 'it's upon us to together fight terror, no matter which side perpetrates it.'
+
+&gt; Netanyahu called the killing of 18-month-old Ali Saad Daobasa a terror attack, saying it was ""a reprehensible and horrific act of terrorism in every respect. The State of Israel takes a strong line against terrorism regardless of who the perpetrators are.""
+
+http://www.haaretz.com/news/diplomacy-defense/.premium-1.668880
+
+That's also what I heard on the radio this morning. I can't find any reference to Vigilantes anywhere in reference to this event.",2015-07-31 16:34:33+00:00,ctmxypr,2,t1_ctmtt9m,6083,worldnews
+425,"https://petitions.whitehouse.gov/response/ale-chief-white-house-beer-recipe
+
+https://petitions.whitehouse.gov/petition/forgive-student-loan-debt-stimulate-economy-and-usher-new-era-innovation-entrepreneurship",2015-07-29 03:41:18+00:00,ctjv80l,2,t1_ctjkar0,18318,news
+426,What on earth makes you think that? Do you know this for a fact? Has it ever happened before? Is it even possible? Or is this your prejudice talking?,2015-07-29 03:37:16+00:00,ctjv38t,6,t1_ctj817i,35436,news
+427,"Can't the judge, even if the jury acquits find the defendant guilty? Not that it has ever happened, but technically isn't it possible?
+
+It would be interesting to see Snowden have a jury of his peers find him not guilty, even after admitting to the exact thing he was charged with.",2015-07-29 03:36:06+00:00,ctjv1vn,7,t1_ctjhc4a,22488,news
+428,"To be fair, a lot of hunts in Africa are for older or ostracized animals whose quality of life is declined, or aggressive animals who would have to be put down anyway - and similar situations. They won't allow a dentist to just go kill any lion they see. The price is high, and the money goes straight into conservation. A lot of reservations have a high percentage of their funding come from big game hunts like these.",2015-07-29 03:25:52+00:00,ctjupwv,2,t1_ctjqftu,7308,pics
+429,"That's because we killed their leader, no?",2015-07-29 00:48:03+00:00,ctjp4m9,5,t1_ctjhxo5,11529,technology
+430,"I get this with programming. It's not even just when dreaming, but when trying to fall asleep. Going to sleep for me is a bunch of if statements and loops if I've done 14+ hours of programming that day.. It's very distracting.",2015-07-17 09:13:20+00:00,ct6dq8h,2,t1_ct5zybt,33060,todayilearned
+431,"http://www.theguardian.com/society/2014/dec/28/asthma-elite-athletes-study-swimmers-cyclist-eid
+
+Here's a good article instead of a boring scientific paper :)",2015-07-14 13:46:54+00:00,ct2w2gj,6,t1_ct2v5ib,1818,Games
+432,"I was on it for about 5 years after a psychiatrist said I had ADHD.
+
+I was a hyper kid, but after I started on Adderall I got violent. Only after they realized I didn't actually have ADHD did they realize the drug had the opposite effect and they got me off it. Been normal ever since. Guess I was just an asshole, not adhd.
+",2015-07-14 09:47:42+00:00,ct2r6mp,3,t1_ct2mk06,15683,Games
+433,"Just so people know, this allegation is just stupid. Real independent studies have shown that long endurance athletes, especially in winter sports, have a significantly higher chance of getting asthma.
+
+Since cross country skiing is by far the most physically challenging, up to 40% of the best athletes are diagnosed with Asthma. However, it's the same for hockey players whose asthma statistics are nearly identical. Because of chlorine, many Olympic swimmers also have asthma.
+
+Kingstein's implication of his post is that the Norwegian cross-country skiing team are using fake diagnosis so they will be allowed to use asthma medicine and get an illegal advantage. Which is ironic, because every study done on asthma medicine shows no improvement. There is no advantage, and WADA has been petitioned multiple times to remove it as a banned substance, which is likely they will do in the near future.
+
+So just so everyone knows. Norwegian cross-country skiers don't suddenly develop fake asthma when they are drafted to the national team. They are participating in a sport where over 40% of their peers get asthma, so if they don't already have it, it's not too surprising they get it too.",2015-07-14 09:44:43+00:00,ct2r541,4,t1_ct2nnjo,12555,Games
+434,"I have to say, releasing one video for all best of threes is a terrible way to do it, and completely ruined my VOD experience.
+
+When I saw the video was 1 hour 30 minutes long, I knew instantly that it was decided after map 2, and whoever won map 1 would be the winner of the bo3. If it was 2 hours+ there was no point watching the first two maps.",2015-07-13 09:21:09+00:00,ct1jspi,1,t3_3ctd71,232297,CSeventVODs
+435,Is it actually illegal?,2015-07-10 22:15:13+00:00,csz3rig,2,t1_csysn8c,16572,WTF
+436,"But srsly, disease. I'm sure he needs a shot or something. I'd call a doctor and at least ask.",2015-07-10 08:16:17+00:00,csydywg,2,t1_csxytwg,33674,AskReddit
+437,"Holy shit my IP, 192.168.1.1 is the first IP that came up! You're a wizard!",2015-07-08 19:45:53+00:00,cswk1om,6,t1_cswex3p,7258,worldnews
+438,"I know for a fact that one of them was a warning shot as a man was challenging the police with a knife after stabbing two people. They decided to use batons and a police dog.
+
+https://translate.google.com/translate?sl=no&amp;tl=en&amp;js=y&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;u=http%3A%2F%2Fwww.vg.no%2Fnyheter%2Finnenriks%2Fkrim%2Fknivstikking-i-trondheim-avfyrte-varselskudd%2Fa%2F23434559%2F&amp;edit-text=",2015-07-08 09:15:06+00:00,csw0g8b,2,t1_csvo3b4,29817,worldnews
+439,just for ducks,2015-07-04 14:19:38+00:00,csrycda,4,t1_csrvh17,10119,gifs
+440,That's just racy lasism,2015-07-03 13:12:33+00:00,csqyldv,7,t1_csqx44d,4563,pics
+441,"Possible spoiler, because no one knows. What happened in the show was the last that happened in the book as well. However, in the book, his last words weren't ""Olly"". It was ""Ghost"".
+
+Why can't all reddit have a default spoiler tag -_-",2015-06-17 12:09:54+00:00,cs9gnx4,2,t1_cs9ef4l,7998,videos

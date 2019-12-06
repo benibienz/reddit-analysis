@@ -1,0 +1,314 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"This is just a non-informative scrape of an infoworld article.  The full article is [here](http://www.infoworld.com/article/3138018/security/developers-dont-ddos-your-own-apps.html).  While interesting, it boils down to a few programming tricks.  Am I missing something about how this applies to 'hacking'?",2016-11-15 16:21:17+00:00,da1eemh,1,t3_5d2uen,5804,HowToHack
+1,"Good starting off point:
+https://github.com/danielmiessler/SecLists",2016-11-14 16:34:09+00:00,d9zy9sf,3,t1_d9zvbzm,3978,HowToHack
+2,Note to all:  the general election isn't going to show up on that link yet.  Check your general election ballot at this link:  https://voter.azsos.gov/VoterView/AbsenteeBallotSearch.do,2016-11-13 08:04:54+00:00,d9y8pxp,1,t3_5cmkdc,38181,ZonaEnts
+3,I just picked up a set of 8 [on dhgate.com](http://www.dhgate.com/product/wholesale-1pcs-digispark-kickstarter-development/384711261.html) with free shipping for 13 and change.,2016-11-13 06:25:54+00:00,d9y6azy,3,t1_d9xb9at,48605,HowToHack
+4,"I've never tried it but you should just be able to grep for that length and output it to a temporary word list.  Just spitballing this command btw, there are probably way better ways to do this.
+
+    cat wordlist.txt | grep -x '.\{10,10\}' &gt; tempwordlist.txt",2016-11-09 15:58:26+00:00,d9sy73y,1,t3_5c0rmw,13049,Kalilinux
+5,"&gt; ASUS AC51
+
+Looks like this runs off a MediaTek MT7610U chipset.  I can't find much info on it aside from [this chart](https://wikidevi.com/wiki/Category:Linux_driver/802dot11) which has that chipset listed as 'unknown' for monitor mode.  There is a good chance it might just not support it.",2016-11-08 19:48:03+00:00,d9rixoe,5,t1_d9rgvn7,2365,Kalilinux
+6,"My Panda was plug and play.  I did have to do a little configuration as shown in [this video](https://www.youtube.com/watch?v=K1ETBeRQBs4) and now if I look my my Virtualbox Kali settings I see the Ralink WLAN listed under my USB Device Filters list.
+
+Apart from that I'm unfortunately not going to be of much help as it has been a bit since I set all of this up on my machine.",2016-11-08 19:36:16+00:00,d9ribkr,6,t1_d9rgwwh,1619,Kalilinux
+7,"It doesn't matter if it works with OSX, it just matters if it works with Kali inside the virtual machine, [which I just verified that it does](http://imgur.com/w3t1yhs).",2016-11-08 18:32:26+00:00,d9reyte,4,t1_d9rebgr,723,Kalilinux
+8,"
+There are quite a few TPLink USB sticks that operate on the AC600 standard.  Are you sure you got one with a compatible Atheros or Ralink chipset?  I'd recommend checking out [this list](http://www.codegeek.io/home/kali-linux-compatible-wireless-adapters/) if you haven't already.",2016-11-08 18:19:12+00:00,d9re9ap,4,t1_d9rccdk,2157,Kalilinux
+9,"Yeah, sorry to disappoint.  I feel decriminalization should be in there as well as a stop-gap for the time being.  With any luck the impending full legalization will cause police to turn more of a blind eye towards the issue.",2016-11-08 16:17:35+00:00,d9r7sv1,4,t1_d9r76wz,716,phoenix
+10,"Dunno if you are being serious or not, but just in case you are:  if this law passes it won't go into effect until Sept. 1, 2018",2016-11-08 15:55:08+00:00,d9r6o0v,2,t1_d9r5ipd,1396,phoenix
+11,Panda PAU05 works as well.,2016-11-08 15:49:26+00:00,d9r6dpa,2,t1_d9qsj6b,31004,Kalilinux
+12,I just picked up a [Panda PAU05](https://www.amazon.com/Panda-300Mbps-Wireless-USB-Adapter/dp/B00EQT0YK2) to use with Kali in a virtual box via my Macbook Pro and it was totally painless to get running. ,2016-11-08 15:46:36+00:00,d9r68mm,2,t1_d9qybps,12641,Kalilinux
+13,csploit,2016-11-03 04:18:25+00:00,d9jik1a,2,t1_d9ipx67,34997,tifu
+14,The kicker is I didn't bother setting the logging up yet.  Further proof that this was totally unintentional.,2016-11-03 04:18:17+00:00,d9jijty,2,t1_d9im86k,39237,tifu
+15,"csploit, but yeah.",2016-11-03 04:17:30+00:00,d9jiiml,3,t1_d9irp3s,32873,tifu
+16,Spot on.,2016-11-03 04:17:00+00:00,d9jihvd,3,t1_d9irxfz,32572,tifu
+17,'hacking' was supposed to be tongue in cheek.  Sorry the sarcasm didn't carry through.,2016-11-03 04:12:57+00:00,d9jibtd,2,t1_d9iohn7,36338,tifu
+18,I can offer you discounts at certain hotel chains but the cheapest it will get is 40 a night.  PM me if you are out of other options.,2016-10-28 22:57:19+00:00,d9c3o4b,1,t3_59wvn1,7579,phoenix
+19,"The tens of thousands of racist old white people descending on Phoenix for the winter beg to differ.  I really hope you are right, though.",2016-10-19 20:08:19+00:00,d8z8gqt,3,t1_d8z0xck,8505,phoenix
+20,"I am not going to stand here defending Hillary's moral standing and character, because I find them both lacking.  But I will say that between Hillary and Joe, one of them has been charged with a crime.",2016-10-17 23:19:32+00:00,d8wg29d,4,t1_d8we9km,2527,phoenix
+21,How federal contempt charges along with costing tax payers tens of millions of dollars doesn't disqualify you in the public's eyes is completely beyond me.,2016-10-17 21:37:32+00:00,d8wbkbg,2,t1_d8wa99e,1644,phoenix
+22,I would love to sew an answer to this,2016-10-17 02:48:32+00:00,d8v7rer,3,t1_d8v6qmd,1445,phoenix
+23,Keep in mind this is Sun City.  The average resident here is like 103 years old.,2016-10-11 22:08:18+00:00,d8nydiu,5,t1_d8nrgao,8652,mildlyinfuriating
+24,"Was supposed to be a tictac sponsorship, but that fell through.",2016-10-10 02:44:53+00:00,d8lcxyp,2,t1_d8lct93,154,politics
+25,"Nice, but way too many complete sentences in a row.  He speaks in fragments.  Disconjointed crazy fragments.",2016-08-02 20:03:56+00:00,d61ha7f,4,t1_d614rox,15403,politics
+26,Bees actually prefer chlorinated water for some reason.  They'll fly past fresh water in favor of your swimming pool.,2016-07-31 08:16:15+00:00,d5y4j73,2,t1_d5y2ici,6268,phoenix
+27,"&gt;We're not shills.
+
+That's exactly what I would expect [a shill to say!](http://www.zolligirl.com/wp-content/uploads/2013/12/angry-mob.jpg)",2016-07-22 22:20:16+00:00,d5myhyc,3,t1_d5mvzjh,3742,politics
+28,"I can't quite tell if you are being serious.  Did you really get a root canal and a crown, them follow it up immediately with margaritas and shrimp tacos?  Food is always the last thing on my mind after dental work.",2016-07-18 13:23:21+00:00,d5grbp1,2,t1_d5ghd9t,29452,phoenix
+29,"No, the science is always very straight forward.  The mixed aspect of it is morons like him voicing their uneducated opinions while looking at other's uneducated opinions and assuming those opinions are scientifically sound.  It's like a self-perpetuating wheel of stupidity going down the fast track to the Land of F*** This Planet AND the Future Generations of Humans.",2016-07-15 16:40:37+00:00,d5dhhir,1,t3_4syp0o,17634,politics
+30,Was he just exceptionally good at hiding his crazy during his Indiana election campaign?  What type of platform did he campaign on to get elected?,2016-07-15 16:38:10+00:00,d5dhdjs,2,t1_d5dcsya,6091,politics
+31,I lived in St Louis for over a decade before moving out to Phoenix last year.  I had never heard anyone ask that question before I moved to St. Louis and I haven't heard it since I left.  While in St. Louis I heard it all the time and it always blew me away that people would answer it because you *knew* they were asking it just so they had a basis on which to pre-judge you.,2016-07-11 17:31:57+00:00,d583or3,5,t1_d5830os,883,politics
+32,"Holy balls, guys... who down votes a compliment?",2016-07-09 16:21:36+00:00,d55mzvt,2,t1_d55drbl,24548,Guitar
+33,"In fairness, if there was one interview for Comey to at least sit in on, this was probably it.",2016-07-07 16:23:50+00:00,d52z2wn,3,t1_d52yzb4,126,politics
+34,Exterminator just sprayed this morning.  Nice to know all the external spraying was for naught.,2016-06-30 06:05:44+00:00,d4tng1g,1,t3_4qk04p,3528,phoenix
+35,"The was no *discernible* wind *where you were standing*.  While telling exactly what is happening from a video isn't going to happen, I think we can safely rule out poltergeists.  ",2016-06-21 17:49:26+00:00,d4i94b9,2,t1_d4hc3gh,64248,Physics
+36,Guilty.,2016-06-20 15:43:33+00:00,d4gqh09,2,t1_d4gm09k,6687,phoenix
+37,"I wouldn't necessarily say it sucks.  I've had plenty of people ask if I can get them free tickets to which I normally respond that they should buy tickets and support the con.  Honestly one of the huge reasons you don't see a lot of blockbuster media guests is that there are so many cons out there nowadays that the demand for these guests is high and they can charge outrageous prices just to show up.  Take this with a grain of salt, because I am about as far removed from booking talent as one could be, but I would hope with numbers like this they might be able to talk appearance fees down with promises of exposure/marketing intangibles.
+
+All that aside, I enjoy the Phoenix Fan Fest far more than Comicon.  It's usually in December (though it's been moved up to October this year) which means it is a lot cooler.  It isn't nearly as big, but they get some pretty cool people in there.",2016-06-15 17:46:26+00:00,d4agbf2,7,t1_d4afql3,709,phoenix
+38,"As someone who worked on staff, I wasn't given any bonus passes... I definitely wouldn't have minded it if I was, though.",2016-06-15 17:33:19+00:00,d4afoaw,5,t1_d4afcxz,386,phoenix
+39,"Oh boy, I wonder how many millions we can spend on this lawsuit that could have gone into education?  Bonus points if they tap into prop 123 funds because in the end it does have to do with the education system.",2016-05-26 00:47:27+00:00,d3jtvex,1,t3_4l1oy0,15678,phoenix
+40,I have literally never had this problem.  The only issue I have with these foam mattresses is that they break down after just 3 or so years and you also have to have a special bed frame for them because they don't work with traditional box springs.  Of course for the price I have no issues with throwing them away every 3 or 4 years and getting a new one.,2016-05-16 17:40:24+00:00,d37pv1u,4,t1_d37oyjw,1252,phoenix
+41,Here's hoping for any type of win.  5 straight losses hurts a bit.,2016-05-16 17:36:53+00:00,d37ppki,3,t1_d37mcgy,4782,phoenix
+42,"I like the idea, but this is really tough.  A guitar might sound amazing through an Orange amp, but the moment you hook it up to a Fender amp it loses all quality.  Likewise, how you choose to record the guitar (either by mic'ing an amp or going through some sort of pre-amp directly into a mixer, or any other way) is going to make a huge difference.  If this information is included, I would suggest having whoever recorded the demo provide very detailed information on how they recorded it.",2016-05-15 18:03:31+00:00,d36j9gs,2,t1_d36hqiw,2581,Guitar
+43,"Do you have a standard format in mind?  If you could provide exactly what information to provide I would be happy to to accommodate. Maybe some predefined headers like this:
+
+Maker:
+
+Model:
+
+Price Range:
+
+Origin:
+
+Hardware:
+
+Variations:
+
+Similar to:
+
+Also, are we just considering new guitars?  If buying new the SE and SE customs would be in your midrange, but you can find some used deals under 500.
+
+",2016-05-15 18:00:29+00:00,d36j5l1,5,t1_d36it2b,578,Guitar
+44,"There's actually quite a bit more to this since there are so many PRS SE variations.  Standards PRS SEs are built in Indonesia and are solid guitars.  Generally they are still of a decent quality for a price but lack the maple cap and veneer (last I heard).  The PRS SE Custom is a Korean-made guitar from the same factory that does Agile, LTD, Chapman, Dean, etc.  I personally own one of these and absolutely love it.  I will say that these vary quite a bit depending on what year you get, though.  In 2012 there was a major redesign that added coil tapping, a contoured top, and bird inlays instead of dot inlays.
+
+On top of all of this there are a BUNCH of signature models.  SE signatures include Tremonti, Santana, Navarro, Myers and more.  Each one has different neck profiles, different pickups, and different wirings.  That said, I've never played one I haven't enjoyed and would never try to sway someone away from it.
+
+As for the SE custom, I feel the neck is a little thinner and wider than most.  It definitely plays quick.  Coil tapping lets you switch from a thick humbucker sound to a more single-coil sound.  Of course you aren't going to get the sparkle you would out of a strat, but it does give you a lot more flexibility with your tone.",2016-05-15 17:45:18+00:00,d36ilxb,3,t1_d36hbk1,2182,Guitar
+45,"I've got a VKII 20 watt combo.  Love it because I can power soak it down to 1w which brings it to acceptable levels for bedroom playing while still giving me natural crunch without having to throw an overdrive pedal into the mix.  The cleans are decent but not on par with a Fender amp.  The distortion channel is decent but not on par with something like a Blackstar HT20.  All in all it is a 'decent' amp, especially if you can get it for a good price.
+
+I will note that a lot of tone I get out of this amp comes across as a bit 'muddy'.  I've thrown an EQ pedal in the effects loop which makes a HUGE difference.  All in all this is a highly versatile amp that you can get a lot of different sounds out of, but it isn't one of those amps with their 'signature sound'.",2016-05-10 00:01:04+00:00,d2z9wsb,1,t3_4i8p1l,242943,Guitar
+46,"Almost picked this up recently but ended up going with a PRS Korean guitar.  I have no regrets going with the guitar I did, but man... those Agile's are damn sexy.
+",2016-05-09 22:33:35+00:00,d2z6opl,1,t3_4iim7q,52671,Guitar
+47,"It really depends on what kind of guitar you have.  On some guitars (usually less expensive ones) you will find that they have a [swimming pool route](http://www.guitarfetish.com/thumbnail.asp?file=assets/images/xgp_stspr_bk.jpg&amp;maxx=300&amp;maxy=0) in which case, sure.  Getting a different pickguard with different pickups put in is definitely a possibility.  You might also find, though, that your pickup routes might leave a [little less room for flexibility](http://www.guitarfetish.com/assets/images/xgp_stnffr.jpg) in which case you'll have to deal with what you have.
+
+On the plus side, even if you can't put in full sized humbuckers, you always have [other options](http://www.musiciansfriend.com/stratocaster-pickups-humbucker/seymour-duncan-shr-1-hot-rails-single-coil-sized-humbucker-pickup) to let you squeeze in a humbucking pickup into a single coil space.  I can't vouch for their quality, though.  Never used them myself.",2016-05-07 19:17:30+00:00,d2wmrol,1,t3_4ib9g1,744,Guitar
+48,"Make it the fifth.  Someone got in through a teamviewer install on my home computer and went nuts on Amazon and Paypal...  I didn't even realize I still had teamviewer still installed.  Needless to say, it is uninstalled, computer has been wiped, and all passwords are now being handled through LastPass.",2016-05-04 22:39:16+00:00,d2t2jvo,2,t1_d2qglxp,162477,hacking
+49,Do you have any programming experience?  If you are transitioning from another OOP language to Java then The Complete Reference is decent.  If you are new to programming I would definitely recommend Head First Java.,2016-05-04 19:20:32+00:00,d2stk58,1,t3_4htsz2,33648,javahelp
+50,Wow... where do you get your weed?,2016-04-28 20:53:26+00:00,d2l70ym,3,t1_d2l6a39,1000,phoenix
+51,"You'd be upgrading for the service, but you'll be getting a raw deal on the data.  I pay 34 and change after taxes for unlimited calls/texts and a single gig of data.  45 will get you 2 gigs.  But then again, 10 dollar is 10 dollars.  If you don't think you'll ever break 2 gigs then you will be consistently saving money.",2016-04-28 19:57:21+00:00,d2l4hbs,8,t1_d2l1rom,3534,phoenix
+52,"To give a counterpoint I picked up the 5x because I was able to buy it outright for 200 bucks from Google.  If you are not looking for a phablet then it is a solid phone.  Fingerprint sensor is spot on, cameras are pretty good.  The one caveat is the external speaker is a joke.  If you listen to music through your phone's speaker I would take a pass on this and upgrade to the 6p.  If that isn't a concern you can shell out 200 for this phone and then you can have a phone bill around 35-45 a month.",2016-04-28 18:11:41+00:00,d2kzmny,6,t1_d2kyipi,1446,phoenix
+53,"It's a sick man who celebrates Hitler's birthday...
+
+edit:  Downvoted for a [Code Monkeys joke](https://www.youtube.com/watch?v=TZx_UbU47Dc)... what is this world coming to?",2016-04-20 15:48:57+00:00,d2afl11,2,t1_d2aeq1r,1103,phoenix
+54,I like your way of thinking.  Fudging the departure date didn't even occur to me.,2016-04-18 21:18:46+00:00,d281ck2,2,t1_d280ts5,723,travel
+55,"Sorry, that is a little confusing as both of these options are ""expedited"".  Should I do the 3 week expedite tomorrow and hope it gets here in under 2 weeks and 6 days?  Or should I do the 8 day expedite on next Monday?",2016-04-18 20:59:22+00:00,d280i4l,2,t1_d280864,372,travel
+56,As an American I always have to chuckle when we complain about other country's asinine measurement systems.  (P.S.  I am guilty of the same thing.),2016-04-14 16:42:15+00:00,d22rmiv,3,t1_d212cz6,100431,interestingasfuck
+57,"Yeah, that first one sucks.  I had one crawl on my leg during a meeting in my office building a few weeks after I moved here.  Luckily I haven't seen one since.  Was it outside?  In your house?",2016-04-07 15:41:34+00:00,d1tn73f,2,t1_d1tl985,2477,phoenix
+58,"Don't sweat it, his go-to argument is saying that someone is a child with absolutely nothing to back that claim up.",2016-04-06 22:17:52+00:00,d1sqzps,11,t1_d1sm8hi,6369,politics
+59,Hah.  So by not aggressively insulting previous posters and instead trying to bring light deficiencies in their arguments and understanding I get a comment telling me to calm down.  I believe the correct recourse right now is to say that you have 'lost patience' with me and run negative attack ads.,2016-04-06 19:29:05+00:00,d1sj6cv,6,t1_d1sixzf,268,politics
+60,"To add to this, there is a site where you can [check on the status of your early voting ballot to make sure it was received and counted](https://voter.azsos.gov/VoterView/AbsenteeBallotSearch.do).  I was kind of worried about throwing my vote out into the abyss that is the USPS, but knowing I could check on it made me happy.",2016-04-06 19:15:49+00:00,d1siii8,2,t1_d1sew85,4522,phoenix
+61,"Please, insinuate that I am a child and that I don't know what I am saying because of that.  Obviously a great way to make a point.
+
+Perhaps instead of flinging attitude and sarcasm you might do yourself a favor and try to differentiate between being party of the [establishment](http://www.npr.org/2016/02/11/466049701/how-establishment-became-the-buzzword-of-the-2016-election) and simply being established.  
+
+This is along the same lines as people trying to argue that he is socialist and ignoring the fact that there is a HUGE difference between 'socialism' and 'democratic socialism'.  English is tricky like that.
+
+But please, I tried to bring a modicum of discussion and evidence into the conversation.  I believe your recourse will now be to try and insult/downvote/humiliate in any way you can. There are plenty of fronts on which I don't agree with Sanders, but to call him an 'establishment senator' is to piss on his voting record from his decades of fighting for middle to low income earners.  If that is mental gymnastics, then fine.  I am content with that.",2016-04-06 19:06:25+00:00,d1si2b8,4,t1_d1sgxhz,1409,politics
+62,Just because he is a senator doesn't mean he is an 'establishment politician'.  There is a reason he is being treated as a hostile candidate and actively being hindered by the DNC.,2016-04-06 18:26:53+00:00,d1sg5qb,2,t1_d1sdoo8,3078,politics
+63,He also *IS* a guy the party hates.  Apparently once you swing far enough right you fall completely off the Republican spectrum and enter a land of self-loathing.,2016-04-05 17:04:32+00:00,d1qwght,4,t1_d1qw8vm,265,politics
+64,We can't all be Leicester fans.,2016-04-01 19:41:08+00:00,d1m661q,3,t1_d1lyjt4,10539,phoenix
+65,COYS!,2016-04-01 19:40:39+00:00,d1m65ag,2,t1_d1lwfw9,13463,phoenix
+66,Moved from a suburb of St. Louis.  I actually lived in Ferguson during the riots and my insurance still wasn't even close to what I am paying here.  I am currently in Glendale around 65 and Cactus.  I didn't think it was too high-crime.,2016-03-21 20:16:13+00:00,d189n7k,3,t1_d185xpx,4946,phoenix
+67,Need to vent:  screw insurance rates in the valley.  I have gone 15 years without so much as a fender bender or traffic ticket and moving to Phoenix has *tripled* my insurance rate.  I can't even really shop around because USAA is fairly rock-bottom in terms of insurance costs.,2016-03-21 17:41:58+00:00,d182pas,1,t3_4bc9by,14975,phoenix
+68,"It is hard to say whether there should be a curve, not knowing anything about your class dynamics.  Honestly, though, I feel colleges are FAR too lenient on students and don't fail nearly enough people.  I graduated a few years ago with a physics degree and was flabbergasted by some of the other people who were graduating with my exact same degree and hardly learned anything during their 4 years.  It really cheapened my degree knowing that they got the same piece of paper.
+
+Don't rely on your teacher to take any of the responsibility.  You are supposed to be distinguishing yourself on a higher level of learning and you shouldn't have to be coddled and have your head patted on your way to finishing your degree.  Suck it up, study harder and prove to both yourself and everyone else that you are smart enough and dedicated enough to make this happen.  It will go a LONG way in putting you into a mindset for success when you get an actual job.",2016-03-21 17:38:09+00:00,d182j7s,2,t1_d180h92,2862,phoenix
+69,Happy first day of spring to all!  Heading down to Shamrock Farms with the kids for an Easter egg hunt.,2016-03-20 14:47:32+00:00,d16qk3a,1,t3_4b7icj,4516,phoenix
+70,I don't know much about the legislation and hope someone might be able to fill in the gaps:  What would happen if they both make the ballot and are both passe?  Are there competing clauses that will conflict with each other?,2016-03-16 18:38:49+00:00,d129w2y,2,t1_d1250jn,6495,ZonaEnts
+71,"They make USB heated fingerless gloves. Never tried them myself,  though. ",2016-03-15 22:58:09+00:00,d118fha,1,t3_4akeyj,7354,javahelp
+72,"Aside from the fact that you licked the envelope closed?  No.  You could easily go around your neighborhood, collect envelopes, steam them open and then submit the ones you agree with.  I doubt anyone is doing this currently but if they did it is now a felony.",2016-03-10 19:47:57+00:00,d0v32k0,2,t1_d0v2e52,872,phoenix
+73,"I'm rather on the fence about this one.  No, you will not be commiting a felony.  Here are the people who can deliver your ballot now:
+
+* An election official
+* Family by blood or adoption
+* Anyone from the same residence as you
+* Postal workers
+
+I think it is stupid that they are wasting time on a non-problem, but I also already thought attempting to manipulate the voting system was a felony.  The worst part of this is wasting legislative time with something that will not affect anyone in the future.",2016-03-10 19:46:53+00:00,d0v30pk,2,t1_d0v0gaq,3315,phoenix
+74,Good ol' Tacoma Narrows.  If I had a dollar for every time that came up in a physics or engineering class.... I could probably buy an extra value meal.,2016-03-02 23:16:21+00:00,d0lcpd3,2,t1_d0l2vvb,12757,WTF
+75,I'll take an extra day any year I can get it.  By the end of every year I'm always left wishing I could have gotten a little more done than I actually did.  Maybe I'll make it a point to get some of that stuff done today.,2016-02-29 18:00:43+00:00,d0ia538,2,t1_d0i73rz,4245,phoenix
+76,I have yet to play Trine 3 but if I hear a developer speak ill of their own game it does make me hesitant.  Why would you include something you aren't proud of in something like a humble bundle that will get it even more exposure?  Aren't you worried that might dissuade people from buying future Frozenbyte games?,2016-02-26 17:45:31+00:00,d0esz2b,1,t3_47pm9l,6520,IAmA
+77,"Sorry, I believe it is 'place'.  You'll have to forgive me; this is my first time voting in Arizona and things are slightly different from what I am used to.",2016-02-26 16:28:17+00:00,d0epk2r,4,t1_d0epard,360,phoenix
+78,"Got my primary ballot in the mail yesterday.  Already completed and mailed back out today.  
+
+NOTE:  If you are doing early mail voting **MAKE SURE TO READ AND FOLLOW ALL DIRECTIONS CORRECTLY**.  Failing to sign in all the correct places will render your vote invalid.",2016-02-26 16:15:39+00:00,d0ep05h,2,t1_d0eoiji,674,phoenix
+79,"Hey, no offense.  I was just trying to look out.  I would hate to see anyone damage equipment that they loved.",2016-02-24 22:54:14+00:00,d0cjzfc,4,t1_d0cjuwl,182,Guitar
+80,Wait... you're running your speaker output from the tube into the pre-amp of a solid state amplifier?  I'm no tube amp expert but from what I understand if your tube amp isn't driving a speaker then you can really end up damaging it.  Hopefully somebody with more experience can weigh in on this.,2016-02-24 21:46:35+00:00,d0ch10k,2,t1_d0cebxi,3412,Guitar
+81,"You kind of answered your own question in title of your post.  Surround the code you want to repeat with a 'while' loop.  I would recommend having a boolean called foundCorrectAnswer and set it to false.  you can then say something like this:
+
+    while (!foundCorrectAnswer){
+      // get their input 
+      // check to see if it is correct
+      // if it is correct congratulate them and set foundCorrectAnswer to true  
+     }   
+
+That way once you set foundCorrectAnswer to true it will break out of your loop you created.  ",2016-02-24 21:34:09+00:00,d0cgfiu,1,t3_47eq60,3459,javahelp
+82,So the leak just stopped on its own?  That's either very lucky or very worrisome. ,2016-02-24 17:02:37+00:00,d0c4205,2,t1_d0c161u,4047,phoenix
+83,Just found out that my Cox UBEE modem doesn't allow for custom DNS servers...  weak sauce.,2016-02-24 04:33:51+00:00,d0bl2f3,1,t3_47a6fn,8950,phoenix
+84,There are TONS of stay-at-home mom/dad meetup groups where they organize all sorts of get-togethers.  On the plus side you get to meet some parents as well which is never a bad thing.  A quick search on meetup.com or searching on facebook will turn up quite a few things.,2016-02-22 20:50:53+00:00,d09prkc,1,t3_472jh2,4340,phoenix
+85,"Only been here for a couple months.  Haven't even really met too many neighbors,  much less interacted with them enough to have forged any kind of feelings.  Seeing as how the lights were on with multiple vehicles in the driveway I am doubting it was a robbery attempt.  Chalking this up to vandalism. What really sucks is spending hours trying to remove glass shards from all over my preschoolers room",2016-02-21 21:20:17+00:00,d08hzpy,3,t1_d08fbxw,4189,phoenix
+86,"Someone threw a rock through the front window of the house we are renting last night.  I was under the impression this was supposed to be a pretty decent neighborhood as well.  What is up with Phoenix and this stupid, dumb-ass petty vandalism?  Lived in St Louis for 15 years and never even heard about something like this happening.  In Phoenix for 3 months and now this.  ",2016-02-21 16:56:47+00:00,d088a9d,1,t3_46v96z,12265,phoenix
+87,"I wouldn't recommend spending money on any of the Oracle certified exams.  I have never had anyone ask about Oracle certifications and I have never met anyone who has expressed they were glad for getting theirs.  Use that money and buy some decent literature (Head First Java, Clean Code, Effective Java SE) and start coding.  Make a github account and start posting anything you write.  Go to a local Java Developers meet up and network.  Honestly there are tons of things you can do to prepare yourself and begin to make yourself marketable for an entry level position.",2016-02-12 22:16:00+00:00,czxu6ds,4,t1_czxst0v,2131,javahelp
+88,It is probably a Blendtec™ helicopter.  Woman dust!  Don't breath this!,2016-02-11 22:28:31+00:00,czwkrv8,2,t1_czwcbp2,11404,gaming
+89,Jesus.  I thought this was a metaphor.  Why not have the competing sides of the caucus participate in a tug-of-war?  Much more entertaining.,2016-02-02 18:48:58+00:00,czl9uuf,1,t3_43tb8m,38787,Upvoted
+90,"Normally NPR on 91.5 KJZZ, but if the news is particular depressing I'll often flip over to 93.3 Alt AZ.",2016-02-02 16:03:06+00:00,czl2viv,1,t3_43uskx,414,phoenix
+91,"1. You should try picking up anything you find interesting and make an effort to never stop learning.  I understand you didn't like your job, but that was really no excuse to stop developing yourself.  You can join coding groups, partake in hackathons, etc. to keep yourself learning and more viable/marketable in the industry.
+
+2. If that is where your interests lie.  Honestly I leave things I know off my resume just because I know I would be unhappy doing them full-time. 
+
+3. It really depends on what you meant by 'you didn't do well at interviews'.  Did you flub a lot of programming questions that you should have gotten?  Then yes.  Learn more programming nomenclature and processes.  Of course, no company is going to expect you to know every single thing they ask.  A lot of the times they are just seeing how you respond to being in a difficult position.  That brings us to the next question: did you flub interviews because you are not as strong as you could be in the communication department?  If that is the case then maybe you should find a local Toastmasters group and get some public/small group speaking experience under your belt.
+
+4. Yes.  Join an open source project.  Write some proof of concept things using new technologies.  Polish them and show that you are a developer who cares about their code.  Companies will guaranteed look at your github profile.
+
+5. There are plenty of .NET jobs out there.  Maybe you should start a .NET personal project and throw the code up on github?
+
+6. I wouldn't necessarily say you need to be an expert, but you should know what direction Java is headed in and show an interest in it.  I would recommend [this book](http://www.amazon.com/Java-SE8-Really-Impatient-Course/dp/0321927761/) if you want to quickly assimilate the key points of 8.  Again, this just shows companies that you really do love programming and care about what is new and what is on the horizon.
+
+7. Be honest: tell them you were fired, what lead up to it, what you learned from the experience, and that it was a wakeup call that has lead to you working diligently towards personal development in the future in order to avoid a situation like that again.  Then drop it and get back to your interview.
+
+8. Who knows.  All you have told us is that you didn't like the work you were doing.  Do you like the business logic side of it?  Maybe you should be a BA.  Do you like trying to break software?  Take your programming skills and get into QA testing.  Finding out you don't like computers?  There's always Peace Corps.  Find a passion.  I started my professional career as a physicist but fell into comp sci due to lack of jobs/money.  I haven't regretted it a single day and I love my job.  Because of that I push myself to learn more which in turn leads me to higher salaries and bigger titles, which makes me love my job even more.  Sure it gets tedious some days, but good luck finding a job that doesn't.
+
+TL;DR:  Figure out what you want to be when you grow up and start pushing in that direction.",2016-01-15 20:58:11+00:00,cyzndi8,1,t3_414p1g,4781,java
+92,All of the schools do which means parents probably have to burn vacation if they don't already get the day off.,2016-01-15 16:55:39+00:00,cyzcutu,3,t1_cyzbgz2,1947,phoenix
+93,"That looks outstanding!  Honestly, Indian food is probably the only way I could keep my sanity if I ever had to go vegetarian.",2016-01-15 16:54:56+00:00,cyzctqc,2,t1_cyzcqmb,122,phoenix
+94,I am also curious about this.  I signed a petition in early December but I have no idea which one it was.  ,2016-01-14 14:38:48+00:00,cyxx1qn,2,t1_cyxv8h1,3596,phoenix
+95,I had to trash one with upgraded springs/latch after my 4 year old shot my wife point blank the leg with it.  Left a donut welt.,2016-01-07 23:28:38+00:00,cypycyj,6,t1_cypvno5,3956,WTF
+96,"I would be more worried about the general sanitary nature of that water and the fact that his shoes are definitely not waterproof.  Nothing like picking up some diseases by plodding around in some sewage-tainted flood water.
+",2016-01-07 16:27:00+00:00,cypg2om,3,t1_cyp8pny,14672,WTF
+97,Perfect 5/7,2016-01-06 16:25:18+00:00,cyo5bw6,3,t1_cyo1auw,6497,phoenix
+98,Did you drive or walk?  Some of those trails seem like they would be pretty treacherous when wet.,2016-01-06 05:50:23+00:00,cynracx,1,t3_3znn1r,12290,phoenix
+99,"No,  the site didn't give me the option of contacting support.  Just told me what I needed to mail to your PO Box.  I'll try to find the contact info for support,  thanks! ",2016-01-05 06:00:39+00:00,cymi2ko,3,t1_cymhca8,1637,IAmA
+100,I apparently mis-entered one of my id validation questions (though I'm pretty confident I didn't).  Do I seriously have to photocopy PII documents and send them through the US mail service?  This doesn't feel any more secure than just emailing the documents to your company directly.  Plus I haven't owned envelopes or stamps in years...,2016-01-05 05:12:17+00:00,cymgpxo,1,t3_3zh78n,21815,IAmA
+101,That violin looks an awful lot like a classical guitar.,2016-01-04 06:54:36+00:00,cylat6l,1,t3_3zcy89,13596,Guitar
+102,"You are going to get all manner of answers here.  Go and play a bunch of amps in the 300 to 400 price range and find a few with tone that really speaks to you.  Then start looking for great deals on those amps.   Be patient and you will come across something for the right price. 
+
+Don't buy an amp just because it is a 'good deal for the money'.  If it doesn't sound good to your ear then it isn't worth your time or cash,  no matter how good the deal is. ",2016-01-03 21:16:05+00:00,cykqrhx,1,t3_3zawnc,8699,Guitar
+103,"Desertwide has been mediocre as a property manager.   While I don't believe they deserve all the 1 star ratings they get,  you definitely have to stay on top of them to get things taken care of. ",2016-01-03 17:01:01+00:00,cykgwnb,1,t3_3z8qwr,39583,phoenix
+104,"Looks like it is [12 watts](http://www.sweetwater.com/store/detail/Crush12OR).  I can't imagine getting a new 12"" combo amp for less than 200 bucks unless you find a crazy good deal.  Should be an OK starter amp but you will no doubt outgrow that amp before you outgrow the guitar.
+
+Hopefully OP at least played a few guitars before settling on that LP.  I love LP-style guitars but I know just as many people who can't stand them.  I will say the Epiphone LPs are fairly solid performers if you take the time to set them up right.  I have found it to be a constant battle finding that balance between decent string height and constant fret buzz.",2015-12-31 17:48:02+00:00,cyhgxzw,2,t1_cyhc1r8,8680,Guitar
+105,"Totally agree.  If you don't need an amp right this second then keep your eyes on craigslist or any other local buy/sell sites.  I snagged a [Peavey ValveKing 2 20W Combo](http://www.musiciansfriend.com/amplifiers-effects/peavey-valveking-ii-20-20w-1x12-tube-guitar-combo-amp) that still had the stickers on it and was under warranty for another 6 months for 235 bucks.
+
+Just to comment on that amp, I really dig my valveking (I actually end up playing it a lot more than my Silvertone Twin Twelve) because of how versatile it is.  I would highly recommend an EQ pedal for it though, as the mids are a little muddy.  New speaker would probably help.  Oh, and the VK2 can power-soak down to 5w and 1w for quieter playing.",2015-12-20 07:29:51+00:00,cy5b63v,4,t1_cy5a1y5,3490,Guitar
+106,I find myself rooting for those things to catch on fire.,2015-12-17 19:22:57+00:00,cy2j6aw,1,t3_3x7zqw,15103,WTF
+107,"Lets say you are iterating over a for loop from 1 to 100.  Your code would look something like this:
+
+    for(int i = 0 ; i &lt; 100 ; i ++){
+       drawLine(0, i + 1, 100 - i, 0);
+    }        
+This way as i increases it will change the endpoints to your line.  Note that the drawLine thing is pseudo code.",2015-12-14 15:43:27+00:00,cxyq8xx,3,t1_cxyfy3v,31432,javahelp
+108,"This looks like a 100 by 100 grid.  In this case you will be drawing lines to connect points on the outside of the box.  To create a line you will need to specify the two endpoints.  Basically you just start at two adjacent corners of the box and start moving by one grid point each.  Your pairs should look like this:
+
+* (0,1) to (100,0)
+* (0,2) to (99,0)
+* (0,3) to (98,0)
+* etc
+
+Once you manage to get one of these sets done it should be pretty clear how to complete the other 3 sets.",2015-12-14 05:51:18+00:00,cxyeday,1,t3_3wqdsd,10543,javahelp
+109,"Turns out that it is a 4 pin outlet wired into a 3 wire supply with the neutral going to the ground hole.  Like an asshole I wired the dryer cord the correct way.  Best I can guess is someone had a dryer with a 4 pin cord and decided they should replace the outlet rather than the cord itself?  Either way, myster solved.",2015-12-11 01:39:04+00:00,cxutvgf,4,t1_cxuafji,29117,electricians
+110,4 pin.  I mentioned in another comment that after testing the outlet directly and not just the wire poles in the dryer that the readings are a little clearer.  It looks like there is something wrong with my neutral line somewhere.,2015-12-10 17:30:30+00:00,cxuaakt,2,t1_cxu5akq,7260,electricians
+111,"So I think that the circuitry in the dryer was affecting readings across the leads.  I completely disconnected the dryer and tested straight from the outlet.  There are still issues but I think the problem is much more apparent:
+
+line to line:  240 V
+line to ground: 120 V each
+line to neutral: 0 V each
+
+I'm thinking there is an issue with my outlet (hopefully) as the neutral doesn't seem to be hooked up to anything.  The dryer originally had the neutral terminal directly linked to the ground which would make it functional, but not in a very safe way I don't think.  I am going to inspect and probably replace the receptacle tonight.",2015-12-10 17:29:15+00:00,cxua8mo,2,t1_cxtyucm,23614,electricians
+112,Interesting.  I thought Arizona was being pretty chill today.,2015-12-07 17:02:17+00:00,cxqeud3,2,t1_cxqa6y5,7484,phoenix
+113,"I'm sad nobody answered this.  There are a ton of spotlight panels that are free (past your entry fee) where you can hear celebs talk about what they've done and what they are doing.  Tons of vendors if you are into geek culture collectibles, comics, etc.  There were costume contests for all the cosplayers.  Honestly I'm not super-huge into the comic scene and I had a blast today.  The dude that voiced Skeletor in He-Man was absolutely hilarious.",2015-12-06 00:50:35+00:00,cxolo78,2,t1_cxk3v3n,327621,phoenix
+114,"Forewarning: I have a background in physics and not meteorology, but I will give you a very simple answer.  Basically El Niño is a rare-ish condition in the Pacific ocean where there is a huge area of warmer-than-usual water along the equator.  All of this extra heat energy ""pushes around"" the jet streams.  These jet streams help dictate where specific types of weather are usually going to happen, so when they move, the weather moves with them. 
+
+What this means is that rain was always going to fall somewhere, but with the jet streams getting pushed it is now going to happen somewhere where it normally doesn't (here).
+
+Keep in mind that this is all just a possibility.  El Niño is such a ridiculously complex system that it is impossible to model and forecast accurately.",2015-11-18 16:55:08+00:00,cx4nkzl,6,t1_cx4mro5,1188,phoenix
+115,Just moved here from Missouri.  Was told to expect warm and dry.  It has been chilled and rainy.  My friends are all liars.,2015-11-18 16:03:17+00:00,cx4lite,2,t1_cx4iyjh,4294,phoenix
+116,I'm trying to imagine what type of job would require a setup like that.  Best I can come up with is some type of television network director.,2015-11-18 15:59:03+00:00,cx4lczt,2,t1_cx4l5hi,328,phoenix
+117,IIRC all bismuth crystals are lab made. Pure bismuth doesn't occur naturally and must be refined down. ,2015-11-01 03:00:36+00:00,cwk3b4k,7,t1_cwk2s4u,1093,WTF
+118,"&gt; **You do not fucking use SHA1. Ever.**
+
+There should be a way to make this extra bold.  ",2015-10-16 15:53:01+00:00,cw1y0v4,2,t1_cw1t8qn,7841,java
+119,"It's not strictly a pizza place, but Balducci's Restaurant in Maryland Heights and their Vineyard in Augusta have some great deep dish pizzas.",2015-10-06 16:00:03+00:00,cvq6yic,1,t3_3nprj6,2840,StLouis
+120,"Geometry.  If you have a string that is 24 inches long (for the sake of argument) and you bend it to 2 degrees then the length of the string between the bridge and the fret changes from 24 inches to ~24.01.  The higher pitch comes from increased string tension, not string length.
+
+Think about using a whammy bar.  If you use a Floyd Rose and pitch up, you aren't shortening the string, you are adding more tension to it.",2015-10-05 16:26:12+00:00,cvp18x2,7,t1_cvp0xlg,481,Guitar
+121,"I've found there is sometimes a disparity between what a human resources person will ask you in the pre-screen and what the technical person will ask you during the interview.
+
+Case in point:  I just had an HR person ask me (and this isn't a typo) what features did Java 5 introduce.  Later I talked with an architect who was more interested in asking me about my stance on XML vs annotation configuration and my views on Spring Boot.  Day and night, even when dealing with the same company.",2015-09-25 04:08:14+00:00,cvdf72l,1,t3_3m6zts,54564,java
+122,"Finished a degree in Physics at a bad time (national budget crisis meant a lot of national labs were cutting jobs).  Studies Java for 3 months, landed a job, and have been programming professionally ever since (a little over 2 years now).",2015-09-15 17:05:55+00:00,cv2if38,1,t3_3l140g,20016,java
+123,"Thanks!  I incorrectly assumed it was hitting 
+    https://api.github.com/users/{eachUserInAList} 
+and not just that url specifically.  I didn't realize that
+    https://api.github.com/users
+returned a pre-determined set of users.",2015-09-14 14:42:36+00:00,cv1600r,2,t1_cv0xg6l,27249,aureliajs
+124,"Ahh, please ignore this follow-up question.  I never bothered hitting the actual endpoint and was thinking https://api.github.com/users was taking an argument and delivering tailored info.  I see what it is doing now.",2015-09-14 14:39:36+00:00,cv15w8y,3,t1_cv14j6e,2540,aureliajs
+125,"I understand that the activate method is called as party of the lifecycle, what I don't understand is where the list of users that are being fetched is set.  From what I can see the controller goes through the following steps:
+
+* sets heading to 'Github Users'
+* creates an empty array called 'users'
+* has a constructor that sets the base endpoint of the service call to 'https://api.github.com
+* has an activate method that does a fetch based on the list of users.
+
+My lapse is where we go from 'users = []' to 'users = [bob, dick, jane]'.",2015-09-14 13:57:16+00:00,cv14j6e,2,t1_cv108o6,12133,aureliajs
+126,So as there is no biasing pot my option would be to test it and then possibly replace a resistor.  I'm thinking it might be worth the money just to get a new pair of tubes.,2015-09-11 02:40:33+00:00,cuxi842,2,t1_cuxgtv0,2415,Guitar
+127,He can [fight like a crow!](https://www.youtube.com/watch?v=BEMlvjJ9uxo),2015-09-08 13:57:35+00:00,cuuekxk,1,t3_3k1t0v,37733,WTF
+128,"Spring Boot is practically a framework to use the Spring framework.  It makes it insanely simple to get a well-featured project up and running in a matter of minutes.  Now much like anything that automated, it is going to load a lot of stuff you probably don't need, but if getting a micro-service or small project up and running in an hour sounds of interest I would highly recommend checking out a couple of tutorials and seeing what you think.",2015-09-04 01:33:49+00:00,cupyjh9,3,t1_cuphvh2,27075,javahelp
+129,I had no idea that the delay between hitting a key and seeing it on the screen was such a huge pain point with some people.  I guess I'm just not that discerning.,2015-09-02 21:36:48+00:00,cuoluy0,1,t3_3jcfiz,36375,java
+130,The fake ticket is probably the least intriguing thing about this story.  What was in the bag???,2015-09-01 15:28:45+00:00,cun2k8a,1,t3_3j7yb9,4835,StLouis
+131,"It just isn't a worthwhile repo unless there is at least one commit that says ""Jesus I am stupid"".  This repo meets that requirement.  I will definitely be following the development.",2015-08-30 05:03:30+00:00,cukh2zm,1,t3_3ivesh,36771,java
+132,Missing Dr. Acula.,2015-08-28 06:07:29+00:00,cuidanm,1,t3_3iolnm,9652,gaming
+133,"That is NOT what Nair is for...  You are purposefully trying to ruin peoples' days saying stuff like that.
+",2015-08-24 17:38:57+00:00,cue3mhe,2,t1_cudwdc5,11734,gaming
+134,[Here is a solid video mashup of the two.](https://vimeo.com/119649127),2015-08-22 16:27:51+00:00,cubwjp7,2,t1_cubrv6q,9779,Music
+135,"http://www.cleardarksky.com/c/CncBlfRAMOkey.html?1
+
+This has all the information about the site including upcoming astronomy conditions in the area.  You can click road map to see the site.  It is a little deceiving as it looks like you are totally surrounded by trees, but most of the sky is visible.  Best viewing conditions I've had in Missouri.",2015-08-13 20:36:35+00:00,cu207v9,3,t1_cu1n7uh,19038,StLouis
+136,"If you're up for some camping, Council Bluffs in the Mark Twain forest has a nice telescope site.",2015-08-13 00:32:32+00:00,cu11nfo,1,t3_3gqhb4,31014,StLouis
+137,I'd personally rewrite #5 as 'default to apache collection and string utils for checking stuff.  It is much easier to read CollectionUtils.isNotEmpty(myCollection) than having multiple tests inside your conditional.,2015-08-11 17:12:43+00:00,ctzc2pc,1,t3_3gliut,9034,java
+138,+1 for Onondaga.  Sweet cave to visit as well. ,2015-07-30 07:06:42+00:00,ctlarqo,2,t1_ctkvdnm,29894,StLouis
+139,"You might want to check your ISP terms of service agreement.  Most are very explicit that you cannot run servers, host websites, etc. off of a non-commercial connection.",2015-07-28 17:58:26+00:00,ctj8jhj,1,t3_3ex97h,1076,java
+140,"Android devs will get paid more than Java devs due to the fact that they already know Java and have specialization in a different technology (Android).  In the US I would say that is OK for a contractor salary, but we would have to play 100% of our insurance costs out of pocket.  Last I checked you didn't have to worry about that in the UK.  So I would say this is an acceptable pay rate in London, but would be amazing elsewhere.  I would guess he had to take a pay cut when he went on salary though.",2015-07-21 13:55:10+00:00,ctauzic,2,t1_ctaosc0,19738,java
+141,I've always wondered why there are so many expat software developers stateside and I think I am beginning to see the reason.,2015-07-21 13:46:53+00:00,ctauqb4,3,t1_ctaopae,19577,java
+142,I wish I was kidding because I have had to turn down some pretty sweet-sounding jobs in the San Fran and Mountain View areas.  I live in St. Louis where cost of living is damn low and 100k for an experienced developer isn't out of the question.  This is worth [quite a bit less in SF](http://www.bestplaces.net/cost-of-living/st.-louis-mo/san-francisco-ca/100000).  It seems worse depending on what type of living arrangements you are expecting.  I have 3 kids and would want a house with multiple bedrooms.  That is going to affect my cost of living in a much more negative way as housing in SF is crazy.,2015-07-21 13:44:29+00:00,ctauno5,5,t1_ctarxl9,6692,java
+143,Do a cost of living comparison between where you live and San Francisco.  I wouldn't move there for less than 200k.,2015-07-21 06:45:18+00:00,ctan39s,3,t1_ctam7rl,2626,java
+144,"If you are enjoying the access experience you might want to consider picking up .NET as a programming language.  While it is possible to integrate Java with Access, I've never seen a java developer job description asking for Access experience.  It is almost exclusively sql and nosql databases.",2015-07-21 05:51:47+00:00,ctam0ee,3,t1_ctah2yi,10815,learnjava
+145,"Out of curiosity, why not Java 8?",2015-07-21 02:43:02+00:00,ctagsql,1,t3_3e06z4,12765,javahelp
+146,This data seems a little contrived at the very least.  This is showing the use of the word as compared to its usage in other areas.  I think a much needed metric would be showing the frequency of use of each word against each other.,2015-07-20 18:57:30+00:00,ct9ztda,1,t3_3dyv3w,5424,StLouis
+147,"Unfortunately if you work at a large company you don't really get a say in what tools you use.  We have legacy code operating on 1.6 and since the data it touches isn't PII they aren't going to bother spending money on upgrading it until something catastrophic happens.  That said, it looks like Java 8 still only has a [20 percent market share](https://plumbr.eu/blog/java/java-version-statistics-2015-edition) right now, so most people in the professional industry who might not have the freedom to use the latest and greatest are still going to have to cope with nulls without the use of Optional.",2015-07-20 18:10:34+00:00,ct9xwcq,4,t1_ct9xe2v,753,javahelp
+148,"Great idea, but isn't this limited to Java 8?  I've seen @NotNull used in Java EE 6, but for standard pre-8 Java it seems that null checks are a necessary evil if you can't depend on the input from other applications/servers/user/etc.  I'd love to hear ideas on how to handle null values in regards to Java 6 as that is probably the most prolific Java version used in larger companies right now.",2015-07-20 17:52:11+00:00,ct9x5iz,2,t1_ct9rg5p,8608,javahelp
+149,"Good on you making something useful to learn to use Java; the main thing I would say is you need to start utilizing Java's object oriented nature to help clean up your code.  I would *highly* recommend reading [Robert Martin's Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) as it will show you how to make your code not only functional, but readable and maintainable. 
+
+Also, posting your github code is probably enough for a place like this.  I can't speak for everyone else, but I am never going to run an executable linked by someone in a forum (even if I know them).",2015-07-20 03:50:07+00:00,ct9cdlr,1,t3_3duljg,38740,learnjava
+150,This is pretty vague.  What type of database access are you trying to learn how to do?  Do you want to do straight SQL queries with JDBC?  Do you want to use Spring/Hibernate and utilize ORM mapping?  Have you set up a functional SQL database on your home PC and run hand-written queries against it?,2015-07-20 03:45:26+00:00,ct9c8o2,1,t3_3dvpdi,18256,learnjava
+151,"Aside from shelling out personal money?  Not really.  Depending on what state you are in there may be more hoops to jump through.  I'd recommend [reading this](http://www.nolo.com/legal-encyclopedia/form-llc-how-to-organize-llc-30287.html) and then doing a Google search for forming an LLC in your state.
+
+NINJA EDIT:  Don't forget since you are operating your own business you can start tallying ANYTHING you buy in support of the business and use it as a [tax write-off](http://www.irs.gov/Businesses/Small-Businesses-&amp;-Self-Employed/Deducting-Business-Expenses).",2015-07-20 03:35:41+00:00,ct9byir,3,t1_ct9bu13,256,iOSProgramming
+152,"If you are making money off of an application you should probably shield yourself from a nasty tax audit and start tracking your earnings.  Most small companies are usually [LLCs](https://en.wikipedia.org/wiki/Limited_liability_company) which means if the proverbial crap were to hit the fan then people could sue your business, but all of your private assets are protected.
+
+Again, if you are earning any kind of money [forming an LLC is cheap and easy](http://guides.wsj.com/small-business/starting-a-business/how-to-start-an-llc/) though rules can vary depending on what state you are in.  You might also consider reading up on the IRS site about [filing taxes quarterly](http://www.irs.gov/Businesses/Small-Businesses-&amp;-Self-Employed/Self-Employed-Individuals-Tax-Center) so you don't get pummeled come next April if you have a substantial amount of tax debt to pay off.
+
+Once you form an LLC it works like a [tax pass-through service](http://www.nolo.com/legal-encyclopedia/how-llcs-are-taxed-29675.html) where you pay the taxes as an individual rather than as a company or corporation (i.e. you as the LLC member are personally responsible for paying any tax on LLC income).",2015-07-20 03:29:26+00:00,ct9brwe,1,t3_3dwaw1,5892,iOSProgramming
+153,"Again, this is what I am gathering from a quick scan of this software package, but in order to invoke your controller you should be calling an action url and not a render url.  I found [this discussion](https://www.liferay.com/community/forums/-/message_boards/message/51505674) in which action, render, and resource urls are discussed ad nauseam.",2015-07-17 17:47:15+00:00,ct6slxv,3,t1_ct6s2ww,754,javahelp
+154,"I am not at all familiar with Liferay, but I do a lot of work with Spring MVC which uses the same java/jsp system.  I think the first thing you need to do is really read up and get familiar with the MVC design pattern.  Here is your breakdown:
+
+* **Model** - These are going to be your Java POJOs (Plain Old Java Object) that you are going to use to organize and ferry around whatever data you plan on using.
+
+* **Controller** - These Java files will be the workhorse of your program.  This is where your action phase hits and this is where you need to get data from your models (database), process it in whatever way is necessary, and finally prepare it for the jsp files to access.  As I don't have experience with Liferay I'm not sure how it handles making this data available to the JSP, but I'm sure there is documentation on it.
+
+* **View** - This will be your JSPs and they will do NONE of the heavy lifting.  The JSPs will contain a blend of HTML augmented with the data that the controller has provided to it.
+
+From what I gather you can either call an action phase to re-invoke the java controller, or you can call a render phase in order to re-invoke the jsps.  I guess that the render phase would help add dynamic response (i.e. you click a checkbox and a new input element appears) though I'm not sure why you wouldn't just use some javascript to accomplish things like this.
+
+I hope that helps a bit and with any luck someone with some Liferay experience can chime in.  I just hated seeing a question go totally unanswered.",2015-07-17 15:27:17+00:00,ct6mver,1,t3_3dmgec,6374,javahelp
+155,Never ran into anyone on Reddit so close to my hometown (Tebbetts).,2015-07-14 04:36:44+00:00,ct2la9e,2,t1_ct26vnc,24921,StLouis
+156,"I've never understood why loan payments almost always hit the interest first and not the principle.  Even if these payday loan companies got paid the principle first, they would still make a killing on practically every person that uses them.",2015-07-12 20:34:46+00:00,ct0zds1,1,t3_3d1jyb,3435,StLouis
+157,Big shout out to [the fires in Canada](http://www.ktrs.com/fires-in-canada-to-blame-for-haze-in-st-louis/) for all of the interesting atmospherics the past few weeks.,2015-07-06 03:41:24+00:00,csth15j,1,t3_3c8wb5,12460,StLouis
+158,Not sure if you are joking but [yes they did](http://www.ign.com/articles/2014/11/07/microsoft-officially-completes-acquisition-of-mojang).,2015-06-30 20:27:42+00:00,csnxw16,3,t1_csnfla1,30993,gamernews
+159,"After my daughter was born last Feb. we ended up bringing her back to the hospital due to her lungs filling with some unknown fluid.  The hospital she was in (Mercy St Louis) was affiliated with the Ronald McDonald house and had a huge assortment of books, movies, board games, and video games (wii and PS3) for both kids and adults.  
+
+I really can't think of anything sadder and more emotionally stressful that either being or having a child in the hospital.  I broke down more than once over the time we were in the PICU.  I cannot thank the hospital and the Ronald McDonald house enough for providing not only an occasional distraction for my wife and I, but entertainment for when we had our two other children there to visit, and the smiles we saw on patient's faces when they were able to forget where they were for a moment while playing.",2015-06-30 16:16:10+00:00,csnnpba,1,t3_3bmlud,11293,gaming
+160,People seem to swear by the coffee.  Any truth to that?,2015-06-24 01:23:27+00:00,csgl1jj,2,t1_csgeai6,12210,StLouis
+161,"I will say that 2 years into my coding career that I still make tons of mistakes but they are new mistakes that I haven't made before.  I don't think you ever get past the ""try it 99 ways unsuccessfully before you get it right"" phase.  Then again, if you do get past that phase you probably aren't pushing yourself and your skills are stagnating.  Keep on truckin'.",2015-06-16 20:11:37+00:00,cs8r14o,1,t3_3a2g8u,6103,javahelp

@@ -1,0 +1,1153 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"&gt; **How do they support that round-the-clock cloud infrastructure with so little income?**
+
+AstroPrint makes money by licensing their software with printer manufacturers. Meaning, there are printers out there that contain 'plug and play wireless capabilities' with their own branding that actually run Astroprint. This is one way they make money. The other way is via their API / app store. If you create a 3D Printing app on their app store and decide to charge people for it, they'll take a 30% cut (like the apple app store). That's the gist of their business model. 
+
+&gt; **Should I be worried about AstroPrint phoning home often?** 
+
+Welcome to 2016. Do you use the Internet? Do you have a smartphone? Do you use Google? all of those know much more about you than your closest friends or family. If you are against this, might as well not use technology. 
+
+&gt;**How can I secure it so that it doesn't get brute forced from the WAN?**
+
+You can password protect the Astrobox to prevent unauthorized access. 
+
+&gt;**I'm not inclined to like or trust IoT enabled devices. I like to play with fun things on my LAN. And it sounds like if I decide to block AstroPrint from the world, it won't be able to do it's job any longer. That being the case, can you quell some of my concerns?**
+
+You can still use the Astrobox locally (without it's cloud) -- but then you'd have to upload pre-sliced GCODE file(s) directly to the Astrobox instead of using the cloud slicer. 
+
+I think your perception of life being private is completely overblown. It's like people who are afraid of going Sky Diving but drive to work everyday, even when driving is statistically
+far more dangerous than Sky Diving (adjusted per capita).
+
+
+If you are a geek that likes to tinker around, configure and geek out, go for Octoprint. If you want a simple, plug and play solution with a nice interface, go with Astroprint :)",2016-11-21 21:23:09+00:00,daa2935,3.0,t1_da9x4fo,6062.0,3Dprinting
+1,"I use Astroprint. 
+
+A lot of people compare Astroprint with Octoprint without realizing some subtle differences between the two..
+
+For example...Astroprint has:
+
+1.) **Faster Slicing**: Once the file is up in the cloud you can re-slice the file (for higher/lower quality) with any combination of settings you'd like as preferences change. Why would someone want to do this? Many people end up tweaking and experimenting with various settings that require re-slicing. AstroPrint has powerful dedicated machines reserved JUST for high-speed slicing, machines that are many many times faster and powerful than home computers or laptops. You can also do this from anywhere around the world without the need for software
+
+2.) **Custom Manufacturer Presets**: The AstroPrint slicer has fine-tuned settings for most printer manufacturers PRE-BUILT into the system so that you don't have to worry about googling and tweaking settings to match the best configuration. Not only that, AstroPrint works with manufacturers directly in obtaining these settings and allow them to tweak settings directly. Also, if these optimal settings change in the future, no worries, AstroPrint automatically updates those settings so you can focus on printing cool stuff.
+
+3.) **Remote File Management**: Once the file is in the cloud, you can slice the file remotely from anywhere. As a bonus, you can also monitor the print live (with a camera) and also start/stop the print if necessary.
+
+4.) **Simpler to use**: It's super accessible for non-technical users. Advanced settings are still accessible for advanced users, but there's nothing simpler than AstroPrint in terms of UI/UX and it will only get easier to use.
+
+5.) **Automatic Updates**: Software &amp; security updates are done automatically. The average user does not have time to worry about software/slicer updates &amp; security issues. When critical updates are available for the slicer, AstroPrint takes care of all of that so users can focus on printing stuff.
+
+6.) **Plug &amp; Play Slicing Engines**: The slicing engine is modular. Meaning, with a click of a button you can use Cura or Slic3r and in the future, other slicing engines can be added easily like lego blocks.
+
+7.) **app store / API**: AstroPrint has an app store. When the API is open, anyone can submit apps to the APP store that interacts with the AstroPrint cloud platform. This gives you the option of enhancing your 3D Printer at will, with one click. Work in a library and want an app that will help you manage users and access to a single 3D Printer? There's an app for that. Need a premium app with a cutlery kit designed by a french chef? There's an app for that. You get the idea.
+
+With that said, Octoprint is still great -- *especially* if you are a geek that likes to tinker around with stuff. 
+
+If you have kids who'd like to get into 3D Printing OR you are a non-technical person interested in having a plug and play solution with a simple interface, AstroPrint is the way to go. 
+
+Pick your poison. ",2016-11-21 05:55:29+00:00,da97jhm,1.0,t3_5dvgk8,106438.0,3Dprinting
+2,"Octoprint and Astroprint are absolutely **NOT** Identical. 
+
+Octoprint is for geeks (like linux) and AstroPrint is for non-technical folks that need a plug and play solution (like OS X).
+
+Not to mention, Octoprint has a plugin system and is NOT cloud based. 
+
+AstroPrint is coming up with a public API and is mostly cloud based (with cloud slicers like CURA).",2016-11-21 05:50:49+00:00,da97eot,2.0,t1_da7lw4l,104547.0,3Dprinting
+3,"How is being ""Cloudier"" not helpful?",2016-11-21 05:49:14+00:00,da97d3y,2.0,t1_da8dmej,42253.0,3Dprinting
+4,"I use AstroPrint. 
+
+You are correct, Octoprint is geared more towards geeks (think Linux) and Astroprint is geared more towards beginners who need a plug and play solution (think OS X).
+
+With that said, remember that Astroprint started as a fork of Octoprint and a lot of the same features are still available under ""Advanced Settings"".
+
+AstroPrint doesn't have a plugin system, BUT they are in the middle of testing a public API which will allow anyone to build apps on top of their platform and integrate. 
+
+They are [growing](https://www.astroprint.com/trends) and in my opinion will have a better chance of bringing 3D Printing to the regular (non technical) folks than Octoprint.
+
+Pick your poison though. ",2016-11-21 05:48:25+00:00,da97c8e,2.0,t1_da86g48,54280.0,3Dprinting
+5,"**Background**: A couple of months ago, those 3 containers of forks weren't even labeled properly. I wrote Chipotle an [email](http://i.imgur.com/doDYhIo.png) about the issue before they labeled those containers with the forks.
+
+In the email, I also mentioned that they should put up a container of spoons out, but they still haven't done so. ",2016-11-20 23:42:27+00:00,da8sx3c,1.0,t3_5e0wpi,271.0,mildlyinfuriating
+6,Ah ok! Good stuff!,2016-11-18 23:05:35+00:00,da6b8c2,3.0,t1_da6au4z,590.0,3Dprinting
+7,Awesome. Thought about switching to the Raspberry Pi 3 AstroBoxes? pcDuino is slowly being phased out..,2016-11-18 22:54:56+00:00,da6aswm,1.0,t3_5d87g5,224280.0,3Dprinting
+8,Did you zoom in a bit on the circular opening? I see circuitry and not a lens..,2016-11-14 23:37:45+00:00,da0isuh,4.0,t1_d9z1b53,88734.0,whatisthisthing
+9,Did you see a close up of it? Looks like circuitry and not a lens as you would expect from a camera..,2016-11-13 23:13:22+00:00,d9z1xeu,4.0,t1_d9z1uww,100.0,whatisthisthing
+10,"Yes, but there's a seperate device for that.
+Here are some [better pictures](http://imgur.com/a/79H6P).",2016-11-13 22:58:00+00:00,d9z19t0,2.0,t1_d9yetsc,32780.0,whatisthisthing
+11,here are some [better pictures](http://imgur.com/a/79H6P).,2016-11-13 22:57:20+00:00,d9z18qr,2.0,t1_d9xran0,83599.0,whatisthisthing
+12,You sure? [better pictures](http://imgur.com/a/79H6P).,2016-11-13 22:57:00+00:00,d9z187i,2.0,t1_d9xr2uj,83913.0,whatisthisthing
+13,Very cool. Just sent it to a friend who had a baby!,2016-11-09 00:09:20+00:00,d9rvwho,1.0,t3_5b49yt,376028.0,Entrepreneur
+14,"Good answer.
+
+I also use the zeke quite a bit and this is precisely my mindset. ",2016-11-01 20:24:05+00:00,d9hbz0q,2.0,t1_d9gkfxm,44289.0,bjj
+15,"Is that why Mattel is bringing back their 1950's toy called the ""[Thingmaker](http://thingmaker.com)"" as a consumer 3D Printer for kids next year? Or UPS and Lowes opening up 3D Printing centers for consumers?",2016-10-22 04:36:01+00:00,d92puv8,2.0,t1_d9218y1,38863.0,startups
+16,What's wrong with Vaynerchuk's stuff? He has some good ideas IMO.,2016-10-11 23:19:09+00:00,d8o1dpv,3.0,t1_d8mvadi,71011.0,Entrepreneur
+17,"Yeah, these types of stories are full of [Survivorship Bias](https://en.m.wikipedia.org/wiki/Survivorship_bias) -- the vast majority of the people who attempt to pull OP's move end up going through a (often worse) shitstorm. 
+
+As /u/sheymyster aptly said:
+
+&gt; I don't mean to be a party pooper, but forcing yourself into poverty in an attempt to spark some genius business from your desperate situation isn't really heroic, it's just a bad idea all around.
+
+#On point. 
+
+With that said, I hope you figure it all out OP -- my blessings are with you. Keep in mind, like Elon Musk says, the threshold for survival in the United States is pretty low, so if you look at the grand scheme of things, this is not a *huge* risk at all. 
+",2016-10-11 22:58:01+00:00,d8o0i5j,2.0,t1_d8nm0jp,18290.0,Entrepreneur
+18,"Recommended? No, it's is REQUIRED to have a pair at the very least. If you get ONE and you cannot invest 4-5 hours of play time PER DAY on a consistent basis, you'll dramatically increase the probabilities of it dying from depression.",2016-10-07 04:58:15+00:00,d8hingb,2.0,t1_d8gcln8,58401.0,Eyebleach
+19,Nah. Dropout here as well. I read a lot.,2016-10-03 02:13:35+00:00,d8bm3kp,4.0,t1_d8blt08,413.0,AskReddit
+20,"aka. ""[Survivorship Bias](https://en.m.wikipedia.org/wiki/Survivorship_bias)""",2016-10-02 18:55:03+00:00,d8b3aot,2.0,t1_d8axghy,7559.0,AskReddit
+21,"Next time, my friend! ",2016-10-01 08:01:23+00:00,d89ddyw,2.0,t1_d89cygv,1541.0,bjj
+22,"Right now, it's Tuesday &amp; Thursday* -- that's likely going to go on the rest of the year. If you need more/have special circumstances, hit me up via PM and I'll be happy to help a brother out :)",2016-10-01 08:00:56+00:00,d89ddpi,2.0,t1_d89bq5z,5374.0,bjj
+23,Awesome!,2016-09-30 20:41:37+00:00,d88s4mg,2.0,t1_d88s1d4,128.0,bjj
+24,Sweet! Tons of Marines come here!,2016-09-30 19:36:40+00:00,d88pa30,2.0,t1_d88md2y,3900.0,bjj
+25,Great!,2016-09-30 18:14:56+00:00,d88llxw,2.0,t1_d88gq3a,6397.0,bjj
+26,Great!,2016-09-30 18:14:42+00:00,d88lljf,2.0,t1_d88jwm9,2242.0,bjj
+27,Awesome!,2016-09-30 18:14:32+00:00,d88llao,2.0,t1_d888kjy,18074.0,bjj
+28,Come on by Drew -- Anytime :),2016-09-30 18:14:22+00:00,d88ll0o,2.0,t1_d88fpuq,7684.0,bjj
+29,Hell yeah. ,2016-09-27 21:23:20+00:00,d84nq2g,2.0,t1_d82byh4,141641.0,AdamCarolla
+30,"Essentially. 
+
+Got my Blue Belt 6+ months ago -- and, I feel worse.
+
+Congrats, OP. You've earned a Blue Belt and a bright red bullseye. :)",2016-09-26 04:56:05+00:00,d82ab0m,2.0,t1_d825suu,8248.0,bjj
+31,"DISCLAIMER: I am not a doctor.
+
+Instead of a regular old doctor, go see a Dermatologist. Not sure if it's available in the Netherlands, but [ZocDoc](https://zocdoc.com) is an excellent way to find a good doctor.
+
+I do martial arts and once in a blue moon, our gym will run rampant with ringworm. I **HIGHLY** recommend that you keep tubes of [Miconazole](https://www.amazon.com/Miconazole-Nitrate-Antifungal-Cream/dp/B00164LKQ2/) and [Clotrimazole](https://www.amazon.com/Family-Care-Clotrimazole-Compare-Lotrimin/dp/B01KOT3WN8) handy to neutralize any early signs in the future. I lather those on ANYTHING that may even potentially be a ringworm. So far, so good. 
+
+Your pictures certainly look like ringworm. Skip the home remedies, stick to science.",2016-09-25 22:38:16+00:00,d81w3xd,2.0,t1_d81thl1,3746.0,AskDocs
+32,"Nice job! Keep it up!
+
+Very rappable. 
+
+P.S: You should make this track FREE, Downloadable, and Creative Commons. This way you increase your chances of more people using your beat(s) in their projects -- and when they do, you can use those projects in your ""portfolio"". ",2016-09-25 22:24:25+00:00,d81visc,1.0,t3_54fps3,22855.0,rap
+33,"I was expecting something extremely disturbing.
+
+Pleasantly surprised. ( ͡° ͜ʖ ͡°)",2016-09-24 19:33:26+00:00,d80gi8a,1.0,t3_54adsq,17546.0,Eyebleach
+34,"A re-crystallization would clean it up a bit more. Although, this is pretty damn clean. Good job. ",2016-09-24 19:28:57+00:00,d80gce2,3.0,t1_d80g1lz,480.0,DMT
+35,GENIUS ( ͡° ͜ʖ ͡°),2016-09-21 23:13:17+00:00,d7wqg71,3.0,t1_d7w9ud0,20695.0,3Dprinting
+36,^ Shitty marketing site that was made by scraping amazon.,2016-09-17 18:41:09+00:00,d7qtelw,,t1_d6rz8wp,,chromeos
+37,[This](https://twitter.com/AstroPrint3D/status/662007092744601600) is a much better version of the portal gun IMHO.,2016-09-07 22:49:27+00:00,d7dg5hw,1.0,t3_518ep2,226583.0,3Dprinting
+38,"In addition to everything everyone has said so far, [bookmark this](https://blog.astroprint.com/the-ultimate-3d-printing-cheat-sheet/) reference guide.
+
+It contains a lot of great resources that will help you out over and over again.",2016-08-31 17:45:47+00:00,d749n89,1.0,t3_50hai7,13851.0,3Dprinting
+39,"I did Tech, General, AND Extra within a span of two weeks. Fiddled around with a handheld (Yaesu VX-7R) for a few months, and never picked up a radio again. Life got in the way. ",2016-08-31 05:03:46+00:00,d73n115,4.0,t1_d731p47,32346.0,amateurradio
+40,"Pretty cool. 
+
+Honestly, I don't have the patience to do something like this -- which is why I use AstroPrint. ",2016-08-25 18:28:07+00:00,d6wf0ps,1.0,t3_4yov8b,452514.0,3Dprinting
+41,"Try [this](https://blog.astroprint.com/the-ultimate-3d-printing-cheat-sheet/) -- Scroll down a bit. 
+
+Much better list with an actual justification.",2016-08-25 17:00:54+00:00,d6war0i,1.0,t3_4zi21s,19114.0,3Dprinting
+42,This ^,2016-08-25 05:20:32+00:00,d6vq81b,2.0,t1_d6vm1yi,7741.0,adwords
+43,"Huh? I get that VICE structures their content/title(s) to encourage distribution -- but they are certainly not full of shit. Granted, they are not 100% perfect, but in comparison to most other media outlets, they are doing quite well.
+
+You are probably full of shit.
+
+Also, who gives a shit they are funded by FOX/DISNEY? As long as they produce entertaining/accurate content, I could care less. 
+
+This sub seems to hate VICE -- I wonder why?",2016-08-23 22:40:58+00:00,d6twju1,,t1_d4jnrvh,,Drugs
+44,"..and Joey Diaz
+
+*Let's eats some stars cocksucka...you mook, who do you think your dealing with? Pilot to bombardier..*",2016-08-18 20:14:13+00:00,d6n37f8,2.0,t1_d6n1dpb,2176.0,MMA
+45,I don't think Diaz is fighting purely for the money. Street cred is much more important to Diaz than money.,2016-08-18 20:04:32+00:00,d6n2q30,4.0,t1_d6laxt8,99841.0,ufc
+46,"Just for reference, the comment above was from /u/bjc1199 and said the following: 
+
+&gt; Are all of you high? Not a snowball's chance in hell for Nate to legitimately beat McGregor twice. Whatever mistakes that were made in the last fight will surely be corrected. I just don't see a scenario that ends with a win for Diaz...
+
+Just in case it's deleted when Diaz wins on Saturday..",2016-08-18 20:03:18+00:00,d6n2nwz,2.0,t1_d6lv2br,75401.0,ufc
+47,"*[My money is on the line guys](http://i.imgur.com/V7mWZyC.png)...*
+",2016-08-18 19:41:59+00:00,d6n1l4l,1.0,t3_4y67og,101675.0,ufc
+48,"They'll put in about $100k-$150k with a mix of personal funds and SBA loans. About 5 people are involved. They haven't told anyone about raising money (it's super early) -- so, no investors yet. ",2016-08-16 04:47:18+00:00,d6jbl4g,2.0,t1_d6jbhjo,197.0,Entrepreneur
+49,This is likely going to be in 2 years..,2016-08-16 04:46:01+00:00,d6jbjpj,4.0,t1_d6jbfny,223.0,Entrepreneur
+50,"&gt;  but what the people of my downtown **seem** to be looking for a walk-able grocery store location... they are not looking for home delivery 
+
+Seem? That sounds like an assumption. You can test this theory by going to an existing grocery store and asking shoppers if they'd rather stay home and have someone deliver the food to them.
+
+Running a small 'neighborhood' grocery store is certainly possible. I'd just like for you to consider all of the angles. 
+
+Also, how are you different from Ralphs/Albertsons/Other Grocery Stores? Even if it's closer to me, why should I visit yours?
+
+Some things to think about..
+
+",2016-08-16 04:35:53+00:00,d6jb8lq,3.0,t1_d6jaryu,884.0,Entrepreneur
+51,"Correct.
+
+This is actually going to happen in ~2 years and they are working on a business plan and are planning on getting a SBA Loan. 
+
+I am certainly going to investigate their value proposition and other competitive advantages..",2016-08-16 04:31:33+00:00,d6jb3u7,2.0,t1_d6jasqi,586.0,Entrepreneur
+52,That doesn't sound good. 2+ years? Jeez. ,2016-08-16 04:28:12+00:00,d6jb01o,2.0,t1_d6izd1u,18351.0,3Dprinting
+53,"*A partnership is like a marriage, without sex.*",2016-08-16 04:12:08+00:00,d6jahiv,2.0,t1_d6iju4b,38007.0,Entrepreneur
+54,"Devils advocate here.
+
+Amazon has invested heavily (via AmazonFresh) in grocery delivery. 
+
+They've literally got the logistics thing down to a science.
+
+Not to mention other competitors to Amazon: Instacart, Target, Albertsons etc... Also, BOXED delivers big box items straight to your home, so even Costco is potentially in trouble long term..
+
+Now, I have ZERO experience in the grocery business, and if you want to simply run a profitable operation in your area, that could certainly work -- but, I figured I'll bring up some obvious questions.
+
+Theoretically, all of the delivery services I mentioned above STILL needs suppliers/grocery stores to service their customers, so this is still not a bad idea.",2016-08-16 04:11:00+00:00,d6jag66,1.0,t3_4xxjct,1997.0,Entrepreneur
+55,"Not sure if you are being sarcastic.
+
+But in either case, a depressed mood/mild depression can absolutely be handled. Again, this excludes those who are are suffering from serious chemical imbalances.
+
+Depression is about inertia. I know what depression feels like. I know what it feels like to be so depressed that you don't want to get out of bed.
+
+Let me ask you, is it possible to be depressed if you are being chased by a rabid dog? How about if you are doing a fast run on a treadmill? The answer is NO. 
+
+Hence, why inertia is major breeding grounds for depression. 
+
+You fix the inertia, you fix the depression. 
+
+",2016-08-15 01:04:29+00:00,d6hqjqy,8.0,t1_d6hpwj0,1030.0,LifeProTips
+56,"Yup, you absolutely can. Happiness, like misery, is 100% a choice. (with the rare exception of folks who have serious chemical imbalances). 
+
+No need to ""force"" anything, you can be happy for absolutely no reason whatsoever. 
+
+**Example**: One could be in a really tough position in life with nothing to be happy about, yet just being aware of the simple fact that you have defied odds to have been born human and are currently alive in arguably the best time in the history of mankind is enough of a reason to laugh out loud.
+
+If you are one of those folks who don't believe that *you can be happy ""for no apparent reason""* - I urge you to think about it a bit more. 
+
+If you still can't come to the conclusion that happiness requires no special conditions, please read a book or watch an interview by any holocaust survivor (like [Elie Wiesel](https://en.wikipedia.org/wiki/Elie_Wiesel) or [Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)) -- and you will find that 'unconditonal happiness' is always an option.
+
+For example, Viktor Frankl has said that, while he was in a concentration camp, when most folks were in dire straits, he managed to find happiness even in a single blade of grass. 
+
+As for OP's post, I wholeheartedly disagree about this: 
+
+&gt; The days really start to fly by when you're working full time and you're going to have fewer and fewer opportunities to see your buddies from school or college **as the number of responsibilities you have increase**.
+
+Why increase the number of responsibilities, to begin with? I have zero interest in doing that. Life is much more flexible and I have much more mobility when I have engineered my life to have as few responsibilities as possible. 
+
+There was a woman working in hospice/palliative care once, and she interviewed many many folks who were just about to die what their regrets were, and one of the biggest regrets were: **I wish I hadn't worked so much**.
+
+It's a good reminder for all of us. ([See other regrets](http://bronnieware.com/regrets-of-the-dying/))
+
+( ͡° ͜ʖ ͡°)",2016-08-15 00:36:35+00:00,d6hpi7b,6.0,t1_d6hnxz1,2562.0,LifeProTips
+57,Ah ok. That makes sense. Thanks! :),2016-08-13 20:13:47+00:00,d6g8mc9,3.0,t1_d6fqzq0,34594.0,Entrepreneur
+58,"Thanks for the post. But, for god sakes...
+
+# I DON'T UNDERSTAND WHY PEOPLE DON'T USE PROPER URL TAGS 
+
+i.e: [Google](https://google.com) is a great search engine.
+
+/rant
+
+P.S: Not just OP, every motherfucking comment has URL's without links. 
+
+FYI: We have the technology to make these clickable now..",2016-08-13 08:17:19+00:00,d6fosn7,1.0,t3_4ww3v4,327864.0,Entrepreneur
+59,"Yeah, same here. ",2016-08-10 22:32:06+00:00,d6cghb2,5.0,t1_d6casd4,7527.0,lastimages
+60,Good tip. I didn't think much about the phrasing. ,2016-08-10 22:31:04+00:00,d6cgfpt,2.0,t1_d6bs82d,31160.0,LifeProTips
+61,"*MAYDAY MAYDAY MAYDAY (WOOF WOOF WOOF)*
+
+*Sir, Send in more K9 units -- it's an aquatic blitzkrieg like we've never seen before!*",2016-08-10 22:27:17+00:00,d6cga02,2.0,t1_d6buw9c,27047.0,Eyebleach
+62,Yup. Astroprint is 100% Free and you can use CURA/Slic3r for cloud slicing along with live video streaming/monitoring. There's also an app marketplace and of course the simple interface..,2016-08-10 11:03:20+00:00,d6bnh62,,t1_d3glu3b,,3Dprinting
+63,"Sure. These are some good ones:
+
+* [Spy the lie](https://www.amazon.com/Spy-Lie-Former-Officers-Deception/dp/1250029627)
+* [Influence](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/)
+* [Speed Reading](https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294/)
+* [Body Language](https://www.amazon.com/Definitive-Book-Body-Language/dp/0553804723/)
+* [Art of human hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
+
+In addition to the books, get the audio versions of these and listen to them at least once or twice a year, you'll be surprised how useful they are in regular life.
+
+* [Getting past no](https://www.amazon.com/Getting-Past-Negotiating-Difficult-Situations/dp/0553371312/)
+* [Power negotiation](https://www.amazon.com/Secrets-Power-Negotiating-15th-Anniversary/dp/1601631391/)
+* [Influence](https://www.amazon.com/Influence-Science-Practice-ePub-5th/dp/0615513182/)
+
+
+
+**Bonus**: I also recommend studying folks like [Edward Bernays](https://www.amazon.com/Edward-Bernays/e/B004MPHV92/ref=sr_ntt_srch_lnk_1?qid=1470607117&amp;sr=1-1), [the field of evolutionary psychology](https://www.amazon.com/gp/richpub/listmania/fullview/RK3XLI47G2FY), and watching the documentary [Century of the Self](https://www.youtube.com/watch?v=eJ3RzGoQC4s) for getting a broader understanding of human nature.
+
+At the end of the day, don't fool yourself by giving yourself false confidence about your social engineering skills because you studied any of the above. Social engineering, by definition, requires social interaction -- the list above is designed to act as a complimentary study guide if anything. If given the chance between social interaction or reading a book about it, always take the former option. 
+
+There are plenty of great social engineers/folks who understand human nature at a very deep level without having read anything because they've spent so much time interacting, observing and thinking about their experience(s).
+
+It's a lifelong pursuit, really. 
+
+Good luck.",2016-08-07 22:08:53+00:00,d68a526,10.0,t1_d68177c,13505.0,hacking
+64,"Missionaries, the people involved, everyone essentially. I also went down a rabbit hole where I started researching cult leaders like Jim Jones etc. They used to call me a lot, until I told them that I already ""found the lord and got baptized"" -- so, it's recommended that you use a disposable phone number etc.",2016-08-07 21:53:35+00:00,d689jfs,10.0,t1_d681185,12846.0,hacking
+65,"Well, I've personally learned A LOT about sales and social engineering through hanging out with mormons. I sort of went undercover pretending to be curious about Mormonism and spent about 6 months (of once or twice a week) of hanging out with their missionaries. Keep in mind that I had already read (and applied) a lot of classics in social engineering prior to this experiment -- Like Kevin Mitnick's stuff, Cialdini, Spy the Lie etc, so one could say I had a decent framework of analysis of behavior. 
+
+Even with this knowledge, I found my self in situations where these missionaries were able to gain compliance and overcome resistance with me. This would always baffle me because, I could SEE what they were doing, but still complied because their tactics were so effective. Another reason this baffled me was because, these were 21-23 year old women who were NOT that sophisticated. A lot of them grew up in small towns and in a tiny bubble and here they are (in California, where I live) doing a fantastic job with converting folks into Mormonism. 
+
+
+Long story short, after a lot of research, I found out that before their 'mission', they get sent to a place called the Missionary Training Center (MTC) where much older folks teach them really sophisticated/effective techniques on overcoming objections/resistance. They've done it for so long that they've managed to distill down the best techniques into a polished, refined framework that they teach these missionaries. It's social psychology at it's finest in my opinion. 
+
+One of my favorite techniques they use is something called the 'Commitment Pattern'. If you do decide to go this route, never give them your real phone # or address as they will hound you forever. I also know more about Mormonism than most Mormons 😂",2016-08-07 17:22:19+00:00,d67yuqs,8.0,t1_d65umr4,161517.0,hacking
+66,"Correct. Pro Tip: If you want to get good at social engineering, go hang out with religious people, specifically, Mormons.",2016-08-05 16:30:49+00:00,d65je81,6.0,t1_d655yr3,23696.0,hacking
+67,"Yes, then bullshitting is required.",2016-08-05 08:56:09+00:00,d654vld,4.0,t1_d653n90,3926.0,hacking
+68,"Yeah, it's mostly just drinking, socializing and shooting the shit with random conversations about technology. Super chill environment -- and as a bonus, you'll learn a ton. Also, ""Hacking"" is a tiny component of ""Hacker Culture"".
+
+P.S: I haven't been to DEFCON in 11 years though. When I went, I got to hang out with [Captain Crunch](https://en.wikipedia.org/wiki/John_Draper) and a bunch of other nefarious characters.",2016-08-05 08:50:27+00:00,d654rr2,2.0,t1_d64qgz0,28650.0,hacking
+69,"I absolutely asked them for a loaner car. Their reply: ""...Since it is a warranty job, our policy doesn't allow us to loan you a vehicle..""",2016-08-03 04:11:06+00:00,d6227bi,2.0,t1_d619xdm,38221.0,Honda
+70,[*Pass the butter*](https://www.youtube.com/watch?v=3ht-ZyJOV2k).,2016-07-25 20:45:23+00:00,d5qhiop,,t1_d5n0qou,,3Dprinting
+71,"&gt; Or do I need to save an STL with multiple model copies to accomplish this?
+
+Yeah, you'll need to do this for now. Astroprint is already working on a few solution(s) to this -- which should be out in the coming months. ",2016-07-21 20:25:27+00:00,d5lfluo,1.0,t3_4ttdw3,83802.0,3Dprinting
+72,Very *Fight Club* esque...,2016-07-20 20:03:33+00:00,d5k03cw,1.0,t3_4tpg9y,55780.0,Drugs
+73,"It's the *closest* thing to a free market. I haven't dealt with the Dark Nets in a long time, but during the whole Silk Road saga -- it had some of the highest quality product in the world due to it's Amazon-like reviews from buyers.
+
+Since drugs won't be 100% legal and you won't be able to pick them up from the corner store, the best bet (in my opinion) would be to rely on the Dark Nets. I can't think of an alternative. ",2016-07-15 16:01:39+00:00,d5dfprt,6.0,t1_d5de41b,2115.0,Bitcoin
+74,"Yeah. What the fuck? The Dark Net is a great example of a *true free market* in the absence of government intervention.
+
+How can that be bad publicity? Bitcoin is a TOOL -- just like a hammer. 
+
+How people use tools should not be held against the tool(s).
+
+Not to mention, Rogan's podcast is 10% about drugs anyway, so this topic is inevitable.
+",2016-07-15 05:13:41+00:00,d5cyv1w,4.0,t1_d5cymof,517.0,Bitcoin
+75,^ This guy is clearly a *scientist*...,2016-07-15 04:54:54+00:00,d5cychd,6.0,t1_d5cvpgm,5127.0,woahdude
+76,"aka. the ""Hitchcock Effect""",2016-07-15 04:54:19+00:00,d5cybwh,3.0,t1_d5cnmb0,18714.0,woahdude
+77,Cock and ball torture?,2016-07-14 19:00:50+00:00,d5cbhq6,1.0,t3_4skc7j,152595.0,3Dprinting
+78,Just take a print out of OP's thread. Those proportions are bananas. ,2016-07-14 04:48:38+00:00,d5bkz0a,2.0,t1_d5bhb6n,6707.0,financialindependence
+79,Hilarious. You just got Jim Jones'ed.,2016-07-14 04:46:55+00:00,d5bkx9m,3.0,t1_d5biktr,4427.0,amateurradio
+80,"I was disagreeing with you opposing ""automated comments"" 😉 You just need to have better, custom, neutral comments..",2016-07-13 09:12:36+00:00,d5addlg,7.0,t1_d5aa9fc,9859.0,Entrepreneur
+81,"&gt;Q: What are common mistakes?
+&gt;&gt;A: There are a lot. Too many to cover in **this small post**.
+
+LMAO.
+
+Grade-A Bullshit. 
+
+One letter in [Never eat alone](https://www.amazon.com/Never-Eat-Alone-Expanded-Updated/dp/0385346654) is better than this entire post.",2016-07-12 22:32:07+00:00,d59tw0s,1.0,t3_4reznu,608780.0,Entrepreneur
+82,"Actually, I disagree. I use Instagress on ~8 different accounts with great results.
+
+Here's my advice:
+
+1.) For the first two weeks, make sure it's on SLOW MODE
+
+2.) Have 10-20 NEUTRAL comments that would work on any picture (Great!, Thumbs Up etc..)
+
+3.) Don't follow anyone through Instagress. Because this could get out of control. If you want to follow highly relevant accounts, do so manually.
+
+4.) Make sure you have an extensively researched, and relevant list of hashtags in your instagress bot
+
+5.) DO NOT interact with any account that doesn't have a profile name, profile picture or a decent amount of pictures. (There's a setting for this)
+
+6.) After 1-2 weeks of SLOW MODE, increase it to NORMAL MODE. Then never speed it up to FAST, always keep it in NORMAL.
+
+7.) Post new content at least 2-3 times per week. Experiment with video and the Boomerang app. 
+
+8.) Every 3-4 months. Stop activity and add in more hashtags to your database.
+
+9.) Finally, when people comment or ask questions, engage with them. Also, tag other relevant accounts with relevant content and ask to cross collaborate. 
+
+This is essentially how I use Instagress and I have no complaints.",2016-07-12 22:14:34+00:00,d59t677,5.0,t1_d59jk9l,12571.0,Entrepreneur
+83,"&gt;&gt; Then it hit me, I could have the most incredible illustration, but how would anyone stumble upon my account. So I started to like other people's photos that hashtagged basketball. Eventually, I started getting comments and likes. Then I started following a few users and then people started following back.
+
+[Instagress](https://instagress.com) is a great tool for this -- when used properly.
+
+Nice job OP, great artwork. ",2016-07-12 22:09:43+00:00,d59syxo,1.0,t3_4sgi5s,38642.0,Entrepreneur
+84,"I've tried Octoprint, Repetier etc.. and have settled with Astroprint. It's great and works well with my Flashforge Creator Pro. The fact that they'll release a public API this year should be also interesting. Not to mention, their support + twitter is pretty fast and friendly. Good video, OP.",2016-07-11 23:32:14+00:00,d58j9i2,1.0,t3_4s9py2,58469.0,3Dprinting
+85,"You can create an Astrobox with a ~$30 Raspberry Pi. The $149 option is for the lazy who don't want to mess around with flashing. Speaking of which, they are phasing out the $149 pcDuino based Astroboxes this year.",2016-07-10 22:18:01+00:00,d575e4i,,t1_d071f04,,3Dprinting
+86,This was fixed 6+ months ago. ,2016-07-10 22:15:31+00:00,d575aqj,,t1_d079uyr,,3Dprinting
+87,Perhaps [this thread](https://forum.astroprint.com/t/astroprint-vs-octoprint-whats-new/774/3) could help. ,2016-07-10 22:15:07+00:00,d575a76,,t1_d0769x8,,3Dprinting
+88,"It's apples and oranges. Octoprint is mostly aimed at self tinkering geeks. Astroprint is for the non-technical general consumer who needs something that just works. It's like Linux (Octoprint) vs. OS X (Astroprint).
+
+And yes, like /u/CaptRR said, it works on Raspbery Pi's. They are phasing out the pcDuino.
+
+Octoprint has better ability for customization(s) and plugins. Astroprint is going to release an API, so if plugins etc. are important to you, you can always write apps on their platform.",2016-07-10 22:12:21+00:00,d5756eb,,t1_d0721os,,3Dprinting
+89,"Well said. I've tried both but use Astroprint. Regarding Octoprint's plugin(s) -- from what I hear, Astroprint will be releasing a public API this year so theoretically anyone could write apps on top of their platform.",2016-07-10 22:08:59+00:00,d5751px,,t1_d077khd,,3Dprinting
+90,[( ͡° ͜ʖ ͡°)](http://i.imgur.com/D02CoIa.jpg),2016-07-10 05:46:16+00:00,d56dxl4,,t1_d4yk4p1,,3Dprinting
+91,"[Thanks, dad](https://www.google.com/search?q=define%3Aapps&amp;oq=define%3Aapps&amp;aqs=chrome..69i57j69i58.3584j0j4&amp;client=ms-android-google&amp;sourceid=chrome-mobile&amp;ie=UTF-8).",2016-07-06 02:45:37+00:00,d50wacz,4.0,t1_d50rv7z,6979.0,webdev
+92,"&gt; The submission and review process is basically a big ""FUCK YOU"" thrown by them into every willing developer's face.
+
+All the frustrated/angry comments on this post fail to realize the obvious motivation of Instagram to take care of their own users.
+
+Think about this: Having developers build APPS on top of Instagram is actually VERY beneficial to Instagram in terms of expanding their reach, so developers, by definition are THEIR FRIENDS.
+
+So, why would they do things like this? (i.e: Kill off certain functionality on the API or certain types of APPS).
+
+It's simple. **It's in the best interest of their userbase**.
+
+Just because you cannot think of a reason why your APP would get killed, don't dismiss the fact that it's likely due to the best interests of their own users. 
+
+For example, A couple of years back, Facebook users started to complain about various gaming apps sending them (most of whom were NON-GAMERS) notification(s). This actually decreased engagement ON FACEBOOK by these users -- so, in the interest of sustaining engagement on Facebook, they increased the restriction(s) of these APPS.
+
+I know it can be frustrating, but you have to think about this whole thing from THEIR perspective. 
+
+There are **EXCEPTIONS** to this rule, however. For example, at the time of this writing, APPLE is increasing restriction(s) on the SPOTIFY APP by forcing them to use their own in-app payment system where APPLE gets a cut (among other restrictions). Spotify wants users to set up payment information on their website so it's cheaper for them and they keep most of the profit. APPLE is using all sorts of other restrictions on Spotify. This is **NOT OK** as APPLE MUSIC is a direct competitor to SPOTIFY.",2016-07-05 15:30:06+00:00,d502oj9,2.0,t1_d4zsmhj,22949.0,webdev
+93,"Ok, no worries. Thanks :)",2016-07-05 15:15:38+00:00,d501z68,4.0,t1_d4zng2a,37431.0,sandiego
+94,"**pic·ture**
+*ˈpik(t)SHər/*
+*noun*
+--- represent (someone or something) in a photograph or picture.
+""he is pictured with party guests""
+
+----
+Except, pictures, by **DEFINITION** are subjective. It could be pictures of anything or anyone -- including yourself.
+
+Can't you just enjoy the eye candy? Jesus. Talk about first world problems. ",2016-07-03 22:40:48+00:00,d4y5hit,5.0,t1_d4xxy4l,12403.0,WtSSTaDaMiT
+95,LMAO,2016-07-03 16:29:42+00:00,d4xs3hh,3.0,t1_d4x6ubs,55492.0,woahdude
+96,[Story here](http://www.telegraph.co.uk/news/2016/06/30/13-year-old-israeli-girl-stabbed-to-death-in-her-bedroom/).,2016-06-30 15:40:45+00:00,d4u2oga,1.0,t3_4qlp3k,7399.0,lastimages
+97,It's ALRIGHT. I prefer the visual nature of YouTube over podcasts. There's a bunch of good 3D Printing media/podcasts on the very bottom of [this list](https://blog.astroprint.com/the-ultimate-3d-printing-cheat-sheet/)..if you are interested.,2016-06-29 22:39:09+00:00,d4t893h,1.0,t3_4qh448,14766.0,3Dprinting
+98,"It's *possible* that this was a very high dose of [4-AcO-DMT](https://en.wikipedia.org/wiki/O-Acetylpsilocin) (which is a synthetic psilocybin analog/research chemical).
+
+The recommended dosage for this substance is less than &lt;30mg (30mg being a pretty high ceiling) -- but I have tried as much as 120mg. While it can get scary, I've never had any fascination with knives or self-harm.
+
+My condolences. 
+
+Don't abuse drugs kids. And NEVER use drugs to ESCAPE reality. If you must use drugs to ENHANCE reality, use it when you are already mentally sound and healthy.
+
+Safe travels.",2016-06-29 15:18:30+00:00,d4smoxz,1.0,t3_4qcmtw,54814.0,Psychonaut
+99,"*Background*: Not sure about what kind of setup this is per se, but this is a home that was showcased on an article from the Robb Report (which is a magazine that the ultra wealthy read). The home is in Malaysia. I am posting this because it's a nice setup with a big ass TV. I've never seen a big ass TV that's this big, so that's why.",2016-06-11 00:35:27+00:00,d44cpep,1.0,t3_4njaaz,140.0,hometheater
+100,[relevant](https://www.instagram.com/p/BD2O7TzIN3H/).,2016-06-10 21:29:42+00:00,d4467cd,1.0,t3_4ngs89,22198.0,3Dprinting
+101,Very nicely done! Well organized and thorough. You should also consider linking to [this cheat sheet](https://blog.astroprint.com/the-ultimate-3d-printing-cheat-sheet/) -- I think that would also compliment this guide.,2016-06-09 21:07:31+00:00,d42tji5,1.0,t3_4n6qgq,93750.0,3Dprinting
+102,"How is it SPAM? It's 100% 3D Printing related. If you don't like it, don't click it. Exercise your right to a down vote (like I just did to your comment) and move on.
+
+No need to be a dick.
+
+Nice job OP, here's an upvote. ",2016-06-09 20:47:43+00:00,d42snx3,2.0,t1_d41i2ep,81970.0,3Dprinting
+103,"Agreed. Although, AstroPrint is going to release a public API to their platform and app marketplace -- that could potentially change the game.",2016-06-09 20:29:57+00:00,d42russ,3.0,t1_d42dc0u,18581.0,3Dprinting
+104,"I've tried Octoprint, but settled on AstroPrint. Mainly because I don't really care to tinker with stuff after setting it up. Also, it's clean interface is no match. I use Astroprint/Astrobox with my Printrbot Simple Metal and haven't had any issues. 
+
+If you are interested in tinkering with stuff, hacking under the hood , I would suggest Octoprint. If not, AstroPrint is the way to go. They also released Live Video Streaming/RPi3 support and mentioned that they'll release a public API sometime in the near future, so that should be interesting as well. ",2016-06-09 20:28:26+00:00,d42rse8,1.0,t3_4navis,23839.0,3Dprinting
+105,RemindMe! 3 days,2016-06-07 22:36:22+00:00,d402zas,3.0,t1_d3zs3cs,14354.0,Entrepreneur
+106,They are obviously counting from 0 to 11. *Duh*,2016-06-06 19:25:35+00:00,d3yg5g7,1.0,t3_4mt8r8,17147.0,mildlyinfuriating
+107,I see you've got *Diversity* handled at your place...,2016-06-05 01:41:14+00:00,d3wcwii,1.0,t3_4mkw5q,7067.0,pics
+108,"*""...The original goal of Pringles was to make a tennis ball holder, then a potato truck showed up, and they were like Fuck it..""* -Mitch Hedberg",2016-06-05 00:08:44+00:00,d3w9u21,1.0,t3_4mjl89,19952.0,pics
+109,"^ Modern day Sherlock Holmes, this one.",2016-06-05 00:04:16+00:00,d3w9oex,2.0,t1_d3vx64m,22467.0,pics
+110,Why not just rub sand since it's already nearby?,2016-06-05 00:00:25+00:00,d3w9jjo,4.0,t1_d3w2jke,12661.0,pics
+111,Thanks!,2016-06-03 22:07:26+00:00,d3v1vfu,1.0,t3_4mevtb,5796.0,Drugs
+112,"Haha, fair enough good sire! 😄 I am not as brave!",2016-06-02 06:50:41+00:00,d3st8co,3.0,t1_d3shm3x,22199.0,Reprap
+113,"I would recommend one of these: Wanhao i3, Printrbot Simple Metal or a FlashForge Creator Pro. Also, [bookmark this](https://blog.astroprint.com/the-ultimate-3d-printing-cheat-sheet/) for reference.",2016-06-01 18:57:09+00:00,d3s32v6,1.0,t3_4m1byz,18257.0,3Dprinting
+114,Interesting. I just use [AstroPrint](https://astroprint.com) with my Simple Metal. ,2016-06-01 18:49:28+00:00,d3s2pqp,3.0,t1_d3rzx1n,3564.0,Reprap
+115,"If you are looking for a less geekier, cleaner looking option, also checkout [AstroPrint](https://astroprint.com).
+
+AstroPrint works with Marlin &amp; Sailfish based printers and I haven't had any issues with it and my Printrbot Simple Metal.",2016-06-01 18:47:35+00:00,d3s2mhn,1.0,t3_4m1yx0,10001.0,Reprap
+116,Huh?,2016-05-28 08:27:23+00:00,d3ms87m,2.0,t1_d3mox1b,10961.0,DMT
+117,Thanks for the feedback. I agree with you and we will fix this during the final edit :),2016-05-27 20:41:33+00:00,d3m7x0w,2.0,t1_d3m6bjq,2293.0,DMT
+118,"At the moment, *psychotria viridis* --- in my opinion, it's much more effective to talk about the actual substance than the 3500+ species because the former will automatically cover the latter. ",2016-05-27 18:10:05+00:00,d3m1ibg,2.0,t1_d3lyltz,3956.0,DMT
+119,"1.) It's not a book
+
+2.) There is zero evidence that DMT is produced in the brain
+
+3.) I understand your frustration, but if no one is doing what you want to do, you should start your own project. 
+
+4.) You are in an echo chamber, that is why you feel like this topic is exhausted. The truth is *majority* of the world has no idea WTF this stuff is -- and this documentary is for them.",2016-05-27 08:09:47+00:00,d3liy1m,2.0,t1_d3lghkv,7679.0,DMT
+120,Will try /r/LSD -- /r/drugs deleted the post as they won't allow promotional stuff.,2016-05-27 02:15:54+00:00,d3la64o,2.0,t1_d3l9vve,471.0,DMT
+121,"Thanks so much! 
+
+P.S: Already shared it on /r/Psychonaut but /r/drugs won't allow Kickstarters",2016-05-27 02:13:37+00:00,d3la36d,2.0,t1_d3l9wvc,290.0,DMT
+122,"Unfortunately, *I don't think so*. Keep in mind that, it's not really Undisclosed. It's generally a couple of weeks max after the campaign ends (June 22). Also, the amount is predictable since you pick the reward level etc.
+
+If you are unable to back it for whatever reason, you can always share it with your friends and a simple upvote is always appreciated :)
+
+Thanks again!",2016-05-27 01:50:19+00:00,d3l97zo,2.0,t1_d3l828d,1797.0,DMT
+123,"Yeah, we just released it about 4 days ago. :)",2016-05-27 00:51:52+00:00,d3l7176,2.0,t1_d3l6q07,529.0,DMT
+124,"Funny. We literally [launched a Kickstarter](https://www.kickstarter.com/projects/javierprato/spirit-medicine-exploring-the-world-of-psychedelic) for SPIRIT MEDICINE just four days ago with the intention of bridging the gap between science and spirituality in the context of psychedelic plant usage throughout history. It's not *exactly* what you are looking for, but I think it's in the same ballpark.",2016-05-27 00:13:30+00:00,d3l5p5q,1.0,t3_4l5gas,36471.0,Psychonaut
+125,Will do! Thanks guys!,2016-05-27 00:10:26+00:00,d3l5l9v,3.0,t1_d3l4u7i,1290.0,tryptonaut
+126,Try [this cheat sheet](https://blog.astroprint.com/the-ultimate-3d-printing-cheat-sheet/).,2016-05-19 11:05:00+00:00,d3bfu45,1.0,t3_4k1h21,10242.0,3Dprinting
+127,Not bad. This [cheat sheet](https://blog.astroprint.com/the-ultimate-3d-printing-cheat-sheet/) has some good recommendations. ,2016-05-10 23:34:18+00:00,d30mhhj,,t1_d2nnryv,,3Dprinting
+128,Would appreciate a link to any relevant clips so I can easily find it. Thanks guys! ,2016-05-10 06:02:03+00:00,d2zmh1e,1.0,t3_4invu8,43.0,AskReddit
+129,Clearly the man has coated his office with his semen. This is quite normal in Great Britain. ,2016-04-26 04:36:03+00:00,d2hjwd4,,t1_d2dd7si,,3Dprinting
+130,"Thanks man! 😊 Although, contributing doesn't have to be financial. ",2016-04-23 08:56:51+00:00,d2e3zdl,2.0,t1_d2dbvs2,54098.0,tryptonaut
+131,"&gt;  It could be PLA which is a sugar-based plastic rather than a polyester.
+
+Sort of.. PLA is primarily a [CORN based](https://en.wikipedia.org/wiki/Polylactic_acid) plastic that is biodegradable.
+
+&gt; If this is indeed for home-printing, than this kind of structure will require a very large printer and the print-time could take days + sanding/priming + painting to get something worth putting on a tabletop.
+
+Not really. Most consumer 3D Printers could handle these. If you _really_ want to make it pretty, yes, it will require sanding. But, for most people, that won't be necessary. I have 3-4 3D printers.",2016-04-18 22:04:55+00:00,d283a5c,4.0,t1_d27ypid,6277.0,DesignPorn
+132,Good point. I will bring this up! Thanks :),2016-04-16 23:31:25+00:00,d25r0x9,6.0,t1_d25q5ac,1656.0,tryptonaut
+133,"Agreed. I just talked to the Director and he said he's likely going to leave 5-MEO-DMT in there Because this documentary is NOT exclusively about Ayahuasca, there are plenty of other substances discussed..",2016-04-16 21:56:16+00:00,d25nveu,4.0,t1_d25natm,1001.0,tryptonaut
+134,"Apologies. Yeah, we are fully aware of this error and it will be fixed. Do you have any tips on chemically expressing Ayahuasca as it is a mixture of a bunch of stuff? (i.e: Acacia + Harmine for example)",2016-04-16 21:18:50+00:00,d25mkus,2.0,t1_d25fpeb,11531.0,tryptonaut
+135,"I don't get it. It's 2016.
+
+Why the fuck do we not have High Definition/High Resolution Cameras recording every angle of the airport?
+
+How am I supposed to see what the fuck is going on by watching this single pixel, potato quality video?
+
+My local gas station has better cameras.",2016-04-15 22:46:35+00:00,d24lo6w,,t1_d15sitk,,aviation
+136,"Why? I got a message from a moderator saying post it again without mentioning the Kickstarter (which is what I have done).
+
+Am I violating the rules? if so, which?",2016-04-15 21:43:44+00:00,d24jdpa,2.0,t1_d24hh73,2905.0,Drugs
+137,"So the bug was 5% SMALLER (not larger), and I am happy to say that YES, it has been fixed :)",2016-04-12 21:13:24+00:00,d20c3ne,2.0,t1_d206z8s,6598.0,3Dprinting
+138,"Yes, eventually. We are working on this as we speak :)",2016-04-12 18:33:49+00:00,d204n3h,6.0,t1_d1znpcu,25658.0,3Dprinting
+139,Because it's MURRRRRICA ;),2016-04-12 18:32:59+00:00,d204loo,2.0,t1_d1z4wyr,67684.0,3Dprinting
+140,"Excellent feedback. Thank you. Regarding #2, I completely agree. It's something we are planning on doing!
+
+I'll PM you about #1 as I respectfully disagree. In short: it's designed for non technical users (my grandma or a 10 year old boy) and less steps is always better.",2016-04-12 06:08:02+00:00,d1zi7yd,4.0,t1_d1zcna1,11436.0,3Dprinting
+141,"You mean OP and AP? Negative. But, I will let you know when we open up access!",2016-04-12 06:07:35+00:00,d1zi7n9,2.0,t1_d1zc0mu,12392.0,3Dprinting
+142,"Can you clarify? We have CURA engine built in so you could slice on the cloud.
+
+The entire purpose is to get rid of the need for offline slicing...
+
+Have you tried our platform? If so, which step do you find confusing?",2016-04-12 02:34:16+00:00,d1zbr2k,2.0,t1_d1z9mei,3114.0,3Dprinting
+143,`rm -rf linus`,2016-04-11 03:16:46+00:00,d1y1qj5,5.0,t1_d1w4gj7,135261.0,linux
+144,"Yeah, it's essentially equivalent to a special club consisting of people who are self proclaimed ""cool kids"" -- the quality of your product often has very little to do with success on Product Hunt.. 
+
+Hacker News has a really [insightful post](https://news.ycombinator.com/item?id=10739875) about how it all works.",2016-04-08 23:34:32+00:00,d1vla5j,2.0,t1_d1veodm,10303.0,Entrepreneur
+145,Looks great! I tried to plant these years ago starting from seeds and they all failed after about ~1-2 months. Nice job!,2016-04-08 23:28:43+00:00,d1vl2ql,1.0,t3_4dy2uo,13191.0,druggardening
+146,This is the proper way to handle data breaches. Take note.,2016-04-08 23:05:17+00:00,d1vk8qc,1.0,t3_4dxkte,18423.0,Bitcoin
+147,LMAO,2016-03-30 22:17:33+00:00,d1job9o,5.0,t1_d1jn9oi,1484.0,3Dprinting
+148,"&gt; some guy here posted that searching 'butterfly' returned zero results
+
+Wow. I am very surprised about that. And yes, [you are correct](http://www.thingiverse.com/search?q=butterfly&amp;sa)
+
+-- there are [tons of butterfly related designs](https://www.thingiverse.com/tag:butterfly/page:1).",2016-03-30 21:33:02+00:00,d1jmf5f,3.0,t1_d1irwfv,54997.0,3Dprinting
+149,Ah! Excellent! Thank you!,2016-03-30 21:28:14+00:00,d1jm7o4,4.0,t1_d1jlfif,1041.0,3Dprinting
+150,I agree. The only reason I excluded Fargo was due to inconsistent episode releases. ,2016-03-30 20:45:31+00:00,d1jk9ps,4.0,t1_d1iyi5j,29991.0,3Dprinting
+151,"&gt;  I appreciate how there are links for additional printers to purchase.
+
+Are you talking about the 3D Hubs link? Thanks by the way! :)",2016-03-30 20:43:19+00:00,d1jk5zx,2.0,t1_d1isq9s,49486.0,3Dprinting
+152,"Interesting. First, I've never heard of them and second, there's no search results for them on /r/3DPrinting -- which leads me to believe that they are super new or people are unaware of them. Going to skip them for now. Thanks though! :)",2016-03-30 20:42:39+00:00,d1jk4v3,2.0,t1_d1ispvh,49483.0,3Dprinting
+153,Can you provide links? Would love to include these if a lot of people find them useful..,2016-03-30 20:41:44+00:00,d1jk3cg,2.0,t1_d1iyl3q,29583.0,3Dprinting
+154,Updated the eSun link! Thanks. Why do you think MakerFarm should be included? Just curious. They didn't really show up in my polls etc..,2016-03-30 20:40:50+00:00,d1jk1wo,2.0,t1_d1j25hv,23164.0,3Dprinting
+155,Added! :),2016-03-30 19:44:51+00:00,d1jhe8n,3.0,t1_d1j16xd,21305.0,3Dprinting
+156,Thanks! Fixed!,2016-03-30 05:58:40+00:00,d1irio7,2.0,t1_d1ir2ml,1168.0,3Dprinting
+157,Update: Added Tom Sanladerer to the list! Thanks for the suggestion. His stuff is great!,2016-03-30 05:04:30+00:00,d1iq747,2.0,t1_d1inf53,5461.0,3Dprinting
+158,"LOL -- I am pretty sure OP meant Comp Sci. While I agree with it's utility, there ain't no rules to this game. So, the real answer is: you are both wrong. ",2016-03-27 23:47:24+00:00,d1fr50l,3.0,t1_d1fm5np,8858.0,Entrepreneur
+159,"If you really believe in the idea, wash a shitload of dishes, save up and build a functional prototype -- then you can entertain the idea of potentially getting some money from friends, family etc.. 
+
+Sorry, an idea at this stage is worth less than $0.",2016-03-27 23:45:29+00:00,d1fr2pn,1.0,t3_4c7lse,3246.0,Entrepreneur
+160,"Restraining someone can absolutely be considered as assault. Assault doesn't just mean strikes. But, I agree.",2016-03-25 04:05:41+00:00,d1cp1z5,3.0,t1_d1aj1sg,133092.0,bjj
+161,"Yeah, looks good indeed. I believe they are pretty close to production.",2016-03-25 04:01:00+00:00,d1cowti,2.0,t1_d1boy2b,53968.0,3Dprinting
+162,"The problem with people posting their dimensions is this: Accuracy. Other than height and weight, I cant imagine people taking the time out to measure stuff and post it.
+
+Are you talking about JUST height and weight or other measurements as well? (neck? bust? etc..)
+
+Also, what do you mean by sizing guidelines? And are these available from the GI manufacturers? Do they vary a lot? meaning, there are no standards each GI manufacturer follows?
+
+Also, aren't existing GI sizes based on height and weight ranges to begin with? (A1, A2, A3), so, why would you think it would be helpful to suggest a A1,A2,A3 GI based on height and weight..",2016-03-23 20:58:53+00:00,d1azflv,2.0,t1_d1a5ra4,55729.0,bjj
+163,"Yeah, they released it. It's a tank (I lifted it). Don't have a ton of pictures etc.. though.",2016-03-23 05:13:59+00:00,d1a5bqe,2.0,t1_d19w55t,15513.0,3Dprinting
+164,*Especially if you are allergic to them...*,2016-03-14 03:02:02+00:00,d0yxnu3,3.0,t1_d0yc7qw,36277.0,books
+165,# INDIA WHEN ARE WE GOING TO SMOKE SOME WEED AND JAM OUT TO MUSIC GANGSTER?,2016-03-07 23:10:20+00:00,d0rcses,1.0,t3_49f7np,2159.0,IAmA
+166,Taco Bell.,2016-03-06 20:19:47+00:00,d0px4x7,1.0,t3_494zjz,71760.0,AskReddit
+167,No worries! Glad to see Groucho making rounds! The man was a genius!,2016-03-03 22:39:23+00:00,d0mlsud,5.0,t1_d0mkpv0,1525.0,Entrepreneur
+168,"""*..I wouldn't belong to any club who would have me as a member..*"" - Groucho Marx",2016-03-03 15:55:20+00:00,d0m3xqm,3.0,t1_d0ll6mq,45816.0,Entrepreneur
+169,"Basically, this.",2016-02-24 22:52:19+00:00,d0cjwl1,3.0,t1_d0chgeu,3387.0,Entrepreneur
+170,Interesting. That gives context. [Especially part 2](https://www.youtube.com/watch?v=cc5MOp3SmYA). Duncan Trussell's [response](https://www.youtube.com/watch?v=HtynCHIDxwo) shows the mental capacity of Redban in comparison to Duncan.,2016-02-22 03:38:02+00:00,d08vxb9,5.0,t1_d08sik2,5437.0,JoeRogan
+171,One of the best.,2016-02-22 03:37:35+00:00,d08vwq4,1.0,t3_46xj5z,20249.0,NetflixBestOf
+172,Context? Details?,2016-02-21 18:03:59+00:00,d08ap40,3.0,t1_d07p2gb,56399.0,JoeRogan
+173,Yes.,2016-02-20 23:30:00+00:00,d07j5zx,2.0,t1_d06ut27,57978.0,JoeRogan
+174,"Now I know why they say: ""..*All men are dogs*...""",2016-02-19 01:05:57+00:00,d05a78f,2.0,t1_d05a2e1,216.0,PHP
+175,"This is ridiculous and highly NOT recommended. You sound like someone who would use a flamethrower to kill a fly. 
+
+AstroPrint is super simple. I think you just like to complicate shit for no reason.",2016-02-17 19:13:28+00:00,d03iy9b,1.0,t3_466e8h,55332.0,3Dprinting
+176,"Interesting answer. Also, I have been in those situations many times before and already aware of the point you are trying to get across.",2016-02-16 19:14:19+00:00,d027uwe,2.0,t1_d01osj2,41469.0,AskSF
+177,"Fun Fact: Footlong Subway Sandwiches are **NOT** footlong (or 12 inches) if measured from the bottom of the sandwich.It is only Footlong if you measure from the top of the sandwich (end to end).
+
+Hola atcha boiii Jared for me. Oh wait.",2016-02-15 08:37:13+00:00,d00h865,1.0,t3_45u8he,23782.0,mildlyinteresting
+178,"Yeah, I am definitely going to consider having that option. ",2016-02-15 06:41:24+00:00,d00f1uc,4.0,t1_d00evhj,480.0,Anxiety
+179,"hell yeah. thanks OP.
+
+P.S: What technologies have you used to build this site?",2016-02-14 23:50:16+00:00,d002rzf,1.0,t3_442bkr,954655.0,Jekyll
+180,Omega Poodle,2016-02-14 07:16:54+00:00,czzcuee,4.0,t1_czz8rjx,9441.0,mildlyinteresting
+181,Looks pretty damn cool. This inspires me to buy a bunch of super old film cameras on ebay and start traveling around the world.,2016-02-14 06:19:18+00:00,czzbiq6,1.0,t3_45m9nh,37738.0,travel
+182,0-$2M is still impressive..even with some chinese battery...,2016-02-12 06:08:15+00:00,czx1aw3,3.0,t1_czwkiig,27940.0,Entrepreneur
+183,It's cool! ,2016-02-10 00:45:27+00:00,czu5srt,5.0,t1_czu5en8,606.0,raisedbynarcissists
+184,Thanks. &lt;3,2016-02-08 17:43:04+00:00,czsep6f,8.0,t1_czs8yxy,8698.0,MorbidReality
+185,Thanks for sharing. Would love to see any pictures of him if possible. ,2016-02-08 03:41:28+00:00,czrtwou,6.0,t1_czrluav,12104.0,MorbidReality
+186,"&gt; problematic sides of BJJ
+
+like what? Details?",2016-02-07 23:59:25+00:00,czrkyh2,3.0,t1_czr932b,19893.0,bjj
+187,"Well, it doesn't seem very precise. I wish there was a visual calibration tool or something. I keep clicking/closing/opening windows without intending them to.....
+
+Other random annoyance: It opens videos on a single click instead of a double click... (which seems like It could be fixed somewhere in system settings, but im not sure)",2016-02-07 03:22:54+00:00,czqoop1,2.0,t1_czpypgj,48305.0,elementaryos
+188,*Outback Steakhouse* in Australia serves Kangaroo AFAIK,2016-02-01 19:21:58+00:00,czk0vcu,7.0,t1_czjt0wj,11138.0,Eyebleach
+189,[here](http://nypost.com/2015/11/16/isis-using-playstation-4-to-communicate/).,2016-01-31 23:35:30+00:00,czj36y3,9.0,t1_czivdfn,12867.0,Drugs
+190,Ah. [Veracrypt Hidden Volume](https://veracrypt.codeplex.com/wikipage?title=Hidden%20Volume) then..,2016-01-31 19:57:42+00:00,cziv94h,9.0,t1_cziv0d9,409.0,Drugs
+191,[This is OP's Facebook Profile Picture](http://i.imgur.com/3MEPGuA.jpg).....You Watson You.,2016-01-31 19:05:17+00:00,czitdii,3.0,t1_cziovfm,7816.0,Drugs
+192,Where did you learn that from? ISIS? ISIS used a playstation for communication while planning the Paris Attacks AFAIK.,2016-01-31 19:00:47+00:00,czit7s9,7.0,t1_czisca0,1490.0,Drugs
+193,FYI: OP **is under 21**. Most adult's are clueless about how to deal with law enforcement...,2016-01-31 18:59:13+00:00,czit5q1,2.0,t1_czijkii,20141.0,Drugs
+194,"Yes, I will be joining both of you with whatever OP is on.",2016-01-31 17:40:49+00:00,cziqewr,2.0,t1_czikqff,11837.0,DMT
+195,When the guy whose doing that has a paycheck that depends on that job... it's a tough call. Would you euthanize a few dogs to feed your daughter/family?,2016-01-30 04:52:55+00:00,czha032,2.0,t1_czgnsrf,37331.0,MorbidReality
+196,You mean a *Plumbus*?,2016-01-30 00:57:07+00:00,czh34oq,3.0,t1_czgo802,22608.0,comics
+197,*Master of the Long Con*..,2016-01-29 03:31:59+00:00,czfzhzi,2.0,t1_czfk1cp,24388.0,CrazyIdeas
+198,"I talked to the founder/creator of Cel Robox at CES a few weeks back. Really laid back dude with a well thought out product. Also, the fact that their 3D Printers *detect* nozzle jams, moves out of the way, automatically un-clogs and resumes printing (!) is pretty crazy. Not only that, if you are using only one extruder, the other unused extruder will not only TILT, but the nozzle will CLOSE UP to prevent any leaks etc..",2016-01-28 23:45:01+00:00,czfrg3o,2.0,t1_czew41x,59689.0,3Dprinting
+199,It's essentially open source software that allows you to remotely monitor/control your printer and other neat customizations. The other one that has similar functionality (a bit more dumbed down though) is AstroPrint.,2016-01-28 23:31:47+00:00,czfqy2u,2.0,t1_czfqga2,777.0,3Dprinting
+200,You mean *the people* (i.e: WE) gave 80 million? ,2016-01-27 22:57:02+00:00,czefz37,3.0,t1_czdpaqa,45134.0,UpliftingNews
+201,"Did you ever know that you're my hero?
+
+And everything I would like to be?
+
+I can fly higher than an eagle
+
+For you are the wind beneath my tits",2016-01-27 21:33:01+00:00,czecer3,6.0,t1_cze3u5n,11385.0,geek
+202,"Yeah, that can be a bit confusing. Here's what is happening:
+
+1.) AstroPrint does NOT load your web cam **unless** something is printing, so it's easy to assume/conclude that the *camera never loaded*.
+
+2.) The Time lapse feature is hard to see. You know the square that shows the camera image? The time lapse feature is on the bottom left hand side of that square.",2016-01-27 18:55:41+00:00,cze5arl,2.0,t1_czdyqrl,8873.0,3Dprinting
+203,"Octoprint is like linux: For geeky folks wanting to tinker with the nitty gritty details under the hood etc..
+
+AstroPrint is like OS X: Simple, beautiful, robust and gets the job done without needing to tinker with stuff...it's for non geeks (Unlike OS X - AstroPrint is 100% Free though)
+
+I use AstroPrint. Happy with it. -- not familiar with the RUMBA board though, I run it on a Raspberry Pi.",2016-01-26 22:13:04+00:00,czd37qt,1.0,t3_42sl52,17055.0,3Dprinting
+204,"No worries! Appreciate the feedback :)
+
+Here's the thing about questions: I don't want to change them because **I am not a medical professional, nor am I qualified or trained in psychiatry/therapy etc..**. 
+
+This test was designed by two professionals and it wouldn't make sense for me to change any of the questions. Regarding the *subjectivity* of the questions -- that's valid for every question. No two people will interpret the same question the same way. Perhaps the creators came up with certain ambiguous questions on purpose. 
+
+Thanks again!",2016-01-26 20:52:25+00:00,czczkrf,4.0,t1_czcxqo9,2405.0,Psychiatry
+205,"Ideally, I would like people to take the test themselves and gauge accuracy, ease of use, the user interface etc.. 
+
+I agree on the notice. I will be adding a disclaimer shortly!",2016-01-26 17:42:31+00:00,czcr06y,2.0,t1_czccan3,33132.0,Psychiatry
+206,"Back button is definitely necessary. I will add that in :)
+
+Regarding breaking up the test, I am not sure, I need to think about that a lot more.
+
+I will also think more about not targeting childhood events -- I figured that would be more accurate since the original test had a lot to do with that.  
+
+&gt; I've got a number of suggestions specifically regarding the questions (primarily issues with grammar/phrasing, or just not really understanding the question)... If they would be helpful let me know.
+
+Absolutely! Please let me know anything and everything :) I want to make it as helpful as possible!
+
+&gt; I think there should be a trigger warning before commencing the test, and links to online/telephone hotlines and resources for those who may be severely negatively affected by some of the questions at both the start and end of the test.
+
+I am not sure what a trigger warning really is... do you mean like a disclaimer to minimize liability? Also, what sort of phone numbers?",2016-01-26 17:41:32+00:00,czcqyk4,2.0,t1_czccxlz,30775.0,Psychiatry
+207,"Yes, at the very end, you should see a SERIES of SCORES, not just one score. Did you not see it? You see the results page after completing all of 144 questions.",2016-01-26 17:34:17+00:00,czcqmwu,2.0,t1_czces0i,23041.0,Psychiatry
+208,WE HAVE A POWERBALL WINNER,2016-01-25 07:47:19+00:00,czb0zi7,7.0,t1_czb0fxe,1758.0,Eyebleach
+209,You mean a *Plumbus*?,2016-01-25 07:45:29+00:00,czb0y9y,2.0,t1_cza8ijm,46458.0,oddlysatisfying
+210,"Good list. Except, Smartcuts is garbage.",2016-01-25 00:23:25+00:00,czam9s9,,t1_cz25j4o,,marketing
+211,"/u/power_cat is a perfect example of an unhappy human Check the guys comment history for god sakes -- he's the quintessential shit stain on the underwear that is life. This has nothing to do with eOS.
+
+&gt;If you’re going to invent, you’ve got to be willing to be misunderstood for long periods of time. Anything new and different is initially going to be misunderstood. It will be misunderstood by well-meaning critics, who are worried that it might not work out. It will be misunderstood by self-interested critics, who have a profit stream connected to the old way. Either way, if you can’t weather this kind of misunderstanding and criticism, then whatever you do, don’t do anything new. - Jeff Bezos",2016-01-24 05:14:25+00:00,cz9qhy3,,t1_cz7m6wz,154669.0,elementaryos
+212,What about Shapeways?,2016-01-24 01:21:34+00:00,cz9jfim,4.0,t1_cz9jcbt,152.0,3Dprinting
+213,"Honestly, I spent years using Gentoo + Arch, then went to OS X. The reason I switched from linux to OS X (which I love) was because it was a pain in the ass the stay up to date and it was an endless game of configuring shit. I've spent more time tweaking and fixing stuff than actually using my computer. I am looking for something pretty and easy to use, which is why I went with eOS.",2016-01-24 01:15:06+00:00,cz9j7g3,4.0,t1_cz8y7wy,36953.0,thinkpad
+214,"Thanks. But that is a silly counter argument. Especially: 
+
+&gt; But simply put, by not following journalistic best practices when it comes to covering suicide, ESPN's story may do a disservice to those suffering from mental health issues.
+
+What the fuck?
+
+For someone that is mentally ill, there are millions of triggers that could push them over the edge (i.e: the lyrics in a song, a video on YouTube, the ESPN article etc..) -- that does NOT mean that the world needs to conform and censor itself because of **potentially** harming someone who is suicidal. The ESPN article has done a lot more good in my opinion.",2016-01-24 01:05:59+00:00,cz9iwdl,2.0,t1_cz96mte,21312.0,MorbidReality
+215,"I have no idea, but, I think this quote contains part of the answer:
+
+&gt; *The life of every individual, viewed as a whole and in general, and when only its most significant features are emphasized, is really a tragedy; but gone through in detail it has the character of a comedy.*
+- **Arthur Schopenhauer**
+
+Most of our lives are so mundane and boring that, our voyeuristic tendencies get stimulated to an insane degree (at the breakneck speed gossip travels through the internet). We like to be entertained, and let's be honest, there's some entertainment value in seeing Kim Kardashian Twerking versus [Peter Higgs](https://en.wikipedia.org/wiki/Peter_Higgs) talking about quantum mechanics. The former is a bit like the Fast Food version of entertainment -- it's perfect for the average consumer: easy to digest, can get addicted etc.. The latter (i.e: Peter Higgs) would be like a super high end steak house (i.e: [Peter Lugers](https://en.wikipedia.org/wiki/Peter_Luger_Steak_House)) -- it requires a certain degree of sophistication etc. 
+
+Also, as a man, it's a lot more fun to stare at some nice Asses/Tits than some random scientist. You can blame nature for that.
+
+( ͡° ͜ʖ ͡°) ",2016-01-24 01:01:54+00:00,cz9ira5,2.0,t1_cz8zlba,33183.0,MorbidReality
+216,Any sources? and is it for prototyping? ,2016-01-24 00:52:54+00:00,cz9igdd,2.0,t1_cz8o556,70695.0,3Dprinting
+217,"&gt; *Be kind, for everyone you meet is fighting a hard battle.* - Plato",2016-01-24 00:52:03+00:00,cz9ifcd,2.0,t1_cz8v45j,45164.0,MorbidReality
+218,"How much Memory does your machine have? Also, is graphics performance is smooth? Thanks! I might bug you if I run into issues :)",2016-01-23 04:47:17+00:00,cz8nfxl,2.0,t1_cz8n6i8,577.0,elementaryos
+219,Sweet. Very helpful. Thank you sir!,2016-01-23 04:32:53+00:00,cz8n1u8,2.0,t1_cz8mbs3,1588.0,elementaryos
+220,Interesting analogy intersecting depression and Madison's last photo.,2016-01-23 03:47:32+00:00,cz8lss0,2.0,t1_cz8lnry,301.0,MorbidReality
+221,"Thank you! Yeah, not too shabby. RE: the link you posted, once you buy a battery and upgrade the memory, I think it's around similar price range to mine. Lenovo advertises insane battery life for the X230 -- so I might need to replace the battery as well. Also, thinking about putting [ElementaryOS](https://elementary.io/) on it.",2016-01-23 03:16:34+00:00,cz8kwy6,2.0,t1_cz8ko73,495.0,thinkpad
+222,Depends on what Linux. I put Linux Mint on my parents machine and they stopped calling me to fix stupid problems (like on their Windows Machine),2016-01-23 02:41:02+00:00,cz8juv4,,t1_cynf2wc,,technology
+223,"Hey, if OP played the long con THAT well, he deserves it. ",2016-01-23 02:37:28+00:00,cz8jqyx,8.0,t1_cv7v9gg,10759883.0,Entrepreneur
+224,I would recommend [ElementaryOS](https://elementary.io/) -- which is based on ubuntu with a gorgeous UI.,2016-01-23 02:12:20+00:00,cz8iyja,2.0,t1_cz81yi6,26558.0,thinkpad
+225,Holy shit son.,2016-01-23 00:49:39+00:00,cz8gb2d,4.0,t1_cz8g6vm,208.0,interestingasfuck
+226,Jesus. You've printed 300+ items? X_X,2016-01-22 22:26:29+00:00,cz8b5hr,2.0,t1_cz8a5fl,1521.0,interestingasfuck
+227,"If you click on the top left logo, it will take you to a page that sells the randomizer mechanism for $50 in a zip file (which, like I said, is ridiculous and scammy)",2016-01-22 21:10:53+00:00,cz87zos,6.0,t1_cz87fah,785.0,Entrepreneur
+228,I've used [upwork](http://upwork.com) (formerly elance) with no problems whatsoever. ,2016-01-22 20:40:44+00:00,cz86pba,1.0,t3_425yc7,19210.0,Entrepreneur
+229,[How Much To Make an App?](http://howmuchtomakeanapp.com/),2016-01-22 20:37:31+00:00,cz86kb0,3.0,t1_cz7wusk,13526.0,Entrepreneur
+230,"Yeah, WTF, $50? I guess there's enough people in the world for someone [gullible] to pay. OP, $50 is criminal. FYI. ",2016-01-22 20:33:05+00:00,cz86dou,4.0,t1_cz7qtcm,22827.0,Entrepreneur
+231,"&gt; Bears are fucking assholes.
+
+LOL. Nature is filled with Assholes then. That bear is not that big, which likely means that he's still not experienced at being an *efficient killer*. I don't know if this really fits in /r/MorbidRealty though. I squirmed a little -- but that just means I am a pussy that can't handle nature.",2016-01-22 06:35:21+00:00,cz7imcr,,t1_cz3tat3,,MorbidRealty
+232,You mean like every scientist?,2016-01-21 23:17:18+00:00,cz742zn,2.0,t1_cxzld6k,3244749.0,beer
+233,"Why not? People ship all sorts of stuff (Glitter, Poop, etc.)",2016-01-21 22:49:07+00:00,cz730n7,2.0,t1_cz6uynk,11356.0,InteractiveWebsites
+234,Hehehe. Brittany Spears of Open Source = Projects that are (*pop*)ular and mainstream. ,2016-01-21 18:56:30+00:00,cz6t197,2.0,t1_cz67920,48216.0,opensource
+235,Siiiiick. Thanks!,2016-01-21 18:54:36+00:00,cz6sy6f,1.0,t3_3wri2c,3319226.0,coolgithubprojects
+236,Thank you good sir!,2016-01-21 18:21:40+00:00,cz6rhi6,2.0,t1_cz6b8so,34995.0,opensource
+237,"So, theoretically, if I feed this thing Hemingway's writing, it shouldn't make any edits right? *But it does.*",2016-01-20 22:24:55+00:00,cz5rgff,1.0,t3_41sac8,70574.0,InternetIsBeautiful
+238,Daiquiri is *already* Hemingway-ized bro.,2016-01-20 22:23:58+00:00,cz5rexq,2.0,t1_cz507bv,50466.0,InternetIsBeautiful
+239,[You are wrong](http://www.ncbi.nlm.nih.gov/pubmed/23627782). ,2016-01-19 21:37:01+00:00,cz4et73,5.0,t1_cz48y6i,8058.0,Drugs
+240,Nothing is more amusing than Redditor's criticizing a world renowned Film Director. Like it has any merit. ,2016-01-19 18:31:32+00:00,cz46q7j,4.0,t1_cz41j74,7439.0,3Dprinting
+241,"Well, it is a fact that we can process information *much faster* by reading. Although, on the internet, we don't really ""read"" per se. We skim articles and look for key sections. [Nicholas Carr](http://www.amazon.com/The-Shallows-Internet-Doing-Brains/dp/0393339750) thinks that's a bad idea.
+
+With that said, I think the attention span is higher for older demographics than younger ones. This is partly why things like Snapchat, Vine etc.. is much more popular among the younger crowd. The beauty of the internet is that, it really doesn't matter what medium you use to create content -- as long as it's high quality, it will eventually find an audience. 
+
+I would also be interested in seeing some data on media consumption preferences. ",2016-01-19 18:24:10+00:00,cz46ejy,3.0,t1_cz3r1ni,35094.0,startups
+242,Ibogaine Treatment for Heroin Addiction is Useless?,2016-01-19 18:13:22+00:00,cz45xyu,3.0,t1_cz3nc06,45247.0,Drugs
+243,[Pangea Biomedics](https://www.pangeabiomedics.com/our-work/ibogaine).,2016-01-19 04:29:24+00:00,cz3lbgw,1.0,t3_41lbua,22780.0,Drugs
+244,"These are the obvious problems that I can think of:
+
+1.) A considerable number *How To's* require videos at a very minimum. (i.e: How to Swim, How to Bench Press, etc..). Therefore, having a database of How To's in text format makes it very challenging for the end users learn stuff. Including me.
+
+2.) I maybe in the minority, but I rarely waste time Googling for stuff. I find most things fairly quickly. Also, I can **literally learn almost anything** from YouTube. This will only improve in the future (i.e: number of videos)
+
+3.) The problem is **discovery**. For example, there's a fuck ton of YouTube videos and Podcasts. Most of my favorite creators on both mediums are *unknown* because I have *no idea* how to find any of them. The only way I find podcasts or YouTubers is if someone refers me to them. What I am trying to say is that, there's a HUGE **DISCOVERY PROBLEM** on the internet. And it will only get much worse as times goes forward. If you could solve this problem instead of just compiling a database of How To Do Stuff, I think I would personally find it much more helpful. 
+
+Also, I personally would *never* read a couple of pages from a How To website to do serious shit like *How to raise a seed round* etc.. I would just get a book written by someone who's done that many times (i.e: Brad Feld etc.)
+
+But like I said, whoever figures out a way to intelligently curate and discovery relevant content at scale is going to make a lot of money....hopefully that will be you :P
+
+It's not an easy problem... but in any case. That's my feedback.",2016-01-19 03:39:28+00:00,cz3jml3,1.0,t3_41mlqg,2126.0,startups
+245,Never heard of Isami. Is that like the Lamborghini of BJJ Belts?,2016-01-18 02:20:00+00:00,cz28fp1,2.0,t1_cz27ih1,1558.0,bjj
+246,What did the Five Fingers say to the Face? [*Slaap!*](https://www.youtube.com/watch?v=qPr-xsQvhgw),2016-01-17 23:00:28+00:00,cz20yil,2.0,t1_cz1rwfz,13673.0,bjj
+247,"Thanks for making this man. I realize how much time/effort/dedication/travel/emails/phone calls it takes to pull this together.
+
+Appreciate it a lot. You take donations? I'd be happy to send something your way :) 
+
+Let me know
+P.S: I didn't realize this was a crowdfunded thing....This is my first time seeing this trailer",2016-01-17 22:51:43+00:00,cz20mwb,1.0,t3_41dj96,33171.0,bjj
+248,Got an STL for this?,2016-01-14 19:23:02+00:00,cyy8yv9,2.0,t1_ctc8m41,15217670.0,3Dprinting
+249,"Why don't you post a picture of you, so we could judge it? Also, P.S: That's Casey Neistat, one of the coolest motherfuckers on the planet. His asshole is likely worth more than your entire life.",2016-01-13 20:10:05+00:00,cyx0kob,4.0,t1_cxuig4s,2935754.0,ads
+250,I don't have an answer but you might have better luck on [their forums](HTTPS://forum.Astroprint.com). It's pretty active.,2016-01-13 17:41:16+00:00,cywtvxz,1.0,t3_40nm5l,84278.0,3Dprinting
+251,I hope Antwon Dodson wins the powerball ... mostly for my own entertainment.,2016-01-12 23:37:15+00:00,cyvyky9,2.0,t1_cyvrc58,10032.0,Lottery
+252,"*Shots Fired*....
+
+(Proves OP's point)",2016-01-12 18:58:04+00:00,cyvm9tt,3.0,t1_cyuzsm6,49783.0,3Dprinting
+253,"Too bad it's like $10K? -- which is pretty great for full color, just too expensive for me :P",2016-01-11 22:59:56+00:00,cyulv15,2.0,t1_cytqgpn,64581.0,3Dprinting
+254,"Yeah, just convert it back to trees.",2016-01-11 22:59:32+00:00,cyuluhe,4.0,t1_cyu2g2c,28503.0,3Dprinting
+255,Not sure. The default settings of CURA works fine for my use. ,2016-01-08 17:15:48+00:00,cyqs8jq,3.0,t1_cypva03,68515.0,3Dprinting
+256,"Lol, I've asked Astroprint about this as well. They said that they are indeed interested in being compatible with M3D but M3D Printers are closed source.
+
+So, if Astroprint is to work with m3d, the folks at m3d should also be interested in working with AstroPrint.
+
+I would also LOVE for this to work!",2016-01-06 16:07:58+00:00,cyo4kx7,1.0,t3_3qx26x,5840601.0,m3d
+257,"Indeed. I've tweeted them (Astroprint) about LIVE Video &amp; Plugins etc.. And they said that those features are planned for 2016, so that's pretty cool.",2016-01-06 16:02:58+00:00,cyo4db2,3.0,t1_cvb65ka,9097138.0,3Dprinting
+258,"I've used AstroPrint for a while. It's pretty solid. They don't have their own SLICER though, it's just CURA &amp; Slic3r running optimized in the cloud. So it's faaaast and like people say, the UI/UX is far more user friendly (and less geekier) than OctoPrint etc...
+
+If you can build a SLICER that's better than CURA &amp; Slic3r though, I am interested 😄",2016-01-06 15:59:16+00:00,cyo47wk,1.0,t3_3zp7ab,21112.0,3Dprinting
+259,"If you can see atoms, why can't you see the atoms of the surface that the other atoms are standing on?",2016-01-04 05:55:21+00:00,cyl9fly,1.0,t3_3ynyzm,482363.0,woahdude
+260,"&gt; but a podcast takes a *bit more* effort
+
+That doesn't negate the fact that the internet will be *saturated* with podcasts like blogs. Keep in mind that majority of the people in the world are *not even on the internet* yet.
+
+Also, with the ubiquitous nature of cell phones, it won't be that hard to produce a podcast at all. 
+
+I would argue that blogs are HARDER to produce because you don't have the benefit of having a 'regular conversation'. You actually have to THINK about what you are going to write and type it all out in a cohesive manner. 
+
+Overall, this is good for the internet. More competition = higher quality of shows.
+
+One thing I am pretty sure about is, ""RADIO"" will be replaced by podcasts. The newer cars are already internet enabled and connected to iTunes etc.. and no one will know that they are listening to a 'podcast' as long as it's being blasted through their car radio.
+
+",2016-01-04 01:59:09+00:00,cyl1n3x,1.0,t3_3zbrzl,13422.0,podcasts
+261,"Running into a dangerous storm knowingly is not *really* living...Your statement is more of an overused cliche/platitude than anything. What makes one human happy can make another miserable, therefore ""*a life well lived*"" is subjective to a certain extent.
+
+*Live by the sword. Die by the sword*. -- that's a better cliche :)",2016-01-02 00:32:12+00:00,cyisd0v,7.0,t1_cyfnr44,254382.0,MorbidReality
+262,"Thanks! Are there anymore like this?
+The only other semi-related Documentary I know of is [Startup.com](https://www.youtube.com/watch?v=ibuiUXOTE4M)..",2016-01-01 03:40:23+00:00,cyhzz0l,1.0,t3_3nirqn,7611069.0,venturecapital
+263,Excellent. Thank you,2016-01-01 03:00:16+00:00,cyhyxmt,1.0,t3_3yvrzu,74863.0,Entrepreneur
+264,"Something to keep in mind: *Majority of the world* **still** does not have internet. 
+
+Amazon will be online for a long time. ",2015-12-31 21:07:52+00:00,cyho3ty,1.0,t3_3yx7bu,18435.0,Entrepreneur
+265,People are like skittles -- they come in all different colors.,2015-12-31 20:57:35+00:00,cyhnrho,3.0,t1_cyhcsg1,18568.0,MorbidReality
+266,i.e: Design Patterns,2015-12-31 20:55:40+00:00,cyhnp45,4.0,t1_cyhh8sy,10775.0,Entrepreneur
+267,Yeah -- basically: data/metric driven marketing as opposed traditional marketing.,2015-12-31 20:54:26+00:00,cyhnnkk,5.0,t1_cyhlogk,3393.0,Entrepreneur
+268,"That's why reddit exists. What *you claim* to be good advice is purely subjective because you will filter it through your own biases and life experiences (*also understood in human psychology*).
+
+It doesn't matter if *I think* that the *Bible* or the *Quran* is full of bad advice -- because *majority* of the world claim to base *their entire life* on one or the other...
+
+My question is: If a lie inspires and propels you to become successful on your own right -- are you okay with that? 
+
+As long as it is positive and get's people to act on their own dreams and make shit happen -- I could absolutely care less.",2015-12-31 20:51:26+00:00,cyhnjtq,6.0,t1_cyhn67a,655.0,Entrepreneur
+269,"Who cares? 
+As if knowing the APP name will help you deduce/replicate the same level of success? 
+
+If you really insist, here, have at it:
+
+1.) [Private Photo Vault](http://privatephotovault.com)
+
+2.) [Authors Blog](http://williamsidell.com/)
+
+Good Luck.
+
+P.S: Remember that if anything, the OP is doing you a favor by sharing his insight/answering your questions. He doesn't owe anyone screenshots, investment strategies or anything else. He's not in a court of law where he's required to prove anything to a bunch of internet strangers. Make your own luck and share your own stories ;)
+",2015-12-31 20:25:01+00:00,cyhmmvw,4.0,t1_cyhj9dl,5683.0,Entrepreneur
+270,It's a matter of time till a variation of the [google contact lenses](https://www.google.com/search?q=google+contact+lenses&amp;pws=0&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiojeLY2YbKAhVB8GMKHcSOCzoQ_AUICSgD&amp;biw=1279&amp;bih=701) will also stream video...,2015-12-31 18:13:45+00:00,cyhhwcj,1.0,t3_3ywzkt,11894.0,CrazyIdeas
+271,"Mind you -- this is a LONG TERM goal. If you are planning on going from IDEA to APP in less than 6 months, you are likely better off hiring someone to do it for you.",2015-12-31 18:10:54+00:00,cyhhsjx,3.0,t1_cyhgpfa,1763.0,Entrepreneur
+272,"I really don't care. Here's why: These are fairly believable numbers. I ran into a 22 year old last year that was doing $20k+/month in profit from just two apps. 
+
+I don't believe OP is lying -- and even if he was, this is a realistic scenario that's worth pondering about for everyone else.",2015-12-31 18:08:56+00:00,cyhhpy6,2.0,t1_cyhf5m1,4213.0,Entrepreneur
+273,Idea for a new YouTube channel: *Surprise! It's Incest!*,2015-12-30 03:13:37+00:00,cyfqlfe,4.0,t1_cyf4fk0,35049.0,AskReddit
+274,"Hmm.. The only other two I can think of is:
+
+1. [Superforecasting: The Art and Science of Prediction](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock/dp/0804136696/)
+2. [Abundance: The Future Is Better Than You Think](http://www.amazon.com/Abundance-Future-Better-Than-Think/dp/145161683X/)
+
+**edit: Ah! Looks like you figured it out! :)",2015-12-28 19:22:02+00:00,cye2nn7,3.0,t1_cydkpea,46200.0,tipofmytongue
+275,You forgot *Techron*...,2015-12-28 06:32:48+00:00,cydkpzp,3.0,t1_cycte2t,49898.0,business
+276,"Yeah. I am in CA, and the price right now is $3+",2015-12-28 06:32:21+00:00,cydkpn9,2.0,t1_cycrrls,53716.0,business
+277,[*The Signal and the Noise*](http://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087/) by Nate Silver?,2015-12-28 06:26:56+00:00,cydklbs,1.0,t3_3yhn2v,2183.0,tipofmytongue
+278,"I would recommend **against** Facebook for this actually. Here's why: It's extremely difficult and time consuming to build an engaging facebook following and it is nearly impossible to gain organic traffic to your posts -- unless you pay for *boosts* or *run ads*. The other thing is, even if you spend money on ADS and gain a ton of ""likes"" -- engagement is likely going to be low. We've spend $15K on facebook to gain new users for a SaaS product (which works OK), but out of the 7-8K people that have 'liked' our page, very few engage. Most people 'liked our page' by clicking 'like' on one of our ads. ",2015-12-28 03:50:14+00:00,cydgcgu,1.0,t3_3y5r3v,249586.0,Entrepreneur
+279,( ͡° ͜ʖ ͡°),2015-12-28 02:59:44+00:00,cyderng,5.0,t1_cycnpve,56366.0,WtSSTaDaMiT
+280,It's cool bro. You *ARE* in /r/Drugs ( ͡° ͜ʖ ͡°),2015-12-28 02:57:56+00:00,cydepok,9.0,t1_cydcfmk,4285.0,Drugs
+281,"Wait, WTF, you can buy shrooms legally from Oregon? Tell me more.",2015-12-28 02:57:08+00:00,cydeoqq,5.0,t1_cycs7q0,39673.0,Drugs
+282,"&gt; blew dmt out of the water
+
+DAFAQ. Really. ಠ_ಠ
+
+Done DMT many times, that's hard to believe. Haven't eaten shrooms in a while, but I *have* eaten 115mg of 4-AcO-DMT (synthetic psilocybin analog/research chemical) and it was a nightmare. 30mg of 4-AcO-DMT is quite incredible though. You should send me some of these super mushies, just sayin' ( ͡° ͜ʖ ͡°)",2015-12-28 02:52:22+00:00,cydejdf,1.0,t3_3yed8g,45916.0,Drugs
+283,"If your industry etc.. is *so small*, then you'd have to search for keywords/hashtags. If not, you can straight up look for well known brands with high engagement. (I.e., if i am in the fashion industry, I can go to the brand page of *American Apparel* etc.)",2015-12-28 01:13:17+00:00,cydbd9q,5.0,t1_cydbaiz,142.0,Entrepreneur
+284,"Yes and No. While you need to create your own relevant #hashtags, you should look at successful pages in your industry *without* cross referencing your own #hashtags. For example, if you are running a fashion/clothing business, **#CoolOutfit** might be a relevant hashtag, but your target customer may use slang like **#SwaggedOut**.
+
+Also, side note: the highest growing demographic on instagram right now is women between 40-55 ;)",2015-12-28 00:36:31+00:00,cyda5zo,3.0,t1_cyd8j9k,2801.0,Entrepreneur
+285,"Ah! My mistake. I misunderstood you. It's definitely doable. RedBull for example, was a non-carbonated drink in Thailand. Then [this guy](https://en.wikipedia.org/wiki/Dietrich_Mateschitz) got licensing rights to modify, rebrand and sell it in the U.S. He's now worth ~$12B. Unfortunately, I don't have any details/specifics on how that process works. ",2015-12-28 00:32:50+00:00,cyda1ho,3.0,t1_cyd8121,3441.0,Entrepreneur
+286,"Have you read [One Simple Idea](http://www.amazon.com/One-Simple-Idea-Licensing-Goldmine/dp/1491581077) by *Stephen Key*?
+
+I don't have personal experience with licensing, but that book ^ is pretty well known as a reliable source. The author's primary source of income is from Licensing. ",2015-12-27 22:46:12+00:00,cyd6aco,1.0,t3_3yey6t,19241.0,Entrepreneur
+287,I've used [Text Broker](http://textbroker.com/) before with good results. That was ~4 years ago though. Not sure who's good these days. You can always use [Upwork](http://upwork.com).,2015-12-27 22:43:06+00:00,cyd66h2,1.0,t3_3yf0j7,17942.0,Entrepreneur
+288,That's what the kids are calling it these days...,2015-12-27 22:36:29+00:00,cyd5xz3,4.0,t1_cyc8icq,80696.0,Entrepreneur
+289,"&gt;It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. But when it is wasted in heedless luxury and spent on no good activity, we are forced at last by death’s final constraint to realize that it has passed away before we knew it was passing. So it is: we are not given a short life but we make it short, and we are not ill-supplied but wasteful of it… Life is long if you know how to use it. - **Seneca**, [*On The Shortness of Life*](http://www.amazon.com/Shortness-Life-Penguin-Great-Ideas/dp/0143036327)",2015-12-27 22:32:46+00:00,cyd5t1m,1.0,t3_3yfznr,1804.0,Entrepreneur
+290,*mad sculpting skills*..,2015-12-27 22:28:34+00:00,cyd5nft,2.0,t1_cycq7ip,29281.0,Entrepreneur
+291,"Here's what I do ...
+
+1.) Find an IG account you want to model -- not necessarily by followers, but by *engagement*. Then make a list of the top #hashtags used *by them*. The more you do this, the more accurate &amp; relevant your list of keywords will become. Remember, you are going after *engagement* &amp; *relevancy* to what you are doing.
+
+2.) Seed your account with at least 20-30 super high quality pictures. Things that are actually useful to people. Then use the maximum amount of relevant keywords on each picture. You can use the list you generated previously for inspiration. The maximum amount of #hashtags should be fine, but if you are feeling frisky, you can actually comment on your own post and add more #hashtags.
+
+3.) Sign up for an account on [Instagress](http://instagress.com) and upload the list of keywords you compiled earlier. Set the speed to *Normal*. *Disable* following. *Disable* interacting with the same users. These will all help you prevent getting flagged as spam etc. 
+
+Instagress basically interacts with highly targeted users 24/7. A small percentage of these users will come check your profile out, then follow you -- which is what you want because growth will look organic and it will be relevant to the users that follow you, which in turn will increase engagement. 
+
+As for the #hashtags: it should be refined/improved every few weeks -- so pay attention to the most relevant #hashtags. Also, the more specific a #hashtag, the better. Keep it hyper specific. For example: *#SingleDadsWhoLoveCats* is much better than *#Cats*.
+
+Hope that helps ;)",2015-12-27 22:25:02+00:00,cyd5iy3,1.0,t3_3yfkcm,7806.0,Entrepreneur
+292,I heard someone once say to *never give your kids to be babysat by people who are too eager to do it...*,2015-12-27 21:00:48+00:00,cyd2f36,3.0,t1_cycwyu8,8803.0,CrazyIdeas
+293,https://www.reddit.com/r/oddlysatisfying/comments/3yexah/laser_cleaning_a_baking_tray/,2015-12-27 20:55:49+00:00,cyd27r0,2.0,t1_cycxjnc,7559.0,geek
+294,You know what I find weird? The fact that we are willing to go to sleep every night with the **assumption** that we will wake up. Reminds me of [*Alan Watt's talk*](https://www.youtube.com/watch?v=OBjE6d_JmQI) on the topic...,2015-12-27 20:29:34+00:00,cyd17e8,3.0,t1_cycmen7,39302.0,MorbidReality
+295,Pretty neat! ,2015-12-27 20:08:52+00:00,cyd0fqv,1.0,t3_3yey4x,9824.0,itookapicture
+296,"&gt; Every now and then when your life gets complicated and the weasels start closing in, the only cure is to load up on heinous chemicals and then drive like a bastard from Hollywood to Las Vegas … with the music at top volume and at least a pint of ether.
+- **Hunter S. Thompson**, *Fear and Loathing in Las Vegas*",2015-12-27 19:21:30+00:00,cycypmn,2.0,t1_cycx915,2374.0,suggestmeabook
+297,"I am a few years older than you and I have been going *hard* with books lately. It's not amazing, but I am on track to finishing about ~400 books by the time I am 30. I am also going for *quality* more than *quantity*. As in, if I feel like I didn't digest a particular book, I will keep at it and put other books on hold. 
+
+In any case, here are my top 3 recommendations:
+
+1.) [The Essential Writings of Ralph Waldo Emerson](http://www.amazon.com/Essential-Writings-Emerson-Library-Classics/dp/0679783229/)
+
+2.) [The 48 Laws of Power](http://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197/)
+
+3.) [The Autobiography of Malcolm X](http://www.amazon.com/Autobiography-Malcolm-Told-Alex-Haley/dp/0345350685/)
+
+Also, *Influence* by Robert Cialdini is *excellent*. One of my favorites.
+
+A little cautionary warning about asking people for recommendations though: Be careful about following other people's lists because those book won't vibe with you the same way. Each of us had our own unique life experiences, so you should be ideally choosing your own books. Lists are good for clues/inspiration though. Frequently, books choose *me*, not the other way around.
+
+Also, try to keep track of the books (and knowledge) you read. I keep a single page HTML page with all the books I read along with a short note in reverse chronological order. I also have the option of putting this list online in the future if I need to.",2015-12-27 19:17:04+00:00,cycyjuf,1.0,t3_3ydu5t,35326.0,suggestmeabook
+298,"First they ride around the OUTSIDE of the contraption. Then they build up so much speed that they climb up, then over and into it. *Clearly*...",2015-12-27 04:23:28+00:00,cycfzl5,2.0,t1_cybyig2,36112.0,travel
+299,I love the internet.,2015-12-26 22:56:58+00:00,cyc6e14,4.0,t1_cybxbq0,19054.0,AskReddit
+300,This is pretty great too! Thanks,2015-12-26 21:28:56+00:00,cyc3vvr,2.0,t1_cybk0ss,60501.0,picrequests
+301,Thanks!,2015-12-26 02:16:23+00:00,cybghoa,2.0,t1_cybelrh,4629.0,picrequests
+302,WOW. Thanks so much. Very cool!,2015-12-26 02:16:13+00:00,cybghje,2.0,t1_cybf0uj,3612.0,picrequests
+303,"Not sure, but I found that from [here](http://greymask.com)",2015-12-26 00:36:22+00:00,cybdzfi,2.0,t1_cyb7azn,14767.0,HelpMeFind
+304,"I guess, where can I go to find a decent product design firm? Upwork?",2015-12-25 17:52:34+00:00,cyb331t,2.0,t1_cyb2i8k,1341.0,Design
+305,"Also, not sure if this was intentional or not, but there's a scene in the documentary where a local *Hooters Restaurant* owner talks about how he's very supportive of local contestants. So much so that, he changed his sign to express his support. The only issue is that, in the documentary, the [sign was misspelled](http://i.imgur.com/wBhDJZ7.png). I LOL'ed.",2015-12-25 16:37:38+00:00,cyb161m,1.0,t3_3y6yin,5.0,Documentaries
+306,"Honestly, I'd rather be dead than have an IQ of 20 and suffer an entire lifetime. It's Morbid, yes, but as much as I hate to say this: *I see the logic*... :/",2015-12-24 05:58:49+00:00,cy9soy4,5.0,t1_cy9fw93,26071.0,MorbidReality
+307,History is rife with new projects that didn't have *any practicality*.....then ended up evolving into game changing shit. (pun proudly intended),2015-12-24 04:44:38+00:00,cy9qtna,4.0,t1_cy9pgax,3031.0,MachineLearning
+308,"I see why that is a big deal. But, what is the potential for failure even with a re-usable booster? For example, is there a 10-25% chance that the booster will either blow up or not land properly?
+
+This can't be as simple as, re-fueling it like a car, then re-launching it, can it?",2015-12-23 02:41:28+00:00,cy8iy4p,2.0,t1_cy7dgkp,84210.0,explainlikeimfive
+309,This is exactly what I am looking for. Thank you good sir!,2015-12-21 01:24:15+00:00,cy63fjb,2.0,t1_cy6338c,637.0,bjj
+310,Penis?,2015-12-21 00:21:39+00:00,cy61a6p,2.0,t1_cy4sfy8,99525.0,bjj
+311,"Wow, that's pretty creative actually. Full the bucket up with what? Screws? Put it on no heat I presume?",2015-12-20 02:33:48+00:00,cy53gfm,6.0,t1_cy48axq,76940.0,3Dprinting
+312,WTF. DIGG IS STILL ONLINE?,2015-12-19 01:07:52+00:00,cy41h1i,2.0,t1_cy3h3ui,33409.0,3Dprinting
+313,"Ah. By the way, do you know of a way to polish Copper Fill WITHOUT a Tumbler? I don't have one at the moment and wondering if it is *absolutely necessary*. There must be low budget options?",2015-12-19 00:28:42+00:00,cy40arn,4.0,t1_cy3zzgk,616.0,3Dprinting
+314,Haha. I am going to polish it soon! You just have higher standards than me. I get happy at the simplest prints ;),2015-12-19 00:00:23+00:00,cy3zf8z,2.0,t1_cy3y4jd,2411.0,3Dprinting
+315,Any update by the way?,2015-12-18 22:33:39+00:00,cy3wjr3,6.0,t1_cx55umz,2585042.0,bjj
+316,"Come to think of it...Tumblr might actually accomplish this. The only issue is that if Tumblr goes down, the site goes down. I don't need people to login to submit stuff (too much friction) -- just need a captcha or something to prevent spam.",2015-12-18 21:24:55+00:00,cy3u0dt,2.0,t1_cy3ttzm,275.0,webdev
+317,Even children and animals...,2015-12-18 01:12:57+00:00,cy2w91j,6.0,t1_cy2tw74,4339.0,programming
+318,"I actually found the documentary to be **way better** than the book. The information absorption is much more potent for me with a well made documentary, especially with high level science/history related topics. ",2015-12-15 04:27:49+00:00,cxzg8ij,4.0,t1_cxzddti,9490.0,beer
+319,"LOL. Funny, that's *exactly* where I got it from. Incredible documentary. I read his book first then accidentally found his PBS documentary..",2015-12-14 23:40:29+00:00,cxz8d3x,2.0,t1_cxz0nyd,11919.0,beer
+320,"^ *This man just pulled a kevin rose on OP*...
+(drops the mic)",2015-12-14 05:19:28+00:00,cxydire,3.0,t1_cxy50wr,14292.0,Android
+321,"Congrats man. One of the things that BJJ forces one to do is *be present*. Yoga, Buddhism, Meditation, and countless other spiritual avenues make *being present* one of the central tenants for a reason -- except those are A LOT more fucking difficult than something like BJJ because, you can't help but be present when a grown man is manhandling you. 
+
+When you first start BJJ, you don't really have much of a grip on the Fight or Flight response, but after a while, pattern recognition kicks in -- then, you being to slowly adapt and actually enjoy the process. 
+
+Then it becomes a never ending game that's impossible to master.
+
+Each door you open leads you to another door. *Indefinitely*.
+
+It is very analogous to life and the adversity we will all experience in our short time on this little blue planet.
+
+Also, humans are hardwired to belong to a community. This is why lonely/lost people often make great targets for cult leaders. The interesting thing is that, with all the technological advancements, a lot of us are *simulating community* via social networking sites and the internet. It's still not enough.
+
+Think about your cell phone for a second. If you stare at your phone (in it's default state, while it's off or on stand by), what do you see? you *see yourself*. Every time you hit that power button to communicate with someone or browse the web, you are metaphorically escaping that reflection --- escaping yourself.
+
+This is why one of the reasons why BJJ has a powerful effect on people. It satisfies a hardwired *need for community*, it *gives purpose* to the purposeless and finally, *it proves without a doubt* that you can overcome adversity. When you do BJJ long enough, all of these factors begin to reinforce themselves and snowball -- leading to a genuinely improved human being.
+
+Anyway, congratulations again man. Proud of you. Keep at it. :)",2015-12-13 02:32:32+00:00,cxx2ti5,1.0,t3_3wl6hk,5348.0,bjj
+322,"Pretty simple, just interaction without being spammy. I would just like to start by ""liking"" highly relevant tweets based on keywords/hashtags....with a 30-40 minutes  delay if possible. ",2015-12-12 00:31:08+00:00,cxvyul0,4.0,t1_cxvxpz3,2019.0,socialmedia
+323,Can you do this? How much time/$ would it take? Just curious...,2015-12-11 23:42:14+00:00,cxvx75k,2.0,t1_cxvw426,1874.0,socialmedia
+324,"Yeah, I use it on a printer farm consisting 7-8 Printers. Pretty good and when shit hits the fan, super fast response.",2015-12-10 06:41:47+00:00,cxtunj4,10.0,t1_cxtmdan,15802.0,3Dprinting
+325,You want it 100% local? It runs 100% local... You just won't have remote monitoring etc..,2015-12-10 01:43:13+00:00,cxtl341,8.0,t1_cxtj2ae,3328.0,3Dprinting
+326,Perhaps [AstroPrint](https://astroprint.com/downloads)?,2015-12-09 21:52:57+00:00,cxtc82e,6.0,t1_cxsx2zq,20529.0,3Dprinting
+327,What are you using for slicing? Have you tried AstroPrint?,2015-12-08 22:55:21+00:00,cxs4kiu,2.0,t1_cxqmdnh,96822.0,3Dprinting
+328,HI I AM BILLY MAYS,2015-12-08 21:56:38+00:00,cxs22nl,4.0,t1_cxqi27k,99429.0,Futurology
+329,"Humans cannot be *Illegal*. The real problem you are trying to address here is *welfare*. (Which I am also against). No one should be getting *subsidized handouts* (i.e: welfare).
+
+Also, unless you are pure bred cherokee, you also come from immigrant roots. ",2015-12-07 18:43:31+00:00,cxqj2h5,2.0,t1_csdzfki,14603180.0,news
+330,"&gt; Learn Portuguese, get your black belt and then murder him and assume his identity.
+
+Highly inefficient and time consuming. What you need is a gun.",2015-12-05 00:29:39+00:00,cxnkjb8,2.0,t1_cxncp53,12907.0,bjj
+331,"&gt; All you stripers are a foreign species to me.
+
+WHAT DO YOU MEAN YOU PEOPLE",2015-12-05 00:24:54+00:00,cxnkdnk,2.0,t1_cxlcapx,156277.0,bjj
+332,You got a website or something? ,2015-12-04 22:48:24+00:00,cxnh3jw,3.0,t1_cxn69rv,16108.0,Entrepreneur
+333,"&gt; Entrepreneurship is about risk
+
+Entrepreneurship is about *minimizing* risk.",2015-12-04 22:41:46+00:00,cxnguuf,2.0,t1_cxmwfeb,31347.0,Entrepreneur
+334,Tampons aren't boring ( ͡° ͜ʖ ͡°),2015-12-04 22:33:45+00:00,cxngk2v,2.0,t1_cxnb5s5,8197.0,Entrepreneur
+335,"&gt; HTTPS. You're hosting an ecommerce site where the main pages aren't secure. Your checkout might be (I didn't get that far), but frankly I wouldn't trust you with my money due to the lack of HTTPS.
+
+[*Free SSL*](https://letsencrypt.org/about/) by Let's Encrypt",2015-12-04 22:17:16+00:00,cxnfyd7,2.0,t1_cxmx9yc,28094.0,Entrepreneur
+336,3D Printer manufacturers should send their printers to this guy for *stress testing*.... He could be the UL or CE of 3D Printing. Yikes.,2015-12-04 00:09:31+00:00,cxmaxw8,1.0,t3_3vc772,5880.0,3Dprinting
+337,"&gt; Easy to learn, difficult to master
+
+*everything* in life?
+",2015-11-28 21:05:49+00:00,cxg23am,3.0,t1_cxfwoee,9540.0,webdev
+338,Offtopic question: How do you like Octoprint? Have you tried AstroPrint? Which do you like better?,2015-11-27 03:11:26+00:00,cxecrhx,1.0,t3_3uezq3,4080.0,3Dprinting
+339,"Yes. It's on top of my VCR.
+",2015-11-26 22:40:25+00:00,cxe4xue,3.0,t1_cvw7evh,3980078.0,AskReddit
+340,Congrats. I *just* got my first cube and a book called [*Speedsolving the Cube*](http://www.amazon.com/Speedsolving-Easy---Follow-Step---Step/dp/1402753136/). I am hoping to join you in the sub-1-minute realms shortly.,2015-11-26 17:37:59+00:00,cxdv5if,1.0,t3_3ucjq5,12854.0,Cubers
+341,Got links?,2015-11-26 00:34:26+00:00,cxd7ge9,2.0,t1_cxd74js,629.0,3Dprinting
+342,Got links?,2015-11-26 00:34:21+00:00,cxd7gao,2.0,t1_cxd6vb1,1117.0,3Dprinting
+343,[Is this the video](http://www.liveleak.com/view?i=8ff_1433546422) you are talking about?,2015-11-25 23:16:29+00:00,cxd4zbz,3.0,t1_cvdlbqu,5317961.0,basejumping
+344,I didn't know you could be *90% virgin*.. ( ͡° ͜ʖ ͡°),2015-11-25 22:36:43+00:00,cxd3ngm,2.0,t1_cxcyr7p,7924.0,3Dprinting
+345,*Muchacho...* Que? ,2015-11-24 22:54:38+00:00,cxbycm6,4.0,t1_cxbwxc6,2206.0,bjj
+346,^ *Perspective Expert* here. Well done.,2015-11-24 22:39:08+00:00,cxbxrbq,3.0,t1_cxbqgjh,10332.0,bjj
+347,Did you know that a broken clock is *still* right twice a day? ,2015-11-24 22:12:38+00:00,cxbwpwk,2.0,t1_cxbptgi,9636.0,woahdude
+348,Phew. I spent the last few hours listening to that (Tycho). Excellent! Thank you my friend! 😆,2015-11-22 02:20:27+00:00,cx8m4ud,2.0,t1_cx7lai5,86545.0,Drugs
+349,You too?,2015-11-21 20:48:05+00:00,cx8b47m,6.0,t1_cx83m2w,13050.0,hiphopheads
+350,Imagine how badass *Barney* would be if he got a *purple belt* 😨,2015-11-21 03:16:46+00:00,cx7mxjt,4.0,t1_cx76smj,29141.0,bjj
+351,"Damn. In a way, he's not really choosing it if he's 'plagued' by alcohol and mental problems right? That's intense. ",2015-11-20 00:51:03+00:00,cx6dgv1,4.0,t1_cx6bay0,3802.0,MorbidReality
+352,"*""..It ain't about the come up, it's about the come back..""* - ICE T",2015-11-20 00:47:32+00:00,cx6dclv,2.0,t1_cx5kxdi,50862.0,MorbidReality
+353,"Internet hugs my friend. Hang in there.
+
+Perhaps /u/Poem_for_your_sprog can give us some inspiration.",2015-11-20 00:45:10+00:00,cx6d9o2,2.0,t1_cx6ao9y,4523.0,MorbidReality
+354,They don't need an airbag. They *are* the airbag.,2015-11-20 00:43:36+00:00,cx6d7ri,5.0,t1_cx5y8ru,22917.0,Eyebleach
+355,"Yeah, I hope didn't go against decorum. I am a long time subscriber of this sub, but figured this might be a mix of both.",2015-11-19 16:32:02+00:00,cx5tthk,3.0,t1_cx5r0ea,4476.0,MorbidReality
+356,Jesus christ. I had to scroll all the way down to find this. Thanks mang.,2015-11-19 05:35:51+00:00,cx5fokk,2.0,t1_cx4pysk,42186.0,woahdude
+357,That would be incredible!,2015-11-19 02:29:54+00:00,cx59zfe,6.0,t1_cx55umz,7217.0,bjj
+358,I figured the best way to start this thing would be to make a [Helio Gracie figurine](http://www.bjjee.com/wp-content/uploads/2015/04/helio-grace-sobrejiu.jpg). ,2015-11-19 00:26:04+00:00,cx55qel,4.0,t1_cx52x5l,4777.0,bjj
+359,Neil?,2015-11-18 22:17:30+00:00,cx511kk,3.0,t1_cx4tyuv,10201.0,oddlysatisfying
+360,Ha! The Rick and Morty robot was the *first* thing I thought of when I saw this. Nice job /u/Cr3X1eUZ ,2015-11-18 22:16:45+00:00,cx510i6,3.0,t1_cx4qere,15212.0,oddlysatisfying
+361,"**I** am not using any software because I am an idiot with CAD haha. I do have access to 3D Printers etc.. and know how to print them. Solidworks (and Blender) are definitely popular choices. You might not need it, but Sculpteo has some [Instructions](http://www.sculpteo.com/en/tutorial/prepare-your-model-3d-printing-solidworks/) on how to do it....You just need to export the file as an STL. Also, before you upload it to Thingiverse, I can do a test print or so....
+
+If we ever get to that point, I'd be happy to print and mail you your print as a token of appreciation from me and the community :)",2015-11-18 20:39:49+00:00,cx4x0l9,2.0,t1_cx4wdee,926.0,bjj
+362,Only thing missing is a *Hans Zimmer* track in the background...,2015-11-18 19:19:15+00:00,cx4tmdt,1.0,t3_3tar2k,16864.0,itookapicture
+363,Hare Hare Hare Hare Hare Hare Hare,2015-11-18 19:04:11+00:00,cx4szfz,4.0,t1_cx4llvj,10723.0,JoeRogan
+364,Alright. *NOW* I get it. Thanks.,2015-11-18 18:17:01+00:00,cx4qzli,2.0,t1_cx46h2b,50281.0,bjj
+365,[*Yeah..*](http://i.imgur.com/6L25QMi.png),2015-11-18 00:57:02+00:00,cx3zc8j,1.0,t3_3t88ii,2798.0,3Dprinting
+366,One of my favorites.,2015-11-17 14:10:55+00:00,cx39ngw,2.0,t1_cx2knma,57087.0,AskReddit
+367,"If it's *after* he's shot, he'd be *dead meat*.",2015-11-17 00:47:50+00:00,cx2q3lk,4.0,t1_cx2p9af,1436.0,pics
+368,So [*Pootie Tang*](https://media.giphy.com/media/ZGuCTJqQxefrq/giphy.gif) is a hero.,2015-11-16 22:39:40+00:00,cx2lfp2,2.0,t1_cx2dao0,11888.0,pics
+369,The difference is that you have *admitted your stupidity* in a public forum. Something a Journalist would never do...,2015-11-16 22:37:22+00:00,cx2lcjx,5.0,t1_cx2cw2u,12351.0,pics
+370,[*..Drops Mic..*](http://giphy.com/gifs/pitch-perfect-adam-devine-mic-drop-1NLE06PXA9TIA),2015-11-16 22:07:54+00:00,cx2k7aw,2.0,t1_cx27zog,17910.0,3Dprinting
+371,Anywhere in the USA!,2015-11-16 22:01:32+00:00,cx2jy2t,2.0,t1_cx2ii7m,2075.0,3Dprinting
+372,OP's buddy was in the *other van* next to the accident. No injuries to anyone.,2015-11-16 20:05:51+00:00,cx2f3vo,2.0,t1_cx2blau,5184.0,pics
+373,LMAO 😂 ,2015-11-16 20:04:56+00:00,cx2f2jz,2.0,t1_cx22oak,19554.0,pics
+374,"When I get a puppy, I will name it *Teardrop*.",2015-11-16 19:59:21+00:00,cx2eu85,1.0,t3_3t1ku7,8512.0,bjj
+375,"Yeah, TWO guns firing simultaneously will increase the T-Rex's probability of hitting you. My money is on the T-Rex. ",2015-11-16 19:33:47+00:00,cx2dsjt,2.0,t1_cx2a9ih,5227.0,pics
+376,This is called the *Hitchcock Effect* right?,2015-11-16 18:40:14+00:00,cx2bmie,2.0,t1_cx1k81i,62352.0,3Dprinting
+377,Unique product. Thanks! Not for me though.,2015-11-15 23:08:08+00:00,cx1f811,2.0,t1_cx1dta9,2243.0,books
+378,"Alright fine....the sand is for traction. But, HOW THE HELL DO THEY RE-FILL THE SAND IN THE SEATS WHEN ITS USED?",2015-11-14 04:19:04+00:00,cwzn9ig,1.0,t3_3spkhr,24928.0,whatisthisthing
+379,"I realize that this documentary has a certain level of shock factor built in. But, is it really worth watching? I am only interested in documentaries that I can learn from...or at the very least, inspiring and/or biographical. ",2015-11-13 05:35:32+00:00,cwymeze,1.0,t3_3sjlec,49898.0,Documentaries
+380,How do you learn to swim? Get in a pool. Start in shallow waters.,2015-11-10 20:11:35+00:00,cwvonbj,1.0,t3_3safjf,13103.0,3Dprinting
+381,You should color this... It looks great! Nice job!,2015-11-09 17:57:00+00:00,cwuarto,1.0,t3_3s2v3r,57940.0,DMT
+382,"Yeah, I wasn't criticizing you per-se, just figured I'll respond to most of the frustrated folks. You know what the solution to all of this is? Use your brain to put yourself in a favorable position through sheer ingenuity/hard/smart/work to help alleviate the problem. This applies to me too -- and to be honest, given that I am in America, I have NO excuse. None.",2015-11-06 19:19:08+00:00,cwqyzg8,6.0,t1_cwqyn9s,493.0,RoomPorn
+383,"These are all *systematic* issues though. 
+
+As in, we've collectively built a giant machine and the CEO's/Kim Kardashian etc.. are merely taking advantage of it as efficiently as they could. 
+
+Nothing wrong with that in my opinion, In fact, 100% of the people who have commented expressing disgust/discomfort/sadness about CEO's/Kim K. drawing huge paychecks at the expense of X, will *gladly* do the same if they were put in a similar situation where their family/lives were guaranteed to be enriched. *100%*.
+
+It's not Kim's fault she's drawing $45M/Year -- rather, that's just a reflection of the product's (i.e: Kim) consumers (i.e: us). Good for Kim. 
+
+We are wired to survive and take care of ourselves and our loved ones first and when the right incentives are in place, it would be *stupid* not to play ball...even at the expense of a *million broken eggs* that you have no direct connection to. 
+
+",2015-11-06 18:36:30+00:00,cwqx6xw,4.0,t1_cwqfzt8,39646.0,RoomPorn
+384,Nice!,2015-11-05 18:10:26+00:00,cwpmwuz,4.0,t1_cwpll18,1841.0,3Dprinting
+385,Who went downhill? and How?,2015-11-05 05:05:02+00:00,cwp37rp,4.0,t1_cwos15m,19280.0,3Dprinting
+386,"&gt; It's all about finding your sweet spot.
+
+That's what she said  ( ͡° ͜ʖ ͡°)",2015-11-04 23:30:50+00:00,cworkib,2.0,t1_cwoin2r,12836.0,3Dprinting
+387,"M3D, Astroprint etc.. did well on Kickstarter. I am sure there are a couple of more....
+
+But, I do understand your frustration.",2015-11-04 23:29:10+00:00,cworic7,2.0,t1_cwooy54,4054.0,3Dprinting
+388,"I know right? OP, give us more details about the print please. Thanks :)",2015-11-04 23:21:14+00:00,cwor7o5,2.0,t1_cwooza2,3529.0,3Dprinting
+389,Is [this one](https://instagram.com/p/9rTR01INx6/) yours too?,2015-11-04 20:52:43+00:00,cwol45d,1.0,t3_3rfgu2,72170.0,3Dprinting
+390,[Nick Woodman's Full Series](https://www.google.com/search?q=inc+500+5000+nick+woodman&amp;pws=0&amp;gws_rd=ssl#q=inc+500+5000+nick+woodman&amp;pws=0&amp;tbm=vid) :),2015-11-04 00:28:32+00:00,cwnk66x,2.0,t1_cwnezkn,7975.0,Entrepreneur
+391,Sweet deal!,2015-11-02 23:37:46+00:00,cwm7roa,3.0,t1_cwm543j,4029.0,somethingimade
+392,**(ಠ_ಠ)**,2015-11-02 22:31:12+00:00,cwm54zf,1.0,t3_3r8kgf,16260.0,bjj
+393,"&gt; I went from being a guy who does jiu jitsu to a jiu jitsu guy
+
+**Hemingway over here ^**",2015-11-02 22:26:48+00:00,cwm4yil,5.0,t1_cwlv9zu,13473.0,bjj
+394,You a cop? ( ͡° ͜ʖ ͡°),2015-11-02 18:43:03+00:00,cwlvb7d,10.0,t1_cwkx8fv,71092.0,3Dprinting
+395,Great!,2015-11-02 06:43:18+00:00,cwldbj1,1.0,t3_3pi5ih,1090958.0,shutupandtakemymoney
+396,"These are great. Quick question, how much $ do you make per month selling these?",2015-11-02 05:03:06+00:00,cwlap0i,1.0,t3_3qkgkt,396113.0,somethingimade
+397,"Yeah, seriously, OP. Don't tease us. Give us links and parts. Jeesus. ",2015-11-02 04:47:18+00:00,cwla7ae,3.0,t1_cwl9ghy,1332.0,DMT
+398,"Ever seen the documentary [**Just Eat It**](https://www.youtube.com/watch?v=zkASAZGIuu0)? They claim that American consumers waste 40%+ of (*perfectly good, edible*) food.",2015-11-02 03:59:36+00:00,cwl8i34,4.0,t1_cwkua9b,22634.0,mildlyinfuriating
+399,DAWWWWWWWWW 😍,2015-10-31 22:29:50+00:00,cwjvi77,1.0,t3_3qyw97,28108.0,sugargliders
+400,"[AstroPrint](https://astroprint.com) does one click export of a timelapse of your print. 
+
+[See example](https://www.youtube.com/watch?v=StJCVYoZcXU). ",2015-10-30 23:08:14+00:00,cwix9do,1.0,t3_3qujb3,28367.0,3Dprinting
+401,"&gt; They are likely due to dust getting inside the camera and onto the surface of the image sensor
+
+What if I can *see* spots inside the lens? ",2015-10-27 19:48:23+00:00,cwez2hx,4.0,t1_cweuqe7,5984.0,photography
+402,I thought every point and shoot has a auto closing mechanism when the camera is on/off.,2015-10-27 17:20:45+00:00,cwesn7b,2.0,t1_cweas0u,43356.0,photography
+403,*Creativity is key to making hip hop instrumentals* - Abraham Lincoln,2015-10-23 22:11:27+00:00,cwak4fm,2.0,t1_cw9sdzf,58670.0,makinghiphop
+404,LMFAO,2015-10-23 22:10:35+00:00,cwak3e0,2.0,t1_cw9s08f,59726.0,makinghiphop
+405,"Good question. I don't have the need (yet), but I am also curious -- what are some companies that would literally help you go from SKETCH to functional PRINT and have that shipped to you? ",2015-10-23 18:45:31+00:00,cwacd9k,1.0,t3_3pxd5f,6711.0,3Dprinting
+406,"Safe, yes. Legal, not in America. Recommend? Yes, If you are ambitious and level headed. ",2015-10-23 03:31:39+00:00,cw9osjb,6.0,t1_cw8vw0t,45064.0,woahdude
+407,"When I was a young lad, I was walking through a forest one day and decided to pop one of these in my mouth. Several hours later, I had a pillow fight with God himself ( ͡° ͜ʖ ͡°)",2015-10-22 22:19:23+00:00,cw9dv3b,1.0,t3_3ps62z,25433.0,3Dprinting
+408,Uhm. *Not to be racist but...*,2015-10-22 04:22:17+00:00,cw8ihrd,4.0,t1_cw86wcb,20176.0,Documentaries
+409,( ͡° ͜ʖ ͡°),2015-10-21 23:29:38+00:00,cw88fzv,2.0,t1_cw7c7sh,63806.0,3Dprinting
+410,"Yes! Great Book: [*I Think, Therefore, I laugh*](http://www.amazon.com/I-Think-Therefore-Laugh/dp/0231119151/) -- I never knew about him until several weeks ago! A friend of mine introduced me to his stuff. Really entertaining. ",2015-10-18 00:50:26+00:00,cw3i8ps,2.0,t1_cw3hpl7,982.0,math
+411,"Nice job. I don't think this quote is *that* complicated, by you sir did a fine job of unpacking and analyzing it.",2015-10-17 23:41:00+00:00,cw3fzs8,3.0,t1_cw2h4t9,83901.0,artificial
+412,( ͡° ͜ʖ ͡°),2015-10-16 21:50:13+00:00,cw2c6vh,4.0,t1_cw2c2o0,202.0,3Dprinting
+413,What about [*TurboSquid*](http://www.turbosquid.com/3d-models/3d-model-realistic-batmobile-1989/615522)?,2015-10-16 20:22:47+00:00,cw28x4c,2.0,t1_cw1uqkh,21309.0,3Dprinting
+414,They say the best fiddle players are notorious for stuttering.,2015-10-16 19:15:19+00:00,cw267zo,2.0,t1_cw1picp,29964.0,3Dprinting
+415,Any ideas on how to organize the information? ,2015-10-16 04:20:54+00:00,cw1iu9w,2.0,t1_cw0wqq6,35902.0,bjj
+416,A fellow nerd. Internet hugs.,2015-10-16 04:19:38+00:00,cw1it18,3.0,t1_cw19bqa,16513.0,bjj
+417,Haha. Fair enough.,2015-10-15 20:42:23+00:00,cw12nzx,6.0,t1_cw12jba,181.0,3Dprinting
+418,"How do you know they didn't get that far? AFAIK they had working demos of scrappy software that was test driven by numerous people online. I do agree that the UL thing was indeed costly. It's hard to know the exact details, but I am sure all of the reasons we've both stated contributed to the failure. Just curious, did you back them on Kickstarter? I did.",2015-10-15 20:36:57+00:00,cw12fqj,4.0,t1_cw12963,256.0,3Dprinting
+419,"..and you don't think attempting/promising to build an entire cloud based software ecosystem *significantly* increased the burden of building proper hardware? As in, the software part literally contributed to the misallocation of resources that should have been used to build the hardware?",2015-10-15 20:28:27+00:00,cw122b4,2.0,t1_cw117e9,1245.0,3Dprinting
+420,It IS called *PIRATE* 3D guys -- what did you expect?,2015-10-14 17:19:51+00:00,cvzllzn,1.0,t3_3olykq,86304.0,3Dprinting
+421,HAHA!,2015-10-12 21:43:44+00:00,cvxeoyp,5.0,t1_cvx9ex9,7590.0,mildlyinfuriating
+422,What happens if I unplug that cable? ( ͡° ͜ʖ ͡°),2015-10-12 21:42:30+00:00,cvxena0,1.0,t3_3ohzcm,3034.0,3Dprinting
+423,How about the [Pootie Tang Logo](https://nelsonriveramovies.files.wordpress.com/2015/05/poster-13555.jpg)? The characters would be bonus.,2015-10-12 21:19:18+00:00,cvxdqda,1.0,t3_3oci10,102681.0,3Dprinting
+424,Couldn't you just use [Creative Commons](http://creativecommons.org/)?,2015-10-12 19:39:48+00:00,cvx9ivl,1.0,t3_3ocjy3,95842.0,3Dprinting
+425,Interesting theory.,2015-10-12 19:17:06+00:00,cvx8kng,6.0,t1_cvx85i1,606.0,mildlyinfuriating
+426,"For an HOUR THOUGH? That seems counterproductive, for both the advertiser and the website, because: 
+
+a.) NO ONE has an hour to watch an AD
+
+b.) Everyone is going to get angry and create negative PR (such as this thread)",2015-10-12 18:46:12+00:00,cvx7ajz,4.0,t1_cvx766r,174.0,mildlyinfuriating
+427,"Honestly, I think it was a coding/setup error -- if not, whoever did that deserves death by stoning.",2015-10-12 18:34:05+00:00,cvx6sa7,2.0,t1_cvx1i4x,7797.0,mildlyinfuriating
+428,"Seriously, this belongs in /r/extremelyinfuriating",2015-10-12 18:33:31+00:00,cvx6rfd,2.0,t1_cvx1i3r,7764.0,mildlyinfuriating
+429,"Hey Bob, I'm bored. Let's fuck with this guy and pull a Swaziland -*bored USPS workers*",2015-10-12 16:38:47+00:00,cvx22vx,2.0,t1_cvq3xfc,525573.0,mildlyinfuriating
+430,Ha! 😂,2015-10-12 16:09:34+00:00,cvx0ygu,2.0,t1_cvwroyc,23470.0,bjj
+431,"/u/ObtuseMoose: Wow, that's quite incredible. Such a simple act being able to literally outlast ones life. I cried a little. 😢 Thanks for sharing! (Also, OP!) 😊
+
+P.S: never have read the hobbit, it's on my list now.",2015-10-12 05:00:21+00:00,cvwmxji,2.0,t1_cvtg1mt,254650.0,books
+432,"Love it. Clean, crisp and pure gangster. ",2015-10-11 18:00:05+00:00,cvw01su,1.0,t3_3oc104,12454.0,RoomPorn
+433,-- Scene from *Law and Order*,2015-10-11 17:58:21+00:00,cvvzzhm,2.0,t1_cvvvkdx,7625.0,gentlemanboners
+434,"Did you boil down the Syrian Rue into a shot glass size volume? I've done that before, but jesus, that stuff tastes HORRID.
+
+Also, yes, that might be too much. Then again, If you can still recall it, then it might not be too much.
+
+We need some sort of a technology to be able to replay other peoples trips. Like, download OP's trip.dmt file into my Virtual Reality goggles so we know what he's really talking about. ( ͡° ͜ʖ ͡°)",2015-10-11 17:55:33+00:00,cvvzvnb,1.0,t3_3obqqh,18441.0,DMT
+435,Yeah -- there's a reason why we have up/down votes. Let the people decide. ( ͡° ͜ʖ ͡°),2015-10-11 17:52:01+00:00,cvvzqtq,3.0,t1_cvvz55x,940.0,LSD
+436,Go make your own headphones and wrap them around your tinfoil hat. Nice job OP.,2015-10-09 23:00:30+00:00,cvu98gr,4.0,t1_cvst5ia,100316.0,3Dprinting
+437,You clever bastard  you.,2015-10-09 21:35:56+00:00,cvu6bgi,3.0,t1_cvtz2mk,11169.0,3Dprinting
+438,"I've used both Octoprint and AstroPrint. They are both solid, but I settled on AstroPrint for these reasons:
+
+1.) **Faster Slicing**: Once the file is up in the cloud you can re-slice the file (for higher/lower quality) with any combination of settings you'd like as preferences change. Why would someone want to do this? Many people end up tweaking and experimenting with various settings that require re-slicing. They have powerful dedicated machines reserved JUST for high speed slicing, machines that are many many many times faster and powerful than home computers or laptops.
+
+2.) **Custom Manufacturer Presets**: The AstroPrint slicer has fine tuned settings for most printer manufacturers PRE-BUILT into the system so that you don't have to worry about googling and tweaking settings to match the best configuration. Not only that, They (AP) works with manufacturers directly in obtaining these settings and allow them to tweak settings directly. Also, if these optimal settings change in the future, no worries, they automatically update those settings so you can focus on printing cool stuff.
+
+3.) **Remote File Management**: Once the file is in the cloud, you can slice the file remotely from anywhere. As a bonus, you can also monitor the print live (with a camera) and also start/stop the print if necessary.
+
+4.) **Simpler to use**: It's super accessible for non-technical users. Advanced settings are still accessible for advanced users, but there's nothing simpler than AstroPrint in terms of UI/UX and it will only get easier to use.
+
+5.) **Automatic Updates**: Software &amp; security updates are done automatically. The average user does not have time to worry about software/slicer updates &amp; security issues. When critical updates are available for the slicer, AstroPrint takes care of all of that so users can focus on printing stuff.
+
+6.) **Plug &amp; Play Slicing Engines**: The slicing engine is modular. Meaning, with a click of a button you can use Cura or Slic3r and in the future, other slicing engines can be added easily like lego blocks.
+
+Pick your poison though, can't really go wrong with either ( ͡° ͜ʖ ͡°)
+
+Happy printing :)",2015-09-30 23:54:51+00:00,cvjxhcw,1.0,t3_3lzfl2,701771.0,3Dprinting
+439,Sure. **H Mart** in *Mira Mesa* is one of my favorites.,2015-09-28 20:40:31+00:00,cvhaw8a,2.0,t1_cvgq268,40170.0,UCSD
+440,Is $2 a lot in Romania? What's the $ equivalent? I might need help converting a BLOG to markdown (Jekyll). Do you know how to do that?,2015-09-28 06:25:23+00:00,cvgnh84,1.0,t3_3mmgw9,31010.0,forhire
+441,Then we'll know.,2015-09-28 06:21:28+00:00,cvgnepp,3.0,t1_cvgmkt6,2580.0,relationships
+442,This thread is going to be interesting if OP's girlfriend actually kills him.,2015-09-28 05:15:48+00:00,cvgm3j8,1.0,t3_3mlkuj,41046.0,relationships
+443,"Dear Zachary is incomparable. 
+
+In either case, if you are looking for documentaries that are either *fucked up*, *disturbing* or *unfortunate*, here are some recommendations:
+
+* [Titicut Follies](https://en.wikipedia.org/wiki/Titicut_Follies)
+* [Interview with a Cannibal](https://www.youtube.com/watch?v=BosZxa1bYcE)
+* [Jonestown: The Life and Death of Peoples Temple](https://www.youtube.com/watch?v=ydHRESPjBxg)
+* [Richard ""The Iceman"" Kuklinski](https://www.youtube.com/watch?v=_vn7Hz2PK7s)
+* [The Imposter](https://en.wikipedia.org/wiki/The_Imposter_(2012_film)
+* [The Untold Story of Emmett Louis Till](http://www.imdb.com/title/tt0475420/)
+* [The Cannibal Warlords of Liberia](https://www.youtube.com/watch?v=ZRuSS0iiFyo)
+* [The Central Park Five](https://en.wikipedia.org/wiki/The_Central_Park_Five)
+
+
+**P.S:** The movie [*Changeling*](https://www.youtube.com/watch?v=PmfjureC-5I) was based on the [Wineville Chicken Coop Murders](https://www.youtube.com/watch?v=-Nu7T-Szi5Q), but unfortunately there is no documentary about it. I would love to see a documentary on this topic. It's quite fucked up.
+
+
+",2015-09-27 22:37:59+00:00,cvga0hy,1.0,t3_3mjok4,64576.0,NetflixBestOf
+444,Ah! Thanks for the correction! :),2015-09-27 19:25:57+00:00,cvg2p4v,2.0,t1_cvd82rg,240665.0,UCSD
+445,This is much more entertaining than: *Who's on first?*,2015-09-21 13:35:07+00:00,cv8z3u1,4.0,t1_cv8q0gg,32351.0,mildlyinteresting
+446,"*half* **AND** *half*?, so a WHOLE ONE?
+
+Proof: (.5 + .5) = 1, therefore 1 = 1",2015-09-21 13:31:36+00:00,cv8z0bk,4.0,t1_cv8pf7u,33919.0,mildlyinteresting
+447,"Yeah, the long lasting negative PR impact is usually *much more serious* than a mere *attempt*.",2015-09-13 20:51:08+00:00,cv0etoi,5.0,t1_cv03qdg,16736.0,technology
+448,*We got a poet over here.*,2015-09-07 18:04:38+00:00,cutmw8u,4.0,t1_cutiifm,8154.0,Design
+449,This guy ^ is the master of ELI5,2015-09-07 17:52:10+00:00,cutmhkr,4.0,t1_cutfuua,13113.0,science
+450,"Thanks! So the primary motivation behind an IPO is to raise a lot of money right? If that's the case, why not resort to venture capital or business loans? Are there any serious benefits to an IPO compared to staying private?",2015-09-05 02:20:05+00:00,cur5c64,8.0,t1_cuq5v7c,74154.0,Entrepreneur
+451,I meant the *BAT*Flix.net :),2015-09-04 04:49:59+00:00,cuq4n0u,3.0,t1_cuq4m29,62.0,podcasts
+452,[*Sure*](https://www.google.com/search?q=podcasts+about+adam+sandler+movies&amp;pws=0&amp;gws_rd=ssl)?,2015-09-04 04:46:52+00:00,cuq4k4l,3.0,t1_cuq4f8v,325.0,podcasts
+453,"Can you explain by a *Pink Sheet IPO*? Also, what are the key elements/requirements of a company going IPO? And, is it YOUR company that is going IPO or someone else's where you are an employee?",2015-09-04 04:31:29+00:00,cuq45yj,6.0,t1_cuq2c9q,3804.0,Entrepreneur
+454,"Wait, explain how your dad went to Harvard OPM but handed the business to *your sister*? Was she actually qualified but fucked up in this particular scenario or was it your dad's fault from the get go?",2015-09-04 04:28:20+00:00,cuq42zn,3.0,t1_cuq1vuq,4503.0,Entrepreneur
+455,"Well what do you know, two redditors who know each other in real life and are *cool as fuck*. /u/irhumbled: For AdWords, try a book called ""*Advanced Google Adwords* 3rd edition"". I am going through it right now myself. It's *excellent* reference material for you.",2015-09-04 04:26:52+00:00,cuq41mq,6.0,t1_cuq2wbf,2446.0,Entrepreneur
+456,Dots or feathers?,2015-09-04 04:24:06+00:00,cuq3yz8,5.0,t1_cuq0r0r,6342.0,Entrepreneur
+457,What sources? AdWords? Facebook? Tips and Advice on online marketing/advertising? I am in the middle of some PPC campaigns as well.,2015-09-04 04:23:14+00:00,cuq3y5c,7.0,t1_cuq1mx0,4678.0,Entrepreneur
+458,"So it's *Bad*. This is not a bad omelette considering all the eggs you have broken. Nice job OP. 
+
+My question: **What books or resources have you found to be the most influential for you in business and life?** 
+",2015-09-04 04:18:59+00:00,cuq3tza,4.0,t1_cupyhch,10010.0,Entrepreneur
+459,"Congrats! By the way, the site is [*BadFlix.net*](http://badflix.net) -- I went to the wrong site. Will check it out!",2015-09-04 04:04:24+00:00,cuq3feh,1.0,t3_3jkiwx,5368.0,podcasts
+460,"Now, this approach is a lot better than *obvious self promotion*. Nice job OP.",2015-09-04 03:58:05+00:00,cuq38ym,1.0,t3_3jko6e,2315.0,podcasts
+461,"""**A Single Death is a Tragedy; a Million Deaths is a Statistic**"" - *Joseph Stalin*
+
+Also, side note: In my opinion, most people don't care about charity as much as being *perceived as charitable* among their peers. This is the primary reason why people publicly talk (or post) about their charitable deeds. The most charitable people are rarely known by the public. (Exception(s): Bill Gates etc.)",2015-09-04 03:44:18+00:00,cuq2u88,2.0,t1_cupk3us,31509.0,MorbidReality
+462,Cool! Thanks!,2015-08-31 19:43:16+00:00,cum6a4a,9.0,t1_culeyud,61512.0,AskReddit
+463,LMFAO 😂,2015-08-30 18:17:10+00:00,cukyoz0,6.0,t1_cuks3vg,12144.0,AskReddit
+464,How do you type big text on Reddit? 😕,2015-08-28 22:18:38+00:00,cuj59cs,7.0,t1_cuizwib,8661.0,AskReddit
+465,"Yeah, if you've seen fucked up stuff on the internet but can't watch this, it just means that you can relate to this video a lot more than the others. (I.e: ISIS vs local reporter in suburban America)",2015-08-28 05:10:59+00:00,cuic41r,5.0,t1_cuh34wk,92544.0,MorbidReality
+466,"Yeah, I wish there were bystanders. Well, even then, the window of opportunity is extremely small for someone to tackle the assailant etc. Also reporters/cameramen are TRAINED to focus on the subject/broadcast and ignore their surroundings.. Which doesn't help. ",2015-08-28 05:08:06+00:00,cuic1pq,5.0,t1_cugmudt,119737.0,MorbidReality
+467,Good question. Was wondering the same thing.,2015-08-28 05:04:33+00:00,cuibyqq,4.0,t1_cugewlz,131219.0,MorbidReality
+468,We practice the *Chin to eye* ALL the time in our dojo.,2015-08-27 02:57:19+00:00,cuh25tv,2.0,t1_cug0gd7,73333.0,bjj
+469,"Yeah. This quote is exactly from Aurelius. Holiday is influenced by him, so it makes sense..... But what OP posted was just a shitty, modern attempt from holiday to convey the same thing.",2015-08-22 20:55:21+00:00,cuc5055,2.0,t1_cubzrkh,10034.0,QuotesPorn
+470,😩,2015-08-22 13:33:54+00:00,cubrlgo,1.0,t3_3hw1jh,62812.0,relationships
+471,Hey Thanks /u/swampyness. I am an AstroPrint evangelist ;) -- let me know if you ever need anything related to AstroPrint and/or 3D Printing.,2015-08-22 00:04:14+00:00,cuba724,3.0,t1_cp59h49,14629014.0,PrintrBot
+472,AstroPrint has supported the RPi camera since **4/28/15** version: 0.7(0) =),2015-08-21 23:40:44+00:00,cub9fig,2.0,t1_cp07pjg,15043055.0,PrintrBot
+473,"&gt; Why? What advantages does cloud slicing have over local slicing?
+
+Hey /u/PuffThePed!
+
+Great question!
+
+Most people on /r/3DPrinting are more technical than the average user (they are also early adopters etc.), so it maybe confusing to see the benefits of a cloud slicer like AstroPrint as opposed to using a slicer offline.
+
+Here are some benefits of AstroPrint over running a local slicer.
+
+1.) **Faster Slicing**: Once the file is up in the cloud you can re-slice the file (for higher/lower quality) with any combination of settings you'd like as preferences change. Why would someone want to do this? Many people end up tweaking and experimenting with various settings that require re-slicing. We have powerful dedicated machines reserved JUST for high speed slicing, machines that are many many many times faster and powerful than home computers or laptops.
+
+2.) **Custom Manufacturer Presets**: Our slicer has fine tuned settings for most printer manufacturers PRE-BUILT into the system so that you don't have to worry about googling and tweaking settings to match the best configuration. Not only that, we work with manufacturers directly in obtaining these settings and allow them to tweak settings directly. Also, if these optimal settings change in the future, no worries, we automatically update those settings so you can focus on printing cool stuff.
+
+3.) **Remote File Management**: Once the file is in the cloud, you can slice the file remotely from anywhere. As a bonus, you can also monitor the print live (with a camera) and also start/stop the print if necessary.
+
+4.) **Simpler to use**: We want 3D Printers to be accessible for anyone (i.e: my grandma, dad etc..). Advanced settings are still accessible for advanced users, but there's nothing simpler than AstroPrint in terms of UI/UX and it will only get easier to use.
+
+5.) **Automatic Updates**: Software &amp; security updates are done automatically. The average user does not have time to worry about software/slicer updates &amp; security issues. When critical updates are available for the slicer, we take care of all of that so users can focus on printing stuff.
+
+6.) **Plug &amp; Play Slicing Engines**: The slicing engine is modular. Meaning, with a click of a button you can use Cura or Slic3r and in the future, other slicing engines can be added easily like lego blocks.
+
+Let me know if that answers your question!
+I'd be more than happy to answer anymore questions!
+
+:)",2015-08-21 23:23:59+00:00,cub8vw1,2.0,t1_cu7sodb,249341.0,promos
+474,*lads*. Yup. He's Irish. Checks out.,2015-08-21 03:27:12+00:00,cuaaaku,2.0,t1_cua0sb1,17558.0,bjj
+475,"*financed*, which require comprehensive.",2015-08-21 02:40:54+00:00,cua8w4n,2.0,t1_cua4y4m,7315.0,Frugal
+476,Ha!,2015-08-18 17:39:15+00:00,cu79eis,2.0,t1_cu785dg,1816.0,promos
+477,*African American* Bears.,2015-08-16 22:57:34+00:00,cu5aut9,3.0,t1_cu4zbwq,21086.0,technology
+478,I'm interested.,2015-08-07 02:24:19+00:00,ctud04o,1.0,t3_3g0k8y,38604.0,PPC
+479,Yeah! Fair enough :),2015-08-05 13:08:00+00:00,cts92dg,8.0,t1_ctruep2,40539.0,3Dprinting
+480,Np!,2015-08-05 00:34:47+00:00,ctrrnvk,8.0,t1_ctrkn9d,11541.0,podcasts
+481,"I guess it could be confusing. Think of it this way: *Why is Netflix better than having a stack of DVD's in your room*? A lot of reasons. But mainly, Netflix has connected scale, virtually limitless storage and you can use it with any device anywhere. AstroPrint also has scale, has virtually unlimited storage (once you upload a STL file, you don't have to re-upload it, you can just print it) and most importantly, it let's other developers build apps on top of it. So, imagine using a ""Cell Phone Cases"" app on AstroPrint and being able to print ANY pre-designed cell phone cover etc...Also, when it's on the cloud, it's much easier for the *entire world* to collaborate with users on that platform. I dunno, it makes sense to me.",2015-08-05 00:31:23+00:00,ctrrjmh,6.0,t1_ctr2uan,37806.0,3Dprinting
+482,"LOL -- This is the **ONLY** comment in this thread that's actually intelligent, yet, I had to scroll all the way down to see it. 99% of the comments in this thread are absolutely useless. ",2015-08-04 18:23:03+00:00,ctrd411,5.0,t1_ctr1uin,17708.0,3Dprinting
+483,**Why is Ireland so big?** *Because it keeps dublin and dublin and dublin*.,2015-08-03 00:29:45+00:00,ctpdzng,2.0,t1_ctp4p87,17602.0,needadvice
+484,"Thank you, Internet.",2015-08-02 21:50:33+00:00,ctp9480,2.0,t1_ctp2n1g,11794.0,Drugs
+485,This looks great! Thanks!,2015-07-29 19:57:52+00:00,ctkodch,2.0,t1_ctkbav1,17644.0,MachineLearning
+486,**CANNED GARBANZO BEANS**,2015-07-29 00:09:56+00:00,ctjnqpz,1.0,t3_3ewvl2,28824.0,Frugal
+487,If its *just hits* -- [stumbleupon](http://ads.stumbleupon.com/) is cheap.,2015-07-28 18:49:03+00:00,ctjarbf,1.0,t3_350i9j,7230831.0,blackhatseo
+488,Ouch. MY balls hurt reading that 😱,2015-07-28 12:52:28+00:00,ctiws7f,4.0,t1_ctij4zo,37863.0,childfree
+489,You win the internet 😂,2015-07-27 14:53:12+00:00,cthsjuq,2.0,t1_ctgql27,83088.0,mildlyinteresting
+490,LMFAO,2015-07-27 01:26:44+00:00,cth9ug7,1.0,t3_3emmh5,77353.0,mildlyinfuriating
+491,Great. Thanks! Didn't know those subs existed :),2015-07-26 19:42:41+00:00,ctgy8ex,2.0,t1_ctgxmrb,1089.0,AskReddit
+492,"I see. Should I do a LLC with S-Corp election? What are the pros/cons of that? Also, anyway to avoid the $800/year LLC fee in California?",2015-07-17 21:44:23+00:00,ct71upk,6.0,t1_ct6qdq7,17461.0,smallbusiness
+493,This is an *excellent* BASE Jumping location.,2015-07-17 13:20:30+00:00,ct6idby,1.0,t3_3d046w,442036.0,woahdude
+494,"It's an online business based in California. I read a book called [*Incorporate your business*](http://www.nolo.com/products/incorporate-your-business-nibs.html) and he recommends a single person C-Corp for an online business. Although, I can just form an LLC w/ S-Corp taxation and restructure it as a C-Corp in the future if needed. Is that a better idea? I haven't done anything yet.
+
+",2015-07-17 13:15:25+00:00,ct6i7wo,2.0,t1_ct6hr62,1025.0,smallbusiness
+495,Sweet! Thanks!,2015-07-16 19:38:08+00:00,ct5pu4v,2.0,t1_ct5k8dn,8003.0,webdev
+496,Excellent suggestion! Thanks!,2015-07-16 13:28:11+00:00,ct5b7cj,2.0,t1_ct51u3l,29813.0,Poetry
+497,"Dude, read the news clearly.
+
+It's *Business Bankruptcy*, **NOT** personal bankruptcy. This is just a business move to minimize damage/paying up. Trump has done this before as well. Given the circumstances, it *is a smart move*.",2015-07-13 22:18:55+00:00,ct28as2,1.0,t3_3d5brw,17796.0,explainlikeimfive

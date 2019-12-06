@@ -1,0 +1,881 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-09-10 15:45:15+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/523nuy/move_to_invite_new_trump_supporters_into_the/,False,All in favor?,The_Donald,"Move to invite new trump supporters into the basket, in addition to the current protocol of coat redistribution.",https://www.reddit.com/r/The_Donald/comments/523nuy/move_to_invite_new_trump_supporters_into_the/
+1,2016-08-25 12:33:45+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/4zi8u4/reporters_need_to_stop_referring_to_mrs_clinton/,False,"She is not the Secretary of State. It is no longer her title. According to state department protocol, you lose your title once your time is done. She should only be referred to as ""the former secretary"", or ""Mrs."" Clinton.
+
+
+http://www.slate.com/articles/news_and_politics/explainer/2000/12/who_gets_to_keep_their_government_titles.html",The_Donald,"Reporters need to stop referring to Mrs. Clinton as S ""Secretary"".",https://www.reddit.com/r/The_Donald/comments/4zi8u4/reporters_need_to_stop_referring_to_mrs_clinton/
+2,2016-08-17 18:39:34+00:00,self.wow,https://www.reddit.com/r/wow/comments/4y7bre/im_considering_getting_a_refund_for_legion_based/,False,"I got back in the game specifically because I figured I'd give legion a shot. I barely played wod because it became not fun quickly. I started up an old character, started doing some old content, then started doing legion invasions. I think I started doing them after the xp boost. I wanted to level up a char using just invasions, it was a lot of fun. I did one this morning, and realized quickly that the fun was gone. I don't feel like playing a game where blizzard comes in and fucks up the fun I was having, and I think other players feel the same. It's not that big of a deal in the long run, but for a potential reintroduction to the game, it's put a sour taste in my mouth.
+
+Edit: apparently my opinion is wrong.",wow,I'm considering getting a refund for legion based on blizzards approach to legion invasions,https://www.reddit.com/r/wow/comments/4y7bre/im_considering_getting_a_refund_for_legion_based/
+3,2016-07-10 03:02:10+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/4s3oq3/resources_for_learning_how_angular_works/,False,"I started a job involving angular recently, and while I have a good understanding of how to *build* stuff with Angular 1, I don't have an understanding of how the framework actually works behind the scenes. I need to learn a lot about this for in depth unit testing of our application. Since this is going to be a normal thing for me to be doing, instead of googling every time I want to set up a specific unit test, I was wondering if there was a collective resource of how angular 1 *works*, rather than just how its implemented.
+
+Online resources are great but so are books. Thanks!",webdev,Resources for Learning How Angular Works?,https://www.reddit.com/r/webdev/comments/4s3oq3/resources_for_learning_how_angular_works/
+4,2016-06-10 13:02:29+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/4ng68m/npm_module_name_clash_and_legitimacy_of_keeping/,False,"Hey guys,
+
+I was contacted today by someone regarding an npm module that I published a few months back. It seems they worked for a large company working on a project, and were trying to publish an npm module under the same name as what I set. They nicely asked if I could abandon the name for them. Now, the project I worked on was a small side project, and probably won't have too much production level use in the future, but it was something I did put a lot of work in, and even helped me get a job. The package is basically a very common name, but with a suffix. And I had to find the correct way to showcase my name in npm, since variations of the name were taken. So basically I was wondering what you guys thought I should do. I obviously am not trying to get money or recognition or anything, since it's just a name, but the name is also somewhat representative of a cool project I did from start to finish. I don't want to be screwing fellow developers but i also feel like first come first serve exists for a reason. Thoughts?",webdev,NPM module name clash and legitimacy of keeping name questions.,https://www.reddit.com/r/webdev/comments/4ng68m/npm_module_name_clash_and_legitimacy_of_keeping/
+5,2016-06-09 14:08:56+00:00,self.web_design,https://www.reddit.com/r/web_design/comments/4nay65/sublime_text_autocomplete_help/,False,"Hey guys,
+
+I'm setting up my dev enviro on a new computer. I had a setting on my old machine where when writing HTML in sublime, if you typed ""."", it would automatically become ""class="". Same for # and Id. I just can't remember the setting. If someone knows that'd be awesome. Thanks.
+
+EDIT: I found what I was looking for. I appreciate everyone commenting, but I use emmet every day, and I know when it's not what I'm talking about. What I was looking for (I had this set up on my older home machine, and just didn't have access to the settings I had previously, which is why I asked here) was the setting ""auto_id_class"": true, in the user settings of sublime text.",web_design,Sublime text autocomplete help,https://www.reddit.com/r/web_design/comments/4nay65/sublime_text_autocomplete_help/
+6,2016-05-29 04:29:24+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/4lj484/hearing_the_same_things_again/,False,"""He doesn't have the country's best interest at heart""
+
+""He doesn't *deserve* to be president""
+
+""He has no experience!""
+
+""Someone's just going to assassinate him""
+
+""Are we *sure* he's Christian?""
+
+""Sure, he's a good speaker, but so was Hitler!""
+
+""People are just voting for him because of racism""
+
+""I'm going to move to Canada if he gets elected""
+
+""He certainly won't be *my* president""
+
+--Talking about Obama in 2008
+
+How's that shoe feel on the other foot, libtaros?",The_Donald,Hearing the same things again,https://www.reddit.com/r/The_Donald/comments/4lj484/hearing_the_same_things_again/
+7,2016-05-21 13:39:28+00:00,archive.is,https://www.reddit.com/r/The_Donald/comments/4kdlqq/rational_disapproval_of_doxxing_appears_in_srs/,False,,The_Donald,"Rational disapproval of doxxing appears in SRS, user precedes to get banned. And we're the radical ones.",http://archive.is/NfWhi
+8,2016-05-16 19:57:47+00:00,self.buildapc,https://www.reddit.com/r/buildapc/comments/4jmz3q/troubleshooting_computer_not_turning_on_trying_to/,False,"Hey guys,
+
+I'm having some really frustrating issues with my PC at the moment. Basically, my computer won't turn on, and I'm trying to find the culprit, the broken piece in the puzzle. The PC will turn on, fans going full blast, for about 3 seconds, then shut off. I don't have a speaker to check for post beeps. The weird part is that while 90% of the time it will turn off after 3 seconds, occasionally it will go on a longer 10 second cycle, then turn off. Weirder still, sometimes, I'd say maybe 1 in 500 cycles of it trying turning on, it'll turn on just fine, and there will no issues whatsoever. I've had this build for about a year and a half. This issue has been annoying me for the past few weeks. I do leave my PC on for a long time ever since this became and issue, since it would potentially not turn back on. I also want to point out that my PC was in a decently hot room last summer (cheap apartment, no AC). 
+
+**What I've done so far**
+
+*CHECKED THE PSU*
+
+I bought a new PSU, swapped out the original. Same issue.
+
+*CHECKED MOBO*
+
+I reset the cmos, switched the BIOS battery, and now even bought a new mobo. Still, the same issue. This basically leaves the last thing I can think of being the issue:
+
+*CHECKING THE CPU*
+
+The only thing I can think of being the problem is the CPU. I'd really hate for that to be the issue, but here's what I've seen so far. I brought the cpu from the older mobo to the new one. Dust had accumulate around the socket, but not in. Cleaned off the surface of the CPU And heat sink, but still, computer won't turn on, 3 second cycles, with the occasional 10 second cycle.
+
+Is it the CPU? Could it be something else? Could it be caused by overheating? Some fix in not thinking of? Any help would be great.",buildapc,"[Troubleshooting] computer not turning on, trying to find the culprit for days",https://www.reddit.com/r/buildapc/comments/4jmz3q/troubleshooting_computer_not_turning_on_trying_to/
+9,2016-04-27 04:16:34+00:00,self.hearthstone,https://www.reddit.com/r/hearthstone/comments/4gmus9/massansc_banned_from_twitch/,False,"Says channel is closed
+
+https://www.twitch.tv/massansc",hearthstone,MassanSC Banned from twitch,https://www.reddit.com/r/hearthstone/comments/4gmus9/massansc_banned_from_twitch/
+10,2016-04-23 03:50:09+00:00,self.AskTrumpSupporters,https://www.reddit.com/r/AskTrumpSupporters/comments/4g1z64/who_has_more_fun_trump_supporters_or_bernie/,False,Both on and off the internet,AskTrumpSupporters,"Who has more fun, Trump Supporters or Bernie Supporters?",https://www.reddit.com/r/AskTrumpSupporters/comments/4g1z64/who_has_more_fun_trump_supporters_or_bernie/
+11,2016-04-18 02:34:14+00:00,np.reddit.com,https://www.reddit.com/r/The_Donald/comments/4f9sjq/are_we_stilling_triggering_sjws/,False,,The_Donald,Are we stilling triggering SJWs?,https://np.reddit.com/r/The_Donald/comments/48ia89/i_am_milo_yiannopoulos_and_donald_trump_is_my/d0jsrsq?context=3
+12,2016-04-17 12:23:47+00:00,self.AskBernieSupporters,https://www.reddit.com/r/AskBernieSupporters/comments/4f6e2w/why_is_a_15_minimum_wage_a_good_thing/,False,"Let's say I make $16 an hour. Not a ton but enough to live off of. How would increasing the minimum wage to $15 an hour, thus making my wages closer to the minimum wage, be beneficial to me. 
+
+
+Let's say I own a small business. If the minimum wage doubles, I'll only be able to hire half as many people now. That's a lot of unemployment. The only companies that will be able to compete with that are the huge ones. Before you say ""they were probably unsustainable anyway"", please, understand that not being able to double your payroll in just a few years is not a sign of a bad business model. No company with small margins but high cash flow, successful businesses like restaurants, would be able to sustain this wage increase without serious increase to goods and services.
+
+Let's say I go to the grocery store. The shelves are stocked with goods, put there by minimum wage workers. The costs of these goods would sky rocket if the person stocking the shelves requires double wages. How is this good for the middle class, and how would this not effectively just inflate the cost of goods and services to the point that it didn't effectively change the position of the minimum wage employee.
+
+If $15 is meant to decrease poverty by increasing wages, why stop at $15? People love to tell me that rich countries like Denmark have $21 wages at McDonald's. Why don't we just do that here? Why not $50 for minimum wage?
+
+Edit: you're doing a good job so far. I'm already swaying in my convictions.",AskBernieSupporters,Why is a $15 minimum wage a good thing?,https://www.reddit.com/r/AskBernieSupporters/comments/4f6e2w/why_is_a_15_minimum_wage_a_good_thing/
+13,2016-04-15 22:51:40+00:00,self.AskTrumpSupporters,https://www.reddit.com/r/AskTrumpSupporters/comments/4ez9ge/have_you_ever_noticed_how_bernie_supporters_jizz/,False,"Literally any argument made to them is met with ""source?"", ""source?"". As if a political opinion needs validation by being written about in some online rag. I think it speaks a lot to who they are, not being able to come to conclusions without it being shown to them. The_donald asks for sources about specific stats or whatever, but even general statements with any Bernie supporters is met with ""well your claim is invalid until you link me to a Wikipedia page"". What do these people do in every day conversation?",AskTrumpSupporters,Have you ever noticed how Bernie supporters jizz themselves over sources?,https://www.reddit.com/r/AskTrumpSupporters/comments/4ez9ge/have_you_ever_noticed_how_bernie_supporters_jizz/
+14,2016-03-26 03:06:42+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/4bzpbw/does_anyone_have_that_picture_from_one_of_trumps/,False,"Where it says he's for legal immigration, and mentions his grandparents? Need it to blow out a cuck",The_Donald,Does anyone have that picture from one of Trump's book that shows his stance on immigration?,https://www.reddit.com/r/The_Donald/comments/4bzpbw/does_anyone_have_that_picture_from_one_of_trumps/
+15,2016-03-18 08:01:27+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/4axdqr/i_vote_that_we_get_rid_of_aids_skrillex_personal/,False,[removed],The_Donald,I vote that we get rid of AIDS skrillex personal posts,https://www.reddit.com/r/The_Donald/comments/4axdqr/i_vote_that_we_get_rid_of_aids_skrillex_personal/
+16,2016-03-01 10:43:23+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/48fp8q/the_definitive_guide_as_to_why_john_olivers/,False,"Literally every thread that has mentioned John Oliver has been brigaded heavily. I imagine that all the bern victims have it set in their filters to find anything and everything related to their nu-male savior.
+
+So despite the fact that this comedian created a completely biased attack against Donald Trump, wildly based in opinion, with some facts strewn between comedy, the bern victims are calling for sources on literally every single nitpicking detail. I imagine that because they got a check-plus on a recent essay in gender studies, they think that they are bona fide reporters, and literally jizz over any source that provides them with the reality they want. It is absolutely ridiculous to have to discredit the validity of a comedian as though it were a scientific paper, but since this is apparently a source of news to the left, I guess it’ll have to be done.
+
+So here is the minute by minute, note by note discrediting of John Oliver’s sad attempt at becoming relevant in politics.
+
+For those who want to follow along, I’m startin at 2 minutes in on the video, since the first two minutes are basically just tame set up.
+
+[**Going Over The Qualities That Makes Trump Appealing**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=2m12s)
+
+Already we are in an eyeroll with citing Politifact as unbiased evidence. For those who might be new here and have gotten literally every fact you’ve heard in the last year or so from this website, you might be surprised to hear that it is not the bastion of truth that the left claims it to be.
+
+So let me break down some of the biases they’ve shown. To start, [Politifact is a project of the *Tampa Bay Times*](https://en.wikipedia.org/wiki/PolitiFact.com), which is a [“usually liberal “paper](https://en.wikipedia.org/wiki/Tampa_Bay_Times#History). It has been [criticized heavily by many as an unreliable source](http://humanevents.com/2012/08/30/politifact-bias-does-the-gop-tell-nine-times-more-lies-than-left-really/), and has even gathered such a following against it that someone actually has tried to make an [unbiased version](http://www.politifactbias.com/). [This post goes into discussion and examples against the neutrality of Politifact](https://np.reddit.com/r/NeutralPolitics/comments/39fbov/is_politifact_truly_neutral/). Nitpicking alone is something that can cause an overwhelming number of false statements. 
+
+[**Apparently Jokes Are Lies**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=2m32s)
+
+John goes into anecdotal evidence of Trump’s apparent propensity of lying by citing tweets that Trump has made. The second tweet shown, that says “I never attacked dopey Jon Stewart for his phony last name. Would never do that”. It’s a joke. He’s shitposting, just like he does all day every day. He attacked Jon Stewart’s name in the same 140 character limit that says he isn’t doing such a thing. He’s being funny.
+
+[**He said / he said**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=2m53s)
+
+Here John Oliver goes on to say that Trump lied by saying that he never invited Trump onto his show, claiming “why would he lie about such a thing”? Well, I shouldn’t have to point out that the only source on this is John Oliver himself. He’s trying to make Trump look bad, of course he’ll claim such things. Oliver actually has more reason to lie about not-inviting Trump than Trump did to tweet claiming he didn’t want to do the show. So, honestly, this is so minor a case against Trump that anyone who thinks this is an issue in the presidential election should just kill themselves.
+
+We have about a minute of jokes and he said / he said here
+
+[**Campaign Financing**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=4m5s)
+
+Here Oliver goes into trying to discredit his financing of his campaign. “I’m rich, therefore I tell the truth”. The clip provided was edited to just show Trump saying that he’s spent money, and tells the truth, when [in reality he was posed a question of whether or not he lies, and therefore was saying that he doesn’t lie unlike other candidates who are shills for corporations and lie on their behalf](https://www.youtube.com/watch?v=CMlHkxCLbl8#t=5m32s). Surprise, surprise, editing makes Trump look bad. Watch more of the interview to get the full context. Oliver makes a joke that’s based on the editing itself.
+
+[**Saying He’s Not Self Financing Is Retarded**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=4m36s)
+
+Oliver explains why Trump actually *hasn’t* spent $25 million dollars on his campaign, and instead has loaned the money to his campaign. Okay, so basically what this means is that Trump can get money back from his campaign based on what he has left right up until the GOP convention. Oliver is suggesting that Trump has simply “put money up front” and will snatch it back when he can. The only evidence to this whatsoever is Oliver saying it, so I think the fact that Trump has literally said every 30 seconds that he is self funding his campaign holds a bit more credence than John Oliver claiming that he is trying to pull a fast one by loaning the money. [This has been reported on several times](http://thehill.com/blogs/ballot-box/presidential-races/267698-trump-funds-campaign-with-108m-in-loans) over a [month ago](http://www.usnews.com/news/politics/articles/2016-01-31/trump-loaned-10-million-to-his-campaign-toward-end-of-2015), with no hubbub over it, even though those came out several months after [the article](http://www.politico.com/story/2015/10/donald-trump-fec-fundraising-214838) Oliver was referring to. Giving a loan to his campaign allows him to take back the money whenever he wants because **It’s a lot of fucking money**. Side note, that article Oliver referenced literally lays out how Trump has actually been making money by running for president, which is fucking badass.
+
+[**Doing A Better Job Than Bernie Without Trying**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=5m12s)
+
+Oliver claims that Trump’s story of getting money sent in the mail by a woman is false, [though Trump has actually shown video of all the mail he gets from fans, so it is entirely possible](https://www.youtube.com/watch?v=NwIL6imI6EU). 
+
+Oliver claims next that if he didn’t want the campaign contributions he shouldn’t have had donate buttons on his website. He has never told people to go out and donate for him, unlike Bernie who does so in every concession speech. The fact that amongst all the information there is out there, the only evidence of Trump wanting money from people is donation buttons that he has never advertised, suggests that he really isn’t trying to fund his campaign with those donations. Instead, it shows that even though Trump has told people “I don’t need your money”, people have sent him money in support. But for god’s sake, Trump’s raised [$6 million for veterans this election cycle](http://www.cnbc.com/2016/01/29/trump-skips-debate-raises-6m-for-vets.html). And he did so in 24 hours. It’s clear that he’s not trying to scam people out of every penny they can donate unlike some candidates.
+
+[**Oh You’re A Tough Guy I Know**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=5m55s)
+
+Oliver questions Trump’s toughness, which is a hard thing to quantify. He claims that Trump has “thin skin” when it comes to insults. He’s going back all the way to 1988 to a fucking hilarious story about a guy calling him short-fingered, and Trump responding by Andy Dufresne-ing him for years with shitposts, with a dash of gold for style. I have no idea how this can be translated to being tough, but frankly, someone who defends his character that hard (though, again, I’d argue he’s just being hilarious, I imagine him cackling to himself as he sends the notes) seems pretty tough to me. This is an opinion portion of the hit-piece.
+
+[**Apparently Lawsuits Are Never Necessary**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=6m48s)
+
+Here Oliver says that Trump likes to “threaten” lawsuits against people. This is true, but this isn’t saying the fact that he also follows through on a ton of lawsuits as well. like one that was [settled recently against Univision](http://www.usatoday.com/story/money/2016/02/11/trump-univision-settle-beauty-pageant-lawsuit/80238188/), or [another one in which he filed a lawsuit so that he could have a huge American Flag](http://dailycaller.com/2015/07/06/that-time-donald-trump-filed-a-lawsuit-to-keep-up-an-extra-large-american-flag/). He’s a billionaire. He’s a billionaire with his name all over his company. Of course he’s going to threaten to sue people for libel. He throws his big swinging money dick around as a big fuck you all the time, [like that time he accepted Bill Maher’s ‘joke’ offer of $5 million to prove he isn’t an orangutan](https://www.youtube.com/watch?v=wc0JJi71MEc#t=2m20s). He always gets the last laugh.
+
+[**How Dare He Compliment Himself**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=7m37s)
+
+Oliver continues to ‘attack’ Trump for saying he is successful, when he is. I’m not sure John Oliver understand what it means to run for president, but it means to pitch yourself as best you can. It’s really not debatable that Trump is a success at this point. If you don’t think so, you’re retarded, and he’s leading the polls.
+
+Next, he finds a clip of Trump ‘flubbing’ by claiming to have a large vocabulary and not using it. This is classic Daily Show level cherry picking. You could find a clip in which anyone said something ridiculous like this. It’s a flub, not a definitive comment on his overall character.
+
+[**&gt;Muh Debt**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=8m11s)
+
+Here we get into the finances of Donald Trump, and Oliver’s incredulous stance on it (see retarded comment above). So let’s start with his father. [His father died in 1999](https://en.wikipedia.org/wiki/Fred_Trump). At the time his net worth was between $250 and $300 million dollars. [Donald had created his own fortune at that point](http://www.nytimes.com/2005/10/23/business/yourmoney/whats-he-really-worth.html?_r=0) (Article is from 2005 to try and get rid of bias the POTUS race has caused, but see the timeline to get an idea of an estimation of debt). The truth is, no one will ever know the exact amount that Trump was worth in the past now, because there are so many wild speculations at this point. What can’t be debated is that Donald broke into the Manhattan real estate market when his father was only working in the outer boroughs, and made a fortune doing so. The debate about how much is somewhat irrelevant if we’re just talking about “is he a success?”. 
+
+Oliver then tries to equate the bankruptcies of 2008 with the story Ivanka tells about her father. Except that the video of Ivanka is from 2003, and the story she is telling is from some time earlier. The bankruptcies that predated the crash of 2008 have nothing to do with this story by Ivanka, but whatever, John Oliver said it right? Now we have the story from Ivanka. She’s obviously smart, and future empress of the world. But she is 22 in this video. And she is recalling an anecdote from many years before. Not exactly a solid piece of evidence in a claim against a multi-billion dollar corporation. Ivanka claims that Trump was $8 billion in debt at one point. This is a ridiculous number, one that isn’t verified as true even by his [most vicious of opposition](http://gawker.com/donald-trumps-grossly-exaggerated-net-worth-a-timeline-1711718182). She may be remembering it incorrectly, and instead  meant $8 million. People associate having debt with not being a success, but understand that debt doesn’t necessarily represent the solvency of a person. If that were the case, nearly every person who takes out a mortgage would be considered unsuccessful. But even if we think “wow, Trump was $8 million in the hole at one point”, he’s worth billions now. Pretty successful if you ask me.
+
+[**Let’s Argue About How Many Billions This Guy Has. That’ll Show He’s Unsuccessful**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=9m11s)
+
+Oliver now joins the debate of “how much is Donald Trump really worth right now”? There have been so many people who have written about this, with wild numbers everywhere. Trump has claimed to be worth $10 billion, it’s true. Some have argued that he took into account his [brand as a portion of his net worth](http://247wallst.com/media/2016/01/30/is-donald-trump-worth-3-billion-or-10-billion/), or perhaps over valuing his real estate properties. The conservative, “generally-considered-correct-it-shows-up-on-google” answer is $4 billion. Oliver doesn’t point to this figure though. Instead, he points to the “so-libelous-it’s-actually-suable” answer of a few hundred million, suggesting that since this is an answer that Trump doesn’t like (along with tying the “massive debt” from just a minute prior to this) that this is the correct answer. The amount that he sued for is again, hilarious, and just a slap in the face. 
+
+Oliver then tries to say that Trump basically just decides what he’s worth based on his feelings. If you read the [excerpts of the deposition however](http://money.cnn.com/2011/04/21/news/companies/donald_trump_excerpts/index.htm) (the section titled “On calculating his own net worth), you can see that he says plainly that his net worth is based on the market, and feelings, including his own.
+
+“My net worth fluctuates, and it goes up and down with the markets and with attitudes and with feelings, even my own feelings”
+
+ As in, it’s worth whatever the market thinks it’s worth. The market is people’s feelings. Including Trump’s. Again, this is a cherry picked moment that Oliver is basing an overarching argument of “this man cannot be president”. He’s basing it on a clip here, a clip there, a memory here, a snippet there. Anyone could do this with someone to prove that they aren’t suited for their job, like say, [cherry picking all the time’s a tier 3 comedian reminds us of the year](http://knowyourmeme.com/memes/come-on-it-s-2015). 
+
+[**Pfft What’s The Trump Brand Anyway?**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=10m12s)
+
+[I already linked the brand thing](http://247wallst.com/media/2016/01/30/is-donald-trump-worth-3-billion-or-10-billion/), but John Oliver basically claims that “no, it’s not worth that much”. This is up for debate on how much it is worth, along with his net worth. But again, if the claim is “donald trump is successful”, and we’re just arguing about how many billions of dollars he’s worth, I think it’s clear that that’s already been decided. 
+
+Oliver goes on to call out all the failed products that Trump has had in the past. But if we only judged companies by things that [didn’t work out](http://tvweb.com/tv-network/hbo/ended), no company would ever be successful. Oliver goes on to claim that Trump didn’t have financial prowess by starting a mortgage company right before the the housing market crash, but does not state that the housing crash was something that was so hard to spot that people who wanted to [short the market literally had to create the short in order to make money on it](https://en.wikipedia.org/wiki/The_Big_Short_(film)). If Oliver is claiming that not knowing about the the housing crash in 2006 was grounds for being called a terrible businessman, then he also is disparaging literally everyone else. 
+
+[**Wait I Thought The Brand Wasn’t Worth Much?**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=12m41s)
+
+Oliver goes on to talk about the brand of Trump again, mentioning the fact that he licenses his name to buildings (I thought that brand name was worthless John?). But Oliver suggests that Trump isn’t a builder, by pointing out a building where his worthless brand name has been making him money at no cost, instead of mentioning the [large portfolio of real estate holdings that the Trump Organization has built](https://en.wikipedia.org/wiki/The_Trump_Organization#Real_estate_holdings). Oliver disparages trump by claiming that his worthless brand is making him money on a building, and that Trump likes that it is easier. I don’t really understand how this is an insult. He’s able to extend his brand further and add more to his real estate portfolio by doing nothing. I see that only as efficiency. Keep your argument straight John.
+
+[**These Investors Are Not Babies**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=13m4s)
+
+Oliver starts to bring in the sob story by trying to unravel the Trump brand’s association with quality next. The sales video that Oliver shows cleverly mentions how Trump is proud of the fact that when he builds he has people follow him. But he never said “yeah, I built this”. Yet the next argument Oliver makes is that “Yeah, Trump didn’t build this”. It’s subtle, but he’s trying to display dishonesty in Trump by editing dishonestly. We see an investor who was “swindled” out of his money. Alright folks here’s the deal, investment is risk. You might lose all your money when you invest. If you can’t afford to lose money you’re investing in, guess what, you shouldn’t be investing. So even though Last Week Tonight is shuffling out the sad looking man, know that while unfortunate, it isn’t something evil that occurred. [Let’s also be sure to recognize that this occurred in 2008](https://en.wikipedia.org/wiki/Trump_Ocean_Resort_Baja_Mexico), after the housing crash. Guess what, a lot of investors lost money. The fact that real estate was failing in 2008 was not Trump’s fault.
+
+[**The Housing Market Caused Some Problems Believe It Or Not**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=13m56s)
+
+Donald Jr. is being deposed, for a condo that they pulled their name off of after the housing crash, and is asked by a lawyer if he thought the Trump name meant stability. He is being deposed. He is trying to defend his case. If he said “yes, it brings stability”. that could lead to possible negligence charges, or other issues. I imagine no real estate developer would be talking about stability in 2008.
+
+[**Still More Crash Stuff**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=14m25s)
+
+Oliver brings up Trump tower tampa next, immediately suggesting that this, once again is solely the fault of Donald Trump, by saying that he “characteristically deflected blame”. Doesn’t talk about if the developers are *actually* at fault, because Trump is an idiot right? And most importantly, also doesn’t bring up, like the previous property, [that construction began in 2007](https://en.wikipedia.org/wiki/Trump_Tower_(Tampa)), at the beginning of the crash. Once again, not Trump’s fault that a property failed because real estate was in freefall.
+
+Oliver takes another cherry-picked quote from Trump about settling lawsuits, then stating dryly that these two cases were settled. Is Trump suggesting that he would *never* settle a lawsuit? “When I get suits I take them all the way. You know what happens if you settle suits, you get sued more. I don’t settle anything, I don’t settle”. Well, this seems to me like he’s saying “I try my hardest not to settle”, much in the same way someone might say “I don’t get sick”. Does that mean he is a total liar because he had a cold 3 years ago? (This argument is just cherry picked but honestly my retaliation of explaining how plainspoken language works and then following up with a final “how the fuck did that connection get made” punchline is exactly what Last Week Tonight does).
+
+[**Wait So Is The Brand Good Or Bad?**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=15m5s)
+
+Oliver is now literally backtracking over the fact that he previously made fun of Trump’s brand and is now saying it *is* synonymous with success.He then goes on to say “we need to look at the man not the mascot”, after spending 15 minutes picking out sound bites instead of suggesting a longer format for his ideas. Spoiler, you’re not going to learn much about someone if it’s translated through an androgynous english comedian with snippets of things they said off the cuff here and there.
+
+[**”Flip-flopping” But Not Really**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=15m49s)
+
+Oliver just said Cruz was okay so…. that’s interesting. He’s even bringing up a Cruzite argument of the flip-flopping Trump. He provides no sources of when and where Trump said certain things, so I had to do some digging. [On the Syrian Refugee Crisis, when he said we should take **some** in](
+http://www.politico.com/story/2015/09/donald-trump-syrian-refugees-213430#ixzz41dqNpiDo), he said “I hate the concept of it, but on a humanitarian basis, you have to… This was started by President Obama when he didn't go in and do the job he should have when he drew the line in the sand, which turned out to be a very artificial line”. Much like his stance on eminent domain where he said “I don’t love it, but we need it”. But flip-flopping can occur for a few reasons. Like maybe, [a terrorist attack on home soil](https://en.wikipedia.org/wiki/2015_San_Bernardino_attack). I can imagine that some people changed their mind on Syrian Refugees after that. On abortion, [he has claimed that he changed his opinion many years ago](http://www.ontheissues.org/Celeb/Donald_Trump_Abortion.htm) (and what sane human being *ever* changes their political opinion of the years). On assault weapon bans, [he not so much as flip-flopped, as much as changed his moderate point of view with a more conservative one](https://theintercept.com/2016/01/27/donald-trump-in-2000-i-support-the-ban-on-assault-weapons/).
+
+[**Muh Racism**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=16m)
+
+Time for “muh racism” folks. Here we cover the “way too much coverage for stupid shit” story that has been making waves amongst echo chambers for the past few days. David Duke endorses Donald Trump. Now I’m not going to argue that “he didn’t endorse him!”, because he said he said he thinks people should vote for him. In my mind, that’s just changing what phrases mean, and that’s what LWT does. Oliver is shocked at the fact that Trump says he doesn’t know anything about David Duke, that he hadn’t met him, that he didn’t know anything about white supremacy. He’s not saying that he has literally never heard of the guy, [clearly](https://www.facebook.com/DonaldTrump/videos/10156697871260725/). He’s saying he doesn’t know him. He’s saying he doesn’t know anything about white supremacy. He’s saying it, given the fact that he’s doing an interview for his campaign, in relation to his campaign. “I don’t know anything about it” is a phrase that can mean ""I don’t associate with that in any way"". For example, I *know* that gang violence is a bad thing, but I also don’t know anything about it because I never associate with it. The fact that people are trying to gather a pre super tuesday stumping together based on just a few words Trump said amidst everything else he’s said is a bit sad. 
+
+[**More Racism**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=16m44s)
+
+And now John Oliver is claiming Trump is a racist after claiming to not associate with white supremacy. Not only that, he gives the ultimatum of being a racist, or pretending to be, as if those are the only two options in this scenario. Let’s go back to my gang violence example. I don’t know anything about gang violence. As such, someone could theoretically come out and say I’m not against gang violence. Of course I am, but since I had that one phrase that could be interpreted many ways, apparently, I’m now a Blood. There is the issue, however, of allowing white supremacists to vote for Trump. Well, I have bad news for all the pro-censorship people out there. White supremacists *can* vote. And they can vote for whoever they want. So can Black Panthers, Nazis, and the Westboro baptist church. Claiming that they shouldn't be able to vote based on their (admittedly retarded) views is unconstitutional, and unamerican. I’m sure Trump is not going to be turning down votes any time soon. Would it be better if white supremacists voted for someone else? 
+
+[**Um Those Views Haven’t Changed John**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=17m1s)
+
+Oliver talks about flip-flopping again, but then brings up stances Trump has that are controversial but not inconsistent. The autism vaccine thing I’m not going to touch on because I just think Trump is wrong. Guess what, he’s not perfect. I mean I only scored a 97% Trump on who I agree with, so I imagine the autism vaccines make up that 3%. [The statement on Mexican rapists has been so edited it’s nuts (here’s a hint, if there’s more than one ellipsis and less than 10 words, it’s probably out of context](https://www.youtube.com/watch?v=Gw8c2Cq-vpg#t=9m29s).
+
+[**Never Said Kill**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=17m9s)
+
+This is where the doozie for a lot of people was, the “war crime” against families of terrorists. So let’s break down what he’s said. I’m hearing a lot of “you need to take them out”. I’m not hearing any “let’s go murder everyone”. He’s referring to the fact that the San Bernardino shooter’s [friends and family](http://www.cnn.com/2015/12/11/us/san-bernardino-shooting/) knew about the weapon stores they had, about the fact that they had pipe bombs, and yet did nothing. [Here is Trump giving a more in depth view of what he means](https://www.youtube.com/watch?v=xOUup9foyMA). Note that the person asking the question mentions killing, but Trump does not himself. He simply mentions being firm. This could be a great deal of things but the point is he doesn’t say. [The truth is that extreme measures against Islamic terrorism have been stated before](http://www.snopes.com/rumors/pershing.asp). The truth is that while terrorists don't value their own life, they do value their family’s lives. And if terrorists have the knowledge that their families may be imprisoned for their actions, that alone may be enough to deter terrorism, or at least the abetting of terrorism. 
+
+Oliver continues to talk about his inconsistency, but only 3 of the positions mentioned have changed, one of which only slightly. one because a terrorist attack happened, and one because Trump changed his opinion over the course of a few years. 
+
+[**Admission of Defeat**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=17m43s)
+
+Oliver admits the inevitability of a Trump presidency, so I guess that’s cool of him to concede like that.
+
+[**One Of The Worst Jokes Is What They End On?**](https://www.youtube.com/watch?v=DnpO_RTSNmQ#t=18m56s)
+
+I guess HBO is in the forced meme business. The fact that an ancestor had a different name than the one he has today is not really an argument. It’s not something that is associated with Donald Trump. If Oliver’s ‘insult’ had any bearing, than any person whose family name was changed on Ellis island (looking at you Polish people) should feel dishonest for not having ridiculous to pronounce names. This ‘insult’ has about as much credence to it as that [time Ted Cruz tried to claim that Trump wasn’t a citizen because his grandmother was an immigrant](https://www.youtube.com/watch?v=UTDiM66NBmw). It’s just a sad argument, and one that I’m sure will make people in the echo chambers chuckle over their keyboards over. But as someone has suggested, making up a name for a candidate you don’t like is actually worse than, say, calling a President Hussein because that actually is his middle name.
+
+The whole hashtag thing at the end is so forced. People who already don’t like him will eat it up at an oppurtunity to seem relevant by having an opinion of someone who is very popular, even if the opinion is nonsensical. Frankly, the people who bring this up, you sound like an idiot. It’d be one thing if it was a well thought out insult based on prior tendencies for a candidate or voter base, but you literally just came up with a funny noise. And that funny noise, is emblematic not of a victory over a supposed tyrant, but the symbolic sound of the last ditch effort to stop Donald Trump from entering the White House.
+
+**EDIT** I'm going to stay up as long as I can before the shills arrive, but considering I just stayed up all night doing this, might not make it too long. So do me a favor guys, shove this info down their throats when they get here.
+
+**EDIT** The Downvote Brigade is either up early or, more likely, they're european and unemployed.
+
+**EDIT** Thanks for the gold but donate to vets next time.",The_Donald,The Definitive Guide as to Why John Oliver’s attempt of a Hit Piece is Utter Horseshit,https://www.reddit.com/r/The_Donald/comments/48fp8q/the_definitive_guide_as_to_why_john_olivers/
+17,2016-03-01 07:24:14+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/48f4i7/im_looking_for_a_video_of_trump/,False,"It's where his employees are talking about the campaign strategy, and says ""let Trump be Trump"". It also shows fan mail that Trump has received. I can't for the life of me find it.",The_Donald,I'm looking for a video of Trump,https://www.reddit.com/r/The_Donald/comments/48f4i7/im_looking_for_a_video_of_trump/
+18,2016-03-01 05:19:40+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/48epio/is_there_a_reason_we_let_a_thread_get_brigades_by/,False,"[This thread on John oliver](https://np.reddit.com/r/The_Donald/comments/48bso9/owner_of_cnn_time_warner_owner_of_hbo_john/)
+
+It's full of people saying ""omg John Oliver *cannot* be refuted!"", even though I've seen like 8 comments and threads pointing out every flaw in the video. Half of that show was opinion anyway. ",The_Donald,Is there a reason we let a thread get brigades by low energy comments?,https://www.reddit.com/r/The_Donald/comments/48epio/is_there_a_reason_we_let_a_thread_get_brigades_by/
+19,2016-02-26 07:48:11+00:00,trump.com,https://www.reddit.com/r/The_Donald/comments/47o1h1/for_those_who_question_trumps_wealth_in_1994_5/,False,,The_Donald,"For those who question Trump's wealth: in 1994, 5 years before Trump received any inheritance, Trump bought the Empire State Building. Not an office, not a floor. The building.",http://www.trump.com/real-estate-portfolio/new-york-past/empire-state-building/
+20,2016-02-17 20:32:59+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/46at5j/one_thing_i_disagree_with_trump_on/,False,"I'm a huge Trump supporter. Most of his policies/beliefs I'm in love with. Some I think are kinda meh, but they aren't dealbreakers. This is one of them. I'm a web developer, Front End, primarily JavaScript. One of the biggest things I support Trump for is his stance on H1B visas. I'd like to have a job in technology that pays well so surprise, this is a huge plus for me. However, his stance on technology in general is kind of ""meh"" in my eyes. It's just a few comments here and there. He made some comments at a debate (or a rally, can't remember) about shutting off the internet for ISIS. He corrected himself shortly after suggesting that the government should employ Silicon Valley to help find and monitor ISIS, and saying he would actually rather have them using social media as much as possible because it would make them easier to track. He also had a statement regarding Apple and their encryption on their phones, and how they should basically let the FBI have free reign over viewing how their encryption is done, in order to find potential evidence on the phones of the San Bernardino shooters. Apple's stance is pretty much that if they give anyone the trade secrets for their encryption. Basically they want to ensure that iOS remains secure, which I think is admirable. And while the FBI is obviously trying to get information on this case, the thing they are more interested in is the ability to find evidence in future cases. Anyway, I'm fairly certain that his stance on these issues comes from a lack of awareness and implications on such things, so I don't really hold it against him. I think that the resolve his supporters have for Trump can be proved by the ability to disagree with some policies, and yet still support him. 
+
+**Are there any issues that he's brought up that you aren't for, yet still will vote for him?**",The_Donald,One thing I disagree with Trump on.,https://www.reddit.com/r/The_Donald/comments/46at5j/one_thing_i_disagree_with_trump_on/
+21,2016-02-12 20:39:45+00:00,imgur.com,https://www.reddit.com/r/mildlyinteresting/comments/45gpxh/these_two_copies_of_the_same_issue_of_people_have/,False,,mildlyinteresting,These two copies of the same issue of People have different headlines,http://imgur.com/CXjaEbK
+22,2016-02-10 03:38:51+00:00,youtube.com,https://www.reddit.com/r/The_Donald/comments/450qyn/rae_sremmurd_up_like_trump/,False,,The_Donald,Rae Sremmurd - Up Like Trump,https://www.youtube.com/watch?v=GLa9YxV1Xps
+23,2016-02-09 13:16:13+00:00,on.msnbc.com,https://www.reddit.com/r/The_Donald/comments/44wltc/morning_joe_on_pre_primary_trump_rally_it_was_a/,False,,The_Donald,Morning Joe on pre primary Trump Rally: 'It was a rock show',http://on.msnbc.com/1XfBRlg
+24,2016-02-03 02:05:31+00:00,en.wikipedia.org,https://www.reddit.com/r/todayilearned/comments/43xmni/til_that_knut_haugland_crew_member_of_the_famed/,False,,todayilearned,"TIL that Knut Haugland, crew member of the famed Kon-Tiki expedition, was also involved in the Heavy Water Sabotage of the Norsk Hydro Rjukan, which helped prevent Nazi Germany from developing Atomic Weaponry",https://en.wikipedia.org/wiki/Knut_Haugland#Heavy_water_sabotage
+25,2016-02-02 03:22:42+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/43scdj/i_dont_want_to_be_a_sore_loser_but_something/,False,[removed],The_Donald,I don't want to be a sore loser but something smells fishy,https://www.reddit.com/r/The_Donald/comments/43scdj/i_dont_want_to_be_a_sore_loser_but_something/
+26,2016-02-01 03:43:00+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/43mnqx/i_think_we_are_having_more_fun_here_than_any/,False,"By far. All the other political subreddits seem to have some kind of disdain for every one else, or is preemptively butt hurt. But it's just a big love fest here. We also have the best memes, by far.",The_Donald,I think we are having more fun here than any other political subreddit,https://www.reddit.com/r/The_Donald/comments/43mnqx/i_think_we_are_having_more_fun_here_than_any/
+27,2016-01-27 21:00:56+00:00,nytimes.com,https://www.reddit.com/r/The_Donald/comments/42znj8/less_than_24_hours_after_announcing_that_donald/,False,,The_Donald,"Less than 24 hours after announcing that Donald Trump announces he's not doing the Fox News debate, and instead will do a fundraiser for the Wound Warriors, a special report is published in the NYT criticizing fund spending for the organization",http://nytimes.com/2016/01/28/us/wounded-warrior-project-spends-lavishly-on-itself-ex-employees-say.html?_r=0&amp;referer=
+28,2016-01-26 20:10:09+00:00,np.reddit.com,https://www.reddit.com/r/The_Donald/comments/42tf33/anti_trump_post_on_rpics_receives_8k_points_and/,False,,The_Donald,"Anti trump post on /r/pics receives 8k points, and it questioned by the mods for vote manipulation",https://np.reddit.com/r/pics/comments/42ryzr/a_group_of_high_schoolers_in_tulsa_ditched_class/
+29,2016-01-26 06:49:48+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/42qcvq/has_anyone_else_noticed_a_small_shift_in/,False,"Not the titles of the posts that are being submitted, but the comment sections are getting more pro-trump, with upvoting too. Here are some examples
+
+https://np.reddit.com/r/politics/comments/41ojnv/some_911_first_responders_slam_donald_trump_for/?
+
+https://np.reddit.com/r/politics/comments/42hiqr/bernie_sanders_we_would_beat_donald_trump_badly/?
+
+https://np.reddit.com/r/politics/comments/42idmq/trump_goes_to_church_in_iowa_and_hears_a_sermon/?
+
+https://np.reddit.com/r/politics/comments/4269ba/trump_retweets_neonazis_insult_of_jeb_bush/? (This one is admittedly dank)
+
+
+",The_Donald,Has anyone else noticed a small shift in /r/politics in the last week or so,https://www.reddit.com/r/The_Donald/comments/42qcvq/has_anyone_else_noticed_a_small_shift_in/
+30,2016-01-16 09:50:56+00:00,self.The_Donald,https://www.reddit.com/r/The_Donald/comments/417r4s/how_ive_dealt_with_the_antitrump_crowd_in/,False,"There have been a few posts asking how to deal with either telling people you support trump, defending him, or dealing with anti-trump people in general. I figured I might as well give my 2 cents on the matter since I'm surrounded by anti trump people on the daily. First some background. I'm a young guy, early twenties, and living in Massachusetts. So a lot of people I associate with are Bern victims. But a lot of people that are ""Anti-Trump"", aren't really Anti-Trump. They are against his celebrity, are incredulous, skeptical, or just confused as to how this guy is so popular. So the main question I ask is, **""Have you heard him speak?""**. Far and away the response I get from people who are against him is no. Now, there are those who are very politically savvy but are still against him, so they've heard his speeches and just choose to disagree. If that's the case then I just say ""if your mind is made up then there's no point debating it"". Because honestly, I do not want to get into a political debate with someone in the real world. I know online it's free reign with political bashing, but in the real world debating someone, and proving them wrong will probably make them like you and the point you're trying to make less. If they try to continue to instigate something, they'll usually come off as the idiot. *But how do I prove my beliefs to the Bernedict Arnolds around me?* Well if they haven't heard him talk, give a light suggestion of what they should watch. Trump has done a hell of a job of getting people to follow him, so why not just point people to how they can see what it is he's doing. Don't force it. Then you're just as good as trying to convert someone to a religion. Another thing I get a lot is ""He won't be my president"", or ""if he gets elected I'm leaving"". I usually just point out that if you're in the U.S. then this is the system you are a part of. I also personally think that the President should be regarded with respect regardless of who it is. Saying things like ""he's not my president"" is disrespectful to the office. Even if Bernie gets elected (lol imagine), you still have to treat the presidency with respect. At least in the real world. But I'm sure people may think differently about that hear. Anyway, the point is that while on the Internet, memes and hyperbole rule the day, in the real world, don't overdo it. You'll do more harm than good. Just point people in the right direction, be respectful, and you'll probably help convince a few people to see the light. That all being said, I'm online right now, so...
+
+TRUMP FOR GOD EMPEROR OF THE WORLD",The_Donald,How I've dealt with the Anti-Trump crowd in conversations in the real world,https://www.reddit.com/r/The_Donald/comments/417r4s/how_ive_dealt_with_the_antitrump_crowd_in/
+31,2016-01-02 19:27:17+00:00,self.buildapc,https://www.reddit.com/r/buildapc/comments/3z6c76/troubleshooting_pc_turning_off_and_on_at_3_second/,False,"###Troubleshooting Help:
+
+**What is your parts list? [Consider formatting your parts list.](http://www.reddit.com/r/buildapc/wiki/pcpp)**
+
+I'm on my phone since my computer isn't working so I can't run through or type out a full part list , but the part in question is a gigabyte g.1 sniper z5s
+
+**Describe your problem. List any error messages and symptoms. Be descriptive.**
+
+My computer, when shut down, will power cycle in what appears to be an attempt to turn on, and turn off / on every 3 seconds, occasionally going for a longer 8-10 seconds, and occasionally booting correctly. Once booted, everything works perfectly
+
+**List anything you've done in attempt to diagnose or fix the problem.**
+
+I took everything out of the case / unplugged except the motherboard and cpu. I thought it might be a short at first, but on further inspection I found nothing. The fact that it sometimes works perfectly seems to affirm that it isn't a short. I tested the psu with a paper clip, and it seems to be functioning properly. The motherboard seems to be where the issues lie. I resets my cmos, by removing the mobo battery, and shorting the cmos jumpers. When I first did this, the mobo seemed to boot properly on the first try. I don't have a speaker to test for beeps, nor my monitor handy as its mounted, but the fact that it didn't turnoff immediately suggested a good boot. I plugged everything back in to the mobo, and it started having issues booting again, but eventually was able to get it to have a proper boot (again, because it just didn't turn off / stayed on. I took everything out again, and still issues, making me think the first reset of the CMOS was just a success by dumb luck (like I said, sometimes, the power cycle works as it should). So once again, everything in. Same issues. It is currently running, but once shut off, it will have trouble again.",buildapc,"[Troubleshooting] PC turning off and on, at 3 second intervals, with the occasional 10 second interval, and the less occasional full boot",https://www.reddit.com/r/buildapc/comments/3z6c76/troubleshooting_pc_turning_off_and_on_at_3_second/
+32,2015-12-17 21:15:16+00:00,self.Entrepreneur,https://www.reddit.com/r/Entrepreneur/comments/3x9hjx/can_i_file_to_be_an_llc_for_an_online_company_in/,False,"Hey guys,
+
+Not sure if this is the correct place to post this. I want to start an LLC for a website I want to build. I currently live in MA, but am originally from NJ. I learned that filing for an LLC in MA is $500 (which is pretty ridiculous) while only $125 in NJ. In addition, MA requires a $500 annual report fee, as opposed to NJ's $50. I have ties in NJ still, including an address that I can use as my LLC's (My childhood home). I will be the sole proprietor of this LLC for the foreseeable future. The only sales I will be conducting will be online based, and the products are being [fulfilled and drop shipped in CA by a company called Printful](https://www.theprintful.com/faq/pricing-fees/95-california-sales-tax), so sales tax is as if my products are coming from there. Other than that, all of my business will be based online. Do I have to file for LLC in MA? Or can I do it in NJ instead.
+
+Edit: [Looks like their was a case regarding this, related to software, which will be something I'd be writing](http://www.ngelaw.com/files/Publication/fdecec6e-17f2-44d4-bfd4-adcf651c3777/Presentation/PublicationAttachment/1d4ed66b-28ab-4c6a-a8fe-b1f118edb39c/Establishing%20State%20Tax%20Nexus%20Through%20Telecommuting%20Employees.pdf)",Entrepreneur,Can I file to be an LLC for an online company in another state?,https://www.reddit.com/r/Entrepreneur/comments/3x9hjx/can_i_file_to_be_an_llc_for_an_online_company_in/
+33,2015-12-17 17:35:11+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3x8kv7/video_streaming_on_a_site_is_it_worth_it/,False,"Hey guys,
+
+I've wanted to build a robust site from scratch involving hosting videos. I realize how complicated this can be, and it would be a huge undertaking. It would only be for my videos, as an alternative to YouTube (Think something like ""watch my content on example.com a day early""). I'm trying to figure out what my bill would look like, and if it would be worth it. So for video hosting, I would use Amazon S3. For distribution I would use Cloudfront. The videos I plan on releasing will be a pretty long length (10 - 60 minutes). That's a ton of bandwidth. I found [this article](http://www.miracletutorials.com/s3-streaming-video-with-cloudfront/), which mentions that 738GB of bandwidth using S3 and cloudfront streaming would be about $640 for a month. That seems like a ton of bandwidth, but they laid it out as if a 25mb video played 15k times, that would be the cost. That seems like a fairly low ceiling, since a 25mb video would be pretty small. So, my question is, is it worth it to even bother getting all of this set up? I think I can do it with a lot of time, and it would be a blast, but I don't want to be hit with a $1k bill in the future. It's hard for me to see what possible conversion rates would be on my site, since it isn't built yet, but I doubt it would be as high as my expenses. But I could be totally wrong. Anyone have any experience building a site that involves video streaming? How did it go, what were the monthly expenses like? Thanks!",webdev,Video Streaming on a site: Is it worth it?,https://www.reddit.com/r/webdev/comments/3x8kv7/video_streaming_on_a_site_is_it_worth_it/
+34,2015-12-17 00:56:51+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3x5i9t/just_got_a_letter_from_a_debt_collection_agency/,False,"Hey guys,
+
+Got my first taste of internet based finance today. Basically I bought a domain from 1&amp;1 a while ago, along with hosting. I let it lapse, along with the hosting, but I payed the first year in full as I am supposed to in common decency, and then used their service. I got a letter today from a debt collector saying I owed them 90+ for 1&amp;1. I've used several hosting companies, even GoDaddy, but they never bothered hunting me down after a subscription lapsed. I'm sure that it is is my fault since I didn't read the terms of service, but I'm just curious if this has happened to anyone else. I'm sure it's legal and whatever, but it's a bit low. I was a college student when I originally signed up for the account and have moved a bunch since then, hence only getting this letter. But yea, this ever happen to anyone else? I'm going to contact the debt collector tomorrow and 1&amp;1 to see what's up. I'm sure I'll have to end up paying it.",webdev,"Just got a letter from a debt collection agency on behalf of 1&amp;1, a hosting company I haven't used for about 18 months",https://www.reddit.com/r/webdev/comments/3x5i9t/just_got_a_letter_from_a_debt_collection_agency/
+35,2015-12-15 14:28:39+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3wxxt9/i_built_an_angular_application_for_a_famous/,False,"Hey Guys,
+
+As the title says, I built an application for the Game Grumps, a YouTube channel with a couple million subscribers. They don't have a website, which I think is a shame. There are tons of famous YouTubers that don't have any home on the internet other than their channel. So I wanted to build an application that would make it easier for people to make their own sites that could also host their own YouTube content. The example I'm going to show you is obviously meant for the Game Grumps, but it fairly customizable to other channels as well. I added in all the extra features for the specific channel in about a day, starting from a more generic version of the application. 
+
+**[Here's the site](http://gamegrumps.co)**
+
+Things I know need some work:
+
+* Comment section: You can leave a comment just fine, but I need to work on getting it to show up after you leave the page. I want any comments made by the user to go before any other popular comments. Replying is also not working yet.
+
+* The Google Authentication needs some work, such as ability to sign out / see who you're signed in as easily.
+
+* I wrote the 'Shows' section a bit hastily, and added in controllers for each section when I could have easily broken it down to 2 or 3 controllers.
+
+* I'm not using services because I thought that it wouldn't need to be that abstracted, but seeing as parts of my code aren't super DRY, I might have been mistaken.
+
+* There is no mobile site. I know, I know, I'm a horrible person. But I wanted to get it done as quick as possible, to show a working version, and my initial analytics of people coming to it showed only 2% were using mobile. I wrote the site in [Susy](http://susy.oddbird.net/), and have [breakpoint](http://breakpoint-sass.com/) ready to go, so that's on my list of things to do.
+
+
+**Legal Stuff**
+
+Before posting about possible copyright infringement, I already know the pitfalls and have been trying to reach out to the owners of the YouTube channel saying I would take it down if they asked me. But I have lot's of documentation of me being cooperative in case anything sue-y happens (which I doubt will). It's also all public content, hosted entirely at google, and since they have the option to opt out of any embedded videos, I think that's fine. I'm not using any logos of theirs since I don't think it's actually restricted, and most importantly, I'm not making any money off of this. I also have offered the domain name for free if I ever get approached by anyone from their channel.
+
+**TL;DR** 
+
+Let me know what you guys think! Try not to judge the application solely on the content of the videos (which are obviously pretty stupid). But take a look around and let me know what you think.",webdev,"I built an Angular application for a famous YouTube channel, as an attempt to get YouTuber's a way to make websites that can show their content. Critique would be awesome! [x-post /r/gamegrumps]",https://www.reddit.com/r/webdev/comments/3wxxt9/i_built_an_angular_application_for_a_famous/
+36,2015-12-13 20:41:40+00:00,self.gamegrumps,https://www.reddit.com/r/gamegrumps/comments/3wowba/game_grumps_fan_site_beta/,False,"Hey guys,
+
+Some of you might have seen the [thread I made last week regarding the development of a fan made Game Grumps Website](https://www.reddit.com/r/gamegrumps/comments/3v00hb/i_built_a_game_grumps_website/). There seemed to be interest in the idea I showed, so I decided to keep working on it. 
+
+**[Here's a link to the site!](http://gamegrumps.co)**
+
+I’m happy to announce the official Beta version of the unofficial site. Just like last time, I have a little canned Q&amp;A for you guys, but feel free to ask any other questions you might have. And please, if you find an issue, or have a suggestion, let me know! 
+
+**Did Arin yell at you yet?**
+
+I reached out to the Game Grumps again, still with no response. I know how busy they are, and the fact that it’s the holiday season means I’d have better luck with a message in a bottle. I was hoping that the previous reddit post would’ve gotten enough attention for them to reach out. As I stated in my last post, I’m doing this just as a fan gift. If they want me to stop, I will. If they want the domain name they’ll get it free of charge. They don’t have to explain why they don’t like it, I’ll just take it down if they ask.
+
+
+**What have you changed since last time?**
+
+A lot. Some of the features I can’t even remember off the top of my head,  but the big ones that I’m pretty excited about are:
+
+* *What’s Next?* - Videos will now show what video will play next, and is based off of google’s suggestion
+* *Autoplay* - Going hand in hand with what’s next, this will let you go to the next video without having to press a thing. The next video will play when the current one is done.
+* *Theatre Mode* - There is now a toggle in the upper right hand corner that will make your player a larger and more viewing-friendly size. 
+* *Related Videos* - Along with the What’s Next feature, related videos are now shown above recent uploads. This will make it easier to skip between related shows and episodes. Speaking of shows…
+* *Shows* - Want to just watch Game Grumps? Want to see how long it’s been since a steam train episode? The shows dropdown on the menu will show you all the different game grumps shows, and each page is filtered by that shows content
+* *Home Page* - Not a ton, but I added recent videos, and cleaned up a lot of the design mess here
+* *Search Page* - I added in a search page that can be accessed from the top menu, which will bring you to a page that will let you find some grump vids quick.
+* *Comments* - Comments now show up on all videos! I’ve limited the number by a lot compared to youtube, since most of it is garbage anyway, and it can get intense on the API calls. Don’t want to use up all my quota
+* *Google Authentication* - I’ve integrated Google Authentication onto the site, so now you can like all your favorite Game Grumps episodes, or dislike all the Sling promotional vids you want, right from the website! You can also add comments to any video you like now. This is still a tad bit messed up though. You can add comments just fine, but I want them to show up on the site before any other comment, so that you can see how funny you aren’t. But it’s a little bugged right now. (Replies are still not working as of yet. A bit more complicated to get that sorted out).
+
+**Beta? What exactly does that mean?**
+
+Nothing official. Basically you guys can’t yell at me for there still being bugs on the site. But I’ve added in enough features that I’m willing to say that this first big chunk is done. Most of the rest of the work will be polish, with the possibility of other features being added in, but not as many as this initial stuff.
+
+**Does the site use cookies?**
+
+Yes, it does. The autoplay, theatre mode, and google tie in features all require cookies to work. They are really small and unobtrusive. Nothing sinister. Promise.
+
+**Is the Google Account thing secure?**
+
+As secure as Google can be. There is no database tied with this site other than Google’s. I’m not collecting anyone’s information. You also don’t have to tie your YouTube account with this site, unless you want to like a video, or comment on a video directly from the site.
+
+**Why can’t I like comments?**
+
+As far as I know, in my research trying to build this thing, the Google API does not allow for rating comments. Kind of a bummer, and the reason I took the number of likes out. No point in showing those if you can’t change them. 
+
+**Have you started work on the mobile site yet?**
+
+Nope! In a totally ass-backwards pattern, I’m doing mobile last. You may ask, “Why”? Well, after viewing the analytics from my last posting, and thinking about the Game Grumps audience, mobile is much less of a priority than for normal sites. I also want to limit the number of platforms I can show the site on just so I can test how much API usage I’m using. I want this to be popular and easy to use, but too easy to use and it will just crash and burn on me.
+
+**What about ads?**
+
+There are still no ads on the site other than the banner ads on the videos. Well I guess the whole thing is a kind of Game Grumps ad, but yeah, the only real ads are on the videos, and that revenue goes straight to the Grumps.
+
+**What are your plans for the site now?**
+
+Well, since there was some (marginal) expressed interest from the Game Grumps fan base, I decided that if I thought people would enjoy it, I’d work on it. And for now, people seem to like it. So while this is a big step in the direction of “this is a cool site for Game Grumps stuff”, I’ll only continue work if I see that people are using it. If they are,  I’ll add stuff to it. This has been a fun project for me, so I’d love to keep working on it.
+
+**Any features planned for the future?**
+
+Yes! Obviously first thing is to work out any of the bugs. The comments section especially needs the most work. There are a few things that I really do want to put onto the site, but will take a bit more work to become a fully realized section of the site. If I don’t get sued after posting this for a second time, I do have a feature that I’m itching to add on to the site. Binge feature. 
+
+**The fuck is a binge feature?**
+
+First off, language. Secondly, the binge feature is the idea of making Game Grumps watching as fun, easy, and lazy as possible. I am one of you. I understand the occasional need to watch through the entirety of their playthroughs for Super Mario Sunshine, Windwaker, or Warcraft III (lol jk). So I want to add in a site-wide feature that will let you add videos to a list simply by right clicking on any video anywhere on the site, and add it to your binge list. From there, you will be able to watch your binge list videos just as the “What to watch next” feature works, automatically going through your list. Totally customizable. But that will take a tad bit more work. Not an unreasonable “Oh boohoo I’m a poor computer nerd who can’t do it” amount, but enough for me to not do it if people don’t give a shit.
+
+**Wow this is really cool. How can I support this idea of a Grumps Website?**
+
+Well upvoting would be nice. But other than that, view it at your leisure, and enjoy it. That’s about it. I hope that someone from Game Grumps will see this and give me feedback, but I understand how busy they are, so fingers crossed on that one. Publicity helps that. But as far as supporting me, the developer, don’t worry about it. No Patreons. No ads. This is all Pro Bono. I just want the fan-base to enjoy this. If you feel totally obliged to support this with some monetary compensation, go by a t-shirt from the Grumps. This is their property, regardless of what I’ve done for it. Their work is theirs, so be sure to continue supporting them.
+
+**I hate it and I hate you**
+
+Awesome, thanks for the feedback! I’m still learning a lot as a developer and am in the early stages of my career. Any feedback is good feedback, so let ’er rip. If you don’t like it, tell me. If you’d like to be more specific, tell me why. Feel free to tell me things you want, things you don’t like, and maybe, just maybe, why you think it is an alright, sort of okay idea. 
+
+***Conclusion*** 
+
+Once again, I think that’s about it for my canned Q&amp;A. I hope you guys like it. I’m doing this as much for the fan base as I am for those Grumpy Grumps. So let me know any of your thoughts on this site. And once again, anyone of the semi-important / could-send-me-a-subpoena people can message me here, and I’ll get back to you.
+
+[Here's another link to the site](http://gamegrumps.co)
+
+And here are the links to different sections of the site
+
+* [Uploads](http://gamegrumps.co/#/videos)
+
+* [Search](http://gamegrumps.co/#/search)
+
+* [Game Grumps Episodes](http://gamegrumps.co/#/gg)
+
+* [Steam Train Episodes](http://gamegrumps.co/#/steam-train)
+
+* [Grumpcade](http://gamegrumps.co/#/grumpcade)
+",gamegrumps,Game Grumps Fan Site Beta,https://www.reddit.com/r/gamegrumps/comments/3wowba/game_grumps_fan_site_beta/
+37,2015-12-03 14:55:07+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3vaas1/eli5_how_can_i_make_a_web_application_scalable/,False,"Hey Guys,
+
+I’m mainly a front end dev, but I’ve been working on an application doing the full stack. I was wondering if someone could give me a brief overview of what scalability means exactly, since most of my search results have been vague, and what the best way to ensure scalability is.
+
+My app is in JS, running on the MEAN stack, so multithreading is obviously a plus, but I’m really not an expert on backend technology. I think I’m going to distribute my app with AWS. Should the combination of these two things (along with just having tidy code) be enough for a scalable application. Is just adhering to common coding practices enough to have a reasonably scalable application? Or are all my questions incredibly beginner and I’m way out of my depth.
+
+I know that most of the time, large scalability won’t matter, and it may end up that I’m anticipating more usage of my app than I would get, but the demographic for my app is pretty large, and I just want to be ready to handle it if it does become popular.
+
+Thanks!",webdev,"ELI5, How can I make a web application scalable",https://www.reddit.com/r/webdev/comments/3vaas1/eli5_how_can_i_make_a_web_application_scalable/
+38,2015-12-01 14:26:48+00:00,self.gamegrumps,https://www.reddit.com/r/gamegrumps/comments/3v00hb/i_built_a_game_grumps_website/,False,"Hey Guys,
+
+I’ve been a fan of the Grumps for a while now, and I decided to try to make something, a fan gift. I built a website for the Game Grumps. I figured that since (as far as I know) the Grumps don’t have a website, and I have Web Development experience, it could be a fun project to tackle. I basically wanted to create something that would give them a home off of Youtube, while still providing the same functionality that Youtube has to offer, since that is where their community is. 
+
+[HERE’S A LINK TO THE SITE](http://gamegrumps.co)
+
+Now I’m sure I’m going to get questions if you guys are interested in this, so here’s a little canned Q&amp;A I prepared, though obviously ask away about anything else.
+
+
+**Why did you build this site**
+
+I wanted to make a site that was on a larger scale than I was used to for websites, and because I’m a fan of the Grumps.
+
+
+**Is this an official Game Grumps Site?**
+
+Nope. They had no input in this whatsoever, other than it is literally all their content. 
+
+
+**You stole their domain name??**
+
+Nope. I saw a [thread from a long time ago](https://www.reddit.com/r/gamegrumps/comments/1e1w76/seeking_the_owner_of_gamegrumpscom/) where Arin wanted to get the domain name. After reading through it, it still seemed sort of up in the air whether or not the person who bought the domain handed it to Arin, sold it, or not. But I checked the WHOIS records for gamegrumps.com, and it still belonged to someone in Panama, so I suspect not. I saw that gamegrumps.co was available, and since I know how annoying it is to pick up a domain that you want, I got it immediately. I’m not keeping it hostage or anything though. If Arin, Danny, or whoever want the domain for themselves, I’ll give it to them for free. 
+
+
+**Did you try to get in touch with the Game Grumps?**
+
+A couple of  times. I sent emails to the only places I thought I could. Arin’s gmail, the Grumps Business email, Ross’ email, even the NSP email. I tried getting their attention on Twitter too, but I figured that would have even less of a shot at that. They obviously get bombarded with messages every day, so I wasn’t really expecting a response. This might actually be the best way to show this too them.
+
+
+**You stole their content??**
+
+Nope. All of the content is coming from the YouTube API, so it’s all public. The videos are being embedded with the YouTube player. I wanted to build it this way so that if they ever wanted to do a site like this (wishful thinking), they wouldn’t have to change their workflow too much.
+
+
+
+**What are your plans for this thing?**
+
+I’m not really sure. It’d be cool to have a Grumps community site away from just the subreddit, but as of right now it’s still very early on. I’m hoping to add in google account support soon, so that people can log onto the site, comment, like, and subscribe just like they would on YouTube.
+
+
+
+**It doesn’t have XXX feature. Why not?**
+
+Agile Development is the process of developing something quick, while adding stuff on the way (pretty much making stuff up as you go along). As such, I wanted to get a rough prototype done quick, rather than perfect. So feel free to leave suggestions, but know it may take time to add them, if I continue work on this.
+
+
+
+**What if Arin yells at you?**
+
+If the Grumps have a problem with this site, I’ll take it down immediately. This isn’t me trying to profiteer off of their work. I just thought it’d be a cool thing for a fan to do. That being said, it’s not exactly an art project being sent to them. There might be business implications that I don’t know about. They don’t need to explain anything. If they ask me to take it down, I will.
+
+
+
+**What About Ads?**
+
+Well, this is where the ‘business implications’ come into play. It IS possible to get ads on embedded YouTube videos, but it isn’t super easy, and only the people who own the channel can do it. All the revenue would still go towards them. But right now, yeah there are no pre or post roll ads. This might be reason enough for them to want this site put into a black hole at the bottom of the ocean, or maybe promotion of their own stuff (sidebar ads for their t shirts for example) can offset that. As for ads on the site itself, there are no banner ads. I’m not making money off of this at all, and don’t plan on it. Well, in the long run it might help my portfolio, but that’s it. 
+
+
+**Does it have a mobile version?**
+
+Currently, no. Going back to Agile Development, I made it quick and dirty and will be adding things in later. Normally I make mobile a priority, but since this site has the potential of being scrapped, I thought desktop would be more important.
+
+
+**The styles are all messed up**
+
+The layout might be messed up, but I’m working on that. I’m a Front End developer first, but I wanted to get the functionality with YouTube taken care of first. So there are a lot of visual bugs that will need to be looked at by me. 
+
+
+**What does it run on?**
+
+This is all a Front End Application, and it’s using the YouTube Data API, along with Angular JS. Right now, Google is the Back End.
+
+
+**How do you get their uploads?**
+
+This is a bit of a tricky question. I was supposed to get all their uploads easily from their Uploads playlist. However, I think that they actually upload videos a little bit differently, since their upload playlist doesn’t contain any of the animated videos, and is sometimes out of order. So I have a pretty sketchy way of getting the uploads they put up right now. It involves getting the GameGrumps activity feed, and checking each update to see if it is an upload or not. I have some kinks to work out with that as well, including some videos showing up out of order. I think that has to do with them uploading everything at once, but I’m really not sure.
+
+
+**The Site is down**
+
+Bummer. This means one of two things. The GameGrumps community hugged it so hard that it died. If that’s the case, I may consider putting it up on AWS so that it will have more uptime. Or, it means my daily quota for the YouTube API is up already. That’s 50 million requests. Either way, I guess that means it’s popular. 
+
+
+**What’s up with the blog posts on the home page?**
+
+I plan on adding or building a rudimentary CMS, but right now it’s just static updates. 
+
+
+***CONCLUSION***
+
+I think that’s about it. If any of the Grumps want to get in touch with me, they can message me here. But that’s pretty hopeful on my part, this might get zero attention.
+
+[HERE’S A LINK TO THE SITE](http://gamegrumps.co)
+
+Be gentle it’s her first time.
+
+**EDIT:**
+
+To make sure there is no confusion about if this is official, I cleverly changed the header logo. Mainly because I can't spell subpoena without looking it up.",gamegrumps,I built a Game Grumps Website,https://www.reddit.com/r/gamegrumps/comments/3v00hb/i_built_a_game_grumps_website/
+39,2015-11-19 16:44:28+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3tg92n/enabling_preroll_ads_on_embedded_youtube_videos/,False,"Hey guys,
+
+I've been searching everywhere for an answer to this question. I'm building a web app based off of the youtube api. I'm using the embedded iframe player to show videos from youtube's api. I was wondering if there was a way to enable the pre-roll ads that show up on youtube videos when on youtubes site, when the video is embedded. Right now it seems like the default state is ""no ads"". And I'd much rather have pre-roll ads for this app rather than overlay ads. Any help would be great, thanks!",webdev,Enabling Pre-roll ads on embedded Youtube videos,https://www.reddit.com/r/webdev/comments/3tg92n/enabling_preroll_ads_on_embedded_youtube_videos/
+40,2015-11-19 14:34:45+00:00,self.youtube,https://www.reddit.com/r/youtube/comments/3tfq96/how_to_enable_ads_on_embedded_videos/,False,"Hey guys,
+
+I'm building a web app with the youtube API, and I want the full video advertising that appears on youtube's site to also appear on my videos. Is there a way to enable this? It seems that the default is to have no ads.",youtube,How to enable ads on embedded videos,https://www.reddit.com/r/youtube/comments/3tfq96/how_to_enable_ads_on_embedded_videos/
+41,2015-11-19 14:27:24+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3tfpan/if_i_know_angular_1_am_i_already_behind_the_curve/,False,"I know angular pretty well I think, and I've been using it for a few sites I've made. Am I already behind the curve as far as technology goes? I saw in another thread someone saying that Angular 1 is ""legacy technology"". Angular 2 isn't even in beta yet. Is this to say that it's worthless to know. I don't want to invest more time in a framework if it isn't going to be worth it in the long run. But I do like how robust it is, and I've only quickly dabbled in react, but I like Angular's implementation much more. I should also say that I use angular 1.3+, so the more recent versions. 1.5 is still in beta as far as I know. If this is the case I'll be switching to ember, since I know that they are fairly similar.",webdev,"If I know Angular 1, am I already behind the curve?",https://www.reddit.com/r/webdev/comments/3tfpan/if_i_know_angular_1_am_i_already_behind_the_curve/
+42,2015-11-12 20:49:51+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3sktry/a_recent_example_of_how_some_people_dont_value/,False,"A lot of drama is occurring on the hearthstone subreddit.
+
+Basically a very popular website that is used by many that play hearthstone, Hearth Arena, had popular streamers and expert players help out with the design and logic of a site. The programmer and owner of the site offered them 20% of profits, but no equity. When the site became very successful, the streamers asked for equity, to which the owner responded by offering to increase their earnings from 20 to 25%. Streamers decided that wasn't good enough and tried to get the programmer crucified via a reddit witch hunt.
+
+[Here's the original post by one of the popular streamers](https://www.reddit.com/r/hearthstone/comments/3sj3a7/a_farewell_to_heartharena/)
+
+[And here is the response post from the programmer/owner of hearth arena](https://www.reddit.com/r/hearthstone/comments/3sjizj/in_response_to_the_farewell_post/)
+
+My synopsis is obviously biased being a web developer myself, so I suggest you read the threads yourself. I'm interested to hear what others think.",webdev,A recent example of how some people don't value web dev's [x-post /r/hearthstone],https://www.reddit.com/r/webdev/comments/3sktry/a_recent_example_of_how_some_people_dont_value/
+43,2015-11-04 19:16:16+00:00,self.graphic_design,https://www.reddit.com/r/graphic_design/comments/3rj2dc/service_that_prints_and_distributes_tshirt/,False,"I'm a web developer who's looking to do some practice ecommerce sites, and I thought it would be fun to set up a t-shirt store on a site. Something simple, with just a single t-shirt to start out with. I'm looking for a service that will let me design a shirt, upload it, and then the service will distribute the t-shirts that are purchased. I know sites like Society6 will do this. But here's the kicker. I want to be able to sell them and manage a cart from my own site. So a service that has some sort of API, or can integrate with my cart. I know this might be more development, but since I'm sure there are some people on this subreddit that have designed tshirts in the past, I figured this might be a good place to ask.",graphic_design,Service that prints and distributes t-shirt designs based on your own site,https://www.reddit.com/r/graphic_design/comments/3rj2dc/service_that_prints_and_distributes_tshirt/
+44,2015-11-03 18:17:03+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3rdsoy/webdev_debate_how_long_should_interviews_take/,False,"I've been pretty interested in this topic on this subreddit since it seems to be one of the only things that gets people debating. The recent post by /u/senpai_noticed_me_ on [this subreddit](https://www.reddit.com/r/webdev/comments/3ratlm/coding_challenge_i_got_for_a_javascript_web/) generated some differing opinions on what an interviewee should be expected to do for applying to a position. The interesting thing I found was that the [cross post over on the node subreddit](https://www.reddit.com/r/node/comments/3ras66/coding_challenge_i_got_for_a_javascript_web/) also had some differing opinions. It seems that every time a post like this is made, its a 50% chance of the top comment being that your time is valuable and shouldn't be spent working for free, while the other 50% the top comment says you should be industrious and show your interest. From what I've read on this subreddit, it seems to be nearly the only thing that causes argument regularly. Both sides have their merits, obviously. And I think everyone can agree that extremes of short or long interviews can be signs of a bad employer. You shouldn't have to spend a full work week on a coding challenge for one application, but that doesn't mean that they aren't helpful in smaller sizes. Likewise, I think a prospective hire should be wary if an interview is so short that you feel the company doesn't have a full grasp of what it is you should be able to do. So the question is, how much are you willing to do for an interview process. I don't think there are wrong answers, and there are obviously a lot of variables based on the position being applied for, age of person applying, etc. 
+
+From a personal perspective, I'm planning on applying to several places in the upcoming months once my contract is up at my current job, and I'm interested in hearing more from both sides of the argument. This isn't a post looking for me to hear why I should or shouldn't do this or that, but more a friendly discussion on the question in this posts title.
+
+I guess I'll start since I already laid out that I plan on going through this fairly soon. From the perspective of someone who is going to be applying for a non-junior position for the first time, I'd say I'd be willing to dedicate a full work day of programming on whatever challenges I'm given from a perspective employer. That's a day for each place I apply to. I think a full day of programming should be more than enough, and perhaps even too much time to have an employer judge my work. Any more than that and I'd feel my time would be better spent applying to other places. I'm sure there are lots of places that wouldn't require nearly that much time to complete their tests. I should say that this number I came up with is purely based on my thoughts on the matter, and hasn't been used in practice. I might be totally wrong and realize I'm going to need much more time to dedicate to applications. I also don't include in person interviewing in this time, since that's a whole separate thing I think. That 1 day is what I'd be willing to give in programming hours to a potential employer.
+
+But what are your opinions? ",webdev,WebDev Debate: How long should interviews take?,https://www.reddit.com/r/webdev/comments/3rdsoy/webdev_debate_how_long_should_interviews_take/
+45,2015-10-19 14:10:32+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3pcsni/version_control_for_databases/,False,"Hey guys,
+
+So i'm primarily a front end dev working in house for a small company. We have an enormous database of products that we use across our site and some of our in house software. Our database gets backed up constantly, done automatically without us having to do anything (I think it does it once a day). Our products don't change too frequently. Maybe once a week if that. But we want to keep track of our database through some sort of version control. Right now we have a private repo, and we save our SQL statements on there. This gives us a road map of what's been done. But it isn't indicative of the actual state of the database at that point, and is only a document of the change that was made. So do you guys know of any VCS for databases, that sort of... saves the changes of what you've done to the database, so that you have a full history of what's been done to it. Like Git, where changes are saved and the state at the time of change is shown. We want to use this in addition to our current system, but it will make things easier if we can have a full history of DB changes as well. Am I totally off base and this doesn't exist, or is there a super easy tool to use. Thanks!
+
+EDIT: We are using MSSQL for our database, and it looks like [Database Snapshots](https://msdn.microsoft.com/en-us/library/ms189281.aspx) might be the best bet. We'll keep a log of every SQL change we make in Git, and we already have backups. So having snapshots as well will give us the ""versioning"" against user error that we want I think. I'm not an expert so I'm looking into this more
+",webdev,Version control for Databases?,https://www.reddit.com/r/webdev/comments/3pcsni/version_control_for_databases/
+46,2015-10-15 13:38:50+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3outgi/who_here_uses_rss_feeds/,False,"Curious since this is obviously a more technical audience. I'm curious if I'm missing out since I don't use them, or if I should tailor certain sites I make to use them.",webdev,Who here uses RSS feeds?,https://www.reddit.com/r/webdev/comments/3outgi/who_here_uses_rss_feeds/
+47,2015-10-12 16:54:23+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3ogyss/getting_socket_error_11004_with_ftpsync_in/,False,"Hey guys,
+
+I'm getting an issue with Sublime Text's package, FTPSync. Whenever I try to sync from Sublime Text, I get an 11004 error on the bottom console. It reads as follows
+
+    FTPSync [default] &gt; Connection failed - [Exception: [Erno 11004] getaddrinfo failed]
+
+I'm on Sublime Text 2, with the latest version of FTPSync. I've tried uninstalling FTPSync's package, and reinstalling. Didn't work. I can connect to my server via other ftp clients just fine. There seems to be no issue with coworkers computers that have the same ftpsync.settings file. And I've already run a system scan as administrator, and it didn't find a sockets problem. Anyone else experienced this? I haven't changed my settings for ftpsync in a long time, so the only thing I can think of is a windows update caused it. I'm currently running Windows 7",webdev,Getting socket error 11004 with FTPSync in Sublime Text,https://www.reddit.com/r/webdev/comments/3ogyss/getting_socket_error_11004_with_ftpsync_in/
+48,2015-10-08 05:40:08+00:00,self.hearthstone,https://www.reddit.com/r/hearthstone/comments/3nxrtl/is_card_order_determined_at_instantiation_or_when/,False,"I always see streamers, casters, and content makers say when a card is drawn ""that's what would have been drawn if not for xyz"". For example if a streamers about to lose, they'll draw a card somehow just to see ""what they would have gotten"". But in programming, random number generators are often time based, such that if you get a random number milliseconds apart, they will be different. Hearthstone being a digital game allows it to not have to play by physical rules, and thus a deck of cards may be a non ordered data set rather than an array (think NoSQL vs SQL). This tavern brawl made me wonder about this though, since it does take into account an order. So, do we know enough about the source code of hearthstone to know if a deck order is created, or if it's pulled randomly on each draw?",hearthstone,"Is card order determined at instantiation, or when a card is drawn?",https://www.reddit.com/r/hearthstone/comments/3nxrtl/is_card_order_determined_at_instantiation_or_when/
+49,2015-10-05 13:12:59+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3nkl09/practicality_of_building_desktop_apps_in_node/,False,"Hey guys,
+
+I've recently come up with an idea for a project that I think would be cool for a desktop app, along with a website. I'm using the MEAN stack for the website, with an backend API, so a lot of the logic for the desktop app is already taken care of. I know that desktop apps can be made in node, but I was wondering how practical it is. Is there some serious downside I don't know about yet? Am I better off trying a more traditional approach to desktop apps? Thanks in advance!",webdev,Practicality of building desktop Apps in node,https://www.reddit.com/r/webdev/comments/3nkl09/practicality_of_building_desktop_apps_in_node/
+50,2015-10-01 12:47:07+00:00,inbedwith.com,https://www.reddit.com/r/web_design/comments/3n3h7f/this_site_has_a_72_on_awwwards_am_i_crazy_to/,False,,web_design,This site has a 7.2 on Awwwards. Am I crazy to think that it isn't good at all?,http://www.inbedwith.com/
+51,2015-09-30 16:50:50+00:00,self.buildapc,https://www.reddit.com/r/buildapc/comments/3mziye/troubleshooting_pc_not_turning_on_after_trying_to/,False,"###Troubleshooting Help:
+
+**What is your parts list? [Consider formatting your parts list.](http://www.reddit.com/r/buildapc/wiki/pcpp)**
+
+I built it more than a year ago, so I can't remember a lot of the pieces without going through and unbuilding the whole thing.
+
+[The PS is the Corsair cx750m](http://www.corsair.com/en-us/cx-series-cx750m-modular-atx-power-supply-750-watt-80-plus-bronze-certified-modular-psu).
+
+**Describe your problem. List any error messages and symptoms. Be descriptive.**
+
+I have a PC that I built that's about a year old that is not turning on. It was working totally fine until yesterday, when I turned it off trying to fix a memory leak in windows 10. Basically, my computer was idling with 97% RAM being used out of the 8gb, so I followed the video here to try and fix it. I'm not sure if this is the cause of the problem or if its just coincidence that I was trying to fix this when the trouble started. When I tried to turn my PC back on, the PC would begin to start up, MoBo lights turn on, fans start to spin, and then it would shut off immediately. It would turn on again, and then repeat. Sometimes it would make it about 10 seconds before shutting off again. I thought it might be an issue with the Power Supply, so I unplugged everything in the case from the PS except for the mobo, and same issue. I took out the RAM since I thought it might be a memory problem, but same issue, no prompt comes up at all. So I thought it has to be the power supply then. I've had to discharge the PS in the past, once by doing the ""hold down the power button"" simple fix, and once by checking to see if it was working by putting a paperclip between the power and ground wire leads. I tried checking that again, by connecting them via paper clip, but it seems to be working fine.
+Is it a motherboard problem? Or CPU? Or Memory issue from me changing a system file via regedit? Or could it still be the PS? Like I said, I have had no issues at all until just turning it off to try and fix my other problem, but it seems unlikely to me that this would be the cause of the issue. Any help would be awesome!
+
+**List anything you've done in attempt to diagnose or fix the problem.**
+
+I've tried discharging my PS. Did nothing. I unplugged everything in the case, except the MoBo from the PS. Still the same issue, turns on then off after a few seconds. I tried seeing if the PS was broken by using a paper clip to make a connection between the start and ground wires. It seemed to turn on fine on its own, but once connected to other stuff, it will turn off then on.
+
+I tried posting to /r/techsupport, but I've gotten no response after 2 threads. So any help would be awesome.
+
+EDIT: I think I got it fixed. It looks like one of the, idk, outlets?, on the PS was fried. It wasn't getting enough power to the graphics card for some reason. I switched that cable to a different one and it works great now!",buildapc,[Troubleshooting] PC Not Turning on after trying to fix memory leak,https://www.reddit.com/r/buildapc/comments/3mziye/troubleshooting_pc_not_turning_on_after_trying_to/
+52,2015-09-30 14:49:50+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3mz0i5/pc_not_turning_on_after_trying_to_fix_memory_leak/,False,"Hey guys,
+
+I have a PC that I built that's about a year old that is not turning on. It was working totally fine until yesterday, when I turned it off trying to fix a memory leak in windows 10. Basically, my computer was idling with 97% RAM being used out of the 8gb, so I followed the video [here](https://www.youtube.com/watch?v=7_yv-sZxub4) to try and fix it. I'm not sure if this is the cause of the problem or if its just coincidence that I was trying to fix this when the trouble started. When I tried to turn my PC back on, the PC would begin to start up, MoBo lights turn on, fans start to spin, and then it would shut off immediately. It would turn on again, and then repeat. Sometimes it would make it about 10 seconds before shutting off again. I thought it might be an issue with the Power Supply, so I unplugged everything in the case from the PS except for the mobo, and same issue. I took out the RAM since I thought it might be a memory problem, but same issue, no prompt comes up at all. So I thought it has to be the power supply then. I've had to discharge the PS in the past, once by doing the ""hold down the power button"" simple fix, and once by checking to see if it was working by putting a paperclip between the power and ground wire leads. I tried checking that again, by connecting them via paper clip, but it seems to be working fine.
+
+Is it a motherboard problem? Or CPU? Or Memory issue from me changing a system file via regedit? Or could it still be the PS? Like I said, I have had no issues at all until just turning it off to try and fix my other problem, but it seems unlikely to me that this would be the cause of the issue. Any help would be awesome!",techsupport,PC Not Turning on after trying to fix memory leak,https://www.reddit.com/r/techsupport/comments/3mz0i5/pc_not_turning_on_after_trying_to_fix_memory_leak/
+53,2015-09-30 02:43:49+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3mx1fs/after_trying_to_fix_windows_10_memory_leak/,False,"Hey guys,
+
+So let me start off by saying that these two problems may be coincidental, since it seems s bit far fetched for one problem to affect the other. I have a of I built that I have Windows 10 running on. I did a forced upgrade, so it wasn't really an optimal install on my pc. I was having really bad memory leak issues, with 97% of my 8gb of RAM being used just while idling on the desktop. I followed a video tutorial found [here](https://m.youtube.com/watch?v=7_yv-sZxub4). I just edited the file as shown in the video. After shutting down, my of won't turn on. It's not that it won't boot, it seems to just not be turning on. The board LEDs will turn on for a second, and then shut off. Then 2 seconds, then shut off. It'll get to trying to turn on for about 5 secs, but then shut off again. I have a feeling it's the power supply but was wondering what you guys thought. It has been running pretty constantly the last few weeks, with shut downs here and there just for software. I've also had to discharge it before. Once I did it by just using the old button method, and another time where I used a paper clip to make a circuit in two of the sockets. Did my memory leak fix cause this? Is it a power supply problem? I can't even get to the bios screen so I have very little control right now.
+
+Edit: I unplugged everything but the mobile from the power supply. So all that's connected is the cpu, mono, and ps. Still the same problem. I think that confirms its a ps problem 
+",techsupport,"After trying to fix Windows 10 memory leak, computer will turn on for a few seconds, and then off",https://www.reddit.com/r/techsupport/comments/3mx1fs/after_trying_to_fix_windows_10_memory_leak/
+54,2015-09-16 19:56:33+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3l7nme/weird_issues_with_my_own_encryption_technique/,False,"Hey guys,
+
+So I have a pretty intense problem here. I'm trying to make my own method of encryption. I thought it would be a fun little exercise and challenge to see if I could do it. I'm basing my method of encryption off of the WW2 era enigma machine, with a setting for ""rotors"" that move in a sequence to create a very large poly-alphabet.
+
+You can see the source code for my little project [here](https://github.com/brianbrennan/enigma.js)
+
+So let me give you quick rundown of what this thing does, and then lets see if anyone can help. I have two files in the repo above, enigma.js, and enigma2.js. The first is for encryption, and the second one decryption. Each file has a ""rotorSettings"" variable, with a string of all capital letters in it. Each character in that string is supposed to represent the setting of a ""rotor"", just like the enigma machine would have. In this digital example though, you can have much more than the allotted 8 that the German Navy had. For example, in that repo I thing I have the keey set to:
+
+    var rotorSettings = ""IWANNAROCKANDROLLALLNIGHT"";
+
+The idea is that the script will take in a letter from a given string, and pass it through each of the ""rotors"".  The high level of encryption comes from the fact that the position of the alphabet for each of these ""rotors"" will change for each character passed into the script. For right now, these alphabets are only capital letters, just for ""simplicity's"" sake (though this is still very robust encryption). It also can only take in capital letters and spaces for right now (I'll deal with other stuff later). Essentially each rotor has a different alphabet each time a character is passed in. The decryption script is mean to undo all of that rotor and stepping work, and return the decrypted string, so long as the rotorSettings match the encryption script. The good new is that it works. The bad news is that it only works sometimes. 
+If anyone can see an error in my logic, please let me know, but the fact that its working some times and not others makes me think that there is something else going on that I'm not thinking about.
+
+So here are some sample outputs, some working and some not working.
+
+    //All examples will have the ""IWANNAROCKANDROLLALLNIGHT"" Rotor Settings
+    
+    //Encryption
+    HI THERE -&gt; DR CDNNN
+
+    //Decryption attempt
+    DR CDNNN -&gt; UV GURER
+    //**FAILED**
+
+    -------------------------------------------------
+    //This one is a weird one, and might be more indicative of an error
+    //Encryption
+    FOUR SCORE AND SEVEN YEARS AGO OUR FATHERS CAME FORTH AND -&gt; BXQA BYXNN JJM BAEAW HAJNB JCX XQA OWCDNNB LWVA BXNCD WWZ
+    
+    //Decryption attempt
+    BXQA BYXNN JJM BAEAW HAJNB JCX XQA OWCDNNB LWVA BXNCD WWZ -&gt; FOUR SCORE AND SEVEN YEARS AGO OUR FATHERS CAME FORTH AND
+    //**SUCCESS**
+
+    -----------------------------------------------------
+
+    //Here's the weird part.
+    //Let's add one more letter to that string from above
+
+    //Encryption
+    FOUR SCORE AND SEVEN YEARS AGO OUR FATHERS CAME FORTH ANDS -&gt; BXQA BYXNN JJM BAEAW HAJNB JCX XQA OWCDNNB LWVA BXNCD WWZB
+
+    //Decryption attempt
+    BXQA BYXNN JJM BAEAW HAJNB JCX XQA OWCDNNB LWVA BXNCD WWZB -&gt; SBHE FPBER NAQ FRIRA LRNEF NTB BHE SNGUREF PNZR SBEGU NAQF
+
+    //**FAILED**
+
+That one extra letter at the end caused the decryption to fail, and I have no idea why. Anyone have any clues? Is there some sort of memory allocation I didn't account for? 
+
+    ",webdev,Weird Issues with My Own Encryption Technique,https://www.reddit.com/r/webdev/comments/3l7nme/weird_issues_with_my_own_encryption_technique/
+55,2015-09-14 13:35:15+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3kwpgu/what_are_weird_quirks_you_have_picked_up_since/,False,"I noticed that I use semicolons in hand written notes all the time now, even for totally non development related things. Grocery lists, for example, now end each item with a semicolon. Idk if I'm the weird one for having this burned into my brain like this, but I'm sure other people have changed in slightly weird ways since they started developing. Another weird one I have is when writing notes one something, like a printed document, I'll actually write a ""comment"" by mistake, with ""//"" preceding whatever I jot down.",webdev,What are weird quirks you have picked up since you started development?,https://www.reddit.com/r/webdev/comments/3kwpgu/what_are_weird_quirks_you_have_picked_up_since/
+56,2015-09-11 14:52:41+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3kjr6m/best_way_to_version_and_document_something_i_wrote/,False,"Hey guys,
+
+So I recently wanted to try my hand at writing a little tool that other people can use. I'm not sure how useful it would be, but I've found it helpful. It's basically a small DOM element selection tool that is meant to be a small alternative for basic JQuery functionality. So I think I've gotten it to a point where I want to show it to the world. You can [see it here](https://github.com/brianbrennan/slimpickin). I was wondering what the best way of keeping versions organized, since I'm pretty sure I'll release updates later on. I was also wondering what the best way to write up the docs is. Right now, I just have some quick and dirty documentation on my README. I imagine that is not the best idea. So yeah, any advice as I delve into this new open source realm would be great",webdev,Best way to version and document something I wrote?,https://www.reddit.com/r/webdev/comments/3kjr6m/best_way_to_version_and_document_something_i_wrote/
+57,2015-09-08 13:25:27+00:00,cameronsworld.net,https://www.reddit.com/r/web_design/comments/3k3axd/this_won_site_of_the_day_on_awwwards_on_sunday/,False,,web_design,This won Site of the Day on Awwwards on Sunday,http://www.cameronsworld.net/
+58,2015-09-04 15:47:34+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3jmqhs/how_to_get_data_out_of_an_http_request/,False,"Hey guys,
+
+I know I just posted [this thread](https://www.reddit.com/r/webdev/comments/3jmia4/cant_get_node_email_verification_to_work/), but while waiting and working on another piece of my little project, I ran into another little snag. I'm trying to get data from part of my API, but the responses I'm getting back are, well, weird. I'm in the angular portion of my app now, and the responses I'm getting from my API are strange. 
+
+So here's my angular set up for getting all the pics in my API. I've cut everything other than important pieces.
+**Here's my picService, which is actually making the http requests.  -- Note that I'm using $http from angular**
+    
+    angular.module('picService', [])
+
+	.factory('Pic', function($http){
+
+		var factory = {};
+
+		factory.getAll = function(){
+			return $http.get('/api/pics');
+		};
+
+		return factory;
+	});
+
+**My Controller that is trying to get said pics**
+
+    angular.module('homeCtrl', [])
+
+	.controller('homeController', function(Pic){
+
+		var vm = this;
+
+		vm.getPics = function(){
+			var pics = Pic.getAll();
+			return pics;
+		};
+
+		console.log(vm.getPics());
+
+	});
+
+So here's the weird part. I'm getting a response that I'm logging to the console, and my data shows up, but its buried in a weird object. 
+
+**The Response I Get in the Console**
+
+    d {$$state: Object}
+        $$state: Object
+            status: 1
+            value: Object
+                config: Object
+                data: Array // And here is where the info I want is
+
+note how the data I want is buried deep in the object. I might be inexperienced, but I haven't seen this $$state object before. When I make the same request with postman, all I get is the JSON that I want. But it gets a little weirder. I tried to simple get the info I wanted from within this state object by calling it directly in my function. I started off by simply calling the $$state object like so
+
+**Calling $$state**
+
+    console.log(vm.getPics().$$state);
+
+But when I do this I get the following response
+
+    Object{status:0}
+
+So it seems that my data disappears when I try to call it directly. Is this an angular thing being added? Like I said, in Postman, this doesn't show up. It just seems so weird that the info disappears when I try to get it specifically, and can only be in this weird object. Any ideas?
+
+
+",webdev,How to get data out of an http request?,https://www.reddit.com/r/webdev/comments/3jmqhs/how_to_get_data_out_of_an_http_request/
+59,2015-09-04 14:50:01+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3jmia4/cant_get_node_email_verification_to_work/,False,"Hey guys,
+
+I'm currently building an API for some practice using node and Mongo, and a feature I wanted to add was email verification for registering users, where an email is sent to their email address with a url that when clicked will verify the email. I found [this](https://www.npmjs.com/package/email-verification), which seemed promising, and would work with my current set up. But I'm having trouble getting it to work. 
+
+My set up is as follows
+
+**Adding Requires**
+
+    var mongoose = require('mongoose'),
+        User          = require('User'),
+        nev           = require('email-verification');
+    //I have other dependencies as well, but wanted to keep it simple for the post
+
+**Configuring My Email Verification**
+
+        nev.configure({
+            verificationURL: 'http://localhost:8080/email-verification/${URL}',
+            persistentUserModel: User,
+            tempUserCollection: 'tempusers',
+ 
+            transportOptions: {
+                service: 'Gmail',
+                auth: {
+                user: 'MyEmail',
+                pass: 'MyPassword'
+            }
+            },
+            verifyMailOptions: {
+                from: 'Do Not Reply &lt;MyEmail&gt;',
+                subject: 'Please confirm account',
+                html: 'Click the following link to confirm your account:&lt;/p&gt;&lt;p&gt;${URL}&lt;/p&gt;',
+                text: 'Please confirm your account by clicking the following link: ${URL}'
+            }
+        });
+
+**Generating the TempUserModel**
+
+    nev.generateTempUserModel(User);
+
+**The Register User Route**
+
+    app.post('/registerUser', function(req, res) {
+	    var User = require('./app/model/user');
+	    var newUser = User({
+		    email: req.body.email,
+		    password: req.body.password,
+		    name: req.body.name,
+		    username: req.body.username
+	    });
+
+	    nev.createTempUser(newUser, function(newTempUser) {
+    	        // a new user 
+    	        if (newTempUser) {
+        	    nev.registerTempUser(newTempUser);
+        	    res.json({message: ""success""});
+ 
+    	        // user already exists in our temporary collection 
+    	        } else {
+                    res.json({message: ""failure""});
+    	        }
+	    });
+    });
+
+I'm using Postman right not to make post requests to my registerUser Route, but the request never resolves. Is it because I'm developing locally? Or maybe because my verification url is localhost? This is just practice for now so I thought it most viable. Can anyone see my error? Any help would be great.",webdev,Can't Get Node Email Verification to Work,https://www.reddit.com/r/webdev/comments/3jmia4/cant_get_node_email_verification_to_work/
+60,2015-08-27 14:27:35+00:00,self.web_design,https://www.reddit.com/r/web_design/comments/3iloog/how_to_add_px_to_end_of_sass_variable/,,"Hey guys,
+
+I was wondering if there is a way to add the ""px"" suffix to the end of a variable. for example, lets say I have a variable called $max, and its equal to 4. I want to make another variable, something like
+
+    $max: 4;
+    $maxpx: $max + px;
+
+I'm sure its a simple fix.",web_design,"How to add ""px"" to end of SASS variable?",https://www.reddit.com/r/web_design/comments/3iloog/how_to_add_px_to_end_of_sass_variable/
+61,2015-08-25 14:22:03+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3ic490/anyone_else_having_lots_of_issues_with_github/,,"I switched from Github for Windows maybe a week or two ago, and I have a lot of issues with it. Sometimes when I start up the app all my repos have double entries on the lefthand side. The sync button never seems to work. I can either click it and it doesn't do anything, no response at all, or it gets stuck syncing. Sometimes I just can't merge branches with the new update mechanic. I use the app on my work computer, windows 7, and home, windows 8.1, with the same issues. I find myself just using the shell more since I've updated. I like the interface and the visualization of branches, but I was wondering if anyone else has these kinds of issues.",webdev,Anyone else having lots of issues with Github Desktop?,http://www.reddit.com/r/webdev/comments/3ic490/anyone_else_having_lots_of_issues_with_github/
+62,2015-08-25 13:18:31+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3ibw8o/eli5_what_is_agile_development/,,I always hear it and feel like an idiot when I don't have a solid grasp of what it means.,webdev,"ELI5, what is Agile Development?",http://www.reddit.com/r/webdev/comments/3ibw8o/eli5_what_is_agile_development/
+63,2015-08-25 13:13:13+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3ibvm8/apparent_dns_issue_with_xfinity_while_using/,,"Hey guys,
+
+So I'm trying to solve an issue with my PC not being able to connect to the internet, and its turned into a whole big issue. Basically the gist is that I got netgear powerline adapters so that I could get a hardline ethernet connection in my room. It seems that the adapters are working fine, the LED's are showing up properly, and (here's the kicker) my computer says that its connected to the network. However, I still can't get internet access. It seems that there is a DNS issue with my computer or something to do with Xfinity, but I haven't been able to solve it yet. /u/Smashwa helped me out a lot yesterday in [this thread](https://www.reddit.com/r/techsupport/comments/3i9izd/need_help_with_netgear_xwn5001_powerline_ethernet/), and you can see the steps that we've gone through to try and get this solved. I'm also currently at work and won't be able to test or do anything until later today, but it'd be great if I could have a list of things to try when I get home. Here is the [powerline adapters](http://support.netgear.com/product/XWN5001) that I'm using. Any help would be great, thanks!.",techsupport,"Apparent DNS issue with Xfinity, while using Netgear Powerline Adapters",http://www.reddit.com/r/techsupport/comments/3ibvm8/apparent_dns_issue_with_xfinity_while_using/
+64,2015-08-24 23:20:07+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3i9izd/need_help_with_netgear_xwn5001_powerline_ethernet/,,"Hey guys,
+
+I just got the net gear power kind adapters for my house, since my wifi sucks. They seem to be functioning properly, except I can't get internet still. So I have one plugged in to the router downstairs, and one by my PC upstairs, with Ethernet running from the PC to the adapter. The leds are all green, with the speed led occasionally dropping to Amber colored. My PC detects the network in the sense that the actual name of the network is on my computer. But I can't connect to the internet. Browsers don't work. Basically nothing. At first the connection said limited, but then it seemed normal. I don't think it's the cable or my computer, because if I connect it to my extender in the room (which is much slower than ideal but still somewhat functional), the internet works fine. I should also point out that at one point I tried to use the browser and it redirected to the mywifinext netgear genie, but it quickly got rid of that screen. It also is in an old house with possible old wiring but I'm not sure if that's an issue since the adapters appear to be connected throw the outlets just fine. Any help would be great",techsupport,Need help with Netgear XWN5001 powerline Ethernet adapter,http://www.reddit.com/r/techsupport/comments/3i9izd/need_help_with_netgear_xwn5001_powerline_ethernet/
+65,2015-08-24 15:18:38+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3i7l9n/issue_with_network_solutions_on_ie_8_and_9/,,"Hey guys,
+
+So I'm working on a new website for a company, but they want me to look into an issue with their old website. They're using Network solutions as their ecommerce platform. I've never used Network Solutions before, but it seems like a really closed system. There seems to be an error with IE 8 and 9. Its so bad that conversion rates on those browsers is 0%. I looked in compatibility mode and it looks like I'm getting a ""Sys is undefined"" error, which seems to be a ASP problem with the system. But Idk if this is a common problem with Network Solutions. Seems like a really big flaw. I've been searching their forums and can't find too much, especially since their forums are pretty untechnical.",webdev,Issue with Network Solutions on IE 8 and 9.,http://www.reddit.com/r/webdev/comments/3i7l9n/issue_with_network_solutions_on_ie_8_and_9/
+66,2015-08-24 03:34:26+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3i5qbh/how_to_set_up_hardwired_internet_for_my_pc_with/,,"Hey guys,
+
+so let me preface this by saying this is sort of embarrassing for me to have to ask. I deal with writing software all day and am a technical guy, but I have no idea for how to set up internet at my new place. I'm in a house that has Xfinity, with a modem and router downstairs. The WiFi is pretty much useless on my floor, since its a big old house, and lots of solid wood. There's only one router, and positioning it in different rooms downstairs will always have one person out of range. I get 20Mbps when I'm in the same room as the modem and router, but that drops to about 2 once I go upstairs. Like I said, lots of solid wood. So I get where the problem is there. I have a wifi extender, but its really not doing much good right now, and is still making me only get about 2Mbps while upstairs. I'd rather have a hardline ethernet cable, but have no idea of how to go about that, or if its even possible. I have cable in my room for my TV (which I never use). I don't have hardline ethernet in my wall though. Is there some way for me to get a hardline connection from my cable? I've never set up a modem before but is it possible to have 2 on the same network. Can I somehow get another router upstairs without the hardline connection? Or am I screwed? Any help or advice would be great, thanks",techsupport,How to set up hardwired internet for my PC with XFinity,http://www.reddit.com/r/techsupport/comments/3i5qbh/how_to_set_up_hardwired_internet_for_my_pc_with/
+67,2015-08-13 13:20:18+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3guhql/mongodb_question_how_can_i_store_images_to_mongo/,,"Hey guys,
+
+I'm in the process of learning the MEAN stack and was wondering how I could accomplish something. I want to save images for user profile pictures. Keep in mind that this is pretty much my first backend experience, and I've only recently tried Mongo. From what I understand from googling, in order to store data like image files into mongo, you need to use GridFS (which I think is included with Mongo). The data stored by GridFS is saved into two sections, files and chunks. Files seem to have all the metadata and information related to data, while the chunk stores the data itself. That's what I've got so far. I was wondering if anyone knew of some examples of how to deal with this concept, of doing uploads and downloads of images to MongoDB. I was also wondering, are the files collection and the chunk collection inherently linked via its documents? Like is the file for an image linked to the chunk of an image? Let me know if I'm going in sort of the right direction, or any resources you could point me to. ",webdev,MongoDB question - How can I store images to mongo with gridfs?,http://www.reddit.com/r/webdev/comments/3guhql/mongodb_question_how_can_i_store_images_to_mongo/
+68,2015-08-10 02:57:38+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3gf560/need_some_help_on_web_tokens_and_how_i_should_use/,,"Hey guys,
+
+So I'm pretty frustrated at the moment. I'm trying to learn the MEAN stack, and have been having a tough time. getting all the pieces to work together is a ton of work, at least for the first time. I'm following the book by the founders of scotch.io, MEAN machine. I was able to get my API running fine with Postman, but then the authors added in angular as a frontend solution, and I've been hitting speed bump after speed bump. The weird thing is that I have used Angular before for frontend stuff and it was pretty easy. But tying in services, several controllers, and several views is already becoming a handful. In the examples the authors of MEAN machine give, they are trying to make a CRM, and I'm trying to make a website that allows users to sign up and sign in. That's it for right now, since it's just practice. But there is an inherent difference in these two. A CRM has a user that creates and handles other users, while my website will have a new user create themselves.
+
+Here is where there is a snag. The API I built runs a Web Token verification on each call, so that it checks if a user is logged in on each request. But I found, and would consider this a pretty big flaw in the design of the book honestly, is that I have no idea of how to make a Web Token when a new user signs up. I'm getting 403 errors when trying to access my list of users in the API, since there is no user logged in, and since I need a token in order to interact with my API (AKA create a new user on it) I'm currently stuck
+
+Since I'm new to this Backend world, and am really only trying to get my toes a little wet, I was wondering how I would go about generating a new token for a newly created user. This is more of a theory question, and I'm not posting any code just because I want to learn as much as I can of the MEAN stack on my own, and that includes writing everything myself (usually multiple times after deleting stuff). For clarification I'm using the jsonwebtoken package for node.
+
+TL;DR How can you make a Web Token for a created user, without getting 403 errors",webdev,Need some help on Web Tokens and how I should use them,http://www.reddit.com/r/webdev/comments/3gf560/need_some_help_on_web_tokens_and_how_i_should_use/
+69,2015-08-05 14:59:50+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3fvrvo/security_issue_with_clients_current_site_while/,,"Hey guys,
+
+Ran into a problem today and was wondering if anyone has ever had something similar happen to them, or advice of some kind. So I'm working on a site for a charity organization. It's a pretty simple WordPress set up with an added section for keeping track of different programs that they run. I've been developing this all locally, then pushing the test version to a subdomain of their current site, just so the client can see progress I'm making, or so I can get feedback. 
+
+While I've been working on this though, the current site has had a security breach. The site is hosted through godaddy (I know), but my client got an email from Media Temple about the server security issue. They sent an email saying that a script being used on the current site had been hacked and was used nefariously. They gave the url to the script and basically said get rid of it, and eliminated the hosting plan for my client. 
+
+Now, keep in mind, my client had not been contacted by Media Temple until this, and they didn't really explain that they were owned by GoDaddy, I had to google that to figure out what was going on after receiving a frantic email from my client. Media Temple then sent my client a list of ways to get rid of the script without using cpanel (because the hosting account is just gone), which was basically a crash course in FTP and SSH. 
+
+They sent this to my client. Who has no technical experience. I haven't had a chance to really dig into what they were asking to have done, but this seems pretty ridiculous to me. I get that they have to keep their servers secure, but they said that if it wasn't removed by my client, Media Temple would charge them $150 for server support. 
+
+Before you ask, no they can't switch from GoDaddy, even though I've suggested they do. The security breach appears to have come from a section of their current site that was developed after the rest of the site.
+
+So yeah, I can't continue to develop the new site while this is going one. Anyone else ever have something like this happen? And I'm guessing that removing files through FTP is as easy as I always do it, but I've never done it while a hosting account is just gone.
+
+EDIT: Well, turns out that it wasn't a scam by GoDaddy. GoDaddy has alwasy been incompetent, but not shady in my experience. I was able to get into the File manager over FTP after getting more info from my client. It's literally just Just Chinese Hacker files. Tons of them. All of them are different products that I imagine were being blast emailed out to people. I'm guessing that GoDaddy made Media Temple take over since they are the ones directly handling the server. Now I get to talk to my client and ask if a backup of the old site was ever made. ",webdev,Security issue with client's current site while working on new site,http://www.reddit.com/r/webdev/comments/3fvrvo/security_issue_with_clients_current_site_while/
+70,2015-07-29 13:27:51+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3f0y5m/why_would_i_need_express_and_angular_if_im/,,"Hey guys,
+
+I'm new to developing for the mean stack. I have my feet wet in angular, have the basics of mongo down, have used node enough to know my way around it, and am getting more comfortable with express. But I was wondering, why do I need express and angular? I've used angular in the past for making cool forms or interactive features on a site, but angular has routes as well, and as far as I can tell, most of the stuff that express uses. Why do I need both? Since Angular is an MVC framework, and so is Express, doesn't it muddy the water when using both?",webdev,Why would I need express AND angular if I'm developing for the MEAN stack?,http://www.reddit.com/r/webdev/comments/3f0y5m/why_would_i_need_express_and_angular_if_im/
+71,2015-07-28 15:42:26+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3ewro0/googlebot_cannot_access_css_and_js_files/,,Has anyone else gotten this message from google webmasters tools today? Anyone know what the problem is?,webdev,Googlebot cannot access CSS and JS files,http://www.reddit.com/r/webdev/comments/3ewro0/googlebot_cannot_access_css_and_js_files/
+72,2015-07-23 13:11:30+00:00,davidwalsh.name,https://www.reddit.com/r/webdev/comments/3ebi4v/im_an_imposter_a_message_to_developers_with_low/,,,webdev,"""I'm an Imposter"". A message to developers with low confidence in their skills",http://davidwalsh.name/impostor-syndrome
+73,2015-07-20 00:59:53+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3dw55x/where_to_learn_the_mean_stack_and_how_it_works/,,"Hey guys,
+
+I was wondering if anyone had any recommendations on where to learn the mean stack all together. I already know how to use angular, node, and mongodb, but really have no idea of how to make it all work together, especially in a way that I find useful to use when working on my own. Any help or resources would be great, thanks!
+",webdev,Where to learn the MEAN stack and how it works together?,http://www.reddit.com/r/webdev/comments/3dw55x/where_to_learn_the_mean_stack_and_how_it_works/
+74,2015-07-08 14:17:44+00:00,codepen.io,https://www.reddit.com/r/webdev/comments/3cjx1w/pre_tag_styling_with_linenumbers_perfect_for/,,,webdev,"Pre tag styling with line-numbers, perfect for blogs that want to show code blocks",http://codepen.io/bbrennan6/pen/jEraVr
+75,2015-07-06 18:54:13+00:00,self.webdev,https://www.reddit.com/r/webdev/comments/3cbz6o/to_prototype_or_not_to_prototype_a_look_at_memory/,,"Prototype vs closure is an extremely interesting look at Object Oriented JavaScript. I'd describe myself as an intermediate level JavaScript developer, and have been trying to learn as much as I can with this lovely language. I quickly found myself wanting to use Object Oriented Programming as efficiently as possible for my web sites. Though for small sites, the impact of using extremely DRY and abstracted code is probably marginal, for larger applications its plain to see that having your code not be repetitive is a saver of time, among other things like bandwidth usage, memory usage, and all the other goodies that should be optimized. While brushing up on my OOP and applying it to JavaScript, I ran across the interesting difference in instantiating objects in JS: Prototypes. I'm sure many of the developer reading this are thinking what a noob I must be for just learning this concept, but hey, I've never needed it before. So I wanted to learn why it was such a big deal. What was the difference between prototypes and closures in JS as far as speed, memory usage, and other important factors. As it turns out, this is a very commonly asked question on StackOverflow, but I wanted to see for myself what the big hubub was about. So I decided to concoct a test between these two approaches to creating objects. ""A simple test on a large scale should do the trick"", I thought. So I very quickly jotted down a sketch of a dice rolling script that would take a lot of dice objects, put them into an array, and see the differences between the two. First up, is creating the dice objects in both their flavors.
+
+**Writing the Code**
+
+First up, a Die without prototyping.
+
+    //without prototype
+    function Die(sides){
+        this.sides =  sides;
+        this.roll = function(){
+            return Math.floor(Math.random() * 6) + 1;
+        }
+    }
+As it stands here, whenever a new instance of Die is created, the roll method will be completely recreated within object. This creates a lot of memory usage that can be avoided if prototyping was added. So next up, a Die with prototyping.
+
+    //with prototype
+    function ProtoDie(sides){
+        this.sides = sides;
+    }
+
+    ProtoDie.prototype.roll = function(){
+        return Math.floor(Math.random() * 6) + 1;
+    }
+
+If you're like me and learned a different programming language before JavaScript, this might seem a bit odd. This ProtoDie is in two separate parts. Doesn't that defeat the purpose of encapsulation? The answer is, not at all. While having custom functions floating separate to your objects would absolutely be bad practice, the use of prototype here is not that. Instead, it is a single instance of the method listed, in this case 'roll', across all of the different ProtoDie objects. Now you might be thinking, ""what's the big deal about that""? Let's keep building this simple program and find out. The first thing I tried testing was the speed of instantiation across multiple (and I mean multiple) objects.
+
+    var dice = [];
+
+    var protoDice = [];
+
+
+    //make 100 instances of each object
+    for(var i = 0; i &lt; 100; i++){
+        dice.push(new Die(6));
+        protoDice.push(new ProtoDie(6));
+    }
+
+Here we simply have two arrays, one for closure dice, and the other for prototype dice. After that we have a loop to make 100 objects in the array of the relative types that use that aforementioned methods. Next, I tried testing the speed of initiating the roll method on each of these objects.
+
+    //roll once for each instance in dice
+
+    var start = Date.now();
+
+    for(var i = 0; i &lt; 100; i++){
+       dice[i].roll;
+    }
+
+    var end = Date.now();
+
+    console.log(""Rolling Without Prototyping: "" + (end - start) + ""ms"");
+
+    start = Date.now();
+
+    for(var i = 0; i &lt; 100; i++){
+        protoDice[i].roll;
+    }
+    end = Date.now();
+
+    console.log(""Rolling With Prototyping: "" + (end - start) + ""ms"");
+
+Well, as it turns out, 100 objects is not enough to get an idea of the speed difference between these two. Modern computers are just too quick for a 100 objects to cause any noticeable difference between the two methods as far as instantiation speed goes. But I figured I might as well up the ante a little and try and see if/when there is a difference in speed. as it turns out, if you change those for loops to make 100,000 instances of each object, rather than 100, you do get a difference in instantiation speed.
+
+    Rolling Without Prototyping: 7ms
+    Rolling With Prototyping: 8ms
+
+The fact that it took 100,000 objects for each method to see a noticeable difference means that the difference in speed between these two methods is less than negligible as far as I'm concerned. But what are some of the other differences between these two approaches to OOJS.
+
+**The Good Results**
+
+The other thing I wanted to test was memory usage. That seems to be the big difference. The fact that there exists only one method using the prototype approach, across all the instances of the specific object, HAS to mean a huge decrease in memory. And so, I tested it. At first, I made the mistake of testing for the size of the objects in my script.The problem with this is that these comparisons just take in to account the size of the objects construct methods, which are the same in both cases. I mistakenly used the script from the StackOverflow answer [here] (http://stackoverflow.com/questions/1248302/javascript-object-size). So instead, I dove into Chrome's Dev tool, took a heap snapshot, and looked for the difference between these two types of objects. At last, I found the conclusive difference I had been searching for.
+
+    Closure:    5600 bytes  
+    Prototype:  1600 bytes
+
+That is a serious increase in memory usage between closures and prototypes. Satisfied with finding my answer, I decided to do a bit more research to see what others came up with. I found this comprehensive benchmark [here](https://github.com/podefr/benchmarks/blob/master/proto-vs-closure-memory/closure.js), showing that the different in memory usage between prototypes and closures increases dramatically with more methods on the objects. Finding out this size difference was an awesome way to understand more of how prototypes work.
+
+If you'd like to read the cleaner version of this little test, you can see it [here](https://github.com/brianbrennan/prototype-speed-test)",webdev,"To Prototype, or not to Prototype: A look at memory benchmarks between Closures and Prototype objects",http://www.reddit.com/r/webdev/comments/3cbz6o/to_prototype_or_not_to_prototype_a_look_at_memory/

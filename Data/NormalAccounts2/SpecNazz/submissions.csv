@@ -1,0 +1,12 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-03-27 21:51:50+00:00,self.computers,https://www.reddit.com/r/computers/comments/4c7dp9/computer_getting_blue_screen_in_xboost_mode_can/,False,"Hello everyone. I have asrock motherboard and it lets me to turn on X-boost, but after I'm playing games with it on high graphics (rust, ark survival evolved, the culling, etc.) my computer freezes and getting blue screen. Blue screen says: *** STOP: 0x00000101 (0x0000000000000019, 0x0000000000000000, 0x0FFFFF88003317180, 0x0000000000000006).
+
+My PC specs: Motherboard: ASRock 970 Extreme3 R2.0 CPU: OctalCore AMD FX-8350, 4100 MHz GPU: AMD Radeon R9 290 (Hawaii) 4gb DDR5 512bit RAMs: Crucial BLS8G3D18ADS3 8gb - x2 Sticks
+
+Without X-boost seems I do not have that problem, but without X-boost I lose FPS. Please help me
+
+Edit: my PC frozen and gave same Blue screen even without X-boost mode enabled when I was playing CS:GO
+",computers,Computer getting blue screen in X-boost mode. Can you help?,https://www.reddit.com/r/computers/comments/4c7dp9/computer_getting_blue_screen_in_xboost_mode_can/
+1,2016-03-27 21:41:48+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/4c7ccl/rself_my_computer_getting_blue_screen_in_xboost/,False,[removed],AskReddit,/r/Self My computer getting blue screen in X-boost mode. Can you help me?,https://www.reddit.com/r/AskReddit/comments/4c7ccl/rself_my_computer_getting_blue_screen_in_xboost/
+2,2016-03-26 14:34:55+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/4c1d77/my_computer_getting_blue_screen_in_xboost_mode/,False,[removed],AskReddit,My computer getting blue screen in X-boost mode. Can you help me?,https://www.reddit.com/r/AskReddit/comments/4c1d77/my_computer_getting_blue_screen_in_xboost_mode/
+3,2016-03-26 02:32:44+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/4bzldh/rexplainlikeimfive_bios_update_asrock_970/,False,[removed],AskReddit,"/r/explainlikeimfive [bios update] Asrock 970 Extreme3 and AMD fx 8350 I have this setup and my PC is working, but UEFI version is 1.60 I want to upgrade it to 1.80. Found instructions on ASROCK website, but I cannot get into bios menu. If I try to do it through UEFI it wont recognize files in USB",https://www.reddit.com/r/AskReddit/comments/4bzldh/rexplainlikeimfive_bios_update_asrock_970/

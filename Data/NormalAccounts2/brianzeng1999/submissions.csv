@@ -1,0 +1,57 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-09-18 21:43:26+00:00,self.applehelp,https://www.reddit.com/r/applehelp/comments/53ec17/mac_wont_start_up_after_shutting_down/,False,"After the longest time, I shut down my Mac. Now when I turn it on, it gets stuck on the loading screen. It loads halfway and just gets stuck there. Left it overnight and it's still on there. 
+
+I also just upgraded to the new is, does this have something to do with it?
+
+Thanks",applehelp,Mac won't start up after shutting down.,https://www.reddit.com/r/applehelp/comments/53ec17/mac_wont_start_up_after_shutting_down/
+1,2016-09-16 10:25:54+00:00,self.AutoCAD,https://www.reddit.com/r/AutoCAD/comments/5318n8/presspull_command_wont_create_holes_in_solids/,False,"I noticed on some youtube videos, people were able to use the press pull command to create holes in solids. However, when i try to do it, a cylinder is made instead of a hole. I know you can use the subtract command, but I dont want to continuously use it all the time. Is there a specific setting i need to turn on?",AutoCAD,Presspull command wont create holes in solids.,https://www.reddit.com/r/AutoCAD/comments/5318n8/presspull_command_wont_create_holes_in_solids/
+2,2016-09-08 09:22:53+00:00,self.AutoCAD,https://www.reddit.com/r/AutoCAD/comments/51qfwi/surface_trim_tool_wont_select_single_surface_on/,False,"When I use the surftrim tool and try to select a surface on a block, it just selects the entire block. ",AutoCAD,Surface trim tool wont select single surface on 3d object?,https://www.reddit.com/r/AutoCAD/comments/51qfwi/surface_trim_tool_wont_select_single_surface_on/
+3,2016-07-30 11:24:02+00:00,self.AskPhysics,https://www.reddit.com/r/AskPhysics/comments/4vbpg8/does_friction_cause_torque/,False,"Imagine I am riding my bike. On the front wheel, the only horizontal forces acting on the bike is friction.
+
+This friction is supposed to point forward, causing the wheel to accelerate forward. What I don't get is, if the friction force points forward, then wouldn't the wheel turn counterclockwise because the force is being applied in the counterclockwise direction? ",AskPhysics,Does friction cause torque?,https://www.reddit.com/r/AskPhysics/comments/4vbpg8/does_friction_cause_torque/
+4,2016-07-29 08:45:25+00:00,self.AskPhysics,https://www.reddit.com/r/AskPhysics/comments/4v5oc2/does_tension_do_work_in_this_system/,False,"The problem goes something like this. Imagine a bucket is suspended over a well by a winch and a rope. When the system is released from rest, the bucket falls down while the winch rotates. 
+
+My textbook states that the rope does no net work, because at the bucket end, the force and the displacement are in the same direction, and at the winch end, they are in opposite directions.
+
+I don't understand why this is true. Doesn't the tension exerted by the rope on the bucket go in the opposite direction of the motion? And doesn't the tension exerted by the rope on the winch go in the same direction of the motion?
+
+Can someone explain his to me or offer a different explanation?",AskPhysics,Does tension do work in this system?,https://www.reddit.com/r/AskPhysics/comments/4v5oc2/does_tension_do_work_in_this_system/
+5,2016-07-20 23:11:36+00:00,self.math,https://www.reddit.com/r/math/comments/4ttyi9/error_propagation_of_mean/,False,"Suppose I have four data points, each with their own error.
+
+To find the error in all four added up, I would have to take the square root of the sum of the squares of each data point's error.
+
+How would I then find the error in the mean? I the error in the mean just a four of the error of all four values added together?",math,Error propagation of mean,https://www.reddit.com/r/math/comments/4ttyi9/error_propagation_of_mean/
+6,2016-07-18 04:42:19+00:00,self.math,https://www.reddit.com/r/math/comments/4tdfps/predicting_mean_of_a_set_of_means/,False,"Let's say that an average of recorded values is 10 with a standard deviation of the mean (SDM) being 0.10.
+
+That means I could predict with a 68% probability that another group recorded mean will be within .10 of my mean.
+
+But what if I wanted to predict the average of the means of each group?
+
+Would I then do this:
+
+(9.9 * 68 + 9.8 * 32)/100= 9.86
+
+(10.1*68 + 10.2 * 32)/100=10.13
+
+Meaning that the mean of the means is going to be between 9.86 and 10.13?
+
+",math,Predicting mean of a set of means,https://www.reddit.com/r/math/comments/4tdfps/predicting_mean_of_a_set_of_means/
+7,2016-07-18 02:43:12+00:00,self.math,https://www.reddit.com/r/math/comments/4tcz7s/question_about_mean_and_standard_deviation/,False,"Let's say that two groups throw darts, and their targets range from boxes 1-9, with 5 being the middle.
+
+If the average of group A's scores was 5 and group B's scores was 4.9, and the standard deviation for group A was 2 while the standard deviation for group B was 0.5, then which group did better?
+
+My guess is group B since although it didn't hit 5 for the average, it's scores are more clustered around 4.9 because of its small standard deviation.
+
+But is there a mathematical formula to take into account both the mean and the standard deviation to determine the best group? Thanks
+",math,Question about mean and standard deviation,https://www.reddit.com/r/math/comments/4tcz7s/question_about_mean_and_standard_deviation/
+8,2016-04-25 09:09:22+00:00,self.math,https://www.reddit.com/r/math/comments/4gci4t/is_the_sum_of_all_fibonacci_numbers_equal_to_1/,False,"https://www.youtube.com/watch?v=i2rDbfhRHok
+The video above explains how 1/(1-x-x^2) = 1 + 1x + 2x^2 + 3x^3 + 5x^4 + 8x^5.... and so on. 
+Then I noticed something peculiar. substituting x with 1, on both sides would yield -1 = 1 + 1 + 2 + 3 + 5 + 8.... and so on. Does that mean the sum of all Fibonacci numbers is equal to -1?",math,Is the sum of all Fibonacci numbers equal to -1?,https://www.reddit.com/r/math/comments/4gci4t/is_the_sum_of_all_fibonacci_numbers_equal_to_1/
+9,2016-02-22 03:46:54+00:00,self.Poetry,https://www.reddit.com/r/Poetry/comments/46z0h0/does_anyone_know_where_i_can_find_a_good_list_of/,False,[removed],Poetry,Does anyone know where I can find a good list of short poems by Dante Alighieri?,https://www.reddit.com/r/Poetry/comments/46z0h0/does_anyone_know_where_i_can_find_a_good_list_of/
+10,2016-02-20 17:40:15+00:00,self.Showerthoughts,https://www.reddit.com/r/Showerthoughts/comments/46r2k9/its_ironic_when_blind_people_sing_the_star/,False,,Showerthoughts,It's ironic when blind people sing the Star Spangled Banner,https://www.reddit.com/r/Showerthoughts/comments/46r2k9/its_ironic_when_blind_people_sing_the_star/
+11,2016-02-09 09:37:59+00:00,self.math,https://www.reddit.com/r/math/comments/44vxaq/limit_as_x_goes_to_infinity_for/,False,Why is the limit as x goes to infinity for (1+1/x)^x is e but intuitively I would think 1/x would become zero and the whole equation would just equal 1?,math,Limit as x goes to infinity for,https://www.reddit.com/r/math/comments/44vxaq/limit_as_x_goes_to_infinity_for/
+12,2016-01-12 23:32:04+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/40p40n/what_colleges_would_not_take_me_because_i_lack_an/,False,,AskReddit,What colleges would not take me because I lack an athletic background?,https://www.reddit.com/r/AskReddit/comments/40p40n/what_colleges_would_not_take_me_because_i_lack_an/
+13,2016-01-03 10:29:40+00:00,self.movies,https://www.reddit.com/r/movies/comments/3z9e22/why_did_miyabe_join_the_special_attack_unit_and/,False,[removed],movies,Why did Miyabe join the special attack unit and commit suicide at the end of The Eternal Zero?,https://www.reddit.com/r/movies/comments/3z9e22/why_did_miyabe_join_the_special_attack_unit_and/
+14,2016-01-01 06:29:56+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/3yzulp/why_did_miyabe_join_the_special_attack_unit_and/,False,[removed],AskReddit,Why did Miyabe join the special attack unit and commit suicide at the end of The Eternal Zero?,https://www.reddit.com/r/AskReddit/comments/3yzulp/why_did_miyabe_join_the_special_attack_unit_and/
+15,2015-12-31 22:37:36+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/3yylt4/i_just_watched_the_eternal_zero_and_im_still/,False,[removed],AskReddit,"I just watched the eternal zero and i'm still confused as to why miyabe joined the special attack unit, any thoughts and opinions?",https://www.reddit.com/r/AskReddit/comments/3yylt4/i_just_watched_the_eternal_zero_and_im_still/
+16,2015-12-31 12:03:42+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/3ywkgy/so_i_just_watched_the_eternal_zero/,False,[removed],AskReddit,So I just watched the eternal zero.,https://www.reddit.com/r/AskReddit/comments/3ywkgy/so_i_just_watched_the_eternal_zero/

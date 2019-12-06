@@ -1,0 +1,229 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,You wouldn't be updating NWS sites by chance? ,2016-11-22 05:46:40+00:00,daaneu4,1.0,t3_5dn8ui,307562.0,talesfromtechsupport
+1,I would go to the printer and get the network configuration sheet. I would set up the printer and print from anywhere on campus to a empty lab.,2016-11-22 05:34:06+00:00,daan1lf,1.0,t3_5dmdpn,317187.0,talesfromtechsupport
+2,http://imgur.com/GrOdVVz TIL I was missing a key,2016-11-22 04:33:32+00:00,daakyvs,1.0,t3_5e65by,30798.0,talesfromtechsupport
+3,"Okay.  Right now.  Let me look into your username.  Expect to hear back shortly.
+
+/u/tewksbg",2016-11-19 19:39:33+00:00,da79ugn,2.0,t1_da6efdh,69050.0,woonatics
+4,I have that to my home.,2016-11-02 08:21:03+00:00,d9i3w27,,t1_d8yyaph,,talesfromtechsupport
+5,Dang.,2016-11-02 08:20:32+00:00,d9i3vq4,,t1_d8yrj27,,talesfromtechsupport
+6,Does it work on Windows 2000?,2016-11-02 07:57:54+00:00,d9i3hkb,1.0,t3_58jt2i,1071062.0,talesfromtechsupport
+7,Buying passwords. That is a new one. How complex? ,2016-11-02 07:23:19+00:00,d9i2uoo,1.0,t3_59qa43,471583.0,talesfromtechsupport
+8,"Links to fix:
+
+* Reddit Markdown Primer
+* Comment Formatting
+* Markdown primer
+
+",2016-10-28 17:01:41+00:00,d9bn7hn,1.0,t3_59vjgz,122.0,gatmangaming
+9,"No.  Too much effort for them.  The SSL certificate has a RSA public key that is 2048 bits (which is average), and can be hard to crack without a lot of computing power using brute force.
+
+**Extra Info:**
+
+* RSA is the algorithm used by modern computers to encrypt and decrypt messages. It is an asymmetric cryptographic algorithm. Asymmetric means that there are two different keys. This is also called public key cryptography, because one of them can be given to everyone. The other key must be kept private. It is based on the fact that finding the factors of an integer is hard (the factoring problem). RSA stands for Ron Rivest, Adi Shamir and Leonard Adleman, who first publicly described it in 1978. A user of RSA creates and then publishes the product of two large prime numbers, along with an auxiliary value, as their public key. The prime factors must be kept secret. Anyone can use the public key to encrypt a message, but with currently published methods, if the public key is large enough, only someone with knowledge of the prime factors can feasibly decode the message. ([Source](https://simple.wikipedia.org/wiki/RSA_\(algorithm\)))
+* [Wikipedia Article on *RSA \(cryptosystem\)*](https://en.wikipedia.org/wiki/RSA_\(cryptosystem\))  ([https://en.wikipedia.org/wiki/RSA_\(cryptosystem\)](https://en.wikipedia.org/wiki/RSA_\(cryptosystem\)))
+* [Imgur Album showing certificate info](http://imgur.com/a/LVreH)  (http://imgur.com/a/LVreH)",2016-10-28 15:31:37+00:00,d9birv4,9.0,t1_d9bi1lm,922.0,redditdev
+10,"No.  Unless they take the time to crack the SSL certificate *AND* then decrypt your data packets, no.  And they will most likely even try to crack the certificate.",2016-10-28 15:01:02+00:00,d9bhc4o,7.0,t1_d9b40mi,31684.0,redditdev
+11,"Unless they decrypt the key for the certificate, which takes time, no.",2016-10-28 04:12:13+00:00,d9b0j31,5.0,t1_d9b06ks,613.0,redditdev
+12,"Encrypted sites are a lot harder to figure out. If you ever have a chance, Google Wireshark. It is a way to see the packets on the network. In short, encryption makes it harder. Plus I like to believe that isp s will likely not spend too much time figuring out if you like r/cats. 
+
+If you are not doing anything questionable, don't really worry about it. 
+
+If you are doing something questionable, is it worth it, and if so, look into using the Tor network. ",2016-10-28 03:53:39+00:00,d9azw60,3.0,t1_d9az0p6,1466.0,redditdev
+13,"Is it 0.5 mm, 0.7 mm, or 0.9mm pencil? I am assuming 0.7 mm...",2016-10-28 03:40:08+00:00,d9azf28,5.0,t1_d9avlg0,5750.0,techsupportgore
+14,Tempted myself. Find my spare boards ,2016-10-28 03:37:59+00:00,d9azc7d,6.0,t1_d9avav6,6027.0,techsupportgore
+15,"Right now, I am looking for mods to help seed the sub and to make it worthy of viewing. Plus having experience with butthurt people and trolls, helps. I have been working on a bot to help moderate the sub. But I either set it up so it will become skynet, or it won't work. ",2016-10-28 03:31:06+00:00,d9az37f,2.0,t1_d9aqgsx,12633.0,woonatics
+16,"I rather support a local business than a big farm. Yes they theoretically do the same thing and produce the same items, but the local farmer depends more on sales than big commercial operations. ",2016-10-28 03:27:22+00:00,d9ayy78,2.0,t1_d9avhmv,5128.0,woonatics
+17, http://i.imgur.com/x7zA6al.jpg ,2016-10-24 12:54:27+00:00,d95i4s8,1.0,t3_56dfku,1442106.0,techsupportmacgyver
+18,"I was a broke college student. I could afford it at the time. Died two years later, right before finials and I had English papers due too. Good times.",2016-10-24 12:39:23+00:00,d95hojn,7.0,t1_d95eiiw,8578.0,techsupportgore
+19,I wonder if it related to a certain update ,2016-10-24 09:00:05+00:00,d95d8q7,,t1_d6lh6x3,,techsupportgore
+20,Normally you can talk to your nearest post office and make it right.,2016-10-24 08:24:31+00:00,d95cngu,1.0,t3_51vzkx,3895675.0,techsupportgore
+21,I have done this before on LSD. It was an interesting trip.,2016-10-24 08:03:14+00:00,d95ca62,,t1_d7y9pny,,techsupportgore
+22,98?,2016-10-24 07:46:26+00:00,d95bzca,,t1_d8fukjj,,techsupportgore
+23,They forgot to make large text...,2016-10-24 07:40:54+00:00,d95bvpb,1.0,t3_56e7j9,1413447.0,techsupportgore
+24,Want to wake up the block? Add it to salt water. Prepare to crap yourself and fire.  Do this outside. Maybe you should not actually do it.,2016-10-24 07:40:12+00:00,d95bv8t,1.0,t3_56e4jw,1414532.0,techsupportgore
+25,"The main cable should be fine. Might lose phone, though",2016-10-24 07:32:40+00:00,d95bq9m,,t1_d8qwrkg,,techsupportgore
+26,Duct tape?,2016-10-24 07:31:27+00:00,d95bpgl,,t1_d8pwasb,,techsupportgore
+27,Are you assuming lifestyle?,2016-10-24 07:26:17+00:00,d95blws,,t1_d8v0w1t,,techsupportgore
+28,I have seen it done. Great if you need to upgrade.,2016-10-24 07:09:41+00:00,d95bal1,2.0,t1_d9404l2,86742.0,techsupportgore
+29,Yeah. That happened with me while back in college. I think I had a raging headache the day after. Good times,2016-10-24 07:02:09+00:00,d95b55g,1.0,t3_58v9kj,121603.0,techsupportgore
+30,Luck. Mine is trash.,2016-10-24 06:58:53+00:00,d95b2rr,5.0,t1_d93ysnn,89948.0,techsupportgore
+31,"I had similar issues. When I sent it into get worked on, it came back with a rattling noise.",2016-10-24 06:58:19+00:00,d95b2cr,4.0,t1_d93yr1c,90031.0,techsupportgore
+32,Looks like something for r/OSHA,2016-10-24 06:43:34+00:00,d95arfi,1.0,t3_547jm8,2619332.0,cablefail
+33,Some companies send data through the lines. I lived in a place where you could get internet through the power lines,2016-10-24 06:39:18+00:00,d95ao4q,,t1_d89ab3t,,cablefail
+34,"I always hate using this, but it would always get the job done.",2016-10-24 06:32:06+00:00,d95aiq9,,t1_d8gwoe4,,cablefail
+35,I work with volunteers and some also help out at the zoo. They still cry at times with things like this.,2016-10-24 06:10:31+00:00,d95a1pn,3.0,t1_d959yy4,202.0,funny
+36,"Never.... 
+
+http://www.hollywoodreporter.com/news/at-t-buys-time-warner-940561",2016-10-24 05:54:33+00:00,d959ocz,1.0,t3_56ujcl,1153206.0,cincinnati
+37,Check out Awakenings in Hyde Park Square.,2016-10-24 05:40:14+00:00,d959bs5,1.0,t3_5876u2,453534.0,cincinnati
+38,"I know what I am going to say is not going to change anything. I might as well yell it at a cloud.
+
+
+
+For those who actually live in Cincinnati, and grew up with the Cincinnati Zoo, from that day in May to now, Zoo staff and volunteers felt the loss as the lost of a child.
+
+
+Unknown to most of the world, Harambe was not an Internet made sensation with his death. Harambe's birth was a step closer to saving his kind.
+
+
+Cincinnatians are getting sick and tired of the exposure of Harambe in popular culture. You have been dumping tons of salt into our wounds. We already have the Cincinnati Bengals and the Cincinnati Reds, so our wounds are deep.
+
+
+Kindly follow the request of the Cincinnati Zoo and stop posting about Harambe.
+
+
+
+On this topic, yes Cincinnati Zoo officials tried to save Harambe's life PLUS the life of the child. The staff and first responders did what they were trained to do. Every second counts.
+
+
+For the record, I am Cincinnati native.
+
+
+Further more, I don't care about points on this comment, but the message. Thanks!",2016-10-24 05:26:48+00:00,d958zho,,t1_d921lna,,cincinnati
+39,Yes.,2016-10-24 05:21:07+00:00,d958uao,3.0,t1_d94wuf5,19529.0,funny
+40,"No  u/Majike03, mayonnaise isn't a political instrument...",2016-10-24 05:20:48+00:00,d958u0u,2.0,t1_d938wrn,127642.0,funny
+41,"I know what I am going to say is not going to change anything. I might as well yell it at a cloud.
+
+
+
+For those who actually live in Cincinnati, and grew up with the Cincinnati Zoo, from that day in May to now, Zoo staff and volunteers felt the loss as the lost of a child.
+
+
+Unknown to most of the world, Harambe was not an Internet made sensation with his death. Harambe's birth was a step closer to saving his kind.
+
+
+Cincinnatians are getting sick and tired of the exposure of Harambe in popular culture. You have been dumping tons of salt into our wounds. We already have the Cincinnati Bengals and the Cincinnati Reds, so our wounds are deep.
+
+
+Kindly follow the request of the Cincinnati Zoo and stop posting about Harambe.
+
+
+
+On this topic, yes Cincinnati Zoo officials tried to save Harambe's life PLUS the life of the child. The staff and first responders did what they were trained to do. Every second counts.
+
+
+For the record, I am Cincinnati native.
+
+
+Further more, I don't care about points on this comment, but the message. Thanks!",2016-10-24 05:13:11+00:00,d958mr6,1.0,t3_58zb4i,46039.0,funny
+42,How about r/LPOTL?,2016-10-24 04:56:12+00:00,d95864v,1.0,t3_55cr7b,1965418.0,funny
+43,"Sorry.  Just filled out the form and fixed.
+~GAT",2016-09-19 05:04:55+00:00,d7ssibb,2.0,t1_d7ssfc7,181.0,Assistance
+44,"It is up
+",2016-09-07 17:49:16+00:00,d7d2di5,2.0,t1_d7ckla8,34817.0,LPOTL
+45,http://www.adultswim.com/videos/streams/last-stream-on-the-left,2016-09-07 06:06:19+00:00,d7cib7i,1.0,t3_50w541,369611.0,LPOTL
+46,"Lol, I will have to use this... ",2016-09-03 02:51:00+00:00,d77li59,12.0,t1_d77k6sh,2511.0,LPOTL
+47,Please do tell me more of your travels!  Please tell me about the time before Wikipedia!,2016-09-03 01:45:03+00:00,d77jepp,10.0,t1_d77j88x,334.0,LPOTL
+48,"Are you a time traveler? :P
+",2016-09-03 01:23:01+00:00,d77ioyx,8.0,t1_d77imvw,106.0,LPOTL
+49,"Are you in the FB group?
+",2016-09-03 01:19:38+00:00,d77ikxp,6.0,t1_d77idlq,365.0,LPOTL
+50,"It is still a start.  I normally don't reach this subreddit before quitting the internet.  Have you checked out /r/conspiratard/ and /r/Whatcouldgowrong/?
+",2016-09-03 01:04:43+00:00,d77i394,4.0,t1_d77hzj3,189.0,LPOTL
+51,I forgot that I was already a subscriber.,2016-09-03 01:00:09+00:00,d77hxv7,2.0,t1_d77hki6,688.0,LPOTL
+52,"From Lupe:
+
+
+&gt;Wanna be really supportive? DON'T upload LPOTL stream to YouTube. Be patient and allow adult swim to archive the show so that they can review the views of the show and to possibly keep it going. Stop fucking it up. Seriously. Don't post links to it. Have some respect. Considering banning anyone that does as such.
+
+
+Just a heads up.",2016-09-03 00:57:30+00:00,d77husa,4.0,t1_d77hrgo,172.0,LPOTL
+53,/u/GRIZx and  /u/Aegisx2 Do **NOT** post on YouTube.,2016-09-03 00:53:39+00:00,d77hqak,2.0,t1_d77d553,8110.0,LPOTL
+54,"It should be on Adult Swim's on demand video selection by Tuesday, if not Monday.",2016-09-03 00:51:12+00:00,d77hnfl,2.0,t1_d77ap9s,11937.0,LPOTL
+55,**DON'T REPOST**  Lupe was pissed while back about it.  Plus it will be online in a day or so.,2016-09-03 00:39:30+00:00,d77h9h6,1.0,t3_50vl48,11676.0,LPOTL
+56,I do work with programming. I am already going through the code. And reddit does not give benefits of the doubt. ,2016-08-23 20:38:13+00:00,d6tr0z6,4.0,t1_d6tq8px,958.0,pokemongodev
+57,"I am going to tear appart the Android apk of version 0.35.0 that has the following check sums:
+
+	MD5:   24B9A98F2BE88CC42E3DE0037C0AF80B
+	SHA1: 4168ECC4ACE921589F167DBD86A2833294897CA2
+	SHA-256:   EF918BE8000F996456BA351CB6CD69D7D1B39226AC7878F6FA8723C8EB0C137F",2016-08-23 06:43:06+00:00,d6sy206,1.0,t3_4z4fkf,12785.0,pokemongodev
+58,"Has anyone looked at the apk?
+
+I am looking at v 0.33.00 and there are a *lot* of things that scare me.  I just got the newest release, and I want to see what has changed...",2016-08-23 05:54:02+00:00,d6swzla,1.0,t3_4scf8p,3670288.0,pokemongodev
+59,Until I got locked out...  http://imgur.com/Cx3LAqG,2016-08-23 01:02:37+00:00,d6sn773,1.0,t3_4z3n3y,3152.0,pokemongo
+60,Do you use PTC? ,2016-08-23 00:50:02+00:00,d6smppd,2.0,t1_d6sldth,2001.0,pokemongo
+61,"I have been waiting for over a month now. 
+",2016-08-23 00:35:56+00:00,d6sm621,1.0,t3_4z1waj,23073.0,pokemongo
+62,You are not the only one having issues. ,2016-08-23 00:30:24+00:00,d6slxz4,1.0,t3_4z3mmo,1394.0,pokemongo
+63,Would additional data sets be useful? I have the json return of my account on Github at https://github.com/tewksbg/PoGoStats/blob/master/GATmanAttacks.txt,2016-08-16 08:34:39+00:00,d6jgs0i,1.0,t3_4t1zot,2711388.0,TheSilphRoad
+64,"1829
+
+1829 was a good year for, who knows what ",2016-06-10 09:17:57+00:00,d43fq6r,1.0,t3_4nchko,49560.0,pcmasterrace
+65,Deputy has been discharged from University of Cincinnati Medical Center ,2016-06-10 08:34:10+00:00,d43f0ri,3.0,t1_d438n9v,16963.0,news
+66,"EMA has gone on secure mode for communications. With several national agencies and surrounding areas in help with this, expect very little to be said. ",2016-06-10 08:33:18+00:00,d43f08p,3.0,t1_d4393i2,16029.0,news
+67,"I am sorry, but this is wrong (stating the obvious right now). How in heck can this be in any way creditable? Just think of trying to prove the smell in the court of law (Your honor, can we have the jury smell the defendant's hand for drugs, I know that she had not been able to wash her hand in over a month). Secondly, how do they know what drugs smell like, I know that some everyone have been exposed to in public. Thirdly, she could have been around someone who has used drugs. If you look at cigarette smokers, the smell of their smoke can transfer to others who have been in contact with items of said smoker. ",2016-05-11 18:18:19+00:00,d31m3ii,1.0,t3_4iush8,18954.0,education
+68,"I use Google Adsense on my websites. If Google is providing the ads for their users of their services, that makes Google the broker and gets to decide which ad contracts that they sign up for? ",2016-05-11 18:08:51+00:00,d31lnbt,5.0,t1_d31iz0i,3372.0,technology
+69,The owner (myself) has consent to use the name in the screenshot.  Message /u/tewksbg if you want to confirm.,2016-05-04 21:02:31+00:00,d2syf93,1.0,t3_4hwl01,455.0,screenshots
+70,Fact: That dad no longer has a son.,2016-04-29 06:48:47+00:00,d2lsxm2,1.0,t3_4gy84a,765.0,funny
+71, http://i.imgur.com/vNZOsk5.jpg ,2016-04-29 06:46:41+00:00,d2lsw4o,1.0,t3_4gy6pa,1561.0,funny
+72,Very punny!,2016-04-29 06:37:34+00:00,d2lsphz,3.0,t1_d2lsny1,127.0,funny
+73,Puntastic!,2016-04-29 06:36:40+00:00,d2lsou1,2.0,t1_d2lsnc5,120.0,funny
+74,"It seems there were three monks who enjoyed raising plants and were trying to keep a flower shop running, selling unique and exotic plant life.
+
+One day, some children where playing behind the shop and were eaten whole by an extremely rare man-eating plant.
+
+The parents, needless to say, were outraged, and demanded that the friars get rid of the dangerous plant. The friars refused.
+
+So the parents and the people of the town tried several ways to get the friars to consent, but finally they had to ask Hugh, the town blacksmith, (undoubtably the strongest man around), to run the friars out of town.
+
+The Moral is : ""Hugh, and only Hugh, can prevent florist friars!""",2016-04-29 06:35:51+00:00,d2lso92,1.0,t3_4gy6pa,911.0,funny
+75,"An international chess tournament is being held in a swank hotel in New York. Everyone who is anyone in the world of chess is there. After a grueling 4 hours of chess, the players and their entourages retire to the lobby of the hotel for a little refreshment.
+
+In the lobby, the players get into a big argument about who is the brightest, the fastest, and the best chess player. The argument gets loud, each player claiming that he is the greatest chess player of all time.
+
+One security guard in the lobby turns to the other and says:
+
+If there's one thing I can't stand, it's chess nuts boasting in an open foyer.
+
+(forgive me, for I have punned...)
+",2016-04-29 06:33:26+00:00,d2lsmfo,1.0,t3_4gy6pa,766.0,funny
+76,"If you're going to pun-ish us, let me say this: 
+A marine biologist developed a race of genetically engineered dolphins that could live forever if they were fed a steady diet of seagulls. One day, his supply of the birds ran out so he had to go out and trap some more. On the way back, he spied two lions asleep on the road. Afraid to wake them, he gingerly stepped over them. Immediately, he was arrested and charged with -- transporting gulls across sedate lions for immortal porpoises.
+",2016-04-29 06:30:53+00:00,d2lskkk,1.0,t3_4gy6pa,613.0,funny
+77,"Explosion of the month 
+https://media.giphy.com/media/rksZrNW0hMZTG/giphy.gif",2016-04-29 06:26:06+00:00,d2lsh0k,1.0,t3_4gwr8d,24812.0,StarWars
+78,Are you pleasantly moist yet?,2016-04-29 06:21:01+00:00,d2lsd4t,1.0,t3_4gy19m,3322.0,funny
+79,"Welcome to life, where all you are is a number in a database.",2016-04-29 06:19:23+00:00,d2lsbx2,1.0,t3_4gy6fy,86.0,funny
+80,I will build r/a_wall and have r/Mexico pay for it.,2016-04-29 06:17:48+00:00,d2lsaoi,1.0,t3_4gy5oo,450.0,funny
+81,I saw that your mentioned my name... http://i.imgur.com/Fhtxcbl.jpg ,2016-04-29 06:14:48+00:00,d2ls8ct,6.0,t1_d2lku3h,13734.0,funny
+82, http://i.imgur.com/06Vd8w8.jpg ,2016-04-29 06:13:28+00:00,d2ls7b0,1.0,t3_4gtz6q,60193.0,funny
+83,http://i.imgur.com/vu8lHTZ.gif,2016-04-29 06:09:21+00:00,d2ls43q,1.0,t3_4gx31l,18719.0,funny
+84,Does it come with a pin?,2016-04-29 05:59:51+00:00,d2lrwm9,1.0,t3_4gy4jm,96.0,funny
+85,Coming to a fashion show near you!,2016-04-29 05:54:13+00:00,d2lrs0l,3.0,t1_d2lrp72,214.0,funny
+86,I will build the r/a_wall and have r/Mexico pay for it.,2016-04-29 05:46:38+00:00,d2lrlug,2.0,t1_d2lqxqi,1687.0,funny
+87, http://i.imgur.com/DftuBQS.jpg ,2016-04-29 05:41:57+00:00,d2lrhzb,1.0,t3_4gy26f,436.0,funny
+88,Question: What was the desired effect the master of all things Photoshop trying to achieve? Or was this an attempt to recreate the experiment performed by Schroeder? Will we ever truly know?,2016-04-29 05:34:38+00:00,d2lrbo4,1.0,t3_4gy1uf,199.0,funny
+89,I see you were going for a combo ,2016-04-29 05:30:34+00:00,d2lr863,1.0,t3_4gxq4h,6197.0,funny
+90,"Just remember the Force Book of, "" And said to he, do not venture down the path of evil.  Let the force guide you to what is right."" Yoda 4:32",2016-04-29 05:23:42+00:00,d2lr2ba,1.0,t3_4gxws8,2394.0,funny
+91,The dark side of the moon...,2016-04-29 05:21:11+00:00,d2lr03i,2.0,t1_d2lqm1o,925.0,funny
+92,There was a glitch in the matrix...,2016-04-29 05:19:49+00:00,d2lqyv4,3.0,t1_d2lqxk3,90.0,funny
+93,How dare you ram this into my brain?,2016-04-29 05:18:46+00:00,d2lqxxp,1.0,t3_4gxz8z,742.0,funny
+94,So is he your twin brother?,2016-04-29 05:17:46+00:00,d2lqx0v,1.0,t3_4gxzth,351.0,funny
+95,"Coach: That is not what I mean by heading the ball.
+&lt;A FEW SECONDS&gt;
+Coach: Not that either...",2016-04-29 05:15:44+00:00,d2lqv6e,1.0,t3_4gtj59,64427.0,funny
+96,I would go out on a limb and say password?,2016-04-29 05:12:10+00:00,d2lqry7,1.0,t3_4gtrbh,59990.0,funny
+97,I had enough of your crap today Carl...,2016-04-29 04:59:35+00:00,d2lqg7m,1.0,t3_4gp3wd,133620.0,OSHA
+98,Shit gets done there! ,2016-04-11 06:25:24+00:00,d1y6mgb,1.0,t3_4djzsm,443742.0,funnysigns
+99,All in favor reply Yes,2016-04-11 06:23:13+00:00,d1y6kv7,2.0,t1_d1wpjf2,109840.0,funnysigns
+100,It will be able to recharge during the day.  ,2016-02-26 17:42:34+00:00,d0esu8l,2.0,t1_d0e3qbt,54779.0,bloomsky
+101,I have seen Open Weather Map. I am still trying to work out a way to make the Bloomsky to post to it via Bloomsky so API and cron jobs ,2016-02-14 18:06:31+00:00,czzqspz,,t1_czz9jcw,46794.0,bloomsky
+102,I also have a version posted at http://widgets.alookatweather.com/cocwx/weather.html,2016-02-14 01:26:03+00:00,czz298j,,t1_czyzb2u,5336.0,bloomsky
+103,I have a feeling that they will be doing this until they get everything done,2016-02-14 01:16:38+00:00,czz1xx7,,t1_czyzb2u,4771.0,bloomsky
+104,"/u/jeromius I was looking at your demo and I noticed that the temperature is off.  It is reporting back in imperial units
+",2016-02-13 20:36:49+00:00,czyskum,,t1_czxxt6w,74356.0,bloomsky
+105,"/u/jeromius, would it be possible if I get a copy of your php source code?  I would like to see if I can play around with it and make it more robust...",2016-02-12 21:49:51+00:00,czxt6i9,,t1_cyzosop,,bloomsky
+106,I would like the ability to keep the sky cam on during the night.,2016-01-31 01:27:45+00:00,czi4g7o,1.0,t3_3hxfhd,13991353.0,bloomsky
+107,Whatever floats your boat... ,2016-01-06 06:45:39+00:00,cynslwo,1.0,t3_3znin8,17322.0,funny
+108,"Oops, I knew I forgot something... ",2016-01-06 06:37:48+00:00,cynsfq5,1.0,t3_3zlvj4,38274.0,funny
+109,Don't quack under pressure. You *ARE* being watched... ,2016-01-06 06:24:03+00:00,cyns44j,1.0,t3_3zogyq,1830.0,funny
+110,Plus I would think it would provide airfare... ,2016-01-06 06:19:30+00:00,cyns08g,1.0,t3_3zoc1w,3775.0,funny
+111,"That sounds about right. However, what about African balloons? ",2016-01-06 05:59:16+00:00,cynrig6,2.0,t1_cynja65,14895.0,funny
+112,"I need TP in here, stat! ",2016-01-06 05:42:33+00:00,cynr2vq,1.0,t3_3ml396,8690710.0,funnysigns
+113,"Not a problem!
+",2015-10-16 18:41:24+00:00,cw24v4f,2.0,t1_cw23nix,1795.0,cincinnati
+114,"[Supermoon Eclipse at the Cincinnati Observatory Center](http://alookat.space/COC-SupermoonEclipse*2015) | The Cincinnati Observatory Center 3489 Observatory Pl, Cincinnati, OH 45208 | Sunday, September 27, 2015 starting at 7:00 pm | East Coast Eatz and Coldstone Creamery are providing food in trucks, and 15% of proceeds goes to the Cincinnati Observatory Center.",2015-09-27 15:42:28+00:00,cvfudea,1.0,t3_3m7n7h,258582.0,cincinnati
+115,"The Cincinnati Observatory Center is having their annual ScopeOut Event on Saturday, September 12, 2015 | 
+[View COC's Event Website](http://www.cincinnatiobservatory.org/publicevents/9%5C12%5C2015-scopeout-science-%2B-education-fair-10/) | 
+[Facebook Event](https://www.facebook.com/events/1595822220682184/)",2015-09-11 22:19:36+00:00,cuyf5at,1.0,t3_3kf149,108710.0,cincinnati

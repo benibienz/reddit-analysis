@@ -1,0 +1,63 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"On my result, democratic party candidate came on top of the list on both presidental as well as senator list. How is order determined ? (? round robin, random ?)
+
+I have not seen the actual polling slip or electronic machine. How are ordered determined there. I know for countries like india where along with printed name, a symbol is used for candidates. For some demographics, the nature of symbol as well as their placement on the vote sheet has considerable influence. 
+
+",2016-10-19 06:05:17+00:00,d8yf08a,1.0,t3_587ge7,19739.0,LifeProTips
+1,"It is normal. They either have to wait for the next move, which might take forever. Or pick up the thesis and complete it even if the actual game has progressed further in different direction. Usually, the sequence of moves are related and they do not need to cover each move, allowing them to cover the latest state of the actual game at once.
+",2016-10-06 16:00:03+00:00,d8gkr96,2.0,t1_d8gde5a,10246.0,baduk
+2,"Low/Zero abstraction cost with python's syntax and batteries are ideal thing to have. I would love to see elaboration on trade-offs, omission and additions.
+
+Like other have mentioned, your major hurdle would be legacy cython based codes including numpy if you are aiming for compatibility. I am not sure how much of gain we are looking with the libpython on the back.
+
+If you were to borrow only the syntax and the std libraries and replace cython with your own FFI, you might want to survey the third party libraries to see how hard it is to create a seed ecosystem. As long as they are pure python they should not be a problem. (https://pypi.python.org/simple/). At worst it will not have numpy classes of libraries, but will get you majority of other libs, takes away GIL and may allow new language features like Microthreads, Threading primitives, Lightweight Collections etc.
+
+You might also want to look at nim-lang, rust for their zero abstraction cost, julia, elixir.
+
+
+",2016-07-21 15:00:53+00:00,d5l0f72,1.0,t3_4ttjk7,62369.0,Python
+3,"Reviving the old thread. Thank you for your suggestion.
+
+I looked into it and ended up with a cluster of 8 dual E5-2670 nodes of quanta servers with 100gb ddr3 on each node. 10GbE networking was a added bonus.
+
+Cost me about 3K.
+
+",2016-07-12 17:01:54+00:00,d59elq7,,t1_d4b4c3y,,buildapc
+4,"Amazon AWS provides GPU instances. Soon enough someone will create an AWS AMI, so that regular person like us, albeit with little struggle, can start an instance and play the game.
+It is going to cost, but the cost is billed hourly usage.",2016-07-03 02:42:36+00:00,d4x9t0f,4.0,t1_d4vezoo,127486.0,baduk
+5,Go should play with Cho Chikun giving 4 stones and declare itself god.,2016-06-25 01:32:59+00:00,d4n1bru,1.0,t3_4poqvq,21743.0,baduk
+6,"I thought of the AWS first, but over a year cost comes the same and the workflow is easier with home build.",2016-06-16 02:54:04+00:00,d4b3wm3,2.0,t1_d4ayw0w,8039.0,buildapc
+7,"I am still torn between clock speed vs number of cores+cache. I need to sleep over it i think.
+
+I am not sure if the 'turbo freq' is a snake oil or have any impact with low end water cooler for xeons. If performance is almost equal, i would go with xeon for more threads.
+
+Can i leave the i7 on 4.0+ OC mode for several months without turning off the computer.",2016-06-16 02:52:58+00:00,d4b3v5b,2.0,t1_d4ayz9p,7832.0,buildapc
+8,I think SR-2 does not support NVMe. ,2016-06-16 01:47:59+00:00,d4b1gj8,2.0,t1_d4ayqvn,4299.0,buildapc
+9,"I am stuck on the same issue about the memory type supported by the processor. 
+
+http://ark.intel.com/products/88195/Intel-Core-i7-6700K-Processor-8M-Cache-up-to-4_20-GHz
+
+says:
+DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V
+
+
+",2016-06-16 00:39:50+00:00,d4ayvnj,1.0,t3_4oan4q,458.0,buildapc
+10,http://waterfire.us/joseki.htm,2016-06-15 03:39:25+00:00,d49qs4q,1.0,t3_4o55iw,3908.0,baduk
+11,"Park Junghwan, Playing as black won. They play till end and won by 3 points. ",2016-06-14 19:58:18+00:00,d497h8a,2.0,t1_d494vj5,3173.0,baduk
+12,"On serious note, it would be nice to get an official gobans and stones. Similar to that of football, where addidas would release official footballs with same specs and design played in tournament.
+
+I am guessing the goban in the picture is about 1.5 inch.
+
+Any ideas on stones used. The hexagonal bowl looks familiar. Any ideas. ",2016-06-14 19:57:29+00:00,d497fsb,1.0,t3_4o0p0a,35960.0,baduk
+13,"I had gogui connected to Darkforest over GTP, and chose computer color both one each move. This particular game was done while watching live commentary by Kim Myungwan on youtube. I let the gogui run on background on each move and placed new stone manually when it was different from the generated move.
+
+Now i have a python script to do it automatically for given sgf. Script is on https://github.com/aniljava/darkforest-variations",2016-06-13 21:42:06+00:00,d47vvgn,2.0,t1_d476fiv,36171.0,baduk
+14,"Top Right: S16 (False eyes are converted to potential eyes)
+Top Left : B13 and C3 eventually, Depending on how white plays, eitherway one eye is created B13,B14 and another eye A16,17,18 (Many variations)
+
+Bottom: E1",2016-06-04 06:55:09+00:00,d3vi92i,1.0,t3_4mfbzo,31843.0,baduk
+15,The live game at wbaduk app shows Gu Li winning (Playing White) by resignation at move 158,2016-05-30 04:15:58+00:00,d3ot0ew,1.0,t3_4lk6aj,58714.0,baduk
+16,Screw motivation - what you need is discipline.,2015-12-12 12:13:43+00:00,cxwe2nk,1.0,t3_3wezcr,60339.0,ADHD
+17,"See if shire cares works for you. If not see if you can get online coupns, goodrx etc knocks out 10-20% off.
+
+I usually ask pharmacist to apply the best coupon they have in place, it usually matches or is better than the online ones. Example: 60 caps 70mg $601.99 was knocked down to $439.03 ($162.96 savings)",2015-12-12 12:00:34+00:00,cxwdwq6,1.0,t3_3wga2p,40900.0,ADHD

@@ -1,0 +1,122 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-07-02 16:37:13+00:00,imgur.com,https://www.reddit.com/r/mildlyinteresting/comments/4qxx9l/smiley_trailer_hitch_while_stuck_in_traffic/,False,,mildlyinteresting,Smiley trailer hitch while stuck in traffic,http://imgur.com/q41GqCo
+1,2016-06-03 21:32:58+00:00,self.Multicopter,https://www.reddit.com/r/Multicopter/comments/4mf6ob/naze32_rev6_1st_version_blue_led_blinking_issue/,False,"I'm trying to setup a Naze32 Rev6 for a friend, and unfortunetly I let him prematurely take the quad to ""try it"" overnight.  We had a spektrum sat issue yesterday (it would bind, but no channel inputs would be visible, solid bind light etc;).
+
+Today, he dropped off the FC as he stated ""it isn't working"", I am not sure what he did but the Naze32 rev6 has a blue led that now blinks.  Cleanflight will NOT connect to it:
+
+    2016-06-03 @ 18:00:28 -- Serial port successfully opened with ID: 37
+    2016-06-03 @ 18:00:38 -- No configuration received within 10 seconds, communication failed
+
+I'm scratching my head and not sure what to do.
+
+I've disconnected everything from the board, and when plugging in with USB the ""power"" blue led just flashes.  No ESCs connected, no spektrum sat.
+
+I can boot short the pins and flash/verify successfully, but cannot reboot and connect to the board for config?
+
+Any ideas?",Multicopter,"Naze32 Rev6 (1st version) blue led blinking issue, unable to connect",https://www.reddit.com/r/Multicopter/comments/4mf6ob/naze32_rev6_1st_version_blue_led_blinking_issue/
+2,2016-05-11 16:41:15+00:00,imgur.com,https://www.reddit.com/r/Multicopter/comments/4ivt4k/qavr_180mm_clone_build/,False,,Multicopter,QAV-R 180mm Clone Build,http://imgur.com/a/J9nNY
+3,2016-05-07 18:48:45+00:00,youtu.be,https://www.reddit.com/r/radiocontrol/comments/4ib726/teksumo_delta_wing_flying_and_chase_in_michigan/,False,,radiocontrol,TekSumo delta wing flying and chase in Michigan,https://youtu.be/QhuFH9Hm7B0
+4,2016-05-03 19:19:11+00:00,windsorultimate.com,https://www.reddit.com/r/windsorontario/comments/4hpgro/ultimate_frisbee_free_skills_clinic_on_514_come/,False,,windsorontario,Ultimate Frisbee Free Skills clinic on 5/14 - Come out and learn the sport!,http://www.windsorultimate.com/calendar/event/137
+5,2016-04-26 04:13:09+00:00,windsorultimate.com,https://www.reddit.com/r/windsor/comments/4gh74h/windsor_ultimate_frisbee_summer_season_starts/,False,,windsor,Windsor Ultimate Frisbee summer season starts soon! Join us :),http://www.windsorultimate.com/league/all?summer2016
+6,2016-04-16 00:42:17+00:00,windsorultimate.com,https://www.reddit.com/r/windsorontario/comments/4ezp8y/windsor_ultimate_frisbee_summer_season_starts/,False,,windsorontario,Windsor Ultimate Frisbee summer season starts soon! Join us :),http://www.windsorultimate.com/league/all?summer2016
+7,2016-04-15 02:46:39+00:00,imgur.com,https://www.reddit.com/r/Multicopter/comments/4eur07/one_of_these_is_not_like_the_other/,False,,Multicopter,One of these is not like the other...,http://imgur.com/gallery/oNECc
+8,2016-04-11 04:36:17+00:00,self.radiocontrol,https://www.reddit.com/r/radiocontrol/comments/4e99gb/guide_for_stand_alone_micro_minimosd_for_delta/,False,"I've been unable to find any good guide for getting the micro minimosd running standalone without an FC.  Every reference I find is running it with cleanflight etc; which I don't want to do for my delta wing.
+
+I've plugged in the 5v/ground to power, and flashed it multiple times with no success to get BAT1 working.  I get a wacky 6.34v reading showing, and I've been tearing out hair trying to find a way to just get voltage working (I've flipped the BAT1/2 and also used ""whitespy"" toggle in arduino code).
+
+Has anyone successfully got this thing running with voltage showing (maybe a GPS - would be great!).
+
+I can certainly go into more detail about my setup, I'm flashing the osd with **MWOSD R1.6** and tried a few settings to get voltage working (so far all unsuccessful).",radiocontrol,Guide for stand alone micro minimosd for delta wing?,https://www.reddit.com/r/radiocontrol/comments/4e99gb/guide_for_stand_alone_micro_minimosd_for_delta/
+9,2016-04-02 13:47:13+00:00,self.radiocontrol,https://www.reddit.com/r/radiocontrol/comments/4d1juf/rc_hobby_show_in_toledo_ohio/,False,"If you're local and in the area check out http://www.toledoshow.com/
+
+Huge R/C Hobby show this weekend. I'm actually typing this out at the show :)  
+
+A couple photos I took:  
+http://imgur.com/a/V94gI",radiocontrol,R/C Hobby show in Toledo Ohio,https://www.reddit.com/r/radiocontrol/comments/4d1juf/rc_hobby_show_in_toledo_ohio/
+10,2016-03-24 02:07:54+00:00,youtube.com,https://www.reddit.com/r/radiocontrol/comments/4bpqo8/ouch_nitro_plane_maiden_crash/,False,,radiocontrol,Ouch! - Nitro Plane Maiden Crash,https://www.youtube.com/watch?v=Qqck2wPZrAo
+11,2016-03-11 22:34:57+00:00,imgur.com,https://www.reddit.com/r/Multicopter/comments/4a14qs/dear_hobbyking_why_are_you_doing_this_to_batteries/,False,,Multicopter,Dear Hobbyking: Why are you doing this to batteries!?,http://imgur.com/a/oPsXz
+12,2016-03-07 03:11:42+00:00,self.ypsi,https://www.reddit.com/r/ypsi/comments/49amzn/any_multirotorradiocontrol_enthusiasts_in_ypsi/,False,"I've been flying multirotors for over 2 1/2 years now, and haven't seen anyone in Ypsi (or Ypsi Twp) flying in a park.  Any people meeting up for fun flights / races?
+
+I've got a 250mm sized quad + 2 delta wings that I fly when the weather cooperates, looking for anyone local to fly with.
+
+What are you flying and where? :)
+
+/r/Multicopter   
+/r/radiocontrol ",ypsi,Any multirotor/radiocontrol enthusiasts in Ypsi?,https://www.reddit.com/r/ypsi/comments/49amzn/any_multirotorradiocontrol_enthusiasts_in_ypsi/
+13,2016-02-19 21:36:58+00:00,imgur.com,https://www.reddit.com/r/Multicopter/comments/46myec/how_to_use_an_elastic_when_changing_propellers_on/,False,,Multicopter,How to: Use an elastic when changing propellers on your motors,http://imgur.com/a/XnqUS
+14,2016-02-12 15:05:45+00:00,self.radiocontrol,https://www.reddit.com/r/radiocontrol/comments/45f430/flip32_and_cleanflight_setup_for_teksumo_fpv_build/,False,"Has anyone seen good documentation setting up cleanflight on a flip32/naze32 for a delta wing?
+
+I'm attempting it as I wanted to enable things like PPM, improved telemetry, minimosd, and gps data.  
+
+I've found very little documentation, and when I hook the motor and servos, the servos start to jitter uncontrollably. I've noticed the jitter seems to happen when I move/touch the FC, and it makes me think this is an auto enabled Angle/Horizon auto level / PID issue? But nothing is enabled by default.
+
+Can anyone point me in the right direction?  This is just an experiment and I can always fall back on just using my D4R-II + minimosd directly (batt + telem, but no gps/gyro,etc;)  ",radiocontrol,Flip32+ and Cleanflight setup for TekSumo FPV build,https://www.reddit.com/r/radiocontrol/comments/45f430/flip32_and_cleanflight_setup_for_teksumo_fpv_build/
+15,2016-02-07 00:11:16+00:00,imgur.com,https://www.reddit.com/r/Multicopter/comments/44iybo/i_got_my_readymaderc_waffle_kit_today_not_bad/,False,,Multicopter,I got my ReadyMadeRC Waffle Kit today! Not bad!,http://imgur.com/y4zcfqF
+16,2016-01-22 20:40:29+00:00,imgur.com,https://www.reddit.com/r/radiocontrol/comments/427gk8/my_bonsai_mini_wing_fpv_rebuild/,False,,radiocontrol,My Bonsai mini wing FPV re-build,http://imgur.com/a/2Qwbw
+17,2016-01-22 20:14:03+00:00,rcgroups.com,https://www.reddit.com/r/Multicopter/comments/427c06/amas_safety_code_trumps_faas_acknowledgement_of/,False,,Multicopter,AMA's Safety Code Trumps FAA's Acknowledgement of Safety Guidance,http://www.rcgroups.com/forums/showthread.php?t=2581078
+18,2016-01-13 05:02:53+00:00,self.oneplus,https://www.reddit.com/r/oneplus/comments/40qhel/oneplus_one_post_cm_121_update_wont_vibrate/,False,"Since a few days ago, I've now found that my phone no longer vibrates.  I've tried rebooting it with different options like disabling vibrate prior to reboot etc;
+
+I am not sure if the vibrator died (does that happen?) or if this is a software issue with the latest CM update?
+
+Can anyone offer any ideas? Not sure if I still have warranty on the phone, has been over 1 year.",oneplus,OnePlus One post CM 12.1 update won't vibrate,https://www.reddit.com/r/oneplus/comments/40qhel/oneplus_one_post_cm_121_update_wont_vibrate/
+19,2016-01-04 02:32:10+00:00,self.AnnArbor,https://www.reddit.com/r/AnnArbor/comments/3zcten/a2_local_polish_stores/,False,"There used to be Copernicus (I believe was the name of the store, located near Main and Mosley a few years ago). Anyone know of a store that sells deli and other Polish food?
+
+My backup idea is just to hit Hamtramick, but don't wanna drive that far if I don't have to.",AnnArbor,A2 Local Polish stores?,https://www.reddit.com/r/AnnArbor/comments/3zcten/a2_local_polish_stores/
+20,2015-12-26 19:25:50+00:00,imgur.com,https://www.reddit.com/r/aww/comments/3ybc21/my_father_made_a_doggy_burrito/,False,,aww,My father made a Doggy Burrito,http://imgur.com/KMLzdGD
+21,2015-12-22 20:59:19+00:00,imgur.com,https://www.reddit.com/r/aww/comments/3xvp24/i_feel_like_i_interrupted_something/,False,,aww,I feel like I interrupted something,http://imgur.com/zIKqxRL
+22,2015-12-06 22:41:36+00:00,imgur.com,https://www.reddit.com/r/aww/comments/3vpr37/feed_us_human/,False,,aww,Feed us human!,http://imgur.com/ICvAMJM
+23,2015-11-15 19:54:48+00:00,self.radiocontrol,https://www.reddit.com/r/radiocontrol/comments/3sxi7b/hk_bonsai_enhancingupgrading_wingtips/,False,"I've got the [bonsai from hobbyking](http://www.hobbyking.com/hobbyking/store/__17968__HobbyKing_Bonsai_EPP_Wing_600mm_ARF_.html), and its a great little platform, but with some stronger wings out lately I was thinking about upgrading the wingtips from the tiny ones it comes with.
+
+Is there some kind of guide on how big they should be? Or maybe what the size/angle has to do with flight dynamic?  I was going to use some plastic board (typical of those lawn signs you see in the US for elections).
+
+Is that a good idea? figured there might be some stability to gain. Thoughts?",radiocontrol,HK Bonsai - Enhancing/upgrading wingtips,https://www.reddit.com/r/radiocontrol/comments/3sxi7b/hk_bonsai_enhancingupgrading_wingtips/
+24,2015-11-11 16:12:48+00:00,self.Fallout,https://www.reddit.com/r/Fallout/comments/3sf36m/my_experience_playing_fallout_4/,False,"**Come home, excited, meet sys minimum, drivers updated.**  
+
+http://gfycat.com/UnpleasantMaleCougar",Fallout,My experience playing Fallout 4,https://www.reddit.com/r/Fallout/comments/3sf36m/my_experience_playing_fallout_4/
+25,2015-11-04 15:51:38+00:00,self.Multicopter,https://www.reddit.com/r/Multicopter/comments/3ri69w/hk_quanum_goggle_v1_lcd_upgradereplacement/,False,"I have a backup (my first pair) of the HK Quanum V1 goggles, with the very low quality LCD.  I was just thinking if anyone found a same size replacement for higher resolution? (maybe the V2 one?)
+
+I tried looking but had difficulty keeping correct search terms as most LCDs advertise as high resolution and in fine print stick 320x240.
+
+Anyone have any luck doing something like that? I considered breathing new life into the old goggles short of trying to get rid of them or they just collecting dust.  
+
+
+*One possible option I found was this:*  
+http://www.aliexpress.com/store/product/5-inch-TFT-LCD-Car-Rearview-Backup-Color-Monitor-Screen-Reverse-Camera-car-Security-Monitor-for/1045641_1638764533.html",Multicopter,HK Quanum Goggle V1 LCD upgrade/replacement?,https://www.reddit.com/r/Multicopter/comments/3ri69w/hk_quanum_goggle_v1_lcd_upgradereplacement/
+26,2015-10-28 15:39:18+00:00,us.banggood.com,https://www.reddit.com/r/radiocontrol/comments/3qkmf9/tempted_to_get_the_xuav_talon_mini_for_52/,False,,radiocontrol,Tempted to get the X-UAV Talon mini for $52,http://us.banggood.com/Wholesale-Warehouse-X-uav-Mini-Talon-EPO-1300mm-Wingspan-V-tail-FPV-Plane-Aircraft-Kit-wp-Usa-983331.html
+27,2015-10-27 03:14:20+00:00,self.Multicopter,https://www.reddit.com/r/Multicopter/comments/3qdf52/so_whatever_happened_to_blackout/,False,"Just curious as [Blackout](http://www.minihquad.com/) was a big brand in the quad industry, then it seemed like over a few months the team members left / moved on to other brands (they are still listed on their site hto), and I've seen almost 0 movement from Blackout on new frames, innovation or advertising, or even [BlackoutTheDrunk](https://www.youtube.com/user/BlackoutTheDrunk/videos) shooting new videos...
+
+Business go bad? Or just am I not aware of what's up?  Did I miss something?  Can someone get me up to speed?",Multicopter,So whatever happened to Blackout?,https://www.reddit.com/r/Multicopter/comments/3qdf52/so_whatever_happened_to_blackout/
+28,2015-10-23 18:41:30+00:00,readymaderc.com,https://www.reddit.com/r/Multicopter/comments/3pxsva/rmrc_goby_180mm_not_bad_for_50/,False,,Multicopter,RMRC Goby 180mm - Not bad for $50,http://www.readymaderc.com/store/index.php?main_page=product_info&amp;cPath=76_729&amp;products_id=4656
+29,2015-10-21 18:09:20+00:00,imgur.com,https://www.reddit.com/r/Multicopter/comments/3pnwtc/i_replaced_my_worn_dys1806_2300kv_motor_bearings/,False,,Multicopter,"I replaced my worn DYS1806 2300kv motor bearings, easy enough.",http://imgur.com/gallery/46EWM
+30,2015-10-14 23:32:24+00:00,self.oneplus,https://www.reddit.com/r/oneplus/comments/3osem6/strange_change_for_google_app_search_bar/,False,"Today my Google search disappeared and now I find I have the ""now cards"" displaying in it's place.
+
+http://imgur.com/n4V8vlQ
+
+I can't find any way to undo this... anyone know?",oneplus,Strange change for Google app / search bar,https://www.reddit.com/r/oneplus/comments/3osem6/strange_change_for_google_app_search_bar/
+31,2015-10-10 15:11:03+00:00,self.radiocontrol,https://www.reddit.com/r/radiocontrol/comments/3o84in/question_aileron_tuning_for_a_wing_bonsai_teksumo/,False,"Hey everyone, hoping someone can hold my hand for this, as I've been unable to find any good guides to help me understand aileron/elev tuning / setup. This is my first venture into fixed wing, as I started with the multirotor hobby (and still love my quad), but I wanted something for graceful fpv and long flight times.
+
+I have so far balanced my bonsai, but I'm not sure if I am ""doing it right"" by setting the aileron angle / range of motion, I feel like something is off for the motion.
+
+What's confusing for me is, the initial default angle for the aileron? I've aligned it with the bottom of the wing (straight line), my thinking here is it should go ""straight"" vs nose down/up (and I'm hoping this is correct), this align was done mechanically not via taranis.
+
+The taranis mixing is a bit daunting, but I've setup the channel mixing correctly, it feels like my ailerons are traveling further down than up, I'd like get them even, if that makes sense, or maybe understand if that is correct?",radiocontrol,Question: Aileron tuning for a wing (Bonsai / Teksumo),https://www.reddit.com/r/radiocontrol/comments/3o84in/question_aileron_tuning_for_a_wing_bonsai_teksumo/
+32,2015-10-08 15:17:08+00:00,rcgroups.com,https://www.reddit.com/r/Multicopter/comments/3nzc1u/how_to_focus_your_fpv_camera_for_best_quality/,False,,Multicopter,How to focus your FPV camera for best quality.,http://www.rcgroups.com/forums/showthread.php?t=2516950
+33,2015-09-14 04:31:59+00:00,youtu.be,https://www.reddit.com/r/Multicopter/comments/3kvcgw/zmr250_my_spring_and_summer_2015_crash_compilation/,False,,Multicopter,ZMR250 - My Spring and Summer 2015 Crash Compilation,https://youtu.be/ddFbwr1jGvU
+34,2015-09-05 20:49:19+00:00,imgur.com,https://www.reddit.com/r/funny/comments/3js9ma/found_randomly_in_the_back_of_an_antique_store/,False,,funny,"Found randomly in the back of an antique store, unsure if trolling",http://imgur.com/eIRsCUY
+35,2015-08-30 18:56:28+00:00,i.imgur.com,https://www.reddit.com/r/Multicopter/comments/3izful/great_scott_doc_has_lost_his_marbles_xpost_rfunny/,,,Multicopter,"Great Scott, Doc has lost his marbles. (xpost /r/funny)",http://i.imgur.com/DKOpBoz.gifv
+36,2015-08-25 13:11:35+00:00,youtube.com,https://www.reddit.com/r/Multicopter/comments/3ibvf1/this_is_a_real_flying_lawnmower/,,,Multicopter,This is a real flying lawnmower...,https://www.youtube.com/watch?v=YeGiIOY8MZU
+37,2015-07-11 03:16:19+00:00,youtu.be,https://www.reddit.com/r/Multicopter/comments/3cvjj4/what_not_to_do_catch_your_drone_never_risk/,,,Multicopter,"[What not to do!] ""Catch Your Drone!! Never Risk Landing Your Quadcopter Again! Featuring Yuneec Q500""",https://youtu.be/ztrHPemg-us
+38,2015-07-06 02:31:41+00:00,youtu.be,https://www.reddit.com/r/Multicopter/comments/3c9b5c/my_accidental_duck_rescue_via_quadcopter/,,,Multicopter,My Accidental duck rescue via Quadcopter,https://youtu.be/Uuq_ldsL_l8
+39,2015-06-28 16:04:15+00:00,instagram.com,https://www.reddit.com/r/Multicopter/comments/3betw2/elon_musk_on_instagram_drone_hexacopter_takes_pic/,,,Multicopter,Elon Musk on Instagram: “Drone hexacopter takes pic of drone ship OCISLY on station in the Atlantic”,https://instagram.com/p/4cagTNQEYi/
+40,2015-06-26 19:29:02+00:00,youtube.com,https://www.reddit.com/r/Multicopter/comments/3b87yr/swift_tr260_tilt_rotor_fpv_racing_quadcopter/,,,Multicopter,Swift TR260 Tilt Rotor FPV Racing Quadcopter,https://www.youtube.com/watch?v=y4I901yJZUU
+41,2015-06-16 17:41:39+00:00,self.Multicopter,https://www.reddit.com/r/Multicopter/comments/3a296x/overcraft_pdb_issue_tx_voltage_post_crash/,,"I've got [the Overcraft PDB](http://www.rcgroups.com/forums/showthread.php?t=2349727) on my ZMR250, and 2 weeks ago [had a minor crash](https://www.youtube.com/watch?v=Xjr-sUYOKns) (which coincidentally felt like a power loss/de sync as motors wouldn't respond to throttle increase) that broke no props, sent nothing flying, but resulted in extreme heat focused around my ccd camera.  It would heat-up a ton, and coincidentally there would be no video.  I assumed right away that this was a symptom of a dead camera.
+
+I was able to take off with the quad after the crash, but landed for a closer inspection and found the heat issue on the front of the quad (very hot, heat coming off cam transferred into alumn standoffs).
+
+I took the quad home and over the last 2 weeks disassembled and tested components. Here is the wacky thing, the ccd camera WORKS as does the Boscam TX. When I wire them up on a battery, I can see just fine and video transmits.
+
+So I [tested the pads on the overcraft board](http://i.imgur.com/staNnar.jpg), and found that the TX pads (under/next to minimosd) didn't close the loop (-/+ under voltage).  When I measured the + with any other ground (-) I found see 12v (11.9x).
+
+Not sure if this is a filter issue, that it burned out? Or it broke. I'm debating to just try running the ground off another pad (but I fear this will bypass the filter, if it still works).
+
+Thoughts? Anyone have this board and run into this issue? I heard the LC Filters on the DIATONE PDBs burned out easily, maybe similar issue with the Overcraft?",Multicopter,Overcraft PDB issue - TX voltage - Post crash,http://www.reddit.com/r/Multicopter/comments/3a296x/overcraft_pdb_issue_tx_voltage_post_crash/

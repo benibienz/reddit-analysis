@@ -1,0 +1,32 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-02 16:30:16+00:00,self.tifu,https://www.reddit.com/r/tifu/comments/5aqwdl/tifu_by_accidentally_hacking_my_company/,False,[removed],tifu,TIFU by accidentally hacking my company,https://www.reddit.com/r/tifu/comments/5aqwdl/tifu_by_accidentally_hacking_my_company/
+1,2016-10-16 22:36:55+00:00,self.phoenix,https://www.reddit.com/r/phoenix/comments/57u1qs/is_there_a_cliffs_notes_type_website_for_judge/,False,"So I am going through my ballot and doing research on judges and their major decisions.  The issues I am having is there has to be like 50 of them and that is a ridiculous amount of research to be doing.
+
+Has anyone put together a website or document that highlights major decisions a judge has made?",phoenix,Is there a cliff's notes type website for judge information?,https://www.reddit.com/r/phoenix/comments/57u1qs/is_there_a_cliffs_notes_type_website_for_judge/
+2,2016-04-26 04:16:14+00:00,self.phoenix,https://www.reddit.com/r/phoenix/comments/4gh7ha/anyone_know_of_an_english_import_shop/,False,"Shot in the dark, but my in-laws are coming from England and I am curious if there are any shops that specialize in English import goods?  I'm looking particularly for a store where I could pick up Jammie Dodgers or Jaffa Cakes.",phoenix,Anyone know of an English import shop?,https://www.reddit.com/r/phoenix/comments/4gh7ha/anyone_know_of_an_english_import_shop/
+3,2016-04-18 20:48:15+00:00,self.travel,https://www.reddit.com/r/travel/comments/4fdz60/passport_expedite_tomorrow_from_post_office_or/,False,"I just found out that I may need to travel out of the country for work on May 9th which puts me in a precarious position.  I can put out my passport application tomorrow which says there is a 3 week turnaround, or I can wait until next Monday and visit my local Passport Agency which says it can get a passport to me in 8 business days. 
+
+I guess I just need some advice as to whether or not I should start a standard expedited passport tomorrow or if I would be better off waiting until next Monday?",travel,Passport: Expedite tomorrow from Post Office or wait until Monday and visit Agency?,https://www.reddit.com/r/travel/comments/4fdz60/passport_expedite_tomorrow_from_post_office_or/
+4,2016-04-12 23:12:55+00:00,abcnews.go.com,https://www.reddit.com/r/phoenix/comments/4eirhy/72yearold_woman_survived_9_days_in_arizona/,False,,phoenix,"72-Year-Old Woman Survived 9 Days in Arizona Wilderness by Drinking Pond Water, Eating Plants",http://abcnews.go.com/US/72-year-woman-survived-days-arizona-wilderness-drinking/story?id=38343309
+5,2015-12-10 07:30:25+00:00,self.electricians,https://www.reddit.com/r/electricians/comments/3w6z8k/how_messed_up_is_this_240_outlet/,False,"So I have a dryer that I brought to a new rental house we are living in.  Dryer won't turn on.  I went ahead and tested the terminals on the back of the dryer and found the following voltages:
+
+
+* 240v red to black
+* 240v neutral to black
+* 0v     red to neutral
+* 110v all wires to ground
+
+I flipped the breaker manually because this seems really suspect.  Am I mad in thinking that there might be a wiring issue in the outlet?
+",electricians,How messed up is this 240 outlet?,https://www.reddit.com/r/electricians/comments/3w6z8k/how_messed_up_is_this_240_outlet/
+6,2015-11-27 20:25:05+00:00,self.ynab,https://www.reddit.com/r/ynab/comments/3ui5ed/ynab_current_month_budget_ok_next_month_over/,False,"My current month's budget is 0, meaning available and budgeted are equal.  However, next month it shows we are overbudget.  I've looked at the transactions and only one category is overbudget, but not by the total amount.  Anyone encounter this and have trouble shooting ideas?",ynab,"YNAB: current month budget ok, next month over budget?",https://www.reddit.com/r/ynab/comments/3ui5ed/ynab_current_month_budget_ok_next_month_over/
+7,2015-09-14 03:35:41+00:00,self.aureliajs,https://www.reddit.com/r/aureliajs/comments/3kv6fv/aurelia_skeleton_question_where_are_the_users/,False,"**THIS HAS BEEN SOLVED!  THANKS!**
+
+So I'm fairly new to the JS framework world (I make a living programming Java) and I've just started toying around with Aurelia.  I have already run into a roadblock which I'm sure will turn out to be embarrassingly simple but why not ask anyways?
+
+In the 'Users' route, where is the list of users being populated?  I see an empty array declared in the .js file, and I see it being iterated through in the html to display, but I for the life of me can't figure out where the list of names is being populated before the api calls are made.  Any help would be appreciated.",aureliajs,Aurelia Skeleton Question: Where are the users coming from?,https://www.reddit.com/r/aureliajs/comments/3kv6fv/aurelia_skeleton_question_where_are_the_users/
+8,2015-09-11 01:46:34+00:00,self.Guitar,https://www.reddit.com/r/Guitar/comments/3khjtw/how_dangerous_are_unmatched_power_tubes_for_an_amp/,False,"So I just acquired a 60's Silvertone 1484 Twin Twelve amp head and have been working on it.  I've replace the speaker cable with a 1/4"" jack to, I've removed the old power cord and 'death cap' in favor of a modern grounded cord, and I am considering turning it on to try it out.
+
+One thing that concerns me is I am still fairly new to tube amps and I noticed that the power tubes are different brands.  There is a Sovtek 6L6WGC and a JJ 6L6 GC.  I've heard some people say that unmatched tubes are a bad idea and I've heard others say it is fear mongering.  One thing I don't want to risk is damaging this head before I even get a chance to use it.
+
+Any input?",Guitar,How dangerous are unmatched power tubes for an amp?,https://www.reddit.com/r/Guitar/comments/3khjtw/how_dangerous_are_unmatched_power_tubes_for_an_amp/
+9,2015-07-10 03:50:38+00:00,self.askscience,https://www.reddit.com/r/askscience/comments/3crclb/how_could_i_figure_out_what_year_it_is_without/,,,askscience,How could I figure out what year it is without using modern technology?,http://www.reddit.com/r/askscience/comments/3crclb/how_could_i_figure_out_what_year_it_is_without/

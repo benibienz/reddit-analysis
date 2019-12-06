@@ -1,0 +1,78 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,Is KSPRC or similar mods compatible with 1.2? ,2016-10-22 15:54:10+00:00,d934bn2,1.0,t3_58o0cb,85729.0,KerbalSpaceProgram
+1,Turns out the problem was Ven's Stock Part Revamp! Thanks for your help and have a great day! :),2016-10-21 03:13:26+00:00,d91andk,,t1_d8y2zbj,,KerbalSpaceProgram
+2,http://imgur.com/a/DglGY,2016-10-18 23:02:07+00:00,d8xyltq,6.0,t1_d8wv9oa,62736.0,KerbalSpaceProgram
+3,Is KSPRC Compatible with 1.2?,2016-10-18 22:50:05+00:00,d8xy2fa,1.0,t3_57h41j,369880.0,KerbalSpaceProgram
+4,I'll post my modlist so you can see the ones I have installed,2016-10-18 22:47:43+00:00,d8xxylg,6.0,t1_d8wv9oa,61872.0,KerbalSpaceProgram
+5,here's the whole log https://drive.google.com/open?id=0BzmwU87eabF7NWJVSjlWSDV5Mzg,2016-10-18 00:41:05+00:00,d8wjn4s,5.0,t1_d8wjknz,87.0,KerbalSpaceProgram
+6,"[LOG 17:34:15.248] PartLoader: Part 'Squad/Parts/Utility/commsAntennaDTS-M1/commsAntennaDTS-M1/mediumDishAntenna' has no database record. Creating.
+[LOG 17:34:15.250] DragCubeSystem: Creating drag cubes for part 'mediumDishAntenna'
+[EXC 17:34:15.261] NullReferenceException: Object reference not set to an instance of an object
+	ModuleDeployablePart.AssumeDragCubePosition (System.String name)
+	DragCubeSystem+&lt;RenderDragCubes&gt;c__Iterator1E.MoveNext ()
+	UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress)
+
+
+
+I don't know what this means but I found it at the end of the log file",2016-10-18 00:39:38+00:00,d8wjknz,4.0,t1_d8wjc96,300.0,KerbalSpaceProgram
+7,Didn't work :(,2016-10-18 00:34:38+00:00,d8wjc96,3.0,t1_d8wi62i,1554.0,KerbalSpaceProgram
+8,"I could try opting in to the 1.1.3 'beta', waiting for it to download, then opting out again. Any inconsistencies in the squad folder would probably be eliminated. I'll try that out...",2016-10-18 00:08:44+00:00,d8wi62i,2.0,t1_d8vvtxe,27786.0,KerbalSpaceProgram
+9,"I tried that, It found an error and said it would fix it, but it still didn't work. Thanks 4 the suggestion anyway!",2016-10-17 23:55:43+00:00,d8whls9,4.0,t1_d8vcg7t,68387.0,KerbalSpaceProgram
+10,"Ok, I did as you suggested and updated all my mods,   any incompatible ones I deleted, but when I boot I still get the same problem. I traced the CKAN error to just the one of the 5 USI mods I have (MKS). ",2016-10-16 19:50:57+00:00,d8upad3,2.0,t1_d8ucty2,16923.0,KerbalSpaceProgram
+11,No Comps plz,2016-10-09 00:34:18+00:00,d8jvf7w,1.0,t3_56jjko,5225.0,dankmemes
+12,"No as anyone searching for a question on google will have to sift through weekly questions to find their search result.
+ I've asked for support and I always post to the thread as well as making another post for it, in my experience I usually get the best help and most in depth guides from actual posts, rather than comments on the megathread (this being true for most subbredits I frequent).
+Another point is that when you post a question on a thread, it seems people answering them are trying to answer other peoples questions at the same time, and haven't specifically came to answer your's. When someone replies to your post, they must've seen it and known that they could be of service to that specific problem, not just a blind draw. 
+In conclusion I think it would be best that noob questions (how to toggle SAS) should be reserved for the thread as they only require on or two sentance answers to fully solve it, but for larger questions that require a long response (like this one!), they should get their own post. Finally I think the flagging system should be to be very lenient with mistakes in this realm, if we turn down an answer that someone needed because of the orginization of a subreddit, the only thing we would accomplish is to alienate players from the little gem called KSP!",2016-10-04 00:27:21+00:00,d8cvss1,1.0,t3_55p1p1,22348.0,KerbalSpaceProgram
+13,lay the foundation pupper ,2016-10-02 20:49:26+00:00,d8b8ski,1.0,t3_55hgt3,44236.0,dankmemes
+14,"I dont know why or how, but the .zip file with KSPRC Inside was incomplete (it also had some corrupt files) after I re-downloaded the mod pack and installed it, every thing worked, thank you so much for your help, from now on I can enjoy KSP's full potential!",2016-09-21 00:59:30+00:00,d7veon2,2.0,t1_d7vd8o1,2174.0,KerbalSpaceProgram
+15,"Hello fellow redditors, today I have a very important question about installing the mod KSPRC on ksp 1.1.3, before I start please note that: I don't want to update to 1.2 if it breaks the mod, I have already tried completely uninstalling KSP (removed the ksp folder in steamapps then uninstalled it from the steam launcher) and reinstalling it to try and fix the problem; finally, I dont care which mod pack I install as long as the end result looks something like this.
+Even though the thread I linked shows that this mod was made for 1.1.2, in the mod thread it says that it is compatible with 1.1.3 as long as you have the latest version of kopernicus. The only mods I have installed are the ones required for ksprc as well as a few other mods that further improve FX, a screenshot of my gamedata folder is here. All of the mods I installed are recommended by this thread. I have a core i7 6700 and two GTX 960's in SLI format. I also have 32 gigs of corsair dominator platinum ram. Please help, I love KSP and I just want to use my PC to its full extent to play the games I love!
+EDIT: I forgot to add that after I reinstalled the game the loader freezes when It reaches Kerbal Space Program\GameData\Squad\Spaces\mk1PodCockpit
+EDIT 2: It turns out engine lighting isn't compatible with 1.1.3 so I removed it and now the game works fine (this is weird because the mod worked fine before I reinstalled KSP)
+EDIT 3: KSPRC Still doesn't work :( btw all my other mods worked fine except for KSPRC
+EDIT 4: The same problem just appeared again, this is getting really confusing really fast
+EDIT 5: When I launch the game from CKAN it runs fine, but when I launch it from my desktop shortcut (which launches the 64bit) It exhibits the problem, before you ask what kind of processor my i7 is, I know that it's 64 bit and I've played 64 bit ksp on it before",2016-09-21 00:07:03+00:00,d7vclhz,1.0,t3_532mfd,374515.0,KerbalSpaceProgram
+16,Its amazing that the surfaace three cant run minecraft but it can run elite dangerous and ksp in a fairly well condition,2016-09-20 23:11:40+00:00,d7vaez7,1.0,t3_53o402,25295.0,KerbalSpaceProgram
+17,There's always gonna be that group of people that still buy it,2016-09-09 05:42:49+00:00,d7fbadq,1.0,t3_51uqy1,16787.0,dankmemes
+18,Fak off m9,2016-08-22 13:59:44+00:00,d6rua1t,1.0,t3_4yxqs2,52205.0,dankmemes
+19,I have one,2016-08-14 15:37:57+00:00,d6h4t1a,1.0,t3_4xld4y,61669.0,dankmemes
+20,Not all heroes wear capes,2016-08-04 22:42:06+00:00,d64l6og,1.0,t3_4w6nhi,7532.0,dankmemes
+21,Can i bypass required updates to play online and use the eshop on 9.2 without using a cfw,2016-08-01 21:31:28+00:00,d605wie,1.0,t3_4vht59,104055.0,3dshacks
+22,Ayy Lmao,2016-07-14 21:02:24+00:00,d5cgzvb,1.0,t3_4ssiza,39337.0,dankmemes
+23,"Ok I just installed Luma3DS, will I be able to Install CIAs on my sysNAND? ",2016-07-11 14:28:39+00:00,d57vpt6,3.0,t1_d577xsh,53940.0,3dshacks
+24,I have the same problem,2016-07-10 23:28:24+00:00,d577w6z,2.0,t1_d577rw2,209.0,3dshacks
+25,"I have tried to install .cia files using NASA in the menuhax launcher, however the icons dont appear in my home menu, i have injected fbi however my h&amp;s app doesn't appear as well, all i see is a brief white icon that dissapears where the cias should be, I have rxtools cfw emunand and a 9.2 sysnand. Someone please help :|",2016-07-10 23:23:18+00:00,d577pvv,1.0,t3_4s1npy,102749.0,3dshacks
+26,How do I submit my old weekly challenges (I mean really old) I have the screenshots but I can't reply since the posts are archived,2016-06-28 15:40:20+00:00,d4rawun,1.0,t3_4pnmza,344149.0,KerbalSpaceProgram
+27,"heres the link for the entire system https://drive.google.com/file/d/0BzmwU87eabF7eVZBZHJJTGFKeE0/view?usp=sharing
+",2016-06-07 01:33:35+00:00,d3yvpar,,t1_d35j2uy,,spaceengine
+28,"This is a Picture from one of the moons, the parent planet is whats in the sky, the other circle is another moon
+P.S. Sorry for the long reply
+EDIT: The name of this moon is RS 0-8-3894334-2014-21-7-1946361-226 5.2",2016-06-07 01:25:41+00:00,d3yvdca,,t1_d35j2uy,,spaceengine
+29,Thank you sir!!! I restored my NAND Backup and now my h&amp;s is back!!! I owe my 9.2.0-20 3ds to you,2016-04-14 01:37:06+00:00,d220duf,9.0,t1_d21zgxl,1297.0,3dshacks
+30,"where would I find the hs.app file (i also have my NAND backup from before I did that) plus I used rxtools 2.5.2 to inject fbi so there is no option to inject other .app files as far as i know (feel free to prove me wrong)
+
+EDIT: I tried to launch gateway but when I go to my normal entrypoint (dukesrg.github.io) i'm returned to the home menu and given an error message
+
+EDIT 2: Lol I was using the wrong adress",2016-04-14 01:15:29+00:00,d21zgxl,8.0,t1_d21ymr8,1194.0,3dshacks
+31,How do I do that though (if there is a guide plz link) (sorry for noob questions),2016-04-14 00:38:05+00:00,d21xvgc,6.0,t1_d218pa8,33033.0,3dshacks
+32,I agree,2016-04-13 14:22:22+00:00,d215swd,2.0,t1_d20wuaj,23196.0,3dshacks
+33,how do I get it back on sysnand tho? (just the reg. h&amp;s app),2016-04-13 14:18:12+00:00,d215mjr,4.0,t1_d20svhn,34202.0,3dshacks
+34,I'm to the point where im considering paying $120 for cubic ninja and just updating :(,2016-04-13 04:34:03+00:00,d20sha9,2.0,t1_d20se05,190.0,3dshacks
+35,"My h&amp;s app has vanished!
+im running 6.1.0
+I had injected fbi into the h&amp;s prior but when I tried to install sysupdate it gave me a database error
+I then proceded to make the dbs file and put the title and import .db's in the folder.
+When I went into the settings it gave me the corrupted database as expected however when i tried to open fbi by accessing the h&amp;s it instead of popping up with the 3ds logo it just gave me a blackscreen then I was returned to the menu and told there was an error and to restart my 3ds. 
+I got frustrated and decided to format to start over, when I finished the setup and was taken to the home menu the h&amp;s app was missing...",2016-04-13 04:30:53+00:00,d20se05,1.0,t3_4eh6sy,39334.0,3dshacks
+36,"I'm Using Windows 10 Home however I will be upgrading to pro soon
+Also quick question, when does 1.1 come out?",2016-02-28 20:50:07+00:00,d0h8i01,4.0,t1_d0h82uv,703.0,KerbalSpaceProgram
+37,"I have AFBW installed already on my machine as I was trying to use my xbox 360 controller, however the joystick doesn't appear in the menus",2016-02-28 20:26:50+00:00,d0h7qvt,2.0,t1_d0h54o6,4178.0,KerbalSpaceProgram
+38,What's The Best Joystick To use with ksp,2016-02-20 23:15:24+00:00,d07inf0,1.0,t3_46lag9,112393.0,KerbalSpaceProgram
+39,You should include a chart with reccomended delta-v values for certain tasks eg.encounter with jool,2016-02-18 18:18:26+00:00,d04rvph,1.0,t3_4695bs,96576.0,KerbalSpaceProgram
+40,"Include Geosyncronous orbits for the planets and moons, they can be found easily on the kerbal wiki",2016-02-18 18:17:06+00:00,d04rtdl,1.0,t3_4695bs,96496.0,KerbalSpaceProgram
+41,What's the coordinates of the highest point on gilly?,2016-02-06 00:13:32+00:00,czpguh1,1.0,t3_44bfki,29480.0,KerbalSpaceProgram
+42,We should do a challenge where we have to yo-yo ourselves 3 times around minmus and the mun using free return trajectories,2016-01-24 19:49:05+00:00,czaan5b,3.0,t1_cza95zd,2405.0,KerbalSpaceProgram
+43,Can I switch the fuel tank setup to just liquidfuel?,2016-01-24 19:04:59+00:00,cza90nf,1.0,t3_42foxh,23958.0,KerbalSpaceProgram
+44,"i have the same problem as car king
+",2015-09-22 03:16:47+00:00,cv9tfro,1.0,t3_3fc8px,4513633.0,SRmod

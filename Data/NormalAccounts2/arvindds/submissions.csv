@@ -1,0 +1,159 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-09-24 11:00:15+00:00,self.windowsphone,https://www.reddit.com/r/windowsphone/comments/549ohr/cannot_hardreset_windows_phone/,False,"Has anybody faced this problem that WP says: 'Cannot reset phone now. Try again later'. I tried restarting the phone and tried again - same result. Tried hard-reset via hard buttons: Volume down, power, etc. as mentioned in Ms site - does not work (even the large exclamation mentioned in the site shuts not come). The phone is Lumia 535.",windowsphone,Cannot hard-reset Windows Phone,https://www.reddit.com/r/windowsphone/comments/549ohr/cannot_hardreset_windows_phone/
+1,2016-08-11 16:12:20+00:00,self.windowsphone,https://www.reddit.com/r/windowsphone/comments/4x8s5l/hike_messenger_feeling_letdown/,False,"Is there anybody here feeling as let-down as me because Hike is never updated in Windows Phone as it is in Android or iOS? Their website says that Hike is in version 4 now, while we Windows Phone users have never crossed 3.5.x! I remember, when this 3.5.x was released to us, it was also way later than in other platforms! Seriously! I moved to Hike along with so many friends, and I always feel that they have super features such as hike-direct, etc. which we don't have. I remember an announcement for testing Hike beta on Windows Phone sometime end of last year, and I even had send a mail to the mail id that was in the announcement agreeing to be a tester, but never got a response, not was the link to the site accessible (this was also announced on Reddit). Hike is good, but not for Windows Phone, I guess :-(",windowsphone,Hike messenger: feeling let-down,https://www.reddit.com/r/windowsphone/comments/4x8s5l/hike_messenger_feeling_letdown/
+2,2016-08-06 16:52:18+00:00,self.windowsphone,https://www.reddit.com/r/windowsphone/comments/4wgnbk/hike_messenger_on_windows/,False,[removed],windowsphone,Hike messenger on Windows,https://www.reddit.com/r/windowsphone/comments/4wgnbk/hike_messenger_on_windows/
+3,2016-02-02 23:53:26+00:00,wmpoweruser.com,https://www.reddit.com/r/microsoft/comments/43x24z/microsoft_buys_swiftkey_predictive_keyboard_for/,False,,microsoft,Microsoft buys Swiftkey predictive keyboard for $250 million,http://wmpoweruser.com/microsoft-buys-swiftkey-predictive-keyboard-for-250-million/
+4,2016-02-02 11:01:59+00:00,zdnet.com,https://www.reddit.com/r/microsoft/comments/43tr9v/dockers_unikernel_acquisition_the_microsoft_angle/,False,,microsoft,Docker's unikernel acquisition: The Microsoft angle,http://www.zdnet.com/article/dockers-unikernel-acquisition-the-microsoft-angle/#ftag=RSSbaffb68
+5,2016-02-01 00:41:04+00:00,self.Windows10,https://www.reddit.com/r/Windows10/comments/43lwcp/crashing_xaml_designer_new_pc_fresh_os_freshly/,False,"Hello all,
+Although I know cross-posting is not generally a good idea, I am still doing it because I see there are more eyes here than on /r/windowsdev... Also, since some of the posts in the internet actually point to missing libraries / reinstallation of OS itself, thought of checking here...
+
+Turning here for some help, because my post at the official MSDN site is not getting any replies.
+
+I am basically new to windows programming itself, and so have no experience with .NET or C#. I recently bought a .NET book (C# 6.0 and the .NET 4.6 Framework by Andrew Troelsen and Philip Japikse), a Lenovo Yoga 500 laptop, upgraded to Windows 10, and installed VS Community 2015 to learn Windows programming with C# as I read along the book.
+
+As luck would have it, my first experience is very bad, and the XAML designer crashes as soon as I created my first HelloWorld project. The original stack was something to do with RemotingException (which is when I turned to MSDN forum, and [put in that stack trace there](http://https://social.msdn.microsoft.com/Forums/vstudio/en-US/17d1d563-25e9-4d4e-a852-a116c73d170d/xaml-designer-crashes-with-remotingexception?forum=visualstudiogeneral)). This problem got self-healed (surprisingly) and the current trace is this:
+
+
+     System.NullReferenceException
+    Object reference not set to an instance of an object.
+
+    Server stack trace: 
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.RemoteIsolationContext.
+    &lt;&gt;c__DisplayClass14_0.
+        &lt;Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.IRemoteContext.CreateInstance&gt;b__0()
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.
+            &lt;&gt;c__DisplayClass47_0`1.
+                &lt;MarshalIn&gt;b__0()
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.Call.InvokeWorker()
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.Call.Invoke(Boolean waitingInExternalCall)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.InvokeCall(Call call)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.DirectInvoke(Boolean inbound, Action action, Int32 sourceApartmentId, Int32 targetApartmentId, Int32 originId, WaitHandle aborted)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.DirectInvokeInbound(Action action, Int32 targetApartmentId)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.MarshalIn(Action action, Int32 targetApartmentId, CancellationToken cancelToken, CallSynchronizationMode syncMode, CallModality callModality, String methodName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.MarshalIn(IRemoteObject targetObject, Action action, CallSynchronizationMode syncMode, CallModality callModality, ApartmentState apartmentState, String memberName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.MarshalIn[TResult](IRemoteObject targetObject, Func`1 func, CallModality callModality, ApartmentState apartmentState, String memberName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.RemoteIsolationContext.Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.IRemoteContext.CreateInstance(String assemblyName, String assemblyCodeBase, String typeName)
+       at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]&amp; outArgs)
+       at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+    Exception rethrown at [0]: 
+       at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+       at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.IRemoteContext.CreateInstance(String assemblyName, String assemblyCodeBase, String typeName)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.
+                    &lt;&gt;c__DisplayClass38_0`1.
+                        &lt;CreateInstance&gt;b__0(IRemoteContext c)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.
+                            &lt;&gt;c__DisplayClass31_0`2.
+                                &lt;MarshalOut&gt;b__0()
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.Call.InvokeWorker()
+
+    System.NullReferenceException
+    Object reference not set to an instance of an object.
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.WaitForCompletion(NestedCallContext nestedCallContext, BlockingCall call, WaitHandle timeoutSignal)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.MarshalOutSynchronous(Action action, Int32 targetApartmentId, WaitHandle aborted, WaitHandle timeoutSignal, CancellationToken cancelToken, String methodName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.MarshalOut(Action action, Int32 targetApartmentId, WaitHandle aborted, CancellationToken cancelToken, CallSynchronizationMode syncMode, WaitHandle timeoutSignal, String methodName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.MarshalOut[TValue](RemoteHandle`1 targetObject, Action action, CallSynchronizationMode syncMode, ApartmentState apartmentState, String methodName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.MarshalOut[TResult,TValue](RemoteHandle`1 targetObject, Func`2 func, CallSynchronizationMode syncMode, ApartmentState apartmentState, String methodName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.CreateInstance[T](Type type)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.IsolatedObjectFactory.Initialize()
+       at Microsoft.VisualStudio.DesignTools.DesignerHost.Services.VSIsolationService.CreateObjectFactory(IIsolationTarget isolationTarget, IObjectCatalog catalog)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.IsolationService.CreateLease(IIsolationTarget isolationTarget)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.IsolationService.CreateLease(IIsolationTarget isolationTarget)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.IsolatedDesignerService.CreateLease(IIsolationTarget isolationTarget, CancellationToken cancelToken, DesignerServiceEntry&amp; entry, IServiceProvider serviceOverrides)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.IsolatedDesignerService.IsolatedDesignerView.CreateDesignerViewInfo(CancellationToken cancelToken)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.IsolatedTaskScheduler.InvokeWithCulture[T](CultureInfo culture, Func`2 func, CancellationToken cancelToken)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.IsolatedTaskScheduler.
+                                    &lt;&gt;c__DisplayClass10_0`1.
+                                        &lt;StartTask&gt;b__0()
+       at System.Threading.Tasks.Task`1.InnerInvoke()
+       at System.Threading.Tasks.Task.Execute()
+
+Now, I have tried so many things already, and at loss to know what to do next. These are somethings I tried out with no good results:
+
+* Deleted the shadow cache and retried all over again ( creating a fresh project and opening XAML file)
+
+* Re-installed VS15 again
+
+Results were the same. On checking out similar issues on the net, many talk about a particular environment variable (platform) to be removed in HP machines - since mine is Lenovo, I do not have any such env variable.
+
+Can somebody help me? I really want to learn Windows Programming, and fascinated by UWP app concept, but just not taking off from my first step!
+
+Thanks in advance!",Windows10,"Crashing XAML designer, new pc, fresh OS, freshly installed VS Community 2015",https://www.reddit.com/r/Windows10/comments/43lwcp/crashing_xaml_designer_new_pc_fresh_os_freshly/
+6,2016-01-31 16:14:28+00:00,self.windowsdev,https://www.reddit.com/r/windowsdev/comments/43jm2k/crashing_xaml_designer_new_pc_fresh_os_freshly/,False,"Hello all,
+Turning here for some help, because my post at the official MSDN site is not getting any replies.
+
+I am basically new to windows programming itself, and so have no experience with .NET or C#. I recently bought a .NET book (C# 6.0 and the .NET 4.6 Framework by Andrew Troelsen and Philip Japikse), a Lenovo Yoga 500 laptop, upgraded to Windows 10, and installed VS Community 2015 to learn Windows programming with C# as I read along the book.
+
+As luck would have it, my first experience is very bad, and the XAML designer crashes as soon as I created my first HelloWorld project. The original stack was something to do with RemotingException (which is when I turned to MSDN forum, and [put in that stack trace there](http://https://social.msdn.microsoft.com/Forums/vstudio/en-US/17d1d563-25e9-4d4e-a852-a116c73d170d/xaml-designer-crashes-with-remotingexception?forum=visualstudiogeneral)). This problem got self-healed (surprisingly) and the current trace is this:
+
+
+     System.NullReferenceException
+    Object reference not set to an instance of an object.
+
+    Server stack trace: 
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.RemoteIsolationContext.
+    &lt;&gt;c__DisplayClass14_0.
+        &lt;Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.IRemoteContext.CreateInstance&gt;b__0()
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.
+            &lt;&gt;c__DisplayClass47_0`1.
+                &lt;MarshalIn&gt;b__0()
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.Call.InvokeWorker()
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.Call.Invoke(Boolean waitingInExternalCall)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.InvokeCall(Call call)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.DirectInvoke(Boolean inbound, Action action, Int32 sourceApartmentId, Int32 targetApartmentId, Int32 originId, WaitHandle aborted)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.DirectInvokeInbound(Action action, Int32 targetApartmentId)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.MarshalIn(Action action, Int32 targetApartmentId, CancellationToken cancelToken, CallSynchronizationMode syncMode, CallModality callModality, String methodName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.MarshalIn(IRemoteObject targetObject, Action action, CallSynchronizationMode syncMode, CallModality callModality, ApartmentState apartmentState, String memberName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.MarshalIn[TResult](IRemoteObject targetObject, Func`1 func, CallModality callModality, ApartmentState apartmentState, String memberName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.RemoteIsolationContext.Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.IRemoteContext.CreateInstance(String assemblyName, String assemblyCodeBase, String typeName)
+       at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]&amp; outArgs)
+       at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+    Exception rethrown at [0]: 
+       at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+       at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.IRemoteContext.CreateInstance(String assemblyName, String assemblyCodeBase, String typeName)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.
+                    &lt;&gt;c__DisplayClass38_0`1.
+                        &lt;CreateInstance&gt;b__0(IRemoteContext c)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.
+                            &lt;&gt;c__DisplayClass31_0`2.
+                                &lt;MarshalOut&gt;b__0()
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.Call.InvokeWorker()
+
+    System.NullReferenceException
+    Object reference not set to an instance of an object.
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.WaitForCompletion(NestedCallContext nestedCallContext, BlockingCall call, WaitHandle timeoutSignal)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.MarshalOutSynchronous(Action action, Int32 targetApartmentId, WaitHandle aborted, WaitHandle timeoutSignal, CancellationToken cancelToken, String methodName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.STAMarshaler.MarshalOut(Action action, Int32 targetApartmentId, WaitHandle aborted, CancellationToken cancelToken, CallSynchronizationMode syncMode, WaitHandle timeoutSignal, String methodName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.MarshalOut[TValue](RemoteHandle`1 targetObject, Action action, CallSynchronizationMode syncMode, ApartmentState apartmentState, String methodName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Remoting.ThreadMarshaler.MarshalOut[TResult,TValue](RemoteHandle`1 targetObject, Func`2 func, CallSynchronizationMode syncMode, ApartmentState apartmentState, String methodName, String filePath, Int32 lineNumber)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.Primitives.IsolationBoundary.CreateInstance[T](Type type)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.IsolatedObjectFactory.Initialize()
+       at Microsoft.VisualStudio.DesignTools.DesignerHost.Services.VSIsolationService.CreateObjectFactory(IIsolationTarget isolationTarget, IObjectCatalog catalog)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.IsolationService.CreateLease(IIsolationTarget isolationTarget)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.IsolationService.CreateLease(IIsolationTarget isolationTarget)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.IsolatedDesignerService.CreateLease(IIsolationTarget isolationTarget, CancellationToken cancelToken, DesignerServiceEntry&amp; entry, IServiceProvider serviceOverrides)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.IsolatedDesignerService.IsolatedDesignerView.CreateDesignerViewInfo(CancellationToken cancelToken)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.IsolatedTaskScheduler.InvokeWithCulture[T](CultureInfo culture, Func`2 func, CancellationToken cancelToken)
+       at Microsoft.VisualStudio.DesignTools.DesignerContract.Isolation.IsolatedTaskScheduler.
+                                    &lt;&gt;c__DisplayClass10_0`1.
+                                        &lt;StartTask&gt;b__0()
+       at System.Threading.Tasks.Task`1.InnerInvoke()
+       at System.Threading.Tasks.Task.Execute()
+
+Now, I have tried so many things already, and at loss to know what to do next. These are somethings I tried out with no good results:
+
+* Deleted the shadow cache and retried all over again ( creating a fresh project and opening XAML file)
+
+* Re-installed VS15 again
+
+Results were the same. On checking out similar issues on the net, many talk about a particular environment variable (platform) to be removed in HP machines - since mine is Lenovo, I do not have any such env variable.
+
+Can somebody help me? I really want to learn Windows Programming, and fascinated by UWP app concept, but just not taking off from my first step!
+
+Thanks in advance!",windowsdev,"Crashing XAML designer, new pc, fresh OS, freshly installed VS Community 2015",https://www.reddit.com/r/windowsdev/comments/43jm2k/crashing_xaml_designer_new_pc_fresh_os_freshly/
+7,2015-12-13 11:32:59+00:00,self.Windows10,https://www.reddit.com/r/Windows10/comments/3wmzev/ccx_or_c/,False,"I am coming in from the Linux world, and am pretty much interested in the UWP Apps. When I read through the ""getting started"" guides, I see that there are multiple languages-combinations that I can choose to start with, based on what I already know. From the language-combinations that are mentioned, C++ (without any extensions) is the closest that I am comfortable with, but a quick look into C# (and .NET concepts) say that it is not very difficult to learn for somebody who already knows C++. Concept of ""managed"" is of course new, but not too difficult to start learning.
+
+My question then is this: I am sure there are developers here who are quite experienced, and have a good idea of what is the best to start learning. I think, atleast from the documentation, that each of the language combinations sooner or later hit a constraint - for example, creation of ""Components"" is possible not with JavaScript/HTML5 combination (correct?). Since I am anyway at the starting point, I would like to start with something that with which I can develop a broader range of applications / cross-device components.",Windows10,C++/CX or C#?,https://www.reddit.com/r/Windows10/comments/3wmzev/ccx_or_c/

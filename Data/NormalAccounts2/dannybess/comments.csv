@@ -1,0 +1,61 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,CA,2016-07-24 06:07:13+00:00,d5ohfb0,5,t1_d5ohe88,80,pokemongodev
+1,Could you recommend a good place to farm? ,2016-07-24 06:03:49+00:00,d5ohcit,3,t1_d5ohbq8,57,pokemongodev
+2,"/u/RedAndNegroTrees
+Nice work! Upon testing, some issues I am noticing - 
+1.) ERROR - No fort to walk to.
+2.) Sometimes keeps walking to same fort over and over (infinite loop). ",2016-07-24 05:41:15+00:00,d5ogt9x,1,t3_4ubwh0,749,pokemongodev
+3,"Or manually setting bounds through call? 
+/u/skiplagged",2016-07-22 18:37:27+00:00,d5molpw,5,t1_d5mof15,228,pokemongodev
+4,"Does passing in location to call not work?
+(curl http://skiplagged.com/api/pokemon.php?address=____)?
+",2016-07-22 18:33:39+00:00,d5mof15,4,t1_d5mo9t2,183,pokemongodev
+5,Seems like it only works in Central Park? ,2016-07-22 18:29:01+00:00,d5mo71x,2,t1_d5mnguz,904,pokemongodev
+6,The password box not being a password field is an oversight by me. It will be fixed in the update. ,2016-07-21 20:29:47+00:00,d5lfsth,4,t1_d5l9m3k,7980,pokemongodev
+7,"No, we are relying on the user creating a PTC account to access the niantic maps. The account can be fake; everyone sees the same map. ",2016-07-21 18:04:21+00:00,d5l90bo,2,t1_d5kwzic,16280,pokemongodev
+8,We are working on a fix. ,2016-07-21 18:02:49+00:00,d5l8xm7,2,t1_d5l8d7y,687,pokemongodev
+9,Wrong map :),2016-07-21 18:02:23+00:00,d5l8wvh,2,t1_d5l8ljc,381,pokemongodev
+10,Ads are now removed. ,2016-07-21 16:05:20+00:00,d5l3c62,5,t1_d5ktpxb,16061,pokemongodev
+11,"Not in this version. However, keep reloading the page. HTML should reload your location accordingly. ",2016-07-21 07:10:20+00:00,d5korp5,2,t1_d5kor6g,42,pokemongodev
+12,Servers should now be back up,2016-07-21 07:01:02+00:00,d5kokow,4,t1_d5koil1,162,pokemongodev
+13,Niantic cracking down on accounts. Working on it. ,2016-07-21 06:30:58+00:00,d5knx04,2,t1_d5knwj1,35,pokemongodev
+14,"Any minute now, just testing some stuff out. ",2016-07-21 06:25:58+00:00,d5knt0m,2,t1_d5knroi,102,pokemongodev
+15,Working on an update right now. Niantic started cracking down on accounts so I have to do some magic :) ,2016-07-21 05:58:47+00:00,d5kn5rl,8,t1_d5kkqfq,5232,pokemongodev
+16,"Yes, but I am still working on the update. You will only need to login once. ",2016-07-21 05:56:38+00:00,d5kn3vg,2,t1_d5kn1ny,151,pokemongodev
+17,You can move the avatar if you use mock locations in Chrome (non-mobile) or Android.,2016-07-21 03:25:17+00:00,d5kijdk,2,t1_d5ki9xp,442,pokemongodev
+18,"Yes, move physically and reload the map. Unfortunately, we have not implemented fake movement (to not get banned). If this works for you, please upvote!",2016-07-21 03:09:55+00:00,d5khyze,14,t1_d5khwzc,87,pokemongodev
+19,That is extremley wierd... Also using Opera? I have no issues running Chrome and Safari. ,2016-07-21 03:08:41+00:00,d5khxai,4,t1_d5khvew,81,pokemongodev
+20,Map reloads every 30 seconds. ,2016-07-21 03:07:43+00:00,d5khvyg,12,t1_d5khuav,70,pokemongodev
+21,"Hey, sorry. Not sure of our Opera comptaibility.... Is the website not loading? ",2016-07-21 03:04:04+00:00,d5khqt3,4,t1_d5khoa7,108,pokemongodev
+22,That means there are no pokemon within a 200m radius of you. ,2016-07-21 03:03:31+00:00,d5khq2g,10,t1_d5kho03,87,pokemongodev
+23,"No :) Some pokemon on the app may be more than 200m away from you. The way our map works, we only scan for pokemon in a 200m radius, as this is the only way to keep things lightning fast. ",2016-07-21 02:59:39+00:00,d5khkn0,2,t1_d5khikw,88,pokemongodev
+24,"Has the Pokemon despawned? Another possible solution might be to reload the page a couple of times - sometimes HTML5 passes a slightly messed up location. If none of this works, feel free to PM me and we can figure this out :)",2016-07-21 02:58:42+00:00,d5khjco,2,t1_d5khgb5,126,pokemongodev
+25,Set one up. Thanks for the idea :),2016-07-21 02:56:47+00:00,d5khgm3,8,t1_d5kfxa7,2368,pokemongodev
+26,"Is there some kind of error, etc;? ",2016-07-21 02:55:21+00:00,d5khel1,8,t1_d5khc1h,114,pokemongodev
+27,What doesn't work for you? ,2016-07-21 02:50:03+00:00,d5kh7a3,2,t1_d5kh5oc,67,pokemongodev
+28,"Try to enable location services. If this does not work for you, please PM me with the details of your browser, etc;. I will try to help out!",2016-07-21 02:49:37+00:00,d5kh6o3,6,t1_d5kh2yw,160,pokemongodev
+29,No problem! Please upvote if you like it!,2016-07-21 02:48:53+00:00,d5kh5lm,4,t1_d5kh3si,79,pokemongodev
+30,Yes.,2016-07-21 02:45:38+00:00,d5kh145,4,t1_d5kgwp4,192,pokemongodev
+31,Safari or Chrome? It might be that you have location services disabled. ,2016-07-21 02:41:41+00:00,d5kgvn1,2,t1_d5kgszy,117,pokemongodev
+32,"It looks like they banned our account? Either way should work now.
+",2016-07-21 02:34:25+00:00,d5kglgn,2,t1_d5kgc57,400,pokemongodev
+33,It looks like they banned our account? Either way should work now. ,2016-07-21 02:33:53+00:00,d5kgkpu,2,t1_d5kggti,168,pokemongodev
+34,Reload. This is a problem with HTML's navigator function.,2016-07-21 02:33:28+00:00,d5kgk50,4,t1_d5kgdwp,268,pokemongodev
+35,Trying to reproduce. Will push a fix soon. ,2016-07-21 02:29:48+00:00,d5kgf1p,6,t1_d5kg7wu,304,pokemongodev
+36,"P-Go generates exact location for Pokemon 200m around you. To get pokemon outside of 200m, we would have to search outside cells (which gets slower and slower). ",2016-07-21 02:24:38+00:00,d5kg7re,4,t1_d5kg405,154,pokemongodev
+37,Thank you!,2016-07-21 02:21:18+00:00,d5kg2wl,2,t1_d5kfutt,341,pokemongodev
+38,"The pokemon simply may have despawned. Also, other maps may be searching outside of your current cell. We have disabled this feature in favor of speed.",2016-07-21 02:19:25+00:00,d5kg08d,4,t1_d5kfteg,288,pokemongodev
+39,"The pokemon may have despawned. If there are constantly pokemon around you, come back to the website and try again in a couple minutes. ",2016-07-21 02:15:14+00:00,d5kfuac,6,t1_d5kf85h,938,pokemongodev
+40,"Zoom in for a more accurate location. To prevent bans from Niantic, we have disabled searching by moving map. ",2016-07-21 02:08:43+00:00,d5kfl9g,2,t1_d5kf05z,859,pokemongodev
+41,"This shows Pokemon within 200 meters of you. If there are pokemon close by on the app, try reloading (HTML might be passing the wrong location). ",2016-07-21 01:56:02+00:00,d5kf2pv,2,t1_d5keooo,557,pokemongodev
+42,Only nearby (meaning anything within 200m radius will not show up). Only way to keep performance / load on niantic balanced :) ,2016-07-21 01:47:01+00:00,d5kep30,4,t1_d5keo6m,37,pokemongodev
+43,I had to modify the API request a little bit. Adding dynos will only help with load balancing.  ,2016-07-21 01:40:09+00:00,d5kef88,2,t1_d5kedb1,80,pokemongodev
+44,"If you like it, feel free to share with your friends!",2016-07-21 01:28:06+00:00,d5kdy3n,2,t1_d5kdv2t,127,pokemongodev
+45,"What's the difference between:
+1.) Within one step of .....
+vs.
+2.) ___ is visible at ___.
+Sometimes, only the 'Within one step of...' shows up. Is this because those pokemon don't have an exact location?
+Thanks for the help! ",2016-07-17 08:02:53+00:00,d5ffxb3,1,t3_4t3lgh,88348,pokemongodev
+46,The Damn Daniel Button! Hella sick!,2016-02-28 16:59:15+00:00,d0h01ct,1,t3_483dh5,3589,AskReddit
+47,Is the link still hehestreams.tk? I am getting a: Website is offline | 502. ,2016-02-06 21:01:41+00:00,czqc0gp,1,t3_44d443,82978,nbastreams

@@ -1,0 +1,91 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Kapò (1960)
+kind of old, I know.... would be glad if somebody found it though
+",2016-10-04 12:33:12+00:00,d8dfnxv,1.0,t3_55h10v,198312.0,megalinks
+1,"Do write more, please!",2016-09-15 10:05:35+00:00,d7nma8g,2.0,t1_d7mvt7d,49549.0,WritingPrompts
+2,Can I have one too?,2016-09-01 21:08:26+00:00,d75x5uv,1.0,t3_50lktw,58459.0,RandomActsofCards
+3,snes please,2016-09-01 20:40:02+00:00,d75vwfa,4.0,t1_d74gayl,88660.0,MegaGames
+4,emulators for PC,2016-08-31 16:46:02+00:00,d746r1a,2.0,t1_d746mp5,152.0,MegaGames
+5,"the x axis doesnt move at all when I hit home, while the y and z stop after hitting the endstops. Also, when homing the z-axis, the motors seem to need a nudge to start moving (this problem doesnt not occur when not using the ""home"" function)
+
+edit: added details about z axis",2016-08-27 19:27:40+00:00,d6z4198,2.0,t1_d6z3j05,833.0,Reprap
+6,like a wire backwards on the endstop?,2016-08-27 17:17:22+00:00,d6yz54q,2.0,t1_d6yxu6w,2120.0,Reprap
+7,"wait, I'll clear stuff out before a bit ",2016-08-25 14:12:31+00:00,d6w2rgz,10.0,t1_d6w1rud,1449.0,3Dprinting
+8,the hot end one..... I already connected it to D9 on the RAMPS 1.4 board.,2016-08-25 12:32:26+00:00,d6vz4it,8.0,t1_d6vwqd0,6038.0,3Dprinting
+9,"checked this morning, the PSU did reset... I redid the wiring, not it seems fine and everything is working.... but the fan attached near the hot end does not run when extruding.",2016-08-25 07:14:38+00:00,d6vsw5u,6.0,t1_d6to1jo,128289.0,3Dprinting
+10,"pretty much have the same agenda. help!
+",2016-08-25 06:18:12+00:00,d6vro0b,1.0,t3_4zh3pw,930.0,germany
+11,"ok, if the 10 minute thing doesnt work, please tell me what to do",2016-08-23 19:30:43+00:00,d6tnrd2,4.0,t1_d6tfr7c,9754.0,3Dprinting
+12,a new one then?,2016-08-23 16:11:16+00:00,d6tdyqz,2.0,t1_d6tdjm6,542.0,3Dprinting
+13,just the thing! TY!,2016-08-21 18:50:38+00:00,d6qvb2g,5.0,t1_d6quxzz,543.0,MechanicalEngineering
+14,want to elaborate on the process please?,2016-08-21 17:22:22+00:00,d6qrtih,3.0,t1_d6qpa25,3938.0,MechanicalEngineering
+15,"so, I play around with com ports? 
+I did check the com ports from the device manager and set arduino to the correct port already, do I have to change any port settings in the file too?",2016-08-17 20:36:06+00:00,d6lo6or,10.0,t1_d6lnyk9,267.0,3Dprinting
+16,"I tried evening out the kinks with my file and verified it. But, when I was uploading it, I stumbled upon a new error: 
+Arduino: 1.6.10 (Windows 10), Board: ""Arduino/Genuino Mega or Mega 2560, ATmega2560 (Mega 2560)""
+
+""Sketch uses 50,074 bytes (19%) of program storage space. Maximum is 253,952 bytes.
+Global variables use 2,709 bytes (33%) of dynamic memory, leaving 5,483 bytes for local variables. Maximum is 8,192 bytes.
+An error occurred while uploading the sketch
+
+This report would have more information with
+""Show verbose output during compilation""
+option enabled in File -&gt; Preferences.""
+
+help with this?
+",2016-08-17 20:24:59+00:00,d6lnmkv,8.0,t1_d6lab5o,15407.0,3Dprinting
+17,think you can send me your copy of marlin? ,2016-08-17 05:00:48+00:00,d6kraz2,6.0,t1_d6kfrrn,18507.0,3Dprinting
+18,"here is what it looks like:
+#ifndef MOTHERBOARD 
+  #define BOARD_RAMPS_13_EFB      
+#endif",2016-08-16 23:40:36+00:00,d6kfal3,4.0,t1_d6k80x2,10196.0,3Dprinting
+19,would you like to have a look at the file? I could send it to you,2016-08-16 23:38:25+00:00,d6kf7gl,4.0,t1_d6k80x2,10065.0,3Dprinting
+20,"that was just when I was taking the screenshot..... deleted the s and tried to compile again, same error though
+",2016-08-16 19:42:57+00:00,d6k4sdz,2.0,t1_d6k4mdq,208.0,3Dprinting
+21,Any one has CATIA V5R18?,2016-08-11 20:05:08+00:00,d6doyuw,1.0,t3_4w8iyz,577146.0,megalinks
+22,"Can anyone please do ""Kerbal Space Program"" if possible!",2016-08-10 12:02:48+00:00,d6bosb6,1.0,t3_4w8iyz,461806.0,megalinks
+23,[Saitama level fitness guaranteed!](https://s-media-cache-ak0.pinimg.com/736x/8e/84/c3/8e84c3e1fbfa6f32540c8e478d394cda.jpg),2016-06-27 17:15:49+00:00,d4q2d5y,1.0,t3_4q2uag,21296.0,india
+24,Seventhed,2016-06-18 14:52:14+00:00,d4ebj50,1.0,t3_4obsi0,206760.0,megalinks
+25,"So fine meshing near the joints, and coarser in the simpler sections.... got it!
+",2016-06-16 15:07:07+00:00,d4bnmyh,4.0,t1_d4bitvr,6807.0,cad
+26,thanks mate! ,2016-06-16 12:44:11+00:00,d4bhv95,2.0,t1_d4bgs61,2268.0,cad
+27,Mr. Robot reminded me of FightClub quiet a lot!,2016-06-13 04:30:57+00:00,d46xfg0,3.0,t1_d46vcm7,3682.0,india
+28,"was on an anime only diet this week :
+* Cowboy Bebop
+* FMA:Brotherhood
+* Naruto Kai
+* Sakamotu Desu Ga
+* Steins;Gate
+* One Punch Man
+* All the specials from Attack on Titan
+ 
+* P.S. I did watch the 1st seasons of Mr. Robot and Daredevil (I know they've ben out for some time, I guess I'm a late bloomer :P)",2016-06-12 16:31:08+00:00,d464feb,1.0,t3_4npuln,18789.0,india
+29,"I guess..... it introduces the equation first, tells how it is used, how it was developed, neat anecdotes about it, its applications.
+
+I like the book and I'm not even that big a mathematics fan!",2016-06-12 03:07:25+00:00,d45lmmq,2.0,t1_d45dyis,14766.0,books
+30,These are the kind of books that blow my mind.... Will sure give this book a read too!! ^_^,2016-06-11 17:04:32+00:00,d451b1a,2.0,t1_d4518id,111.0,books
+31,"What about his economic views. I've seen/read quiet a few reports on how his reforms may topple the american economy again. I imagine that would affect the world economy too, India included.",2016-06-11 17:03:20+00:00,d4519fm,2.0,t1_d450uys,628.0,india
+32,"Your points, yes. But you can't take out of picture the overwhelming support he has managed to generate for himself. Some(read:a huge number of) americans actually do believe that immigrants are stealing their job and that Trump is going to save them by building a wall
+
+Considering, he has captured the imagination a great number of voting americans with his flair of moving speeches and radical promises (no matter how outlandish they may seem)..... I'd say I do fancy him winning. Besides, I don't think the other candidates have been able to make a splash(?) as of yet.",2016-06-11 17:00:44+00:00,d4515ur,2.0,t1_d450fn6,1150.0,india
+33,"well, didn't know that :|
+I'll read-up more the next time I post something. 
+But it does have a certain charm to it (if it were true), don't you think?",2016-06-11 16:45:23+00:00,d450krr,2.0,t1_d4504lc,722.0,todayilearned
+34,I've heard of this book too.... maybe we can exchange books after I'm done with this? ^_^,2016-06-11 16:42:38+00:00,d450h2o,2.0,t1_d44zkux,1474.0,books
+35,maybe the concentration differences lead to the diferent structures?,2016-06-11 14:46:29+00:00,d44wh7q,2.0,t1_d44w62n,610.0,todayilearned
+36,the printer is at my school... will get the setting information by tomorrow,2016-06-11 13:57:09+00:00,d44v2uh,2.0,t1_d44uo3k,950.0,3Dprinting
+37,"Would've love to attend a meet up... too bad Chandigarh isnt going to be hosting one -_-""",2016-06-11 13:42:24+00:00,d44up2v,,t1_d3q6y2z,,india
+38,you've got a point over [there!](https://media.giphy.com/media/a5viI92PAF89q/giphy.gif),2016-06-10 19:00:07+00:00,d43zqv5,2.0,t1_d43z79x,707.0,AskReddit
+39,could you please elaborate on this.... this is something very new for me.,2016-06-10 14:56:49+00:00,d43otyy,6.0,t1_d43nm9a,1736.0,askscience
+40,"need help with the electronics, the heat bed and the extruder parts. I think I'm sorted with the mechanical parts though (motors, belts, pulleys and stuff)",2016-06-10 04:05:53+00:00,d439376,2.0,t1_d42ru2v,27383.0,3Dprinting
+41,this has been my phone's ring tone for soooo long... love it!!!,2016-06-09 03:26:29+00:00,d41uvj4,2.0,t1_d41ihk9,18885.0,AskReddit
+42,"Hey there!
+What is your favourite kind of humour?",2016-06-08 17:36:55+00:00,d4157iv,1.0,t3_4n5r3s,5762.0,IAmA
+43,"yes yes.... you should totally do that! :3
+also doom maybe? XD",2016-05-15 08:37:33+00:00,d3654hz,2.0,t1_d35xv0e,19574.0,MegaGames
+44,"you could say that again!! &gt;.&gt;
+this place is DULL!!",2016-04-15 13:51:36+00:00,d23yrew,5.0,t1_d22fz51,93785.0,india
+45,and here I am dreaming of myself eating different types of bread ;-;,2016-02-14 14:35:53+00:00,czzk4m1,8.0,t1_czyr0vn,67539.0,Showerthoughts
+46,"thanks man! ""All Quiet On The Western Front"" does sound interesting!! ^_^",2016-01-16 15:15:18+00:00,cz0f5da,3.0,t1_cz0c0sq,9081.0,books
+47,"hey, :3
+I'm looking to traverse into new territory..... all this time I'v been into fiction(fantasy, mystery, historical stuff). Can anyone suggest me something new I could try? Thanks.",2016-01-16 08:41:41+00:00,cz08nwm,1.0,t3_412c04,85139.0,books

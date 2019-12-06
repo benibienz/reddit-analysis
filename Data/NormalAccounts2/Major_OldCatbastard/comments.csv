@@ -1,0 +1,2419 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,Kitty.,2016-05-12 19:49:48+00:00,d333qtt,2.0,t1_d333ozz,65.0,kitty
+1,Kitty.,2016-05-12 19:48:30+00:00,d333oou,4.0,t1_d333mpt,71.0,kitty
+2,Kitty.,2016-05-12 19:48:23+00:00,d333oho,3.0,t1_d333ldz,111.0,kitty
+3,"
+
+Kitty.",2016-05-12 19:37:01+00:00,d3335fs,3.0,t1_d32kq88,26292.0,kitty
+4,Cat.,2016-05-12 04:58:37+00:00,d32c1v3,5.0,t1_d32bq3h,721.0,CatsStandingUp
+5,Kitty.,2016-05-12 03:51:58+00:00,d32a2y7,1.0,t3_4iyrkq,1831.0,kitty
+6,Kitty.,2016-05-12 03:51:33+00:00,d32a2fd,1.0,t3_4iybji,8445.0,kitty
+7,Kitty.,2016-05-12 03:51:11+00:00,d32a1zp,2.0,t1_d323f9u,10676.0,kitty
+8,Kitty.,2016-05-12 03:50:59+00:00,d32a1sd,2.0,t1_d3237vo,10959.0,kitty
+9,Kitty.,2016-05-12 03:50:48+00:00,d32a1l3,2.0,t1_d323537,11064.0,kitty
+10,Kitty.,2016-05-12 03:50:39+00:00,d32a1ds,1.0,t3_4iy4l9,11124.0,kitty
+11,Kitty.,2016-05-12 03:50:10+00:00,d32a0ss,2.0,t1_d322c12,12252.0,kitty
+12,Kitty.,2016-05-12 03:50:00+00:00,d32a0lk,2.0,t1_d3211lu,14226.0,kitty
+13,Kitty.,2016-05-12 03:49:46+00:00,d32a0b1,2.0,t1_d320zna,14298.0,kitty
+14,Kitty.,2016-05-12 03:49:32+00:00,d32a01q,1.0,t3_4ixw7i,14376.0,kitty
+15,Kitty.,2016-05-12 03:48:28+00:00,d329yrq,2.0,t1_d3230fj,11118.0,kitty
+16,Kitty.,2016-05-12 03:48:11+00:00,d329yg1,2.0,t1_d321000,14188.0,kitty
+17,Kitty.,2016-05-12 03:47:58+00:00,d329y78,2.0,t1_d320ylz,14235.0,kitty
+18,Cat.,2016-05-11 22:04:18+00:00,d31wpht,2.0,t1_d315z08,37563.0,CatsStandingUp
+19,Cat.,2016-05-11 22:03:52+00:00,d31wotw,1.0,t3_4iugij,38115.0,CatsStandingUp
+20,Cat.,2016-05-11 22:03:24+00:00,d31wo5d,3.0,t1_d31mmyf,12824.0,CatsStandingUp
+21,Cat.,2016-05-11 22:03:10+00:00,d31wnry,1.0,t3_4iugsj,37939.0,CatsStandingUp
+22,Cat.,2016-05-11 22:02:36+00:00,d31wmwd,3.0,t1_d31nhaq,11704.0,CatsStandingUp
+23,Cat.,2016-05-11 22:02:19+00:00,d31wmhf,4.0,t1_d31ngyn,11700.0,CatsStandingUp
+24,Cat.,2016-05-11 22:02:03+00:00,d31wm1n,2.0,t1_d319832,30652.0,CatsStandingUp
+25,Cat.,2016-05-11 22:01:51+00:00,d31wlqr,1.0,t3_4iuoyl,33942.0,CatsStandingUp
+26,Cat.,2016-05-11 22:01:27+00:00,d31wl45,3.0,t1_d31kqqy,15112.0,CatsStandingUp
+27,Cat.,2016-05-11 22:01:03+00:00,d31wkin,3.0,t1_d31n5qp,12021.0,CatsStandingUp
+28,Cat.,2016-05-11 22:00:38+00:00,d31wjuw,2.0,t1_d31vm2q,1308.0,CatsStandingUp
+29,Cat.,2016-05-11 22:00:29+00:00,d31wjlv,2.0,t1_d31vi00,1455.0,CatsStandingUp
+30,Cat.,2016-05-11 22:00:15+00:00,d31wj9b,2.0,t1_d31v0f9,2107.0,CatsStandingUp
+31,Cat.,2016-05-11 21:59:44+00:00,d31wigw,4.0,t1_d31mywl,12185.0,CatsStandingUp
+32,Cat.,2016-05-11 21:59:37+00:00,d31wia3,2.0,t1_d31jwaj,16058.0,CatsStandingUp
+33,Cat.,2016-05-11 21:59:28+00:00,d31wi1k,3.0,t1_d31mvbj,12296.0,CatsStandingUp
+34,Cat.,2016-05-11 21:59:20+00:00,d31whul,2.0,t1_d31kocz,15064.0,CatsStandingUp
+35,Cat.,2016-05-11 21:58:26+00:00,d31wgh6,2.0,t1_d31vyfd,701.0,CatsStandingUp
+36,Cat.,2016-05-11 21:58:04+00:00,d31wfxs,3.0,t1_d31vyqw,667.0,CatsStandingUp
+37,Cat.,2016-05-11 21:57:57+00:00,d31wfqm,2.0,t1_d31n2ui,11938.0,CatsStandingUp
+38,Cat.,2016-05-11 21:57:35+00:00,d31wf6y,1.0,t3_4iw62o,14718.0,CatsStandingUp
+39,Kitty.,2016-05-11 21:55:51+00:00,d31wchi,2.0,t1_d31pity,8721.0,kitty
+40,Kitty.,2016-05-11 21:55:32+00:00,d31wbyv,2.0,t1_d31p60u,9149.0,kitty
+41,Kitty.,2016-05-11 21:55:07+00:00,d31wbbs,1.0,t3_4iwnga,8728.0,kitty
+42,Cat.,2016-05-08 00:51:15+00:00,d2wxmq1,4.0,t1_d2wudn9,6116.0,CatsStandingUp
+43,Cat.,2016-05-08 00:50:53+00:00,d2wxmbu,8.0,t1_d2wu4or,6549.0,CatsStandingUp
+44,Cat.,2016-05-08 00:50:42+00:00,d2wxm3i,4.0,t1_d2wu4wx,6526.0,CatsStandingUp
+45,Cat.,2016-05-08 00:50:29+00:00,d2wxlvc,5.0,t1_d2wu84y,6348.0,CatsStandingUp
+46,Cat.,2016-05-08 00:50:08+00:00,d2wxlhc,6.0,t1_d2wrbfp,11684.0,CatsStandingUp
+47,Cat.,2016-05-07 21:32:27+00:00,d2wr7wp,2.0,t1_d2wqmjc,1078.0,CatsStandingUp
+48,Cat.,2016-05-07 21:31:25+00:00,d2wr6od,1.0,t3_4ibsnd,551.0,CatsStandingUp
+49,Cat.,2016-05-07 21:31:15+00:00,d2wr6hj,2.0,t1_d2wqyk4,399.0,CatsStandingUp
+50,Cat.,2016-05-07 21:30:40+00:00,d2wr5s4,1.0,t3_4ibtkw,93.0,CatsStandingUp
+51,Cat.,2016-05-07 21:09:18+00:00,d2wqges,3.0,t1_d2vnt45,85359.0,CatsStandingUp
+52,Cat.,2016-05-07 21:09:05+00:00,d2wqg5s,2.0,t1_d2vhpdp,93996.0,CatsStandingUp
+53,Cat.,2016-05-07 21:08:50+00:00,d2wqfv4,1.0,t3_4i6adn,97673.0,CatsStandingUp
+54,Cat.,2016-05-07 21:08:21+00:00,d2wqfbd,2.0,t1_d2vmp16,86957.0,CatsStandingUp
+55,Cat.,2016-05-07 21:07:53+00:00,d2wqerk,3.0,t1_d2vnuus,85202.0,CatsStandingUp
+56,Cat.,2016-05-07 21:07:36+00:00,d2wqefz,5.0,t1_d2vusms,73410.0,CatsStandingUp
+57,Cat.,2016-05-07 21:06:58+00:00,d2wqdo6,1.0,t3_4i6nvk,92612.0,CatsStandingUp
+58,Cat.,2016-05-07 21:06:47+00:00,d2wqdg3,2.0,t1_d2vusdu,73373.0,CatsStandingUp
+59,Cat.,2016-05-07 21:06:35+00:00,d2wqd82,2.0,t1_d2vrkhn,78970.0,CatsStandingUp
+60,Cat.,2016-05-07 21:06:24+00:00,d2wqd07,3.0,t1_d2vu5ht,74504.0,CatsStandingUp
+61,Cat.,2016-05-07 21:05:58+00:00,d2wqcgm,1.0,t3_4i7bay,83540.0,CatsStandingUp
+62,Cat.,2016-05-07 21:05:48+00:00,d2wqca2,2.0,t1_d2w2vkt,56924.0,CatsStandingUp
+63,Cat.,2016-05-07 21:05:26+00:00,d2wqbuy,2.0,t1_d2vr5nm,79623.0,CatsStandingUp
+64,Cat.,2016-05-07 21:05:11+00:00,d2wqbk2,3.0,t1_d2w6wxz,43195.0,CatsStandingUp
+65,Cat.,2016-05-07 21:04:45+00:00,d2wqb31,2.0,t1_d2w5gyq,48871.0,CatsStandingUp
+66,Cat.,2016-05-07 21:04:31+00:00,d2wqat5,4.0,t1_d2wd9op,23381.0,CatsStandingUp
+67,Cat.,2016-05-07 21:04:18+00:00,d2wqajs,3.0,t1_d2vus5i,73236.0,CatsStandingUp
+68,Cat.,2016-05-07 21:03:56+00:00,d2wqa54,3.0,t1_d2vupol,73337.0,CatsStandingUp
+69,Cat.,2016-05-07 21:03:31+00:00,d2wq9ok,2.0,t1_d2vyt9z,65756.0,CatsStandingUp
+70,Cat.,2016-05-07 21:03:20+00:00,d2wq9g8,3.0,t1_d2w6wnc,43121.0,CatsStandingUp
+71,Cat.,2016-05-07 21:01:41+00:00,d2wq7ia,2.0,t1_d2w0b8m,62608.0,CatsStandingUp
+72,Cat.,2016-05-07 21:01:26+00:00,d2wq78t,2.0,t1_d2whwwa,14588.0,CatsStandingUp
+73,Cat.,2016-05-07 21:01:12+00:00,d2wq6yo,3.0,t1_d2w3iqx,54886.0,CatsStandingUp
+74,Cat.,2016-05-07 21:01:00+00:00,d2wq6qz,2.0,t1_d2w2v8g,56661.0,CatsStandingUp
+75,Cat.,2016-05-07 21:00:37+00:00,d2wq6bh,4.0,t1_d2w4spu,50931.0,CatsStandingUp
+76,Cat.,2016-05-07 20:59:14+00:00,d2wq4qy,2.0,t1_d2w5hba,48507.0,CatsStandingUp
+77,Cat.,2016-05-07 20:58:54+00:00,d2wq4c0,1.0,t3_4i8z6f,52935.0,CatsStandingUp
+78,Cat.,2016-05-07 20:58:22+00:00,d2wq3pb,2.0,t1_d2w6x44,42767.0,CatsStandingUp
+79,Cat.,2016-05-07 20:58:07+00:00,d2wq3e5,1.0,t3_4i91oy,51108.0,CatsStandingUp
+80,Cat.,2016-05-07 20:57:56+00:00,d2wq36e,2.0,t1_d2wkltd,9754.0,CatsStandingUp
+81,Cat.,2016-05-07 20:57:33+00:00,d2wq2qi,2.0,t1_d2wfi9c,18611.0,CatsStandingUp
+82,Cat.,2016-05-07 20:57:18+00:00,d2wq2gf,2.0,t1_d2wd3b8,23318.0,CatsStandingUp
+83,Cat.,2016-05-07 20:57:06+00:00,d2wq280,4.0,t1_d2wkgm4,9952.0,CatsStandingUp
+84,Cat.,2016-05-07 20:56:34+00:00,d2wq1n0,4.0,t1_d2whujc,14409.0,CatsStandingUp
+85,Cat.,2016-05-07 20:55:45+00:00,d2wq0qk,5.0,t1_d2whoxe,14638.0,CatsStandingUp
+86,Cat.,2016-05-07 20:52:16+00:00,d2wpwq2,3.0,t1_d2wgtvz,15935.0,CatsStandingUp
+87,Cat.,2016-05-07 20:51:52+00:00,d2wpw9b,2.0,t1_d2wlqra,7449.0,CatsStandingUp
+88,Cat.,2016-05-07 20:51:41+00:00,d2wpw1h,1.0,t3_4i9c8k,42440.0,CatsStandingUp
+89,Cat.,2016-05-07 20:51:05+00:00,d2wpvbo,1.0,t3_4iavue,11919.0,CatsStandingUp
+90,Cat.,2016-05-07 20:50:29+00:00,d2wpunp,2.0,t1_d2wlz2y,6971.0,CatsStandingUp
+91,Cat.,2016-05-07 20:50:17+00:00,d2wpufg,2.0,t1_d2wltc3,7232.0,CatsStandingUp
+92,Cat.,2016-05-07 20:50:04+00:00,d2wpu5k,1.0,t3_4ib6d9,7559.0,CatsStandingUp
+93,Cat.,2016-05-07 20:49:52+00:00,d2wptx7,1.0,t3_4ibiqi,2326.0,CatsStandingUp
+94,Cat.,2016-05-07 20:48:48+00:00,d2wpsq7,2.0,t1_d2wcxsu,23122.0,CatsStandingUp
+95,Cat.,2016-05-07 20:48:06+00:00,d2wprwy,3.0,t1_d2w1p83,58767.0,CatsStandingUp
+96,Cat.,2016-05-07 20:47:48+00:00,d2wprlm,2.0,t1_d2wb1ps,27432.0,CatsStandingUp
+97,Cat.,2016-05-07 20:47:35+00:00,d2wprcx,2.0,t1_d2wfsa9,17509.0,CatsStandingUp
+98,Cat.,2016-05-07 20:47:16+00:00,d2wpqzi,2.0,t1_d2wl3il,8285.0,CatsStandingUp
+99,Cat.,2016-05-07 20:46:59+00:00,d2wpqmt,2.0,t1_d2wiaip,13061.0,CatsStandingUp
+100,Cat.,2016-05-07 20:46:35+00:00,d2wpq4k,3.0,t1_d2wfok5,17634.0,CatsStandingUp
+101,Cat.,2016-05-07 20:46:22+00:00,d2wppvm,2.0,t1_d2wecik,20139.0,CatsStandingUp
+102,Cat.,2016-05-07 20:45:52+00:00,d2wppal,2.0,t1_d2w31yy,55264.0,CatsStandingUp
+103,Cat.,2016-05-07 20:45:25+00:00,d2wporx,6.0,t1_d2wf95c,18363.0,CatsStandingUp
+104,Cat.,2016-05-07 20:44:38+00:00,d2wpnv9,3.0,t1_d2w6vux,42094.0,CatsStandingUp
+105,Cat.,2016-05-07 20:41:46+00:00,d2wpkft,1.0,t3_4iax6y,10812.0,CatsStandingUp
+106,Cat.,2016-05-07 20:40:31+00:00,d2wpj1c,3.0,t1_d2wki8f,8880.0,CatsStandingUp
+107,Cat.,2016-05-07 20:40:16+00:00,d2wpipw,2.0,t1_d2wivkw,11636.0,CatsStandingUp
+108,Cat. ,2016-05-06 03:36:25+00:00,d2uq6pd,2.0,t1_d2uh39h,14903.0,CatsStandingUp
+109,Cat. ,2016-05-06 03:34:37+00:00,d2uq4kq,2.0,t1_d2uq1i5,161.0,CatsStandingUp
+110,Cat. ,2016-05-06 03:33:54+00:00,d2uq3qc,,t1_d2grllr,,CatsStandingUp
+111,Cat. ,2016-05-06 03:33:18+00:00,d2uq324,,t1_d2i3jhw,,CatsStandingUp
+112,Cat. ,2016-05-06 03:33:09+00:00,d2uq2w5,,t1_d2hqndo,,CatsStandingUp
+113,Cat. ,2016-05-06 03:32:45+00:00,d2uq2ff,,t1_d2grlr9,,CatsStandingUp
+114,Cat. ,2016-05-06 03:32:35+00:00,d2uq290,,t1_d2abs41,,CatsStandingUp
+115,Cat. ,2016-05-06 03:32:28+00:00,d2uq24h,,t1_d2grmhh,,CatsStandingUp
+116,Cat. ,2016-05-06 03:32:18+00:00,d2uq1y2,,t1_d2grm1p,,CatsStandingUp
+117,Cat. ,2016-05-06 03:32:00+00:00,d2uq1lp,1.0,t3_4fhcg1,1436266.0,CatsStandingUp
+118,Cat. ,2016-05-06 03:31:03+00:00,d2uq0i9,2.0,t1_d2uplkj,718.0,CatsStandingUp
+119,Cat. ,2016-05-06 03:30:44+00:00,d2uq047,2.0,t1_d2ugwol,14864.0,CatsStandingUp
+120,Cat. ,2016-05-06 03:30:31+00:00,d2upzv2,1.0,t3_4i289f,19460.0,CatsStandingUp
+121,Cat. ,2016-05-06 03:30:09+00:00,d2upzfi,2.0,t1_d2uokoy,2363.0,CatsStandingUp
+122,Cat. ,2016-05-06 03:30:01+00:00,d2upzan,2.0,t1_d2umrox,5261.0,CatsStandingUp
+123,Cat. ,2016-05-06 03:29:50+00:00,d2upz24,1.0,t3_4i21rr,22008.0,CatsStandingUp
+124,Cat. ,2016-05-06 03:29:15+00:00,d2upyck,2.0,t1_d2umfbr,5761.0,CatsStandingUp
+125,Cat. ,2016-05-06 03:28:53+00:00,d2upxxj,1.0,t3_4i1fn4,30040.0,CatsStandingUp
+126,Cat. ,2016-05-06 03:27:59+00:00,d2upwve,2.0,t1_d2umr98,5159.0,CatsStandingUp
+127,Cat. ,2016-05-06 03:27:50+00:00,d2upwof,1.0,t3_4i1bkp,31429.0,CatsStandingUp
+128,Cat. ,2016-05-06 03:27:18+00:00,d2upw0x,2.0,t1_d2ulk0i,7057.0,CatsStandingUp
+129,Cat. ,2016-05-06 03:26:55+00:00,d2upvl0,2.0,t1_d2ugw5r,14659.0,CatsStandingUp
+130,Cat. ,2016-05-06 03:26:44+00:00,d2upvcl,1.0,t3_4i0wnq,36532.0,CatsStandingUp
+131,Cat. ,2016-05-06 03:26:30+00:00,d2upv1l,4.0,t1_d2upm77,414.0,CatsStandingUp
+132,Cat. ,2016-05-06 03:26:11+00:00,d2upumz,1.0,t3_4i2001,22452.0,CatsStandingUp
+133,Cat. ,2016-05-06 03:25:22+00:00,d2uptlg,2.0,t1_d2unx80,3106.0,CatsStandingUp
+134,Cat. ,2016-05-06 03:25:12+00:00,d2upte4,3.0,t1_d2unxgn,3085.0,CatsStandingUp
+135,Cat. ,2016-05-06 03:24:53+00:00,d2upt04,1.0,t3_4i35e8,4577.0,CatsStandingUp
+136,Cat. ,2016-05-06 03:23:06+00:00,d2upqns,3.0,t1_d2ujt26,9645.0,CatsStandingUp
+137,Cat. ,2016-05-06 03:22:05+00:00,d2uppcb,2.0,t1_d2up0yg,1124.0,CatsStandingUp
+138,Cat. ,2016-05-06 03:21:25+00:00,d2upohe,2.0,t1_d2ukqrk,8015.0,CatsStandingUp
+139,Cat. ,2016-05-06 03:21:14+00:00,d2upo98,2.0,t1_d2ukj0x,8352.0,CatsStandingUp
+140,Cat. ,2016-05-06 03:20:47+00:00,d2upnp5,2.0,t1_d2uk25v,9084.0,CatsStandingUp
+141,Cat. ,2016-05-06 03:19:14+00:00,d2uplqw,6.0,t1_d2u7y9c,27017.0,CatsStandingUp
+142,Cat. ,2016-05-06 03:18:38+00:00,d2upl14,6.0,t1_d2ud3cs,20101.0,CatsStandingUp
+143,Cat. ,2016-05-06 03:17:39+00:00,d2upjs0,3.0,t1_d2up17y,846.0,CatsStandingUp
+144,Cat. ,2016-05-06 03:17:06+00:00,d2upj2w,3.0,t1_d2uop4k,1378.0,CatsStandingUp
+145,Cat. ,2016-05-06 03:16:38+00:00,d2upihb,,t1_d2uln1n,6281.0,CatsStandingUp
+146,Cat. ,2016-05-06 03:16:23+00:00,d2upi61,,t1_d2ulmxt,6271.0,CatsStandingUp
+147,Cat. ,2016-05-06 03:15:41+00:00,d2uph9z,2.0,t1_d2uh1yl,13719.0,CatsStandingUp
+148,Cat. ,2016-05-06 03:15:23+00:00,d2upgwn,2.0,t1_d2uaqyc,23136.0,CatsStandingUp
+149,Cat. ,2016-05-06 03:14:15+00:00,d2upfhp,2.0,t1_d2uolfm,1373.0,CatsStandingUp
+150,Cat. ,2016-05-06 03:12:30+00:00,d2upd6f,3.0,t1_d2uhseq,12336.0,CatsStandingUp
+151,Cat. ,2016-05-06 03:12:13+00:00,d2upcst,3.0,t1_d2ugx7z,13728.0,CatsStandingUp
+152,Cat. ,2016-05-06 03:11:34+00:00,d2upbxb,6.0,t1_d2uj8i9,9878.0,CatsStandingUp
+153,Cat. ,2016-05-06 03:11:07+00:00,d2upbbu,2.0,t1_d2u601m,29076.0,CatsStandingUp
+154,Cat. ,2016-05-06 03:10:36+00:00,d2upao2,1.0,t3_4i17r6,31747.0,CatsStandingUp
+155,Cat. ,2016-05-06 03:07:39+00:00,d2up6ot,6.0,t1_d2ugxfb,13444.0,CatsStandingUp
+156,Cat. ,2016-05-06 03:06:51+00:00,d2up5ms,3.0,t1_d2uo9lz,1466.0,CatsStandingUp
+157,Cat. ,2016-05-06 03:06:27+00:00,d2up53b,1.0,t3_4i373v,2708.0,CatsStandingUp
+158,Cat.,2016-05-05 22:43:52+00:00,d2ufgos,3.0,t1_d2ucw86,3913.0,CatsStandingUp
+159,Cat.,2016-05-05 22:43:33+00:00,d2ufg8e,2.0,t1_d2u5l5y,13570.0,CatsStandingUp
+160,Cat.,2016-05-05 22:30:19+00:00,d2uexun,,t1_d2abfj1,,CatsStandingUp
+161,Cat.,2016-05-05 22:29:52+00:00,d2uex73,,t1_d29fjao,,CatsStandingUp
+162,Cat.,2016-05-05 22:29:20+00:00,d2uewfu,1.0,t3_4fjqhw,1387884.0,CatsStandingUp
+163,Cat.,2016-05-05 22:27:02+00:00,d2uet5o,4.0,t1_d2ucwz5,2871.0,CatsStandingUp
+164,Cat.,2016-05-05 22:25:32+00:00,d2uer3n,4.0,t1_d2ue63b,903.0,CatsStandingUp
+165,Cat.,2016-05-05 22:25:05+00:00,d2ueqhi,3.0,t1_d2ue0np,1111.0,CatsStandingUp
+166,Floofs in training,2016-05-05 21:57:53+00:00,d2udo9s,1.0,t3_4i2718,36.0,aww
+167,Cat.,2016-05-05 21:25:01+00:00,d2ucbin,,t1_d2qw8yc,,CatsStandingUp
+168,Cat.,2016-05-05 21:24:45+00:00,d2ucb25,2.0,t1_d2tugry,23359.0,CatsStandingUp
+169,Cat.,2016-05-05 21:24:32+00:00,d2ucaqs,2.0,t1_d2u7nab,6132.0,CatsStandingUp
+170,Cat.,2016-05-05 21:22:07+00:00,d2uc6yn,4.0,t1_d2uc45j,108.0,CatsStandingUp
+171,Cat.,2016-05-05 21:22:01+00:00,d2uc6s5,2.0,t1_d2ubvhq,435.0,CatsStandingUp
+172,Cat.,2016-05-05 21:21:36+00:00,d2uc65e,1.0,t3_4i1ras,3803.0,CatsStandingUp
+173,Cat.,2016-05-05 21:20:41+00:00,d2uc4q3,,t1_d2u9l5a,3358.0,CatsStandingUp
+174,Cat.,2016-05-05 21:20:25+00:00,d2uc4b3,,t1_d2u9kzg,3347.0,CatsStandingUp
+175,Cat.,2016-05-05 20:18:31+00:00,d2u9b0z,2.0,t1_d2u8n3z,879.0,CatsStandingUp
+176,Cat.,2016-05-05 20:17:27+00:00,d2u999y,3.0,t1_d2u96e6,105.0,CatsStandingUp
+177,Cat.,2016-05-05 20:15:48+00:00,d2u96k2,9.0,t1_d2u8lxw,758.0,CatsStandingUp
+178,Cat.,2016-05-05 20:15:18+00:00,d2u95qv,2.0,t1_d2u8k4m,794.0,CatsStandingUp
+179,Cat.,2016-05-05 20:14:37+00:00,d2u94m8,,t1_d2abmvg,,CatsStandingUp
+180,Cat.,2016-05-05 20:14:26+00:00,d2u94bc,,t1_d29uaym,,CatsStandingUp
+181,Cat.,2016-05-05 20:14:07+00:00,d2u93si,1.0,t3_4fjuf5,1378428.0,CatsStandingUp
+182,Cat.,2016-05-05 20:13:37+00:00,d2u930c,,t1_d2ablo9,,CatsStandingUp
+183,Cat.,2016-05-05 20:13:16+00:00,d2u92gn,1.0,t3_4fjuap,1378420.0,CatsStandingUp
+184,Cat.,2016-05-05 20:12:52+00:00,d2u91qu,,t1_d2ablz0,,CatsStandingUp
+185,Cat.,2016-05-05 20:12:26+00:00,d2u90zv,,t1_d29t3f3,,CatsStandingUp
+186,Cat.,2016-05-05 20:12:07+00:00,d2u90hp,1.0,t3_4fkouh,1367009.0,CatsStandingUp
+187,Cat.,2016-05-05 20:11:42+00:00,d2u8zu2,2.0,t1_d2u6m0z,3109.0,CatsStandingUp
+188,Cat.,2016-05-05 20:11:32+00:00,d2u8zk2,1.0,t3_4hwt96,80741.0,CatsStandingUp
+189,Cat.,2016-05-05 20:11:23+00:00,d2u8zap,2.0,t1_d2u617c,3849.0,CatsStandingUp
+190,Cat.,2016-05-05 20:11:12+00:00,d2u8yzx,1.0,t3_4hwn18,83056.0,CatsStandingUp
+191,Cat.,2016-05-05 20:10:52+00:00,d2u8ygl,2.0,t1_d2u60fc,3847.0,CatsStandingUp
+192,Cat.,2016-05-05 20:10:34+00:00,d2u8xz9,1.0,t3_4hwpa2,82168.0,CatsStandingUp
+193,Cat.,2016-05-05 20:09:59+00:00,d2u8x1u,2.0,t1_d2u64wv,3630.0,CatsStandingUp
+194,Cat.,2016-05-05 20:09:49+00:00,d2u8wsa,1.0,t3_4hx3st,76786.0,CatsStandingUp
+195,Cat.,2016-05-05 20:09:29+00:00,d2u8w84,2.0,t1_d2u64mu,3610.0,CatsStandingUp
+196,Cat.,2016-05-05 20:09:19+00:00,d2u8vy7,1.0,t3_4hxand,74163.0,CatsStandingUp
+197,Cat.,2016-05-05 20:09:00+00:00,d2u8vgc,2.0,t1_d2tb4yh,64309.0,CatsStandingUp
+198,Cat.,2016-05-05 20:08:51+00:00,d2u8v7g,1.0,t3_4hxxvc,64309.0,CatsStandingUp
+199,Cat.,2016-05-05 20:08:09+00:00,d2u8u35,2.0,t1_d2u61bl,3650.0,CatsStandingUp
+200,Cat.,2016-05-05 20:07:57+00:00,d2u8ts7,1.0,t3_4hya21,58714.0,CatsStandingUp
+201,Cat.,2016-05-05 20:06:59+00:00,d2u8s7k,2.0,t1_d2u59o2,4592.0,CatsStandingUp
+202,Cat.,2016-05-05 20:06:44+00:00,d2u8rrf,2.0,t1_d2u5kao,4191.0,CatsStandingUp
+203,Cat.,2016-05-05 20:05:23+00:00,d2u8plb,3.0,t1_d2u5ylg,3585.0,CatsStandingUp
+204,Cat.,2016-05-05 20:04:50+00:00,d2u8op8,2.0,t1_d2u601m,3499.0,CatsStandingUp
+205,Cat.,2016-05-05 20:04:24+00:00,d2u8nyo,2.0,t1_d2u5kvs,4030.0,CatsStandingUp
+206,Cat.,2016-05-05 20:03:50+00:00,d2u8n2r,4.0,t1_d2tsowj,21070.0,CatsStandingUp
+207,Cat.,2016-05-05 20:03:34+00:00,d2u8mn6,1.0,t3_4hzr9a,25842.0,CatsStandingUp
+208,Cat.,2016-05-05 20:03:21+00:00,d2u8m92,4.0,t1_d2u5s88,3700.0,CatsStandingUp
+209,Cat.,2016-05-05 20:02:39+00:00,d2u8l38,2.0,t1_d2u5qjx,3719.0,CatsStandingUp
+210,Cat.,2016-05-05 20:02:27+00:00,d2u8krr,1.0,t3_4hz224,41056.0,CatsStandingUp
+211,Cat.,2016-05-05 20:02:14+00:00,d2u8keb,4.0,t1_d2u5qyx,3680.0,CatsStandingUp
+212,Cat.,2016-05-05 20:01:18+00:00,d2u8ivs,1.0,t3_4i1ifw,2181.0,CatsStandingUp
+213,Cat.,2016-05-05 18:54:20+00:00,d2u5g3s,2.0,t1_d2u59o2,233.0,CatsStandingUp
+214,Cat.,2016-05-05 18:53:27+00:00,d2u5emg,2.0,t1_d2u5df5,44.0,CatsStandingUp
+215,Cat.,2016-05-05 18:53:14+00:00,d2u5ea1,2.0,t1_d2u53sr,381.0,CatsStandingUp
+216,Cat.,2016-05-05 18:50:08+00:00,d2u594u,,t1_d2abl1g,,CatsStandingUp
+217,Cat.,2016-05-05 18:49:43+00:00,d2u58fe,,t1_d2a4z58,,CatsStandingUp
+218,Cat.,2016-05-05 18:49:16+00:00,d2u57ol,,t1_d2a259c,,CatsStandingUp
+219,Cat.,2016-05-05 18:48:58+00:00,d2u5787,1.0,t3_4fls17,1345778.0,CatsStandingUp
+220,Cat.,2016-05-05 18:48:01+00:00,d2u55nh,,t1_d2ay2st,,CatsStandingUp
+221,Cat.,2016-05-05 18:47:47+00:00,d2u55ae,1.0,t3_4fpifs,1288308.0,CatsStandingUp
+222,Cat.,2016-05-05 18:47:20+00:00,d2u54j8,,t1_d2c4l82,,CatsStandingUp
+223,Cat.,2016-05-05 18:47:09+00:00,d2u548q,,t1_d2c3a9x,,CatsStandingUp
+224,Cat.,2016-05-05 18:46:32+00:00,d2u537k,,t1_d2bc66h,,CatsStandingUp
+225,Cat.,2016-05-05 18:46:02+00:00,d2u52d7,1.0,t3_4fp2cq,1293586.0,CatsStandingUp
+226,Cat.,2016-05-05 18:45:32+00:00,d2u51ju,2.0,t1_d2u4y94,120.0,CatsStandingUp
+227,Cat.,2016-05-05 18:43:54+00:00,d2u4yv5,5.0,t1_d2u4w9u,94.0,CatsStandingUp
+228,Cat.,2016-05-05 18:42:47+00:00,d2u4x08,3.0,t1_d2u4e0m,695.0,CatsStandingUp
+229,Cat.,2016-05-05 18:41:42+00:00,d2u4va2,2.0,t1_d2u3zqr,1153.0,CatsStandingUp
+230,Cat.,2016-05-05 18:40:42+00:00,d2u4tms,1.0,t3_4i17r6,1153.0,CatsStandingUp
+231,Cat.,2016-05-05 18:23:14+00:00,d2u40xr,,t1_d2gmjii,,CatsStandingUp
+232,Cat.,2016-05-05 18:23:02+00:00,d2u40lp,,t1_d2gmir9,,CatsStandingUp
+233,Cat.,2016-05-05 18:22:45+00:00,d2u405o,,t1_d2blipu,,CatsStandingUp
+234,Cat.,2016-05-05 18:22:16+00:00,d2u3zcy,,t1_d2bjokj,,CatsStandingUp
+235,Cat.,2016-05-05 18:22:02+00:00,d2u3yyj,,t1_d2gmjgr,,CatsStandingUp
+236,Cat.,2016-05-05 18:21:41+00:00,d2u3ydm,,t1_d2bkyqd,,CatsStandingUp
+237,Cat.,2016-05-05 18:21:23+00:00,d2u3xuz,1.0,t3_4fs3oc,1244319.0,CatsStandingUp
+238,Cat.,2016-05-05 18:20:57+00:00,d2u3x5i,,t1_d2pjexi,,CatsStandingUp
+239,Cat.,2016-05-05 18:20:38+00:00,d2u3wm6,,t1_d2pbnid,,CatsStandingUp
+240,Cat.,2016-05-05 18:20:17+00:00,d2u3w0c,,t1_d2bqcuf,,CatsStandingUp
+241,Cat.,2016-05-05 18:19:57+00:00,d2u3vg1,1.0,t3_4fsfqi,1236121.0,CatsStandingUp
+242,Cat.,2016-05-05 18:19:14+00:00,d2u3u7y,1.0,t3_4hwjq0,77496.0,CatsStandingUp
+243,Cat.,2016-05-05 18:18:40+00:00,d2u3t9m,2.0,t1_d2tqs1h,17920.0,CatsStandingUp
+244,Cat.,2016-05-05 18:18:21+00:00,d2u3sqy,2.0,t1_d2tq5e6,19057.0,CatsStandingUp
+245,Cat.,2016-05-05 18:18:09+00:00,d2u3se8,4.0,t1_d2tsowj,14729.0,CatsStandingUp
+246,Cat.,2016-05-05 18:17:45+00:00,d2u3rpn,1.0,t3_4hzr9a,19493.0,CatsStandingUp
+247,Cat.,2016-05-05 18:17:20+00:00,d2u3r1j,2.0,t1_d2u3jo5,265.0,CatsStandingUp
+248,Cat.,2016-05-05 18:17:06+00:00,d2u3qoa,1.0,t3_4i0yot,2892.0,CatsStandingUp
+249,Cat.,2016-05-05 18:16:30+00:00,d2u3po6,3.0,t1_d2u3jga,222.0,CatsStandingUp
+250,Cat.,2016-05-05 18:13:06+00:00,d2u3jyo,1.0,t3_4hynrv,44186.0,CatsStandingUp
+251,Cat.,2016-05-05 18:12:53+00:00,d2u3jm0,,t1_d2u2prl,1070.0,CatsStandingUp
+252,Cat.,2016-05-05 18:12:43+00:00,d2u3jcf,,t1_d2u2pn6,1064.0,CatsStandingUp
+253,Cat.,2016-05-05 18:10:42+00:00,d2u3g1s,5.0,t1_d2tl8i5,32857.0,CatsStandingUp
+254,Cat.,2016-05-05 18:10:02+00:00,d2u3eyh,1.0,t3_4i1541,204.0,CatsStandingUp
+255,Cat.,2016-05-05 18:09:36+00:00,d2u3e7h,4.0,t1_d2u0g6w,3764.0,CatsStandingUp
+256,Cat.,2016-05-05 18:09:20+00:00,d2u3drt,2.0,t1_d2ty0hz,6907.0,CatsStandingUp
+257,Cat.,2016-05-05 18:08:58+00:00,d2u3d5o,1.0,t3_4i0g3v,8948.0,CatsStandingUp
+258,Cat. ,2016-05-05 06:17:18+00:00,d2ti7u8,2.0,t1_d2thbzj,2385.0,CatsStandingUp
+259,Cat. ,2016-05-05 06:17:04+00:00,d2ti7nm,2.0,t1_d2th03z,3198.0,CatsStandingUp
+260,Cat. ,2016-05-05 06:16:52+00:00,d2ti7id,2.0,t1_d2tgkj2,4223.0,CatsStandingUp
+261,Cat. ,2016-05-05 06:16:38+00:00,d2ti7bx,2.0,t1_d2tfuzc,5817.0,CatsStandingUp
+262,Cat. ,2016-05-05 06:16:19+00:00,d2ti734,2.0,t1_d2tfbaz,6952.0,CatsStandingUp
+263,Cat. ,2016-05-05 06:16:03+00:00,d2ti6v7,2.0,t1_d2tf9hk,7039.0,CatsStandingUp
+264,Cat. ,2016-05-05 06:15:31+00:00,d2ti6g4,2.0,t1_d2te5jd,9179.0,CatsStandingUp
+265,Cat. ,2016-05-05 06:15:15+00:00,d2ti682,3.0,t1_d2tewc4,7730.0,CatsStandingUp
+266,Cat. ,2016-05-05 06:15:02+00:00,d2ti62c,5.0,t1_d2th4d9,2792.0,CatsStandingUp
+267,Cat. ,2016-05-05 06:14:36+00:00,d2ti5q7,1.0,t3_4hy8c3,9536.0,CatsStandingUp
+268,Cat. ,2016-05-05 06:14:25+00:00,d2ti5le,2.0,t1_d2ti2ms,234.0,CatsStandingUp
+269,Cat. ,2016-05-05 06:14:09+00:00,d2ti5ek,3.0,t1_d2ti2gg,229.0,CatsStandingUp
+270,Cat. ,2016-05-05 06:13:52+00:00,d2ti56g,1.0,t3_4hynrv,1032.0,CatsStandingUp
+271,Cat. ,2016-05-05 06:10:34+00:00,d2ti2nn,,t1_d2tf1iz,7159.0,CatsStandingUp
+272,Cat. ,2016-05-05 06:10:23+00:00,d2ti2ii,,t1_d2tf1f1,7153.0,CatsStandingUp
+273,Cat. ,2016-05-05 06:10:09+00:00,d2ti2bh,6.0,t1_d2te147,9087.0,CatsStandingUp
+274,Cat. ,2016-05-05 06:09:56+00:00,d2ti26q,8.0,t1_d2te0sc,9090.0,CatsStandingUp
+275,Cat. ,2016-05-05 00:55:21+00:00,d2t7xd4,4.0,t1_d2t6dm0,2283.0,CatsStandingUp
+276,Cat. ,2016-05-04 23:33:12+00:00,d2t4ouq,2.0,t1_d2t4164,1017.0,CatsStandingUp
+277,Cat. ,2016-05-04 23:32:48+00:00,d2t4obg,1.0,t3_4hw9fr,13582.0,CatsStandingUp
+278,Cat. ,2016-05-04 23:31:47+00:00,d2t4mwb,5.0,t1_d2t4jl2,144.0,CatsStandingUp
+279,Cat. ,2016-05-04 23:31:36+00:00,d2t4mnk,14.0,t1_d2t3sqh,1287.0,CatsStandingUp
+280,Cat. ,2016-05-04 23:31:26+00:00,d2t4mfq,10.0,t1_d2t3qw9,1359.0,CatsStandingUp
+281,Cat. ,2016-05-04 23:08:45+00:00,d2t3qtr,12.0,t1_d2t3kw7,245.0,CatsStandingUp
+282,Cat. ,2016-05-04 23:08:29+00:00,d2t3qgr,4.0,t1_d2t3hmv,363.0,CatsStandingUp
+283,Cat. ,2016-05-04 23:08:17+00:00,d2t3q64,4.0,t1_d2t3hiy,356.0,CatsStandingUp
+284,Cat. ,2016-05-04 23:08:06+00:00,d2t3pwg,4.0,t1_d2t3hf7,350.0,CatsStandingUp
+285,Cat. ,2016-05-04 23:07:55+00:00,d2t3pn1,4.0,t1_d2t3hb0,344.0,CatsStandingUp
+286,Cat. ,2016-05-04 23:07:45+00:00,d2t3ped,4.0,t1_d2t3h25,345.0,CatsStandingUp
+287,Cat. ,2016-05-04 23:07:36+00:00,d2t3p5w,4.0,t1_d2t3gy7,341.0,CatsStandingUp
+288,Cat. ,2016-05-04 23:07:26+00:00,d2t3oxg,4.0,t1_d2t3gu3,337.0,CatsStandingUp
+289,Cat. ,2016-05-04 23:07:14+00:00,d2t3omx,4.0,t1_d2t3gq2,329.0,CatsStandingUp
+290,Cat. ,2016-05-04 23:07:08+00:00,d2t3oh7,4.0,t1_d2t3gm0,328.0,CatsStandingUp
+291,Cat. ,2016-05-04 23:06:59+00:00,d2t3o8y,4.0,t1_d2t3gg6,326.0,CatsStandingUp
+292,Cat. ,2016-05-04 23:03:56+00:00,d2t3jum,2.0,t1_d2t0cel,4686.0,CatsStandingUp
+293,Cat. ,2016-05-04 23:03:36+00:00,d2t3jcn,2.0,t1_d2t3ax7,356.0,CatsStandingUp
+294,Cat. ,2016-05-04 23:03:22+00:00,d2t3j0z,7.0,t1_d2t3bni,312.0,CatsStandingUp
+295,Cat. ,2016-05-04 23:02:49+00:00,d2t3i82,11.0,t1_d2t03fc,4966.0,CatsStandingUp
+296,Cat. ,2016-05-04 23:02:16+00:00,d2t3heq,2.0,t1_d2t0jkf,4309.0,CatsStandingUp
+297,Cat. ,2016-05-04 23:01:35+00:00,d2t3gi3,4.0,t1_d2t2n6e,1203.0,CatsStandingUp
+298,Cat. ,2016-05-04 23:00:46+00:00,d2t3fd0,3.0,t1_d2szmkn,5494.0,CatsStandingUp
+299,Cat. ,2016-05-04 23:00:24+00:00,d2t3eu8,7.0,t1_d2t01h9,4899.0,CatsStandingUp
+300,Cat. ,2016-05-04 23:00:12+00:00,d2t3ej3,6.0,t1_d2sz4ge,6131.0,CatsStandingUp
+301,Cat. ,2016-05-04 22:59:20+00:00,d2t3dax,6.0,t1_d2t3794,254.0,CatsStandingUp
+302,Cat. ,2016-05-04 22:58:48+00:00,d2t3cjg,10.0,t1_d2t35bk,302.0,CatsStandingUp
+303,Cat. ,2016-05-04 22:58:32+00:00,d2t3c67,10.0,t1_d2t344b,334.0,CatsStandingUp
+304,Cat. ,2016-05-04 22:58:20+00:00,d2t3bw9,7.0,t1_d2t3302,366.0,CatsStandingUp
+305,Cat. ,2016-05-04 22:57:17+00:00,d2t3ad4,8.0,t1_d2t24ox,1710.0,CatsStandingUp
+306,Cat. ,2016-05-04 22:33:36+00:00,d2t2bjh,,t1_d2bojuy,,CatsStandingUp
+307,Cat. ,2016-05-04 22:32:58+00:00,d2t2anx,,t1_d2bokcw,,CatsStandingUp
+308,Cat. ,2016-05-04 22:32:19+00:00,d2t29qj,,t1_d2by7e1,,CatsStandingUp
+309,Cat. ,2016-05-04 22:31:38+00:00,d2t28qy,,t1_d2bmryv,,CatsStandingUp
+310,Cat. ,2016-05-04 22:30:30+00:00,d2t274u,,t1_d2cgqr0,,CatsStandingUp
+311,Cat. ,2016-05-04 22:29:47+00:00,d2t265a,1.0,t3_4fsjzt,1162328.0,CatsStandingUp
+312,Cat. ,2016-05-04 22:28:52+00:00,d2t24sy,,t1_d2c38jy,,CatsStandingUp
+313,Cat. ,2016-05-04 22:28:20+00:00,d2t240j,,t1_d2buhlv,,CatsStandingUp
+314,Cat. ,2016-05-04 22:28:03+00:00,d2t23l5,1.0,t3_4fsz7x,1155161.0,CatsStandingUp
+315,Cat. ,2016-05-04 22:26:39+00:00,d2t21kb,1.0,t3_4fw2r9,1115024.0,CatsStandingUp
+316,Cat. ,2016-05-04 22:26:24+00:00,d2t2166,3.0,t1_d2t0sce,1818.0,CatsStandingUp
+317,Cat. ,2016-05-04 22:26:10+00:00,d2t20um,6.0,t1_d2t1sps,335.0,CatsStandingUp
+318,Cat. ,2016-05-04 22:25:46+00:00,d2t2097,5.0,t1_d2t0rn0,1808.0,CatsStandingUp
+319,Cat. ,2016-05-04 22:25:21+00:00,d2t1zmd,4.0,t1_d2t0rfu,1790.0,CatsStandingUp
+320,Cat. ,2016-05-04 22:24:57+00:00,d2t1z1v,1.0,t3_4hw9fr,9511.0,CatsStandingUp
+321,Cat. ,2016-05-04 20:56:29+00:00,d2sy578,2.0,t1_d2sxy7o,244.0,CatsStandingUp
+322,Cat. ,2016-05-04 20:55:05+00:00,d2sy2t1,2.0,t1_d2sx67v,1135.0,CatsStandingUp
+323,Cat. ,2016-05-04 20:54:49+00:00,d2sy2cl,3.0,t1_d2sv13u,3806.0,CatsStandingUp
+324,Cat. ,2016-05-04 20:54:20+00:00,d2sy1io,8.0,t1_d2sxqpr,382.0,CatsStandingUp
+325,Cat. ,2016-05-04 20:53:47+00:00,d2sy0l6,8.0,t1_d2sxkq0,561.0,CatsStandingUp
+326,Cat. ,2016-05-04 20:53:29+00:00,d2sy032,8.0,t1_d2sxh96,663.0,CatsStandingUp
+327,Cat. ,2016-05-04 20:40:05+00:00,d2sxd26,6.0,t1_d2sx9ac,123.0,CatsStandingUp
+328,Cat. ,2016-05-04 20:39:57+00:00,d2sxcsq,,t1_d2sx6kt,214.0,CatsStandingUp
+329,Cat. ,2016-05-04 20:39:49+00:00,d2sxciu,,t1_d2sx6gy,210.0,CatsStandingUp
+330,Cat. ,2016-05-04 20:38:40+00:00,d2sxagb,7.0,t1_d2sws8y,641.0,CatsStandingUp
+331,Cat. ,2016-05-04 20:38:25+00:00,d2sx9ze,3.0,t1_d2svnu8,2019.0,CatsStandingUp
+332,Cat. ,2016-05-04 20:38:10+00:00,d2sx9j4,6.0,t1_d2sws0i,619.0,CatsStandingUp
+333,Cat. ,2016-05-04 20:37:02+00:00,d2sx7n5,4.0,t1_d2sx325,164.0,CatsStandingUp
+334,Cat. ,2016-05-04 20:36:09+00:00,d2sx66b,,t1_d2sw8w9,1162.0,CatsStandingUp
+335,Cat. ,2016-05-04 20:35:46+00:00,d2sx5jb,,t1_d2gmk6a,,CatsStandingUp
+336,Cat. ,2016-05-04 20:35:19+00:00,d2sx4rg,,t1_d2cw73z,,CatsStandingUp
+337,Cat. ,2016-05-04 20:35:11+00:00,d2sx4io,,t1_d2cm3e9,,CatsStandingUp
+338,Cat. ,2016-05-04 20:34:58+00:00,d2sx45s,1.0,t3_4ftovy,1138947.0,CatsStandingUp
+339,Cat. ,2016-05-04 20:02:38+00:00,d2svk7j,2.0,t1_d2svc9h,285.0,CatsStandingUp
+340,Cat. ,2016-05-04 20:01:37+00:00,d2svii7,4.0,t1_d2sve8i,154.0,CatsStandingUp
+341,Cat. ,2016-05-04 20:01:01+00:00,d2svhh0,6.0,t1_d2svbhr,214.0,CatsStandingUp
+342,Cat. ,2016-05-04 20:00:33+00:00,d2svgqe,2.0,t1_d2sv04x,584.0,CatsStandingUp
+343,Cat. ,2016-05-04 19:59:37+00:00,d2svf73,2.0,t1_d2sv5xt,323.0,CatsStandingUp
+344,Cat. ,2016-05-04 19:58:27+00:00,d2svd7f,6.0,t1_d2sv6ti,223.0,CatsStandingUp
+345,Cat. ,2016-05-04 19:58:18+00:00,d2svcyt,6.0,t1_d2sv6hm,225.0,CatsStandingUp
+346,Cat. ,2016-05-04 19:57:52+00:00,d2svc7m,8.0,t1_d2sv72d,180.0,CatsStandingUp
+347,Cat. ,2016-05-04 19:57:22+00:00,d2svbd5,2.0,t1_d2su5sf,1458.0,CatsStandingUp
+348,Cat. ,2016-05-04 19:56:38+00:00,d2sva3n,8.0,t1_d2sv68l,134.0,CatsStandingUp
+349,Cat. ,2016-05-04 19:56:11+00:00,d2sv9bf,4.0,t1_d2sv372,213.0,CatsStandingUp
+350,Cat. ,2016-05-04 19:53:53+00:00,d2sv5bo,,t1_d2cw6m9,,CatsStandingUp
+351,Cat. ,2016-05-04 19:53:34+00:00,d2sv4rv,1.0,t3_4fx1xt,1089577.0,CatsStandingUp
+352,Cat. ,2016-05-04 19:35:33+00:00,d2su9z8,1.0,t3_4hsr82,57183.0,CatsStandingUp
+353,Cat. ,2016-05-04 19:34:58+00:00,d2su907,3.0,t1_d2su6bm,96.0,CatsStandingUp
+354,Cat. ,2016-05-04 19:34:01+00:00,d2su7e6,2.0,t1_d2su5mr,63.0,CatsStandingUp
+355,Cat. ,2016-05-04 19:32:59+00:00,d2su5no,8.0,t1_d2su37c,85.0,CatsStandingUp
+356,Cat. ,2016-05-04 19:32:03+00:00,d2su40l,,t1_d2stteb,372.0,CatsStandingUp
+357,Cat. ,2016-05-04 19:31:45+00:00,d2su3i8,,t1_d2stt9d,359.0,CatsStandingUp
+358,Cat. ,2016-05-04 19:31:06+00:00,d2su2fj,6.0,t1_d2stswf,332.0,CatsStandingUp
+359,Cat. ,2016-05-04 19:30:58+00:00,d2su270,6.0,t1_d2strnb,366.0,CatsStandingUp
+360,Cat. ,2016-05-04 19:30:08+00:00,d2su0qs,,t1_d2foecv,,CatsStandingUp
+361,Cat. ,2016-05-04 19:29:26+00:00,d2stzkl,,t1_d2d6yyp,,CatsStandingUp
+362,Cat. ,2016-05-04 19:28:02+00:00,d2stx4b,,t1_d2d5hud,,CatsStandingUp
+363,Cat. ,2016-05-04 19:26:24+00:00,d2stucv,,t1_d2dpfi3,,CatsStandingUp
+364,Cat. ,2016-05-04 19:25:41+00:00,d2stt4i,1.0,t3_4fy3vq,1063858.0,CatsStandingUp
+365,Cat. ,2016-05-04 19:24:33+00:00,d2str3s,4.0,t1_d2sto4k,100.0,CatsStandingUp
+366,Cat. ,2016-05-04 19:24:16+00:00,d2stqlt,4.0,t1_d2stjuq,235.0,CatsStandingUp
+367,Cat. ,2016-05-04 19:24:08+00:00,d2stqcv,9.0,t1_d2sthe5,311.0,CatsStandingUp
+368,Cat. ,2016-05-04 19:23:19+00:00,d2stouq,4.0,t1_d2ssr80,1185.0,CatsStandingUp
+369,Cat. ,2016-05-04 19:23:05+00:00,d2stogz,2.0,t1_d2st848,574.0,CatsStandingUp
+370,Cat. ,2016-05-04 19:22:54+00:00,d2sto59,2.0,t1_d2ssz8w,878.0,CatsStandingUp
+371,Cat. ,2016-05-04 19:22:40+00:00,d2stnr4,5.0,t1_d2sthx4,205.0,CatsStandingUp
+372,Cat. ,2016-05-04 19:22:06+00:00,d2stmsh,4.0,t1_d2stael,436.0,CatsStandingUp
+373,Cat. ,2016-05-04 19:21:24+00:00,d2stlnc,4.0,t1_d2st8kv,457.0,CatsStandingUp
+374,Cat. ,2016-05-04 19:20:03+00:00,d2stjc8,2.0,t1_d2sssp6,934.0,CatsStandingUp
+375,Cat. ,2016-05-04 19:19:07+00:00,d2sthp4,4.0,t1_d2st89d,331.0,CatsStandingUp
+376,Cat. ,2016-05-04 19:18:53+00:00,d2sthaw,6.0,t1_d2st7mk,339.0,CatsStandingUp
+377,Cat. ,2016-05-04 19:18:43+00:00,d2sth0o,7.0,t1_d2st7al,340.0,CatsStandingUp
+378,Cat. ,2016-05-04 19:18:29+00:00,d2stgm5,6.0,t1_d2ssw9p,715.0,CatsStandingUp
+379,Cat. ,2016-05-04 19:17:50+00:00,d2stfk5,2.0,t1_d2s8qnt,33788.0,CatsStandingUp
+380,Cat. ,2016-05-04 19:17:28+00:00,d2stews,2.0,t1_d2sjb99,12821.0,CatsStandingUp
+381,Cat. ,2016-05-04 19:17:15+00:00,d2steiv,2.0,t1_d2ssk3j,1074.0,CatsStandingUp
+382,Cat. ,2016-05-04 19:16:52+00:00,d2stdw7,2.0,t1_d2srwre,1858.0,CatsStandingUp
+383,Cat. ,2016-05-04 19:16:41+00:00,d2stdl4,2.0,t1_d2srbux,2579.0,CatsStandingUp
+384,Cat. ,2016-05-04 19:16:12+00:00,d2stcry,2.0,t1_d2s9fjv,31173.0,CatsStandingUp
+385,Cat. ,2016-05-04 19:15:47+00:00,d2stc1l,2.0,t1_d2skro1,10819.0,CatsStandingUp
+386,Cat. ,2016-05-04 19:15:13+00:00,d2stb33,2.0,t1_d2si6kp,14214.0,CatsStandingUp
+387,Cat. ,2016-05-04 19:14:58+00:00,d2stanp,3.0,t1_d2sikl5,13670.0,CatsStandingUp
+388,Cat. ,2016-05-04 19:14:34+00:00,d2st9z8,2.0,t1_d2s7pb5,37627.0,CatsStandingUp
+389,Cat. ,2016-05-04 19:14:17+00:00,d2st9ga,3.0,t1_d2sb0c0,26418.0,CatsStandingUp
+390,Cat. ,2016-05-04 19:14:04+00:00,d2st92w,2.0,t1_d2s6m1x,41488.0,CatsStandingUp
+391,Cat. ,2016-05-04 19:13:43+00:00,d2st8g2,4.0,t1_d2sfhaj,17951.0,CatsStandingUp
+392,Cat. ,2016-05-04 19:13:31+00:00,d2st83y,3.0,t1_d2s7pvo,37508.0,CatsStandingUp
+393,Cat. ,2016-05-04 19:13:19+00:00,d2st7ri,2.0,t1_d2s6arp,42479.0,CatsStandingUp
+394,Cat. ,2016-05-04 19:13:02+00:00,d2st79u,2.0,t1_d2smqyi,8119.0,CatsStandingUp
+395,Cat. ,2016-05-04 19:12:50+00:00,d2st6y3,2.0,t1_d2sgdj7,16593.0,CatsStandingUp
+396,Cat. ,2016-05-04 19:12:29+00:00,d2st6ch,2.0,t1_d2sbs6w,24469.0,CatsStandingUp
+397,Cat. ,2016-05-04 19:12:00+00:00,d2st5jv,3.0,t1_d2srwgw,1576.0,CatsStandingUp
+398,Cat. ,2016-05-04 19:11:43+00:00,d2st529,3.0,t1_d2sm8mk,8682.0,CatsStandingUp
+399,Cat. ,2016-05-04 19:11:31+00:00,d2st4pu,2.0,t1_d2sfebt,17944.0,CatsStandingUp
+400,Cat. ,2016-05-04 19:11:16+00:00,d2st4ac,8.0,t1_d2sfh0m,17815.0,CatsStandingUp
+401,Cat. ,2016-05-04 19:11:03+00:00,d2st3x8,7.0,t1_d2s99ox,31429.0,CatsStandingUp
+402,Cat. ,2016-05-04 19:10:45+00:00,d2st3ew,6.0,t1_d2s7pek,37387.0,CatsStandingUp
+403,Cat. ,2016-05-04 19:10:34+00:00,d2st33l,5.0,t1_d2s7jxz,37962.0,CatsStandingUp
+404,Cat. ,2016-05-04 19:10:23+00:00,d2st2sr,4.0,t1_d2s7jvm,37958.0,CatsStandingUp
+405,Cat. ,2016-05-04 19:09:20+00:00,d2st10l,7.0,t1_d2ssum3,222.0,CatsStandingUp
+406,Cat. ,2016-05-04 19:09:01+00:00,d2st0i5,5.0,t1_d2spqr5,4123.0,CatsStandingUp
+407,Cat. ,2016-05-04 19:08:35+00:00,d2sszs9,1.0,t3_4htd93,43675.0,CatsStandingUp
+408,Cat. ,2016-05-04 19:07:57+00:00,d2ssypo,6.0,t1_d2sk73x,11097.0,CatsStandingUp
+409,Cat. ,2016-05-04 19:07:36+00:00,d2ssy3g,4.0,t1_d2sfg5n,17631.0,CatsStandingUp
+410,Cat. ,2016-05-04 19:07:10+00:00,d2ssxc9,2.0,t1_d2sebo5,19336.0,CatsStandingUp
+411,Cat. ,2016-05-04 19:06:39+00:00,d2ssweh,1.0,t3_4hsr82,55449.0,CatsStandingUp
+412,Cat. ,2016-05-04 19:06:10+00:00,d2ssvjq,2.0,t1_d2snibj,6735.0,CatsStandingUp
+413,Cat. ,2016-05-04 19:05:42+00:00,d2ssuqz,2.0,t1_d2sktez,10149.0,CatsStandingUp
+414,Cat. ,2016-05-04 19:05:24+00:00,d2ssu8m,4.0,t1_d2sr3qj,2183.0,CatsStandingUp
+415,Cat. ,2016-05-04 19:05:08+00:00,d2sstsr,2.0,t1_d2si50z,13667.0,CatsStandingUp
+416,Cat. ,2016-05-04 19:04:41+00:00,d2sst1s,6.0,t1_d2sqrax,2569.0,CatsStandingUp
+417,Cat. ,2016-05-04 19:04:13+00:00,d2sssaf,3.0,t1_d2shnzb,14279.0,CatsStandingUp
+418,Cat. ,2016-05-04 19:03:57+00:00,d2ssrue,1.0,t3_4husx3,15255.0,CatsStandingUp
+419,Cat. ,2016-05-04 19:03:27+00:00,d2ssr08,4.0,t1_d2sqoam,2603.0,CatsStandingUp
+420,Cat. ,2016-05-04 19:03:17+00:00,d2ssqqs,3.0,t1_d2soy2a,4761.0,CatsStandingUp
+421,Cat. ,2016-05-04 19:02:58+00:00,d2ssq80,1.0,t3_4hujnq,18753.0,CatsStandingUp
+422,Cat. ,2016-05-04 19:02:36+00:00,d2ssple,2.0,t1_d2sqnxb,2566.0,CatsStandingUp
+423,Cat. ,2016-05-04 19:02:27+00:00,d2sspc1,1.0,t3_4huchg,21746.0,CatsStandingUp
+424,Cat. ,2016-05-04 19:02:00+00:00,d2ssoiq,2.0,t1_d2sqneu,2547.0,CatsStandingUp
+425,Cat. ,2016-05-04 19:01:51+00:00,d2sso9g,2.0,t1_d2sickh,13186.0,CatsStandingUp
+426,Cat. ,2016-05-04 19:01:13+00:00,d2ssn8p,1.0,t3_4hu0mi,27683.0,CatsStandingUp
+427,Cat. ,2016-05-04 19:00:47+00:00,d2ssmhm,2.0,t1_d2ssjzy,90.0,CatsStandingUp
+428,Cat. ,2016-05-04 19:00:26+00:00,d2sslvv,1.0,t3_4hvx3w,1550.0,CatsStandingUp
+429,Cat. ,2016-05-04 18:40:59+00:00,d2sroe7,4.0,t1_d2srj23,186.0,CatsStandingUp
+430,Cat. ,2016-05-04 18:37:48+00:00,d2sriwe,9.0,t1_d2srcbv,229.0,CatsStandingUp
+431,Cat. ,2016-05-04 18:37:36+00:00,d2srik9,5.0,t1_d2srcun,198.0,CatsStandingUp
+432,Cat. ,2016-05-04 18:37:24+00:00,d2sri7w,8.0,t1_d2srdiv,162.0,CatsStandingUp
+433,Cat. ,2016-05-04 18:36:26+00:00,d2srgj7,2.0,t1_d2shx3u,12256.0,CatsStandingUp
+434,Cat. ,2016-05-04 18:36:08+00:00,d2srfz9,2.0,t1_d2s9fo1,28759.0,CatsStandingUp
+435,Cat. ,2016-05-04 18:35:58+00:00,d2srfoy,2.0,t1_d2s4w9w,44259.0,CatsStandingUp
+436,Cat. ,2016-05-04 18:34:55+00:00,d2srduc,3.0,t1_d2s4wtf,44158.0,CatsStandingUp
+437,Cat. ,2016-05-04 18:34:28+00:00,d2srd4z,8.0,t1_d2sb15j,23972.0,CatsStandingUp
+438,Cat. ,2016-05-04 16:41:32+00:00,d2slza3,2.0,t1_d2omy9l,254241.0,CatsStandingUp
+439,Cat. ,2016-05-04 16:41:18+00:00,d2slyv7,2.0,t1_d2pdyey,207621.0,CatsStandingUp
+440,Cat. ,2016-05-04 16:40:53+00:00,d2sly5g,2.0,t1_d2s1jie,44594.0,CatsStandingUp
+441,Cat. ,2016-05-04 16:39:41+00:00,d2slw5p,,t1_d2sd83x,12369.0,CatsStandingUp
+442,Cat. ,2016-05-04 16:39:28+00:00,d2slvsj,,t1_d2sd83x,12356.0,CatsStandingUp
+443,Cat. ,2016-05-04 16:38:57+00:00,d2sluxs,3.0,t1_d2s7u3d,27778.0,CatsStandingUp
+444,Cat. ,2016-05-04 16:38:29+00:00,d2slu7o,2.0,t1_d2s9ftt,21684.0,CatsStandingUp
+445,Cat. ,2016-05-04 16:38:11+00:00,d2sltq4,2.0,t1_d2s1m4m,44302.0,CatsStandingUp
+446,Cat. ,2016-05-04 16:36:57+00:00,d2slrlu,6.0,t1_d2sgiug,7030.0,CatsStandingUp
+447,Cat.,2016-05-04 06:55:16+00:00,d2s5oin,7.0,t1_d2s43lo,4255.0,CatsStandingUp
+448,Cat.,2016-05-04 06:55:06+00:00,d2s5od3,5.0,t1_d2rvanz,18693.0,CatsStandingUp
+449,Cat.,2016-05-04 06:54:18+00:00,d2s5noj,2.0,t1_d2s57xu,1265.0,CatsStandingUp
+450,Cat.,2016-05-04 06:54:03+00:00,d2s5ng7,2.0,t1_d2s4vdh,2212.0,CatsStandingUp
+451,Cat.,2016-05-04 06:53:42+00:00,d2s5n50,3.0,t1_d2s58xg,1148.0,CatsStandingUp
+452,Cat.,2016-05-04 06:53:27+00:00,d2s5mw5,2.0,t1_d2s1qtf,8985.0,CatsStandingUp
+453,Cat.,2016-05-04 06:53:19+00:00,d2s5mrs,2.0,t1_d2s0mve,10924.0,CatsStandingUp
+454,Cat.,2016-05-04 06:53:09+00:00,d2s5mmg,2.0,t1_d2s0cfc,11400.0,CatsStandingUp
+455,Cat.,2016-05-04 06:52:50+00:00,d2s5md9,3.0,t1_d2s58tz,1105.0,CatsStandingUp
+456,Cat.,2016-05-04 06:52:21+00:00,d2s5lz3,2.0,t1_d2s2ahp,7912.0,CatsStandingUp
+457,Cat.,2016-05-04 06:52:05+00:00,d2s5ls3,2.0,t1_d2s0n70,10835.0,CatsStandingUp
+458,Cat.,2016-05-04 06:51:45+00:00,d2s5lj3,4.0,t1_d2s589x,1085.0,CatsStandingUp
+459,Cat.,2016-05-04 06:51:36+00:00,d2s5lee,2.0,t1_d2rzdqu,12809.0,CatsStandingUp
+460,Cat.,2016-05-04 06:51:19+00:00,d2s5l6x,4.0,t1_d2s58qa,1022.0,CatsStandingUp
+461,Cat.,2016-05-04 06:49:57+00:00,d2s5k88,4.0,t1_d2s5850,988.0,CatsStandingUp
+462,Cat.,2016-05-04 06:48:55+00:00,d2s5jgw,7.0,t1_d2s2ah6,7706.0,CatsStandingUp
+463,Cat.,2016-05-04 06:48:45+00:00,d2s5jck,6.0,t1_d2s5814,925.0,CatsStandingUp
+464,Cat.,2016-05-04 06:48:24+00:00,d2s5j36,5.0,t1_d2rzcq1,12657.0,CatsStandingUp
+465,Cat.,2016-05-04 06:46:41+00:00,d2s5hwb,7.0,t1_d2s58ff,768.0,CatsStandingUp
+466,Cat.,2016-05-04 06:46:16+00:00,d2s5hm0,2.0,t1_d2s4vxz,1701.0,CatsStandingUp
+467,Cat.,2016-05-04 06:46:03+00:00,d2s5hgf,2.0,t1_d2s43u7,3686.0,CatsStandingUp
+468,Cat.,2016-05-04 06:45:35+00:00,d2s5h4g,3.0,t1_d2s459k,3565.0,CatsStandingUp
+469,Cat.,2016-05-04 06:45:21+00:00,d2s5gyy,16.0,t1_d2s450w,3567.0,CatsStandingUp
+470,Cat.,2016-05-04 06:44:49+00:00,d2s5glb,2.0,t1_d2s4vp6,1633.0,CatsStandingUp
+471,Cat.,2016-05-04 06:44:38+00:00,d2s5ggc,2.0,t1_d2s43k9,3619.0,CatsStandingUp
+472,Cat.,2016-05-04 06:43:57+00:00,d2s5fxz,3.0,t1_d2s44mc,3509.0,CatsStandingUp
+473,Cat.,2016-05-04 06:42:59+00:00,d2s5f7q,3.0,t1_d2s40j6,3720.0,CatsStandingUp
+474,Cat.,2016-05-04 05:21:01+00:00,d2s3hp6,1.0,t3_4fyv48,1001462.0,CatsStandingUp
+475,Cat.,2016-05-04 05:20:17+00:00,d2s3gzs,1.0,t3_4hshpw,9921.0,CatsStandingUp
+476,Cat.,2016-05-04 05:18:51+00:00,d2s3fiq,1.0,t3_4hpwe8,32864.0,CatsStandingUp
+477,Cat.,2016-05-04 05:17:39+00:00,d2s3e9k,3.0,t1_d2s38lq,320.0,CatsStandingUp
+478,Cat.,2016-05-04 05:08:48+00:00,d2s34zb,2.0,t1_d2s2rii,772.0,CatsStandingUp
+479,Cat.,2016-05-04 05:08:09+00:00,d2s34ad,3.0,t1_d2s326i,119.0,CatsStandingUp
+480,Cat.,2016-05-04 05:06:57+00:00,d2s332g,4.0,t1_d2s29xp,1616.0,CatsStandingUp
+481,Cat.,2016-05-04 05:06:20+00:00,d2s32d4,3.0,t1_d2s1mhh,2772.0,CatsStandingUp
+482,Cat.,2016-05-04 05:05:59+00:00,d2s31zr,2.0,t1_d2s2fev,1268.0,CatsStandingUp
+483,Cat.,2016-05-04 05:05:49+00:00,d2s31sh,3.0,t1_d2s2f5n,1271.0,CatsStandingUp
+484,Cat.,2016-05-04 05:05:33+00:00,d2s31i3,6.0,t1_d2s2epw,1278.0,CatsStandingUp
+485,Cat.,2016-05-04 05:05:15+00:00,d2s316p,4.0,t1_d2s1uw4,2289.0,CatsStandingUp
+486,Cat.,2016-05-04 05:04:40+00:00,d2s30m8,3.0,t1_d2s1lxd,2701.0,CatsStandingUp
+487,Cat.,2016-05-04 04:16:17+00:00,d2s1hw4,3.0,t1_d2s1epy,155.0,CatsStandingUp
+488,Cat.,2016-05-04 04:15:29+00:00,d2s1gwy,,t1_d2cbzql,,CatsStandingUp
+489,Cat.,2016-05-04 04:15:16+00:00,d2s1gnx,,t1_d2ckecv,,CatsStandingUp
+490,Cat.,2016-05-04 04:14:56+00:00,d2s1g9i,1.0,t3_4fv7pb,1061434.0,CatsStandingUp
+491,Cat.,2016-05-04 04:13:54+00:00,d2s1eyv,,t1_d1sk64j,,CatsStandingUp
+492,Cat.,2016-05-04 04:13:31+00:00,d2s1eh7,,t1_d1qphe0,,CatsStandingUp
+493,Cat.,2016-05-04 04:13:18+00:00,d2s1e8b,1.0,t3_4dgnwl,2468505.0,CatsStandingUp
+494,Cat.,2016-05-04 04:12:51+00:00,d2s1doz,,t1_d1synv3,,CatsStandingUp
+495,Cat.,2016-05-04 04:12:30+00:00,d2s1d9v,1.0,t3_4djahl,2433805.0,CatsStandingUp
+496,Cat.,2016-05-04 04:11:55+00:00,d2s1ck3,,t1_d1u8rmz,,CatsStandingUp
+497,Cat.,2016-05-04 04:11:43+00:00,d2s1caz,,t1_d1syn63,,CatsStandingUp
+498,Cat.,2016-05-04 04:11:32+00:00,d2s1c1p,,t1_d1scbge,,CatsStandingUp
+499,Cat.,2016-05-04 04:11:18+00:00,d2s1brr,1.0,t3_4dmoso,2372661.0,CatsStandingUp
+500,Cat.,2016-05-04 04:10:38+00:00,d2s1azi,,t1_d1symrw,,CatsStandingUp
+501,Cat.,2016-05-04 04:10:24+00:00,d2s1aou,1.0,t3_4dnr2r,2358882.0,CatsStandingUp
+502,Cat.,2016-05-04 04:09:24+00:00,d2s19f9,1.0,t3_4dpbbg,2335583.0,CatsStandingUp
+503,Cat.,2016-05-04 04:08:51+00:00,d2s18qv,,t1_d1utx2d,,CatsStandingUp
+504,Cat.,2016-05-04 04:08:34+00:00,d2s18g4,1.0,t3_4dpl8d,2330516.0,CatsStandingUp
+505,Cat.,2016-05-04 04:07:45+00:00,d2s17g0,,t1_d1utw4a,,CatsStandingUp
+506,Cat.,2016-05-04 04:07:35+00:00,d2s178c,,t1_d1usl67,,CatsStandingUp
+507,Cat.,2016-05-04 04:07:22+00:00,d2s16zc,1.0,t3_4dvosn,2226359.0,CatsStandingUp
+508,Cat.,2016-05-04 04:06:39+00:00,d2s165m,,t1_d2s12qv,166.0,CatsStandingUp
+509,Cat.,2016-05-04 04:06:01+00:00,d2s15cw,,t1_d1uty5b,,CatsStandingUp
+510,Cat.,2016-05-04 04:05:50+00:00,d2s154p,,t1_d1utvrs,,CatsStandingUp
+511,Cat.,2016-05-04 04:05:39+00:00,d2s14vs,,t1_d1v8c6p,,CatsStandingUp
+512,Cat.,2016-05-04 04:05:22+00:00,d2s14ja,,t1_d1uufc1,,CatsStandingUp
+513,Cat.,2016-05-04 04:05:09+00:00,d2s149l,1.0,t3_4dw61f,2215906.0,CatsStandingUp
+514,Cat.,2016-05-04 04:04:23+00:00,d2s13cu,,t1_d1vhsu3,,CatsStandingUp
+515,Cat.,2016-05-04 04:04:04+00:00,d2s12yx,,t1_d1vgmec,,CatsStandingUp
+516,Cat.,2016-05-04 04:03:49+00:00,d2s12oa,1.0,t3_4dw95p,2214411.0,CatsStandingUp
+517,Cat.,2016-05-04 04:03:23+00:00,d2s126f,,t1_d1vglqj,,CatsStandingUp
+518,Cat.,2016-05-04 04:02:42+00:00,d2s11bt,1.0,t3_4dxe43,2198716.0,CatsStandingUp
+519,Cat.,2016-05-04 04:02:10+00:00,d2s10mj,,t1_d1wbr6w,,CatsStandingUp
+520,Cat.,2016-05-04 04:01:40+00:00,d2s100x,1.0,t3_4e0umw,2135428.0,CatsStandingUp
+521,Cat.,2016-05-04 04:01:02+00:00,d2s0z9x,1.0,t3_4e2jbq,2105827.0,CatsStandingUp
+522,Cat.,2016-05-04 04:00:27+00:00,d2s0yjl,,t1_d1xa2um,,CatsStandingUp
+523,Cat.,2016-05-04 04:00:15+00:00,d2s0y9f,1.0,t3_4e3fok,2092201.0,CatsStandingUp
+524,Cat.,2016-05-04 03:59:30+00:00,d2s0xb9,1.0,t3_4e6ngn,2025273.0,CatsStandingUp
+525,Cat.,2016-05-04 03:56:03+00:00,d2s0t1c,,t1_d2s0qer,122.0,CatsStandingUp
+526,Cat.,2016-05-04 03:55:37+00:00,d2s0sge,,t1_d1y0rcb,,CatsStandingUp
+527,Cat.,2016-05-04 03:55:09+00:00,d2s0rvc,1.0,t3_4e81jv,2005101.0,CatsStandingUp
+528,Cat.,2016-05-04 03:53:41+00:00,d2s0pz1,,t1_d2emmk6,,CatsStandingUp
+529,Cat.,2016-05-04 03:53:27+00:00,d2s0ppd,,t1_d2fs8jj,,CatsStandingUp
+530,Cat.,2016-05-04 03:53:10+00:00,d2s0pdf,,t1_d2freq0,,CatsStandingUp
+531,Cat.,2016-05-04 03:52:42+00:00,d2s0oqu,,t1_d2ekz1e,,CatsStandingUp
+532,Cat.,2016-05-04 03:52:27+00:00,d2s0oey,1.0,t3_4g41ax,906644.0,CatsStandingUp
+533,Cat.,2016-05-04 03:49:49+00:00,d2s0kzp,2.0,t1_d2s0i1s,137.0,CatsStandingUp
+534,Cat.,2016-05-04 03:49:43+00:00,d2s0kuc,2.0,t1_d2rvquq,6964.0,CatsStandingUp
+535,Cat.,2016-05-04 03:47:37+00:00,d2s0i5k,,t1_d24fc2u,,CatsStandingUp
+536,Cat.,2016-05-04 03:47:23+00:00,d2s0hui,,t1_d239llt,,CatsStandingUp
+537,Cat.,2016-05-04 03:47:09+00:00,d2s0hjx,,t1_d2364ea,,CatsStandingUp
+538,Cat.,2016-05-04 03:46:50+00:00,d2s0h4v,1.0,t3_4eqh5y,1705015.0,CatsStandingUp
+539,Cat.,2016-05-04 03:45:56+00:00,d2s0g08,,t1_d2jic8e,,CatsStandingUp
+540,Cat.,2016-05-04 03:45:41+00:00,d2s0fp7,,t1_d2f8iqg,,CatsStandingUp
+541,Cat.,2016-05-04 03:45:16+00:00,d2s0f5s,,t1_d2f8iys,,CatsStandingUp
+542,Cat.,2016-05-04 03:44:48+00:00,d2s0ekn,,t1_d2f8j5z,,CatsStandingUp
+543,Cat.,2016-05-04 03:44:25+00:00,d2s0e2c,,t1_d2f8j2t,,CatsStandingUp
+544,Cat.,2016-05-04 03:44:08+00:00,d2s0dp2,1.0,t3_4g66mh,873697.0,CatsStandingUp
+545,Cat.,2016-05-04 03:43:05+00:00,d2s0cca,,t1_d2faz1g,,CatsStandingUp
+546,Cat.,2016-05-04 03:41:34+00:00,d2s0aev,,t1_d2gmn4t,,CatsStandingUp
+547,Cat.,2016-05-04 03:41:22+00:00,d2s0a5h,,t1_d2flb7s,,CatsStandingUp
+548,Cat.,2016-05-04 03:40:57+00:00,d2s09mw,,t1_d2eyx14,,CatsStandingUp
+549,Cat.,2016-05-04 03:40:40+00:00,d2s0986,,t1_d2en4c1,,CatsStandingUp
+550,Cat.,2016-05-04 03:40:19+00:00,d2s08rb,,t1_d2e8yjl,,CatsStandingUp
+551,Cat.,2016-05-04 03:39:09+00:00,d2s074m,,t1_d2eklgy,,CatsStandingUp
+552,Cat.,2016-05-04 03:38:29+00:00,d2s067j,,t1_d2eprdd,,CatsStandingUp
+553,Cat.,2016-05-04 03:37:44+00:00,d2s057b,,t1_d2em2gj,,CatsStandingUp
+554,Cat.,2016-05-04 03:37:17+00:00,d2s04ke,,t1_d2f0q8r,,CatsStandingUp
+555,Cat.,2016-05-04 03:36:47+00:00,d2s03v0,,t1_d2ealgx,,CatsStandingUp
+556,Cat.,2016-05-04 03:35:57+00:00,d2s02p3,,t1_d2ipn8r,,CatsStandingUp
+557,Cat.,2016-05-04 03:35:22+00:00,d2s01wj,,t1_d2f2c2c,,CatsStandingUp
+558,Cat.,2016-05-04 03:34:55+00:00,d2s01bi,,t1_d2emmd0,,CatsStandingUp
+559,Cat.,2016-05-04 03:34:02+00:00,d2s002k,,t1_d2el7jr,,CatsStandingUp
+560,Cat.,2016-05-04 03:33:44+00:00,d2rzznh,,t1_d2eg67n,,CatsStandingUp
+561,Cat.,2016-05-04 03:33:20+00:00,d2rzz3j,1.0,t3_4g3hcp,914421.0,CatsStandingUp
+562,Cat.,2016-05-04 03:32:34+00:00,d2rzy0q,,t1_d2f5gd2,,CatsStandingUp
+563,Cat.,2016-05-04 03:32:20+00:00,d2rzxq4,,t1_d2f8hmt,,CatsStandingUp
+564,Cat.,2016-05-04 03:32:01+00:00,d2rzxb9,,t1_d2fpexl,,CatsStandingUp
+565,Cat.,2016-05-04 03:31:45+00:00,d2rzwxc,,t1_d2f8hvv,,CatsStandingUp
+566,Cat.,2016-05-04 03:31:23+00:00,d2rzwfa,1.0,t3_4g6kk5,865900.0,CatsStandingUp
+567,Cat.,2016-05-04 03:30:33+00:00,d2rzvay,,t1_d2j750a,,CatsStandingUp
+568,Cat.,2016-05-04 03:30:19+00:00,d2rzuz4,,t1_d2g4r36,,CatsStandingUp
+569,Cat.,2016-05-04 03:30:03+00:00,d2rzulq,,t1_d2fy8jq,,CatsStandingUp
+570,Cat.,2016-05-04 03:29:44+00:00,d2rzu5q,1.0,t3_4g9v9o,802671.0,CatsStandingUp
+571,Cat.,2016-05-04 03:28:59+00:00,d2rzt3f,,t1_d2fn3ju,,CatsStandingUp
+572,Cat.,2016-05-04 03:28:42+00:00,d2rzsq3,,t1_d2fs739,,CatsStandingUp
+573,Cat.,2016-05-04 03:28:15+00:00,d2rzs3t,1.0,t3_4g8uja,816474.0,CatsStandingUp
+574,Cat.,2016-05-04 03:27:12+00:00,d2rzqlr,,t1_d2ikgop,,CatsStandingUp
+575,Cat.,2016-05-04 03:25:44+00:00,d2rzoli,,t1_d2fab76,,CatsStandingUp
+576,Cat.,2016-05-04 03:25:29+00:00,d2rzo7h,,t1_d2f7wy8,,CatsStandingUp
+577,Cat.,2016-05-04 03:25:15+00:00,d2rznw1,1.0,t3_4g788r,850891.0,CatsStandingUp
+578,Cat.,2016-05-04 03:24:01+00:00,d2rzm7z,2.0,t1_d2rxm3w,2911.0,CatsStandingUp
+579,Cat.,2016-05-04 03:23:17+00:00,d2rzl69,,t1_d2ii1xz,,CatsStandingUp
+580,Cat.,2016-05-04 03:22:46+00:00,d2rzkgb,,t1_d2gt6of,,CatsStandingUp
+581,Cat.,2016-05-04 03:22:34+00:00,d2rzk60,,t1_d2fy8ts,,CatsStandingUp
+582,Cat.,2016-05-04 03:22:14+00:00,d2rzjo2,1.0,t3_4gaark,796347.0,CatsStandingUp
+583,Cat.,2016-05-04 03:21:47+00:00,d2rzizw,1.0,t3_4hsjzn,1888.0,CatsStandingUp
+584,Cat.,2016-05-04 03:21:43+00:00,d2rziwa,1.0,t3_4hsjzn,1884.0,CatsStandingUp
+585,Cat.,2016-05-04 03:20:31+00:00,d2rzh4h,3.0,t1_d2rybzz,1668.0,CatsStandingUp
+586,Cat.,2016-05-04 03:20:12+00:00,d2rzgpm,2.0,t1_d2rwaxe,4442.0,CatsStandingUp
+587,Cat.,2016-05-04 03:19:59+00:00,d2rzgex,2.0,t1_d2rvk1k,5434.0,CatsStandingUp
+588,Cat.,2016-05-04 03:19:35+00:00,d2rzftz,4.0,t1_d2ruozu,6580.0,CatsStandingUp
+589,Cat.,2016-05-04 03:19:15+00:00,d2rzfcj,1.0,t3_4hs5o1,7280.0,CatsStandingUp
+590,Cat.,2016-05-04 03:18:09+00:00,d2rzdsw,6.0,t1_d2rxaz2,2949.0,CatsStandingUp
+591,Cat.,2016-05-04 03:17:38+00:00,d2rzd0g,2.0,t1_d2ruju0,6662.0,CatsStandingUp
+592,Cat.,2016-05-04 03:17:09+00:00,d2rzcax,1.0,t3_4hs2mk,8235.0,CatsStandingUp
+593,Cat.,2016-05-04 02:28:17+00:00,d2rx9sg,2.0,t1_d2rucol,3973.0,CatsStandingUp
+594,Cat.,2016-05-04 02:28:09+00:00,d2rx9lb,1.0,t3_4hs4ry,4549.0,CatsStandingUp
+595,Cat.,2016-05-04 02:26:51+00:00,d2rx7m9,2.0,t1_d2rwb7k,1229.0,CatsStandingUp
+596,Cat.,2016-05-04 02:26:34+00:00,d2rx764,2.0,t1_d2rvh1f,2342.0,CatsStandingUp
+597,Cat.,2016-05-04 02:26:14+00:00,d2rx6p1,4.0,t1_d2rwtpu,482.0,CatsStandingUp
+598,Cat.,2016-05-04 02:25:53+00:00,d2rx65q,1.0,t3_4hs5hw,4152.0,CatsStandingUp
+599,Cat.,2016-05-04 02:25:29+00:00,d2rx5ia,5.0,t1_d2rvanz,2516.0,CatsStandingUp
+600,Cat.,2016-05-04 02:24:50+00:00,d2rx4in,2.0,t1_d2rvdgb,2376.0,CatsStandingUp
+601,Cat.,2016-05-04 02:24:29+00:00,d2rx3z7,2.0,t1_d2rs9jv,6512.0,CatsStandingUp
+602,Cat.,2016-05-04 02:23:26+00:00,d2rx29j,2.0,t1_d2rjzzc,18213.0,CatsStandingUp
+603,Cat.,2016-05-04 02:23:12+00:00,d2rx1w5,2.0,t1_d2rjvpd,18360.0,CatsStandingUp
+604,Cat.,2016-05-04 02:22:45+00:00,d2rx16s,3.0,t1_d2rj4n2,19331.0,CatsStandingUp
+605,Cat.,2016-05-04 02:21:52+00:00,d2rwzt4,4.0,t1_d2rumiv,3211.0,CatsStandingUp
+606,Cat.,2016-05-04 02:21:38+00:00,d2rwzeq,4.0,t1_d2rgxwg,21964.0,CatsStandingUp
+607,Cat.,2016-05-04 02:20:52+00:00,d2rwy4r,3.0,t1_d2rhub4,20788.0,CatsStandingUp
+608,Cat.,2016-05-04 02:19:35+00:00,d2rwvzt,6.0,t1_d2rix3k,19403.0,CatsStandingUp
+609,Cat.,2016-05-04 00:47:36+00:00,d2rst3c,3.0,t1_d2rlemu,10536.0,CatsStandingUp
+610,Cat.,2016-05-04 00:47:22+00:00,d2rsspj,4.0,t1_d2rslr2,250.0,CatsStandingUp
+611,Cat.,2016-05-04 00:47:08+00:00,d2rssbm,3.0,t1_d2rkjxk,11688.0,CatsStandingUp
+612,Cat.,2016-05-04 00:43:46+00:00,d2rsmtk,3.0,t1_d2rjnga,12702.0,CatsStandingUp
+613,Cat.,2016-05-03 22:52:57+00:00,d2rnxdy,2.0,t1_d2rn23m,1272.0,CatsStandingUp
+614,Cat.,2016-05-03 22:52:44+00:00,d2rnx37,3.0,t1_d2rldh1,3689.0,CatsStandingUp
+615,Cat.,2016-05-03 22:52:27+00:00,d2rnwoz,3.0,t1_d2rh7t3,9063.0,CatsStandingUp
+616,Cat.,2016-05-03 22:51:30+00:00,d2rnvad,6.0,t1_d2rje7q,6308.0,CatsStandingUp
+617,Cat.,2016-05-03 22:50:39+00:00,d2rnu1q,5.0,t1_d2rh4dw,9077.0,CatsStandingUp
+618,Cat.,2016-05-03 20:18:26+00:00,d2rh2te,4.0,t1_d2rgyi7,151.0,CatsStandingUp
+619,Cat.,2016-05-03 20:17:54+00:00,d2rh1w5,3.0,t1_d2rgxyr,138.0,CatsStandingUp
+620,Cat.,2016-05-03 20:17:35+00:00,d2rh1bx,,t1_d2ijk5b,,CatsStandingUp
+621,Cat.,2016-05-03 20:17:08+00:00,d2rh0in,,t1_d2gmiem,,CatsStandingUp
+622,Cat.,2016-05-03 20:16:57+00:00,d2rh06k,,t1_d2fy7zr,,CatsStandingUp
+623,Cat.,2016-05-03 20:16:31+00:00,d2rgzgb,,t1_d2fxg5g,,CatsStandingUp
+624,Cat.,2016-05-03 20:16:16+00:00,d2rgz2q,1.0,t3_4g9vbe,776647.0,CatsStandingUp
+625,Cat.,2016-05-03 20:15:50+00:00,d2rgycy,2.0,t1_d2rg1v1,1137.0,CatsStandingUp
+626,Cat.,2016-05-03 20:15:45+00:00,d2rgy88,2.0,t1_d2rg1pb,1137.0,CatsStandingUp
+627,Cat.,2016-05-03 20:15:37+00:00,d2rgxzv,1.0,t3_4hppl6,1590.0,CatsStandingUp
+628,Cat.,2016-05-03 20:15:05+00:00,d2rgx1j,5.0,t1_d2rfzl1,1171.0,CatsStandingUp
+629,Cat.,2016-05-03 20:14:45+00:00,d2rgwgt,2.0,t1_d2rgpd9,252.0,CatsStandingUp
+630,Cat.,2016-05-03 20:14:34+00:00,d2rgw5x,3.0,t1_d2rgaxa,752.0,CatsStandingUp
+631,Cat.,2016-05-03 20:14:26+00:00,d2rgvym,2.0,t1_d2rg7hs,864.0,CatsStandingUp
+632,Cat.,2016-05-03 20:14:17+00:00,d2rgvpt,1.0,t3_4hpsl0,943.0,CatsStandingUp
+633,Cat.,2016-05-03 19:43:14+00:00,d2rff2w,,t1_d2iwomk,,CatsStandingUp
+634,Cat.,2016-05-03 19:42:39+00:00,d2rfe27,,t1_d2fyeu0,,CatsStandingUp
+635,Cat.,2016-05-03 19:42:09+00:00,d2rfdam,,t1_d2fy7oc,,CatsStandingUp
+636,Cat.,2016-05-03 19:41:56+00:00,d2rfcvu,,t1_d2g4qpd,,CatsStandingUp
+637,Cat.,2016-05-03 19:41:31+00:00,d2rfc7f,1.0,t3_4gam6k,764148.0,CatsStandingUp
+638,Cat.,2016-05-03 19:39:10+00:00,d2rf88i,4.0,t1_d2rf3to,162.0,CatsStandingUp
+639,Cat.,2016-05-03 19:38:13+00:00,d2rf6o5,3.0,t1_d2n432b,303900.0,CatsStandingUp
+640,Cat.,2016-05-03 19:38:01+00:00,d2rf6ba,3.0,t1_d2n9td4,282417.0,CatsStandingUp
+641,Cat.,2016-05-03 19:37:50+00:00,d2rf61m,2.0,t1_d2n32mj,307255.0,CatsStandingUp
+642,Cat.,2016-05-03 19:37:24+00:00,d2rf5cw,3.0,t1_d2n3o6p,305292.0,CatsStandingUp
+643,Cat.,2016-05-03 19:37:15+00:00,d2rf54e,2.0,t1_d2n2icr,308908.0,CatsStandingUp
+644,Cat.,2016-05-03 19:36:58+00:00,d2rf4nn,,t1_d2n26oz,,CatsStandingUp
+645,Cat.,2016-05-03 19:36:25+00:00,d2rf3qn,1.0,t3_4h3b3c,310389.0,CatsStandingUp
+646,Cat.,2016-05-03 19:35:46+00:00,d2rf2pd,3.0,t1_d2r86e6,8891.0,CatsStandingUp
+647,Cat.,2016-05-03 19:35:36+00:00,d2rf2f3,2.0,t1_d2r1l08,17681.0,CatsStandingUp
+648,Cat.,2016-05-03 19:35:23+00:00,d2rf239,3.0,t1_d2r8l6w,8333.0,CatsStandingUp
+649,Cat.,2016-05-03 19:35:09+00:00,d2rf1op,3.0,t1_d2r2gju,16413.0,CatsStandingUp
+650,Cat.,2016-05-03 19:34:39+00:00,d2rf0ur,1.0,t3_4hnhhw,18592.0,CatsStandingUp
+651,Cat.,2016-05-03 19:34:13+00:00,d2rf04r,2.0,t1_d2r789v,10042.0,CatsStandingUp
+652,Cat.,2016-05-03 19:34:01+00:00,d2rezsm,1.0,t3_4hnjsn,17703.0,CatsStandingUp
+653,Cat.,2016-05-03 19:33:02+00:00,d2rey57,2.0,t1_d2rc1h8,3746.0,CatsStandingUp
+654,Cat.,2016-05-03 19:32:27+00:00,d2rex6n,5.0,t1_d2rdyis,1231.0,CatsStandingUp
+655,Cat.,2016-05-03 19:32:17+00:00,d2reww9,4.0,t1_d2ram96,5538.0,CatsStandingUp
+656,Cat.,2016-05-03 19:31:59+00:00,d2rewet,2.0,t1_d2r93ag,7483.0,CatsStandingUp
+657,Cat.,2016-05-03 19:31:50+00:00,d2rew5d,2.0,t1_d2rativ,5249.0,CatsStandingUp
+658,Cat.,2016-05-03 19:31:13+00:00,d2rev5l,5.0,t1_d2r8j06,8160.0,CatsStandingUp
+659,Cat.,2016-05-03 19:30:56+00:00,d2reun7,2.0,t1_d2r3hyw,14747.0,CatsStandingUp
+660,Cat.,2016-05-03 19:30:21+00:00,d2retom,3.0,t1_d2raovx,5330.0,CatsStandingUp
+661,Cat.,2016-05-03 19:30:00+00:00,d2ret3z,2.0,t1_d2r74dk,9934.0,CatsStandingUp
+662,Cat.,2016-05-03 19:29:11+00:00,d2rersu,2.0,t1_d2rbdkl,4373.0,CatsStandingUp
+663,Cat.,2016-05-03 19:29:05+00:00,d2rerme,2.0,t1_d2r8qj8,7763.0,CatsStandingUp
+664,Cat.,2016-05-03 19:28:57+00:00,d2rerek,2.0,t1_d2r787z,9728.0,CatsStandingUp
+665,Cat.,2016-05-03 19:28:46+00:00,d2rer4k,1.0,t3_4hlkpf,55390.0,CatsStandingUp
+666,Cat.,2016-05-03 19:28:05+00:00,d2req02,2.0,t1_d2rbdab,4317.0,CatsStandingUp
+667,Cat.,2016-05-03 19:27:53+00:00,d2repnq,3.0,t1_d2rb0vq,4751.0,CatsStandingUp
+668,Cat.,2016-05-03 19:27:44+00:00,d2repdg,2.0,t1_d2r7857,9657.0,CatsStandingUp
+669,Cat.,2016-05-03 19:27:33+00:00,d2rep3l,2.0,t1_d2r7q4j,8991.0,CatsStandingUp
+670,Cat.,2016-05-03 19:27:15+00:00,d2reok6,2.0,t1_d2r6aax,10857.0,CatsStandingUp
+671,Cat.,2016-05-03 19:26:58+00:00,d2reo4b,1.0,t3_4hjvys,79363.0,CatsStandingUp
+672,Cat.,2016-05-03 19:22:11+00:00,d2refwh,2.0,t1_d2r13jf,17576.0,CatsStandingUp
+673,Cat.,2016-05-03 19:21:53+00:00,d2refeb,2.0,t1_d2qzcp5,20261.0,CatsStandingUp
+674,Cat.,2016-05-03 19:21:32+00:00,d2reesw,2.0,t1_d2qwoy7,25393.0,CatsStandingUp
+675,Cat.,2016-05-03 19:21:16+00:00,d2reedj,2.0,t1_d2qupms,30997.0,CatsStandingUp
+676,Cat.,2016-05-03 19:20:38+00:00,d2redai,2.0,t1_d2qry4i,41561.0,CatsStandingUp
+677,Cat.,2016-05-03 19:20:17+00:00,d2recng,2.0,t1_d2qp1hc,50001.0,CatsStandingUp
+678,Cat.,2016-05-03 19:20:01+00:00,d2rec64,2.0,t1_d2qoxsi,50233.0,CatsStandingUp
+679,Cat.,2016-05-03 19:19:09+00:00,d2reanh,5.0,t1_d2qgreu,63866.0,CatsStandingUp
+680,Cat.,2016-05-03 19:18:41+00:00,d2re9ty,2.0,t1_d2rdn61,819.0,CatsStandingUp
+681,Cat.,2016-05-03 19:17:29+00:00,d2re7tu,3.0,t1_d2qptv8,47847.0,CatsStandingUp
+682,Cat.,2016-05-03 19:17:02+00:00,d2re71h,4.0,t1_d2qzqvc,19324.0,CatsStandingUp
+683,Cat.,2016-05-03 19:16:50+00:00,d2re6q8,3.0,t1_d2qst1c,38131.0,CatsStandingUp
+684,Cat.,2016-05-03 19:16:12+00:00,d2re5nj,7.0,t1_d2qypee,21039.0,CatsStandingUp
+685,Cat.,2016-05-03 19:15:31+00:00,d2re4il,8.0,t1_d2qnas0,53424.0,CatsStandingUp
+686,Cat.,2016-05-03 19:15:09+00:00,d2re3vd,4.0,t1_d2qu4l7,32787.0,CatsStandingUp
+687,Cat.,2016-05-03 19:14:33+00:00,d2re2wk,4.0,t1_d2qvzhf,26712.0,CatsStandingUp
+688,Cat.,2016-05-03 19:14:17+00:00,d2re2fz,3.0,t1_d2qtw7s,33669.0,CatsStandingUp
+689,Cat.,2016-05-03 19:13:59+00:00,d2re1xi,3.0,t1_d2qvtq3,27114.0,CatsStandingUp
+690,Cat.,2016-05-03 19:11:48+00:00,d2rdyak,14.0,t1_d2qyvnz,20472.0,CatsStandingUp
+691,Cat.,2016-05-03 19:11:08+00:00,d2rdx8r,9.0,t1_d2qo2t9,51611.0,CatsStandingUp
+692,Cat.,2016-05-03 19:10:16+00:00,d2rdvtf,,t1_d2r2zey,14195.0,CatsStandingUp
+693,Cat.,2016-05-03 19:09:29+00:00,d2rduj5,4.0,t1_d2r12wu,16840.0,CatsStandingUp
+694,Cat.,2016-05-03 19:09:03+00:00,d2rdtte,2.0,t1_d2r66iw,9904.0,CatsStandingUp
+695,Cat.,2016-05-03 19:08:42+00:00,d2rdt8q,4.0,t1_d2qaajv,72583.0,CatsStandingUp
+696,Cat.,2016-05-03 19:08:26+00:00,d2rdssv,2.0,t1_d2q7s3a,76083.0,CatsStandingUp
+697,Cat.,2016-05-03 19:08:08+00:00,d2rdsb0,2.0,t1_d2q72lk,77013.0,CatsStandingUp
+698,Cat.,2016-05-03 19:07:28+00:00,d2rdr7r,1.0,t3_4hjkmr,82052.0,CatsStandingUp
+699,Cat.,2016-05-03 19:06:46+00:00,d2rdq29,,t1_d2qucns,31433.0,CatsStandingUp
+700,Cat.,2016-05-03 19:06:01+00:00,d2rdorp,2.0,t1_d2r9rrb,5039.0,CatsStandingUp
+701,Cat.,2016-05-03 19:05:49+00:00,d2rdog3,2.0,t1_d2r5tca,10186.0,CatsStandingUp
+702,Cat.,2016-05-03 19:05:05+00:00,d2rdn9o,2.0,t1_d2qrr3u,41299.0,CatsStandingUp
+703,Cat.,2016-05-03 19:04:54+00:00,d2rdmxf,6.0,t1_d2r08el,17830.0,CatsStandingUp
+704,Cat.,2016-05-03 19:04:40+00:00,d2rdmk2,4.0,t1_d2qtdbw,35194.0,CatsStandingUp
+705,Cat.,2016-05-03 19:04:23+00:00,d2rdm4x,3.0,t1_d2qs4ky,39945.0,CatsStandingUp
+706,Cat.,2016-05-03 19:02:10+00:00,d2rdid4,6.0,t1_d2qsyed,36679.0,CatsStandingUp
+707,Cat.,2016-05-03 19:00:18+00:00,d2rdf9k,2.0,t1_d2raagg,4035.0,CatsStandingUp
+708,Cat.,2016-05-03 19:00:02+00:00,d2rdetc,4.0,t1_d2rco3r,955.0,CatsStandingUp
+709,Cat.,2016-05-03 18:59:38+00:00,d2rde62,1.0,t3_4hoong,4720.0,CatsStandingUp
+710,Cat.,2016-05-03 07:18:01+00:00,d2qrezh,,t1_d1z3ib7,,CatsStandingUp
+711,Cat.,2016-05-03 07:17:53+00:00,d2qreww,,t1_d1yutkq,,CatsStandingUp
+712,Cat.,2016-05-03 07:17:42+00:00,d2qrerx,1.0,t3_4ec0ew,1860816.0,CatsStandingUp
+713,Cat.,2016-05-03 07:17:32+00:00,d2qrenm,,t1_d1z8g72,,CatsStandingUp
+714,Cat.,2016-05-03 07:17:23+00:00,d2qrekh,,t1_d1yyww7,,CatsStandingUp
+715,Cat.,2016-05-03 07:17:15+00:00,d2qregk,,t1_d1zqr6s,,CatsStandingUp
+716,Cat.,2016-05-03 07:17:07+00:00,d2qrede,,t1_d1z3hc9,,CatsStandingUp
+717,Cat.,2016-05-03 07:16:58+00:00,d2qre9l,,t1_d1yuiiu,,CatsStandingUp
+718,Cat.,2016-05-03 07:16:49+00:00,d2qre5z,,t1_d1yqyd5,,CatsStandingUp
+719,Cat.,2016-05-03 07:16:39+00:00,d2qre2e,1.0,t3_4ec0b0,1860789.0,CatsStandingUp
+720,Cat.,2016-05-03 07:16:26+00:00,d2qrdx5,,t1_d1z3h01,,CatsStandingUp
+721,Cat.,2016-05-03 07:16:16+00:00,d2qrdt2,,t1_d1yuk8i,,CatsStandingUp
+722,Cat.,2016-05-03 07:16:03+00:00,d2qrdop,1.0,t3_4ebq1p,1864349.0,CatsStandingUp
+723,Cat.,2016-05-03 07:14:58+00:00,d2qrd0t,,t1_d1yu4ce,,CatsStandingUp
+724,Cat.,2016-05-03 07:14:37+00:00,d2qrcs9,1.0,t3_4ecc0w,1856613.0,CatsStandingUp
+725,Cat.,2016-05-03 07:14:27+00:00,d2qrcoo,,t1_d1z4uyv,,CatsStandingUp
+726,Cat.,2016-05-03 07:14:09+00:00,d2qrchu,,t1_d1z5tlg,,CatsStandingUp
+727,Cat.,2016-05-03 07:13:58+00:00,d2qrccb,,t1_d1z49um,,CatsStandingUp
+728,Cat.,2016-05-03 07:13:49+00:00,d2qrc92,,t1_d1z3g6j,,CatsStandingUp
+729,Cat.,2016-05-03 07:13:40+00:00,d2qrc5g,,t1_d1z0wdo,,CatsStandingUp
+730,Cat.,2016-05-03 07:13:32+00:00,d2qrc2a,,t1_d1yzllq,,CatsStandingUp
+731,Cat.,2016-05-03 07:13:21+00:00,d2qrbxt,1.0,t3_4ecp7y,1851966.0,CatsStandingUp
+732,Cat.,2016-05-03 07:13:09+00:00,d2qrbtg,,t1_d1yx8l2,,CatsStandingUp
+733,Cat.,2016-05-03 07:12:54+00:00,d2qrbny,,t1_d21srp9,,CatsStandingUp
+734,Cat.,2016-05-03 07:12:39+00:00,d2qrbi6,,t1_d1z56oo,,CatsStandingUp
+735,Cat.,2016-05-03 07:12:24+00:00,d2qrbb0,,t1_d1yzldr,,CatsStandingUp
+736,Cat.,2016-05-03 07:12:07+00:00,d2qrb5e,1.0,t3_4ecnnc,1852418.0,CatsStandingUp
+737,Cat.,2016-05-03 07:11:27+00:00,d2qraok,,t1_d1ze5w5,,CatsStandingUp
+738,Cat.,2016-05-03 07:11:16+00:00,d2qrakd,,t1_d1z3ghm,,CatsStandingUp
+739,Cat.,2016-05-03 07:11:06+00:00,d2qrage,1.0,t3_4ed01d,1847819.0,CatsStandingUp
+740,Cat.,2016-05-03 07:10:48+00:00,d2qra8d,,t1_d2l64rk,,CatsStandingUp
+741,Cat.,2016-05-03 07:10:38+00:00,d2qra3x,,t1_d2l63wh,,CatsStandingUp
+742,Cat.,2016-05-03 07:10:10+00:00,d2qr9ss,,t1_d1z5szw,,CatsStandingUp
+743,Cat.,2016-05-03 07:09:59+00:00,d2qr9n8,1.0,t3_4edkhh,1839780.0,CatsStandingUp
+744,Cat.,2016-05-03 07:09:28+00:00,d2qr9as,,t1_d1zj65a,,CatsStandingUp
+745,Cat.,2016-05-03 07:09:18+00:00,d2qr96h,,t1_d1ze5nu,,CatsStandingUp
+746,Cat.,2016-05-03 07:09:07+00:00,d2qr924,1.0,t3_4edwik,1834620.0,CatsStandingUp
+747,Cat.,2016-05-03 07:08:53+00:00,d2qr8wn,,t1_d20arcj,,CatsStandingUp
+748,Cat.,2016-05-03 07:08:42+00:00,d2qr8s4,,t1_d1zi8h9,,CatsStandingUp
+749,Cat.,2016-05-03 07:08:22+00:00,d2qr8kj,,t1_d1zda0j,,CatsStandingUp
+750,Cat.,2016-05-03 07:08:11+00:00,d2qr8gy,1.0,t3_4eeb2s,1828448.0,CatsStandingUp
+751,Cat.,2016-05-03 07:07:39+00:00,d2qr83n,,t1_d1zm790,,CatsStandingUp
+752,Cat.,2016-05-03 07:07:25+00:00,d2qr7y0,,t1_d1zm004,,CatsStandingUp
+753,Cat.,2016-05-03 07:06:58+00:00,d2qr7nb,1.0,t3_4ef0i3,1814373.0,CatsStandingUp
+754,Cat.,2016-05-03 07:06:47+00:00,d2qr7j8,,t1_d20aqer,,CatsStandingUp
+755,Cat.,2016-05-03 07:06:39+00:00,d2qr7fm,,t1_d200psg,,CatsStandingUp
+756,Cat.,2016-05-03 07:06:19+00:00,d2qr78a,1.0,t3_4edz4x,1833346.0,CatsStandingUp
+757,Cat.,2016-05-03 07:05:47+00:00,d2qr6ul,,t1_d20l0vf,,CatsStandingUp
+758,Cat.,2016-05-03 07:05:16+00:00,d2qr6i9,,t1_d20sxy3,,CatsStandingUp
+759,Cat.,2016-05-03 07:04:48+00:00,d2qr66j,1.0,t3_4eh3bp,1777784.0,CatsStandingUp
+760,Cat.,2016-05-03 07:04:37+00:00,d2qr62a,,t1_d21e6mn,,CatsStandingUp
+761,Cat.,2016-05-03 07:04:11+00:00,d2qr5qr,,t1_d20aljn,,CatsStandingUp
+762,Cat.,2016-05-03 07:03:50+00:00,d2qr5ht,,t1_d207vi2,,CatsStandingUp
+763,Cat.,2016-05-03 07:03:41+00:00,d2qr5di,1.0,t3_4ehsw8,1768872.0,CatsStandingUp
+764,Cat.,2016-05-03 07:03:06+00:00,d2qr4yi,,t1_d21f5t6,,CatsStandingUp
+765,Cat.,2016-05-03 07:02:58+00:00,d2qr4uv,,t1_d21e6c9,,CatsStandingUp
+766,Cat.,2016-05-03 07:02:49+00:00,d2qr4qn,,t1_d20al1k,,CatsStandingUp
+767,Cat.,2016-05-03 07:02:41+00:00,d2qr4n4,1.0,t3_4ehr1p,1769436.0,CatsStandingUp
+768,Cat.,2016-05-03 07:02:30+00:00,d2qr4ir,,t1_d20akn1,,CatsStandingUp
+769,Cat.,2016-05-03 07:02:16+00:00,d2qr4c7,,t1_d21e5t9,,CatsStandingUp
+770,Cat.,2016-05-03 07:01:50+00:00,d2qr40k,,t1_d206z1k,,CatsStandingUp
+771,Cat.,2016-05-03 07:01:36+00:00,d2qr3uv,1.0,t3_4ehpgb,1769913.0,CatsStandingUp
+772,Cat.,2016-05-03 07:01:04+00:00,d2qr3h3,,t1_d21e5hn,,CatsStandingUp
+773,Cat.,2016-05-03 07:00:50+00:00,d2qr3bu,,t1_d20ak59,,CatsStandingUp
+774,Cat.,2016-05-03 07:00:36+00:00,d2qr35w,1.0,t3_4ehn82,1770627.0,CatsStandingUp
+775,Cat.,2016-05-03 07:00:23+00:00,d2qr303,,t1_d20yfhk,,CatsStandingUp
+776,Cat.,2016-05-03 06:59:59+00:00,d2qr2qq,,t1_d20ocnm,,CatsStandingUp
+777,Cat.,2016-05-03 06:59:29+00:00,d2qr2di,1.0,t3_4ehwoi,1767328.0,CatsStandingUp
+778,Cat.,2016-05-03 06:58:59+00:00,d2qr213,,t1_d22hs41,,CatsStandingUp
+779,Cat.,2016-05-03 06:58:42+00:00,d2qr1u7,,t1_d213800,,CatsStandingUp
+780,Cat.,2016-05-03 06:58:28+00:00,d2qr1o6,1.0,t3_4ehhkz,1772473.0,CatsStandingUp
+781,Cat.,2016-05-03 06:58:04+00:00,d2qr1en,,t1_d20ty3a,,CatsStandingUp
+782,Cat.,2016-05-03 06:57:36+00:00,d2qr12k,,t1_d20sg5a,,CatsStandingUp
+783,Cat.,2016-05-03 06:57:22+00:00,d2qr0ws,1.0,t3_4eixwa,1753322.0,CatsStandingUp
+784,Cat.,2016-05-03 06:56:55+00:00,d2qr0lp,,t1_d232qsv,,CatsStandingUp
+785,Cat.,2016-05-03 06:56:26+00:00,d2qr09f,,t1_d22m9vt,,CatsStandingUp
+786,Cat.,2016-05-03 06:56:13+00:00,d2qr049,1.0,t3_4ergx4,1613243.0,CatsStandingUp
+787,Cat.,2016-05-03 06:55:43+00:00,d2qqzrl,,t1_d22ya08,,CatsStandingUp
+788,Cat.,2016-05-03 06:55:24+00:00,d2qqzjq,,t1_d23uvv0,,CatsStandingUp
+789,Cat.,2016-05-03 06:55:11+00:00,d2qqze4,,t1_d23i3r4,,CatsStandingUp
+790,Cat.,2016-05-03 06:54:41+00:00,d2qqz1j,1.0,t3_4ere9v,1614113.0,CatsStandingUp
+791,Cat.,2016-05-03 06:54:02+00:00,d2qqyl6,,t1_d24fdbk,,CatsStandingUp
+792,Cat.,2016-05-03 06:53:50+00:00,d2qqyfs,,t1_d22kntw,,CatsStandingUp
+793,Cat.,2016-05-03 06:53:27+00:00,d2qqy6i,1.0,t3_4eraup,1615302.0,CatsStandingUp
+794,Cat.,2016-05-03 06:53:18+00:00,d2qqy23,,t1_d23vrgx,,CatsStandingUp
+795,Cat.,2016-05-03 06:52:45+00:00,d2qqxol,,t1_d23h6m1,,CatsStandingUp
+796,Cat.,2016-05-03 06:52:25+00:00,d2qqxfb,1.0,t3_4etq5w,1585068.0,CatsStandingUp
+797,Cat.,2016-05-03 06:51:22+00:00,d2qqwo0,,t1_d24f8xo,,CatsStandingUp
+798,Cat.,2016-05-03 06:50:51+00:00,d2qqwbr,1.0,t3_4etsiy,1584032.0,CatsStandingUp
+799,Cat.,2016-05-03 06:50:34+00:00,d2qqw4v,,t1_d25ruge,,CatsStandingUp
+800,Cat.,2016-05-03 06:50:17+00:00,d2qqvyc,,t1_d24vvq0,,CatsStandingUp
+801,Cat.,2016-05-03 06:50:06+00:00,d2qqvtm,1.0,t3_4eyymt,1501916.0,CatsStandingUp
+802,Cat.,2016-05-03 06:49:47+00:00,d2qqvm4,1.0,t3_4hles6,12592.0,CatsStandingUp
+803,Cat.,2016-05-03 06:47:30+00:00,d2qqu08,3.0,t1_d2n8s84,239155.0,CatsStandingUp
+804,Cat.,2016-05-03 06:47:12+00:00,d2qqtrt,2.0,t1_d2n61vb,249865.0,CatsStandingUp
+805,Cat.,2016-05-03 06:46:54+00:00,d2qqtl3,2.0,t1_d2n6sm1,246606.0,CatsStandingUp
+806,Cat.,2016-05-03 06:46:43+00:00,d2qqtgx,2.0,t1_d2n5gpr,252306.0,CatsStandingUp
+807,Cat.,2016-05-03 06:46:32+00:00,d2qqtbw,,t1_d2n6sfg,,CatsStandingUp
+808,Cat.,2016-05-03 06:46:22+00:00,d2qqt7a,,t1_d2n6sck,,CatsStandingUp
+809,Cat.,2016-05-03 06:42:21+00:00,d2qqq9u,3.0,t1_d2n3qj8,258563.0,CatsStandingUp
+810,Cat.,2016-05-03 06:42:09+00:00,d2qqq4o,,t1_d2n27p7,,CatsStandingUp
+811,Cat.,2016-05-03 06:41:56+00:00,d2qqpy3,1.0,t3_4h21fn,286441.0,CatsStandingUp
+812,Cat.,2016-05-03 06:40:34+00:00,d2qqoy2,3.0,t1_d2qqicj,529.0,CatsStandingUp
+813,Cat.,2016-05-03 06:38:57+00:00,d2qqns6,2.0,t1_d2qmufn,8830.0,CatsStandingUp
+814,Cat.,2016-05-03 06:38:34+00:00,d2qqni2,2.0,t1_d2qmdb7,9634.0,CatsStandingUp
+815,Cat.,2016-05-03 06:36:17+00:00,d2qqlpi,2.0,t1_d2qnn3s,7216.0,CatsStandingUp
+816,Cat.,2016-05-03 06:36:02+00:00,d2qqlil,2.0,t1_d2qje01,14338.0,CatsStandingUp
+817,Cat.,2016-05-03 06:35:28+00:00,d2qql3w,3.0,t1_d2qnv01,6726.0,CatsStandingUp
+818,Cat.,2016-05-03 06:34:58+00:00,d2qqkql,4.0,t1_d2qf8xs,20139.0,CatsStandingUp
+819,Cat.,2016-05-03 06:34:32+00:00,d2qqkff,4.0,t1_d2qnvce,6652.0,CatsStandingUp
+820,Cat.,2016-05-03 06:34:10+00:00,d2qqk6c,10.0,t1_d2qf8rs,20098.0,CatsStandingUp
+821,Cat.,2016-05-03 06:33:47+00:00,d2qqjvc,4.0,t1_d2qkuaw,11975.0,CatsStandingUp
+822,Cat.,2016-05-03 06:32:29+00:00,d2qqiwv,4.0,t1_d2qnvce,6529.0,CatsStandingUp
+823,Cat.,2016-05-03 06:31:59+00:00,d2qqiiz,3.0,t1_d2qpuod,1861.0,CatsStandingUp
+824,Cat.,2016-05-03 06:31:21+00:00,d2qqi1x,2.0,t1_d2qolpq,4886.0,CatsStandingUp
+825,Cat.,2016-05-03 06:31:08+00:00,d2qqhwn,1.0,t3_4hles6,11473.0,CatsStandingUp
+826,Cat.,2016-05-03 04:36:48+00:00,d2qnny3,2.0,t1_d2n61ss,242049.0,CatsStandingUp
+827,Cat.,2016-05-03 04:36:17+00:00,d2qnne3,,t1_d2n5i78,,CatsStandingUp
+828,Cat.,2016-05-03 04:36:05+00:00,d2qnn65,3.0,t1_d2n3gec,251940.0,CatsStandingUp
+829,Cat.,2016-05-03 04:35:38+00:00,d2qnmop,5.0,t1_d2n4nf3,247669.0,CatsStandingUp
+830,Cat.,2016-05-03 04:35:13+00:00,d2qnm81,1.0,t3_4h22co,278481.0,CatsStandingUp
+831,Cat.,2016-05-03 04:34:30+00:00,d2qnlh3,4.0,t1_d2qndvq,403.0,CatsStandingUp
+832,Cat.,2016-05-03 04:34:15+00:00,d2qnl83,6.0,t1_d2qmoes,1616.0,CatsStandingUp
+833,Cat.,2016-05-03 04:33:31+00:00,d2qnkdj,4.0,t1_d2qnauv,500.0,CatsStandingUp
+834,Cat.,2016-05-03 04:33:08+00:00,d2qnjye,1.0,t3_4hll90,1412.0,CatsStandingUp
+835,Cat.,2016-05-03 04:04:54+00:00,d2qmlgt,,t1_d24f9wz,,CatsStandingUp
+836,Cat.,2016-05-03 04:04:36+00:00,d2qml3s,,t1_d22yljz,,CatsStandingUp
+837,Cat.,2016-05-03 04:04:24+00:00,d2qmkun,1.0,t3_4esqij,1587498.0,CatsStandingUp
+838,Cat.,2016-05-03 04:03:44+00:00,d2qmk1x,,t1_d24qalq,,CatsStandingUp
+839,Cat.,2016-05-03 04:03:31+00:00,d2qmjsu,1.0,t3_4ezrcw,1479898.0,CatsStandingUp
+840,Cat.,2016-05-03 04:02:46+00:00,d2qmixh,12.0,t1_d2qeorg,11811.0,CatsStandingUp
+841,Cat.,2016-05-03 04:01:45+00:00,d2qmhqb,6.0,t1_d2qftwj,10120.0,CatsStandingUp
+842,Cat.,2016-05-03 04:01:25+00:00,d2qmhbn,4.0,t1_d2qa9wi,18171.0,CatsStandingUp
+843,Cat.,2016-05-03 04:01:14+00:00,d2qmh3w,2.0,t1_d2q7p6f,21761.0,CatsStandingUp
+844,Cat.,2016-05-03 04:00:54+00:00,d2qmgpl,2.0,t1_d2q6oif,23099.0,CatsStandingUp
+845,Cat.,2016-05-03 04:00:33+00:00,d2qmgal,2.0,t1_d2qleqj,1837.0,CatsStandingUp
+846,Cat.,2016-05-03 04:00:23+00:00,d2qmg3h,2.0,t1_d2qlbc2,1985.0,CatsStandingUp
+847,Cat.,2016-05-03 04:00:14+00:00,d2qmfxt,2.0,t1_d2qi8vv,6670.0,CatsStandingUp
+848,Cat.,2016-05-03 03:59:56+00:00,d2qmfmb,2.0,t1_d2qcl0p,14785.0,CatsStandingUp
+849,Cat.,2016-05-03 03:59:44+00:00,d2qmffa,2.0,t1_d2qc1bo,15601.0,CatsStandingUp
+850,Cat.,2016-05-03 03:59:32+00:00,d2qmf5p,2.0,t1_d2qbpzr,16065.0,CatsStandingUp
+851,Cat.,2016-05-03 03:59:21+00:00,d2qmexs,2.0,t1_d2qb86n,16790.0,CatsStandingUp
+852,Cat.,2016-05-03 03:59:00+00:00,d2qmei8,2.0,t1_d2q98bd,19524.0,CatsStandingUp
+853,Cat.,2016-05-03 03:58:34+00:00,d2qmdzq,3.0,t1_d2q7pn4,21584.0,CatsStandingUp
+854,Cat.,2016-05-03 03:57:32+00:00,d2qmcrq,7.0,t1_d2qelse,11611.0,CatsStandingUp
+855,Cat.,2016-05-03 03:56:56+00:00,d2qmc1o,3.0,t1_d2q8f06,20521.0,CatsStandingUp
+856,Cat.,2016-05-03 03:56:22+00:00,d2qmbd4,,t1_d2kc7p1,,CatsStandingUp
+857,Cat.,2016-05-03 03:56:13+00:00,d2qmb6i,,t1_d26qxaw,,CatsStandingUp
+858,Cat.,2016-05-03 03:56:05+00:00,d2qmb10,,t1_d26ekmz,,CatsStandingUp
+859,Cat.,2016-05-03 03:55:46+00:00,d2qmanl,1.0,t3_4f6prf,1345523.0,CatsStandingUp
+860,Cat.,2016-05-03 03:55:13+00:00,d2qma1g,4.0,t1_d2qm2qz,363.0,CatsStandingUp
+861,Cat.,2016-05-03 03:54:35+00:00,d2qm99r,,t1_d26r6jx,,CatsStandingUp
+862,Cat.,2016-05-03 03:54:26+00:00,d2qm94d,,t1_d26el26,,CatsStandingUp
+863,Cat.,2016-05-03 03:54:19+00:00,d2qm8yk,,t1_d2kc7ep,,CatsStandingUp
+864,Cat.,2016-05-03 03:53:54+00:00,d2qm8ht,1.0,t3_4f69z5,1354429.0,CatsStandingUp
+865,Cat.,2016-05-03 03:53:18+00:00,d2qm7sg,,t1_d26s1o3,,CatsStandingUp
+866,Cat.,2016-05-03 03:53:07+00:00,d2qm7k3,1.0,t3_4f8nss,1317810.0,CatsStandingUp
+867,Cat.,2016-05-03 03:52:41+00:00,d2qm71o,,t1_d26rp8w,,CatsStandingUp
+868,Cat.,2016-05-03 03:52:25+00:00,d2qm6oc,1.0,t3_4f8mgx,1318277.0,CatsStandingUp
+869,Cat.,2016-05-03 03:51:26+00:00,d2qm5ih,,t1_d28n1z7,,CatsStandingUp
+870,Cat.,2016-05-03 03:51:01+00:00,d2qm50l,,t1_d29fm8l,,CatsStandingUp
+871,Cat.,2016-05-03 03:50:49+00:00,d2qm4sp,1.0,t3_4fbocn,1263543.0,CatsStandingUp
+872,Cat.,2016-05-03 03:50:21+00:00,d2qm47v,,t1_d2abn82,,CatsStandingUp
+873,Cat.,2016-05-03 03:50:07+00:00,d2qm3xj,1.0,t3_4fk5vw,1142465.0,CatsStandingUp
+874,Cat.,2016-05-03 03:49:52+00:00,d2qm3m1,,t1_d2ivele,,CatsStandingUp
+875,Cat.,2016-05-03 03:49:32+00:00,d2qm372,,t1_d2decb2,,CatsStandingUp
+876,Cat.,2016-05-03 03:49:20+00:00,d2qm2y3,1.0,t3_4fozea,1067980.0,CatsStandingUp
+877,Cat.,2016-05-03 03:47:47+00:00,d2qm13l,2.0,t1_d2njt1n,206907.0,CatsStandingUp
+878,Cat.,2016-05-03 03:47:30+00:00,d2qm0rz,2.0,t1_d2n7rsc,231904.0,CatsStandingUp
+879,Cat.,2016-05-03 03:47:16+00:00,d2qm0hx,2.0,t1_d2n61rg,239082.0,CatsStandingUp
+880,Cat.,2016-05-03 03:46:41+00:00,d2qlztd,1.0,t3_4h2u52,262739.0,CatsStandingUp
+881,Cat.,2016-05-03 03:46:31+00:00,d2qlzm9,2.0,t1_d2o1t9n,175036.0,CatsStandingUp
+882,Cat.,2016-05-03 03:46:15+00:00,d2qlz96,,t1_d2na14w,,CatsStandingUp
+883,Cat.,2016-05-03 03:46:00+00:00,d2qlyxs,,t1_d2n61qc,,CatsStandingUp
+884,Cat.,2016-05-03 03:45:38+00:00,d2qlyhm,,t1_d2n42ry,,CatsStandingUp
+885,Cat.,2016-05-03 03:44:38+00:00,d2qlx6i,,t1_d2n884j,,CatsStandingUp
+886,Cat.,2016-05-03 03:44:26+00:00,d2qlwxm,,t1_d2n4n28,,CatsStandingUp
+887,Cat.,2016-05-03 03:44:06+00:00,d2qlwhw,1.0,t3_4h316a,259080.0,CatsStandingUp
+888,Cat.,2016-05-03 03:41:55+00:00,d2qltpp,2.0,t1_d2q46g6,24947.0,CatsStandingUp
+889,Cat.,2016-05-03 03:41:22+00:00,d2qlszq,2.0,t1_d2qbt5h,14843.0,CatsStandingUp
+890,Cat.,2016-05-03 03:41:12+00:00,d2qlsrj,2.0,t1_d2qbpjg,14984.0,CatsStandingUp
+891,Cat.,2016-05-03 03:40:27+00:00,d2qlrsg,3.0,t1_d2qkthb,1613.0,CatsStandingUp
+892,Cat.,2016-05-03 03:38:49+00:00,d2qlpss,2.0,t1_d2qa12d,17166.0,CatsStandingUp
+893,Cat.,2016-05-03 03:38:20+00:00,d2qlp86,6.0,t1_d2qep1s,10333.0,CatsStandingUp
+894,Cat.,2016-05-03 03:37:53+00:00,d2qlonr,2.0,t1_d2ql203,1070.0,CatsStandingUp
+895,Cat.,2016-05-03 03:37:23+00:00,d2qlo1a,3.0,t1_d2qlgyo,341.0,CatsStandingUp
+896,Cat.,2016-05-03 03:37:08+00:00,d2qlnp3,3.0,t1_d2qh9ym,6635.0,CatsStandingUp
+897,Cat.,2016-05-03 03:36:02+00:00,d2qlmbk,3.0,t1_d2qh9ym,6569.0,CatsStandingUp
+898,Cat.,2016-05-03 03:35:33+00:00,d2qllny,2.0,t1_d2ql604,743.0,CatsStandingUp
+899,Cat.,2016-05-03 03:34:50+00:00,d2qlkru,2.0,t1_d2qhai1,6477.0,CatsStandingUp
+900,Cat.,2016-05-03 03:32:49+00:00,d2qlicw,2.0,t1_d2qjqsj,2815.0,CatsStandingUp
+901,Cat.,2016-05-03 03:32:33+00:00,d2qli13,2.0,t1_d2ql1mv,766.0,CatsStandingUp
+902,Cat.,2016-05-03 03:31:27+00:00,d2qlgnn,2.0,t1_d2qh9ft,6313.0,CatsStandingUp
+903,Cat.,2016-05-03 03:30:56+00:00,d2qlfzp,1.0,t3_4hl08c,6686.0,CatsStandingUp
+904,Cat.,2016-05-03 03:30:32+00:00,d2qlfh5,,t1_d2n3ben,,CatsStandingUp
+905,Cat.,2016-05-03 03:30:19+00:00,d2qlf6i,,t1_d2n5p2u,,CatsStandingUp
+906,Cat.,2016-05-03 03:29:52+00:00,d2qlen1,,t1_d2n40v7,,CatsStandingUp
+907,Cat.,2016-05-03 03:29:35+00:00,d2qlea3,,t1_d2n7ljs,,CatsStandingUp
+908,Cat.,2016-05-03 03:29:26+00:00,d2qle3j,,t1_d2n7dnn,,CatsStandingUp
+909,Cat.,2016-05-03 03:29:13+00:00,d2qldth,,t1_d2n522o,,CatsStandingUp
+910,Cat.,2016-05-03 03:28:56+00:00,d2qldfk,,t1_d2n3pt5,,CatsStandingUp
+911,Cat.,2016-05-03 03:28:40+00:00,d2qld31,,t1_d2nfk76,,CatsStandingUp
+912,Cat.,2016-05-03 03:28:24+00:00,d2qlcqe,,t1_d2n7rn0,,CatsStandingUp
+913,Cat.,2016-05-03 03:28:13+00:00,d2qlcic,,t1_d2n7dt0,,CatsStandingUp
+914,Cat.,2016-05-03 03:28:02+00:00,d2qlc9s,,t1_d2n61pc,,CatsStandingUp
+915,Cat.,2016-05-03 03:27:48+00:00,d2qlbys,,t1_d2n7dqv,,CatsStandingUp
+916,Cat.,2016-05-03 03:27:30+00:00,d2qlbkz,,t1_d2n48j0,,CatsStandingUp
+917,Cat.,2016-05-03 03:27:13+00:00,d2qlb8u,,t1_d2n485c,,CatsStandingUp
+918,Cat.,2016-05-03 03:26:53+00:00,d2qlaup,,t1_d2n87q7,,CatsStandingUp
+919,Cat.,2016-05-03 03:26:38+00:00,d2qlajk,,t1_d2n7dic,,CatsStandingUp
+920,Cat.,2016-05-03 03:26:18+00:00,d2qla45,,t1_d2n4mq7,,CatsStandingUp
+921,Cat.,2016-05-03 03:26:08+00:00,d2ql9v9,,t1_d2n3bhk,,CatsStandingUp
+922,Cat.,2016-05-03 03:25:56+00:00,d2ql9lp,,t1_d2nc6go,,CatsStandingUp
+923,Cat.,2016-05-03 03:25:40+00:00,d2ql99a,,t1_d2n7ztw,,CatsStandingUp
+924,Cat.,2016-05-03 03:25:19+00:00,d2ql8sw,,t1_d2n7ixd,,CatsStandingUp
+925,Cat.,2016-05-03 03:24:40+00:00,d2ql7y2,,t1_d2nfjot,,CatsStandingUp
+926,Cat.,2016-05-03 03:24:27+00:00,d2ql7nf,,t1_d2n7y81,,CatsStandingUp
+927,Cat.,2016-05-03 03:24:07+00:00,d2ql77j,1.0,t3_4h3che,251131.0,CatsStandingUp
+928,Cat.,2016-05-03 01:36:19+00:00,d2qgtzu,2.0,t1_d2qe3uf,3873.0,CatsStandingUp
+929,Cat.,2016-05-03 01:35:42+00:00,d2qgt0d,4.0,t1_d2qgqv6,79.0,CatsStandingUp
+930,Cat.,2016-05-03 01:34:38+00:00,d2qgrak,2.0,t1_d2qdpfy,4358.0,CatsStandingUp
+931,Cat.,2016-05-03 00:12:10+00:00,d2qdblv,2.0,t1_d2qb735,3203.0,CatsStandingUp
+932,Cat.,2016-05-03 00:11:52+00:00,d2qdb6g,4.0,t1_d2qbfw0,2818.0,CatsStandingUp
+933,Cat.,2016-05-03 00:11:22+00:00,d2qdaht,3.0,t1_d2qcc7t,1443.0,CatsStandingUp
+934,Cat.,2016-05-02 23:27:00+00:00,d2qbiz1,3.0,t1_d2q92ig,3429.0,CatsStandingUp
+935,Cat.,2016-05-02 23:25:40+00:00,d2qbh17,1.0,t3_4hkfow,102.0,CatsStandingUp
+936,Cat.,2016-05-02 23:25:34+00:00,d2qbgvj,1.0,t3_4hkfow,96.0,CatsStandingUp
+937,Cat.,2016-05-02 23:13:20+00:00,d2qayuk,2.0,t1_d2ph1wu,46778.0,CatsStandingUp
+938,Cat.,2016-05-02 23:12:57+00:00,d2qay9s,2.0,t1_d2otjw4,94666.0,CatsStandingUp
+939,Cat.,2016-05-02 23:12:38+00:00,d2qaxtl,2.0,t1_d2orkb0,97734.0,CatsStandingUp
+940,Cat.,2016-05-02 23:12:25+00:00,d2qaxhr,2.0,t1_d2oqv8k,98792.0,CatsStandingUp
+941,Cat.,2016-05-02 23:12:12+00:00,d2qax5d,2.0,t1_d2oryvc,97082.0,CatsStandingUp
+942,Cat.,2016-05-02 23:11:55+00:00,d2qawrc,3.0,t1_d2ooso3,101985.0,CatsStandingUp
+943,Cat.,2016-05-02 23:11:44+00:00,d2qawj0,2.0,t1_d2omfd5,105676.0,CatsStandingUp
+944,Cat.,2016-05-02 23:11:37+00:00,d2qawcv,3.0,t1_d2omgjo,105618.0,CatsStandingUp
+945,Cat.,2016-05-02 23:11:24+00:00,d2qaw0d,4.0,t1_d2oo35r,103048.0,CatsStandingUp
+946,Cat.,2016-05-02 23:11:11+00:00,d2qavoz,3.0,t1_d2omgcz,105600.0,CatsStandingUp
+947,Cat.,2016-05-02 23:11:04+00:00,d2qavi4,2.0,t1_d2okrcn,108233.0,CatsStandingUp
+948,Cat.,2016-05-02 23:10:48+00:00,d2qav3p,3.0,t1_d2omg7q,105583.0,CatsStandingUp
+949,Cat.,2016-05-02 23:10:35+00:00,d2qauqx,4.0,t1_d2ooxm1,101687.0,CatsStandingUp
+950,Cat.,2016-05-02 23:10:22+00:00,d2qaufi,3.0,t1_d2omg28,105562.0,CatsStandingUp
+951,Cat.,2016-05-02 23:10:11+00:00,d2qau3w,3.0,t1_d2omfwp,105557.0,CatsStandingUp
+952,Cat.,2016-05-02 23:09:54+00:00,d2qatp9,3.0,t1_d2omfqp,105548.0,CatsStandingUp
+953,Cat.,2016-05-02 23:09:40+00:00,d2qatbb,5.0,t1_d2orkhn,97549.0,CatsStandingUp
+954,Cat.,2016-05-02 23:09:26+00:00,d2qaszj,4.0,t1_d2oosxi,101825.0,CatsStandingUp
+955,Cat.,2016-05-02 23:09:12+00:00,d2qasms,7.0,t1_d2okzhd,107756.0,CatsStandingUp
+956,Cat.,2016-05-02 23:08:37+00:00,d2qarpb,1.0,t3_4h9jv0,113697.0,CatsStandingUp
+957,Cat.,2016-05-02 23:06:19+00:00,d2qanrn,3.0,t1_d2q5hpj,6926.0,CatsStandingUp
+958,Cat.,2016-05-02 23:05:06+00:00,d2qalf6,3.0,t1_d2q4grl,8003.0,CatsStandingUp
+959,Cat.,2016-05-02 23:04:05+00:00,d2qajbz,4.0,t1_d2qaa4m,322.0,CatsStandingUp
+960,Cat.,2016-05-02 23:03:50+00:00,d2qaisl,2.0,t1_d2q7tze,3737.0,CatsStandingUp
+961,Cat.,2016-05-02 23:03:33+00:00,d2qai98,5.0,t1_d2q5nrp,6554.0,CatsStandingUp
+962,Cat.,2016-05-02 23:03:15+00:00,d2qahpd,5.0,t1_d2q5o42,6523.0,CatsStandingUp
+963,Cat.,2016-05-02 23:02:49+00:00,d2qagtw,3.0,t1_d2q4f9s,7915.0,CatsStandingUp
+964,Cat.,2016-05-02 23:02:18+00:00,d2qafuj,5.0,t1_d2q5nxe,6473.0,CatsStandingUp
+965,Cat.,2016-05-02 23:02:00+00:00,d2qafbr,2.0,t1_d2qa1cb,546.0,CatsStandingUp
+966,Cat.,2016-05-02 23:01:33+00:00,d2qaejb,2.0,t1_d2q6vsr,4868.0,CatsStandingUp
+967,Cat.,2016-05-02 23:01:12+00:00,d2qadwe,2.0,t1_d2q5h5y,6637.0,CatsStandingUp
+968,Cat.,2016-05-02 23:00:06+00:00,d2qac59,2.0,t1_d2qa12d,443.0,CatsStandingUp
+969,Cat.,2016-05-02 22:59:46+00:00,d2qabo4,2.0,t1_d2q8ncb,2377.0,CatsStandingUp
+970,Cat.,2016-05-02 22:59:24+00:00,d2qab6g,1.0,t3_4hk38b,3142.0,CatsStandingUp
+971,Cat.,2016-05-02 21:03:25+00:00,d2q53zh,2.0,t1_d2q4h9h,685.0,CatsStandingUp
+972,Cat.,2016-05-02 21:03:13+00:00,d2q53ku,2.0,t1_d2q3g9q,1916.0,CatsStandingUp
+973,Cat.,2016-05-02 21:02:30+00:00,d2q5263,4.0,t1_d2q42my,1108.0,CatsStandingUp
+974,Cat.,2016-05-02 21:02:00+00:00,d2q515x,3.0,t1_d2q4mp5,421.0,CatsStandingUp
+975,Cat.,2016-05-02 21:00:51+00:00,d2q4yx1,1.0,t3_4hjmah,1903.0,CatsStandingUp
+976,Cat.,2016-05-02 21:00:45+00:00,d2q4yqa,1.0,t3_4hjmah,1897.0,CatsStandingUp
+977,Cat.,2016-05-02 20:57:33+00:00,d2q4s1z,2.0,t1_d2q3bx8,1728.0,CatsStandingUp
+978,Cat.,2016-05-02 20:57:24+00:00,d2q4rqd,2.0,t1_d2q2ei2,2890.0,CatsStandingUp
+979,Cat.,2016-05-02 20:57:04+00:00,d2q4qzl,2.0,t1_d2q1tnp,3593.0,CatsStandingUp
+980,Cat.,2016-05-02 20:55:59+00:00,d2q4opo,2.0,t1_d2ptih0,13951.0,CatsStandingUp
+981,Cat.,2016-05-02 20:55:31+00:00,d2q4npv,2.0,t1_d2prt6l,16192.0,CatsStandingUp
+982,Cat.,2016-05-02 20:55:19+00:00,d2q4nc7,3.0,t1_d2ps0e6,15903.0,CatsStandingUp
+983,Cat.,2016-05-02 20:55:03+00:00,d2q4mtw,4.0,t1_d2ptpo0,13629.0,CatsStandingUp
+984,Cat.,2016-05-02 20:54:57+00:00,d2q4mnc,3.0,t1_d2ps7ni,15606.0,CatsStandingUp
+985,Cat.,2016-05-02 20:53:24+00:00,d2q4jqi,3.0,t1_d2phu65,35609.0,CatsStandingUp
+986,Cat.,2016-05-02 20:51:32+00:00,d2q4ggc,3.0,t1_d2q3nwl,941.0,CatsStandingUp
+987,Cat.,2016-05-02 20:51:17+00:00,d2q4fz2,1.0,t3_4hg7ot,36569.0,CatsStandingUp
+988,Cat.,2016-05-02 20:50:59+00:00,d2q4ffu,2.0,t1_d2pig3k,33613.0,CatsStandingUp
+989,Cat.,2016-05-02 20:50:31+00:00,d2q4el4,2.0,t1_d2pixr6,32243.0,CatsStandingUp
+990,Cat.,2016-05-02 20:49:53+00:00,d2q4dgk,4.0,t1_d2pjwyp,29789.0,CatsStandingUp
+991,Cat.,2016-05-02 20:49:41+00:00,d2q4d2v,3.0,t1_d2pjd0x,31096.0,CatsStandingUp
+992,Cat.,2016-05-02 20:49:33+00:00,d2q4cu1,2.0,t1_d2pioio,32871.0,CatsStandingUp
+993,Cat.,2016-05-02 20:49:08+00:00,d2q4c16,1.0,t3_4hgfyg,33838.0,CatsStandingUp
+994,Cat.,2016-05-02 20:47:45+00:00,d2q49i2,2.0,t1_d2pwys8,9093.0,CatsStandingUp
+995,Cat.,2016-05-02 20:47:29+00:00,d2q490x,2.0,t1_d2psl7u,14652.0,CatsStandingUp
+996,Cat.,2016-05-02 20:47:15+00:00,d2q48kx,2.0,t1_d2prwmx,15565.0,CatsStandingUp
+997,Cat.,2016-05-02 20:47:04+00:00,d2q487d,3.0,t1_d2pwyqm,9053.0,CatsStandingUp
+998,Cat.,2016-05-02 20:46:51+00:00,d2q47tg,4.0,t1_d2py754,7477.0,CatsStandingUp
+999,Cat.,2016-05-02 20:46:39+00:00,d2q47ez,2.0,t1_d2pq666,18091.0,CatsStandingUp
+1000,Cat.,2016-05-02 20:46:18+00:00,d2q46rq,4.0,t1_d2q3qge,536.0,CatsStandingUp
+1001,Cat.,2016-05-02 20:45:51+00:00,d2q45xg,3.0,t1_d2pq6vu,18014.0,CatsStandingUp
+1002,Cat.,2016-05-02 20:45:38+00:00,d2q45hp,2.0,t1_d2pn180,23548.0,CatsStandingUp
+1003,Cat.,2016-05-02 20:45:02+00:00,d2q44f8,3.0,t1_d2pq56l,18032.0,CatsStandingUp
+1004,Cat.,2016-05-02 20:44:25+00:00,d2q43a7,8.0,t1_d2ppu6z,18472.0,CatsStandingUp
+1005,Cat.,2016-05-02 20:43:41+00:00,d2q420m,1.0,t3_4hhc05,24912.0,CatsStandingUp
+1006,Cat.,2016-05-02 20:42:41+00:00,d2q4035,1.0,t3_4hjo9f,135.0,CatsStandingUp
+1007,Cat.,2016-05-02 20:42:37+00:00,d2q3zye,1.0,t3_4hjo9f,131.0,CatsStandingUp
+1008,Cat.,2016-05-02 20:41:06+00:00,d2q3wrm,,t1_d2cmsyf,,CatsStandingUp
+1009,Cat.,2016-05-02 20:40:55+00:00,d2q3wgl,,t1_d2abqnb,,CatsStandingUp
+1010,Cat.,2016-05-02 20:40:36+00:00,d2q3vyg,1.0,t3_4fkq1n,1109017.0,CatsStandingUp
+1011,Cat.,2016-05-02 20:40:12+00:00,d2q3val,,t1_d2atyxt,,CatsStandingUp
+1012,Cat.,2016-05-02 20:39:28+00:00,d2q3u16,1.0,t3_4fmv5x,1070031.0,CatsStandingUp
+1013,Cat.,2016-05-02 20:39:05+00:00,d2q3tcl,,t1_d2bhi3i,,CatsStandingUp
+1014,Cat.,2016-05-02 20:38:46+00:00,d2q3sts,,t1_d2bdox8,,CatsStandingUp
+1015,Cat.,2016-05-02 20:38:32+00:00,d2q3sg0,,t1_d2c39lk,,CatsStandingUp
+1016,Cat.,2016-05-02 20:38:12+00:00,d2q3rws,1.0,t3_4fp33k,1040878.0,CatsStandingUp
+1017,Cat.,2016-05-02 20:37:11+00:00,d2q3q51,,t1_d2buj7x,,CatsStandingUp
+1018,Cat.,2016-05-02 20:36:55+00:00,d2q3ppi,,t1_d2bqkpv,,CatsStandingUp
+1019,Cat.,2016-05-02 20:36:45+00:00,d2q3pfa,,t1_d2buiv2,,CatsStandingUp
+1020,Cat.,2016-05-02 20:36:27+00:00,d2q3ow1,,t1_d2bui6k,,CatsStandingUp
+1021,Cat.,2016-05-02 20:36:15+00:00,d2q3ojq,1.0,t3_4fqv69,1016790.0,CatsStandingUp
+1022,Cat.,2016-05-02 20:35:17+00:00,d2q3myd,2.0,t1_d2pwyda,8359.0,CatsStandingUp
+1023,Cat.,2016-05-02 20:35:01+00:00,d2q3mik,2.0,t1_d2pttxi,12272.0,CatsStandingUp
+1024,Cat.,2016-05-02 20:34:26+00:00,d2q3lkg,3.0,t1_d2pnopq,21845.0,CatsStandingUp
+1025,Cat.,2016-05-02 20:34:01+00:00,d2q3kve,5.0,t1_d2pwb0x,9089.0,CatsStandingUp
+1026,Cat.,2016-05-02 20:33:46+00:00,d2q3khj,3.0,t1_d2psb9m,14198.0,CatsStandingUp
+1027,Cat.,2016-05-02 20:33:21+00:00,d2q3jsu,2.0,t1_d2pn83n,22507.0,CatsStandingUp
+1028,Cat.,2016-05-02 20:33:05+00:00,d2q3jc8,2.0,t1_d2pu8bg,11645.0,CatsStandingUp
+1029,Cat.,2016-05-02 20:32:22+00:00,d2q3i2f,3.0,t1_d2psbq5,14097.0,CatsStandingUp
+1030,Cat.,2016-05-02 20:31:36+00:00,d2q3gto,1.0,t3_4hiak8,15851.0,CatsStandingUp
+1031,Cat.,2016-05-02 20:30:22+00:00,d2q3ep9,2.0,t1_d2q2x03,621.0,CatsStandingUp
+1032,Cat.,2016-05-02 20:30:14+00:00,d2q3egr,1.0,t3_4hiw14,8986.0,CatsStandingUp
+1033,Cat.,2016-05-02 20:29:50+00:00,d2q3drm,2.0,t1_d2pmdvl,23698.0,CatsStandingUp
+1034,Cat.,2016-05-02 20:29:42+00:00,d2q3dje,1.0,t3_4hhdka,23696.0,CatsStandingUp
+1035,Cat.,2016-05-02 20:29:19+00:00,d2q3cx2,2.0,t1_d2q2uuk,634.0,CatsStandingUp
+1036,Cat.,2016-05-02 20:29:10+00:00,d2q3cob,1.0,t3_4hgb0s,34145.0,CatsStandingUp
+1037,Cat.,2016-05-02 20:28:40+00:00,d2q3bs7,2.0,t1_d2q2zg7,433.0,CatsStandingUp
+1038,Cat.,2016-05-02 20:28:28+00:00,d2q3bfm,1.0,t3_4hjkmr,512.0,CatsStandingUp
+1039,Cat. ,2016-05-02 18:39:27+00:00,d2py2hv,2.0,t1_d2pwxux,1426.0,CatsStandingUp
+1040,Cat. ,2016-05-02 18:39:09+00:00,d2py1zk,2.0,t1_d2pwxa3,1427.0,CatsStandingUp
+1041,Cat. ,2016-05-02 18:38:49+00:00,d2py1ep,2.0,t1_d2pwngr,1744.0,CatsStandingUp
+1042,Cat. ,2016-05-02 18:38:37+00:00,d2py12f,1.0,t3_4hiug5,2833.0,CatsStandingUp
+1043,Cat. ,2016-05-02 18:37:45+00:00,d2pxzko,3.0,t1_d2pwpe8,1614.0,CatsStandingUp
+1044,Cat. ,2016-05-02 18:37:21+00:00,d2pxyxd,3.0,t1_d2pwt8e,1457.0,CatsStandingUp
+1045,Cat. ,2016-05-02 18:37:08+00:00,d2pxyjg,1.0,t3_4hivf4,2422.0,CatsStandingUp
+1046,Cat. ,2016-05-02 18:33:54+00:00,d2pxsza,3.0,t1_d2ptluo,5302.0,CatsStandingUp
+1047,Cat. ,2016-05-02 18:33:24+00:00,d2pxs4e,6.0,t1_d2ptoa1,5180.0,CatsStandingUp
+1048,Cat. ,2016-05-02 18:32:19+00:00,d2pxqem,5.0,t1_d2ptpb7,5078.0,CatsStandingUp
+1049,Cat. ,2016-05-02 16:59:55+00:00,d2ptcr1,2.0,t1_d2pefrf,34363.0,CatsStandingUp
+1050,Cat. ,2016-05-02 16:58:19+00:00,d2pta6z,11.0,t1_d2pdpwf,36590.0,CatsStandingUp
+1051,Cat. ,2016-05-02 16:57:47+00:00,d2pt9c3,5.0,t1_d2peg6j,34195.0,CatsStandingUp
+1052,Cat. ,2016-05-02 16:57:21+00:00,d2pt8kc,4.0,t1_d2pfmqk,29809.0,CatsStandingUp
+1053,Cat. ,2016-05-02 16:55:48+00:00,d2pt5yg,,t1_d2phast,23215.0,CatsStandingUp
+1054,Cat. ,2016-05-02 16:54:59+00:00,d2pt4lc,,t1_d2phauo,23159.0,CatsStandingUp
+1055,Cat. ,2016-05-02 16:52:57+00:00,d2pt18t,3.0,t1_d2pscqe,893.0,CatsStandingUp
+1056,Cat.,2016-05-02 05:17:02+00:00,d2pbpqk,3.0,t1_d2pbfua,658.0,CatsStandingUp
+1057,Cat.,2016-05-02 05:16:50+00:00,d2pbpjr,,t1_d2pbklu,325.0,CatsStandingUp
+1058,Cat.,2016-05-02 04:56:56+00:00,d2pb7ia,4.0,t1_d2pb2sj,296.0,CatsStandingUp
+1059,Cat.,2016-05-02 04:56:47+00:00,d2pb7da,4.0,t1_d2pb1jg,364.0,CatsStandingUp
+1060,Cat.,2016-05-02 04:54:22+00:00,d2pb53o,2.0,t1_d2p1ayw,15958.0,CatsStandingUp
+1061,Cat.,2016-05-02 04:54:13+00:00,d2pb4yi,2.0,t1_d2p0vkf,16603.0,CatsStandingUp
+1062,Cat.,2016-05-02 04:53:12+00:00,d2pb3yy,2.0,t1_d2ok0sf,43555.0,CatsStandingUp
+1063,Cat.,2016-05-02 04:53:03+00:00,d2pb3sx,2.0,t1_d2p41if,11537.0,CatsStandingUp
+1064,Cat.,2016-05-02 04:52:56+00:00,d2pb3om,2.0,t1_d2p3sil,11906.0,CatsStandingUp
+1065,Cat.,2016-05-02 04:52:49+00:00,d2pb3kg,2.0,t1_d2p36kj,12889.0,CatsStandingUp
+1066,Cat.,2016-05-02 04:52:41+00:00,d2pb3fg,2.0,t1_d2p30fb,13152.0,CatsStandingUp
+1067,Cat.,2016-05-02 04:52:02+00:00,d2pb2tq,2.0,t1_d2panvh,903.0,CatsStandingUp
+1068,Cat.,2016-05-02 04:51:55+00:00,d2pb2qb,2.0,t1_d2pa4fe,2018.0,CatsStandingUp
+1069,Cat.,2016-05-02 04:51:42+00:00,d2pb2io,2.0,t1_d2p92ui,4022.0,CatsStandingUp
+1070,Cat.,2016-05-02 04:51:34+00:00,d2pb2dj,2.0,t1_d2p8rwn,4567.0,CatsStandingUp
+1071,Cat.,2016-05-02 04:51:28+00:00,d2pb29y,2.0,t1_d2p8rms,4574.0,CatsStandingUp
+1072,Cat.,2016-05-02 04:51:19+00:00,d2pb248,2.0,t1_d2p7vl8,6108.0,CatsStandingUp
+1073,Cat.,2016-05-02 04:51:12+00:00,d2pb20h,2.0,t1_d2p6mjc,7887.0,CatsStandingUp
+1074,Cat.,2016-05-02 04:51:04+00:00,d2pb1vu,2.0,t1_d2p6hq5,8058.0,CatsStandingUp
+1075,Cat.,2016-05-02 04:50:56+00:00,d2pb1r2,2.0,t1_d2p4qty,10384.0,CatsStandingUp
+1076,Cat.,2016-05-02 04:50:36+00:00,d2pb1fo,3.0,t1_d2pana8,852.0,CatsStandingUp
+1077,Cat.,2016-05-02 04:49:25+00:00,d2pb0ay,3.0,t1_d2omo4d,39153.0,CatsStandingUp
+1078,Cat.,2016-05-02 04:48:18+00:00,d2paz6y,2.0,t1_d2p1eve,15423.0,CatsStandingUp
+1079,Cat.,2016-05-02 04:48:09+00:00,d2paz1l,2.0,t1_d2p0qgl,16447.0,CatsStandingUp
+1080,Cat.,2016-05-02 04:47:37+00:00,d2payim,4.0,t1_d2p3xem,11384.0,CatsStandingUp
+1081,Cat.,2016-05-02 04:44:48+00:00,d2pavqs,3.0,t1_d2pamia,551.0,CatsStandingUp
+1082,Cat.,2016-05-02 04:44:08+00:00,d2pav33,3.0,t1_d2p94h2,3480.0,CatsStandingUp
+1083,Cat.,2016-05-02 04:43:33+00:00,d2pauhl,2.0,t1_d2ok4bf,42815.0,CatsStandingUp
+1084,Cat.,2016-05-02 04:42:51+00:00,d2patre,4.0,t1_d2okyl3,41414.0,CatsStandingUp
+1085,Cat.,2016-05-02 04:42:32+00:00,d2patgk,3.0,t1_d2p11ty,15643.0,CatsStandingUp
+1086,Cat.,2016-05-02 04:41:57+00:00,d2pasvl,3.0,t1_d2pam9h,395.0,CatsStandingUp
+1087,Cat.,2016-05-02 04:40:59+00:00,d2parxw,5.0,t1_d2pam4b,344.0,CatsStandingUp
+1088,Cat.,2016-05-02 04:39:32+00:00,d2paqh9,11.0,t1_d2p9hlu,2520.0,CatsStandingUp
+1089,Cat.,2016-05-02 04:38:55+00:00,d2papvl,3.0,t1_d2ohlim,46880.0,CatsStandingUp
+1090,Cat.,2016-05-02 04:38:29+00:00,d2papgc,4.0,t1_d2or9l7,31342.0,CatsStandingUp
+1091,Cat.,2016-05-02 04:37:56+00:00,d2paovy,1.0,t3_4h8rfk,59792.0,CatsStandingUp
+1092,Cat.,2016-05-02 04:36:59+00:00,d2panvj,4.0,t1_d2pamva,60.0,CatsStandingUp
+1093,Cat.,2016-05-02 04:35:20+00:00,d2pam7o,2.0,t1_d2paj2s,180.0,CatsStandingUp
+1094,Cat.,2016-05-02 04:34:35+00:00,d2palg8,2.0,t1_d2paiex,173.0,CatsStandingUp
+1095,Cat.,2016-05-02 04:34:29+00:00,d2palcp,2.0,t1_d2paib7,174.0,CatsStandingUp
+1096,Cat.,2016-05-02 04:34:23+00:00,d2pal8k,2.0,t1_d2pai9p,171.0,CatsStandingUp
+1097,Cat.,2016-05-02 04:33:18+00:00,d2pak44,,t1_d2j17je,,CatsStandingUp
+1098,Cat.,2016-05-02 04:33:11+00:00,d2pajzh,,t1_d2acsqn,,CatsStandingUp
+1099,Cat.,2016-05-02 04:33:03+00:00,d2pajv2,,t1_d2abumf,,CatsStandingUp
+1100,Cat.,2016-05-02 04:32:53+00:00,d2pajom,,t1_d29a1g7,,CatsStandingUp
+1101,Cat.,2016-05-02 04:32:47+00:00,d2pajkp,,t1_d289rws,,CatsStandingUp
+1102,Cat.,2016-05-02 04:32:38+00:00,d2pajdn,,t1_d29a0pq,,CatsStandingUp
+1103,Cat.,2016-05-02 04:32:32+00:00,d2pajaj,,t1_d289iwt,,CatsStandingUp
+1104,Cat.,2016-05-02 04:32:24+00:00,d2paj5d,1.0,t3_4fdwdl,1152005.0,CatsStandingUp
+1105,Cat.,2016-05-02 04:31:54+00:00,d2pain5,,t1_d29eb4n,,CatsStandingUp
+1106,Cat.,2016-05-02 04:31:47+00:00,d2paiiq,,t1_d2acnbg,,CatsStandingUp
+1107,Cat.,2016-05-02 04:31:40+00:00,d2paiea,,t1_d2ablci,,CatsStandingUp
+1108,Cat.,2016-05-02 04:31:32+00:00,d2pai9c,,t1_d29e82e,,CatsStandingUp
+1109,Cat.,2016-05-02 04:31:26+00:00,d2pai5v,,t1_d29dsjy,,CatsStandingUp
+1110,Cat.,2016-05-02 04:31:18+00:00,d2pai25,,t1_d29ea3v,,CatsStandingUp
+1111,Cat.,2016-05-02 04:31:11+00:00,d2pahx8,,t1_d29e32c,,CatsStandingUp
+1112,Cat.,2016-05-02 04:31:03+00:00,d2pahs6,1.0,t3_4fjf8r,1067832.0,CatsStandingUp
+1113,Cat.,2016-05-02 04:30:34+00:00,d2paha5,,t1_d2cmqnn,,CatsStandingUp
+1114,Cat.,2016-05-02 04:30:27+00:00,d2pah5f,,t1_d2acosm,,CatsStandingUp
+1115,Cat.,2016-05-02 04:30:19+00:00,d2pah0p,,t1_d2abmbf,,CatsStandingUp
+1116,Cat.,2016-05-02 04:30:12+00:00,d2pagvt,,t1_d2a95jn,,CatsStandingUp
+1117,Cat.,2016-05-02 04:30:05+00:00,d2pagr4,,t1_d29fk9f,,CatsStandingUp
+1118,Cat.,2016-05-02 04:29:55+00:00,d2pagky,,t1_d29eb9t,,CatsStandingUp
+1119,Cat.,2016-05-02 04:29:48+00:00,d2pagg5,,t1_d29dsbe,,CatsStandingUp
+1120,Cat.,2016-05-02 04:29:43+00:00,d2pagdl,,t1_d29e7xx,,CatsStandingUp
+1121,Cat.,2016-05-02 04:29:26+00:00,d2pag32,1.0,t3_4fj8ps,1069934.0,CatsStandingUp
+1122,Cat.,2016-05-02 04:28:24+00:00,d2paezy,2.0,t1_d2om1sn,38862.0,CatsStandingUp
+1123,Cat.,2016-05-02 04:28:18+00:00,d2paevo,3.0,t1_d2oqixb,31878.0,CatsStandingUp
+1124,Cat.,2016-05-02 04:28:14+00:00,d2paesy,4.0,t1_d2oqzkb,31157.0,CatsStandingUp
+1125,Cat.,2016-05-02 04:28:02+00:00,d2paelu,1.0,t3_4h93k4,52503.0,CatsStandingUp
+1126,Cat.,2016-05-02 04:27:37+00:00,d2pae6l,2.0,t1_d2osjcy,28725.0,CatsStandingUp
+1127,Cat.,2016-05-02 04:27:30+00:00,d2pae25,2.0,t1_d2om13q,38836.0,CatsStandingUp
+1128,Cat.,2016-05-02 04:27:23+00:00,d2padxz,2.0,t1_d2ol05f,40417.0,CatsStandingUp
+1129,Cat.,2016-05-02 04:27:16+00:00,d2padtg,3.0,t1_d2oqi9l,31845.0,CatsStandingUp
+1130,Cat.,2016-05-02 04:27:08+00:00,d2padou,2.0,t1_d2oje4f,43048.0,CatsStandingUp
+1131,Cat.,2016-05-02 04:27:00+00:00,d2padke,1.0,t3_4h8xmh,55433.0,CatsStandingUp
+1132,Cat.,2016-05-02 04:26:38+00:00,d2pad7k,2.0,t1_d2oqkuh,31694.0,CatsStandingUp
+1133,Cat.,2016-05-02 04:26:30+00:00,d2pad2j,1.0,t3_4h86g9,75763.0,CatsStandingUp
+1134,Cat.,2016-05-02 04:26:08+00:00,d2paco8,2.0,t1_d2ojsgi,42319.0,CatsStandingUp
+1135,Cat.,2016-05-02 04:26:01+00:00,d2packl,3.0,t1_d2oqk0z,31692.0,CatsStandingUp
+1136,Cat.,2016-05-02 04:25:57+00:00,d2pachg,4.0,t1_d2os6sw,29167.0,CatsStandingUp
+1137,Cat.,2016-05-02 04:25:52+00:00,d2pacdv,2.0,t1_d2oodfm,35081.0,CatsStandingUp
+1138,Cat.,2016-05-02 04:25:37+00:00,d2pac3q,1.0,t3_4h7rz2,85756.0,CatsStandingUp
+1139,Cat.,2016-05-02 04:25:16+00:00,d2pabqx,2.0,t1_d2oy6qh,19363.0,CatsStandingUp
+1140,Cat.,2016-05-02 04:25:07+00:00,d2pabkv,1.0,t3_4h7eo7,92985.0,CatsStandingUp
+1141,Cat.,2016-05-02 04:24:42+00:00,d2pab4s,2.0,t1_d2okz4k,40303.0,CatsStandingUp
+1142,Cat.,2016-05-02 04:24:35+00:00,d2pab0u,3.0,t1_d2opuwm,32685.0,CatsStandingUp
+1143,Cat.,2016-05-02 04:24:30+00:00,d2paaxr,4.0,t1_d2oqj6d,31638.0,CatsStandingUp
+1144,Cat.,2016-05-02 04:24:25+00:00,d2paaur,2.0,t1_d2oncsd,36588.0,CatsStandingUp
+1145,Cat.,2016-05-02 04:24:11+00:00,d2paalb,1.0,t3_4h9h4h,47163.0,CatsStandingUp
+1146,Cat.,2016-05-02 04:23:40+00:00,d2paa2f,2.0,t1_d2om0cq,38638.0,CatsStandingUp
+1147,Cat.,2016-05-02 04:23:34+00:00,d2pa9yw,2.0,t1_d2oncv8,36534.0,CatsStandingUp
+1148,Cat.,2016-05-02 04:23:27+00:00,d2pa9um,3.0,t1_d2p5m3j,7586.0,CatsStandingUp
+1149,Cat.,2016-05-02 04:23:16+00:00,d2pa9nz,3.0,t1_d2otxdo,26280.0,CatsStandingUp
+1150,Cat.,2016-05-02 04:23:01+00:00,d2pa9d8,1.0,t3_4h8ghn,67341.0,CatsStandingUp
+1151,Cat.,2016-05-02 04:22:36+00:00,d2pa8xv,2.0,t1_d2o8co2,73246.0,CatsStandingUp
+1152,Cat.,2016-05-02 04:22:17+00:00,d2pa8mo,2.0,t1_d2ond19,36449.0,CatsStandingUp
+1153,Cat.,2016-05-02 04:22:06+00:00,d2pa8fd,2.0,t1_d2olzsv,38567.0,CatsStandingUp
+1154,Cat.,2016-05-02 04:21:58+00:00,d2pa89q,2.0,t1_d2oijac,44213.0,CatsStandingUp
+1155,Cat.,2016-05-02 04:21:49+00:00,d2pa84j,1.0,t3_4h890w,73386.0,CatsStandingUp
+1156,Cat.,2016-05-02 04:21:24+00:00,d2pa7po,2.0,t1_d2ote1f,27030.0,CatsStandingUp
+1157,Cat.,2016-05-02 04:21:18+00:00,d2pa7m2,2.0,t1_d2orydx,29248.0,CatsStandingUp
+1158,Cat.,2016-05-02 04:21:11+00:00,d2pa7hv,2.0,t1_d2oqum4,30943.0,CatsStandingUp
+1159,Cat.,2016-05-02 04:21:04+00:00,d2pa7cp,2.0,t1_d2op8as,33454.0,CatsStandingUp
+1160,Cat.,2016-05-02 04:20:57+00:00,d2pa77g,2.0,t1_d2onxav,35476.0,CatsStandingUp
+1161,Cat.,2016-05-02 04:20:50+00:00,d2pa737,2.0,t1_d2omj7g,37651.0,CatsStandingUp
+1162,Cat.,2016-05-02 04:20:43+00:00,d2pa6yo,2.0,t1_d2ond5g,36350.0,CatsStandingUp
+1163,Cat.,2016-05-02 04:20:36+00:00,d2pa6v4,2.0,t1_d2olzii,38489.0,CatsStandingUp
+1164,Cat.,2016-05-02 04:20:23+00:00,d2pa6m3,2.0,t1_d2o4bxv,85204.0,CatsStandingUp
+1165,Cat.,2016-05-02 04:20:14+00:00,d2pa6fi,4.0,t1_d2ooz3c,33803.0,CatsStandingUp
+1166,Cat.,2016-05-02 04:19:58+00:00,d2pa65d,1.0,t3_4h7b6c,94399.0,CatsStandingUp
+1167,Cat.,2016-05-02 04:19:27+00:00,d2pa5nr,2.0,t1_d2ojjdf,42344.0,CatsStandingUp
+1168,Cat.,2016-05-02 04:19:18+00:00,d2pa5if,2.0,t1_d2ouhfc,25155.0,CatsStandingUp
+1169,Cat.,2016-05-02 04:19:11+00:00,d2pa5do,2.0,t1_d2ooh89,34515.0,CatsStandingUp
+1170,Cat.,2016-05-02 04:19:04+00:00,d2pa593,2.0,t1_d2ooco5,34707.0,CatsStandingUp
+1171,Cat.,2016-05-02 04:18:54+00:00,d2pa52s,2.0,t1_d2omj00,37546.0,CatsStandingUp
+1172,Cat.,2016-05-02 04:18:48+00:00,d2pa4yr,2.0,t1_d2om734,38057.0,CatsStandingUp
+1173,Cat.,2016-05-02 04:18:41+00:00,d2pa4un,2.0,t1_d2olzap,38384.0,CatsStandingUp
+1174,Cat.,2016-05-02 04:18:35+00:00,d2pa4qh,2.0,t1_d2olxmy,38450.0,CatsStandingUp
+1175,Cat.,2016-05-02 04:18:28+00:00,d2pa4lp,2.0,t1_d2okbuu,40967.0,CatsStandingUp
+1176,Cat.,2016-05-02 04:18:21+00:00,d2pa4hw,2.0,t1_d2ok7mj,41154.0,CatsStandingUp
+1177,Cat.,2016-05-02 04:18:15+00:00,d2pa4e5,2.0,t1_d2ojwib,41656.0,CatsStandingUp
+1178,Cat.,2016-05-02 04:18:08+00:00,d2pa49t,2.0,t1_d2ohrrm,45317.0,CatsStandingUp
+1179,Cat.,2016-05-02 04:17:47+00:00,d2pa3x3,1.0,t3_4h7aru,94464.0,CatsStandingUp
+1180,Cat.,2016-05-02 04:17:16+00:00,d2pa3dh,2.0,t1_d2p9vek,445.0,CatsStandingUp
+1181,Cat.,2016-05-02 04:17:08+00:00,d2pa37p,2.0,t1_d2p6vn2,5529.0,CatsStandingUp
+1182,Cat.,2016-05-02 04:17:01+00:00,d2pa337,3.0,t1_d2ossqe,27691.0,CatsStandingUp
+1183,Cat.,2016-05-02 04:16:47+00:00,d2pa2u8,3.0,t1_d2p9uwp,444.0,CatsStandingUp
+1184,Cat.,2016-05-02 04:16:41+00:00,d2pa2qu,3.0,t1_d2ost0v,27659.0,CatsStandingUp
+1185,Cat.,2016-05-02 04:16:34+00:00,d2pa2mq,2.0,t1_d2orxlt,28998.0,CatsStandingUp
+1186,Cat.,2016-05-02 04:16:16+00:00,d2pa29n,2.0,t1_d2oxe77,20179.0,CatsStandingUp
+1187,Cat.,2016-05-02 04:16:08+00:00,d2pa24k,2.0,t1_d2owaj3,22014.0,CatsStandingUp
+1188,Cat.,2016-05-02 04:15:53+00:00,d2pa1v1,2.0,t1_d2ot7ww,26973.0,CatsStandingUp
+1189,Cat.,2016-05-02 04:15:45+00:00,d2pa1ox,5.0,t1_d2oyict,18224.0,CatsStandingUp
+1190,Cat.,2016-05-02 04:15:38+00:00,d2pa1kh,4.0,t1_d2ostwx,27559.0,CatsStandingUp
+1191,Cat.,2016-05-02 04:15:23+00:00,d2pa1a2,2.0,t1_d2oqhf5,31169.0,CatsStandingUp
+1192,Cat.,2016-05-02 04:15:09+00:00,d2pa11d,3.0,t1_d2ow2vz,22309.0,CatsStandingUp
+1193,Cat.,2016-05-02 04:15:03+00:00,d2pa0x6,2.0,t1_d2oufh9,24981.0,CatsStandingUp
+1194,Cat.,2016-05-02 04:14:46+00:00,d2pa0nc,8.0,t1_d2p9v6m,308.0,CatsStandingUp
+1195,Cat.,2016-05-02 04:14:35+00:00,d2pa0gi,6.0,t1_d2ostii,27513.0,CatsStandingUp
+1196,Cat.,2016-05-02 04:14:24+00:00,d2pa096,4.0,t1_d2oqggv,31155.0,CatsStandingUp
+1197,Cat.,2016-05-02 04:14:09+00:00,d2p9zzj,3.0,t1_d2oqejk,31224.0,CatsStandingUp
+1198,Cat.,2016-05-02 04:14:01+00:00,d2p9zu4,3.0,t1_d2oxebf,20039.0,CatsStandingUp
+1199,Cat.,2016-05-02 04:13:52+00:00,d2p9zok,3.0,t1_d2oun8x,24573.0,CatsStandingUp
+1200,Cat.,2016-05-02 04:13:45+00:00,d2p9zk6,4.0,t1_d2osub8,27430.0,CatsStandingUp
+1201,Cat.,2016-05-02 04:13:32+00:00,d2p9zbl,1.0,t3_4havoh,31994.0,CatsStandingUp
+1202,Cat.,2016-05-02 04:12:53+00:00,d2p9ymm,3.0,t1_d2p9w9n,132.0,CatsStandingUp
+1203,Cat.,2016-05-02 04:12:36+00:00,d2p9yb2,2.0,t1_d2p9wl0,98.0,CatsStandingUp
+1204,Cat.,2016-05-02 04:12:08+00:00,d2p9xto,5.0,t1_d2p9vv8,109.0,CatsStandingUp
+1205,Cat.,2016-05-02 04:11:45+00:00,d2p9xfl,2.0,t1_d2ovffm,23179.0,CatsStandingUp
+1206,Cat.,2016-05-02 04:11:35+00:00,d2p9x8l,2.0,t1_d2oumdf,24475.0,CatsStandingUp
+1207,Cat.,2016-05-02 04:11:27+00:00,d2p9x3e,2.0,t1_d2ov8vd,23455.0,CatsStandingUp
+1208,Cat.,2016-05-02 04:11:19+00:00,d2p9wyy,3.0,t1_d2p015o,15361.0,CatsStandingUp
+1209,Cat.,2016-05-02 04:11:12+00:00,d2p9wtz,2.0,t1_d2otwqq,25585.0,CatsStandingUp
+1210,Cat.,2016-05-02 04:11:02+00:00,d2p9wnf,1.0,t3_4hav4m,31943.0,CatsStandingUp
+1211,Cat.,2016-05-02 04:10:39+00:00,d2p9w8s,2.0,t1_d2oymhg,17716.0,CatsStandingUp
+1212,Cat.,2016-05-02 04:10:31+00:00,d2p9w37,2.0,t1_d2ov8s2,23403.0,CatsStandingUp
+1213,Cat.,2016-05-02 04:10:18+00:00,d2p9vuv,3.0,t1_d2ovg7y,23056.0,CatsStandingUp
+1214,Cat.,2016-05-02 04:10:11+00:00,d2p9vqa,2.0,t1_d2otx4c,25506.0,CatsStandingUp
+1215,Cat.,2016-05-02 04:10:01+00:00,d2p9vl9,1.0,t3_4hamdl,34162.0,CatsStandingUp
+1216,Cat.,2016-05-02 04:09:09+00:00,d2p9uos,3.0,t1_d2ow4r5,21862.0,CatsStandingUp
+1217,Cat.,2016-05-02 04:08:58+00:00,d2p9uhs,2.0,t1_d2otzhm,25328.0,CatsStandingUp
+1218,Cat.,2016-05-02 04:08:45+00:00,d2p9u81,1.0,t3_4h9zve,40253.0,CatsStandingUp
+1219,Cat.,2016-05-02 04:08:01+00:00,d2p9tfg,2.0,t1_d2ozz0p,15263.0,CatsStandingUp
+1220,Cat.,2016-05-02 04:07:53+00:00,d2p9ta3,2.0,t1_d2oy6bk,18340.0,CatsStandingUp
+1221,Cat.,2016-05-02 04:07:35+00:00,d2p9sx8,1.0,t3_4h9mnx,44312.0,CatsStandingUp
+1222,Cat.,2016-05-02 04:07:03+00:00,d2p9scc,2.0,t1_d2p0rai,13944.0,CatsStandingUp
+1223,Cat.,2016-05-02 04:06:57+00:00,d2p9s85,2.0,t1_d2p9nc1,265.0,CatsStandingUp
+1224,Cat.,2016-05-02 04:06:51+00:00,d2p9s3z,2.0,t1_d2p932e,1319.0,CatsStandingUp
+1225,Cat.,2016-05-02 04:06:44+00:00,d2p9rz8,2.0,t1_d2p3xvh,8912.0,CatsStandingUp
+1226,Cat.,2016-05-02 04:06:23+00:00,d2p9rk9,2.0,t1_d2p3j6r,9521.0,CatsStandingUp
+1227,Cat.,2016-05-02 04:06:15+00:00,d2p9rfd,2.0,t1_d2oynut,17385.0,CatsStandingUp
+1228,Cat.,2016-05-02 04:06:04+00:00,d2p9r8a,4.0,t1_d2oynxk,17370.0,CatsStandingUp
+1229,Cat.,2016-05-02 04:05:57+00:00,d2p9r4e,4.0,t1_d2p9nmj,189.0,CatsStandingUp
+1230,Cat.,2016-05-02 04:05:45+00:00,d2p9qwy,5.0,t1_d2oynmz,17366.0,CatsStandingUp
+1231,Cat.,2016-05-02 04:05:25+00:00,d2p9qk8,1.0,t3_4hbk8d,25134.0,CatsStandingUp
+1232,Cat.,2016-05-02 04:05:00+00:00,d2p9q3p,2.0,t1_d2oy2jf,18345.0,CatsStandingUp
+1233,Cat.,2016-05-02 04:04:54+00:00,d2p9pzv,2.0,t1_d2oy0sn,18425.0,CatsStandingUp
+1234,Cat.,2016-05-02 04:04:47+00:00,d2p9pvm,2.0,t1_d2oylqd,17401.0,CatsStandingUp
+1235,Cat.,2016-05-02 04:04:35+00:00,d2p9pn3,2.0,t1_d2owgcy,21049.0,CatsStandingUp
+1236,Cat.,2016-05-02 04:04:26+00:00,d2p9php,3.0,t1_d2p9adx,792.0,CatsStandingUp
+1237,Cat.,2016-05-02 04:04:07+00:00,d2p9p4o,2.0,t1_d2ov4yi,23194.0,CatsStandingUp
+1238,Cat.,2016-05-02 04:04:01+00:00,d2p9p0a,3.0,t1_d2oxckm,19520.0,CatsStandingUp
+1239,Cat.,2016-05-02 04:03:50+00:00,d2p9osx,4.0,t1_d2ozrku,15356.0,CatsStandingUp
+1240,Cat.,2016-05-02 04:03:33+00:00,d2p9oh0,3.0,t1_d2ow3d9,21591.0,CatsStandingUp
+1241,Cat.,2016-05-02 04:03:17+00:00,d2p9o6p,1.0,t3_4hbpcc,23651.0,CatsStandingUp
+1242,Cat.,2016-05-02 04:01:56+00:00,d2p9mln,3.0,t1_d2p9ij7,216.0,CatsStandingUp
+1243,Cat.,2016-05-02 04:01:40+00:00,d2p9mby,8.0,t1_d2p9kpo,85.0,CatsStandingUp
+1244,Cat.,2016-05-02 04:00:57+00:00,d2p9lk6,4.0,t1_d2p9is8,143.0,CatsStandingUp
+1245,Cat.,2016-05-02 04:00:18+00:00,d2p9kr8,,t1_d2p9ir3,106.0,CatsStandingUp
+1246,Cat.,2016-05-02 03:59:55+00:00,d2p9kax,2.0,t1_d2p1nb7,12145.0,CatsStandingUp
+1247,Cat.,2016-05-02 03:59:46+00:00,d2p9k4n,2.0,t1_d2p32x6,9869.0,CatsStandingUp
+1248,Cat.,2016-05-02 03:59:39+00:00,d2p9jzt,8.0,t1_d2p6mh8,4796.0,CatsStandingUp
+1249,Cat.,2016-05-02 03:59:23+00:00,d2p9jpp,4.0,t1_d2p1dva,12532.0,CatsStandingUp
+1250,Cat.,2016-05-02 03:59:11+00:00,d2p9jhg,1.0,t3_4hcruh,13307.0,CatsStandingUp
+1251,Cat.,2016-05-02 03:58:51+00:00,d2p9j3d,2.0,t1_d2p5tso,5814.0,CatsStandingUp
+1252,Cat.,2016-05-02 03:58:45+00:00,d2p9iz8,2.0,t1_d2p30mw,9905.0,CatsStandingUp
+1253,Cat.,2016-05-02 03:58:38+00:00,d2p9ivb,2.0,t1_d2p2wn0,10075.0,CatsStandingUp
+1254,Cat.,2016-05-02 03:58:31+00:00,d2p9iq9,4.0,t1_d2p3zwt,8335.0,CatsStandingUp
+1255,Cat.,2016-05-02 03:58:10+00:00,d2p9icr,1.0,t3_4hcwj9,11973.0,CatsStandingUp
+1256,Cat.,2016-05-02 03:57:45+00:00,d2p9huz,2.0,t1_d2p6pm8,4579.0,CatsStandingUp
+1257,Cat.,2016-05-02 03:57:33+00:00,d2p9hmj,2.0,t1_d2p2s53,10204.0,CatsStandingUp
+1258,Cat.,2016-05-02 03:57:17+00:00,d2p9hc2,2.0,t1_d2p5spv,5759.0,CatsStandingUp
+1259,Cat.,2016-05-02 03:57:10+00:00,d2p9h7e,2.0,t1_d2p4748,7940.0,CatsStandingUp
+1260,Cat.,2016-05-02 03:57:02+00:00,d2p9h26,2.0,t1_d2p3z9e,8274.0,CatsStandingUp
+1261,Cat.,2016-05-02 03:56:50+00:00,d2p9gtw,2.0,t1_d2p5ae1,6421.0,CatsStandingUp
+1262,Cat.,2016-05-02 03:56:36+00:00,d2p9gkb,2.0,t1_d2p35ym,9543.0,CatsStandingUp
+1263,Cat.,2016-05-02 03:56:28+00:00,d2p9gf6,2.0,t1_d2p2yuo,9846.0,CatsStandingUp
+1264,Cat.,2016-05-02 03:56:17+00:00,d2p9g8c,2.0,t1_d2p2gh8,10629.0,CatsStandingUp
+1265,Cat.,2016-05-02 03:56:03+00:00,d2p9fyq,6.0,t1_d2p9cd7,185.0,CatsStandingUp
+1266,Cat.,2016-05-02 03:55:43+00:00,d2p9fjy,9.0,t1_d2p6euv,4839.0,CatsStandingUp
+1267,Cat.,2016-05-02 03:55:28+00:00,d2p9f96,6.0,t1_d2p41bt,8091.0,CatsStandingUp
+1268,Cat.,2016-05-02 03:55:08+00:00,d2p9evi,1.0,t3_4hcyu4,11130.0,CatsStandingUp
+1269,Cat.,2016-05-02 03:54:41+00:00,d2p9eck,2.0,t1_d2p8nsy,1354.0,CatsStandingUp
+1270,Cat.,2016-05-02 03:54:32+00:00,d2p9e6u,3.0,t1_d2p9bod,130.0,CatsStandingUp
+1271,Cat.,2016-05-02 03:54:13+00:00,d2p9dt3,3.0,t1_d2p99e6,230.0,CatsStandingUp
+1272,Cat.,2016-05-02 03:54:02+00:00,d2p9dkz,1.0,t3_4hcb2w,17484.0,CatsStandingUp
+1273,Cat.,2016-05-02 03:51:31+00:00,d2p9ap8,,t1_d2p0flf,13537.0,CatsStandingUp
+1274,Cat. ,2016-05-01 23:53:51+00:00,d2ozz9x,,t1_d2ko62y,,CatsStandingUp
+1275,Cat. ,2016-05-01 23:53:23+00:00,d2ozyp7,,t1_d2ko4zw,,CatsStandingUp
+1276,Cat. ,2016-05-01 23:52:17+00:00,d2ozxbi,,t1_d2ko4da,,CatsStandingUp
+1277,Cat. ,2016-05-01 23:51:25+00:00,d2ozw7k,,t1_d2ko3ry,,CatsStandingUp
+1278,Cat. ,2016-05-01 23:50:49+00:00,d2ozvg2,,t1_d2ko2ak,,CatsStandingUp
+1279,Cat. ,2016-05-01 23:50:28+00:00,d2ozuzo,,t1_d2ko1cy,,CatsStandingUp
+1280,Cat. ,2016-05-01 23:49:33+00:00,d2oztuw,,t1_d2ki8z2,,CatsStandingUp
+1281,Cat. ,2016-05-01 23:49:25+00:00,d2ozto7,,t1_d2kfpl6,,CatsStandingUp
+1282,Cat. ,2016-05-01 23:49:15+00:00,d2oztfe,,t1_d2kfo4f,,CatsStandingUp
+1283,Cat. ,2016-05-01 23:49:05+00:00,d2ozt7x,,t1_d2kf1gc,,CatsStandingUp
+1284,Cat. ,2016-05-01 23:48:57+00:00,d2ozt0y,,t1_d2ksixj,,CatsStandingUp
+1285,Cat. ,2016-05-01 23:48:49+00:00,d2ozsub,,t1_d2k81wp,,CatsStandingUp
+1286,Cat. ,2016-05-01 23:48:43+00:00,d2ozspw,,t1_d2koeu5,,CatsStandingUp
+1287,Cat. ,2016-05-01 23:48:36+00:00,d2ozsj8,,t1_d2khvik,,CatsStandingUp
+1288,Cat. ,2016-05-01 23:48:28+00:00,d2ozscw,,t1_d2k34vu,,CatsStandingUp
+1289,Cat. ,2016-05-01 23:48:21+00:00,d2ozs74,,t1_d2k2cc2,,CatsStandingUp
+1290,Cat. ,2016-05-01 23:48:13+00:00,d2ozrzt,2.0,t1_d2oyb8a,2520.0,CatsStandingUp
+1291,Cat. ,2016-05-01 23:48:06+00:00,d2ozrux,,t1_d2lcfa9,,CatsStandingUp
+1292,Cat. ,2016-05-01 23:47:52+00:00,d2ozriw,,t1_d2kkhrw,,CatsStandingUp
+1293,Cat. ,2016-05-01 23:47:41+00:00,d2ozrb4,,t1_d2k2cb8,,CatsStandingUp
+1294,Cat. ,2016-05-01 23:47:34+00:00,d2ozr5q,,t1_d2k2c94,,CatsStandingUp
+1295,Cat. ,2016-05-01 23:33:18+00:00,d2oz9cm,,t1_d2oybo6,1604.0,CatsStandingUp
+1296,Cat. ,2016-05-01 23:31:47+00:00,d2oz7fd,2.0,t1_d2oy9yr,1598.0,CatsStandingUp
+1297,Cat. ,2016-05-01 23:29:21+00:00,d2oz4ib,4.0,t1_d2oyaf5,1428.0,CatsStandingUp
+1298,Cat. ,2016-05-01 23:28:33+00:00,d2oz3he,2.0,t1_d2oi9hh,27081.0,CatsStandingUp
+1299,Cat. ,2016-05-01 23:28:26+00:00,d2oz3cp,2.0,t1_d2ogmac,30020.0,CatsStandingUp
+1300,Cat. ,2016-05-01 23:28:16+00:00,d2oz34e,2.0,t1_d2o70sg,60278.0,CatsStandingUp
+1301,Cat. ,2016-05-01 23:27:31+00:00,d2oz24x,4.0,t1_d2oojz9,16897.0,CatsStandingUp
+1302,                   Cat.,2016-05-01 06:32:38+00:00,d2o6t91,,t1_d22k4n4,,CatsStandingUp
+1303,                   Cat.,2016-05-01 06:32:31+00:00,d2o6t5z,,t1_d22hr6q,,CatsStandingUp
+1304,                   Cat.,2016-05-01 06:32:23+00:00,d2o6t21,,t1_d222agy,,CatsStandingUp
+1305,                   Cat.,2016-05-01 06:32:16+00:00,d2o6sz9,,t1_d21m8io,,CatsStandingUp
+1306,                   Cat.,2016-05-01 06:32:08+00:00,d2o6sva,1.0,t3_4enf6w,1506246.0,CatsStandingUp
+1307,                   Cat.,2016-05-01 06:31:25+00:00,d2o6sdk,,t1_d23hpkq,,CatsStandingUp
+1308,                   Cat.,2016-05-01 06:31:09+00:00,d2o6s7h,1.0,t3_4estbj,1422549.0,CatsStandingUp
+1309,                   Cat.,2016-05-01 06:30:45+00:00,d2o6rwq,,t1_d24fsyk,,CatsStandingUp
+1310,                   Cat.,2016-05-01 06:30:38+00:00,d2o6rub,,t1_d24fg09,,CatsStandingUp
+1311,                   Cat.,2016-05-01 06:30:29+00:00,d2o6rqa,,t1_d24f2mq,,CatsStandingUp
+1312,                   Cat.,2016-05-01 06:30:22+00:00,d2o6rnb,,t1_d247usv,,CatsStandingUp
+1313,                   Cat.,2016-05-01 06:30:14+00:00,d2o6rk9,,t1_d2442t3,,CatsStandingUp
+1314,                   Cat.,2016-05-01 06:30:05+00:00,d2o6rgp,1.0,t3_4ewu28,1355379.0,CatsStandingUp
+1315,                   Cat.,2016-05-01 06:29:42+00:00,d2o6r83,,t1_d267vmp,,CatsStandingUp
+1316,                   Cat.,2016-05-01 06:29:31+00:00,d2o6r3h,1.0,t3_4expj3,1343922.0,CatsStandingUp
+1317,                   Cat.,2016-05-01 06:29:13+00:00,d2o6qw4,,t1_d24nwqk,,CatsStandingUp
+1318,                   Cat.,2016-05-01 06:28:49+00:00,d2o6qlu,,t1_d24fd1u,,CatsStandingUp
+1319,                   Cat.,2016-05-01 06:28:41+00:00,d2o6qhs,1.0,t3_4eyjoo,1333417.0,CatsStandingUp
+1320,                   Cat.,2016-05-01 06:28:16+00:00,d2o6q7i,,t1_d267vc7,,CatsStandingUp
+1321,                   Cat.,2016-05-01 06:28:03+00:00,d2o6q1l,1.0,t3_4eym2x,1332517.0,CatsStandingUp
+1322,                   Cat.,2016-05-01 06:27:10+00:00,d2o6pev,,t1_d26lqq5,,CatsStandingUp
+1323,                   Cat.,2016-05-01 06:26:41+00:00,d2o6p2z,1.0,t3_4f6bcq,1189868.0,CatsStandingUp
+1324,                   Cat.,2016-05-01 05:40:00+00:00,d2o5qfg,3.0,t1_d2nj9fv,41733.0,CatsStandingUp
+1325,                   Cat.,2016-05-01 05:39:41+00:00,d2o5q6o,2.0,t1_d2o3k4k,5343.0,CatsStandingUp
+1326,                   Cat.,2016-05-01 05:35:58+00:00,d2o5n74,2.0,t1_d2o5cka,797.0,CatsStandingUp
+1327,                   Cat.,2016-05-01 05:34:10+00:00,d2o5ls2,11.0,t1_d2o537g,1366.0,CatsStandingUp
+1328,                   Cat.,2016-05-01 05:33:46+00:00,d2o5lfo,6.0,t1_d2o56xw,1075.0,CatsStandingUp
+1329,                   Cat.,2016-05-01 05:33:36+00:00,d2o5lai,4.0,t1_d2o578s,1042.0,CatsStandingUp
+1330,                   Cat.,2016-05-01 05:33:26+00:00,d2o5l6a,4.0,t1_d2o57r5,992.0,CatsStandingUp
+1331,                   Cat.,2016-05-01 05:33:16+00:00,d2o5l1o,4.0,t1_d2o596a,878.0,CatsStandingUp
+1332,   Cat.,2016-05-01 05:07:41+00:00,d2o503n,3.0,t1_d2o4jjt,1140.0,CatsStandingUp
+1333,   Cat.,2016-05-01 05:07:03+00:00,d2o4zkr,2.0,t1_d2o4kgo,1040.0,CatsStandingUp
+1334,   Cat.,2016-05-01 05:06:51+00:00,d2o4zen,1.0,t3_4h7t3e,1088.0,CatsStandingUp
+1335,   Cat.,2016-05-01 04:45:56+00:00,d2o4h31,2.0,t1_d2o42kn,942.0,CatsStandingUp
+1336,   Cat.,2016-05-01 04:39:36+00:00,d2o4b9c,,t1_cz5sh3i,,CatsStandingUp
+1337,   Cat.,2016-05-01 04:39:34+00:00,d2o4b8r,,t1_cz5sh3i,,CatsStandingUp
+1338,   Cat.,2016-05-01 04:37:41+00:00,d2o49f2,,t1_d2k9lr5,,CatsStandingUp
+1339,   Cat.,2016-05-01 04:37:33+00:00,d2o49aw,,t1_d2k9lxh,,CatsStandingUp
+1340,   Cat.,2016-05-01 04:37:27+00:00,d2o4985,,t1_d24fobg,,CatsStandingUp
+1341,   Cat.,2016-05-01 04:37:18+00:00,d2o4930,1.0,t3_4eykul,1326293.0,CatsStandingUp
+1342,   Cat.,2016-05-01 04:36:53+00:00,d2o48ot,,t1_d2k9mea,,CatsStandingUp
+1343,   Cat.,2016-05-01 04:36:47+00:00,d2o48ld,,t1_d2k9mn9,,CatsStandingUp
+1344,   Cat.,2016-05-01 04:36:37+00:00,d2o48gc,,t1_d2j0rf0,,CatsStandingUp
+1345,   Cat.,2016-05-01 04:36:27+00:00,d2o48ar,1.0,t3_4eykba,1326434.0,CatsStandingUp
+1346,   Cat.,2016-05-01 04:36:05+00:00,d2o47xb,,t1_d2k9iil,,CatsStandingUp
+1347,   Cat.,2016-05-01 04:35:58+00:00,d2o47u0,,t1_d2k9ip6,,CatsStandingUp
+1348,   Cat.,2016-05-01 04:35:49+00:00,d2o47ox,,t1_d253duf,,CatsStandingUp
+1349,   Cat.,2016-05-01 04:35:40+00:00,d2o47jw,1.0,t3_4ezfoa,1314102.0,CatsStandingUp
+1350,   Cat.,2016-05-01 04:35:12+00:00,d2o474e,,t1_d25erfo,,CatsStandingUp
+1351,   Cat.,2016-05-01 04:35:04+00:00,d2o470c,,t1_d25emmn,,CatsStandingUp
+1352,   Cat.,2016-05-01 04:34:55+00:00,d2o46vq,,t1_d25cdfu,,CatsStandingUp
+1353,   Cat.,2016-05-01 04:34:46+00:00,d2o46q5,,t1_d25bn9g,,CatsStandingUp
+1354,   Cat.,2016-05-01 04:34:34+00:00,d2o46jl,1.0,t3_4f20aq,1261914.0,CatsStandingUp
+1355,   Cat.,2016-05-01 04:34:06+00:00,d2o464f,,t1_d2l5pdp,,CatsStandingUp
+1356,   Cat.,2016-05-01 04:33:59+00:00,d2o4601,,t1_d2l5pvs,,CatsStandingUp
+1357,   Cat.,2016-05-01 04:33:51+00:00,d2o45va,,t1_d267ujf,,CatsStandingUp
+1358,   Cat.,2016-05-01 04:33:43+00:00,d2o45r8,,t1_d25emfn,,CatsStandingUp
+1359,   Cat.,2016-05-01 04:33:33+00:00,d2o45lf,,t1_d25aq26,,CatsStandingUp
+1360,   Cat.,2016-05-01 04:33:22+00:00,d2o45fu,1.0,t3_4f0xlh,1286216.0,CatsStandingUp
+1361,   Cat.,2016-05-01 04:32:52+00:00,d2o44za,4.0,t1_d2o43i3,96.0,CatsStandingUp
+1362,   Cat.,2016-05-01 04:32:28+00:00,d2o44mi,,t1_d2k9hc1,,CatsStandingUp
+1363,   Cat.,2016-05-01 04:32:21+00:00,d2o44ip,,t1_d2k9hka,,CatsStandingUp
+1364,   Cat.,2016-05-01 04:32:07+00:00,d2o44ar,,t1_d2invyf,,CatsStandingUp
+1365,   Cat.,2016-05-01 04:31:56+00:00,d2o444t,1.0,t3_4f4w7r,1216421.0,CatsStandingUp
+1366,   Cat.,2016-05-01 04:30:46+00:00,d2o431q,,t1_d2fr8c0,,CatsStandingUp
+1367,   Cat.,2016-05-01 04:30:33+00:00,d2o42uz,,t1_d2futwl,,CatsStandingUp
+1368,   Cat.,2016-05-01 04:30:23+00:00,d2o42pe,,t1_d2gdlb0,,CatsStandingUp
+1369,   Cat.,2016-05-01 04:30:14+00:00,d2o42ks,,t1_d2g3wrh,,CatsStandingUp
+1370,   Cat.,2016-05-01 04:30:06+00:00,d2o42gg,,t1_d2ftru9,,CatsStandingUp
+1371,   Cat.,2016-05-01 04:29:57+00:00,d2o42aq,,t1_d2frywe,,CatsStandingUp
+1372,   Cat.,2016-05-01 04:29:38+00:00,d2o420t,,t1_d2fpqzc,,CatsStandingUp
+1373,   Cat.,2016-05-01 04:29:27+00:00,d2o41vg,,t1_d2fz55v,,CatsStandingUp
+1374,   Cat.,2016-05-01 04:29:20+00:00,d2o41ru,,t1_d2fvkyw,,CatsStandingUp
+1375,   Cat.,2016-05-01 04:29:12+00:00,d2o41nj,,t1_d2ft9l3,,CatsStandingUp
+1376,   Cat.,2016-05-01 04:29:01+00:00,d2o41ha,,t1_d2fpn7q,,CatsStandingUp
+1377,   Cat.,2016-05-01 04:28:53+00:00,d2o41cp,,t1_d2fqbpu,,CatsStandingUp
+1378,   Cat.,2016-05-01 04:28:42+00:00,d2o416f,,t1_d2fuyh2,,CatsStandingUp
+1379,   Cat.,2016-05-01 04:28:35+00:00,d2o412r,,t1_d2forlk,,CatsStandingUp
+1380,   Cat.,2016-05-01 04:28:22+00:00,d2o40v6,,t1_d2frrlr,,CatsStandingUp
+1381,   Cat.,2016-05-01 04:28:14+00:00,d2o40qk,,t1_d2fszj8,,CatsStandingUp
+1382,   Cat.,2016-05-01 04:28:07+00:00,d2o40mn,,t1_d2gjv9q,,CatsStandingUp
+1383,   Cat.,2016-05-01 04:28:00+00:00,d2o40ja,,t1_d2friq1,,CatsStandingUp
+1384,   Cat.,2016-05-01 04:27:53+00:00,d2o40fb,,t1_d2foscl,,CatsStandingUp
+1385,   Cat.,2016-05-01 04:27:44+00:00,d2o40at,,t1_d2gg54o,,CatsStandingUp
+1386,   Cat.,2016-05-01 04:27:34+00:00,d2o405c,,t1_d2fpcck,,CatsStandingUp
+1387,   Cat.,2016-05-01 04:27:14+00:00,d2o3zu5,,t1_d2flns0,,CatsStandingUp
+1388,   Cat.,2016-05-01 04:26:54+00:00,d2o3zj7,,t1_d2fl55q,,CatsStandingUp
+1389,   Cat.,2016-05-01 04:26:37+00:00,d2o3z9r,,t1_d2foslf,,CatsStandingUp
+1390,   Cat.,2016-05-01 04:26:19+00:00,d2o3yzy,,t1_d2foc17,,CatsStandingUp
+1391,   Cat.,2016-05-01 04:26:10+00:00,d2o3yv5,,t1_d2ftjqo,,CatsStandingUp
+1392,   Cat.,2016-05-01 04:25:59+00:00,d2o3ypt,,t1_d2gasst,,CatsStandingUp
+1393,   Cat.,2016-05-01 04:25:51+00:00,d2o3ylo,,t1_d2fwulq,,CatsStandingUp
+1394,   Cat.,2016-05-01 04:25:44+00:00,d2o3yh6,,t1_d2fqipr,,CatsStandingUp
+1395,   Cat.,2016-05-01 04:25:25+00:00,d2o3y6a,,t1_d2fl87u,,CatsStandingUp
+1396,   Cat.,2016-05-01 04:24:51+00:00,d2o3xns,,t1_d2fkyaa,,CatsStandingUp
+1397,   Cat.,2016-05-01 04:24:43+00:00,d2o3xiw,1.0,t3_4g98fg,555199.0,CatsStandingUp
+1398,   Cat.,2016-05-01 04:24:04+00:00,d2o3wy2,4.0,t1_d2o3lss,702.0,CatsStandingUp
+1399,   Cat.,2016-05-01 04:23:53+00:00,d2o3wrz,4.0,t1_d2o3lzp,680.0,CatsStandingUp
+1400,   Cat.,2016-05-01 04:23:43+00:00,d2o3wlz,4.0,t1_d2o3v88,89.0,CatsStandingUp
+1401,   Cat.,2016-05-01 04:22:43+00:00,d2o3vom,4.0,t1_d2no1gn,29154.0,CatsStandingUp
+1402,   Cat.,2016-05-01 04:22:16+00:00,d2o3v9g,6.0,t1_d2o0blw,7253.0,CatsStandingUp
+1403,   Cat.,2016-05-01 04:21:58+00:00,d2o3uzn,4.0,t1_d2o0bgu,7243.0,CatsStandingUp
+1404,   Cat.,2016-05-01 04:21:43+00:00,d2o3ur8,2.0,t1_d2nafiy,53118.0,CatsStandingUp
+1405,   Cat.,2016-05-01 04:21:26+00:00,d2o3uhs,3.0,t1_d2o0b1p,7233.0,CatsStandingUp
+1406,   Cat.,2016-05-01 04:21:05+00:00,d2o3u5m,2.0,t1_d2nc67a,49233.0,CatsStandingUp
+1407,   Cat.,2016-05-01 04:20:43+00:00,d2o3tu4,2.0,t1_d2ne0b5,45712.0,CatsStandingUp
+1408,   Cat.,2016-05-01 04:20:35+00:00,d2o3tov,2.0,t1_d2nbblk,50994.0,CatsStandingUp
+1409,   Cat.,2016-05-01 04:20:26+00:00,d2o3tjj,2.0,t1_d2o3cod,1043.0,CatsStandingUp
+1410,   Cat.,2016-05-01 04:20:18+00:00,d2o3tee,2.0,t1_d2o31o0,1697.0,CatsStandingUp
+1411,   Cat.,2016-05-01 04:20:11+00:00,d2o3tak,2.0,t1_d2o2ksz,2709.0,CatsStandingUp
+1412,   Cat.,2016-05-01 04:20:01+00:00,d2o3t48,2.0,t1_d2o2jkl,2769.0,CatsStandingUp
+1413,   Cat.,2016-05-01 04:19:52+00:00,d2o3szs,2.0,t1_d2o20x8,3817.0,CatsStandingUp
+1414,   Cat.,2016-05-01 04:19:43+00:00,d2o3sus,2.0,t1_d2o1no7,4527.0,CatsStandingUp
+1415,   Cat.,2016-05-01 04:19:30+00:00,d2o3snn,3.0,t1_d2o203z,3841.0,CatsStandingUp
+1416,   Cat.,2016-05-01 04:19:19+00:00,d2o3shd,2.0,t1_d2o1dvt,5049.0,CatsStandingUp
+1417,   Cat.,2016-05-01 04:19:09+00:00,d2o3sb9,2.0,t1_d2o0ytv,5845.0,CatsStandingUp
+1418,   Cat.,2016-05-01 04:19:00+00:00,d2o3s5w,2.0,t1_d2o0d71,6977.0,CatsStandingUp
+1419,   Cat.,2016-05-01 04:18:40+00:00,d2o3rup,2.0,t1_d2negw1,44784.0,CatsStandingUp
+1420,   Cat.,2016-05-01 04:18:34+00:00,d2o3rr9,2.0,t1_d2nfwlb,42334.0,CatsStandingUp
+1421,   Cat.,2016-05-01 04:18:24+00:00,d2o3rm3,2.0,t1_d2nfr9q,42569.0,CatsStandingUp
+1422,   Cat.,2016-05-01 04:18:17+00:00,d2o3ri8,2.0,t1_d2nhmqv,39493.0,CatsStandingUp
+1423,   Cat.,2016-05-01 04:18:04+00:00,d2o3ra7,4.0,t1_d2o0q7d,6238.0,CatsStandingUp
+1424,   Cat.,2016-05-01 04:17:45+00:00,d2o3qz7,2.0,t1_d2nlrwt,32633.0,CatsStandingUp
+1425,   Cat.,2016-05-01 04:17:27+00:00,d2o3qog,3.0,t1_d2nzp8s,8107.0,CatsStandingUp
+1426,   Cat.,2016-05-01 04:17:10+00:00,d2o3qf4,4.0,t1_d2njgjn,36434.0,CatsStandingUp
+1427,   Cat.,2016-05-01 04:16:52+00:00,d2o3q4j,2.0,t1_d2nzr0z,7979.0,CatsStandingUp
+1428,   Cat.,2016-05-01 04:16:45+00:00,d2o3q17,2.0,t1_d2nx3f8,12726.0,CatsStandingUp
+1429,   Cat.,2016-05-01 04:16:37+00:00,d2o3pwo,2.0,t1_d2nwh8j,13790.0,CatsStandingUp
+1430,   Cat.,2016-05-01 04:16:28+00:00,d2o3ps2,2.0,t1_d2nwbro,14039.0,CatsStandingUp
+1431,   Cat.,2016-05-01 04:16:21+00:00,d2o3po6,2.0,t1_d2nw5av,14319.0,CatsStandingUp
+1432,   Cat.,2016-05-01 04:16:14+00:00,d2o3pk7,2.0,t1_d2nw0ql,14512.0,CatsStandingUp
+1433,   Cat.,2016-05-01 04:16:07+00:00,d2o3pfo,2.0,t1_d2nuv1h,16627.0,CatsStandingUp
+1434,   Cat.,2016-05-01 04:16:00+00:00,d2o3pcg,2.0,t1_d2nthss,19167.0,CatsStandingUp
+1435,   Cat.,2016-05-01 04:15:52+00:00,d2o3p7o,2.0,t1_d2nt93f,19595.0,CatsStandingUp
+1436,   Cat.,2016-05-01 04:15:44+00:00,d2o3p3a,3.0,t1_d2nt8ce,19625.0,CatsStandingUp
+1437,   Cat.,2016-05-01 04:15:29+00:00,d2o3our,2.0,t1_d2nr1u0,23481.0,CatsStandingUp
+1438,   Cat.,2016-05-01 04:15:20+00:00,d2o3opi,2.0,t1_d2nr024,23557.0,CatsStandingUp
+1439,   Cat.,2016-05-01 04:15:07+00:00,d2o3oi8,2.0,t1_d2nqxk9,23663.0,CatsStandingUp
+1440,   Cat.,2016-05-01 04:14:58+00:00,d2o3ock,2.0,t1_d2nqhq1,24416.0,CatsStandingUp
+1441,   Cat.,2016-05-01 04:14:51+00:00,d2o3o8w,2.0,t1_d2nph4y,26201.0,CatsStandingUp
+1442,   Cat.,2016-05-01 04:14:42+00:00,d2o3o39,3.0,t1_d2nzpra,7914.0,CatsStandingUp
+1443,   Cat.,2016-05-01 04:14:26+00:00,d2o3nv3,2.0,t1_d2njnpl,35944.0,CatsStandingUp
+1444,   Cat.,2016-05-01 04:14:15+00:00,d2o3noa,2.0,t1_d2nidq7,38031.0,CatsStandingUp
+1445,   Cat.,2016-05-01 04:14:04+00:00,d2o3nic,3.0,t1_d2nx433,12530.0,CatsStandingUp
+1446,   Cat.,2016-05-01 04:13:36+00:00,d2o3n2f,3.0,t1_d2ne6i3,44982.0,CatsStandingUp
+1447,   Cat.,2016-05-01 04:13:22+00:00,d2o3mu8,7.0,t1_d2nluft,32253.0,CatsStandingUp
+1448,   Cat.,2016-05-01 04:13:06+00:00,d2o3mjm,5.0,t1_d2nc5zr,48766.0,CatsStandingUp
+1449,   Cat.,2016-05-01 04:12:49+00:00,d2o3ma9,2.0,t1_d2namfu,52123.0,CatsStandingUp
+1450,   Cat.,2016-05-01 04:12:41+00:00,d2o3m5g,2.0,t1_d2nyzp9,9142.0,CatsStandingUp
+1451,   Cat.,2016-05-01 04:12:34+00:00,d2o3m05,2.0,t1_d2nxnko,11485.0,CatsStandingUp
+1452,   Cat.,2016-05-01 04:12:26+00:00,d2o3lvm,2.0,t1_d2nsycv,19923.0,CatsStandingUp
+1453,   Cat.,2016-05-01 04:12:18+00:00,d2o3lql,2.0,t1_d2ns9z4,21123.0,CatsStandingUp
+1454,   Cat.,2016-05-01 04:12:08+00:00,d2o3llb,2.0,t1_d2ns21p,21510.0,CatsStandingUp
+1455,   Cat.,2016-05-01 04:11:56+00:00,d2o3ldi,2.0,t1_d2ns1ac,21539.0,CatsStandingUp
+1456,   Cat.,2016-05-01 04:11:49+00:00,d2o3l9k,2.0,t1_d2nqwy7,23495.0,CatsStandingUp
+1457,   Cat.,2016-05-01 04:11:40+00:00,d2o3l4z,3.0,t1_d2nzoqn,7783.0,CatsStandingUp
+1458,   Cat.,2016-05-01 04:11:30+00:00,d2o3kyx,4.0,t1_d2nzom9,7780.0,CatsStandingUp
+1459,   Cat.,2016-05-01 04:11:15+00:00,d2o3kqn,2.0,t1_d2nlzz5,31870.0,CatsStandingUp
+1460,   Cat.,2016-05-01 04:11:03+00:00,d2o3kju,2.0,t1_d2ni8vh,38065.0,CatsStandingUp
+1461,   Cat.,2016-05-01 04:10:50+00:00,d2o3kbk,3.0,t1_d2nxufm,11058.0,CatsStandingUp
+1462,   Cat.,2016-05-01 04:10:42+00:00,d2o3k72,3.0,t1_d2nn86g,29817.0,CatsStandingUp
+1463,   Cat.,2016-05-01 04:10:34+00:00,d2o3k2j,4.0,t1_d2o1oe6,3938.0,CatsStandingUp
+1464,   Cat.,2016-05-01 04:10:19+00:00,d2o3ju8,4.0,t1_d2o0abl,6604.0,CatsStandingUp
+1465,   Cat.,2016-05-01 04:10:03+00:00,d2o3jkw,4.0,t1_d2nts9s,18262.0,CatsStandingUp
+1466,   Cat.,2016-05-01 04:09:40+00:00,d2o3j7o,7.0,t1_d2nlu5r,32044.0,CatsStandingUp
+1467,   Cat.,2016-05-01 04:09:11+00:00,d2o3iqb,3.0,t1_d2o2c8f,2540.0,CatsStandingUp
+1468,   Cat.,2016-05-01 04:09:03+00:00,d2o3ilk,4.0,t1_d2o16r2,4812.0,CatsStandingUp
+1469,   Cat.,2016-05-01 04:08:52+00:00,d2o3ife,5.0,t1_d2nznyj,7655.0,CatsStandingUp
+1470,   Cat.,2016-05-01 04:08:33+00:00,d2o3i3s,7.0,t1_d2o1tds,3553.0,CatsStandingUp
+1471,   Cat.,2016-05-01 04:08:22+00:00,d2o3hvu,5.0,t1_d2nvz1n,14117.0,CatsStandingUp
+1472,   Cat.,2016-05-01 04:08:09+00:00,d2o3hof,3.0,t1_d2nh5i7,39669.0,CatsStandingUp
+1473,   Cat.,2016-05-01 04:07:53+00:00,d2o3hg2,4.0,t1_d2o2kvt,1967.0,CatsStandingUp
+1474,   Cat.,2016-05-01 04:07:26+00:00,d2o3gzr,8.0,t1_d2nix70,36734.0,CatsStandingUp
+1475,   Cat.,2016-05-01 04:07:04+00:00,d2o3gnk,2.0,t1_d2na4tq,52967.0,CatsStandingUp
+1476,   Cat.,2016-05-01 04:06:48+00:00,d2o3gef,1.0,t3_4h4f3l,53132.0,CatsStandingUp
+1477,   Cat.,2016-05-01 04:06:13+00:00,d2o3fsz,2.0,t1_d2ng8cp,41050.0,CatsStandingUp
+1478,   Cat.,2016-05-01 04:06:04+00:00,d2o3fnp,2.0,t1_d2o0hqo,5957.0,CatsStandingUp
+1479,   Cat.,2016-05-01 04:05:57+00:00,d2o3fj9,2.0,t1_d2nz8o2,8273.0,CatsStandingUp
+1480,   Cat.,2016-05-01 04:05:39+00:00,d2o3f7i,2.0,t1_d2nxo1z,11048.0,CatsStandingUp
+1481,   Cat.,2016-05-01 04:05:30+00:00,d2o3f3e,2.0,t1_d2nxkty,11192.0,CatsStandingUp
+1482,   Cat.,2016-05-01 04:05:19+00:00,d2o3ex2,2.0,t1_d2nsrce,19842.0,CatsStandingUp
+1483,   Cat.,2016-05-01 04:05:12+00:00,d2o3esr,2.0,t1_d2nrdkq,22306.0,CatsStandingUp
+1484,   Cat.,2016-05-01 04:05:04+00:00,d2o3eok,2.0,t1_d2nqfym,23908.0,CatsStandingUp
+1485,   Cat.,2016-05-01 04:04:55+00:00,d2o3ej4,2.0,t1_d2nq4bi,24469.0,CatsStandingUp
+1486,   Cat.,2016-05-01 04:04:47+00:00,d2o3eex,2.0,t1_d2npej8,25721.0,CatsStandingUp
+1487,   Cat.,2016-05-01 04:04:40+00:00,d2o3eaq,2.0,t1_d2nos7e,26781.0,CatsStandingUp
+1488,   Cat.,2016-05-01 04:04:33+00:00,d2o3e69,2.0,t1_d2njhz1,35614.0,CatsStandingUp
+1489,   Cat.,2016-05-01 04:04:26+00:00,d2o3e1q,2.0,t1_d2nj62q,36153.0,CatsStandingUp
+1490,   Cat.,2016-05-01 04:04:18+00:00,d2o3dxa,2.0,t1_d2nihu8,37245.0,CatsStandingUp
+1491,   Cat.,2016-05-01 04:04:09+00:00,d2o3dro,3.0,t1_d2nivge,36616.0,CatsStandingUp
+1492,   Cat.,2016-05-01 04:03:57+00:00,d2o3dkh,2.0,t1_d2nfpr2,41775.0,CatsStandingUp
+1493,   Cat.,2016-05-01 04:03:46+00:00,d2o3ddu,2.0,t1_d2nup7j,16189.0,CatsStandingUp
+1494,   Cat.,2016-05-01 04:03:37+00:00,d2o3d8q,2.0,t1_d2nujjc,16474.0,CatsStandingUp
+1495,   Cat.,2016-05-01 04:03:26+00:00,d2o3d2s,2.0,t1_d2nm4tu,31175.0,CatsStandingUp
+1496,   Cat.,2016-05-01 04:03:18+00:00,d2o3cy3,2.0,t1_d2nltj5,31692.0,CatsStandingUp
+1497,   Cat.,2016-05-01 04:03:05+00:00,d2o3cq2,2.0,t1_d2njob2,35235.0,CatsStandingUp
+1498,   Cat.,2016-05-01 04:02:58+00:00,d2o3ckn,2.0,t1_d2nhfqy,38891.0,CatsStandingUp
+1499,   Cat.,2016-05-01 04:02:50+00:00,d2o3cg3,2.0,t1_d2nhdto,38971.0,CatsStandingUp
+1500,   Cat.,2016-05-01 04:02:40+00:00,d2o3c9u,3.0,t1_d2nk3fv,34541.0,CatsStandingUp
+1501,   Cat.,2016-05-01 04:02:28+00:00,d2o3c2c,2.0,t1_d2no8lk,27597.0,CatsStandingUp
+1502,   Cat.,2016-05-01 04:02:20+00:00,d2o3bxw,2.0,t1_d2nn13y,29636.0,CatsStandingUp
+1503,   Cat.,2016-05-01 04:02:14+00:00,d2o3btp,2.0,t1_d2nljzc,32083.0,CatsStandingUp
+1504,   Cat.,2016-05-01 04:02:01+00:00,d2o3blv,3.0,t1_d2o28yx,2297.0,CatsStandingUp
+1505,   Cat.,2016-05-01 04:01:42+00:00,d2o3b9y,3.0,t1_d2nh1w7,39443.0,CatsStandingUp
+1506,   Cat.,2016-05-01 04:01:32+00:00,d2o3b3s,3.0,t1_d2no3nx,27779.0,CatsStandingUp
+1507,   Cat.,2016-05-01 04:01:19+00:00,d2o3aw8,7.0,t1_d2o2yuf,731.0,CatsStandingUp
+1508,   Cat.,2016-05-01 04:01:06+00:00,d2o3ao3,10.0,t1_d2o2i6e,1715.0,CatsStandingUp
+1509,   Cat.,2016-05-01 04:00:36+00:00,d2o3a5g,4.0,t1_d2nf8cy,42377.0,CatsStandingUp
+1510,   Cat.,2016-05-01 04:00:13+00:00,d2o39sp,4.0,t1_d2npeut,25432.0,CatsStandingUp
+1511,   Cat.,2016-05-01 04:00:00+00:00,d2o39l3,9.0,t1_d2nu1x9,17162.0,CatsStandingUp
+1512,   Cat.,2016-05-01 03:59:30+00:00,d2o392m,1.0,t3_4h4sqn,46000.0,CatsStandingUp
+1513,   Cat.,2016-05-01 03:57:00+00:00,d2o36js,8.0,t1_d2o2zzf,405.0,CatsStandingUp
+1514,   Cat.,2016-05-01 03:54:05+00:00,d2o33ni,1.0,t3_4h39ey,82078.0,CatsStandingUp
+1515,   Cat.,2016-05-01 03:53:20+00:00,d2o32yg,4.0,t1_d2o2zmw,204.0,CatsStandingUp
+1516,   Cat.,2016-05-01 03:51:57+00:00,d2o31lv,,t1_d2jztcb,,CatsStandingUp
+1517,   Cat.,2016-05-01 03:50:22+00:00,d2o303e,,t1_d2l3u8h,,CatsStandingUp
+1518,   Cat.,2016-05-01 03:50:05+00:00,d2o2zsc,,t1_d2jjugj,,CatsStandingUp
+1519,   Cat.,2016-05-01 03:49:25+00:00,d2o2z53,2.0,t1_d2mhb6s,115472.0,CatsStandingUp
+1520,   Cat.,2016-05-01 03:49:18+00:00,d2o2z09,2.0,t1_d2msxza,97406.0,CatsStandingUp
+1521,   Cat.,2016-05-01 03:48:55+00:00,d2o2ynv,2.0,t1_d2n302m,77747.0,CatsStandingUp
+1522,   Cat.,2016-05-01 03:48:44+00:00,d2o2yhr,2.0,t1_d2nfsxu,40712.0,CatsStandingUp
+1523,   Cat.,2016-05-01 03:45:56+00:00,d2o2vqu,2.0,t1_d2o1rvf,2276.0,CatsStandingUp
+1524,   Cat.,2016-05-01 03:45:46+00:00,d2o2vkx,2.0,t1_d2o0zac,3817.0,CatsStandingUp
+1525,   Cat.,2016-05-01 03:45:37+00:00,d2o2vfj,2.0,t1_d2o0mcl,4498.0,CatsStandingUp
+1526,   Cat.,2016-05-01 03:45:29+00:00,d2o2vav,2.0,t1_d2o0gq0,4775.0,CatsStandingUp
+1527,   Cat.,2016-05-01 03:45:08+00:00,d2o2uzj,4.0,t1_d2o1j6s,2700.0,CatsStandingUp
+1528,   Cat.,2016-05-01 02:32:26+00:00,d2o0oda,8.0,t1_d2o0liz,149.0,CatsStandingUp
+1529,   Cat.,2016-05-01 02:31:50+00:00,d2o0nob,,t1_d26uvwh,,CatsStandingUp
+1530,   Cat.,2016-05-01 02:31:45+00:00,d2o0nl2,,t1_d27heoo,,CatsStandingUp
+1531,   Cat.,2016-05-01 02:31:31+00:00,d2o0nbu,,t1_d26qkbu,,CatsStandingUp
+1532,   Cat.,2016-05-01 02:31:17+00:00,d2o0n24,1.0,t3_4f8hvz,1142364.0,CatsStandingUp
+1533,   Cat.,2016-05-01 02:30:42+00:00,d2o0mer,,t1_d273mz8,,CatsStandingUp
+1534,   Cat.,2016-05-01 02:30:32+00:00,d2o0m75,,t1_d272bv2,,CatsStandingUp
+1535,   Cat.,2016-05-01 02:30:24+00:00,d2o0m0v,,t1_d2805eq,,CatsStandingUp
+1536,   Cat.,2016-05-01 02:30:01+00:00,d2o0lls,,t1_d271li9,,CatsStandingUp
+1537,   Cat.,2016-05-01 02:29:50+00:00,d2o0le8,1.0,t3_4f8u56,1137516.0,CatsStandingUp
+1538,   Cat.,2016-05-01 02:29:19+00:00,d2o0ksv,,t1_d2k97l1,,CatsStandingUp
+1539,   Cat.,2016-05-01 02:29:09+00:00,d2o0klc,,t1_d27zgyc,,CatsStandingUp
+1540,   Cat.,2016-05-01 02:28:57+00:00,d2o0kcz,,t1_d27av6e,,CatsStandingUp
+1541,   Cat.,2016-05-01 02:28:46+00:00,d2o0k4s,1.0,t3_4favo9,1102110.0,CatsStandingUp
+1542,   Cat.,2016-05-01 02:28:16+00:00,d2o0jjg,,t1_d2k98zu,,CatsStandingUp
+1543,   Cat.,2016-05-01 02:28:09+00:00,d2o0jdj,,t1_d2k9965,,CatsStandingUp
+1544,   Cat.,2016-05-01 02:28:00+00:00,d2o0j64,,t1_d27d325,,CatsStandingUp
+1545,   Cat.,2016-05-01 02:27:45+00:00,d2o0ivz,,t1_d27am6y,,CatsStandingUp
+1546,   Cat.,2016-05-01 02:27:34+00:00,d2o0iny,1.0,t3_4fau85,1102965.0,CatsStandingUp
+1547,   Cat.,2016-05-01 02:26:45+00:00,d2o0hpa,,t1_d27d6pv,,CatsStandingUp
+1548,   Cat.,2016-05-01 02:26:36+00:00,d2o0hjj,,t1_d2fo2zf,,CatsStandingUp
+1549,   Cat.,2016-05-01 02:26:27+00:00,d2o0hd5,,t1_d29fm6g,,CatsStandingUp
+1550,   Cat.,2016-05-01 02:26:11+00:00,d2o0h1r,1.0,t3_4fba3h,1092854.0,CatsStandingUp
+1551,   Cat.,2016-05-01 02:25:32+00:00,d2o0gak,,t1_d29agko,,CatsStandingUp
+1552,   Cat.,2016-05-01 02:25:16+00:00,d2o0g05,,t1_d28qw1a,,CatsStandingUp
+1553,   Cat.,2016-05-01 02:25:05+00:00,d2o0ft9,,t1_d29a5bt,,CatsStandingUp
+1554,   Cat.,2016-05-01 02:24:50+00:00,d2o0fjr,,t1_d289htn,,CatsStandingUp
+1555,   Cat.,2016-05-01 02:24:41+00:00,d2o0fdi,1.0,t3_4ff0tv,1042859.0,CatsStandingUp
+1556,   Cat.,2016-05-01 02:23:29+00:00,d2o0e1e,3.0,t1_d2nrsj2,15474.0,CatsStandingUp
+1557,   Cat.,2016-05-01 02:23:17+00:00,d2o0dtm,2.0,t1_d2n1o8p,76181.0,CatsStandingUp
+1558,   Cat.,2016-05-01 02:23:08+00:00,d2o0dng,1.0,t3_4h39ey,76621.0,CatsStandingUp
+1559,   Cat.,2016-05-01 02:22:06+00:00,d2o0cgf,2.0,t1_d2nftl0,35485.0,CatsStandingUp
+1560,   Cat.,2016-05-01 02:21:58+00:00,d2o0cb3,2.0,t1_d2nio37,30818.0,CatsStandingUp
+1561,   Cat.,2016-05-01 02:21:43+00:00,d2o0c0c,2.0,t1_d2nedg4,37931.0,CatsStandingUp
+1562,   Cat.,2016-05-01 02:21:23+00:00,d2o0blx,2.0,t1_d2nxo69,4786.0,CatsStandingUp
+1563,   Cat.,2016-05-01 02:21:15+00:00,d2o0bh9,2.0,t1_d2nwz9s,6001.0,CatsStandingUp
+1564,   Cat.,2016-05-01 02:21:07+00:00,d2o0bbe,2.0,t1_d2nwgqg,6884.0,CatsStandingUp
+1565,   Cat.,2016-05-01 02:20:59+00:00,d2o0b5x,2.0,t1_d2novsl,20389.0,CatsStandingUp
+1566,   Cat.,2016-05-01 02:20:28+00:00,d2o0akm,3.0,t1_d2nft51,35407.0,CatsStandingUp
+1567,   Cat.,2016-05-01 02:20:08+00:00,d2o0a6h,6.0,t1_d2nm2rs,25073.0,CatsStandingUp
+1568,   Cat.,2016-05-01 02:19:41+00:00,d2o09o3,2.0,t1_d2njufe,28759.0,CatsStandingUp
+1569,   Cat.,2016-05-01 02:19:28+00:00,d2o09ef,2.0,t1_d2nekz4,37434.0,CatsStandingUp
+1570,   Cat.,2016-05-01 02:18:27+00:00,d2o0891,3.0,t1_d2nhdkz,32720.0,CatsStandingUp
+1571,   Cat.,2016-05-01 02:17:46+00:00,d2o07g5,2.0,t1_d2ndc51,39555.0,CatsStandingUp
+1572,   Cat.,2016-05-01 02:17:34+00:00,d2o076y,1.0,t3_4h4kiu,43744.0,CatsStandingUp
+1573,   Cat.,2016-05-01 02:16:24+00:00,d2o05uk,3.0,t1_d2o01yv,198.0,CatsStandingUp
+1574,   Cat.,2016-05-01 02:15:22+00:00,d2o04ml,2.0,t1_d2nztz2,538.0,CatsStandingUp
+1575,   Cat.,2016-05-01 02:14:25+00:00,d2o03ia,2.0,t1_d2nztr2,492.0,CatsStandingUp
+1576,   Cat.,2016-05-01 02:13:31+00:00,d2o02gk,2.0,t1_d2nztjj,449.0,CatsStandingUp
+1577,   Cat.,2016-05-01 02:13:22+00:00,d2o02av,2.0,t1_d2nymcr,2649.0,CatsStandingUp
+1578,   Cat.,2016-05-01 02:12:18+00:00,d2o010i,5.0,t1_d2nyvd8,2141.0,CatsStandingUp
+1579,   Cat.,2016-05-01 02:12:11+00:00,d2o00vt,5.0,t1_d2nyvao,2138.0,CatsStandingUp
+1580,   Cat.,2016-05-01 02:12:03+00:00,d2o00p5,5.0,t1_d2nyv7h,2135.0,CatsStandingUp
+1581,   Cat.,2016-05-01 02:11:25+00:00,d2nzzz5,2.0,t1_d2nzt6s,341.0,CatsStandingUp
+1582,   Cat.,2016-05-01 02:10:58+00:00,d2nzzgj,3.0,t1_d2nzra7,412.0,CatsStandingUp
+1583,   Cat.,2016-05-01 02:10:40+00:00,d2nzz2s,5.0,t1_d2nyvft,2040.0,CatsStandingUp
+1584,   Cat.,2016-05-01 02:10:21+00:00,d2nzyo8,5.0,t1_d2nzsfk,316.0,CatsStandingUp
+1585,   Cat.,2016-05-01 02:10:06+00:00,d2nzycu,4.0,t1_d2nzqz5,375.0,CatsStandingUp
+1586,   Cat.,2016-05-01 02:09:50+00:00,d2nzy17,8.0,t1_d2nzqv5,365.0,CatsStandingUp
+1587,   Cat.,2016-05-01 01:35:25+00:00,d2nytvs,4.0,t1_d2nyqsa,151.0,CatsStandingUp
+1588,   Cat.,2016-05-01 01:33:16+00:00,d2nyr7z,2.0,t1_d2nykvm,316.0,CatsStandingUp
+1589,   Cat.,2016-05-01 01:32:45+00:00,d2nyql4,4.0,t1_d2nyocm,112.0,CatsStandingUp
+1590,   Cat.,2016-05-01 01:32:19+00:00,d2nyq2a,2.0,t1_d2nylm6,222.0,CatsStandingUp
+1591,       Cat.,2016-05-01 01:31:37+00:00,d2nyp8e,6.0,t1_d2nyne1,93.0,CatsStandingUp
+1592,Cat.,2016-05-01 01:30:38+00:00,d2nyo2k,5.0,t1_d2nynb2,38.0,CatsStandingUp
+1593,Cat.,2016-05-01 01:30:05+00:00,d2nynej,2.0,t1_d2nye93,457.0,CatsStandingUp
+1594,Cat.,2016-05-01 01:29:18+00:00,d2nymg5,3.0,t1_d2nyjhe,149.0,CatsStandingUp
+1595,Cat.,2016-05-01 01:29:06+00:00,d2nym82,3.0,t1_d2nyjrv,122.0,CatsStandingUp
+1596,Cat.,2016-05-01 01:28:56+00:00,d2nym07,3.0,t1_d2nyjyp,102.0,CatsStandingUp
+1597,Cat.,2016-05-01 01:28:47+00:00,d2nylta,3.0,t1_d2nykfm,69.0,CatsStandingUp
+1598,Cat.,2016-05-01 01:27:55+00:00,d2nyksb,2.0,t1_d2no7dz,18384.0,CatsStandingUp
+1599,Cat.,2016-05-01 01:27:48+00:00,d2nykn2,2.0,t1_d2n61tz,57906.0,CatsStandingUp
+1600,Cat.,2016-05-01 01:27:41+00:00,d2nykhn,3.0,t1_d2n3mxp,67227.0,CatsStandingUp
+1601,Cat.,2016-05-01 01:27:32+00:00,d2nykbq,2.0,t1_d2n2uc7,69748.0,CatsStandingUp
+1602,Cat.,2016-05-01 01:27:20+00:00,d2nyk35,2.0,t1_d2n2jkk,70621.0,CatsStandingUp
+1603,Cat.,2016-05-01 01:27:12+00:00,d2nyjx4,3.0,t1_d2n39ph,68392.0,CatsStandingUp
+1604,Cat.,2016-05-01 01:27:01+00:00,d2nyjpk,1.0,t3_4h21qw,94630.0,CatsStandingUp
+1605,Cat.,2016-05-01 01:26:33+00:00,d2nyj6c,3.0,t1_d2nx8gg,2264.0,CatsStandingUp
+1606,Cat.,2016-05-01 01:26:24+00:00,d2nyizv,2.0,t1_d2nouyc,17155.0,CatsStandingUp
+1607,Cat.,2016-05-01 01:26:16+00:00,d2nyits,2.0,t1_d2nnpoq,19130.0,CatsStandingUp
+1608,Cat.,2016-05-01 01:26:09+00:00,d2nyipk,2.0,t1_d2nmj7e,21075.0,CatsStandingUp
+1609,Cat.,2016-05-01 01:26:03+00:00,d2nyiky,2.0,t1_d2nigt1,27799.0,CatsStandingUp
+1610,Cat.,2016-05-01 01:25:53+00:00,d2nyiev,4.0,t1_d2nff7p,32776.0,CatsStandingUp
+1611,Cat.,2016-05-01 01:25:38+00:00,d2nyi4v,2.0,t1_d2nd57g,36790.0,CatsStandingUp
+1612,Cat.,2016-05-01 01:25:19+00:00,d2nyhrr,1.0,t3_4h4j71,41251.0,CatsStandingUp
+1613,Cat.,2016-05-01 01:24:53+00:00,d2nyh7d,2.0,t1_d2nxojp,1377.0,CatsStandingUp
+1614,Cat.,2016-05-01 01:24:45+00:00,d2nyh1n,2.0,t1_d2nx4it,2352.0,CatsStandingUp
+1615,Cat.,2016-05-01 01:24:38+00:00,d2nygwk,2.0,t1_d2nvlec,4982.0,CatsStandingUp
+1616,Cat.,2016-05-01 01:24:30+00:00,d2nygq5,2.0,t1_d2nrte9,11890.0,CatsStandingUp
+1617,Cat.,2016-05-01 01:24:23+00:00,d2nygkp,2.0,t1_d2nrrv7,11959.0,CatsStandingUp
+1618,Cat.,2016-05-01 01:24:15+00:00,d2nygee,2.0,t1_d2nr3n6,13118.0,CatsStandingUp
+1619,Cat.,2016-05-01 01:24:08+00:00,d2nyg9h,2.0,t1_d2npksm,15783.0,CatsStandingUp
+1620,Cat.,2016-05-01 01:24:02+00:00,d2nyg4v,2.0,t1_d2notbl,17089.0,CatsStandingUp
+1621,Cat.,2016-05-01 01:23:52+00:00,d2nyfyg,3.0,t1_d2ni7dv,28101.0,CatsStandingUp
+1622,Cat.,2016-05-01 01:23:37+00:00,d2nyfnd,2.0,t1_d2nhf32,29361.0,CatsStandingUp
+1623,Cat.,2016-05-01 01:23:27+00:00,d2nyfgt,2.0,t1_d2nhe34,29396.0,CatsStandingUp
+1624,Cat.,2016-05-01 01:23:14+00:00,d2nyf71,2.0,t1_d2nq0g5,14961.0,CatsStandingUp
+1625,Cat.,2016-05-01 01:23:07+00:00,d2nyf1o,2.0,t1_d2nnp1w,18970.0,CatsStandingUp
+1626,Cat.,2016-05-01 01:22:59+00:00,d2nyev5,2.0,t1_d2nn9m9,19687.0,CatsStandingUp
+1627,Cat.,2016-05-01 01:22:49+00:00,d2nyeox,2.0,t1_d2nn366,19969.0,CatsStandingUp
+1628,Cat.,2016-05-01 01:22:43+00:00,d2nyejy,2.0,t1_d2nmwmr,20265.0,CatsStandingUp
+1629,Cat.,2016-05-01 01:22:35+00:00,d2nyeea,2.0,t1_d2nl1sp,23363.0,CatsStandingUp
+1630,Cat.,2016-05-01 01:22:26+00:00,d2nye8a,2.0,t1_d2nk7xb,24728.0,CatsStandingUp
+1631,Cat.,2016-05-01 01:22:20+00:00,d2nye3i,2.0,t1_d2njsoq,25396.0,CatsStandingUp
+1632,Cat.,2016-05-01 01:22:11+00:00,d2nydwm,2.0,t1_d2njj0x,25824.0,CatsStandingUp
+1633,Cat.,2016-05-01 01:22:03+00:00,d2nydq1,2.0,t1_d2njbli,26158.0,CatsStandingUp
+1634,Cat.,2016-05-01 01:21:55+00:00,d2nydkn,4.0,t1_d2nm1n7,21633.0,CatsStandingUp
+1635,Cat.,2016-05-01 01:21:44+00:00,d2nydcl,6.0,t1_d2nlonp,22231.0,CatsStandingUp
+1636,Cat.,2016-05-01 01:21:35+00:00,d2nyd72,4.0,t1_d2nggd5,30807.0,CatsStandingUp
+1637,Cat.,2016-05-01 01:21:20+00:00,d2nycvt,2.0,t1_d2ng13k,31493.0,CatsStandingUp
+1638,Cat.,2016-05-01 01:21:07+00:00,d2nycn1,3.0,t1_d2npahl,16098.0,CatsStandingUp
+1639,Cat.,2016-05-01 01:20:54+00:00,d2nycdq,1.0,t3_4h53q9,31745.0,CatsStandingUp
+1640,Cat.,2016-05-01 01:20:31+00:00,d2nybvz,2.0,t1_d2nxhzb,1439.0,CatsStandingUp
+1641,Cat.,2016-05-01 01:20:23+00:00,d2nybqc,1.0,t3_4h6lyn,8914.0,CatsStandingUp
+1642,Cat.,2016-05-01 01:20:03+00:00,d2nybc2,2.0,t1_d2ny3mf,374.0,CatsStandingUp
+1643,Cat.,2016-05-01 01:19:55+00:00,d2nyb6u,2.0,t1_d2ny3au,384.0,CatsStandingUp
+1644,Cat.,2016-05-01 01:19:45+00:00,d2nyazb,1.0,t3_4h5na9,23647.0,CatsStandingUp
+1645,Cat.,2016-05-01 01:19:27+00:00,d2nyam6,2.0,t1_d2ny2y5,374.0,CatsStandingUp
+1646,Cat.,2016-05-01 01:19:18+00:00,d2nyag7,2.0,t1_d2nxu79,777.0,CatsStandingUp
+1647,Cat.,2016-05-01 01:19:09+00:00,d2nya98,1.0,t3_4h4xvt,34062.0,CatsStandingUp
+1648,Cat.,2016-05-01 01:18:50+00:00,d2ny9uw,2.0,t1_d2ny2gc,362.0,CatsStandingUp
+1649,Cat.,2016-05-01 01:18:44+00:00,d2ny9pp,2.0,t1_d2nxtcb,783.0,CatsStandingUp
+1650,Cat.,2016-05-01 01:18:30+00:00,d2ny9es,1.0,t3_4h4vzk,34851.0,CatsStandingUp
+1651,Cat.,2016-05-01 01:18:06+00:00,d2ny8wf,2.0,t1_d2ny2zr,291.0,CatsStandingUp
+1652,Cat.,2016-05-01 01:18:00+00:00,d2ny8sa,2.0,t1_d2ny25d,327.0,CatsStandingUp
+1653,Cat.,2016-05-01 01:17:49+00:00,d2ny8jr,1.0,t3_4h742e,450.0,CatsStandingUp
+1654,Cat.,2016-04-30 03:53:28+00:00,d2mzj1d,9.0,t1_d2mzcjm,373.0,CatsStandingUp
+1655,Cat.,2016-04-30 03:43:21+00:00,d2mz8g2,2.0,t1_d2mz2qi,323.0,CatsStandingUp
+1656,Cat.,2016-04-30 03:42:44+00:00,d2mz7sw,4.0,t1_d2mz5lw,126.0,CatsStandingUp
+1657,Cat.,2016-04-30 03:42:17+00:00,d2mz7c7,2.0,t1_d2mx4v4,3676.0,CatsStandingUp
+1658,Cat.,2016-04-30 03:42:04+00:00,d2mz73f,2.0,t1_d2mz360,222.0,CatsStandingUp
+1659,Cat.,2016-04-30 03:41:57+00:00,d2mz6yx,2.0,t1_d2mz1ok,298.0,CatsStandingUp
+1660,Cat.,2016-04-30 03:41:49+00:00,d2mz6uf,2.0,t1_d2mygdx,1412.0,CatsStandingUp
+1661,Cat.,2016-04-30 03:41:42+00:00,d2mz6qe,2.0,t1_d2my6p7,1892.0,CatsStandingUp
+1662,Cat.,2016-04-30 03:41:34+00:00,d2mz6kv,2.0,t1_d2mxxvb,2310.0,CatsStandingUp
+1663,Cat.,2016-04-30 03:41:27+00:00,d2mz6gk,2.0,t1_d2mxg9t,3112.0,CatsStandingUp
+1664,Cat.,2016-04-30 03:41:19+00:00,d2mz6bi,5.0,t1_d2mxowj,2708.0,CatsStandingUp
+1665,Cat.,2016-04-30 03:40:09+00:00,d2mz542,,t1_d2mz4mt,26.0,CatsStandingUp
+1666,Cat.,2016-04-30 03:40:03+00:00,d2mz502,,t1_d285im2,,CatsStandingUp
+1667,Cat.,2016-04-30 03:39:56+00:00,d2mz4vy,,t1_d299zx7,,CatsStandingUp
+1668,Cat.,2016-04-30 03:39:43+00:00,d2mz4mt,,t1_d27azeu,,CatsStandingUp
+1669,Cat.,2016-04-30 03:39:33+00:00,d2mz4g9,1.0,t3_4fawak,1019516.0,CatsStandingUp
+1670,Cat.,2016-04-30 03:39:08+00:00,d2mz40w,3.0,t1_d2mz1gd,143.0,CatsStandingUp
+1671,Cat.,2016-04-30 03:38:43+00:00,d2mz3ke,,t1_d27d2ml,,CatsStandingUp
+1672,Cat.,2016-04-30 03:38:36+00:00,d2mz3fl,,t1_d27ckz7,,CatsStandingUp
+1673,Cat.,2016-04-30 03:38:27+00:00,d2mz396,1.0,t3_4fats1,1021093.0,CatsStandingUp
+1674,Cat.,2016-04-30 03:37:27+00:00,d2mz27o,3.0,t1_d2my7n8,1591.0,CatsStandingUp
+1675,Cat.,2016-04-30 03:37:17+00:00,d2mz20f,2.0,t1_d2mxo80,2496.0,CatsStandingUp
+1676,Cat.,2016-04-30 03:37:02+00:00,d2mz1qq,2.0,t1_d2mxayt,3092.0,CatsStandingUp
+1677,Cat.,2016-04-30 03:36:53+00:00,d2mz1ku,2.0,t1_d2mx82y,3209.0,CatsStandingUp
+1678,Cat.,2016-04-30 03:36:44+00:00,d2mz1f7,2.0,t1_d2mvetv,6142.0,CatsStandingUp
+1679,Cat.,2016-04-30 03:36:37+00:00,d2mz1b1,2.0,t1_d2msdcv,11165.0,CatsStandingUp
+1680,Cat.,2016-04-30 03:36:28+00:00,d2mz14p,2.0,t1_d2myoax,681.0,CatsStandingUp
+1681,Cat.,2016-04-30 03:36:20+00:00,d2mz0za,2.0,t1_d2my6l3,1577.0,CatsStandingUp
+1682,Cat.,2016-04-30 03:36:13+00:00,d2mz0uv,2.0,t1_d2msai5,11267.0,CatsStandingUp
+1683,Cat.,2016-04-30 03:36:06+00:00,d2mz0q5,2.0,t1_d2mxqsc,2310.0,CatsStandingUp
+1684,Cat.,2016-04-30 03:35:59+00:00,d2mz0li,3.0,t1_d2my3ch,1711.0,CatsStandingUp
+1685,Cat.,2016-04-30 03:35:48+00:00,d2mz0eb,2.0,t1_d2mwv35,3711.0,CatsStandingUp
+1686,Cat.,2016-04-30 03:35:39+00:00,d2mz091,3.0,t1_d2mwotu,3990.0,CatsStandingUp
+1687,Cat.,2016-04-30 03:35:27+00:00,d2mz00q,2.0,t1_d2mw96i,4682.0,CatsStandingUp
+1688,Cat.,2016-04-30 03:35:13+00:00,d2myzsa,4.0,t1_d2mxe95,2832.0,CatsStandingUp
+1689,Cat.,2016-04-30 03:35:00+00:00,d2myzju,2.0,t1_d2mupbj,7216.0,CatsStandingUp
+1690,Cat.,2016-04-30 03:34:53+00:00,d2myzfa,2.0,t1_d2msfcl,10973.0,CatsStandingUp
+1691,Cat.,2016-04-30 03:34:45+00:00,d2myza1,2.0,t1_d2mquak,13515.0,CatsStandingUp
+1692,Cat.,2016-04-30 03:34:36+00:00,d2myz4f,2.0,t1_d2moi9p,17296.0,CatsStandingUp
+1693,Cat.,2016-04-30 03:34:20+00:00,d2myysq,6.0,t1_d2mx8rj,3025.0,CatsStandingUp
+1694,Cat.,2016-04-30 03:33:59+00:00,d2myyev,4.0,t1_d2mwny8,3931.0,CatsStandingUp
+1695,Cat.,2016-04-30 03:33:49+00:00,d2myy7l,3.0,t1_d2mvzmr,5012.0,CatsStandingUp
+1696,Cat.,2016-04-30 03:33:34+00:00,d2myxxn,6.0,t1_d2mxqpi,2162.0,CatsStandingUp
+1697,Cat.,2016-04-30 03:33:16+00:00,d2myxmi,7.0,t1_d2mx8cr,2980.0,CatsStandingUp
+1698,Cat.,2016-04-30 03:33:06+00:00,d2myxf1,6.0,t1_d2mwi0t,4148.0,CatsStandingUp
+1699,Cat.,2016-04-30 03:32:04+00:00,d2myw96,5.0,t1_d2myuwy,73.0,CatsStandingUp
+1700,Cat.,2016-04-30 03:31:36+00:00,d2myvqe,,t1_d27dgo9,,CatsStandingUp
+1701,Cat.,2016-04-30 03:31:28+00:00,d2myvl2,,t1_d2a9bo9,,CatsStandingUp
+1702,Cat.,2016-04-30 03:31:20+00:00,d2myvf2,,t1_d29fn7t,,CatsStandingUp
+1703,Cat.,2016-04-30 03:31:11+00:00,d2myv9g,1.0,t3_4fbbtk,1009427.0,CatsStandingUp
+1704,Cat.,2016-04-30 03:30:44+00:00,d2myurq,,t1_d2a9hb7,,CatsStandingUp
+1705,Cat.,2016-04-30 03:30:37+00:00,d2myumd,,t1_d29wzbu,,CatsStandingUp
+1706,Cat.,2016-04-30 03:30:20+00:00,d2myub5,1.0,t3_4fdol6,978069.0,CatsStandingUp
+1707,Cat.,2016-04-30 03:29:28+00:00,d2mytbn,,t1_d2degys,,CatsStandingUp
+1708,Cat.,2016-04-30 03:29:13+00:00,d2myt0z,,t1_d2cwx6b,,CatsStandingUp
+1709,Cat.,2016-04-30 03:29:05+00:00,d2mysvw,,t1_d2cw7a2,,CatsStandingUp
+1710,Cat.,2016-04-30 03:28:55+00:00,d2myso8,1.0,t3_4fu6n8,725916.0,CatsStandingUp
+1711,Cat.,2016-04-30 03:28:28+00:00,d2mys51,2.0,t1_d2mxiho,2231.0,CatsStandingUp
+1712,Cat.,2016-04-30 03:28:22+00:00,d2mys1m,2.0,t1_d2my5kl,1148.0,CatsStandingUp
+1713,Cat.,2016-04-30 03:28:16+00:00,d2myrwx,2.0,t1_d2mxs0o,1783.0,CatsStandingUp
+1714,Cat.,2016-04-30 03:26:01+00:00,d2mypc1,2.0,t1_d2l5nkk,111769.0,CatsStandingUp
+1715,Cat.,2016-04-30 03:25:48+00:00,d2myp2e,2.0,t1_d2ipdv8,269216.0,CatsStandingUp
+1716,Cat.,2016-04-30 03:25:38+00:00,d2myowg,,t1_d2dehbo,,CatsStandingUp
+1717,Cat.,2016-04-30 03:25:31+00:00,d2myorm,1.0,t3_4fugqb,722313.0,CatsStandingUp
+1718,Cat.,2016-04-30 03:25:03+00:00,d2myo84,,t1_d2fwcq4,,CatsStandingUp
+1719,Cat.,2016-04-30 03:24:54+00:00,d2myo1s,,t1_d2eoxox,,CatsStandingUp
+1720,Cat.,2016-04-30 03:24:35+00:00,d2myno7,,t1_d2l5jkq,111830.0,CatsStandingUp
+1721,Cat.,2016-04-30 03:24:27+00:00,d2myniv,,t1_d2f0s8c,,CatsStandingUp
+1722,Cat.,2016-04-30 03:24:17+00:00,d2mynb2,,t1_d2enx70,,CatsStandingUp
+1723,Cat.,2016-04-30 03:24:05+00:00,d2myn2o,1.0,t3_4g58tp,541635.0,CatsStandingUp
+1724,Cat.,2016-04-30 03:22:14+00:00,d2mykyn,,t1_d2k8tct,173382.0,CatsStandingUp
+1725,Cat.,2016-04-30 03:22:06+00:00,d2mykt2,,t1_d2geudv,,CatsStandingUp
+1726,Cat.,2016-04-30 03:21:58+00:00,d2myknf,,t1_d2k8t60,173376.0,CatsStandingUp
+1727,Cat.,2016-04-30 03:21:52+00:00,d2mykjb,,t1_d2gaeyx,,CatsStandingUp
+1728,Cat.,2016-04-30 03:21:46+00:00,d2mykf2,,t1_d2ga6eb,,CatsStandingUp
+1729,Cat.,2016-04-30 03:21:38+00:00,d2myk9k,,t1_d2g7h4s,,CatsStandingUp
+1730,Cat.,2016-04-30 03:21:04+00:00,d2myjm0,1.0,t3_4gasfs,443568.0,CatsStandingUp
+1731,Cat.,2016-04-30 03:20:30+00:00,d2myizd,,t1_d2gzcoz,,CatsStandingUp
+1732,Cat.,2016-04-30 03:20:20+00:00,d2myiry,,t1_d2h0p3e,,CatsStandingUp
+1733,Cat.,2016-04-30 03:20:02+00:00,d2myif5,,t1_d2h22uo,,CatsStandingUp
+1734,Cat.,2016-04-30 03:19:53+00:00,d2myi8v,,t1_d2gk9jn,,CatsStandingUp
+1735,Cat.,2016-04-30 03:19:38+00:00,d2myhy6,,t1_d2haruq,,CatsStandingUp
+1736,Cat.,2016-04-30 03:19:27+00:00,d2myhr3,,t1_d2gk1zn,,CatsStandingUp
+1737,Cat.,2016-04-30 03:19:16+00:00,d2myhin,,t1_d2ggsna,,CatsStandingUp
+1738,Cat.,2016-04-30 03:19:07+00:00,d2myhc9,1.0,t3_4gczul,400441.0,CatsStandingUp
+1739,Cat.,2016-04-30 03:18:35+00:00,d2mygpw,,t1_d2hfdxz,,CatsStandingUp
+1740,Cat.,2016-04-30 03:18:24+00:00,d2mygi9,,t1_d2hdpqm,,CatsStandingUp
+1741,Cat.,2016-04-30 03:18:15+00:00,d2mygcy,,t1_d2h81e6,,CatsStandingUp
+1742,Cat.,2016-04-30 03:18:05+00:00,d2myg5l,,t1_d2hkmoo,,CatsStandingUp
+1743,Cat.,2016-04-30 03:17:58+00:00,d2myg0f,,t1_d2hkjtn,,CatsStandingUp
+1744,Cat.,2016-04-30 03:17:51+00:00,d2myfur,,t1_d2hk8d7,,CatsStandingUp
+1745,Cat.,2016-04-30 03:17:41+00:00,d2myfor,,t1_d2hfman,,CatsStandingUp
+1746,Cat.,2016-04-30 03:17:29+00:00,d2myffz,,t1_d2hmgg0,,CatsStandingUp
+1747,Cat.,2016-04-30 03:17:22+00:00,d2myfat,,t1_d2h0qdf,,CatsStandingUp
+1748,Cat.,2016-04-30 03:17:09+00:00,d2myf1w,,t1_d2gt2ev,,CatsStandingUp
+1749,Cat.,2016-04-30 03:16:58+00:00,d2myeup,,t1_d2ha89i,,CatsStandingUp
+1750,Cat.,2016-04-30 03:16:48+00:00,d2myeno,,t1_d2gu4qc,,CatsStandingUp
+1751,Cat.,2016-04-30 03:16:37+00:00,d2myego,,t1_d2h9s25,,CatsStandingUp
+1752,Cat.,2016-04-30 03:16:21+00:00,d2mye4k,,t1_d2gmv70,,CatsStandingUp
+1753,Cat.,2016-04-30 03:16:08+00:00,d2mydve,1.0,t3_4gdia2,392197.0,CatsStandingUp
+1754,Cat.,2016-04-30 03:15:36+00:00,d2myd92,,t1_d2ilc2n,,CatsStandingUp
+1755,Cat.,2016-04-30 03:15:28+00:00,d2myd30,,t1_d2ht9m7,,CatsStandingUp
+1756,Cat.,2016-04-30 03:15:20+00:00,d2mycya,,t1_d2h9zyi,,CatsStandingUp
+1757,Cat.,2016-04-30 03:15:10+00:00,d2mycqv,,t1_d2hhag3,,CatsStandingUp
+1758,Cat.,2016-04-30 03:14:57+00:00,d2mycgt,,t1_d2gwar4,,CatsStandingUp
+1759,Cat.,2016-04-30 03:14:43+00:00,d2myc7p,1.0,t3_4gerdw,376151.0,CatsStandingUp
+1760,Cat.,2016-04-30 03:14:20+00:00,d2mybq5,2.0,t1_d2k8r7a,173002.0,CatsStandingUp
+1761,Cat.,2016-04-30 03:14:11+00:00,d2mybk0,1.0,t3_4gcywb,400617.0,CatsStandingUp
+1762,Cat.,2016-04-30 03:13:20+00:00,d2myaij,2.0,t1_d2iyuwa,253569.0,CatsStandingUp
+1763,Cat.,2016-04-30 03:13:11+00:00,d2myab4,2.0,t1_d2il3pr,274702.0,CatsStandingUp
+1764,Cat.,2016-04-30 03:13:00+00:00,d2mya43,1.0,t3_4gbins,431530.0,CatsStandingUp
+1765,Cat.,2016-04-30 03:12:39+00:00,d2my9po,2.0,t1_d2k8p48,172994.0,CatsStandingUp
+1766,Cat.,2016-04-30 03:12:32+00:00,d2my9jp,3.0,t1_d2k8pb6,172978.0,CatsStandingUp
+1767,Cat.,2016-04-30 03:12:25+00:00,d2my9es,2.0,t1_d2hsf1j,314525.0,CatsStandingUp
+1768,Cat.,2016-04-30 03:12:15+00:00,d2my974,1.0,t3_4gf10w,372695.0,CatsStandingUp
+1769,Cat.,2016-04-30 03:11:45+00:00,d2my8lw,4.0,t1_d2ilde9,274216.0,CatsStandingUp
+1770,Cat.,2016-04-30 03:11:33+00:00,d2my8e1,,t1_d2h9vdt,,CatsStandingUp
+1771,Cat.,2016-04-30 03:11:33+00:00,d2my8ds,,t1_d2h9vdt,,CatsStandingUp
+1772,Cat.,2016-04-30 03:11:18+00:00,d2my82l,,t1_d2h0mtg,,CatsStandingUp
+1773,Cat.,2016-04-30 03:11:08+00:00,d2my7uw,,t1_d2hmhfq,,CatsStandingUp
+1774,Cat.,2016-04-30 03:11:00+00:00,d2my7pm,2.0,t1_d2my79g,23.0,CatsStandingUp
+1775,Cat.,2016-04-30 03:10:37+00:00,d2my79g,1.0,t3_4gf30g,371929.0,CatsStandingUp
+1776,Cat.,2016-04-30 03:10:11+00:00,d2my6pt,,t1_d2ijhqc,,CatsStandingUp
+1777,Cat.,2016-04-30 03:09:49+00:00,d2my6ap,,t1_d2h4psn,,CatsStandingUp
+1778,Cat.,2016-04-30 03:09:37+00:00,d2my61n,,t1_d2imh1h,,CatsStandingUp
+1779,Cat.,2016-04-30 03:09:19+00:00,d2my5nz,1.0,t3_4gf9cw,369686.0,CatsStandingUp
+1780,Cat.,2016-04-30 03:07:14+00:00,d2my32o,,t1_d2ixp8g,,CatsStandingUp
+1781,Cat.,2016-04-30 03:07:08+00:00,d2my2yd,,t1_d2h7sdx,,CatsStandingUp
+1782,Cat.,2016-04-30 03:06:58+00:00,d2my2rq,,t1_d2j855l,,CatsStandingUp
+1783,Cat.,2016-04-30 03:06:49+00:00,d2my2kc,,t1_d2ivzsq,,CatsStandingUp
+1784,Cat.,2016-04-30 03:06:41+00:00,d2my2f7,,t1_d2hsesz,,CatsStandingUp
+1785,Cat.,2016-04-30 03:06:32+00:00,d2my285,,t1_d2h4p1k,,CatsStandingUp
+1786,Cat.,2016-04-30 03:06:23+00:00,d2my20k,1.0,t3_4gda1b,395091.0,CatsStandingUp
+1787,Cat.,2016-04-30 03:05:51+00:00,d2my1ds,,t1_d2ixa4a,,CatsStandingUp
+1788,Cat.,2016-04-30 03:05:44+00:00,d2my18e,,t1_d2ijhir,,CatsStandingUp
+1789,Cat.,2016-04-30 03:05:29+00:00,d2my0y2,,t1_d2iqoeg,,CatsStandingUp
+1790,Cat.,2016-04-30 03:05:15+00:00,d2my0mx,,t1_d2ikajf,,CatsStandingUp
+1791,Cat.,2016-04-30 03:05:08+00:00,d2my0ht,,t1_d2ijhyp,,CatsStandingUp
+1792,Cat.,2016-04-30 03:04:51+00:00,d2my05p,,t1_d2ikm00,,CatsStandingUp
+1793,Cat.,2016-04-30 03:04:12+00:00,d2mxzbl,4.0,t1_d2mxs9w,327.0,CatsStandingUp
+1794,Cat.,2016-04-30 03:04:03+00:00,d2mxz49,4.0,t1_d2mxu2q,239.0,CatsStandingUp
+1795,Cat.,2016-04-30 03:03:52+00:00,d2mxyxb,3.0,t1_d2mxwo1,106.0,CatsStandingUp
+1796,Cat.,2016-04-30 03:03:29+00:00,d2mxyfe,,t1_d2ik2ho,,CatsStandingUp
+1797,Cat.,2016-04-30 03:03:21+00:00,d2mxy9i,2.0,t1_d2laceq,103904.0,CatsStandingUp
+1798,Cat.,2016-04-30 03:03:11+00:00,d2mxy0j,2.0,t1_d2ks763,127995.0,CatsStandingUp
+1799,Cat.,2016-04-30 03:03:00+00:00,d2mxxsn,,t1_d2j2s6x,,CatsStandingUp
+1800,Cat.,2016-04-30 03:02:44+00:00,d2mxxge,,t1_d2j0dcf,,CatsStandingUp
+1801,Cat.,2016-04-30 03:02:36+00:00,d2mxx9z,,t1_d2izlb2,,CatsStandingUp
+1802,Cat.,2016-04-30 03:02:28+00:00,d2mxx4h,,t1_d2iqcen,,CatsStandingUp
+1803,Cat.,2016-04-30 03:02:19+00:00,d2mxwxg,,t1_d2ijca6,,CatsStandingUp
+1804,Cat.,2016-04-30 03:02:11+00:00,d2mxwr5,,t1_d2iy8uv,,CatsStandingUp
+1805,Cat.,2016-04-30 03:02:02+00:00,d2mxwl9,,t1_d2iqlwd,,CatsStandingUp
+1806,Cat.,2016-04-30 03:01:50+00:00,d2mxwcz,,t1_d2iqetd,,CatsStandingUp
+1807,Cat.,2016-04-30 03:01:41+00:00,d2mxw5y,,t1_d2ip7r7,,CatsStandingUp
+1808,Cat.,2016-04-30 03:01:34+00:00,d2mxw0b,,t1_d2ikvxj,,CatsStandingUp
+1809,Cat.,2016-04-30 03:01:24+00:00,d2mxvsl,,t1_d2ikp9s,,CatsStandingUp
+1810,Cat.,2016-04-30 03:01:15+00:00,d2mxvm5,,t1_d2ijka1,,CatsStandingUp
+1811,Cat.,2016-04-30 03:01:08+00:00,d2mxvfj,,t1_d2ik1x4,,CatsStandingUp
+1812,Cat.,2016-04-30 03:00:59+00:00,d2mxv9j,,t1_d2j32qk,,CatsStandingUp
+1813,Cat.,2016-04-30 03:00:52+00:00,d2mxv3w,,t1_d2j24ad,,CatsStandingUp
+1814,Cat.,2016-04-30 03:00:43+00:00,d2mxuwv,,t1_d2izjx4,,CatsStandingUp
+1815,Cat.,2016-04-30 03:00:30+00:00,d2mxumf,,t1_d2i8bjv,,CatsStandingUp
+1816,Cat.,2016-04-30 03:00:11+00:00,d2mxu89,1.0,t3_4gibgy,316235.0,CatsStandingUp
+1817,Cat.,2016-04-30 02:59:35+00:00,d2mxte7,2.0,t1_d2mwb15,2449.0,CatsStandingUp
+1818,Cat.,2016-04-30 02:59:25+00:00,d2mxt5q,5.0,t1_d2mwewf,2267.0,CatsStandingUp
+1819,Cat.,2016-04-30 02:59:14+00:00,d2mxswd,4.0,t1_d2mvqfh,3352.0,CatsStandingUp
+1820,Cat.,2016-04-30 02:59:02+00:00,d2mxsmt,2.0,t1_d2mvtbt,3204.0,CatsStandingUp
+1821,Cat.,2016-04-30 02:58:49+00:00,d2mxscj,7.0,t1_d2mt9m6,7452.0,CatsStandingUp
+1822,Cat.,2016-04-30 02:58:40+00:00,d2mxs5z,6.0,t1_d2mt9dm,7454.0,CatsStandingUp
+1823,Cat.,2016-04-30 02:58:17+00:00,d2mxro6,1.0,t3_4h1633,25834.0,CatsStandingUp
+1824,Cat.,2016-04-30 02:52:33+00:00,d2mxk3b,7.0,t1_d2mx8hl,531.0,CatsStandingUp
+1825,Cat.,2016-04-30 02:52:23+00:00,d2mxjwe,6.0,t1_d2mxgwv,138.0,CatsStandingUp
+1826,Cat.,2016-04-30 02:52:11+00:00,d2mxjmv,4.0,t1_d2mxj8q,19.0,CatsStandingUp
+1827,Cat.,2016-04-30 02:51:50+00:00,d2mxj6n,4.0,t1_d2mx1hz,792.0,CatsStandingUp
+1828,Cat.,2016-04-30 02:51:41+00:00,d2mxj09,3.0,t1_d2msal6,8590.0,CatsStandingUp
+1829,Cat.,2016-04-30 02:51:34+00:00,d2mxiup,2.0,t1_d2mq2ht,12127.0,CatsStandingUp
+1830,Cat.,2016-04-30 02:51:24+00:00,d2mxing,2.0,t1_d2mv7mt,3752.0,CatsStandingUp
+1831,Cat.,2016-04-30 02:51:16+00:00,d2mxigq,2.0,t1_d2mu0bo,5743.0,CatsStandingUp
+1832,Cat.,2016-04-30 02:51:07+00:00,d2mxi9r,2.0,t1_d2msex3,8366.0,CatsStandingUp
+1833,Cat.,2016-04-30 02:50:59+00:00,d2mxi3j,2.0,t1_d2msd00,8444.0,CatsStandingUp
+1834,Cat.,2016-04-30 02:50:52+00:00,d2mxhy9,2.0,t1_d2ms5cp,8771.0,CatsStandingUp
+1835,Cat.,2016-04-30 02:50:42+00:00,d2mxhqj,2.0,t1_d2mpreu,12550.0,CatsStandingUp
+1836,Cat.,2016-04-30 02:50:32+00:00,d2mxhir,2.0,t1_d2mn2mr,17031.0,CatsStandingUp
+1837,Cat.,2016-04-30 02:50:25+00:00,d2mxhd6,2.0,t1_d2mlhc2,19557.0,CatsStandingUp
+1838,Cat.,2016-04-30 02:50:16+00:00,d2mxh5q,2.0,t1_d2mk53y,21554.0,CatsStandingUp
+1839,Cat.,2016-04-30 02:50:05+00:00,d2mxgxc,2.0,t1_d2mjg9n,22527.0,CatsStandingUp
+1840,Cat.,2016-04-30 02:49:52+00:00,d2mxgn5,3.0,t1_d2mklbf,20871.0,CatsStandingUp
+1841,Cat.,2016-04-30 02:49:44+00:00,d2mxggp,2.0,t1_d2mi0fq,24522.0,CatsStandingUp
+1842,Cat.,2016-04-30 02:49:18+00:00,d2mxfx9,4.0,t1_d2mlv6p,18898.0,CatsStandingUp
+1843,Cat.,2016-04-30 02:49:09+00:00,d2mxfpc,2.0,t1_d2mjama,22697.0,CatsStandingUp
+1844,Cat.,2016-04-30 02:48:50+00:00,d2mxfb3,4.0,t1_d2mutly,4250.0,CatsStandingUp
+1845,Cat.,2016-04-30 02:48:40+00:00,d2mxf2a,4.0,t1_d2mluxy,18871.0,CatsStandingUp
+1846,Cat.,2016-04-30 02:48:28+00:00,d2mxet9,5.0,t1_d2mmj6k,17788.0,CatsStandingUp
+1847,Cat.,2016-04-30 02:48:15+00:00,d2mxejm,2.0,t1_d2mhirc,25113.0,CatsStandingUp
+1848,Cat.,2016-04-30 02:47:51+00:00,d2mxe1d,1.0,t3_4h1658,25187.0,CatsStandingUp
+1849,Cat.,2016-04-30 02:42:59+00:00,d2mx7k5,2.0,t1_d2mve6t,2948.0,CatsStandingUp
+1850,Cat.,2016-04-30 02:42:48+00:00,d2mx7bk,1.0,t3_4h2ml3,3345.0,CatsStandingUp
+1851,Cat.,2016-04-30 02:42:24+00:00,d2mx6ry,2.0,t1_d2mwv06,511.0,CatsStandingUp
+1852,Cat.,2016-04-30 02:42:15+00:00,d2mx6jv,2.0,t1_d2mvflg,2836.0,CatsStandingUp
+1853,Cat.,2016-04-30 02:42:07+00:00,d2mx6da,3.0,t1_d2mw1z2,1800.0,CatsStandingUp
+1854,Cat.,2016-04-30 02:41:47+00:00,d2mx5x2,1.0,t3_4h2mle,3279.0,CatsStandingUp
+1855,Cat.,2016-04-30 02:41:23+00:00,d2mx5dt,2.0,t1_d2mwp4k,720.0,CatsStandingUp
+1856,Cat.,2016-04-30 02:41:16+00:00,d2mx57g,4.0,t1_d2mwoq0,732.0,CatsStandingUp
+1857,Cat.,2016-04-30 02:40:54+00:00,d2mx4pe,1.0,t3_4h2p79,1939.0,CatsStandingUp
+1858,Cat.,2016-04-30 02:22:31+00:00,d2mwg6b,4.0,t1_d2mr5lw,8684.0,CatsStandingUp
+1859,Cat.,2016-04-30 02:22:19+00:00,d2mwfw8,4.0,t1_d2msb9u,6798.0,CatsStandingUp
+1860,Cat.,2016-04-30 02:22:06+00:00,d2mwfkg,9.0,t1_d2msntp,6227.0,CatsStandingUp
+1861,Cat.,2016-04-30 02:21:57+00:00,d2mwfcc,4.0,t1_d2mt8d0,5298.0,CatsStandingUp
+1862,Cat.,2016-04-30 02:21:41+00:00,d2mwez9,4.0,t1_d2mumnh,2941.0,CatsStandingUp
+1863,Cat.,2016-04-30 02:21:32+00:00,d2mwerk,3.0,t1_d2muv1j,2547.0,CatsStandingUp
+1864,Cat.,2016-04-30 02:21:22+00:00,d2mwek8,5.0,t1_d2muz9k,2339.0,CatsStandingUp
+1865,Cat.,2016-04-30 02:21:12+00:00,d2mwecg,5.0,t1_d2mvjyv,1372.0,CatsStandingUp
+1866,Cat.,2016-04-30 02:21:02+00:00,d2mwe3a,4.0,t1_d2mw4fe,424.0,CatsStandingUp
+1867,Cat. ,2016-04-29 22:02:43+00:00,d2mmxg7,,t1_d2ir1iu,,CatsStandingUp
+1868,Cat. ,2016-04-29 22:02:31+00:00,d2mmx6y,,t1_d2itepk,,CatsStandingUp
+1869,Cat. ,2016-04-29 22:02:14+00:00,d2mmwt0,,t1_d2ivx7c,,CatsStandingUp
+1870,Cat. ,2016-04-29 22:02:02+00:00,d2mmwk3,,t1_d2izyi7,,CatsStandingUp
+1871,Cat. ,2016-04-29 21:59:51+00:00,d2mmtma,2.0,t1_d2mkfyj,3691.0,CatsStandingUp
+1872,Cat. ,2016-04-29 21:59:32+00:00,d2mmt64,2.0,t1_d2mkg1m,3668.0,CatsStandingUp
+1873,Cat. ,2016-04-29 21:59:24+00:00,d2mmszf,2.0,t1_d2mkxye,2917.0,CatsStandingUp
+1874,Cat. ,2016-04-29 21:59:12+00:00,d2mmsqp,3.0,t1_d2mkmhq,3381.0,CatsStandingUp
+1875,Cat. ,2016-04-29 21:58:55+00:00,d2mmsc9,2.0,t1_d2mlh5i,2074.0,CatsStandingUp
+1876,Cat. ,2016-04-29 21:58:47+00:00,d2mms67,2.0,t1_d2ml1pm,2722.0,CatsStandingUp
+1877,Cat. ,2016-04-29 21:58:38+00:00,d2mmryq,1.0,t3_4h0kaq,15323.0,CatsStandingUp
+1878,Cat. ,2016-04-29 21:58:03+00:00,d2mmr7s,4.0,t1_d2mm8g8,838.0,CatsStandingUp
+1879,Cat. ,2016-04-29 21:57:51+00:00,d2mmqxc,3.0,t1_d2mm5pc,948.0,CatsStandingUp
+1880,Cat. ,2016-04-29 21:57:38+00:00,d2mmqmm,2.0,t1_d2mm5l6,940.0,CatsStandingUp
+1881,Cat. ,2016-04-29 21:57:30+00:00,d2mmqgk,2.0,t1_d2mm3rr,1014.0,CatsStandingUp
+1882,Cat. ,2016-04-29 21:57:22+00:00,d2mmqas,3.0,t1_d2mkimp,3433.0,CatsStandingUp
+1883,Cat. ,2016-04-29 21:57:13+00:00,d2mmq47,3.0,t1_d2mki5m,3444.0,CatsStandingUp
+1884,Cat. ,2016-04-29 21:57:05+00:00,d2mmpxq,2.0,t1_d2mkfhb,3544.0,CatsStandingUp
+1885,Cat. ,2016-04-29 21:56:56+00:00,d2mmpqn,2.0,t1_d2mlerm,2058.0,CatsStandingUp
+1886,Cat. ,2016-04-29 21:56:46+00:00,d2mmpj4,3.0,t1_d2mmisf,302.0,CatsStandingUp
+1887,Cat. ,2016-04-29 21:56:38+00:00,d2mmpdf,3.0,t1_d2mm5no,877.0,CatsStandingUp
+1888,Cat. ,2016-04-29 21:56:25+00:00,d2mmp2d,2.0,t1_d2mkyse,2703.0,CatsStandingUp
+1889,Cat. ,2016-04-29 21:56:16+00:00,d2mmovc,1.0,t3_4h17jh,7180.0,CatsStandingUp
+1890,Cat. ,2016-04-29 21:55:45+00:00,d2mmo6y,5.0,t1_d2mmjwg,195.0,CatsStandingUp
+1891,Cat. ,2016-04-29 21:54:59+00:00,d2mmn52,2.0,t1_d2mklwd,3154.0,CatsStandingUp
+1892,Cat. ,2016-04-29 21:54:51+00:00,d2mmmyd,2.0,t1_d2mkgqm,3361.0,CatsStandingUp
+1893,Cat. ,2016-04-29 21:54:41+00:00,d2mmmqb,2.0,t1_d2mmk7s,116.0,CatsStandingUp
+1894,Cat. ,2016-04-29 21:54:33+00:00,d2mmmkd,2.0,t1_d2mmhzd,207.0,CatsStandingUp
+1895,Cat. ,2016-04-29 21:54:24+00:00,d2mmmd4,2.0,t1_d2mm37o,850.0,CatsStandingUp
+1896,Cat. ,2016-04-29 21:54:12+00:00,d2mmm4a,3.0,t1_d2mkvuh,2692.0,CatsStandingUp
+1897,Cat. ,2016-04-29 21:54:03+00:00,d2mmlxi,5.0,t1_d2mm1tx,891.0,CatsStandingUp
+1898,Cat. ,2016-04-29 21:53:48+00:00,d2mmlm0,3.0,t1_d2mlvhu,1155.0,CatsStandingUp
+1899,Cat. ,2016-04-29 21:53:35+00:00,d2mmlc3,2.0,t1_d2mlej3,1867.0,CatsStandingUp
+1900,Cat. ,2016-04-29 21:53:23+00:00,d2mml2f,2.0,t1_d2mks7m,2793.0,CatsStandingUp
+1901,Cat. ,2016-04-29 21:53:13+00:00,d2mmkuc,1.0,t3_4h1a43,6053.0,CatsStandingUp
+1902,Cat. ,2016-04-29 21:52:36+00:00,d2mmk12,4.0,t1_d2mm3y8,712.0,CatsStandingUp
+1903,Cat. ,2016-04-29 21:52:29+00:00,d2mmjvc,3.0,t1_d2mm2u4,753.0,CatsStandingUp
+1904,Cat. ,2016-04-29 21:52:19+00:00,d2mmjmn,2.0,t1_d2mm2lm,753.0,CatsStandingUp
+1905,Cat. ,2016-04-29 21:52:06+00:00,d2mmjc1,4.0,t1_d2mm52c,632.0,CatsStandingUp
+1906,Cat. ,2016-04-29 21:51:45+00:00,d2mmitc,3.0,t1_d2mlgq5,1663.0,CatsStandingUp
+1907,Cat. ,2016-04-29 21:51:39+00:00,d2mmiog,5.0,t1_d2mm61q,561.0,CatsStandingUp
+1908,Cat. ,2016-04-29 21:51:14+00:00,d2mmi5q,1.0,t3_4h1jig,2421.0,CatsStandingUp
+1909,Cat. ,2016-04-29 21:49:56+00:00,d2mmggc,7.0,t1_d2mmdfs,135.0,CatsStandingUp
+1910,Cat. ,2016-04-29 21:48:11+00:00,d2mme33,,t1_d2mkl2g,2780.0,CatsStandingUp
+1911,Cat. ,2016-04-29 21:47:53+00:00,d2mmdp4,3.0,t1_d2mleae,1535.0,CatsStandingUp
+1912,Cat. ,2016-04-29 21:46:49+00:00,d2mmc7o,5.0,t1_d2mm7gl,207.0,CatsStandingUp
+1913,Cat. ,2016-04-29 20:56:46+00:00,d2mkdmy,,t1_d2mk6qe,279.0,CatsStandingUp
+1914,Cat. ,2016-04-29 20:53:11+00:00,d2mk8bh,10.0,t1_d2mhkjq,3741.0,CatsStandingUp
+1915,Cat. ,2016-04-29 20:53:02+00:00,d2mk836,4.0,t1_d2mhlmd,3691.0,CatsStandingUp
+1916,Cat. ,2016-04-29 20:52:43+00:00,d2mk7me,4.0,t1_d2mi0mo,3093.0,CatsStandingUp
+1917,Cat. ,2016-04-29 20:52:02+00:00,d2mk6le,,t1_d2migl9,2436.0,CatsStandingUp
+1918,Cat. ,2016-04-29 20:51:51+00:00,d2mk6bz,4.0,t1_d2mio7i,2129.0,CatsStandingUp
+1919,Cat. ,2016-04-29 20:51:44+00:00,d2mk66y,4.0,t1_d2mj0u9,1635.0,CatsStandingUp
+1920,Cat. ,2016-04-29 20:51:23+00:00,d2mk5lz,,t1_d2mjdun,1103.0,CatsStandingUp
+1921,Cat. ,2016-04-29 20:51:01+00:00,d2mk52g,,t1_d2mk1g1,149.0,CatsStandingUp
+1922,Cat. ,2016-04-29 20:50:30+00:00,d2mk4be,,t1_cz6b5fv,,CatsStandingUp
+1923,Cat. ,2016-04-29 20:50:06+00:00,d2mk3qo,,t1_cz5sgub,,CatsStandingUp
+1924,Cat. ,2016-04-29 20:49:14+00:00,d2mk2fw,,t1_d2bp2zo,,CatsStandingUp
+1925,Cat. ,2016-04-29 20:49:05+00:00,d2mk28l,,t1_d2b57p4,,CatsStandingUp
+1926,Cat. ,2016-04-29 20:48:41+00:00,d2mk1od,,t1_d0gvqy5,,CatsStandingUp
+1927,Cat. ,2016-04-29 20:47:43+00:00,d2mk07a,,t1_d2lguva,71508.0,CatsStandingUp
+1928,Cat. ,2016-04-29 20:47:37+00:00,d2mk01e,,t1_d0gvwlk,,CatsStandingUp
+1929,Cat. ,2016-04-29 20:46:15+00:00,d2mjxz0,,t1_d2iz80a,,CatsStandingUp
+1930,Cat. ,2016-04-29 20:45:37+00:00,d2mjx14,,t1_d0pdc4t,,CatsStandingUp
+1931,Cat. ,2016-04-29 20:45:23+00:00,d2mjwoi,,t1_d0gvped,,CatsStandingUp
+1932,Cat. ,2016-04-29 20:45:13+00:00,d2mjwff,,t1_cz484cw,,CatsStandingUp
+1933,Cat. ,2016-04-29 20:44:53+00:00,d2mjvx1,,t1_d0gvqi0,,CatsStandingUp
+1934,Cat. ,2016-04-29 20:44:37+00:00,d2mjvi9,,t1_d2ihhte,,CatsStandingUp
+1935,Cat. ,2016-04-29 20:44:14+00:00,d2mjuxr,,t1_cz4zrjs,,CatsStandingUp
+1936,Cat. ,2016-04-29 20:43:59+00:00,d2mjujo,,t1_cyqlilw,,CatsStandingUp
+1937,Cat. ,2016-04-29 20:43:46+00:00,d2mju6k,,t1_d2ixiid,,CatsStandingUp
+1938,Cat. ,2016-04-29 20:43:31+00:00,d2mjts9,,t1_d0rsuva,,CatsStandingUp
+1939,Cat. ,2016-04-29 20:43:21+00:00,d2mjtjs,,t1_cz6jycu,,CatsStandingUp
+1940,Cat. ,2016-04-29 20:43:13+00:00,d2mjtbx,,t1_d0o10xn,,CatsStandingUp
+1941,Cat. ,2016-04-29 20:42:44+00:00,d2mjskz,,t1_cyph5ns,,CatsStandingUp
+1942,Cat. ,2016-04-29 20:42:30+00:00,d2mjs7b,,t1_d2ioqul,,CatsStandingUp
+1943,Cat. ,2016-04-29 20:42:17+00:00,d2mjrvw,,t1_d2j80qr,,CatsStandingUp
+1944,Cat. ,2016-04-29 20:42:06+00:00,d2mjrlv,,t1_d1y0pwp,,CatsStandingUp
+1945,Cat. ,2016-04-29 20:41:57+00:00,d2mjrdt,,t1_d1oy37x,,CatsStandingUp
+1946,Cat. ,2016-04-29 20:41:45+00:00,d2mjr30,,t1_d2j80cd,,CatsStandingUp
+1947,Cat. ,2016-04-29 20:41:32+00:00,d2mjqqk,,t1_d2iokjz,,CatsStandingUp
+1948,Cat. ,2016-04-29 20:41:20+00:00,d2mjqf2,,t1_d2j80g4,,CatsStandingUp
+1949,Cat. ,2016-04-29 20:41:07+00:00,d2mjq47,,t1_d1y0q6v,,CatsStandingUp
+1950,Cat. ,2016-04-29 20:40:48+00:00,d2mjpl8,,t1_cz4zrh0,,CatsStandingUp
+1951,Cat. ,2016-04-29 20:40:37+00:00,d2mjp9v,,t1_cyogeb3,,CatsStandingUp
+1952,Cat. ,2016-04-29 20:38:54+00:00,d2mjmo2,,t1_d0gvo05,,CatsStandingUp
+1953,Cat. ,2016-04-29 20:38:46+00:00,d2mjmhm,,t1_d2j810i,,CatsStandingUp
+1954,Cat. ,2016-04-29 20:38:15+00:00,d2mjlol,,t1_d0gvt60,,CatsStandingUp
+1955,Cat. ,2016-04-29 20:38:04+00:00,d2mjlek,,t1_cz482o4,,CatsStandingUp
+1956,Cat. ,2016-04-29 20:37:53+00:00,d2mjl57,,t1_d2j2gnc,,CatsStandingUp
+1957,Cat. ,2016-04-29 20:37:36+00:00,d2mjkpr,,t1_cz3vk1v,,CatsStandingUp
+1958,Cat. ,2016-04-29 20:37:21+00:00,d2mjkbs,,t1_cynwaw0,,CatsStandingUp
+1959,Cat. ,2016-04-29 20:37:11+00:00,d2mjk2h,,t1_d1dmjuo,,CatsStandingUp
+1960,Cat. ,2016-04-29 20:36:59+00:00,d2mjjs4,,t1_cyn8k5q,,CatsStandingUp
+1961,Cat. ,2016-04-29 20:36:37+00:00,d2mjj86,,t1_cz6b58a,,CatsStandingUp
+1962,Cat. ,2016-04-29 20:36:15+00:00,d2mjinp,,t1_cyzhovs,,CatsStandingUp
+1963,Cat. ,2016-04-29 20:35:48+00:00,d2mjhz7,,t1_cyn7d9v,,CatsStandingUp
+1964,Cat. ,2016-04-29 20:35:38+00:00,d2mjhqw,,t1_d1cwke8,,CatsStandingUp
+1965,Cat. ,2016-04-29 20:35:26+00:00,d2mjhfu,,t1_cz3vau4,,CatsStandingUp
+1966,Cat. ,2016-04-29 20:35:09+00:00,d2mjh0z,,t1_cyn10f2,,CatsStandingUp
+1967,Cat. ,2016-04-29 20:34:58+00:00,d2mjgrr,,t1_cz3v9vm,,CatsStandingUp
+1968,Cat. ,2016-04-29 20:34:43+00:00,d2mjgdo,,t1_cyn0npx,,CatsStandingUp
+1969,Cat. ,2016-04-29 20:34:27+00:00,d2mjg00,,t1_d0gvx2d,,CatsStandingUp
+1970,Cat. ,2016-04-29 20:34:08+00:00,d2mjfix,,t1_cyzhozq,,CatsStandingUp
+1971,Cat. ,2016-04-29 20:33:53+00:00,d2mjf52,,t1_d2ikyt4,250943.0,CatsStandingUp
+1972,Cat. ,2016-04-29 20:33:29+00:00,d2mjek1,,t1_cymarrq,,CatsStandingUp
+1973,Cat. ,2016-04-29 20:31:37+00:00,d2mjbqy,,t1_cz6b59x,,CatsStandingUp
+1974,Cat. ,2016-04-29 20:31:04+00:00,d2mjaxd,,t1_cz3upte,,CatsStandingUp
+1975,Cat. ,2016-04-29 20:30:17+00:00,d2mj9qr,,t1_d0gvmc9,,CatsStandingUp
+1976,Cat. ,2016-04-29 20:29:46+00:00,d2mj8yg,,t1_d2lq7wb,56336.0,CatsStandingUp
+1977,Cat. ,2016-04-29 20:29:38+00:00,d2mj8qz,,t1_d2kvytx,99456.0,CatsStandingUp
+1978,Cat. ,2016-04-29 20:29:27+00:00,d2mj8ic,,t1_d2kokal,109480.0,CatsStandingUp
+1979,Cat. ,2016-04-29 20:29:20+00:00,d2mj8cn,,t1_d2j5ton,,CatsStandingUp
+1980,Cat. ,2016-04-29 20:29:13+00:00,d2mj852,,t1_d2j2qfu,,CatsStandingUp
+1981,Cat. ,2016-04-29 20:29:05+00:00,d2mj7yp,,t1_d2irf27,,CatsStandingUp
+1982,Cat. ,2016-04-29 20:28:53+00:00,d2mj7nd,,t1_d2imbwz,,CatsStandingUp
+1983,Cat. ,2016-04-29 20:28:45+00:00,d2mj7f4,,t1_d2iljj5,,CatsStandingUp
+1984,Cat. ,2016-04-29 20:28:38+00:00,d2mj782,,t1_d2ikfyj,,CatsStandingUp
+1985,Cat. ,2016-04-29 20:28:25+00:00,d2mj6x4,,t1_d2ik2nu,,CatsStandingUp
+1986,Cat. ,2016-04-29 20:28:18+00:00,d2mj6qm,,t1_d2ijfdy,,CatsStandingUp
+1987,Cat. ,2016-04-29 20:28:11+00:00,d2mj6ke,,t1_d2iiiss,,CatsStandingUp
+1988,Cat. ,2016-04-29 20:28:00+00:00,d2mj6a6,,t1_d2fvyyc,,CatsStandingUp
+1989,Cat. ,2016-04-29 20:27:52+00:00,d2mj61k,,t1_d1uz55s,,CatsStandingUp
+1990,Cat. ,2016-04-29 20:27:44+00:00,d2mj5tv,,t1_d1slzfs,,CatsStandingUp
+1991,Cat. ,2016-04-29 20:27:27+00:00,d2mj5dg,,t1_d2kokr2,109341.0,CatsStandingUp
+1992,Cat. ,2016-04-29 20:27:14+00:00,d2mj51g,,t1_d0mnspt,,CatsStandingUp
+1993,Cat. ,2016-04-29 20:27:06+00:00,d2mj4tx,,t1_d2kokp6,109322.0,CatsStandingUp
+1994,Cat. ,2016-04-29 20:26:48+00:00,d2mj4es,,t1_d2koko3,109305.0,CatsStandingUp
+1995,Cat. ,2016-04-29 20:26:36+00:00,d2mj436,,t1_d2j26sh,,CatsStandingUp
+1996,Cat. ,2016-04-29 20:26:05+00:00,d2mj3cj,,t1_cytkycx,,CatsStandingUp
+1997,Cat. ,2016-04-29 20:25:44+00:00,d2mj2tu,,t1_d2kokvm,109233.0,CatsStandingUp
+1998,Cat. ,2016-04-29 20:25:29+00:00,d2mj2fz,,t1_d0gvlx6,,CatsStandingUp
+1999,Cat. ,2016-04-29 20:23:23+00:00,d2miz46,,t1_d2itqob,,CatsStandingUp
+2000,Cat. ,2016-04-29 20:23:14+00:00,d2miyvn,,t1_d2itp10,,CatsStandingUp
+2001,Cat. ,2016-04-29 20:23:07+00:00,d2miyp5,,t1_d0s29x4,,CatsStandingUp
+2002,Cat. ,2016-04-29 20:22:22+00:00,d2mixkn,,t1_d091ht2,,CatsStandingUp
+2003,Cat. ,2016-04-29 20:21:46+00:00,d2miwmw,,t1_d2j42pp,,CatsStandingUp
+2004,Cat. ,2016-04-29 20:21:37+00:00,d2miwes,,t1_d2iw607,,CatsStandingUp
+2005,Cat. ,2016-04-29 20:21:19+00:00,d2mivxh,,t1_d2in63w,,CatsStandingUp
+2006,Cat. ,2016-04-29 20:19:45+00:00,d2mitiv,,t1_d2ln5lo,61218.0,CatsStandingUp
+2007,Cat. ,2016-04-29 20:19:35+00:00,d2mit8f,,t1_d2ljgz3,66311.0,CatsStandingUp
+2008,Cat. ,2016-04-29 20:19:26+00:00,d2mit0d,,t1_d2kwvmh,97661.0,CatsStandingUp
+2009,Cat. ,2016-04-29 20:18:53+00:00,d2mis6k,,t1_d2itrtc,,CatsStandingUp
+2010,Cat. ,2016-04-29 20:18:43+00:00,d2mirwd,,t1_d1dtx0v,,CatsStandingUp
+2011,Cat. ,2016-04-29 20:18:30+00:00,d2mirkh,,t1_d2j11qp,,CatsStandingUp
+2012,Cat. ,2016-04-29 20:18:17+00:00,d2mir7i,,t1_d2kp1hu,108083.0,CatsStandingUp
+2013,Cat. ,2016-04-29 20:18:05+00:00,d2miqwp,,t1_d2jxzeq,164648.0,CatsStandingUp
+2014,Cat. ,2016-04-29 20:17:53+00:00,d2miqlf,,t1_d2iw7ek,233548.0,CatsStandingUp
+2015,Cat. ,2016-04-29 20:17:41+00:00,d2miqaq,,t1_d2fqb69,,CatsStandingUp
+2016,Cat. ,2016-04-29 20:17:03+00:00,d2mipb5,,t1_d2mhppt,1371.0,CatsStandingUp
+2017,Cat. ,2016-04-29 20:16:54+00:00,d2mip2b,,t1_d2koke1,108724.0,CatsStandingUp
+2018,Cat. ,2016-04-29 20:16:46+00:00,d2miouh,,t1_d2ko80n,109262.0,CatsStandingUp
+2019,Cat. ,2016-04-29 20:16:37+00:00,d2miolm,,t1_d2kjdk9,119408.0,CatsStandingUp
+2020,Cat. ,2016-04-29 20:16:20+00:00,d2mio5y,,t1_d2kokgf,108686.0,CatsStandingUp
+2021,Cat. ,2016-04-29 20:16:04+00:00,d2minqw,,t1_d2k4exk,154545.0,CatsStandingUp
+2022,Cat. ,2016-04-29 20:08:56+00:00,d2micsm,,t1_d0gvpyv,,CatsStandingUp
+2023,Cat. ,2016-04-29 20:04:02+00:00,d2mi54w,,t1_d0gvruh,,CatsStandingUp
+2024,Cat. ,2016-04-29 20:03:17+00:00,d2mi3wt,,t1_cz482l9,,CatsStandingUp
+2025,Cat. ,2016-04-29 20:02:54+00:00,d2mi3bv,,t1_cz1b1eg,,CatsStandingUp
+2026,Cat. ,2016-04-29 20:02:43+00:00,d2mi31l,,t1_cz1i94a,,CatsStandingUp
+2027,Cat. ,2016-04-29 20:02:28+00:00,d2mi2ou,,t1_d0gvtma,,CatsStandingUp
+2028,Cat. ,2016-04-29 20:02:18+00:00,d2mi2fk,,t1_cz2psed,,CatsStandingUp
+2029,Cat. ,2016-04-29 20:02:08+00:00,d2mi25p,,t1_cz20pw4,,CatsStandingUp
+2030,Cat. ,2016-04-29 20:02:01+00:00,d2mi1yv,,t1_d0gvtze,,CatsStandingUp
+2031,Cat. ,2016-04-29 20:01:49+00:00,d2mi1nf,,t1_d0gvu47,,CatsStandingUp
+2032,Cat. ,2016-04-29 20:01:29+00:00,d2mi15g,,t1_cz28r5s,,CatsStandingUp
+2033,Cat. ,2016-04-29 20:01:21+00:00,d2mi0x4,,t1_cz7fj38,,CatsStandingUp
+2034,Cat. ,2016-04-29 20:01:06+00:00,d2mi0jb,,t1_cz8uyyr,,CatsStandingUp
+2035,Cat. ,2016-04-29 20:00:54+00:00,d2mi089,,t1_d0gvulr,,CatsStandingUp
+2036,Cat. ,2016-04-29 20:00:41+00:00,d2mhzuw,,t1_d0gvvdm,,CatsStandingUp
+2037,Cat. ,2016-04-29 20:00:28+00:00,d2mhzk0,,t1_d2l5grd,85284.0,CatsStandingUp
+2038,Cat. ,2016-04-29 20:00:20+00:00,d2mhzc3,,t1_czasvp8,,CatsStandingUp
+2039,Cat. ,2016-04-29 20:00:10+00:00,d2mhz37,,t1_d0gvvkl,,CatsStandingUp
+2040,Cat. ,2016-04-29 19:59:48+00:00,d2mhyhn,,t1_d0gvw3j,,CatsStandingUp
+2041,Cat. ,2016-04-29 19:59:28+00:00,d2mhxzj,,t1_d2eka92,,CatsStandingUp
+2042,Cat. ,2016-04-29 19:59:20+00:00,d2mhxst,,t1_czww0xv,,CatsStandingUp
+2043,Cat. ,2016-04-29 19:59:04+00:00,d2mhxdu,,t1_d0gymbv,,CatsStandingUp
+2044,Cat. ,2016-04-29 19:58:48+00:00,d2mhwyh,,t1_d2l5hc5,85164.0,CatsStandingUp
+2045,Cat. ,2016-04-29 19:58:33+00:00,d2mhwjv,,t1_czx7roe,,CatsStandingUp
+2046,Cat. ,2016-04-29 19:58:17+00:00,d2mhw5o,,t1_d26sp64,,CatsStandingUp
+2047,Cat. ,2016-04-29 19:58:00+00:00,d2mhvoy,,t1_d0ribk9,,CatsStandingUp
+2048,Cat. ,2016-04-29 19:57:40+00:00,d2mhv4v,,t1_d068p8b,,CatsStandingUp
+2049,Cat. ,2016-04-29 19:57:07+00:00,d2mhu98,,t1_d0czpnn,,CatsStandingUp
+2050,Cat. ,2016-04-29 19:56:55+00:00,d2mhtxq,,t1_d2jzui6,160469.0,CatsStandingUp
+2051,Cat. ,2016-04-29 19:56:37+00:00,d2mhthm,,t1_d2jzumw,160446.0,CatsStandingUp
+2052,Cat. ,2016-04-29 19:56:21+00:00,d2mht2r,,t1_d0qrz4v,,CatsStandingUp
+2053,Cat. ,2016-04-29 19:56:09+00:00,d2mhsse,,t1_d0ymhmj,,CatsStandingUp
+2054,Cat. ,2016-04-29 19:55:56+00:00,d2mhsfx,,t1_d17espv,,CatsStandingUp
+2055,Cat. ,2016-04-29 19:55:44+00:00,d2mhs52,,t1_d1jd3z7,,CatsStandingUp
+2056,Cat. ,2016-04-29 19:55:28+00:00,d2mhrps,,t1_d2lxu7w,29938.0,CatsStandingUp
+2057,Cat. ,2016-04-29 19:54:19+00:00,d2mhpxa,,t1_cym6k1d,,CatsStandingUp
+2058,Cat. ,2016-04-29 19:54:12+00:00,d2mhppt,,t1_cyneyhf,,CatsStandingUp
+2059,Cat. ,2016-04-29 19:52:40+00:00,d2mhnei,,t1_d2fnsk0,,CatsStandingUp
+2060,Cat. ,2016-04-29 19:52:23+00:00,d2mhmxz,,t1_d2iimdt,,CatsStandingUp
+2061,Cat. ,2016-04-29 19:52:07+00:00,d2mhmhw,,t1_d2ijosa,,CatsStandingUp
+2062,Cat. ,2016-04-29 19:51:44+00:00,d2mhly5,,t1_d2il0yz,,CatsStandingUp
+2063,Cat. ,2016-04-29 19:51:05+00:00,d2mhky9,,t1_d2iq0ok,,CatsStandingUp
+2064,Cat. ,2016-04-29 19:50:42+00:00,d2mhkcf,3.0,t1_d2l5pj7,84379.0,CatsStandingUp
+2065,Cat. ,2016-04-29 19:50:26+00:00,d2mhjx6,2.0,t1_d2isw74,236980.0,CatsStandingUp
+2066,Cat. ,2016-04-29 19:50:04+00:00,d2mhjci,4.0,t1_d2l3vd8,86750.0,CatsStandingUp
+2067,Cat. ,2016-04-29 19:49:41+00:00,d2mhiqh,,t1_d2iwugd,,CatsStandingUp
+2068,Cat. ,2016-04-29 19:49:04+00:00,d2mhhrr,,t1_d2j2ym1,,CatsStandingUp
+2069,Cat. ,2016-04-29 19:48:45+00:00,d2mhh8w,,t1_d2jcmx9,,CatsStandingUp
+2070,Cat. ,2016-04-29 19:47:57+00:00,d2mhg12,2.0,t1_d2kbj7k,141357.0,CatsStandingUp
+2071,Cat. ,2016-04-29 19:47:49+00:00,d2mhfsx,2.0,t1_d2kdfnq,137428.0,CatsStandingUp
+2072,Cat. ,2016-04-29 19:47:41+00:00,d2mhfl9,2.0,t1_d2kg8pq,129140.0,CatsStandingUp
+2073,Cat. ,2016-04-29 19:47:31+00:00,d2mhfct,2.0,t1_d2khrr9,123385.0,CatsStandingUp
+2074,Cat. ,2016-04-29 19:47:23+00:00,d2mhf4g,2.0,t1_d2khs6f,123332.0,CatsStandingUp
+2075,Cat. ,2016-04-29 19:47:14+00:00,d2mheve,2.0,t1_d2khsfo,123297.0,CatsStandingUp
+2076,Cat. ,2016-04-29 19:47:04+00:00,d2mhemr,2.0,t1_d2kil0s,120270.0,CatsStandingUp
+2077,Cat. ,2016-04-29 19:46:57+00:00,d2mheg0,2.0,t1_d2kiszk,119483.0,CatsStandingUp
+2078,Cat. ,2016-04-29 19:46:49+00:00,d2mhe8l,2.0,t1_d2kj2fk,118600.0,CatsStandingUp
+2079,Cat. ,2016-04-29 19:46:42+00:00,d2mhe1z,2.0,t1_d2kllbw,112111.0,CatsStandingUp
+2080,Cat. ,2016-04-29 19:46:34+00:00,d2mhdun,2.0,t1_d2kllu8,112073.0,CatsStandingUp
+2081,Cat. ,2016-04-29 19:46:28+00:00,d2mhdok,2.0,t1_d2knk5l,108506.0,CatsStandingUp
+2082,Cat. ,2016-04-29 19:46:21+00:00,d2mhdio,2.0,t1_d2ko7ch,107468.0,CatsStandingUp
+2083,Cat. ,2016-04-29 19:46:13+00:00,d2mhdam,2.0,t1_d2koh96,107022.0,CatsStandingUp
+2084,Cat. ,2016-04-29 19:46:06+00:00,d2mhd3t,2.0,t1_d2kok6o,106884.0,CatsStandingUp
+2085,Cat. ,2016-04-29 19:45:58+00:00,d2mhcw0,2.0,t1_d2ks15i,101982.0,CatsStandingUp
+2086,Cat. ,2016-04-29 19:45:50+00:00,d2mhco6,2.0,t1_d2kyaar,93799.0,CatsStandingUp
+2087,Cat. ,2016-04-29 19:45:38+00:00,d2mhcce,2.0,t1_d2l09a5,91211.0,CatsStandingUp
+2088,Cat. ,2016-04-29 19:45:29+00:00,d2mhc4m,2.0,t1_d2l2946,88590.0,CatsStandingUp
+2089,Cat. ,2016-04-29 19:45:20+00:00,d2mhbvy,2.0,t1_d2l3rlx,86600.0,CatsStandingUp
+2090,Cat. ,2016-04-29 19:45:12+00:00,d2mhboi,2.0,t1_d2l4sg5,85265.0,CatsStandingUp
+2091,Cat. ,2016-04-29 19:45:04+00:00,d2mhbh8,2.0,t1_d2lsuq5,46821.0,CatsStandingUp
+2092,Cat. ,2016-04-29 19:44:53+00:00,d2mhb6s,1.0,t3_3zhjrt,10005286.0,CatsStandingUp
+2093,Cat. ,2016-04-29 19:43:28+00:00,d2mh8x6,,t1_d2ijfk6,,CatsStandingUp
+2094,Cat. ,2016-04-29 19:43:21+00:00,d2mh8q9,,t1_d2ij2va,,CatsStandingUp
+2095,Cat. ,2016-04-29 19:43:10+00:00,d2mh8g7,,t1_d2ijiv0,,CatsStandingUp
+2096,Cat. ,2016-04-29 19:43:03+00:00,d2mh890,,t1_d2ij73a,,CatsStandingUp
+2097,Cat. ,2016-04-29 19:42:50+00:00,d2mh7x4,,t1_d2iefz5,,CatsStandingUp
+2098,Cat. ,2016-04-29 19:42:36+00:00,d2mh7ku,,t1_d2ioccf,,CatsStandingUp
+2099,Cat. ,2016-04-29 19:42:31+00:00,d2mh7fv,,t1_d2ix6pc,,CatsStandingUp
+2100,Cat. ,2016-04-29 19:42:05+00:00,d2mh6rs,,t1_d2ikxaq,,CatsStandingUp
+2101,Cat. ,2016-04-29 19:41:56+00:00,d2mh6k5,,t1_d2ikh1t,,CatsStandingUp
+2102,Cat. ,2016-04-29 19:41:49+00:00,d2mh6dp,,t1_d2ik92i,,CatsStandingUp
+2103,Cat. ,2016-04-29 19:41:41+00:00,d2mh67c,,t1_d2ijswj,,CatsStandingUp
+2104,Cat. ,2016-04-29 19:41:34+00:00,d2mh60i,,t1_d2ilclg,,CatsStandingUp
+2105,Cat. ,2016-04-29 19:41:22+00:00,d2mh5qt,,t1_d2iizb0,,CatsStandingUp
+2106,Cat. ,2016-04-29 19:41:07+00:00,d2mh5co,,t1_d2imzvi,,CatsStandingUp
+2107,Cat. ,2016-04-29 19:40:55+00:00,d2mh518,1.0,t3_4gica7,289411.0,CatsStandingUp
+2108,Cat. ,2016-04-29 19:40:28+00:00,d2mh4cl,2.0,t1_d2l7hwc,81403.0,CatsStandingUp
+2109,Cat. ,2016-04-29 19:40:21+00:00,d2mh46b,3.0,t1_d2ls8mu,48312.0,CatsStandingUp
+2110,Cat. ,2016-04-29 19:40:11+00:00,d2mh3w9,2.0,t1_d2luh9s,41068.0,CatsStandingUp
+2111,Cat. ,2016-04-29 19:39:58+00:00,d2mh3kk,1.0,t3_4gw31n,81629.0,CatsStandingUp
+2112,Cat. ,2016-04-29 19:39:25+00:00,d2mh2nw,2.0,t1_d2mase0,8417.0,CatsStandingUp
+2113,Cat. ,2016-04-29 19:39:18+00:00,d2mh2hv,3.0,t1_d2mbjn8,7412.0,CatsStandingUp
+2114,Cat. ,2016-04-29 19:39:05+00:00,d2mh26v,1.0,t3_4gw05e,82617.0,CatsStandingUp
+2115,Cat. ,2016-04-29 19:38:39+00:00,d2mh1ft,3.0,t1_d2lsys9,46095.0,CatsStandingUp
+2116,Cat. ,2016-04-29 19:38:29+00:00,d2mh16t,2.0,t1_d2lrvgy,49202.0,CatsStandingUp
+2117,Cat. ,2016-04-29 19:38:11+00:00,d2mh0pz,1.0,t3_4gvvso,84089.0,CatsStandingUp
+2118,Cat. ,2016-04-29 19:38:05+00:00,d2mh0l5,1.0,t3_4gvvso,84083.0,CatsStandingUp
+2119,Cat. ,2016-04-29 19:37:46+00:00,d2mh022,2.0,t1_d2l1dd0,89276.0,CatsStandingUp
+2120,Cat. ,2016-04-29 19:37:40+00:00,d2mgzvu,3.0,t1_d2lvy04,35214.0,CatsStandingUp
+2121,Cat. ,2016-04-29 19:37:29+00:00,d2mgzl9,1.0,t3_4gvgk1,89322.0,CatsStandingUp
+2122,Cat. ,2016-04-29 19:36:42+00:00,d2mgyc3,2.0,t1_d2ly9zu,27659.0,CatsStandingUp
+2123,Cat. ,2016-04-29 19:36:34+00:00,d2mgy50,2.0,t1_d2lvxw4,35160.0,CatsStandingUp
+2124,Cat. ,2016-04-29 19:36:18+00:00,d2mgxq7,1.0,t3_4gxgv3,61139.0,CatsStandingUp
+2125,Cat. ,2016-04-29 19:35:52+00:00,d2mgx0s,2.0,t1_d2lvxso,35127.0,CatsStandingUp
+2126,Cat. ,2016-04-29 19:35:43+00:00,d2mgwr9,1.0,t3_4gxiwd,60240.0,CatsStandingUp
+2127,Cat. ,2016-04-29 19:35:16+00:00,d2mgw1n,2.0,t1_d2lrzyz,48673.0,CatsStandingUp
+2128,Cat. ,2016-04-29 19:35:11+00:00,d2mgvwy,2.0,t1_d2lwrbk,32042.0,CatsStandingUp
+2129,Cat. ,2016-04-29 19:35:02+00:00,d2mgvo1,1.0,t3_4gxwlh,53584.0,CatsStandingUp
+2130,Cat. ,2016-04-29 19:34:40+00:00,d2mgv4g,2.0,t1_d2m4mev,16345.0,CatsStandingUp
+2131,Cat. ,2016-04-29 19:34:35+00:00,d2mguzk,2.0,t1_d2lvro0,35710.0,CatsStandingUp
+2132,Cat. ,2016-04-29 19:34:22+00:00,d2mgumj,1.0,t3_4gxuuj,54482.0,CatsStandingUp
+2133,Cat. ,2016-04-29 19:34:04+00:00,d2mgu6k,2.0,t1_d2lvuzx,35312.0,CatsStandingUp
+2134,Cat. ,2016-04-29 19:33:57+00:00,d2mgu04,1.0,t3_4gwd31,77625.0,CatsStandingUp
+2135,Cat. ,2016-04-29 19:33:33+00:00,d2mgte4,2.0,t1_d2lvxm9,35006.0,CatsStandingUp
+2136,Cat. ,2016-04-29 19:33:25+00:00,d2mgt6w,1.0,t3_4gwwdp,69861.0,CatsStandingUp
+2137,Cat. ,2016-04-29 19:33:01+00:00,d2mgskc,2.0,t1_d2mbrtk,6731.0,CatsStandingUp
+2138,Cat. ,2016-04-29 19:32:54+00:00,d2mgscp,2.0,t1_d2ls4po,48165.0,CatsStandingUp
+2139,Cat. ,2016-04-29 19:32:45+00:00,d2mgs47,2.0,t1_d2lrzp4,48542.0,CatsStandingUp
+2140,Cat. ,2016-04-29 19:32:30+00:00,d2mgrqa,1.0,t3_4gxbvd,63064.0,CatsStandingUp
+2141,Cat. ,2016-04-29 19:32:05+00:00,d2mgr23,2.0,t1_d2lthiq,44078.0,CatsStandingUp
+2142,Cat. ,2016-04-29 19:31:59+00:00,d2mgqwk,2.0,t1_d2lxnc7,29063.0,CatsStandingUp
+2143,Cat. ,2016-04-29 19:31:49+00:00,d2mgqn0,2.0,t1_d2ls4ae,48133.0,CatsStandingUp
+2144,Cat. ,2016-04-29 19:31:37+00:00,d2mgqd0,2.0,t1_d2lz45k,25388.0,CatsStandingUp
+2145,Cat. ,2016-04-29 19:31:30+00:00,d2mgq5u,2.0,t1_d2luqa1,39588.0,CatsStandingUp
+2146,Cat. ,2016-04-29 19:31:03+00:00,d2mgph6,3.0,t1_d2lved7,36947.0,CatsStandingUp
+2147,Cat. ,2016-04-29 19:30:52+00:00,d2mgp6l,1.0,t3_4gx63k,65484.0,CatsStandingUp
+2148,Cat. ,2016-04-29 19:30:27+00:00,d2mgok1,2.0,t1_d2m30sz,18373.0,CatsStandingUp
+2149,Cat. ,2016-04-29 19:30:19+00:00,d2mgocw,2.0,t1_d2lz5so,25215.0,CatsStandingUp
+2150,Cat. ,2016-04-29 19:30:10+00:00,d2mgo4d,2.0,t1_d2lxtt8,28451.0,CatsStandingUp
+2151,Cat. ,2016-04-29 19:29:52+00:00,d2mgnnz,1.0,t3_4gv8f1,91622.0,CatsStandingUp
+2152,Cat. ,2016-04-29 19:29:21+00:00,d2mgmuh,2.0,t1_d2m67p0,13847.0,CatsStandingUp
+2153,Cat. ,2016-04-29 19:29:07+00:00,d2mgmfv,2.0,t1_d2lwmrd,32123.0,CatsStandingUp
+2154,Cat. ,2016-04-29 19:28:26+00:00,d2mglfe,2.0,t1_d2lwf4c,32836.0,CatsStandingUp
+2155,Cat. ,2016-04-29 19:28:06+00:00,d2mgkxg,8.0,t1_d2ly8u1,27227.0,CatsStandingUp
+2156,Cat. ,2016-04-29 19:27:39+00:00,d2mgk62,2.0,t1_d2lv0bz,38287.0,CatsStandingUp
+2157,Cat. ,2016-04-29 19:27:23+00:00,d2mgjqd,1.0,t3_4gyfje,41337.0,CatsStandingUp
+2158,Cat. ,2016-04-29 19:26:53+00:00,d2mgiyc,2.0,t1_d2m52j1,15252.0,CatsStandingUp
+2159,Cat. ,2016-04-29 19:26:21+00:00,d2mgi3o,2.0,t1_d2m7cgr,12144.0,CatsStandingUp
+2160,Cat. ,2016-04-29 19:26:15+00:00,d2mghy6,2.0,t1_d2m8fjy,10705.0,CatsStandingUp
+2161,Cat. ,2016-04-29 19:25:28+00:00,d2mggpc,2.0,t1_d2m59rr,14895.0,CatsStandingUp
+2162,Cat. ,2016-04-29 19:25:07+00:00,d2mgg51,7.0,t1_d2mes2l,2250.0,CatsStandingUp
+2163,Cat. ,2016-04-29 19:24:47+00:00,d2mgfmy,3.0,t1_d2m67y0,13564.0,CatsStandingUp
+2164,Cat. ,2016-04-29 19:24:33+00:00,d2mgf8z,2.0,t1_d2lzj8v,24070.0,CatsStandingUp
+2165,Cat. ,2016-04-29 19:24:20+00:00,d2mgewm,1.0,t3_4gz6nm,24162.0,CatsStandingUp
+2166,Cat. ,2016-04-29 19:23:32+00:00,d2mgdma,2.0,t1_d2m5pac,14187.0,CatsStandingUp
+2167,Cat. ,2016-04-29 19:23:17+00:00,d2mgd8s,2.0,t1_d2m2yz7,18020.0,CatsStandingUp
+2168,Cat. ,2016-04-29 19:22:47+00:00,d2mgcem,3.0,t1_d2m2vms,18128.0,CatsStandingUp
+2169,Cat. ,2016-04-29 19:22:26+00:00,d2mgbw1,2.0,t1_d2m16ng,20818.0,CatsStandingUp
+2170,Cat. ,2016-04-29 19:21:52+00:00,d2mgazw,1.0,t3_4gzddk,21140.0,CatsStandingUp
+2171,Cat. ,2016-04-29 19:21:14+00:00,d2mga15,2.0,t1_d2m998f,9343.0,CatsStandingUp
+2172,Cat. ,2016-04-29 19:20:49+00:00,d2mg9cx,3.0,t1_d2meix0,2336.0,CatsStandingUp
+2173,Cat. ,2016-04-29 19:20:32+00:00,d2mg8wr,4.0,t1_d2m6o4n,12707.0,CatsStandingUp
+2174,Cat. ,2016-04-29 19:20:16+00:00,d2mg8hi,2.0,t1_d2m3scp,16651.0,CatsStandingUp
+2175,Cat. ,2016-04-29 19:19:51+00:00,d2mg7t3,1.0,t3_4gznyh,16978.0,CatsStandingUp
+2176,Cat. ,2016-04-29 19:19:16+00:00,d2mg6vg,3.0,t1_d2mfk9c,849.0,CatsStandingUp
+2177,Cat. ,2016-04-29 19:18:44+00:00,d2mg60z,2.0,t1_d2mfpq2,608.0,CatsStandingUp
+2178,Cat. ,2016-04-29 19:18:12+00:00,d2mg56y,4.0,t1_d2me33t,2772.0,CatsStandingUp
+2179,Cat. ,2016-04-29 19:17:53+00:00,d2mg4o1,5.0,t1_d2memwe,2006.0,CatsStandingUp
+2180,Cat. ,2016-04-29 19:17:34+00:00,d2mg477,3.0,t1_d2me2u2,2743.0,CatsStandingUp
+2181,Cat. ,2016-04-29 19:17:06+00:00,d2mg3et,3.0,t1_d2mebcz,2397.0,CatsStandingUp
+2182,Cat. ,2016-04-29 19:16:57+00:00,d2mg36x,4.0,t1_d2mb6te,6545.0,CatsStandingUp
+2183,Cat. ,2016-04-29 19:16:43+00:00,d2mg2tf,4.0,t1_d2mefuu,2206.0,CatsStandingUp
+2184,Cat. ,2016-04-29 19:16:33+00:00,d2mg2k3,5.0,t1_d2mb70v,6513.0,CatsStandingUp
+2185,Cat. ,2016-04-29 19:16:13+00:00,d2mg210,3.0,t1_d2mcao4,5029.0,CatsStandingUp
+2186,Cat. ,2016-04-29 19:15:55+00:00,d2mg1k0,1.0,t3_4gzu1d,14531.0,CatsStandingUp
+2187,Cat. ,2016-04-29 19:15:26+00:00,d2mg0s5,2.0,t1_d2mdian,3370.0,CatsStandingUp
+2188,Cat. ,2016-04-29 19:15:16+00:00,d2mg0it,1.0,t3_4gzu77,14438.0,CatsStandingUp
+2189,Cat. ,2016-04-29 19:14:53+00:00,d2mfzxj,2.0,t1_d2macf8,7536.0,CatsStandingUp
+2190,Cat. ,2016-04-29 19:14:35+00:00,d2mfzfr,1.0,t3_4gz90i,22533.0,CatsStandingUp
+2191,Cat. ,2016-04-29 19:14:12+00:00,d2mfyu6,3.0,t1_d2mdhr8,3315.0,CatsStandingUp
+2192,Cat. ,2016-04-29 19:14:04+00:00,d2mfymb,2.0,t1_d2mc27t,5215.0,CatsStandingUp
+2193,Cat. ,2016-04-29 19:13:47+00:00,d2mfy69,2.0,t1_d2maffv,7360.0,CatsStandingUp
+2194,Cat. ,2016-04-29 19:13:36+00:00,d2mfxvh,1.0,t3_4gydun,41682.0,CatsStandingUp
+2195,Cat. ,2016-04-29 04:00:55+00:00,d2lopsc,2.0,t1_d2je6ll,132286.0,CatsStandingUp
+2196,Cat. ,2016-04-29 04:00:49+00:00,d2lopnu,2.0,t1_d2jbmb7,135881.0,CatsStandingUp
+2197,Cat. ,2016-04-29 04:00:31+00:00,d2lopa9,1.0,t3_4gh2w0,260468.0,CatsStandingUp
+2198,Cat. ,2016-04-29 03:59:58+00:00,d2loolg,2.0,t1_d2l7gkx,25025.0,CatsStandingUp
+2199,Cat. ,2016-04-29 03:59:35+00:00,d2loo3l,1.0,t3_4gi90v,234823.0,CatsStandingUp
+2200,Cat. ,2016-04-29 03:31:22+00:00,d2lnnkq,2.0,t1_d2j4b3f,151635.0,CatsStandingUp
+2201,Cat. ,2016-04-29 03:31:03+00:00,d2lnn4e,1.0,t3_4giaqm,232094.0,CatsStandingUp
+2202,Cat. ,2016-04-29 03:30:12+00:00,d2lnlyz,1.0,t3_4gibqh,231474.0,CatsStandingUp
+2203,Cat. ,2016-04-29 03:29:36+00:00,d2lnl42,2.0,t1_d2ks81b,43149.0,CatsStandingUp
+2204,Cat. ,2016-04-29 03:29:14+00:00,d2lnkl5,2.0,t1_d2j25cv,159476.0,CatsStandingUp
+2205,Cat. ,2016-04-29 03:28:53+00:00,d2lnk17,4.0,t1_d2jg5fg,127727.0,CatsStandingUp
+2206,Cat. ,2016-04-29 03:28:20+00:00,d2lnj6k,6.0,t1_d2j9ua1,136719.0,CatsStandingUp
+2207,Cat. ,2016-04-29 03:28:00+00:00,d2lnind,1.0,t3_4glc0j,191332.0,CatsStandingUp
+2208,Cat.,2016-04-29 03:14:07+00:00,d2lmxmw,2.0,t1_d2j9q05,136064.0,CatsStandingUp
+2209,Cat.,2016-04-29 03:13:35+00:00,d2lmwwl,,t1_d2imi1q,,CatsStandingUp
+2210,Cat.,2016-04-29 03:13:20+00:00,d2lmwj9,,t1_d2imhxn,,CatsStandingUp
+2211,Cat.,2016-04-29 03:13:10+00:00,d2lmwaf,,t1_d2im6nr,,CatsStandingUp
+2212,Cat.,2016-04-29 03:12:58+00:00,d2lmvz3,,t1_d2imht2,,CatsStandingUp
+2213,Cat.,2016-04-29 03:12:35+00:00,d2lmvet,3.0,t1_d2iw31j,172228.0,CatsStandingUp
+2214,Cat.,2016-04-29 03:12:18+00:00,d2lmuz7,1.0,t3_4glltl,186697.0,CatsStandingUp
+2215,Cat.,2016-04-29 03:11:43+00:00,d2lmu2z,,t1_d2ip1xs,,CatsStandingUp
+2216,Cat.,2016-04-29 03:11:35+00:00,d2lmtuw,2.0,t1_d2irh0s,179085.0,CatsStandingUp
+2217,Cat.,2016-04-29 03:11:25+00:00,d2lmtmq,2.0,t1_d2j45dm,151066.0,CatsStandingUp
+2218,Cat.,2016-04-29 03:11:17+00:00,d2lmtfy,2.0,t1_d2iz45t,166500.0,CatsStandingUp
+2219,Cat.,2016-04-29 03:10:05+00:00,d2lmrq8,4.0,t1_d2lky4b,2498.0,CatsStandingUp
+2220,Cat.,2016-04-29 03:09:44+00:00,d2lmr6y,2.0,t1_d2li0bb,6477.0,CatsStandingUp
+2221,Cat.,2016-04-29 03:09:07+00:00,d2lmqar,1.0,t3_4gwf11,17817.0,CatsStandingUp
+2222,Cat.,2016-04-29 03:08:37+00:00,d2lmpkw,5.0,t1_d2llmoj,1477.0,CatsStandingUp
+2223,Cat.,2016-04-29 03:08:25+00:00,d2lmpa1,2.0,t1_d2lk023,3709.0,CatsStandingUp
+2224,Cat.,2016-04-29 03:08:03+00:00,d2lmor0,1.0,t3_4gwka6,15733.0,CatsStandingUp
+2225,Cat.,2016-04-29 03:07:18+00:00,d2lmnmt,2.0,t1_d2lm9fv,537.0,CatsStandingUp
+2226,Cat.,2016-04-29 03:07:06+00:00,d2lmnbj,5.0,t1_d2lliwy,1532.0,CatsStandingUp
+2227,Cat.,2016-04-29 03:06:51+00:00,d2lmmxu,6.0,t1_d2lm2o7,756.0,CatsStandingUp
+2228,Cat.,2016-04-29 03:06:33+00:00,d2lmmik,1.0,t3_4gweik,17859.0,CatsStandingUp
+2229,Cat.,2016-04-29 03:06:01+00:00,d2lmlqb,2.0,t1_d2lhp7b,6676.0,CatsStandingUp
+2230,Cat.,2016-04-29 03:05:52+00:00,d2lmlif,2.0,t1_d2lll22,1376.0,CatsStandingUp
+2231,Cat.,2016-04-29 03:05:38+00:00,d2lml53,2.0,t1_d2llfxd,1556.0,CatsStandingUp
+2232,Cat.,2016-04-29 03:05:23+00:00,d2lmkrc,2.0,t1_d2li9j9,5882.0,CatsStandingUp
+2233,Cat.,2016-04-29 03:05:03+00:00,d2lmkab,1.0,t3_4gwgyb,16842.0,CatsStandingUp
+2234,Cat.,2016-04-29 03:04:43+00:00,d2lmjr1,2.0,t1_d2lld9i,1609.0,CatsStandingUp
+2235,Cat.,2016-04-29 03:04:19+00:00,d2lmj4v,1.0,t3_4gwor1,13715.0,CatsStandingUp
+2236,Cat.,2016-04-29 03:03:49+00:00,d2lmibb,3.0,t1_d2lkulq,2254.0,CatsStandingUp
+2237,Cat.,2016-04-29 03:03:40+00:00,d2lmi28,8.0,t1_d2llqqe,1024.0,CatsStandingUp
+2238,Cat.,2016-04-29 03:03:13+00:00,d2lmhbj,1.0,t3_4gwhg5,16548.0,CatsStandingUp
+2239,Cat.,2016-04-29 03:02:45+00:00,d2lmgll,3.0,t1_d2ll61y,1759.0,CatsStandingUp
+2240,Cat.,2016-04-29 03:02:27+00:00,d2lmg3w,5.0,t1_d2llbmn,1536.0,CatsStandingUp
+2241,Cat.,2016-04-29 03:01:58+00:00,d2lmfc2,3.0,t1_d2lm8ce,259.0,CatsStandingUp
+2242,Cat.,2016-04-29 03:01:48+00:00,d2lmf35,1.0,t3_4gwsj0,11991.0,CatsStandingUp
+2243,Cat.,2016-04-29 02:59:50+00:00,d2lmbvg,3.0,t1_d2ll6a8,1576.0,CatsStandingUp
+2244,Cat.,2016-04-29 02:59:36+00:00,d2lmbhe,2.0,t1_d2llk48,1036.0,CatsStandingUp
+2245,Cat.,2016-04-29 02:59:17+00:00,d2lmayg,2.0,t1_d2llo75,858.0,CatsStandingUp
+2246,Cat.,2016-04-29 02:58:53+00:00,d2lmaba,3.0,t1_d2ll68h,1521.0,CatsStandingUp
+2247,Cat.,2016-04-29 02:58:18+00:00,d2lm9dl,5.0,t1_d2llu1b,575.0,CatsStandingUp
+2248,Cat.,2016-04-29 02:58:08+00:00,d2lm94k,7.0,t1_d2lliis,1010.0,CatsStandingUp
+2249,Cat.,2016-04-29 02:57:47+00:00,d2lm8j4,3.0,t1_d2lkyxq,1729.0,CatsStandingUp
+2250,Cat.,2016-04-29 02:57:34+00:00,d2lm86r,4.0,t1_d2llire,966.0,CatsStandingUp
+2251,Cat.,2016-04-29 02:57:07+00:00,d2lm7fk,10.0,t1_d2lksll,1929.0,CatsStandingUp
+2252,Cat.,2016-04-29 02:56:13+00:00,d2lm5ym,1.0,t3_4gx2vc,7209.0,CatsStandingUp
+2253,Cat.,2016-04-28 18:44:19+00:00,d2l14fn,1.0,t3_4gm2hr,149954.0,CatsStandingUp
+2254,Cat.,2016-04-28 18:44:12+00:00,d2l148w,2.0,t1_d2k0y1t,68006.0,CatsStandingUp
+2255,Cat.,2016-04-28 18:44:00+00:00,d2l13w9,2.0,t1_d2k8mt6,56177.0,CatsStandingUp
+2256,Cat.,2016-04-28 18:43:16+00:00,d2l12pf,2.0,t1_d2jizxq,92493.0,CatsStandingUp
+2257,Cat.,2016-04-28 18:43:00+00:00,d2l12ag,1.0,t3_4gn3bw,133988.0,CatsStandingUp
+2258,Cat.,2016-04-28 18:42:21+00:00,d2l117i,2.0,t1_d2k7i03,57822.0,CatsStandingUp
+2259,Cat.,2016-04-28 18:42:13+00:00,d2l10zg,1.0,t3_4gnefy,127348.0,CatsStandingUp
+2260,Cat.,2016-04-28 18:42:03+00:00,d2l10ok,3.0,t1_d2kj2w2,28271.0,CatsStandingUp
+2261,Cat.,2016-04-28 18:41:47+00:00,d2l108d,3.0,t1_d2kj2w2,28255.0,CatsStandingUp
+2262,Cat.,2016-04-28 18:40:51+00:00,d2l0yo4,2.0,t1_d2kgej6,38166.0,CatsStandingUp
+2263,Cat.,2016-04-28 18:39:29+00:00,d2l0wfn,1.0,t3_3zhjrt,9914962.0,CatsStandingUp
+2264,Cat.,2016-04-28 18:38:47+00:00,d2l0v9e,3.0,t1_d2k729l,58242.0,CatsStandingUp
+2265,Cat.,2016-04-28 18:38:23+00:00,d2l0um1,3.0,t1_d2jxf48,73127.0,CatsStandingUp
+2266,Cat.,2016-04-28 18:38:06+00:00,d2l0u5e,1.0,t3_4gn7l2,131255.0,CatsStandingUp
+2267,Cat.,2016-04-28 18:37:39+00:00,d2l0ter,2.0,t1_d2k0xjw,67635.0,CatsStandingUp
+2268,Cat.,2016-04-28 18:37:29+00:00,d2l0t3z,1.0,t3_4gnfir,126340.0,CatsStandingUp
+2269,Cat.,2016-04-28 18:37:04+00:00,d2l0sen,2.0,t1_d2jj6n8,91874.0,CatsStandingUp
+2270,Cat.,2016-04-28 18:36:53+00:00,d2l0s3z,1.0,t3_4gnksa,122636.0,CatsStandingUp
+2271,Cat.,2016-04-28 18:36:00+00:00,d2l0qnc,2.0,t1_d2j3mrv,122185.0,CatsStandingUp
+2272,Cat.,2016-04-28 18:35:03+00:00,d2l0p1m,2.0,t1_d2k6ud7,58336.0,CatsStandingUp
+2273,Cat.,2016-04-28 18:34:51+00:00,d2l0oq5,2.0,t1_d2jyebt,71417.0,CatsStandingUp
+2274,Cat.,2016-04-28 18:34:15+00:00,d2l0nq9,1.0,t3_4ghb82,222354.0,CatsStandingUp
+2275,Cat.,2016-04-28 18:33:47+00:00,d2l0n0t,2.0,t1_d2jtphb,78086.0,CatsStandingUp
+2276,Cat.,2016-04-28 18:32:51+00:00,d2l0lgv,3.0,t1_d2jji68,91199.0,CatsStandingUp
+2277,Cat.,2016-04-28 18:32:10+00:00,d2l0kbv,2.0,t1_d2ke9cz,44348.0,CatsStandingUp
+2278,Cat.,2016-04-28 18:32:04+00:00,d2l0k5v,2.0,t1_d2kiup6,28424.0,CatsStandingUp
+2279,Cat.,2016-04-28 18:31:51+00:00,d2l0jst,2.0,t1_d2jjeul,91260.0,CatsStandingUp
+2280,Cat.,2016-04-28 18:31:10+00:00,d2l0iq5,2.0,t1_d2jj5j4,91562.0,CatsStandingUp
+2281,Cat.,2016-04-28 18:30:47+00:00,d2l0i3u,3.0,t1_d2k1qwe,65936.0,CatsStandingUp
+2282,Cat.,2016-04-28 18:29:54+00:00,d2l0gnp,2.0,t1_d2k6xfi,57899.0,CatsStandingUp
+2283,Cat.,2016-04-28 18:29:44+00:00,d2l0gec,3.0,t1_d2k6xq0,57878.0,CatsStandingUp
+2284,Cat.,2016-04-28 18:29:10+00:00,d2l0fgl,3.0,t1_d2jrjox,80601.0,CatsStandingUp
+2285,Cat.,2016-04-28 18:27:32+00:00,d2l0crm,3.0,t1_d2kjvkj,25020.0,CatsStandingUp
+2286,Cat.,2016-04-28 18:26:15+00:00,d2l0amk,1.0,t3_4gs8uw,53177.0,CatsStandingUp
+2287,Cat.,2016-04-28 18:25:16+00:00,d2l08yo,2.0,t1_d2kxeio,3721.0,CatsStandingUp
+2288,Cat.,2016-04-28 18:25:07+00:00,d2l08ps,2.0,t1_d2ky094,2921.0,CatsStandingUp
+2289,Cat.,2016-04-28 18:24:22+00:00,d2l07i9,2.0,t1_d2ky0jf,2866.0,CatsStandingUp
+2290,Cat.,2016-04-28 18:23:10+00:00,d2l05ha,2.0,t1_d2kzw58,338.0,CatsStandingUp
+2291,Cat.,2016-04-28 18:22:44+00:00,d2l04rc,3.0,t1_d2kzpvw,543.0,CatsStandingUp
+2292,Cat.,2016-04-28 18:22:12+00:00,d2l03vu,7.0,t1_d2kzwhw,269.0,CatsStandingUp
+2293,Cat.,2016-04-28 18:21:15+00:00,d2l02d8,2.0,t1_d2ky10y,2660.0,CatsStandingUp
+2294,Cat.,2016-04-28 18:21:06+00:00,d2l024l,1.0,t3_4gt5d6,34000.0,CatsStandingUp
+2295,Cat.,2016-04-28 18:20:34+00:00,d2l019c,2.0,t1_d2ky18l,2612.0,CatsStandingUp
+2296,Cat.,2016-04-28 18:20:20+00:00,d2l00vg,1.0,t3_4gtafv,30534.0,CatsStandingUp
+2297,Cat.,2016-04-28 18:19:33+00:00,d2kzzjt,1.0,t3_4gtb3i,30028.0,CatsStandingUp
+2298,Cat.,2016-04-28 18:19:01+00:00,d2kzyo9,2.0,t1_d2ky0vp,2532.0,CatsStandingUp
+2299,Cat.,2016-04-28 18:18:53+00:00,d2kzyg9,2.0,t1_d2kxile,3190.0,CatsStandingUp
+2300,Cat.,2016-04-28 18:18:10+00:00,d2kzx98,2.0,t1_d2ky1ll,2455.0,CatsStandingUp
+2301,Cat.,2016-04-28 18:17:54+00:00,d2kzws0,1.0,t3_4gtuda,19300.0,CatsStandingUp
+2302,Cat.,2016-04-28 18:14:48+00:00,d2kzrpx,2.0,t1_d2j3pdd,120628.0,CatsStandingUp
+2303,Cat.,2016-04-28 18:13:38+00:00,d2kzpsu,2.0,t1_d2j6g58,110695.0,CatsStandingUp
+2304,Cat.,2016-04-28 18:12:58+00:00,d2kzopj,2.0,t1_d2j7tm5,107254.0,CatsStandingUp
+2305,Cat.,2016-04-28 18:12:43+00:00,d2kzoa4,2.0,t1_d2j8715,106438.0,CatsStandingUp
+2306,Cat.,2016-04-28 18:11:48+00:00,d2kzmtl,2.0,t1_d2jfqxc,94832.0,CatsStandingUp
+2307,Cat.,2016-04-28 18:11:03+00:00,d2kzll9,2.0,t1_d2jo58g,83924.0,CatsStandingUp
+2308,Cat.,2016-04-28 18:10:23+00:00,d2kzkgd,2.0,t1_d2kron8,10314.0,CatsStandingUp
+2309,Cat.,2016-04-28 18:10:08+00:00,d2kzk0q,2.0,t1_d2kuh6y,6621.0,CatsStandingUp
+2310,Cat.,2016-04-28 18:08:26+00:00,d2kzh5s,1.0,t3_4gtud6,18734.0,CatsStandingUp
+2311,Cat.,2016-04-28 18:08:06+00:00,d2kzgkm,2.0,t1_d2ky2sw,1806.0,CatsStandingUp
+2312,Cat.,2016-04-28 18:07:56+00:00,d2kzg9r,3.0,t1_d2kynfd,1052.0,CatsStandingUp
+2313,Cat.,2016-04-28 18:07:38+00:00,d2kzfrl,2.0,t1_d2kze2j,62.0,CatsStandingUp
+2314,Cat.,2016-04-28 18:06:54+00:00,d2kzej9,2.0,t1_d2ky1s5,1772.0,CatsStandingUp
+2315,Cat.,2016-04-28 18:06:41+00:00,d2kze6t,1.0,t3_4gu66r,13754.0,CatsStandingUp
+2316,Cat.,2016-04-28 18:06:15+00:00,d2kzdhn,2.0,t1_d2kwsd4,3388.0,CatsStandingUp
+2317,Cat.,2016-04-28 18:06:09+00:00,d2kzdb3,2.0,t1_d2kwtpt,3332.0,CatsStandingUp
+2318,Cat.,2016-04-28 18:05:48+00:00,d2kzcpw,2.0,t1_d2ky1y8,1700.0,CatsStandingUp
+2319,Cat.,2016-04-28 18:05:04+00:00,d2kzbjc,2.0,t1_d2ky2er,1638.0,CatsStandingUp
+2320,Cat.,2016-04-28 18:04:55+00:00,d2kzb9x,3.0,t1_d2kxjkv,2318.0,CatsStandingUp
+2321,Cat.,2016-04-28 18:03:52+00:00,d2kz9kw,2.0,t1_d2ky3u9,1514.0,CatsStandingUp
+2322,no these are the short legged variety ,2016-04-28 07:20:53+00:00,d2kfmj2,2.0,t1_d2kck7w,8155.0,MoreFreeKarma
+2323,thanks,2016-04-28 07:01:21+00:00,d2kf95a,2.0,t1_d2kcr7s,6579.0,FreeKarmas
+2324,Cat.,2016-04-28 06:47:31+00:00,d2kezfe,1.0,t3_4gn3f1,91011.0,CatsStandingUp
+2325,Cat.,2016-04-28 06:47:11+00:00,d2kez6m,3.0,t1_d2kb6yy,8725.0,CatsStandingUp
+2326,Cat.,2016-04-28 06:46:41+00:00,d2keytz,1.0,t3_4gnq9p,76257.0,CatsStandingUp
+2327,Cat.,2016-04-28 06:46:13+00:00,d2keyif,1.0,t3_4gnt9c,74356.0,CatsStandingUp
+2328,Cat.,2016-04-28 06:45:46+00:00,d2key6n,1.0,t3_4gnvgh,72894.0,CatsStandingUp
+2329,Cat.,2016-04-28 06:45:25+00:00,d2kexwk,2.0,t1_d2k6yba,15596.0,CatsStandingUp
+2330,Cat.,2016-04-28 06:45:16+00:00,d2kexsu,1.0,t3_4gnvia,72827.0,CatsStandingUp
+2331,Cat.,2016-04-28 06:44:47+00:00,d2kexgk,1.0,t3_4gny9y,71031.0,CatsStandingUp
+2332,Cat.,2016-04-28 06:44:43+00:00,d2kexew,2.0,t1_d2k3uhw,20330.0,CatsStandingUp
+2333,Cat.,2016-04-28 06:44:15+00:00,d2kex31,2.0,t1_d2k5zc9,17020.0,CatsStandingUp
+2334,Cat.,2016-04-28 06:43:27+00:00,d2kewhj,2.0,t1_d2jjhf1,48663.0,CatsStandingUp
+2335,Cat.,2016-04-28 06:42:54+00:00,d2kew3i,1.0,t3_4goczo,63572.0,CatsStandingUp
+2336,Cat.,2016-04-28 06:42:49+00:00,d2kew13,3.0,t1_d2kdip6,3715.0,CatsStandingUp
+2337,Cat.,2016-04-28 06:42:14+00:00,d2kevl8,3.0,t1_d2k75yo,15102.0,CatsStandingUp
+2338,Cat.,2016-04-28 06:41:27+00:00,d2kev06,1.0,t3_4goly4,59798.0,CatsStandingUp
+2339,Cat.,2016-04-28 06:41:02+00:00,d2keup0,1.0,t3_4goo0z,58976.0,CatsStandingUp
+2340,Cat.,2016-04-28 06:40:52+00:00,d2keukq,3.0,t1_d2kc8im,6417.0,CatsStandingUp
+2341,Cat.,2016-04-28 06:40:10+00:00,d2keu18,4.0,t1_d2k56ra,17993.0,CatsStandingUp
+2342,Cat.,2016-04-28 06:39:05+00:00,d2ket8z,3.0,t1_d2k58a4,17862.0,CatsStandingUp
+2343,Cat.,2016-04-28 06:38:42+00:00,d2keszf,3.0,t1_d2k58he,17830.0,CatsStandingUp
+2344,Cat.,2016-04-28 06:35:41+00:00,d2keqrv,3.0,t1_d2kds1i,2626.0,CatsStandingUp
+2345,Cat.,2016-04-28 06:35:12+00:00,d2keqes,2.0,t1_d2k9xgb,10291.0,CatsStandingUp
+2346,Cat.,2016-04-28 06:35:00+00:00,d2keq9s,2.0,t1_d2kat23,8709.0,CatsStandingUp
+2347,Cat.,2016-04-28 06:34:49+00:00,d2keq4f,2.0,t1_d2kazf3,8372.0,CatsStandingUp
+2348,Cat.,2016-04-28 06:34:39+00:00,d2kepzk,2.0,t1_d2kbk3z,7314.0,CatsStandingUp
+2349,Cat.,2016-04-28 06:34:28+00:00,d2kepve,2.0,t1_d2kbm69,7197.0,CatsStandingUp
+2350,Cat.,2016-04-28 06:34:18+00:00,d2kepr0,2.0,t1_d2kbs3v,6876.0,CatsStandingUp
+2351,Cat.,2016-04-28 06:34:09+00:00,d2kepn5,2.0,t1_d2kccpo,5782.0,CatsStandingUp
+2352,Cat.,2016-04-28 06:33:56+00:00,d2keph5,2.0,t1_d2kcime,5431.0,CatsStandingUp
+2353,Cat.,2016-04-28 06:33:48+00:00,d2kepco,2.0,t1_d2kcs9x,4865.0,CatsStandingUp
+2354,Cat.,2016-04-28 06:33:39+00:00,d2kep8s,2.0,t1_d2kcvkj,4663.0,CatsStandingUp
+2355,Cat.,2016-04-28 06:33:30+00:00,d2kep4m,2.0,t1_d2kcy92,4494.0,CatsStandingUp
+2356,Cat.,2016-04-28 06:33:20+00:00,d2kep0k,2.0,t1_d2kd3li,4156.0,CatsStandingUp
+2357,Cat.,2016-04-28 06:33:12+00:00,d2keoxn,2.0,t1_d2kd6bo,3969.0,CatsStandingUp
+2358,Cat.,2016-04-28 06:33:01+00:00,d2keoso,2.0,t1_d2kdrgk,2510.0,CatsStandingUp
+2359,Cat.,2016-04-28 06:32:52+00:00,d2keoot,2.0,t1_d2kecrn,933.0,CatsStandingUp
+2360,Cat.,2016-04-28 06:32:42+00:00,d2keokg,2.0,t1_d2kem5b,190.0,CatsStandingUp
+2361,Cat.,2016-04-28 06:31:32+00:00,d2kenpo,2.0,t1_d2k9smk,10310.0,CatsStandingUp
+2362,Cat.,2016-04-28 06:31:26+00:00,d2kenmq,2.0,t1_d2k7d6v,14160.0,CatsStandingUp
+2363,Cat.,2016-04-28 06:30:52+00:00,d2ken5n,2.0,t1_d2ipbfl,107615.0,CatsStandingUp
+2364,Cat.,2016-04-28 06:30:15+00:00,d2kemq1,3.0,t1_d2k77al,14328.0,CatsStandingUp
+2365,Cat.,2016-04-28 06:29:34+00:00,d2kem68,2.0,t1_d2iqrme,105546.0,CatsStandingUp
+2366,Cat.,2016-04-28 06:29:07+00:00,d2kelu7,2.0,t1_d2k73m5,14408.0,CatsStandingUp
+2367,Cat.,2016-04-28 06:28:22+00:00,d2kel9k,6.0,t1_d2k3m7b,19712.0,CatsStandingUp
+2368,Cat.,2016-04-28 06:28:00+00:00,d2kekzu,3.0,t1_d2k27wf,21836.0,CatsStandingUp
+2369,Cat.,2016-04-28 06:27:32+00:00,d2kekmq,2.0,t1_d2k2xce,20712.0,CatsStandingUp
+2370,Cat.,2016-04-28 06:26:34+00:00,d2kejwv,5.0,t1_d2k33ew,20396.0,CatsStandingUp
+2371,Cat.,2016-04-28 06:25:51+00:00,d2kejcg,2.0,t1_d2k2swo,20800.0,CatsStandingUp
+2372,Cat.,2016-04-28 06:25:13+00:00,d2keivj,4.0,t1_d2k2whd,20612.0,CatsStandingUp
+2373,Cat.,2016-04-28 06:24:37+00:00,d2keiec,2.0,t1_d2k2oh5,20917.0,CatsStandingUp
+2374,Cat.,2016-04-28 06:24:02+00:00,d2kehxt,2.0,t1_d2k2e6s,21331.0,CatsStandingUp
+2375,Cat.,2016-04-28 06:23:57+00:00,d2kehva,2.0,t1_d2k3x4t,18974.0,CatsStandingUp
+2376,Cat.,2016-04-28 06:23:23+00:00,d2keheg,6.0,t1_d2k2czs,21342.0,CatsStandingUp
+2377,Cat.,2016-04-28 06:23:06+00:00,d2keh6v,5.0,t1_d2k0t01,23760.0,CatsStandingUp
+2378,Cat.,2016-04-28 06:22:28+00:00,d2kegqr,2.0,t1_d2k2alk,21390.0,CatsStandingUp
+2379,Cat.,2016-04-28 06:22:21+00:00,d2kegn6,4.0,t1_d2k2hat,21094.0,CatsStandingUp
+2380,Cat.,2016-04-28 06:22:06+00:00,d2kegg2,3.0,t1_d2k2axs,21355.0,CatsStandingUp
+2381,Cat.,2016-04-28 06:21:37+00:00,d2keg21,2.0,t1_d2k28za,21408.0,CatsStandingUp
+2382,Cat.,2016-04-28 06:21:29+00:00,d2kefye,2.0,t1_d2k3wo5,18846.0,CatsStandingUp
+2383,Cat.,2016-04-28 06:21:16+00:00,d2keft4,5.0,t1_d2k29wk,21349.0,CatsStandingUp
+2384,Cat.,2016-04-28 06:20:40+00:00,d2kefcd,2.0,t1_d2k27lb,21409.0,CatsStandingUp
+2385,Cat.,2016-04-28 06:19:40+00:00,d2keekl,3.0,t1_d2k26wt,21378.0,CatsStandingUp
+2386,Cat.,2016-04-28 06:19:30+00:00,d2keega,3.0,t1_d2k27u5,21329.0,CatsStandingUp
+2387,Cat.,2016-04-28 06:18:46+00:00,d2kedvq,2.0,t1_d2k60lm,15435.0,CatsStandingUp
+2388,Cat.,2016-04-28 06:17:55+00:00,d2ked9q,5.0,t1_d2k2b27,21099.0,CatsStandingUp
+2389,Cat.,2016-04-28 06:17:02+00:00,d2kecju,3.0,t1_d2k20sr,21488.0,CatsStandingUp
+2390,Cat.,2016-04-28 06:15:49+00:00,d2keblh,2.0,t1_d2kbt8c,5708.0,CatsStandingUp
+2391,Cat.,2016-04-28 06:15:38+00:00,d2kebgd,2.0,t1_d2k985v,10315.0,CatsStandingUp
+2392,Cat.,2016-04-28 06:15:09+00:00,d2keb2f,4.0,t1_d2k7idu,12976.0,CatsStandingUp
+2393,Cat.,2016-04-28 06:13:46+00:00,d2ke9z4,2.0,t1_d2k7j7w,12860.0,CatsStandingUp
+2394,Cat.,2016-04-28 06:12:47+00:00,d2ke950,4.0,t1_d2k9bec,9993.0,CatsStandingUp
+2395,Cat.,2016-04-28 06:12:34+00:00,d2ke8yu,5.0,t1_d2k9mv1,9446.0,CatsStandingUp
+2396,Cat.,2016-04-28 06:11:40+00:00,d2ke897,2.0,t1_d2k7a0f,13103.0,CatsStandingUp
+2397,Cat.,2016-04-28 06:11:31+00:00,d2ke85c,4.0,t1_d2k9ayp,9936.0,CatsStandingUp
+2398,Cat.,2016-04-28 06:10:48+00:00,d2ke7kt,2.0,t1_d2kcr0o,3557.0,CatsStandingUp
+2399,Cat.,2016-04-28 06:10:18+00:00,d2ke76d,4.0,t1_d2k3oya,18507.0,CatsStandingUp
+2400,Cat.,2016-04-28 06:10:03+00:00,d2ke6yy,4.0,t1_d2kdxx7,665.0,CatsStandingUp
+2401,Cat.,2016-04-28 06:09:25+00:00,d2ke6fd,3.0,t1_d2k7med,12465.0,CatsStandingUp
+2402,Cat.,2016-04-28 06:04:44+00:00,d2ke2m5,2.0,t1_d2k9x87,8474.0,CatsStandingUp
+2403,Cat.,2016-04-28 06:04:18+00:00,d2ke2a6,2.0,t1_d2k8pk8,10473.0,CatsStandingUp
+2404,Cat.,2016-04-28 06:03:04+00:00,d2ke1ac,3.0,t1_d2jz6ng,25074.0,CatsStandingUp
+2405,Cat.,2016-04-28 06:02:40+00:00,d2ke0yk,3.0,t1_d2k8poe,10371.0,CatsStandingUp
+2406,Cat.,2016-04-28 06:01:23+00:00,d2kdzxq,2.0,t1_d2kdrpf,593.0,CatsStandingUp
+2407,Cat.,2016-04-28 06:00:13+00:00,d2kdyzo,7.0,t1_d2k2wtd,19097.0,CatsStandingUp
+2408,Cat.,2016-04-28 05:59:57+00:00,d2kdyrn,5.0,t1_d2kdrfm,528.0,CatsStandingUp
+2409,Cat.,2016-04-28 05:58:21+00:00,d2kdxfd,4.0,t1_d2k2vhl,19041.0,CatsStandingUp
+2410,Cat.,2016-04-28 05:58:03+00:00,d2kdx65,3.0,t1_d2k27md,20051.0,CatsStandingUp
+2411,Cat.,2016-04-28 05:55:35+00:00,d2kdv56,2.0,t1_d2k3az8,18217.0,CatsStandingUp
+2412,Cat.,2016-04-28 05:54:52+00:00,d2kdujy,2.0,t1_d2kdj95,797.0,CatsStandingUp
+2413,here's one,2016-04-28 04:46:17+00:00,d2kbzi8,1.0,t3_4gs64x,5231.0,FreeKarmas
+2414,Cat.,2016-04-28 04:36:21+00:00,d2kboaf,5.0,t1_d2kber4,487.0,CatsStandingUp
+2415,Cat.,2016-04-28 04:14:08+00:00,d2kay05,4.0,t1_d2kasfn,290.0,CatsStandingUp

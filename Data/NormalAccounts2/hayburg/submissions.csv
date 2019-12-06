@@ -1,0 +1,44 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-10-21 21:07:47+00:00,self.AskElectronics,https://www.reddit.com/r/AskElectronics/comments/58pn8r/where_should_i_start_for_a_custom_computer_for_a/,False,"I squeezed most of the info into the title.
+
+I'm working on a custom computer for a CubeSat and I have a list of specifications, but I'm not sure who to go to that could do custom electronics solutions like that.  Any ideas or information about who to talk to would be greatly appreciated.  Thanks!
+
+Specs:
+
+-RAID 1 controller for 2 SATA SSDs (at least 3 Gbps, 6 would be nice)
+
+-Multiple serial outputs/inputs (at least two RS422)
+
+-ethernet
+
+-usb
+
+-low power usage processor (less than 6W max)
+
+-ideally PC104 form factor (or smaller)",AskElectronics,"Where should I start for a custom computer for a CubeSat? Specs: RAID 1 controller for 2 SATA SSDs, multiple serial outputs, ethernet, usb, low power usage processor, ideally PC104 form factor (or smaller)",https://www.reddit.com/r/AskElectronics/comments/58pn8r/where_should_i_start_for_a_custom_computer_for_a/
+1,2016-09-20 00:55:27+00:00,self.amateurradio,https://www.reddit.com/r/amateurradio/comments/53kvac/sband_cassegrain_antenna_question_can_a_patch/,False,"http://imgur.com/a/4ZZHH
+
+I'm helping to design an S-band Cassegrain antenna and I have a few questions. First of all, can [a patch antenna like this one](https://www.clyde.space/products/13-cput-sband-patch-antenna) be used as the feed.  The antenna would only be used for receiving transmissions so the beam width of the patch itself shouldn't matter right?
+
+Assuming you can, does it have to be placed at the focal point like in the second schematic in the album or can it be moved lower like in the first schematic.  As long as the reflected rays still hit the patch antenna, it should be fine right?  Would each of the rays be out of phase?  I'm not sure if the path lengths are all the same unless the feed is at the focal point.
+
+Thanks!",amateurradio,S-band Cassegrain antenna question: Can a patch antenna be used as the feed? Can it be placed below the focal point? [Schematics inside],https://www.reddit.com/r/amateurradio/comments/53kvac/sband_cassegrain_antenna_question_can_a_patch/
+2,2016-06-14 00:12:11+00:00,vrfocus.com,https://www.reddit.com/r/AndroidVR/comments/4nyooz/pong_gets_a_vr_upgrade_with_curveball_vr/,False,,AndroidVR,Pong Gets a VR Upgrade with CurveBall VR,https://www.vrfocus.com/2016/06/pong-gets-a-vr-upgrade-with-curveball-vr/
+3,2016-06-13 23:59:10+00:00,play.google.com,https://www.reddit.com/r/freegames/comments/4nymmd/androidios_curveball_vr_fun_fast_free_3d_pong/,False,,freegames,"[Android/iOS] CurveBall VR! Fun, fast, free 3D pong game for Google Cardboard on iOS and Android. Flash game nostalgia for mobile VR",https://play.google.com/store/apps/details?id=com.Burgoyne.CurveBallVR
+4,2016-06-13 22:09:53+00:00,vrfocus.com,https://www.reddit.com/r/CurveBallVR/comments/4ny564/pong_gets_a_vr_upgrade_with_curveball_vr/,False,,CurveBallVR,Pong Gets a VR Upgrade with CurveBall VR,https://www.vrfocus.com/2016/06/pong-gets-a-vr-upgrade-with-curveball-vr/
+5,2016-06-13 22:07:07+00:00,vrfocus.com,https://www.reddit.com/r/virtualreality/comments/4ny4pt/pong_gets_a_vr_upgrade_with_curveball_vr/,False,,virtualreality,Pong Gets a VR Upgrade with CurveBall VR,https://www.vrfocus.com/2016/06/pong-gets-a-vr-upgrade-with-curveball-vr/
+6,2016-06-12 05:39:03+00:00,youtu.be,https://www.reddit.com/r/CurveBallVR/comments/4np1ft/curveball_vr_review_and_shinecon_hmd_review_from/,False,,CurveBallVR,CurveBall VR review and Shinecon HMD review from Reality Check VR,https://youtu.be/eZ1-wChHpFk
+7,2016-06-09 23:10:18+00:00,youtube.com,https://www.reddit.com/r/CurveBallVR/comments/4ndhia/curveball_vr_gameplay_video_from_google_cardboard/,False,,CurveBallVR,CurveBall VR gameplay video from -Google Cardboard VR Apps-,https://www.youtube.com/watch?v=ve-svLFtJis
+8,2016-06-06 19:50:49+00:00,play.google.com,https://www.reddit.com/r/CurveBallVR/comments/4muvyx/get_curveball_vr_now_for_android/,False,,CurveBallVR,Get CurveBall VR now for Android!,https://play.google.com/store/apps/details?id=com.Burgoyne.CurveBallVR
+9,2016-06-06 19:40:14+00:00,youtube.com,https://www.reddit.com/r/virtualreality/comments/4muu1o/curveball_vrs_now_out_for_android_and_ios_with/,False,,virtualreality,"CurveBall VR's now out for Android and iOS with cross-platform multiplayer (LAN) and new powerups. Totally free, 3D arcade-style pong game for Google Cardboard.",https://www.youtube.com/watch?v=5p5Pi_erDTM
+10,2016-06-06 18:40:26+00:00,itunes.apple.com,https://www.reddit.com/r/iosgaming/comments/4muike/curveball_vrs_now_out_for_ios_and_android_with/,False,,iosgaming,"CurveBall VR's now out for iOS and Android with cross-platform multiplayer (LAN) and new powerups. Totally free, 3D arcade-style pong game for Google Cardboard.",https://itunes.apple.com/us/app/curveball-vr/id1109015169
+11,2016-06-06 18:28:14+00:00,play.google.com,https://www.reddit.com/r/AndroidGaming/comments/4mug6s/dev_curveball_vrs_now_out_for_android_with/,False,,AndroidGaming,"[DEV] CurveBall VR's now out for Android with cross-platform multiplayer (LAN) and new powerups. Totally free, 3D arcade-style pong game for Google Cardboard.",https://play.google.com/store/apps/details?id=com.Burgoyne.CurveBallVR
+12,2016-06-06 18:13:28+00:00,youtube.com,https://www.reddit.com/r/GoogleCardboard/comments/4muddg/curveball_vrs_now_out_for_android_and_ios_with/,False,,GoogleCardboard,"CurveBall VR's now out for Android and iOS with cross-platform multiplayer (LAN) and new powerups. Totally free, 3D arcade-style pong game for Google Cardboard.",https://www.youtube.com/watch?v=5p5Pi_erDTM
+13,2016-06-06 18:03:18+00:00,youtube.com,https://www.reddit.com/r/Unity3D/comments/4mubff/curveball_vrs_now_out_for_android_and_ios_with/,False,,Unity3D,"CurveBall VR's now out for Android and iOS with cross-platform multiplayer (LAN) and new powerups. Totally free, 3D arcade-style pong game for Google Cardboard.",https://www.youtube.com/watch?v=5p5Pi_erDTM
+14,2016-06-02 17:29:42+00:00,youtube.com,https://www.reddit.com/r/CurveBallVR/comments/4m8ax8/curveball_vr_trailer_and_demo/,False,,CurveBallVR,CurveBall VR trailer and demo!,https://www.youtube.com/watch?v=5p5Pi_erDTM
+15,2016-05-08 22:50:50+00:00,itunes.apple.com,https://www.reddit.com/comments/4igs36/curveball_vr_is_a_simple_free_pongstyle_arcade/,False,,,"CurveBall VR is a simple, free pong-style arcade game for iOS!  Perfect for Google Cardboard and other mobile VR viewers.",https://itunes.apple.com/us/app/curveball-vr/id1109015169?mt=8
+16,2016-05-08 22:42:43+00:00,itunes.apple.com,https://www.reddit.com/r/Unity3D/comments/4igqys/check_out_the_simple_and_free_3d_pongstyle_arcade/,False,,Unity3D,"Check out the simple and free 3D pong-style arcade game for iOS that I made, CurveBall VR! Feedback, reviews, and suggestions would be extremely welcome.",https://itunes.apple.com/us/app/curveball-vr/id1109015169?mt=8
+17,2016-05-08 20:50:30+00:00,itunes.apple.com,https://www.reddit.com/r/virtualreality/comments/4igasp/please_try_out_my_new_3d_ponglike_arcade_game_for/,False,,virtualreality,"Please try out my new 3D pong-like arcade game for iOS, CurveBall VR! Feedback, reviews, and suggestions would be extremely welcome",https://itunes.apple.com/us/app/curveball-vr/id1109015169?mt=8
+18,2016-05-05 17:28:04+00:00,self.CurveBallVR,https://www.reddit.com/r/CurveBallVR/comments/4i0yiq/support_and_help_use_this_thread_for_questions/,False,Please reply to this thread for any questions you have or support you need regarding CurveBall VR.,CurveBallVR,Support and Help. Use this thread for questions regarding CurveBall VR,https://www.reddit.com/r/CurveBallVR/comments/4i0yiq/support_and_help_use_this_thread_for_questions/
+19,2016-05-05 15:43:51+00:00,itunes.apple.com,https://www.reddit.com/r/GoogleCardboard/comments/4i0gqc/please_try_out_my_new_3d_ponglike_arcade_game_for/,False,,GoogleCardboard,"Please try out my new 3D pong-like arcade game for iOS, CurveBall VR! It just hit the app store this morning and feedback, reviews, suggestions would be extremely welcome",https://itunes.apple.com/us/app/curveball-vr/id1109015169?mt=8
+20,2016-05-05 15:33:41+00:00,itunes.apple.com,https://www.reddit.com/r/CurveBallVR/comments/4i0f3z/get_curveball_vr_now_for_ios_great_for_google/,False,,CurveBallVR,Get CurveBall VR now for iOS! Great for Google Cardboard or any other VR viewer,https://itunes.apple.com/us/app/curveball-vr/id1109015169?mt=8

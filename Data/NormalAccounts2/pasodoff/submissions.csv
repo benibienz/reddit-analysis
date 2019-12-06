@@ -1,0 +1,100 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-10-31 21:06:44+00:00,self.smallbusiness,https://www.reddit.com/r/smallbusiness/comments/5aezud/do_you_need_a_licence_to_sell_imported_alcoholic/,False,"I'm looking to import, from the EU, and sell alcoholic food in the UK online. Can anyone point me in the correct direction to some documentation?",smallbusiness,Do you need a licence to sell imported alcoholic food in the UK?,https://www.reddit.com/r/smallbusiness/comments/5aezud/do_you_need_a_licence_to_sell_imported_alcoholic/
+1,2016-09-23 10:09:17+00:00,youtu.be,https://www.reddit.com/r/london/comments/5440b8/what_is_this_rhetoric_spouting_boat_on_the_thames/,False,,london,What is this rhetoric spouting boat on the Thames?,https://youtu.be/1M6EdcHlgNU
+2,2016-09-07 22:01:46+00:00,imgur.com,https://www.reddit.com/r/popping/comments/51nuz2/couple_of_wks_ago_dropped_a_5ltr_glass_bottle_on/,False,,popping,Couple of wks ago dropped a 5ltr glass bottle on my toe. SO CLOSE,http://imgur.com/HUNuCz2
+3,2016-05-09 18:42:58+00:00,self.pcbuilder,https://www.reddit.com/r/pcbuilder/comments/4il0kh/to_upgrade_or_not_to_upgrade/,False,"After failing to get very good performance (12-18fps at 1080p) with games running the unreal 4 engine (The Culling) I'm considering upgrading or maybe biting the bullet and just purchasing a new machine.
+
+###Current Specs:
+ - [GA-H55N-USB3](http://www.gigabyte.com/products/product-page.aspx?pid=3455)
+ - i3 540 @ 3.07Ghz
+ - 4GB DDR3 1666 
+ - [Radeon HD7870](http://gpuboss.com/graphics-card/Sapphire-Radeon-HD-7870)
+ - Samsung 2.5 inch 250 GB 850 EVO Solid State Drive
+
+Is it worth spending 100pounds ~ USD144 on
+
+ - 4GB more ram
+ - a used Intel Core i7-860 LGA1156
+
+Or is that likely not to provide much benefit? 
+
+edit: added SSD, formatting ",pcbuilder,To upgrade or not to upgrade,https://www.reddit.com/r/pcbuilder/comments/4il0kh/to_upgrade_or_not_to_upgrade/
+4,2016-03-09 21:47:34+00:00,imgur.com,https://www.reddit.com/r/mildlyinteresting/comments/49qd0o/handles_for_raising_the_seat/,False,,mildlyinteresting,Handles for raising the seat,http://imgur.com/km1Fmkz
+5,2016-02-22 08:41:04+00:00,imgur.com,https://www.reddit.com/r/technology/comments/46zyto/welcome_email_from_uk_internet_provider_ee/,False,,technology,"Welcome email from UK internet provider, EE, guarantees 0Mb/sec",http://imgur.com/oKAsUrK
+6,2016-02-20 13:26:57+00:00,self.VPN,https://www.reddit.com/r/VPN/comments/46q2dt/openvpn_connection_sharing_through_android_501/,False,"So I spent the entire morning attempting to share my OpenVPN client connection on my rooted Nexus 5 (`5.0.1`) over hotspot.
+
+I understand the concepts but i'm not familiar enough with `iptables` and `ip rules` to  grasp whats going on.
+
+I have successfully setup an OpenVPN server on my ""cloud server"". Confirmed OpenVPN Connect android client connect successfully.
+
+I'm able to connect to my phone's wifi network but traffic is not being routed through the VPN tunnel. 
+
+I have configured the following iptable rules as suggested on a number of [forums](http://forum.xda-developers.com/showpost.php?p=39654892&amp;postcount=31) [posts](http://kingoftweaks.blogspot.co.uk/2014/03/wifi-hotspot-through-vpn.html?m=1)
+
+    iptables -t filter -F FORWARD
+    iptables -t nat -F POSTROUTING
+    iptables -t filter -A FORWARD -j ACCEPT
+    iptables -t nat -A POSTROUTING -j MASQUERADE 
+
+When the VPN tunnel is enabled the ip rules look as follows:
+
+    root@hammerhead:/ # busybox ip rule show
+    0:      from all lookup local
+    10000:  from all fwmark 0xc0000 lookup 99
+    11000:  from all iif tun0 lookup 97
+    12000:  from all fwmark 0xc0065 lookup main
+    12000:  from all lookup main
+    13000:  from all fwmark 0x10063 lookup 97
+    13000:  from all fwmark 0x10064 lookup 234
+    13000:  from all fwmark 0x10065 lookup main
+    13000:  from all fwmark 0x10065 lookup main
+    13000:  from all fwmark 0x10067 lookup 235
+    14000:  from all lookup 234
+    14000:  from all lookup main
+    14000:  from all lookup 97
+    14000:  from all lookup 235
+    15000:  from all lookup 99
+    16000:  from all lookup 98
+    17000:  from all lookup 97
+    18000:  from all iif wlan0 lookup 235
+    19000:  from all fwmark 0x64 lookup 234
+    19000:  from all fwmark 0x67 lookup 235
+    21000:  from all fwmark 0x65 lookup 234
+    22000:  from all lookup 234
+    23000:  from all lookup main
+    32000:  from all unreachable
+
+From hours of reading it looks like all traffic not local to the phone goes to the 4g interface rather than the tun0 (VPN Tunnel).
+
+It was suggested that the following commands would fix this:
+
+    ip route add default dev tun0 scope link table 61
+    ip route add 192.168.43.0/24 dev wlan0 scope link table 61
+    ip route add broadcast 255.255.255.255 dev wlan0 scope link table 61
+
+(As I saw no indication of a table 61 or 60 so I replaced 61 with 97, fail?)
+
+This resulted in the following errors:
+
+    root@hammerhead:/ #  ip route add default dev tun0 scope link table 97
+    root@hammerhead:/ # ip route add 192.168.43.0/24 dev wlan0 scope link table 97
+    RTNETLINK answers: File exists
+    
+    root@hammerhead:/ # ip route add broadcast 255.255.255.255 dev wlan0 scope link table 97
+    Error: argument ""table"" is wrong: invalid ""scope"" value
+
+I feel a little out of my depth but also that i'm pretty close. Any help or suggestions would be amazing!?  ",VPN,OpenVPN Connection sharing through Android 5.0.1?,https://www.reddit.com/r/VPN/comments/46q2dt/openvpn_connection_sharing_through_android_501/
+7,2015-12-31 16:41:33+00:00,i.imgur.com,https://www.reddit.com/r/Ingress/comments/3yxclx/ingress_first_world_problem/,False,,Ingress,Ingress First World Problem,http://i.imgur.com/nkWqn48.png
+8,2015-10-31 13:11:53+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/3qymxd/reddit_help_what_is_this_thing_inside_my_new_flat/,False,[removed],AskReddit,Reddit! Help! What is this thing inside my new flat door?,https://www.reddit.com/r/AskReddit/comments/3qymxd/reddit_help_what_is_this_thing_inside_my_new_flat/
+9,2015-10-31 13:01:52+00:00,imgur.com,https://www.reddit.com/r/Locksmith/comments/3qylz2/help_just_moved_into_a_new_flat_what_is_this_and/,False,,Locksmith,Help! Just moved into a new flat. What is this and why does it have I high pitch ringing noise? And how do I stop it?,http://imgur.com/FIawaEe
+10,2015-10-03 11:20:41+00:00,self.BudgetAudiophile,https://www.reddit.com/r/BudgetAudiophile/comments/3nbzv3/whats_a_nonaudiophiles_digital_amp/,False,"I'm looking for an amp to power two B&amp;W DM601 S3 book shelf speakers. 
+
+http://imgur.com/SpEa2AP
+
+I snagged them in a garage sale. I'm on a tight budget and don't know a lot about audio equipment. Everything I listen to is obtained online. Either streaming from Spotify, MixCloud, NPR App or digital downloads. I have a number of devices; ipad, hackintosh, android phone, raspberryPI and fireTV + Kodi. It would be great to connect the fireTV to the amp through optical connect but also be able to connect via bluetooth, airplay or headphone jack.  Any suggestions would be very much appreciated :).
+
+ I have a small apartment I'd like to fill with music :)
+
+PS: what's with the dual inputs on the back of the speakers in the picture? Total noob here...",BudgetAudiophile,Whats a non-audiophile's digital amp?,https://www.reddit.com/r/BudgetAudiophile/comments/3nbzv3/whats_a_nonaudiophiles_digital_amp/
+11,2015-09-03 08:14:24+00:00,imgur.com,https://www.reddit.com/r/funny/comments/3jgqtc/is_there_a_p_ennis_in_the_house/,False,,funny,"""Is there a P. Ennis in the house?""",http://imgur.com/zosCIxD
+12,2015-07-20 07:52:07+00:00,youtu.be,https://www.reddit.com/r/videos/comments/3dx8f3/demolition_win/,,,videos,Demolition Win,https://youtu.be/nJofIpZvdVY

@@ -1,0 +1,378 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Wow, thank you so much- very helpful.
+Some of that is going over my head because I'm still pretty new to Python, but I get what you mean about sticking with either an OOP or FP approach.
+
+Strangly enough, using 
+
+wob = draw_Weather() 
+
+vs 
+
+draw_Weather() 
+
+for the initial call to draw_Weather() produces the image (for a moment). So it appears you are onto something with referencing the function this way. I removed the WeatherClass call I was using for testing, but it didn't seem to change the flow of the program (though I do see your logic there).
+
+I'll keep playing with it and let you know if/ when I find a solution :)",2016-11-22 04:30:12+00:00,daakttw,6.0,t1_da9efqv,59869.0,Tkinter
+1,"Huh, that gives an interesting result.
+
+The image and the text both show up for the first update cycle, then the image goes away after the 2nd. 
+
+[This](http://pastebin.com/BW4HREVh) is what it looks like with your suggestions.",2016-11-21 02:55:46+00:00,da90ppc,4.0,t1_da8z17i,2357.0,Tkinter
+2,That's some good programming.,2016-11-21 00:13:46+00:00,da8ua6s,1.0,t3_5dyiow,30927.0,Eyebleach
+3,"Wow, that was a quick response.
+
+&gt; Make sure that the variable which references to the image, in turn, has something referencing it -- usually as an attribute of the main app class (Tk or Window or Frame)
+
+Ah, that does make sense. I understand what you mean, but I followed the same logic making the icon as I did the text, so I'm not sure why it's being lost when garbage collection takes place.
+
+[This](http://pastebin.com/LtVhkuR0) is what the main class looks like.
+And [this](http://pastebin.com/FZSAADSb) is what the weather class looks like.
+
+I don't seems to be able to find the thing referencing the text, preventing it from being collected that the image lacks.
+
+I'll keep looking
+",2016-11-21 00:11:05+00:00,da8u5um,2.0,t1_da8t4cd,1443.0,Tkinter
+4,"Looks like you were on the right track.
+
+Moved even more of the owm calls into the function that was being updated, that did the trick.
+
+The image only shows up for a brief second during the update period, then disappears, but it's a good step in the right direction.
+
+Thank you for the pointers :)",2016-11-20 22:09:17+00:00,da8ot9s,,t1_da7r6sq,68170.0,learnpython
+5,"I tried that also; still no dice.
+Glad to hear that it's probably not something I'm doing wrong.
+I'll keep working on it.",2016-11-20 03:31:18+00:00,da7rtqt,,t1_da7r6sq,1091.0,learnpython
+6,"I let it run overnight (kept the same results after printing them out every 5 minutes). Ran it again in a new terminal window, temp had changed quite a bit. Thank you for the quick response, btw.",2016-11-20 02:12:48+00:00,da7ozlf,,t1_da7ohqi,822.0,learnpython
+7,"Alright, another question.
+
+I updated the weather.py script in an attempt to get updated weather data (while the widget is updating, the contents of it weren't, so I added a def to the WeatherClass in an attempt to call it whenever the widget is updated, providing updated weather info.
+
+It is returning results, but they too aren't being updated. Guessing that I am using self in an incorrect way?",2016-11-20 01:50:35+00:00,da7o6sa,,t1_da35clq,,learnpython
+8,"Thank you! I've been trying to figure out the 1 pixel boarder issue for a while.
+I definitely need to get more familiar with classes, up until now I had just been writing a bunch of def's for everything.",2016-11-16 23:34:17+00:00,da3gvaw,4.0,t1_da35clq,14244.0,learnpython
+9,"Thank you for the input, very helpful :)
+
+I'm starting to get familiar with class structures, but am still pretty new to them in Python.
+
+[Here](https://github.com/G-I-S-H/SmartMirror) is a link to my repo, if you're interested.",2016-11-16 06:18:37+00:00,da2fs9w,2.0,t1_da1gq4w,47420.0,learnpython
+10,"Haha, thanks for the feedback :)",2016-11-15 05:39:40+00:00,da0xiav,2.0,t1_d9ye5le,145113.0,learnpython
+11,"Of course. I plan on staying within FCC guidelines, I just thought that was the terminology for a DIY radio. My mistake. Thank you for the information :)",2016-10-29 00:07:01+00:00,d9c67i9,,t1_d90d9e3,,learnpython
+12,"Thank you for the tip, very helpful.
+
+I found a couple directories where I see python folders.
+When I type which python into my terminal, I get /usr/bin/python, and when I navigate there, I see the Python and openCV_haartraining/ openCV_traincascade files , but it doesn't seem I can just put the .xml files here.
+
+Trying to follow [this guys](http://pushbuttons.io/blog/2015/4/27/smile-detection-in-python-opencv) tutorial which does show the fully qualified paths, but he uses directories he created it looks like.
+
+EDIT: I set the full path of the directory they were already in (where my .py file is) and the faces are working, but still nothing for the smiles. 
+
+EDIT AGAIN: I think I figured it out. For some reason changing the scale factors yesterday didn't seem to do the trick, but it is today..must have found the right numbers :P thank you again!",2016-10-09 20:36:37+00:00,d8kw2e4,4.0,t1_d8kczpr,30056.0,learnpython
+13,"Thank you for the hints. I have the haarcascade_smile.xml in the same directory as where my .py file lives.
+
+The weird thing is if I change the haarcascade_smile.xml to the frontal_face_default.xml, it draws a box around my face.",2016-10-09 04:52:49+00:00,d8k4k8d,2.0,t1_d8k203u,4782.0,learnpython
+14,Any higher res for a background?,2016-10-09 03:25:25+00:00,d8k1qye,1.0,t3_56js9j,11953.0,pics
+15,"Thank you for the information. I am going for my bachelors degree in Computer Science (it will be my first degree). I am working in IT as an intern, and if/ when I get my BS, I may be able to transfer to a permanent position here as a software developer. Not sure what other information may be pertinent, but I may just not write off anything just to be safe..I will continue to log the miles though, in the event that I find something in the resources you guys have listed. ",2016-09-23 01:04:01+00:00,d7y9hx4,4.0,t1_d7y6mxh,4317.0,tax
+16,Thank you for the information!,2016-09-23 01:02:37+00:00,d7y9fqq,2.0,t1_d7y5pdd,5673.0,tax
+17,"Thank you for that.
+
+What about school commuting?",2016-09-22 21:41:59+00:00,d7y1dnc,2.0,t1_d7xzcw8,2738.0,tax
+18,Yup. I'm one of them.,2016-09-07 23:58:41+00:00,d7divpt,7.0,t1_d7dilp5,429.0,creepy
+19,Thank you! Very helpful.,2016-09-05 11:56:52+00:00,d7a5vac,2.0,t1_d7a56o3,2332.0,learnpython
+20,"I posted there before here. No responses. I got it figured out though, thanks.",2016-09-04 21:02:19+00:00,d79iemh,2.0,t1_d78zkza,37108.0,Python
+21,"Wow, I feel like such a noob -_-
+I wasn't running my cmd / bash as admin.
+Everything is working now.
+Thank you all so much.",2016-08-22 07:01:34+00:00,d6rl4ky,2.0,t1_d6owvxc,189765.0,learnpython
+22,"Yeah, based on those ears/ tail flicking, that cat was in attack mode.",2016-08-21 20:47:17+00:00,d6r017z,2.0,t1_d6qtn3d,9526.0,aww
+23,"Thank you for the response!
+
+I changed this line as follows:
+
+proc = Popen(['ping',  '-c1', serverNames[i].strip()], stdout = PIPE, stderr = PIPE)
+
+Still get the same response though. 2's all around.",2016-08-20 06:39:10+00:00,d6p4nfq,2.0,t1_d6owvxc,15621.0,learnpython
+24,"Good point.
+For some reason only google is pingable (maybe because I'm using Google's DNS.
+I get responses to my own address in console and to localhost, but I don't in my Python prog, all give result of 2",2016-08-19 06:15:09+00:00,d6nqrlw,2.0,t1_d6njys2,12516.0,Python
+25,"Thank you for the response.
+This still gives me 2's, but I appreciate the feedback.",2016-08-19 02:29:20+00:00,d6njajf,2.0,t1_d6md6zl,64418.0,Python
+26,"ICMP gives undesirable output for each ping; using subprocess allows me to see what I am looking for, and only that.",2016-08-19 02:04:12+00:00,d6niatf,2.0,t1_d6mcepr,65508.0,Python
+27,Windows (running bash through cmd),2016-08-19 02:03:11+00:00,d6ni9c6,2.0,t1_d6mbhgb,68250.0,Python
+28,Thanks for the feedback!,2016-08-18 03:13:46+00:00,d6m4x13,2.0,t1_d6kvo41,68729.0,Python
+29,"Great advice, thank you!",2016-08-18 03:13:36+00:00,d6m4wt2,2.0,t1_d6l0w1k,53440.0,Python
+30,"Worked like a charm! Thank you.
+Just for my understanding (I'm mainly doing this project to stay fresh before the semester starts), what is the stdout = PIPE and stderr= PIPE doing?
+
+I'm guessing it's directing the output to PIPE, which we're not using for anything, thus it doesnt show up, and stderr..not quite sure.
+
+Thank you again!
+
+EDIT: Also, I noticed with this modification, all my responses say the host are down. Is there a different condition you need to check when using subprocess?",2016-08-18 03:13:30+00:00,d6m4wny,2.0,t1_d6l7y5x,42740.0,Python
+31,"First of all, I was directed to post here by the bot.
+
+I'm comfortable with Java, and have some experience with android studio, but am wondering how hard it would be to create an app to test the current charge (%) of a lithium battery using a bluetooth adapter. 
+
+I would image this would be a pretty tricky task, but was wondering if anyone could give me a breakdown of what would be involved.
+
+1) Create app that can communicate with some sort of bluetooth receiver and retrieve 'meaningful' data from it
+
+2) Somehow connect the bluetooth adapter to the battery? Extract data?",2016-07-17 10:31:18+00:00,d5fi4ty,1.0,t3_4t4adx,80780.0,androiddev
+32,"Very helpful, I'll give this a shot.
+Thank you :)",2016-07-01 02:41:34+00:00,d4uuyqc,2.0,t1_d4uuohh,475.0,learnpython
+33,"How well does your 3 do for BOINC? What projects/ how long per task?
+
+It's pretty cheap for a quad core processor, but idk how well ARM would hold up to heavier tasks (like SETI)",2016-06-27 05:13:38+00:00,d4pi5wm,2.0,t1_d4ozb19,31240.0,gridcoin
+34,"Thanks for the feedback-
+
+That seems to work, but also has the same bug as before where every 1 out of 3 (or so) runs will result in the .txt being blank",2016-06-24 05:29:51+00:00,d4lvwil,4.0,t1_d4luxan,1831.0,learnpython
+35,"But that would just append all the values together?
+I'm only wanting to have the last calculated value in the .txt
+
+So if the primes are:
+
+5
+
+7
+
+11
+
+I'd want the .txt to just have 11, not 5711",2016-06-24 04:22:58+00:00,d4ltnhr,2.0,t1_d4ltfk8,355.0,learnpython
+36,"I guess the tone didn't translate very well to text :P
+I meant to say the first quote insinuating that ""You're not forced to tip, but it's a generally accepted practice.""
+
+I think it came off like I was actually asking if tipping was required.",2016-05-18 05:29:18+00:00,d39vv9l,5.0,t1_d39vhhy,901.0,pics
+37,That's exactly why the restaurant I work at doesn't include gratuity. Gratuity being included on the bill encourages us (the servers) to not try as hard.,2016-05-18 04:48:22+00:00,d39usbl,5.0,t1_d39tpi8,2160.0,pics
+38,"Tipping isn't really required anywhere, right? Unless you have a large party, it's generally not included on the bill. Just a nice thing to do.
+
+Edit: I'm a server, so I more than realize that gratuity is where almost all of our income comes from. Just trying to point out that you shouldn't be eating out if you cannot afford to tip. I know some of you will dislike that view, but as someone who relies on the gratuity of others to pay my bills, eat at home if you can't afford the 19%.",2016-05-18 04:04:47+00:00,d39tgl7,3.0,t1_d39sf7e,1830.0,pics
+39,Thank you!,2016-05-17 00:44:58+00:00,d387grw,4.0,t1_d37ci71,49018.0,learnpython
+40,That cheese looks like plastic.,2016-05-16 22:05:31+00:00,d381bf7,1.0,t3_4jmm3j,11972.0,pics
+41,These phishers start early.,2016-05-16 10:26:12+00:00,d37brsm,1.0,t3_4jiz2r,32811.0,funny
+42,"This works! Thank you so much!
+
+The only problem is that I am unable to strip out the ' character, because the argument thinks that I am trying to tell it that I am ending the statement when I enter '.
+
+For example, I have:
+
+word = word.strip('!@#$""%^&amp;*()_+-=`~&lt;&gt;,.?/:;')
+
+but if I enter a ' in the middle of all that, it ignores all my code after that point, if that makes sense.",2016-05-16 10:22:40+00:00,d37bpqw,2.0,t1_d3685id,80647.0,learnpython
+43,"-Yes, of course
+-Yes.
+
+Today, all of a sudden the magnitude is back to normal (not sure if it was the beacon being re-advertised, or something else). Thank you for the ideas!",2016-05-14 20:35:11+00:00,d35ldny,4.0,t1_d356ljp,28693.0,gridcoin
+44,"-My client is synced up, but I'm not sure which of those 3 it is synced with
+
+-When I go to advanced and click neural network, nothing happens :o
+
+-I just recently (last night) sent out my beacon again; as of yet, there has not been any changes resulting from this.
+
+-My cpid hasn't changed.",2016-05-14 09:26:58+00:00,d353gju,2.0,t1_d345tzi,63003.0,gridcoin
+45,Didn't know that. Just advertised my beacon again (it's probably been around 6 months since I've done it). I'll see if it helped after the next superblock :),2016-05-13 11:21:56+00:00,d33w4ez,3.0,t1_d33v35w,3205.0,gridcoin
+46,"Just tried advertising it. No immediate changes other than the small charge for sending the beacon, but maybe it takes a while to resolve.",2016-05-13 11:21:12+00:00,d33w3u4,3.0,t1_d33v2bg,3241.0,gridcoin
+47,"Well, I guess it's good that I'm not alone! Heh.",2016-05-13 09:50:43+00:00,d33ufpd,2.0,t1_d33tmmb,2965.0,gridcoin
+48,For list rsa I get [this](http://pastebin.com/zLn9NCyT),2016-05-13 08:26:39+00:00,d33t21x,2.0,t1_d33nxb0,14129.0,gridcoin
+49,"I picked up a [mad catz pro](http://www.amazon.com/Mad-Catz-Pro-Controller-Xbox-360/dp/B00INT75HQ) for my PC, and was actually pretty impressed. Took them 20+ years to get their shit together.",2016-05-13 01:32:59+00:00,d33hiez,1.0,t3_4j2lib,19398.0,gaming
+50,Thanks! Good job focusing on your finals as well. It will just make it all the better when we're free to indulge again.,2016-05-12 22:53:30+00:00,d33bmc3,2.0,t1_d330c9i,15501.0,trees
+51,Thank you!,2016-05-07 07:55:12+00:00,d2w5vvv,2.0,t1_d2uzgsr,74975.0,gridcoin
+52,"Good thing everyone keeps digital records, so there is a redundancy to protect against this kind of thing, right? RIGHT!?",2016-03-20 07:30:12+00:00,d16j9yb,1.0,t3_4b53xb,32217.0,news
+53,Thanks!,2016-03-14 23:50:33+00:00,d0zzuu1,2.0,t1_d0zb970,35786.0,sqlite
+54,"Ah, good points, thank you.",2016-03-11 08:08:48+00:00,d0vrp6q,6.0,t1_d0vq3rf,4880.0,javahelp
+55,"&gt; ArrayList&lt;Integer&gt; newBucket = new ArrayList&lt;Integer&gt;(A.size());
+
+[Like so?](http://pastebin.com/8zeYThXi)
+
+I get the crash on the first itteration
+
+newBucketSize:5 A Size: 5
+java.lang.IndexOutOfBoundsException: Index: 5, Size: 5    
+
+UPDATE: It seems to work just fine when there are 10 or more entries. That's a little more encouraging. I'll figure this out and keep you posted.",2016-03-11 08:08:09+00:00,d0vrosh,6.0,t1_d0vq0ul,5065.0,javahelp
+56,"Alright, I'm stumped.
+
+I printed out the values to make sure that my containers were actually holding things (which they are), and I tried following the logic as I'm passing in values into my ""sortTest"" function, but I still get an index out of bounds, and I have no idea why.
+
+I'm testing with values between the range of 1-5 (I have the maxVal hard coded to 5 for now), and after entering 5 values, both ""A"" and ""newBucket"" have 5 values, as they should.
+
+I'm thinking it must be when trying to reference a position in the ArrayList that I am hitting this out of bounds issue, because an ArrayList should automatically resize itself when adding to it.
+
+[This is what my code looks like](http://pastebin.com/y4Bt4Uy4), if you're curious.
+
+The issue occurs on line 39 while trying to increase the value of that particular ""bucket"".",2016-03-11 06:08:29+00:00,d0vp7l4,4.0,t1_d0vmm7t,5615.0,javahelp
+57,"I was close! Thank you for breaking it down for me. 
+
+That makes sense, but I'm getting an IndexOutOfBounds issue with that line (you actually helped me a bit last night with that code).
+
+I'll keep playing with it to see if I can identify what the issue is.
+
+Thank you again.",2016-03-11 04:33:12+00:00,d0vmka5,2.0,t1_d0vl7gu,2428.0,javahelp
+58,"Very helpful, thank you guys for the responses!",2016-03-11 04:08:27+00:00,d0vlr8o,1.0,t3_49wz1p,1472.0,javahelp
+59,"Doh! Wait, I may have realized something :)",2016-03-10 06:03:30+00:00,d0uf8zj,3.0,t1_d0uf70x,119.0,javahelp
+60,"Thank you for the response!
+
+I took your advice and tried printing out those values, and I see that while my inputCount is accurate, my bucket still shows a value of 0, so they are not being added to the bucket ArrayList.
+
+The line of code that should be doing this is the same one that is causing the index issues 
+
+//bucket.set bucket.get(inputValues.get(i)), bucket.get(inputValues.get(i) +1));
+
+Using a regular array, that should be something like
+//bucket[a[i]]++;//a is input values
+
+I'm wondering if I'm using the ArrayList functions properly to mirror that example",2016-03-10 06:01:31+00:00,d0uf70x,2.0,t1_d0ud6n6,4153.0,javahelp
+61,Higher res for background? :D,2016-02-20 09:14:28+00:00,d06wljp,1.0,t3_46n2fx,40374.0,EarthPorn
+62,lol'd,2016-02-05 21:19:05+00:00,czpa8i5,5.0,t1_czoq55n,33082.0,gifs
+63,Postfix notation for not poetry?,2016-02-05 11:38:14+00:00,czopnam,3.0,t1_czopjxk,363.0,gifs
+64,"So, you've already helped me a ton (don't feel obligated to respond), but I think I am nearing a solution and am having an issue iterating. All of the tutorials I'm seeing give examples on how to iterate using the built in LinkedList container, but no helpful ones where you're ""reinventing the wheel"". 
+
+I now have it set up a lot more efficiently I think, to where:
+
+-User enters input
+
+-Input is sent to my push() function (which then inserts it into the front of my Linked List) and this is repeated for all values entered.
+
+After the values have been entered, I am calling my pop() function, the goal of which is to read the values from the list from first to last.
+The problem I am having is that the function I am using to iterate through my list and read out the results is only giving me the last result entered (I guess its nice that its giving me something..)
+
+**Stack class:** http://pastebin.com/C7qnQF7M
+
+**List class:** (The iterator function starts at line 53) http://pastebin.com/CZcc39Pm
+
+**Main**: http://pastebin.com/9ngnMW2B
+",2016-02-01 10:50:41+00:00,czjktua,,t1_czilcen,,javahelp
+65,"Yeah, I guess I'm not supposed to be using containers like the built in stack, I'm supposed to use the list and code the push and pop.
+Ay carumba.",2016-02-01 01:49:45+00:00,czj832u,,t1_czilcen,,javahelp
+66,"I've got a i7 4790k / GTX 970.
+
+Hoping this is enough for the Rift, because if not, there's no way I could afford an upgrade to a 980/ 980ti.",2016-01-31 09:07:37+00:00,czifu5g,1.0,t3_400yok,1973810.0,Vive
+67,"Hm, well since I'm using (and required to use) a insert front method with my list, the numbers are entered backward into the list, and the the stack reverses them back to the original.
+
+so if I enter 1, 2, 3 (since its insert front) the list will read 3, 2, 1
+Then when I push them to stack and pop them, it will become 1, 2,  3 again. I'll have to see how my professor wants this dealt with.
+
+Thank you again for your help.",2016-01-31 09:03:52+00:00,czifs24,10.0,t1_cziffm4,1343.0,javahelp
+68,"All the assignment says is that the stack class must have a push and pop method.
+
+I seem to have gotten it working (somewhat) by passing in a value to my push method.
+
+It's strange though, my values are printed in the same order they are entered (not last in first out). But when I push values manually (the commented out values in the push method) they come out in reverse order as desired. 
+
+**List class:** http://pastebin.com/TLbwaBFG
+
+**Stacker class:** http://pastebin.com/D88uj4U4",2016-01-31 08:28:22+00:00,czif7vb,8.0,t1_czicgkm,8556.0,javahelp
+69,"&gt;Why does your push method create a brand new stack?
+
+Because I saw it done on a tutorial that way (never dealt with stacks before, heh). Fixed.
+
+&gt;But why do you need a listEntries method, anyway? You already have a list, don't you? Isn't your listEntries method part of your list class?
+
+Yes, the listEntries() is a part of my List class. I guess I don't really need it. I thought I would, so that I could convert between by linknode objects and doubles (to avoid the jumbled strings from being printed)
+
+&gt;I guess you have some kind of linked list of Doubles, is that right? And you want to push them onto a stack of Doubles, and then pop them off in the reverse order. Is that right?
+
+That is exactly right
+
+&gt;What is the purpose of the Stacker class? Why don't you just use a java.util.Stack?
+
+Because my assignment specifies that I must use a seperate class for the stack, and I do use java.util.Stack within that class.
+
+**Here is the entire List class:** http://pastebin.com/zwc2DmNV
+
+**Stacker class:** http://pastebin.com/59pfc2Wx
+",2016-01-31 06:02:45+00:00,czice2t,6.0,t1_czibfpl,2296.0,javahelp
+70,"I basically made the listEntries() method to iterate through my Linked List and return the results one at a time to be pushed into the stack (good point about push() taking arguments) 
+
+I modified my stack to be a List stack instead of a Double stack (not sure if that was a good move), and made push take a list argument.
+
+New Stacker: http://pastebin.com/xEaxN6GN
+
+New listEntries: http://pastebin.com/BLjJ7um1
+
+**New output:** List@5c647e05
+
+Would you say I'm on the right track?",2016-01-31 05:14:45+00:00,czib6it,4.0,t1_cziad6o,1833.0,javahelp
+71,"Hm, alright. So I need a way to iterate through my link list and keep pushing values to the stack.
+
+I thought my while loop (line 10 of listEntries()) would make that happen.
+",2016-01-31 04:39:18+00:00,czia8cb,2.0,t1_czi8er1,3822.0,javahelp
+72,"ooo, great point. Unfortunately, I'm using a GNU/ Linux server at my school that is running JRE 7 :( That is still good to know though, thank you.",2016-01-30 22:46:44+00:00,czhz73i,8.0,t1_czhjgq3,31058.0,javahelp
+73,"Oh, sorry about that:
+http://pastebin.com/eAssBHRJ
+
+Wondering why using if(current != null){} or if(size == 1) {} still give a NullpointerException (more specifically the NullPointer seems to be happening at line 9.
+
+Edit: Figured it out. That's usually how it goes. Ask someone, and realize your mistake immediately. Thanks again :)",2016-01-30 12:03:33+00:00,czhhaww,6.0,t1_czhgwfb,1751.0,javahelp
+74,"I've noticed this too, but as /u/Scalextrix pointed out, sometimes not all attention is good.",2016-01-30 11:03:01+00:00,czhgid4,1.0,t3_43b9fj,44998.0,gridcoin
+75,"I had one more question.
+
+I fixed the first element issue (you were right again), but I am trying to make a conditional statement to prevent a NullPointerException if the list is empty
+
+This is what my toString() looks like now: http://pastebin.com/FvWYk70k
+
+I have tried using if(current != null) {}, but still get a NullPointer",2016-01-30 07:30:48+00:00,czhdgfh,4.0,t1_czh4kld,20889.0,javahelp
+76,"Ah, very good point- hadn't thought of the generic toString implementation being inherited.
+
+Short of learning the debugging system in Eclipse (which I should learn one of these days anyways), is there maybe an easier way I'm not seeing to print values from my linked list (rather than overwriting toString)?
+
+I want to start pushing values onto a stack, but feel that would be a mistake before I know that things are working correctly.
+
+EDIT: I took your advice and overwrote toString() in my List class by adding this
+
+http://pastebin.com/WzHp7PCk
+
+I got a result printed! (Even though its just the first item in the list) 
+Thank you for the feedback. Just needed some fresh eyes :)",2016-01-30 01:15:02+00:00,czh3pda,2.0,t1_czgzznf,6590.0,javahelp
+77,"Ah, because you're their spokesperson; I'll take your word for it.",2016-01-22 12:31:07+00:00,cz7oc78,6.0,t1_cz7nz0f,1183.0,Bitcoin
+78,"Thank you for the information, I think I'm going to give it a shot :P and I was thinking of solo mining..we'll see, might experiment.",2016-01-22 12:28:28+00:00,cz7oadx,4.0,t1_cz7m6l8,7950.0,BitcoinMining
+79,"The S1 does look like an amazing deal; I'm considering it :P
+
+The only problem is I have pretty close living quarters right now.
+
+I wonder if I'd be able to do a mineral oil submersion with it to minimize noise/ heat...haha",2016-01-22 09:49:47+00:00,cz7ltjk,2.0,t1_cz7lche,2793.0,BitcoinMining
+80,"Ah, thank you very much :)",2016-01-22 03:46:18+00:00,cz7dwp1,2.0,t1_cz7dn4o,482.0,Bitcoin
+81,"Not too concerned with making a profit, just want to support the concept of a decentralized system, and I'm primary solar based, so no worries of electricity",2016-01-22 03:29:58+00:00,cz7dd3k,4.0,t1_cz7bcfl,3441.0,Bitcoin
+82,"Haha, wow, lot of assumptions there, eh? 
+",2016-01-22 02:30:30+00:00,cz7b9mb,2.0,t1_cz7b7hx,100.0,Bitcoin
+83,Bird law!,2015-11-18 01:30:23+00:00,cx40k5m,6.0,t1_cx3xsc4,4571.0,gaming
+84,"Bahhh! :D
+Thank you for the help!",2015-11-17 20:10:54+00:00,cx3nyx8,8.0,t1_cx3ncvj,865.0,MathHelp
+85,[Getting closer?](http://i.imgur.com/tcvBcGa.jpg),2015-11-17 19:55:08+00:00,cx3nat4,6.0,t1_cx3h4q5,8616.0,MathHelp
+86,"That's what I build my computers for (besides gaming). It's nice to see where you rank, and get a little competitive while also contributing to projects you're interested in ;D
+
+You can also earn a bit of [grid coin](https://gridcoin.us/) (if you're into that kind of thing) by contributing to research rather then just hashing bitcoin.",2015-11-17 09:18:56+00:00,cx34itp,9.0,t1_cx2tt90,24599.0,Futurology
+87,"Ah, [like so?](http://i.imgur.com/GsgqVAY.jpg)",2015-11-17 09:05:21+00:00,cx34bs2,4.0,t1_cx33eru,3516.0,MathHelp
+88,"Ah, I think I see my mistake. 
+
+[Am I on the right track now? :)](http://i.imgur.com/Tdkgvz0.jpg)
+
+That seems pretty difficult to solve for 0, if that's the case.",2015-11-17 07:01:21+00:00,cx3280a,2.0,t1_cx2vys3,12940.0,MathHelp
+89,"Update: For anyone in the future that may be having a similar issue. After troubuleshooting almost everything I could, it turns out that it was the PSU. Threw in an old one and it fired right up. Won't name any names, but hopefully they come through with a RMA since it was &lt;6 months old.
+
+Thank you everyone for the ideas and input!",2015-11-16 10:16:13+00:00,cx1xtqm,1.0,t3_3sw0k6,80727.0,techsupport
+90,"I left it unplugged overnight, still the same thing :( I'll try using a different psu and report back",2015-11-15 22:06:47+00:00,cx1cvjo,2.0,t1_cx0uvfq,36697.0,techsupport
+91,"That makes sense (I showed that with the first derivative test). So, just to make sure I understand, there are no PI or concavity, because -1 / 2x^3/2 gives no values when set to 0 to find critical numbers?? ",2015-11-15 10:54:05+00:00,cx0u4lp,4.0,t1_cx0tgtc,3117.0,MathHelp
+92,"Thank you for the response. Yes, the 2nd derivative is given as that. The original was [f(x) = 2 sqrt(x) - x](http://www.wolframalpha.com/input/?i=2sqrtx+-+x).
+
+I thought the graph looked as if there was a PI at x = 1, but maybe I was mistaken.
+",2015-11-15 09:49:44+00:00,cx0tb0x,2.0,t1_cx0t3rn,925.0,MathHelp
+93,"Whoo! That feels good to get the right answer :P
+
+Thank you.",2015-10-23 21:18:55+00:00,cwaic01,2.0,t1_cw9yb9b,32551.0,MathHelp
+94,Pay off parents house.,2015-10-12 08:26:12+00:00,cvwqq4c,1.0,t3_3odbxm,42828.0,AskReddit
+95,"Thank you. I was able to correctly isolate dy/dx (I believe), and I ended up getting an answer, but it varies a bit from the answer I get on wolfram alpha.
+
+[My answer](http://i.imgur.com/16LKoAe.jpg)
+
+Wolfram alpha answer: 1/2(4+log(4))
+
+Anyone see if/ where I went wrong?
+
+Thank you guys again, I'll keep at it.",2015-10-12 07:41:16+00:00,cvwq2dk,4.0,t1_cvw4uup,41998.0,MathHelp
+96,"Ah, thank you both for the replies. It makes me feel a little better knowing that this isn't supposed to be an easy problem. 
+
+So, after isolating dy/dx and plugging in the (x,y) values I'm given, I should end up with the slope? :)",2015-10-11 19:58:39+00:00,cvw4qpw,2.0,t1_cvvxoxb,10957.0,MathHelp
+97,"You're not alone with the 0 magnitude issue. Anytime someone with an older version of the GRC client finds a superblock, it causes others mag to reset to 0 until the next superblock is found (by someone with a newer client). At least, that is my understanding.
+
+So **make sure your client is up to date peeps :)**",2015-10-08 05:16:04+00:00,cvs70dq,1.0,t3_3nvfgl,37943.0,gridcoin
+98,"Sorry, California.",2015-06-19 07:09:47+00:00,csbn4s5,2.0,t1_csbfo9x,18066.0,legaladvice
+99,"Thank you so much! I will let him know about this in the morning (and help him with the application, since he basically only knows how to turn on a computer.)",2015-06-19 07:09:39+00:00,csbn4p6,2.0,t1_csb9smc,29296.0,legaladvice

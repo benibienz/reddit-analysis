@@ -1,0 +1,99 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Cowboy Bebop? I like it. Feel like it ends too soon, that there is room for more complexity and a greater build up. ",2016-10-18 07:25:36+00:00,d8wxqn9,1.0,t3_57ukg1,111350.0,unheardof
+1,Pool chlorine tablets are much more expensive than the septic tank equivalent. The exact same product. ,2016-10-01 11:45:56+00:00,d89gtob,1.0,t3_559ft8,60721.0,Frugal
+2,Or how to avoid getting into unexpected scenarios...,2016-09-26 22:48:09+00:00,d83asq2,2.0,t1_d83996o,2216.0,videos
+3,"You are right! Its actually a combination of things. Bird and nature noises, marching, The Great Dictator, and Nelson Mandela Speeches. It just came by again.",2016-09-23 11:03:14+00:00,d7yp3qu,2.0,t1_d7yozsq,329.0,london
+4,Its playing a recording of [The Great Dictator](https://www.youtube.com/watch?v=Gaq62VCcnew) at full volume! ,2016-09-23 10:27:22+00:00,d7yofkk,1.0,t3_5440b8,1085.0,london
+5,You are right! In the end it just feel off in the shower... Still looks nasty: http://i.imgur.com/RLQDreY.jpg,2016-09-11 21:04:15+00:00,d7iokdm,,t1_d7dlcwf,,popping
+6,Wine... Duh! Like this http://i.imgur.com/VhinQpE.jpg,2016-09-11 21:00:58+00:00,d7iof0h,2.0,t1_d7i1c6y,38510.0,popping
+7,The soundtrack to the movie Drive is awesome : https://www.amazon.co.uk/Drive-Original-Motion-Picture-Soundtrack/dp/B007EU12SI,2016-08-23 17:45:47+00:00,d6tilrt,1.0,t3_4z4upy,45733.0,MightyCarMods
+8,How has no one said salt water crocodiles? We are their food. ,2016-07-31 06:31:32+00:00,d5y2i63,1.0,t3_4vdn5m,38800.0,AskReddit
+9,Australia. It's a thing. ,2016-07-26 14:07:29+00:00,d5rgtec,2.0,t1_d5rby7b,9059.0,todayilearned
+10,Would totally be there,2016-05-28 19:39:07+00:00,d3n8zja,1.0,t3_4lf73e,36352.0,MightyCarMods
+11,This,2016-05-16 07:17:37+00:00,d378tix,2.0,t1_d36v6w3,28148.0,survivetheculling
+12,Weird tan lines going on there,2016-04-24 14:15:26+00:00,d2fcicj,1.0,t3_4g757t,28027.0,survivetheculling
+13,Yes,2016-04-23 09:41:35+00:00,d2e4l9w,1.0,t3_4g28kk,15570.0,survivetheculling
+14,This,2016-04-23 09:14:19+00:00,d2e481p,3.0,t1_d2dxoq0,19878.0,survivetheculling
+15,Can you teach me?,2016-04-07 10:47:12+00:00,d1td2oa,3.0,t1_d1swqh0,36580.0,survivetheculling
+16,"Totally true. With each additional minute and kill the stakes get higher. The adrenalin increases. I have a feeling the pumping heart sound effects are a catalyst as well. 
+
+Wait... There are heart pumping sound effects right?!?",2016-04-02 17:37:49+00:00,d1n5q8d,1.0,t3_4d150m,22863.0,survivetheculling
+17,Thank you! Very insightful ,2016-03-17 09:17:36+00:00,d132fan,5.0,t1_d12yf6k,13886.0,dataisbeautiful
+18,Pissandles,2016-03-09 22:14:36+00:00,d0txkxj,2.0,t1_d0twgjr,1529.0,mildlyinteresting
+19,"So as _tech_junkie_ suggested there are easier ways to achieve connection sharing over vpn. 
+
+The only working mechanism I've found with android 5+ is to use [easytether](http://www.mobile-stream.com/easytether/).  I was able to successfully tunnel through my VPN from my hackintosh.  The best thing is that EasyTether supports OpenWrt-based routers. My next test will be to configure my Netgear WNR-3000 router. ",2016-03-06 09:40:16+00:00,d0pgyb1,1.0,t3_46q2dt,1282399.0,VPN
+20,"interestingly enough there does appear to be a change to the ip rule when seamless tunnel is applied. No idea if its favorable for me.
+
+With Seamless Tunnel:
+
+	root@hammerhead:/ # ip rule list
+	0:	from all lookup local
+	10000:	from all fwmark 0xc0000/0xd0000 lookup legacy_system
+	11000:	from all iif tun0 lookup local_network
+	12000:	from all fwmark 0xc006a/0xcffff lookup tun0
+	12000:	from all fwmark 0x0/0x20000 uidrange 0-99999 lookup tun0
+	13000:	from all fwmark 0x10063/0x1ffff lookup local_network
+	13000:	from all fwmark 0x10064/0x1ffff lookup rmnet0
+	13000:	from all fwmark 0x10069/0x1ffff lookup rmnet1
+	13000:	from all fwmark 0x1006a/0x1ffff uidrange 0-0 lookup tun0
+	13000:	from all fwmark 0x1006a/0x1ffff uidrange 0-99999 lookup tun0
+	14000:	from all oif rmnet0 lookup rmnet0
+	14000:	from all oif wlan0 lookup local_network
+	14000:	from all oif rmnet1 lookup rmnet1
+	14000:	from all oif tun0 uidrange 0-99999 lookup tun0
+	15000:	from all fwmark 0x0/0x10000 lookup legacy_system
+	16000:	from all fwmark 0x0/0x10000 lookup legacy_network
+	17000:	from all fwmark 0x0/0x10000 lookup local_network
+	18000:	from all iif wlan0 lookup rmnet1
+	19000:	from all fwmark 0x64/0x1ffff lookup rmnet0
+	19000:	from all fwmark 0x69/0x1ffff lookup rmnet1
+	21000:	from all fwmark 0x6a/0x1ffff lookup rmnet0
+	22000:	from all fwmark 0x0/0xffff lookup rmnet0
+	23000:	from all fwmark 0x0/0xffff uidrange 0-0 lookup main
+	32000:	from all unreachable
+
+Without Seamless Tunnel:
+
+	root@hammerhead:/ # ip rule list
+	0:	from all lookup local
+	10000:	from all fwmark 0xc0000/0xd0000 lookup legacy_system
+	11000:	from all iif tun0 lookup local_network
+	12000:	from all fwmark 0xc0068/0xcffff lookup tun0
+	12000:	from all fwmark 0x0/0x20000 uidrange 0-99999 lookup tun0
+	13000:	from all fwmark 0x10063/0x1ffff lookup local_network
+	13000:	from all fwmark 0x10064/0x1ffff lookup rmnet0
+	13000:	from all fwmark 0x10068/0x1ffff uidrange 0-0 lookup tun0
+	13000:	from all fwmark 0x10068/0x1ffff uidrange 0-99999 lookup tun0
+	13000:	from all fwmark 0x10069/0x1ffff lookup rmnet1
+	14000:	from all oif rmnet0 lookup rmnet0
+	14000:	from all oif tun0 uidrange 0-99999 lookup tun0
+	14000:	from all oif wlan0 lookup local_network
+	14000:	from all oif rmnet1 lookup rmnet1
+	15000:	from all fwmark 0x0/0x10000 lookup legacy_system
+	16000:	from all fwmark 0x0/0x10000 lookup legacy_network
+	17000:	from all fwmark 0x0/0x10000 lookup local_network
+	18000:	from all iif wlan0 lookup rmnet1
+	19000:	from all fwmark 0x64/0x1ffff lookup rmnet0
+	19000:	from all fwmark 0x69/0x1ffff lookup rmnet1
+	21000:	from all fwmark 0x68/0x1ffff lookup rmnet0
+	22000:	from all fwmark 0x0/0xffff lookup rmnet0
+	23000:	from all fwmark 0x0/0xffff uidrange 0-0 lookup main
+	32000:	from all unreachable",2016-02-21 09:40:13+00:00,d07zen9,3.0,t1_d07z4mk,1150.0,VPN
+21,"Thanks for the suggestion.  I tried the `seamless tunnel` option.  It appears to have no effect.  I'm unable to ping google's DNS servers from devices on the wifi network when the OpenVPN client is connected.  I'm running [OpenVPN Connect](https://play.google.com/store/apps/details?id=net.openvpn.openvpn&amp;hl=en_GB) (The Play store description claims to be the official OpenVPN app).
+
+PS: As for the OpenVPN docker container, I'm running a Centos server with openvpn `2.3.10-1.el6` is there any benefit, other than containerization, of running it in a docker instance? As the VPN appeared to work fine on my phones and desktop, I assumed the issue was within the phone's network routing.",2016-02-21 09:21:03+00:00,d07z4mk,2.0,t1_d07nfug,27906.0,VPN
+22,Can i offer you a steak sandwich?,2016-02-10 10:20:21+00:00,czum1im,1.0,t3_44zgs3,41273.0,gentlemanboners
+23,Like the lack of undergarments,2016-02-10 08:50:51+00:00,czukrn3,1.0,t3_44zdy7,36905.0,gentlemanboners
+24,"Yep! I'm a former Nexus 5, new Nexus 6P owner. Both my deskies are now our of reach :*(. Even disabling WiFi doesn't cause drift. What's a man to do?",2016-01-01 10:45:38+00:00,cyi7k22,2.0,t1_cyi31a3,17698.0,Ingress
+25,World's most annoying door bell,2015-10-31 16:32:14+00:00,cwjk1y9,2.0,t1_cwjgh3y,6937.0,Locksmith
+26,"Thanks! Yeah, its right near the front door! Hmm after about 2 hours the noise stopped. No cops/security showed up... Guess its not connected to a service... ",2015-10-31 16:31:44+00:00,cwjk1b2,2.0,t1_cwjh84j,5351.0,Locksmith
+27,I once had an old Sony analogue amp and a DAC. I found this was good for music but there was a significant delay which made it inappropriate when watching video. Was the delay because I had a rubbish DAC?,2015-10-03 14:23:59+00:00,cvmqngn,2.0,t1_cvmpmx9,2645.0,BudgetAudiophile
+28,"Yes thanks, I have had a look through the list. Although, there are a lot of good options.  Do I have to layout $$$ to obtain both digital and analogue inputs? Some examples:
+
+ - [SMSL Q5 50WPC](http://www.amazon.co.uk/Optical-Coaxial-Digital-Amplifier-Control/dp/B00WQZTCZG/ref=sr_1_59?ie=UTF8&amp;qid=1443880371&amp;sr=8-59&amp;keywords=Amplifier+Bluetooth%2C+optical)
+ - [PANMARI JC-Audio SZ80](http://www.amazon.co.uk/PANMARI-JC-Audio-Control-Digital-Amplifier/dp/B0145QH5D4/ref=sr_1_39?ie=UTF8&amp;qid=1443880315&amp;sr=8-39&amp;keywords=Amplifier+Bluetooth%2C+optical)
+
+",2015-10-03 13:59:42+00:00,cvmq2dh,2.0,t1_cvmope9,4040.0,BudgetAudiophile
+29,"Ahh, the bridges are removable! I see now. Makes sense. Thanks for your reply. ",2015-10-03 11:41:47+00:00,cvmnn8n,2.0,t1_cvmngep,886.0,BudgetAudiophile
+30,correct. wtf. uploaded wrong fucking video,2015-07-20 19:59:27+00:00,cta292w,2.0,t1_ct9ifx8,40779.0,videos

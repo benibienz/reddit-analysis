@@ -1,0 +1,1037 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-21 03:47:37+00:00,self.learnjavascript,https://www.reddit.com/r/learnjavascript/comments/5e20w6/setting_overflowx_scroll_does_not_give_me_a/,False,"Basically my problem is this-
+
+I have a Raphael canvas in which I've drawn a timeline. The timeline is long, so it extends past the edge of the canvas. I would like the canvas to have a horizontal scrollbar on it so that the user can move sideways. 
+
+I know that the way to do this is to set `overflow-x: scroll`
+
+within the css. However, using jQuery to set the `overflow-x` of the svg div which Raphael creates does nothing. Attempting to style the svg's parent, `canvas` also does nothing. I have confirmed using my browser that these properties are, in fact, being set, they just dont seem to affect anything. Could help me diagnose my problem.
+
+The code is available at [my github](https://github.com/pipsqueaker/CryptoVis), and you should be able to run the website just by opening index.html. I style the `svg` div on line 38 of index.html, and all other styling is in the CSS
+
+[Here's a screenshot of what's going on](http://imgur.com/a/0Vw70). The canvas is clearly being overflowed, but the scrollbar simply refuses to appear.",learnjavascript,Setting overflow-x: scroll does not give me a scrollbar,https://www.reddit.com/r/learnjavascript/comments/5e20w6/setting_overflowx_scroll_does_not_give_me_a/
+1,2016-10-30 03:22:36+00:00,self.pokemon,https://www.reddit.com/r/pokemon/comments/5a49o9/i_want_to_do_a_nuzlocke_of_gen_v_before_sm_comes/,False,^,pokemon,"I want to do a nuzlocke of gen V before SM comes out, should I play the originals or the sequels?",https://www.reddit.com/r/pokemon/comments/5a49o9/i_want_to_do_a_nuzlocke_of_gen_v_before_sm_comes/
+2,2016-10-30 00:14:01+00:00,self.linuxquestions,https://www.reddit.com/r/linuxquestions/comments/5a3hqn/latest_version_of_googlechromestable_is_super/,False,"Ever since I updated, chrome has been crashing every few minutes. It's getting to the point which it's almost unusable. Is it possible to downgrade, or is there some fix for the bug or something?",linuxquestions,Latest version of google-chrome-stable is super unstable?,https://www.reddit.com/r/linuxquestions/comments/5a3hqn/latest_version_of_googlechromestable_is_super/
+3,2016-10-29 22:36:19+00:00,self.Ubuntu,https://www.reddit.com/r/Ubuntu/comments/5a323w/anyone_else_experience_instability_on_the_latest/,False,[removed],Ubuntu,Anyone else experience instability on the latest version of google-chrome-stable?,https://www.reddit.com/r/Ubuntu/comments/5a323w/anyone_else_experience_instability_on_the_latest/
+4,2016-10-17 14:03:06+00:00,self.circlejerk,https://www.reddit.com/r/circlejerk/comments/57xgtd/harambes_link_to_life_was_intentionally_severed/,False,[removed],circlejerk,"Harambe's link to life was intentionally severed by a zoo party. ""I will not stop leaking until everyone's dick is out"" - Julian Assange",https://www.reddit.com/r/circlejerk/comments/57xgtd/harambes_link_to_life_was_intentionally_severed/
+5,2016-10-16 06:29:22+00:00,self.stunfisk,https://www.reddit.com/r/stunfisk/comments/57qay4/team_advice/,False,"Balanced Bird @ Sharp Beak  
+Ability: Gale Wings  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Bulk Up  
+- Flare Blitz  
+- U-turn  
+
+-------------------
+Serperior @ Miracle Seed  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 1 Atk / 30 SpA / 30 SpD  
+- Leaf Storm  
+- Giga Drain  
+- Hidden Power [Ground]  
+- Dragon Pulse  
+
+--------------------------
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 232 Def / 24 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Roost  
+- Defog  
+- Toxic  
+- Roar  
+
+--------------------------------------
+Quagsire @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Scald  
+- Recover  
+- Earthquake  
+- Encore  
+
+------------------------------
+Azumarill @ Sitrus Berry  
+Ability: Huge Power  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Belly Drum  
+- Play Rough  
+- Knock Off  
+- Aqua Jet  
+
+---------------------------------
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Thunder Wave  
+- Toxic  
+- Play Rough  
+- Spikes  
+
+------------------------------------
+
+I was just wondering if anyone could give me some advice on this team. I tried to build it around Talonflame + Serperior offensively, and Skarmory + Quagsire defensively. I'd say it works well, but I haven't been doing too well with it (then again, I'm no battling pro either).
+
+The idea of the team is to try and force out anything that could give serperior trouble, kill it, then let le balanced grass snek spam leaf storm to victory. 
+
+There are some pokemon I'm having trouble with though. Latios especially, as it can just come in on Serperior and kill it before it has time to build up boosts. Weavile is also a big issue, as it can easily outspeed Serperior to KO with icicle smash.
+
+I could swap out Azumarill with a Shuckle (I haven't tested out Azumarill with this team at all, but I've been swapping that slot a lot to try and find a good defensive pokemon), but then I'd have a shuckle on my team... I suppose it would give me a slot to set up rocks though.
+
+It also feels weird that I don't have a mega on my team, but everything is just so good at what it does...",stunfisk,Team advice,https://www.reddit.com/r/stunfisk/comments/57qay4/team_advice/
+6,2016-10-15 18:29:56+00:00,self.stunfisk,https://www.reddit.com/r/stunfisk/comments/57ndng/state_of_the_meta/,False,"Hey! I've pretty much been away from competitive pokemon since a month or two after x/y
+
+I was just wondering, what's the meta like nowadays? Is the balanced fire bird still dominant? Stealth rock still carried on every team? What's the most-used strat? Hyper-offense? Stall? Spam brave bird to win?",stunfisk,State of the Meta,https://www.reddit.com/r/stunfisk/comments/57ndng/state_of_the_meta/
+7,2016-10-12 05:00:34+00:00,youtube.com,https://www.reddit.com/r/pokemon/comments/572i0s/i_found_a_guy_making_amazing_pokemon_music_on/,False,,pokemon,"I found a guy making amazing pokemon music on youtube, give him some love :)",https://www.youtube.com/watch?v=Hcmor__4Fcw
+8,2016-10-11 21:21:49+00:00,self.gatech,https://www.reddit.com/r/gatech/comments/570h8b/how_doable_is_my_course_plan/,False,"I'm a Freshman CS major looking at the devices and intelligence threads, and I came up with [this schedule](https://docs.google.com/spreadsheets/d/1Ah7v9GhDjqhG5fjtnUCEdfLnTpm1BHSs-sW84DhBwY4/pubhtml)- I wanted some feedback on how realistic it was. I consider myself pretty smart and driven, but I'm not naive to try and pull this schedule without getting advice first.
+
+I'm not really looking for super-detailed feedback, just comments on the general realism / wisdom of taking 18+ credits each semester, including Junior year during whatever design project we have.",gatech,How doable is my course plan?,https://www.reddit.com/r/gatech/comments/570h8b/how_doable_is_my_course_plan/
+9,2016-10-11 14:23:19+00:00,self.gatech,https://www.reddit.com/r/gatech/comments/56y84v/any_good_martial_arts_clubs_on_campus/,False,"Besides the combatives club, that's the only one I could find on orgsync",gatech,Any good martial arts clubs on campus?,https://www.reddit.com/r/gatech/comments/56y84v/any_good_martial_arts_clubs_on_campus/
+10,2016-10-08 05:37:20+00:00,self.EnoughTrumpSpam,https://www.reddit.com/r/EnoughTrumpSpam/comments/56fp2g/fellow_ctr_shills_the_time_is_now/,False,"With Trump in the process of self-destructing, it's time to end things where they started.
+
+That's right, it's time to raid [/pol](http://4chan.org/pol). The cracks are already starting to appear in the threads over there, so the time is ripe to take it over for ourselves.
+
+And oh yeah, this is all allowed under the Reddit TOS.
+
+Happy shitposting!",EnoughTrumpSpam,"Fellow CTR shills, the time is now",https://www.reddit.com/r/EnoughTrumpSpam/comments/56fp2g/fellow_ctr_shills_the_time_is_now/
+11,2016-10-07 01:22:40+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/568x51/so_ive_been_away_for_most_of_a_year/,False,Did Ed ever give us that Rebirth postmortem which he promised us?,bindingofisaac,"So, I've been away for most of a year...",https://www.reddit.com/r/bindingofisaac/comments/568x51/so_ive_been_away_for_most_of_a_year/
+12,2016-10-03 04:18:14+00:00,self.opengl,https://www.reddit.com/r/opengl/comments/55m1zg/help_with_figuring_out_gldrawelementsinstanced/,False,"Hi! I've got some dead-simple (for OpenGL at least :) code I'm trying to figure out- basically, I'm trying to modify the code [here](https://github.com/pipsqueaker/OpenGL_SDLTutorials/blob/master/elementbuffers.cpp) to use instanced data. Basically what I want to accomplish is drawing a set of vertices (stored in a buffer), drawing from information (in this case, color) which is defined in another buffer.
+
+The vertices are all going to be white, so I'd like not to just repeat `&lt;1.0, 1.0, 1.0&gt;`- hence the buffer just holds a single instance of that, and I'm trying to get the program to ""increment"" the position variable rather than the ""color"" variable.
+
+Here's the code I have so far 
+
+    #define GLEW_STATIC
+	#include &lt;GL/glew.h&gt;
+
+	#include ""SDL2/SDL.h""
+	#include ""SDL2/SDL_opengl.h""
+
+	const GLchar* vertexSource =
+	    ""#version 150 core\n""
+	    ""in vec2 position;""
+	    ""in vec3 color;""
+	    ""out vec3 Color;""
+	    ""void main() {""
+	    ""   Color = color;""
+	    ""   gl_Position = vec4(position, 0.0, 1.0);""
+	    ""}"";
+
+	const GLchar* fragmentSource =
+	    ""#version 150 core\n""
+	    ""in vec3 Color;""
+	    ""out vec4 outColor;""
+	    ""void main() {""
+	    ""   outColor = vec4(Color, 1.0);""
+	    ""}"";
+
+	//Expanded vertices for the rectangle that we'll draw
+	const GLfloat vertices[] = {-.5f, 0.5f, 
+		                    .5f, .5f, 
+		                    .5f, -.5f, 
+		                    -.5f, -.5f};
+
+	const GLfloat vertices_color[] = {0.0f, 1.0f, 1.0f};
+
+	int main() {
+
+	    SDL_Init(SDL_INIT_VIDEO);
+
+	    SDL_GL_SetAttribute(SDL_GL_CONTEXT_PROFILE_MASK, 
+		                SDL_GL_CONTEXT_PROFILE_CORE);
+	    SDL_GL_SetAttribute(SDL_GL_CONTEXT_MAJOR_VERSION, 3);
+	    SDL_GL_SetAttribute(SDL_GL_CONTEXT_MINOR_VERSION, 2);
+
+	    SDL_Window* window = SDL_CreateWindow(""triangle"", 50, 50, 800, 600, SDL_WINDOW_OPENGL);
+	    SDL_GLContext context = SDL_GL_CreateContext(window);
+
+	    glewExperimental = GL_TRUE;
+	    glewInit();
+
+	    GLuint vao;
+	    glGenVertexArrays(1, &amp;vao);
+	    glBindVertexArray(vao);
+	    
+	    GLuint vbo;
+	    glGenBuffers(1, &amp;vbo);
+
+	    glBindBuffer(GL_ARRAY_BUFFER, vbo);
+	    glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
+
+	// ------------------------------
+
+	    GLuint vbo_color;
+	    glGenBuffers(1, &amp;vbo_color);
+
+	    glBindBuffer(GL_ARRAY_BUFFER, vbo_color);
+	    glBufferData(GL_ARRAY_BUFFER, sizeof(vertices_color), vertices_color, GL_STATIC_DRAW);
+
+	// -------------------------------
+
+	    GLuint vertexShader = glCreateShader(GL_VERTEX_SHADER);
+	    glShaderSource(vertexShader, 1, &amp;vertexSource, NULL);
+	    glCompileShader(vertexShader);
+
+	    GLuint fragmentShader = glCreateShader(GL_FRAGMENT_SHADER);
+	    glShaderSource(fragmentShader, 1, &amp;fragmentSource, NULL);
+	    glCompileShader(fragmentShader);
+
+	    GLuint shaderProgram = glCreateProgram();
+	    glAttachShader(shaderProgram, vertexShader);
+	    glAttachShader(shaderProgram, fragmentShader);
+	    glBindFragDataLocation(shaderProgram, 0, ""outColor"");
+	    glLinkProgram(shaderProgram);
+	    glUseProgram(shaderProgram);
+
+	//-----------------------------------------
+	    glBindBuffer(GL_ARRAY_BUFFER, vbo);
+	    GLint posAttrib = glGetAttribLocation(shaderProgram, ""position""); 
+	    glEnableVertexAttribArray(posAttrib);
+	    glVertexAttribPointer(posAttrib, 2, GL_FLOAT, GL_FALSE, 2*sizeof(float), 0);  
+	    glVertexAttribDivisor(posAttrib, 0);
+	    
+	//--------------------------------------------
+	    glBindBuffer(GL_ARRAY_BUFFER, vbo_color);
+	    GLint colAttrib = glGetAttribLocation(shaderProgram, ""color"");
+	    glEnableVertexAttribArray(colAttrib);
+	    glVertexAttribPointer(colAttrib, 3, GL_FLOAT, GL_FALSE, 3*sizeof(float), 0);
+
+	    //specify order in which elements should be drawn
+	    GLuint elements[] = {0, 1, 2, 2, 3, 0};
+	    //Initialise an element buffer and load it into memory
+	    GLuint ebo;
+	    glGenBuffers(1, &amp;ebo);
+	    //bind ebo as the active element buffer
+	    glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ebo);
+	    glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(elements), elements, GL_STATIC_DRAW);
+
+	    SDL_Event event;
+	    while (true) {
+		if (SDL_PollEvent(&amp;event)) {
+		    bool escape_pressed = event.type == SDL_KEYUP &amp;&amp; 
+		                           (event.key.keysym.sym == SDLK_ESCAPE);
+		    if (event.type == SDL_QUIT || escape_pressed) break;
+		}
+		glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
+		glClear(GL_COLOR_BUFFER_BIT);
+
+		//This command has been changed from glDrawArrays to glDrawElements
+		glDrawElementsInstanced(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0, 1);
+
+		SDL_GL_SwapWindow(window);
+	    }
+
+	    glDeleteProgram(shaderProgram);
+	    glDeleteShader(fragmentShader);
+	    glDeleteShader(vertexShader);
+	    glDeleteBuffers(1, &amp;vbo);
+	    glDeleteVertexArrays(1, &amp;vao);
+
+	    SDL_GL_DeleteContext(context);
+	    SDL_Quit();
+
+	    return 0;
+	}
+
+Unfortunately, when you compile the example above, only the first vertex has the correct color- the rest seem to be black, and the fade effect is probably interpolation kicking in.
+
+Anyways, I'm not really experienced with multiple-buffer access, `glVertexAttribDivisor`, or `glDrawElementsInstanced`- can anyone teach me how to properly combine those to get the effect I'm going for?",opengl,Help with figuring out glDrawElementsInstanced,https://www.reddit.com/r/opengl/comments/55m1zg/help_with_figuring_out_gldrawelementsinstanced/
+13,2016-10-02 03:42:28+00:00,self.ifyoulikeblank,https://www.reddit.com/r/ifyoulikeblank/comments/55gphz/iil_odyssey_by_home_any_other_recommendations_for/,False,"[Here it is on bandcamp](https://midwestcollective.bandcamp.com/album/odyssey)
+
+My favorite track is ""Oort Cloud-"" I love the way that the song starts out with silence, then all of a sudden your head is filled with rolling sound. I really like all the tracks in this album though",ifyoulikeblank,"[IIL] Odyssey by HOME, any other recommendations for music?",https://www.reddit.com/r/ifyoulikeblank/comments/55gphz/iil_odyssey_by_home_any_other_recommendations_for/
+14,2016-09-27 20:16:27+00:00,self.opengl,https://www.reddit.com/r/opengl/comments/54skxb/is_calling_glbindbuffer_glbindtexture_etc/,False,"So, let's say I have some collections of `Drawable` objects- some `Apples`, some `Oranges`, and more, each with their own static vertex buffers, textures, etc.
+
+Obviously the most efficient way to draw these objects is to make collections of `Apples` and `Oranges` and, before drawing each collection, do something like
+
+     glBindBuffer(GL_VERTEX_BUFFER, apple_vbo);
+     glBindTexture(GL_TEXTURE_2D, apple_texture);
+
+In general, I prefer being explicit with my code, even at the cost of performance. What I'd rather just do instead is, in the `draw` method of `Apple` and `Orange` just write
+
+    draw() {
+        glBindBuffer(GL_VERTEX_BUFFER, apple_vbo);
+        glBindTexture(GL_TEXTURE_2D, apple_texture);
+        glDrawElements(blahblahblah);
+    }
+
+However, that's got the unfortunate side effect of binding buffers every single time an individual object is drawn. 
+
+How much less efficient is that? Are calls to glBindBuffer expensive enough in terms of GPU cycles and such that I should be trying to minimize them?",opengl,"Is calling glBindBuffer, glBindTexture, etc. expensive?",https://www.reddit.com/r/opengl/comments/54skxb/is_calling_glbindbuffer_glbindtexture_etc/
+15,2016-09-16 22:35:04+00:00,self.opengl,https://www.reddit.com/r/opengl/comments/534iyt/opengl_stubbornly_using_the_wrong_shader_to_draw/,False,"I'm trying to create some abstractions for OpenGL, and I've run into two odd behaviors which I believe might be linked. I'm moving further into the abstraction phase now, and I've basically shoved all the vao, vbo, etc. stuff into the `Triangle::initStaticVars` method, which looks like this right now
+
+    GLuint Triangle::vao;
+    GLuint Triangle::vbo; 
+    GLuint Triangle::ebo;
+    GLint Triangle::posAttrib;
+
+    shaderUtils::shader Triangle::v, Triangle::f;
+    shaderUtils::shaderProgram Triangle::p;
+
+    GLfloat Triangle::vertices[6] = {0.0f, 0.5f, .5f, -.5f, -.5f, .0f};
+
+    void Triangle::initStaticVars() {
+    
+        glGenVertexArrays(1, &amp;Triangle::vao);
+        glBindVertexArray(Triangle::vao);
+    
+        glGenBuffers(1, &amp;Triangle::vbo);
+        glBindBuffer(GL_ARRAY_BUFFER, Triangle::vbo);
+        glBufferData(GL_ARRAY_BUFFER, sizeof(Triangle::vertices), Triangle::vertices, GL_STATIC_DRAW);
+    
+        Triangle::v = shaderUtils::shader(GL_VERTEX_SHADER, ""../../res/basic.vx"");
+        Triangle::f = shaderUtils::shader(GL_FRAGMENT_SHADER, ""../../res/basic.fx"");
+        Triangle::p = shaderUtils::shaderProgram({v, f});
+        Triangle::p.activate();
+        Triangle::p.uniform_list[""a""]-&gt;set1f(1.0f);
+    
+        GLint posAttrib = glGetAttribLocation(Triangle::p.programRef, ""position"");
+        glEnableVertexAttribArray(Triangle::posAttrib);
+        glVertexAttribPointer(Triangle::posAttrib, 2, GL_FLOAT, GL_FALSE, 0, 0);
+    }
+    void Triangle::draw() {
+        glDrawArrays(GL_TRIANGLES, 0, 3);
+    }
+
+Which should contain all the information and variables required to draw a triangle. I basically copied all of this out of the setup to draw a triangle I was doing in `main.cpp` and just moved it into the `Triangle` abstraction.
+
+So when I removed all that setup stuff from `main.cpp` and tried to run the program by initializing a `Triangle` and using its `draw` method, I just got a black screen. So I put all those lines of code back above my `Triangle` initialization, and it worked! `main.cpp` wasn't even just drawing a separate triangle either- it was actually drawing the triangle object I initialized! I could change around the data in `Triangle::vertices`, and see that reflected on the screen.
+
+I found that I could delete all the redundant code in `main.cpp` except for the following five lines
+
+    shaderUtils::shader vertexShader(GL_VERTEX_SHADER, ""../../res/basic.vx"");
+    shaderUtils::shader fragmentShader(GL_FRAGMENT_SHADER, ""../../res/basic.fx"");
+
+    shaderUtils::shaderProgram prog({vertexShader, fragmentShader});
+
+    prog.activate();
+    prog.uniform_list[""a""]-&gt;set1f(1.0f);
+
+Which initialize shaders and set the opacity attribute of the resultant shaderProgram to 1. This especially confused me, because `Triangle` actually has its own `shader`s and `shaderProgram` which it activates and tries to use to draw its data.
+
+What I found that was that, no matter how I tried to force the triangle class to use its own `shaderProgram`, the triangle was always drawn using the shaderProgram in `main.cpp`. No matter where and how many times I tell `Triangle` to activate it's own shaderProgram, if I change the opacity of the `shaderProgram` in `main.cpp` then that's what's reflected on the screen. In the `Triangle::draw`, which is what I call from the draw loop, I can even put in the following lines before the call to `glDrawArrays`
+
+    Triangle::p.activate();
+    Triangle::p.uniform_list[""a""]-&gt;set1f(.5f);
+    glDrawArrays(args);
+
+and the program stubbornly refuses to care. Apparently it has determined that the `shaderProgram` in main.cpp is what it will use to draw the `Triangle`, no matter how I try to stop it.
+
+-------------------------------------------------------------------
+
+The second issue is a lot simpler. The code to initialize the vertex array object in `Triangle.cpp` looks like, and works
+
+    GLint posAttrib = glGetAttribLocation(Triangle::p.programRef, ""position"");
+    glEnableVertexAttribArray(Triangle::posAttrib);
+    glVertexAttribPointer(Triangle::posAttrib, 2, GL_FLOAT, GL_FALSE, 0, 0);
+
+However, I have a static variable `posAttrib` in the `Triangle` class- the way the above code is doing it, creating and assigning to a local variable, is a remnant of being pasted in from `main.cpp`.
+
+If I change the first line to `Triangle::posAttrib = glGetAttribLocation(Triangle::p.programRef, ""position"");` to try and assign to the static variable instead, I just get a black screen when I run.
+
+Come to think of it, I imagine the first block only works because of lucky default values, since I'm clearly assigning to a local variable in my first line and accessing `Triangle::posAttrib` with my next two.
+
+Care to shed some light? I made sure to push to the [git repo](https://github.com/pipsqueaker/smargl) this time!",opengl,OpenGL stubbornly using the wrong shader to draw data?,https://www.reddit.com/r/opengl/comments/534iyt/opengl_stubbornly_using_the_wrong_shader_to_draw/
+16,2016-09-15 01:24:23+00:00,self.cpp_questions,https://www.reddit.com/r/cpp_questions/comments/52tvf6/trying_to_initialize_a_static_variable_causes/,False,"Hi! I'm back with more questions!
+
+Basically, I'm having an ungodly amount of trouble trying to initialize static variables. Here's the class that's causing all the troubles, `Triangle`(`.h`)
+
+    #include ""Drawable.h""
+    
+    class Triangle : Drawable {
+    public:
+        Triangle();
+        ~Triangle();
+    
+        static shaderUtils::shader v = shaderUtils::shader(GL_VERTEX_SHADER, ""../../res/basic.vx"");
+    
+        shaderUtils::shaderProgram getShaderProgram();
+        GLint getVAO();
+        void getData();
+        void getVBO();
+        void getEBO();
+    
+    };
+
+And basically what I want to accomplish is initializing v to be a valid shader. So, trying to compile that class gives me the following error
+
+    error: in-class initialization of static data member ‘const shaderUtils::shader Triangle::v’ of non-literal type
+     static const shaderUtils::shader v = shaderUtils::shader(GL_VERTEX_SHADER, ""../../res/basic.vx"");
+
+So naturally, my instinct was to change stuff around till it compiled. I then tried to initialize it as 
+
+    static shaderUtils::shader v(GL_VERTEX_SHADER, ""../../res/basic.vx"");
+
+And got a totally different error (which really threw me off since I thought those two initialization expressions were equivalent)
+
+    expected identifier before numeric constant
+     static shaderUtils::shader v(GL_VERTEX_SHADER, ""../../res/basic.vx"");
+
+So then I tried to just declare v with the line
+
+    static shaderUtils::shader v;
+
+And initializing it in Triangle.cpp like
+
+    shaderUtils::shader Triangle::v = shaderUtils::shader(GL_VERTEX_SHADER, ""../../res/basic.vx"");
+
+And that causes my program to insta-segfault! I also get a segfault by doing the `Triangle::v = shader(args)` method
+
+So when I try initializing v like 
+
+    Triangle::v = shaderUtils::shader(GL_VERTEX_SHADER, ""../../res/basic.vx"");
+
+C++ complains that `‘v’ in ‘class Triangle’ does not name a type`
+
+And if I try 
+
+    Triangle::v (GL_VERTEX_SHADER, ""../../res/basic.vx"");
+
+Then C++ instead complains `error: expected constructor, destructor, or type conversion before ‘(’ token
+ Triangle::v(GL_VERTEX_SHADER, ""../../res/basic.vx"");`
+
+I've tried googling around, looking at StackOverflow answers, and I just can't seem to find a way to initialize `v` correctly. Could you explain to me why this is happening and how to properly initialize the object?
+
+You can find the complete code [here](https://github.com/pipsqueaker/smargl)",cpp_questions,Trying to initialize a static variable causes segfaults?,https://www.reddit.com/r/cpp_questions/comments/52tvf6/trying_to_initialize_a_static_variable_causes/
+17,2016-09-13 19:23:04+00:00,self.gatech,https://www.reddit.com/r/gatech/comments/52mcq2/when_i_leave_for_the_holidays_is_it_ok_to_leave/,False,"Exams end on the 15th, term on the 17th- will I miss out on anything important by leaving on the 16th?",gatech,"When I leave for the Holidays, is it oK to leave right after end of exams, or should I wait till the End of Term?",https://www.reddit.com/r/gatech/comments/52mcq2/when_i_leave_for_the_holidays_is_it_ok_to_leave/
+18,2016-09-11 18:42:54+00:00,self.cpp_questions,https://www.reddit.com/r/cpp_questions/comments/529yvl/trying_to_declare_an_unordered_list_results_in/,False,"Hi!
+
+I'm trying to construct an unordered list which maps `std::string`s to `uniform` classes, where I define the uniform class. I'm doing this by saying
+
+    #include ""uniform.h""
+    #include &lt;unordered_map&gt;
+    namespace shaderUtils {
+        class shaderProgram {
+            std::unordered_map &lt;std::string, uniform&gt; uniform_list;
+        };
+    }
+
+And uniform is defined in shader.h as
+
+    namespace shaderUtils {
+        class uniform {
+            // stuff
+        };
+    }
+
+However, when I try to compile the code, I get the following error
+
+    error: ‘uniform’ was not declared in this scope
+         std::unordered_map &lt;std::string, uniform&gt; uniform_list;
+
+But if I try declaring the unordered list as `std::unordered_map &lt;std::string, shaderUtils::uniform&gt; uniform_list;`
+
+I instead get the error
+
+    error: ‘uniform’ is not a member of ‘shaderUtils’
+         std::unordered_map &lt;std::string, shaderUtils::uniform&gt; uniform_list;
+
+
+I'm thoroughly confused here, can anyone help me out? You can find the complete code [here](https://github.com/pipsqueaker/smargl) if you need some more information
+
+EDIT: Thanks for the help everybody! I figured out the problem, it was that in uniform.h I was trying to include shaderProgram.h, leading to circular references",cpp_questions,Trying to declare an unordered_list results in out of scope errors?,https://www.reddit.com/r/cpp_questions/comments/529yvl/trying_to_declare_an_unordered_list_results_in/
+19,2016-09-10 17:14:59+00:00,self.cpp_questions,https://www.reddit.com/r/cpp_questions/comments/5242fv/instantiating_a_superclass_and_having_it_decide/,False,"So, say that I have a `Fruit` superclass, and a few subclasses `Apple`, `Orange`, and `Banana`. Each subclass implements a `do` method which turns void, but takes a different number of arguments with different types. For instance, `Apple.do` might be implemented as
+
+    void Apple::do(int i) {
+        std::cout &lt;&lt; i &lt;&lt; std::endl;
+    } 
+
+whereas `Orange.do` might be 
+
+    void Orange::do(std::string a, std::string b) {
+        std::cout &lt;&lt; a+b &lt;&lt; std::endl;
+    } 
+
+I also want to be able to instantiate `Fruit`s, by doing something along the lines of `Fruit first_fruit(""apple"")`, and then have the `Fruit` constructor decide ""hey, I got passed the string 'apple'! That must mean that I'm an `Apple`!"", and when I call `first_fruit.do`, if I don't call it with the correct signature, then I want c++ to throw an exception.
+
+Is this possible? It definitely seems to fall outside the bounds of regular inheritance patterns.",cpp_questions,Instantiating a superclass and having it decide which subclass it is,https://www.reddit.com/r/cpp_questions/comments/5242fv/instantiating_a_superclass_and_having_it_decide/
+20,2016-09-08 03:16:25+00:00,self.cpp_questions,https://www.reddit.com/r/cpp_questions/comments/51padt/requesting_help_reducing_the_number_of/,False,"So, I recently created a function to load the contents of a shader source file and pass it to `glShaderSource`. It works fine, I just want to streamline it.
+
+Here's the function which loads the shader source
+
+    void shaders::read_shader_source(std::vector&lt;GLchar&gt;&amp; source, const std::string&amp; shaderpath) {
+    
+        std::ifstream in(shaderpath);
+        std::string contents((std::istreambuf_iterator&lt;GLchar&gt;(in)),
+                             std::istreambuf_iterator&lt;GLchar&gt;());
+    
+        source = std::vector&lt;GLchar&gt;(contents.begin(), contents.end());
+    }
+
+In the main file, I do 
+
+    std::vector&lt;GLchar&gt; vertexSource;
+    shaders::read_shader_source(vertexSource, ""../../res/basic.vx"");
+    // Some other code here
+    const GLchar* u = vertexSource.data();
+    GLuint vertexShader = glCreateShader(GL_VERTEX_SHADER);
+    glShaderSource(vertexShader, 1, &amp;u, NULL);
+    glCompileShader(vertexShader);
+
+The problem is that this code is, simply put, pretty ugly. It involves 
+
+* initializing a vector 
+* initializing a string 
+* reading the string into the vector (I couldn't figure out how to read the file into a vector directly- trying `std::istream_iterator&lt;GLchar&gt; start(in), end; source = std::vector&lt;GLchar&gt;(start, end);` gave me segfaults)- I tried adapting that code from [here](http://stackoverflow.com/questions/15138785/c-reading-file-into-vector)
+* creating a GLchar * which points to the vector's data, and then taking the address of that [I tried shortening that by doing `&amp;((GLchar *)source.data())`], but g++ complained that &amp; only takes lvalues (why?).
+* passing that GLchar * to `glShaderSource`
+
+My original way of trying it was 
+
+    void shaders::read_shader_source(GLchar * source, const std::string&amp; shaderpath) {
+
+    std::ifstream in(shaderpath);
+    std::string contents((std::istreambuf_iterator&lt;GLchar&gt;(in)),
+                         std::istreambuf_iterator&lt;GLchar&gt;());
+
+    // Trying to copy the contents of the data pointer into the memory pointed to by source
+    *source = *(contents.data());
+}
+
+But that just ended up giving me segfaults during the last line. I suspect there's also some ignorance on my part on pointers vs arrays-that-have-decayed-to-pointers
+
+Anyways, I can tell that there are waay too many intermediate steps in all of this. Can anyone point me to a more idiomatic and elegant way of achieving this?",cpp_questions,Requesting help reducing the number of intermediate variables in a function.,https://www.reddit.com/r/cpp_questions/comments/51padt/requesting_help_reducing_the_number_of/
+21,2016-09-08 02:42:43+00:00,self.opengl,https://www.reddit.com/r/opengl/comments/51p5bn/help_reducing_the_number_of_intermediate/,False,"So, I recently created a function to load the contents of a shader source file and pass it to `glShaderSource`. It works fine, I just want to streamline it.
+
+Here's the function which loads the shader source
+
+    void shaders::read_shader_source(std::vector&lt;GLchar&gt;&amp; source, const std::string&amp; shaderpath) {
+    
+        std::ifstream in(shaderpath);
+        std::string contents((std::istreambuf_iterator&lt;GLchar&gt;(in)),
+                             std::istreambuf_iterator&lt;GLchar&gt;());
+    
+        source = std::vector&lt;GLchar&gt;(contents.begin(), contents.end());
+    }
+
+In the main file, I do 
+
+    std::vector&lt;GLchar&gt; vertexSource;
+    shaders::read_shader_source(vertexSource, ""../../res/basic.vx"");
+    // Some other code here
+    const GLchar* u = vertexSource.data();
+    GLuint vertexShader = glCreateShader(GL_VERTEX_SHADER);
+    glShaderSource(vertexShader, 1, &amp;u, NULL);
+    glCompileShader(vertexShader);
+
+The problem is that this code is, simply put, pretty ugly. It involves 
+
+* initializing a vector 
+* initializing a string 
+* reading the string into the vector (I couldn't figure out how to read the file into a vector directly- trying `std::istream_iterator&lt;GLchar&gt; start(in), end; source = std::vector&lt;GLchar&gt;(start, end);` gave me segfaults)- I tried adapting that code from [here](http://stackoverflow.com/questions/15138785/c-reading-file-into-vector)
+* creating a GLchar * which points to the vector's data, and then taking the address of that [I tried shortening that by doing `&amp;((GLchar *)source.data())`], but g++ complained that &amp; only takes lvalues (why?).
+* passing that GLchar * to `glShaderSource`
+
+My original way of trying it was 
+
+    void shaders::read_shader_source(GLchar * source, const std::string&amp; shaderpath) {
+
+    std::ifstream in(shaderpath);
+    std::string contents((std::istreambuf_iterator&lt;GLchar&gt;(in)),
+                         std::istreambuf_iterator&lt;GLchar&gt;());
+
+    // Trying to copy the contents of the data pointer into the memory pointed to by source
+    *source = *(contents.data());
+}
+
+But that just ended up giving me segfaults during the last line. I suspect there's also some ignorance on my part on pointers vs arrays-that-have-decayed-to-pointers
+
+Anyways, I can tell that there are waay too many intermediate steps in all of this. Can anyone point me to a more idiomatic and elegant way of achieving this?",opengl,Help reducing the number of intermediate variables in one of my functions,https://www.reddit.com/r/opengl/comments/51p5bn/help_reducing_the_number_of_intermediate/
+22,2016-09-07 20:53:46+00:00,self.opengl,https://www.reddit.com/r/opengl/comments/51nigs/passing_two_functionally_identical_variables_to/,False,"So I made a little method to read the contents of a shader source file and load it in to a GLchar array (pointer?)
+
+here's the contents of the file with the reader
+
+    #include ""SDL2/SDL.h""
+    #include ""SDL2/SDL_opengl.h""
+
+    #include &lt;string&gt;
+    #include &lt;fstream&gt;
+
+    namespace shaders {
+
+        const GLchar* read_shader_source(const std::string shaderpath) {
+            std::ifstream in(shaderpath);
+            std::string contents((std::istreambuf_iterator&lt;char&gt;(in)),
+                                 std::istreambuf_iterator&lt;char&gt;());
+
+            return contents.c_str();
+        }
+    }
+
+And here's the source file that it's reading
+
+    #version 150 core
+    in vec2 position;
+    void main() {
+       gl_Position = vec4(position, 0.0, 1.0);
+    }
+
+So, in my Hello Triangle program, I load the source file as follows
+
+    const GLchar* vertexSource = shaders::read_shader_source(""../../res/basic.vx"");
+
+I could also manually enter the shader source for the code as follows
+
+    const GLchar* vertex_o =
+            ""#version 150 core\n""
+            ""in vec2 position;\n""
+            ""void main() {\n""
+            ""   gl_Position = vec4(position, 0.0, 1.0);\n""
+            ""}"";
+
+However, trying to pass `&amp;vertexSource` as an argument to `glShaderSource` by doing `glShaderSource(vertexShader, 1, &amp;vertexSource, NULL);` results in a black screen, whereas passing `&amp;vertex_o` gives me a functional vertex shader and a triangle drawn to the screen.
+
+Now I'm REALLY confused about this. I've tried comparing just about every attribute I can think of- I've printed the results of `typeid(vertexSource) == typeid(vertex_o)`, `typeid(*vertexSource) == typeid(*vertex_o)`, `*vertexSource == *vertex_o`, `sizeof(vertexSource) == sizeof(vertex_o)`, and they all evaluate to true! (`vertexSource == vertex_o` evaluates to false as expected, as they are different pointers).
+
+For the life of me, I cannot figure out why trying to one variable would break my code, while passing another (functionally identical, as far as I can figure out) would break it. Does anyone have any ideas?
+
+Here are my source files- [main file](https://gist.github.com/pipsqueaker/2f90f1078df1f36b58316f2bf9618352), [shader loader](https://gist.github.com/pipsqueaker/2294f563757ad39574b79a33f01c8368), and [vertex source file](https://gist.github.com/pipsqueaker/f782a704a570dc0ca099fa59e59c8d9b)",opengl,Passing two functionally identical variables to glShaderSource gives completely different results?,https://www.reddit.com/r/opengl/comments/51nigs/passing_two_functionally_identical_variables_to/
+23,2016-09-05 22:40:50+00:00,self.math,https://www.reddit.com/r/math/comments/51c1jz/good_books_for_learning_control_systems_theory/,False,"My school uses Hespanha's ""Linear systems theory"" as its textbook, but the reviews on Amazon don't exactly inspire confidence. Does anyone have any recommendations?",math,Good books for learning control systems theory?,https://www.reddit.com/r/math/comments/51c1jz/good_books_for_learning_control_systems_theory/
+24,2016-08-24 18:18:21+00:00,self.gatech,https://www.reddit.com/r/gatech/comments/4zdyvz/shoes_and_rain/,False,"Hey, does anyone have any advice on how to dry shoes? I've got a pair of sandals which I got wet while walking through the rain a day or two ago, and I'm wondering how best to get them completely dry so they don't start to smell really bad. If I was home then I'd just leave them outside in the sun to bake for a few hours, but obviously I can't really do that here and the room doesn't really get hot enough to dry them out.
+
+I will be buying some antifungal spray (any recommendations?) regardless, but walking around in soggy shoes isn't exactly pleasant either. 
+
+Anything you guys can tell me?",gatech,Shoes and Rain,https://www.reddit.com/r/gatech/comments/4zdyvz/shoes_and_rain/
+25,2016-08-03 20:07:35+00:00,self.circlejerk,https://www.reddit.com/r/circlejerk/comments/4w0jk9/til_you_dont_even_need_to_wait_until_a_gif_is_off/,False,[removed],circlejerk,TIL You don't even need to wait until a gif is off the front page to repost,https://www.reddit.com/r/circlejerk/comments/4w0jk9/til_you_dont_even_need_to_wait_until_a_gif_is_off/
+26,2016-08-02 00:21:31+00:00,self.gatech,https://www.reddit.com/r/gatech/comments/4vppi7/why_does_this_school_have_such_short_vacations/,False,"Tech seems to have at least three weeks less vacation (looking at winter and fall breaks) than a whole lot of other schools, and manages to have finals around the same time as most of them 
+
+Does it just have that many more days of instruction?",gatech,Why does this school have such short vacations?,https://www.reddit.com/r/gatech/comments/4vppi7/why_does_this_school_have_such_short_vacations/
+27,2016-06-04 22:37:36+00:00,chiefdelphi.com,https://www.reddit.com/r/FRC/comments/4mkmg2/some_questions_on_the_control_system/,False,,FRC,Some questions on the control system...,http://www.chiefdelphi.com/forums/showthread.php?p=1591459#post1591459
+28,2016-06-03 17:49:24+00:00,self.PickAnAndroidForMe,https://www.reddit.com/r/PickAnAndroidForMe/comments/4me3k4/im_looking_for_any_phone_which_has_the_following/,False,"- Fully rootable and bootloader unlockable
+- Removeable battery
+- Expandable storage
+
+Any suggestions?",PickAnAndroidForMe,I'm looking for any phone which has the following attributes...,https://www.reddit.com/r/PickAnAndroidForMe/comments/4me3k4/im_looking_for_any_phone_which_has_the_following/
+29,2016-06-02 21:10:24+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/4m9fby/so_i_havent_really_visited_rdota2_since_december/,False,what's been going on? I hear universe is bad now? Any dank new memes I need to learn?,DotA2,"So, I haven't really visited /r/dota2 since December...",https://www.reddit.com/r/DotA2/comments/4m9fby/so_i_havent_really_visited_rdota2_since_december/
+30,2016-05-23 00:03:17+00:00,self.galaxys5,https://www.reddit.com/r/galaxys5/comments/4kl8um/has_a_bootloader_unlock_come_out_yet_for_the_att/,False,,galaxys5,"Has a bootloader unlock come out yet for the AT&amp;T s5 with a Toshiba emmc? If so, how do I about installing custom ROMs?",https://www.reddit.com/r/galaxys5/comments/4kl8um/has_a_bootloader_unlock_come_out_yet_for_the_att/
+31,2016-05-22 23:33:11+00:00,self.AndroidQuestions,https://www.reddit.com/r/AndroidQuestions/comments/4kl4h8/did_anyone_ever_unlock_the_verizon_s5s_bootloader/,False,"It's been a few years so I have little hope, but is there finally a way to install non-touchwiz ROMs on the thing?",AndroidQuestions,Did anyone ever unlock the Verizon S5's bootloader?,https://www.reddit.com/r/AndroidQuestions/comments/4kl4h8/did_anyone_ever_unlock_the_verizon_s5s_bootloader/
+32,2016-05-22 22:55:12+00:00,self.Android,https://www.reddit.com/r/Android/comments/4kkyu0/did_the_verizon_s5_ever_get_an_unlocked_bootloader/,False,[removed],Android,Did the Verizon S5 ever get an unlocked bootloader?,https://www.reddit.com/r/Android/comments/4kkyu0/did_the_verizon_s5_ever_get_an_unlocked_bootloader/
+33,2016-05-15 19:10:49+00:00,self.HomeworkHelp,https://www.reddit.com/r/HomeworkHelp/comments/4jhh67/hs_english_a_question_about_using_literary_lenses/,False,"I need to write an essay on a book using the feminist lens- I've never really formally applied a lens before, so I just wanted to know how to use one- is it ""using the feminist lens"" if my thesis itself isn't really related to gender roles per se (like, for instance, ""one cannot allow oneself to become dependent on relationships""), but if I analyze the power women have in the book to support that? Or does my thesis have to be directly related to feminism (eg ""in this book women have all the power"")?",HomeworkHelp,[HS English] A question about using literary lenses,https://www.reddit.com/r/HomeworkHelp/comments/4jhh67/hs_english_a_question_about_using_literary_lenses/
+34,2016-03-29 19:12:10+00:00,self.circlejerk,https://www.reddit.com/r/circlejerk/comments/4cgzhy/legendary_ent_snoop_dog_smokes_420_blunts_every/,False,[removed],circlejerk,Legendary Ent Snoop Dog smokes 42.0 blunts every day and there isn't even a post on the front page about him. Thank him by upvoting this post.,https://www.reddit.com/r/circlejerk/comments/4cgzhy/legendary_ent_snoop_dog_smokes_420_blunts_every/
+35,2016-03-24 00:53:14+00:00,self.FRC,https://www.reddit.com/r/FRC/comments/4bpg9w/where_is_everyone_getting_their_fancy_775_pros/,False,"At every competition I go to teams seem to have these dark silver, anodized, brushed 775 pro motors. I was wondering which supplier these came from, since they just look a lot different from the ones Vex sells.
+
+Also if anyone could somehow sell us a pair of 775 pro motors I'd be really grateful, because we'd really like to use one on the next iteration of our intake but they're out of stock for the year on Vex :(",FRC,Where is everyone getting their fancy 775 pros?,https://www.reddit.com/r/FRC/comments/4bpg9w/where_is_everyone_getting_their_fancy_775_pros/
+36,2016-03-11 21:12:23+00:00,self.Terraria,https://www.reddit.com/r/Terraria/comments/4a0roc/how_to_fight_cthulus_brain/,False,"I'm new to Terraria, and I tried fighting the brain recently. I summoned it by killing the heart things, but I lost the first time and now I can't find any more- the wiki indicates that I can craft an item to summon the thing, but I've looked everywhere I can for vile mushrooms and I cant find them anywhere- there's only one corruption chasm in my entire world as far as I can tell, and it's in a snow biome so there are no mushrooms to be found anywhere.
+
+Am I stuck? How do I get past this?",Terraria,How to fight Cthulu's Brain?,https://www.reddit.com/r/Terraria/comments/4a0roc/how_to_fight_cthulus_brain/
+37,2016-03-07 03:44:24+00:00,self.FRC,https://www.reddit.com/r/FRC/comments/49art8/video_of_waterford_district_event/,False,I need to see me some 33 and 67,FRC,Video of Waterford District Event?,https://www.reddit.com/r/FRC/comments/49art8/video_of_waterford_district_event/
+38,2016-02-14 00:48:44+00:00,gist.github.com,https://www.reddit.com/r/linux_gaming/comments/45npvf/xcom_2_video_hanging_after_clicking_new_game_ive/,False,,linux_gaming,"XCOM 2 video hanging after clicking ""new game:"" I've uploaded the report file, can anyone help me make sense of it?",https://gist.github.com/pipsqueaker/fef70a989dc722fe290a
+39,2016-02-13 04:13:10+00:00,self.Xcom,https://www.reddit.com/r/Xcom/comments/45inxv/xcom_2_not_working_on_linux/,False,"I can navigate the menus fine, but when I try to start a game the opening cutscene starts playing, but I can only hear the audio- the screen is completely black. 
+
+Also, if I alt-tab out and back in the game window imprints on some random section of the screen, stays like that forever, then crashes.
+
+Specs:
+
+Nvidia 650m
+Intel i7
+Ubuntu 14.04",Xcom,XCOM 2 not working on Linux?,https://www.reddit.com/r/Xcom/comments/45inxv/xcom_2_not_working_on_linux/
+40,2016-02-03 21:54:09+00:00,self.math,https://www.reddit.com/r/math/comments/4423sg/does_a_proof_of_limh0_sinhh_1_exist_without_using/,False," I've been trying to prove that the derivative of sin is cos, and have managed to prove using the definition of limit that the derivative of sin(x) is cos(x) * lim[h-&gt;0] sin(h)/h; I know the limit is 1, but I can't prove it.
+
+I can think of ways to prove the limit using taylor series and l'hopital's rule (also I can't use l'hopital's b/c I havent proved this), but not without accepting that the derivative of sin(x) = cos(x) in the first place.
+
+To be clear- I DONT WANT TO KNOW how to actually prove the thing, I just want to know if a method exists which I could use having only taken AP Calc",math,Does a proof of lim[h-&gt;0] sin(h)/h = 1 exist without using l'hopital's rule or the taylor series definitons of sin(x) and cos(x)?,https://www.reddit.com/r/math/comments/4423sg/does_a_proof_of_limh0_sinhh_1_exist_without_using/
+41,2016-02-01 12:54:06+00:00,self.FRC,https://www.reddit.com/r/FRC/comments/43obbb/is_there_a_rule_limiting_how_long_the_cables_from/,False,"I swear I saw a rule that said there was an intermediary wire length limit of 20 inches or something, but yesterday I was looking through the rules and I couldn't find anything to that effect. Anyone else know anything about this?",FRC,Is there a rule limiting how long the cables from the battery to PDP can be?,https://www.reddit.com/r/FRC/comments/43obbb/is_there_a_rule_limiting_how_long_the_cables_from/
+42,2016-01-27 21:56:29+00:00,self.tipofmytongue,https://www.reddit.com/r/tipofmytongue/comments/42zxtu/tomt_a_song/,False,"I think the genre is rock or something, there was a male vocalist singing to a tune something like [this](http://vocaroo.com/i/s1cmrlJCZjta) (warning, it might be a bit loud). I've heard it before so it's definitely a reasonably popular song",tipofmytongue,[TOMT] A song,https://www.reddit.com/r/tipofmytongue/comments/42zxtu/tomt_a_song/
+43,2016-01-25 21:31:45+00:00,self.linux,https://www.reddit.com/r/linux/comments/42nv2j/trackpad_has_all_of_a_sudden_lost_functionality/,False,[removed],linux,Trackpad has all of a sudden lost functionality?,https://www.reddit.com/r/linux/comments/42nv2j/trackpad_has_all_of_a_sudden_lost_functionality/
+44,2016-01-24 22:57:10+00:00,self.math,https://www.reddit.com/r/math/comments/42i8lz/interested_in_teaching_myself_linear_algebra_does/,False,"i was planning on just going to MIT OCW and jumping in, but I was wondering if you guys had any better ideas",math,"Interested in teaching myself linear algebra, does anyone have any suggestions how?",https://www.reddit.com/r/math/comments/42i8lz/interested_in_teaching_myself_linear_algebra_does/
+45,2016-01-15 23:52:44+00:00,self.FRC,https://www.reddit.com/r/FRC/comments/415tkn/does_drilling_holes_into_carbon_fiber_stock/,False,"We're considering using some 1x1 carbon fiber stock this year, and we were wondering how exactly you would join pieces together. With aluminum stock we'd just drill some eighth-inch holes and gusset things together, but we've never worked with carbon fiber so we're not sure how it holds up to the stresses of riveting, drilling, etc. compared to aluminum",FRC,Does drilling holes into carbon fiber stock reduce its strength significantly?,https://www.reddit.com/r/FRC/comments/415tkn/does_drilling_holes_into_carbon_fiber_stock/
+46,2016-01-14 14:27:42+00:00,self.circlejerk,https://www.reddit.com/r/circlejerk/comments/40xrq3/in_case_you_havent_noticed_alan_rickman_giant_of/,False,This was a man who had his head on right,circlejerk,"In case you haven't noticed, Alan Rickman, giant of British Film and Theatre and close friend of Bernie ""Immigrants suck"" Sanders, dies at 69",https://www.reddit.com/r/circlejerk/comments/40xrq3/in_case_you_havent_noticed_alan_rickman_giant_of/
+47,2016-01-12 21:14:30+00:00,self.discordapp,https://www.reddit.com/r/discordapp/comments/40ogr0/discord_voice_chat_connects_then_immediately/,False,"I'm on linux so maybe that's part of it, but basically when I try to connect to a voice server discord tries to connect for a few seconds, flashes a green symbol, and then almost immediately shows ""disconnected."" Has anyone else run into this issue?
+
+EDIT: It's hard to tell because it disconnects so fast, but it looks like it fails on ICE checking or something like that",discordapp,Discord Voice Chat connects then immediately disconnects?,https://www.reddit.com/r/discordapp/comments/40ogr0/discord_voice_chat_connects_then_immediately/
+48,2016-01-07 19:36:06+00:00,firstinspires.org,https://www.reddit.com/r/FRC/comments/3zx316/the_encrypted_manual_has_been_uploaded/,False,,FRC,The encrypted manual has been uploaded,http://www.firstinspires.org/resource-library/frc/competition-manual-qa-system
+49,2016-01-05 01:51:14+00:00,self.Ubuntu,https://www.reddit.com/r/Ubuntu/comments/3zhvmy/i_just_overwrote_mac_osx_with_linux_and_my_boot/,False,"Hi everyone! I recently managed to fuck up my dual boot of OSX and Ubuntu, so an hour or two ago I wiped my hard drive and installed Linux. I'm actually typing this from my ubuntu install right now and it's stable enough (well, besides google chrome crashing my system every 10 minutes), so I can't complain.
+
+My one issue is that my boot times have increased significantly. Whenever I start my computer it just kinda hangs around on a white screen for 30 seconds before finally turning purple and showing me GRUB. My hunch (read: layman's guess) is that my boot system is throwing a temper tantrum and is trying to find some OSX partition to boot before finally relenting and booting me into GRUB.
+
+It seems like this is a known issue, as it is [mentioned at the end of this askubuntu question here](http://askubuntu.com/questions/42711/how-to-install-ubuntu-as-the-single-os-on-a-macbook)- however I don't have a macbook partition on my HDD and I dont have an install disk. Are there any ways to fix this problem ubuntu-side?
+
+EDIT: Alright for the second time today I'm discovering that I'm more competent than I thought I was. I solved the problem by booting into internet recovery and blessing the smallest partition on my disk (disk0s1), which cut off the vast majority of the white screen boot time",Ubuntu,"I just overwrote Mac OSX with Linux, and my boot times have increased by about 30 seconds. Could someone help me troubleshoot?",https://www.reddit.com/r/Ubuntu/comments/3zhvmy/i_just_overwrote_mac_osx_with_linux_and_my_boot/
+50,2016-01-04 22:51:25+00:00,self.Ubuntu,https://www.reddit.com/r/Ubuntu/comments/3zh4ks/could_i_have_some_help_replacing_osx_with_ubuntu/,False,"Basically I have a MacBook Pro with a hard drive completely dedicated to Mac OSX. It might as well be factory new. I would appreciate a guide which walks me through the steps to completely replace Mac OSX with Ubuntu (not dual boot). The end goal of this is getting a dual-boot of Windows 7 and Ubuntu on the computer (why, you ask, do I have a MacBook then? I ask myself that question every day)
+
+There is *one* feature I would like to keep, and that is the internet recovery feature of the MacBook- where, upon pressing the alt button at startup, I can enter Internet recovery and do things like wipe the hard drive, reinstall Mac OS X, etc. I've been told this is a function of the BIOS, and that I cannot actually fuck this up my partitioning my hard drive. However when it comes to my computer I have a remarkable capability to fuck things up, and would appreciate some reassurances on this subject if you could give any
+
+EDIT: It turned out the solution was very simple- wipe the hard drive and install from my usb stick. GRUB wasn't showing up so I downloaded and ran boot-repair, and now it's working fine. One complaint I do have is that my boot times have increased to around 80 seconds, whereas before they were... less. I'll be making another thread on this soon to ask for help",Ubuntu,Could I have some help replacing OSX with Ubuntu?,https://www.reddit.com/r/Ubuntu/comments/3zh4ks/could_i_have_some_help_replacing_osx_with_ubuntu/
+51,2016-01-03 22:11:44+00:00,self.FRC,https://www.reddit.com/r/FRC/comments/3zbrfh/what_attendance_standards_do_you_guys_have_if_any/,False,,FRC,"What attendance standards do you guys have, if any?",https://www.reddit.com/r/FRC/comments/3zbrfh/what_attendance_standards_do_you_guys_have_if_any/
+52,2016-01-03 16:52:56+00:00,self.FRC,https://www.reddit.com/r/FRC/comments/3zaf7o/how_do_you_guys_deal_with_large_groups_on_kickoff/,False,"My team is pretty large (50-ish people)- our school does have rooms which would accommodate the entire group, but I'm not sure that's the best option. I was wondering how other teams (effectively) prevent kickoff from descending into chaos. This includes some questions like, 
+
+* How do you split people up? 
+* If you dont split into groups, how do you moderate large discussions 
+* How do you include and manage semi-clueless freshman on kickoff?",FRC,How do you guys deal with large groups on kickoff?,https://www.reddit.com/r/FRC/comments/3zaf7o/how_do_you_guys_deal_with_large_groups_on_kickoff/
+53,2015-12-29 18:06:22+00:00,self.kotor,https://www.reddit.com/r/kotor/comments/3yogur/just_started_a_playthrough_of_kotor_i_have_some/,False,"* First off, what's the best order to visit the planets in? [This post](http://www.gamefaqs.com/boards/516675-star-wars-knights-of-the-old-republic/51129444) on gamefaqs gives a good order, I'm just not sure whether it's worth the trouble. On my past playthroughs I always end up doing Tatooine (hk47!) -&gt; Kashyyk -&gt; Korriban -&gt; Manaan
+
+* This is my first playthrough of the PC version, what's Yavin? I dont want to read the wiki page because of spoilers- I'd just appreciate some advice on if it's a whole nother planet, when I should visit it, etc.
+
+* What do I do with credits? I've gone entire playthroughs without buying anything but medpacks and grenades- are there any items I should definitely try to buy? In the same vein, are ultra-expensive named items like Cassus Fett's armor worth it?
+
+Also, I just finished Taris without leveling up. Too early in game to see if it was worth. I feel like a celebrity now, ama!
+
+Hope you guys are having a happy holiday!",kotor,"Just started a playthrough of KOTOR, I have some questions",https://www.reddit.com/r/kotor/comments/3yogur/just_started_a_playthrough_of_kotor_i_have_some/
+54,2015-12-27 00:54:32+00:00,self.linux_gaming,https://www.reddit.com/r/linux_gaming/comments/3ycg3e/is_there_any_way_to_play_kotor_i_on_linux_the_pol/,False,"I used POL to install KOTOR I on steam (Ubuntu 15.04, nvidia 650m), but it just crashed every time I tried to launch it. Googling around, it seemed like many others had the same problem and that KOTOR is completely unplayable on Linux.
+
+If anyone has managed to get it working, could you provide some advice?",linux_gaming,Is there any way to play KOTOR I on Linux? The POL version doesn't work doesn't work for me,https://www.reddit.com/r/linux_gaming/comments/3ycg3e/is_there_any_way_to_play_kotor_i_on_linux_the_pol/
+55,2015-12-22 02:53:44+00:00,self.Cornell,https://www.reddit.com/r/Cornell/comments/3xsaxx/question_about_the_cornell_engineering_facilities/,False,"OK, so I'd like to ask a question about the [facilities on this page](https://www.engineering.cornell.edu/research/facilities.cfm). How freely can undergrad students access / use these labs? Some of the websites indicate that you can sign up to use lab equipment with a student number, but that seems... way too accessible.
+
+By the way the reason I'm asking is that I'm actually applying right now, and I wanted to learn whether these would be valid resources to include",Cornell,Question about the Cornell Engineering facilities,https://www.reddit.com/r/Cornell/comments/3xsaxx/question_about_the_cornell_engineering_facilities/
+56,2015-12-20 19:59:34+00:00,self.Music,https://www.reddit.com/r/Music/comments/3xm26s/need_help_identifying_a_star_wars_track/,False,"[At 52 seconds in ""March of the Resistance""](https://youtu.be/ueqKtype7Kk?t=52s) there's an amazing theme which I'm pretty sure I remember being fully developed in another Star Wars track. However, for the life of me, I cant figure out what that other song is. Could someone identify it for me?",Music,Need help identifying a Star Wars Track,https://www.reddit.com/r/Music/comments/3xm26s/need_help_identifying_a_star_wars_track/
+57,2015-12-20 15:12:28+00:00,self.StarWars,https://www.reddit.com/r/StarWars/comments/3xl0rj/need_help_identifying_a_song/,False,"[At 52 seconds in ""March of the Resistance""](https://youtu.be/ueqKtype7Kk?t=52s) there's an amazing theme which I'm pretty sure I remember being fully developed in another Star Wars track. However, for the life of me, I cant figure out what that other song is. Could someone identify it for me?",StarWars,Need help identifying a song,https://www.reddit.com/r/StarWars/comments/3xl0rj/need_help_identifying_a_song/
+58,2015-12-19 02:47:27+00:00,self.StarWars,https://www.reddit.com/r/StarWars/comments/3xf82b/spoilers_hologram_technology_has_come_a_long_way/,False,Too bad people have been investing in fancy holograms instead of defense systems against those planetary superweapons that keep popping up,StarWars,[Spoilers] Hologram technology has come a long way since the Republic...,https://www.reddit.com/r/StarWars/comments/3xf82b/spoilers_hologram_technology_has_come_a_long_way/
+59,2015-12-17 16:11:26+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3x884p/whats_up_with_all_the_bloat_hate_recently/,False,"I've been gone for for a while, and when I return the sub is half-filled with ""fuck bloat"" threads.
+
+I mean, he's an annoying boss but he hasn't changed and has been in the game forever, why is there such a resurgence in hatred all of a sudden?",bindingofisaac,What's up with all the bloat hate recently,https://www.reddit.com/r/bindingofisaac/comments/3x884p/whats_up_with_all_the_bloat_hate_recently/
+60,2015-12-15 22:50:16+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3x043i/tip_instead_of_refreshing_front_page_refresh/,False,[removed],DotA2,"Tip: instead of refreshing front page, refresh /u/wykrhm's user page for insta-notification",https://www.reddit.com/r/DotA2/comments/3x043i/tip_instead_of_refreshing_front_page_refresh/
+61,2015-12-14 23:02:23+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3wukyk/୧ಠ益ಠ୨_give_patch_notes_or_riot_୧ಠ益ಠ୨/,False,[removed],DotA2,୧༼ಠ益ಠ༽୨ GIVE PATCH NOTES OR RIOT ୧༼ಠ益ಠ༽୨,https://www.reddit.com/r/DotA2/comments/3wukyk/୧ಠ益ಠ୨_give_patch_notes_or_riot_୧ಠ益ಠ୨/
+62,2015-12-10 02:29:12+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3w5vk1/is_there_an_all_star_match_at_the_summit_this_year/,False,[removed],DotA2,Is there an all star match at the summit this year?,https://www.reddit.com/r/DotA2/comments/3w5vk1/is_there_an_all_star_match_at_the_summit_this_year/
+63,2015-12-07 15:12:08+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3vspzf/hi_im_a_support_player_in_solo_queue_please_give/,False,Dae wards?!,DotA2,Hi I'm a support player in solo queue please give me karma,https://www.reddit.com/r/DotA2/comments/3vspzf/hi_im_a_support_player_in_solo_queue_please_give/
+64,2015-11-28 22:46:53+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3un39n/about_angel_rooms/,False,"Are there any mods to make them more reliable or... something?
+
+I'm going for Mega Satan as the Lost, and my problem is almost never surviving, but actually getting the damn rooms to spawn. 
+
+I've seen complaints about Angel Rooms before- here's a list of what needs to happen to even have a chance at getting the Key Pieces
+
+* You have to pass up on your first Devil Deal
+* You have to hope that you don't get another Devil Deal immediately after passing up your first, otherwise you're basically screwed
+* You have to hope the game doesn't decide to screw you over for getting a Devil/Angel room two floors ago
+* You need to hope that your Angel Rooms dont turn back into Devil Rooms for no reason (taking an Angel item doesn't even set precedent).
+* You will most likely have to forgo shop items in order to donate coins to get an extra chance at getting an Angel room, if it decides to spawn at all (and the bonus resets each floor)
+
+There are too many requirements, and you can't reliably set precedent like you can with Devil Deals. It's almost completely RNG based whether you can get the key pieces. It's gotten to the point where, instead of resetting for a good item on the Lost, I'm just resetting for Dad's Key
+",bindingofisaac,About Angel Rooms...,https://www.reddit.com/r/bindingofisaac/comments/3un39n/about_angel_rooms/
+65,2015-11-28 01:46:55+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3uj8ep/i_think_i_might_have_made_the_biggest_throw_in/,False,"I was just playing as the Lost trying to do Greed Mode. My first D4 roll I rolled my Holy Mantle + HP upgrade into Ipecac and Host Hat. The next floor my item room is God Head
+
+I then proceed to wipe the next few floors without taking a hit, picking up Death's Touch, Cricket's Head, the 1up, and a few other items. Even so, I'm a bit nervous because I realize none of my items matter for Ultra Greed
+
+I make it to the Shop (the floor) without getting hit, and proceed to pick up Gnawed Lead and the Shears. At this point, I know I'm golden. I can almost see the tick on my post-it.
+
+When I activate the Boss button on the Chest, a Diglett pops up on the Stain Wave (seriously Edmund, is this the only Boss fight ever on that floor?) and instagibs me, burning my 1up. Frustrating, but no biggie. I check the shop. There's a battery so I decide to use Gnawed Lead + Shears and then buy the battery just to be safe.
+
+I beat the Boss waves and come back into the shop, and start rerolling with the machine, looking for good items. When the machine blows up I happen to glance at the charge on my spacebar item, my heart stops- it's empty. I race through the room- no batteries.
+
+Fuck.
+
+
+I'm at serious risk of chucking something at the wall, but I calm myself. I can still win this, I say. I then go down to Ultra Greed and manage to take out half his hp before being hit by his spinny attack.
+
+
+
+Someone end it all. I dont think I can go on anymore
+
+On another note, does anyone have a throw to rival mine?
+
+",bindingofisaac,I think I might have made the biggest throw in Isaac history...,https://www.reddit.com/r/bindingofisaac/comments/3uj8ep/i_think_i_might_have_made_the_biggest_throw_in/
+66,2015-11-15 03:46:20+00:00,self.northernlion,https://www.reddit.com/r/northernlion/comments/3suy6q/is_jsmithoti_back_to_the_nlss/,False,,northernlion,Is JSmithOTI back to the NLSS?,https://www.reddit.com/r/northernlion/comments/3suy6q/is_jsmithoti_back_to_the_nlss/
+67,2015-11-14 22:43:04+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3styaq/arg_spoiler_unlock_bugged_for_me/,False,"I just blew up the Greed Machine, but I didnt unlock a new character or anything.
+
+I did it once and then realized I hadnt updated the game, and I just updated and did it again. Still nothing. I should mention that I had 999 coins before the update
+
+Am I doing something wrong?",bindingofisaac,[ARG SPOILER] Unlock bugged for me?,https://www.reddit.com/r/bindingofisaac/comments/3styaq/arg_spoiler_unlock_bugged_for_me/
+68,2015-11-13 19:06:48+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3sp0mo/game_just_updated/,False,,bindingofisaac,GAME JUST UPDATED,https://www.reddit.com/r/bindingofisaac/comments/3sp0mo/game_just_updated/
+69,2015-11-13 13:44:05+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3snspn/can_someone_solicit_help_from_rsantacruz/,False,"I'm in school so I don't have time to make a post, but the sub seems reasonably active, and I'm sure someone would go to the boardwalk for us (especially since it's Friday)",bindingofisaac,Can someone solicit help from /r/santacruz?,https://www.reddit.com/r/bindingofisaac/comments/3snspn/can_someone_solicit_help_from_rsantacruz/
+70,2015-11-12 19:31:17+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3ski38/tips_for_brains_challenge/,False,"Let me preface this by saying that I'm pretty OK at this challenge, I gotten to the Cathedral and Chest. However I feel like I'm lacking something, as I never can handle the kamikaze worms, or a lot of the chest bosses.
+
+Do any of you have any general advice for this challenge?",bindingofisaac,Tips for Brains challenge?,https://www.reddit.com/r/bindingofisaac/comments/3ski38/tips_for_brains_challenge/
+71,2015-11-08 19:35:28+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3s1ekg/using_hourglass_on_ultra_greed_fight_made_me_lose/,False,"I was trying out /u/aleksator's [guide on getting generosity](https://www.reddit.com/r/bindingofisaac/comments/3rzug8/a_complete_guide_to_being_generous_in_greed_mode/?sort=new).
+
+I got all the way down to Ultra Greed with Hourglass and Chaos Card in tow- I killed UG and donated some. I then used the Hourglass, but it spawned me outside the Greed fight with no Hourglass, no Chaos Card, and (it looked like) no items at all.
+
+Does anyone know what's going on here? Did the game get patched?",bindingofisaac,Using Hourglass on Ultra Greed fight made me lose it and Chaos Card?,https://www.reddit.com/r/bindingofisaac/comments/3s1ekg/using_hourglass_on_ultra_greed_fight_made_me_lose/
+72,2015-11-08 18:41:27+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3s16rz/when_was_the_last_patch/,False,"my game just updated, I want to know if if the blank card / 2 of diamonds strat on the front page has been patched out before I go trying it",bindingofisaac,When was the last patch?,https://www.reddit.com/r/bindingofisaac/comments/3s16rz/when_was_the_last_patch/
+73,2015-11-04 13:48:50+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3rhpm9/so_remember_when_ed_said_that_he_was_sick_of/,False,"Well now there's barely any reason to play most of the other characters
+
+Maggy is basically objectively worse than Isaac 
+
+Everything that made Cain good was nerfed in Rebirth
+
+Judas's guaranteed Devil Deal was removed. After a year. I mean come on, any obvious bug like that which stays in a game for a year becomes a feature
+
+Eve is meh, and always has been
+
+Samson is literally Isaac without the D6, and with a mediocre passive item
+
+Lazarus is mediocre
+
+The Lost is shit
+
+Azazel has been nerfed to shit
+
+Lilith has also been nerfed
+
+Isaac, Blue Baby and Eden are still as good as ever (EDIT: not saying BB is good, but he's unique at least), but there's no real reason to play any other characters now. They're either just slightly different versions of Isaac, and  everything which made the characters like Azazel and Lilith genuinely unique  has been nerfed. The game just feels like a slog right now, and not a fun one at that",bindingofisaac,So remember when Ed said that he was sick of people just playing Isaac all the time?,https://www.reddit.com/r/bindingofisaac/comments/3rhpm9/so_remember_when_ed_said_that_he_was_sick_of/
+74,2015-11-03 04:25:33+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3rb7be/a_theory_about_my_shadow_with_evidence/,False,"Ending 17 shows some sort of demon growing out of Isaac's shadow. We know that there's a new item in Afterbirth called ""My Shadow,"" which is generally regarded to be pretty crappy. Is it possible that this is the key to unlocking the secret?
+
+EVIDENCE: In [LastGreyWolf's mysterious chest shaking video](http://www.twitch.tv/last_grey_wolf/v/23580096?t=02h36m20s), you can see that he has a leech spawned from My Shadow. The leech is consistently attracted towards the ending chest, even though they it keeps being blown away from it. Eventually, after the My Shadow leech is undisturbed for some time, the chest starts to shake and the mysterious character appears. 
+
+It's not just a Leech AI thing, as he has another leech which isn't attracted to the Chest at all. My Shadow has to be a part of solving this puzzle",bindingofisaac,A theory about my Shadow... [With evidence],https://www.reddit.com/r/bindingofisaac/comments/3rb7be/a_theory_about_my_shadow_with_evidence/
+75,2015-11-03 04:10:25+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3rb59f/based_on_the_tweet_about_not_lining_your_pockets/,False,Has anyone tried a vanilla run (and beat the hush) without picking up any money at all?,bindingofisaac,Based on the tweet about not lining your pockets...,https://www.reddit.com/r/bindingofisaac/comments/3rb59f/based_on_the_tweet_about_not_lining_your_pockets/
+76,2015-11-02 21:34:23+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3r9jow/has_anyone_tried_not_provoking_secret_boss_and/,False,"We know that the Baby doesn't attack you unless you attack it, so perhaps we need to just wait for a few minutes without provoking it (1:09 or 1:49 minutes perhaps?). Another thing to try would be using the shovel in the ??? Secret Room
+
+I actually got all the way down to the Hush as Blue Baby with a moon card, but then Abel shot across the room and hit the Boss, ending my run :(",bindingofisaac,"Has anyone tried not provoking secret boss, and then not doing anything?",https://www.reddit.com/r/bindingofisaac/comments/3r9jow/has_anyone_tried_not_provoking_secret_boss_and/
+77,2015-11-01 00:58:14+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3r164m/do_the_cthulu_angel_or_mom_transformations_do/,False,[removed],bindingofisaac,"Do the Cthulu, Angel, or Mom transformations do anything special?",https://www.reddit.com/r/bindingofisaac/comments/3r164m/do_the_cthulu_angel_or_mom_transformations_do/
+78,2015-10-31 00:15:30+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3qwri4/how_the_hell_are_you_supposed_to_beat_the_zombie/,False,"Ultra greed summons about fifty gazillions zombie greeds, how are you even supposed to get through them w/o taking damage? Are you just supposed to be super OP at that point?",bindingofisaac,How the hell are you supposed to beat the Zombie apocalypse in Greed Mode?,https://www.reddit.com/r/bindingofisaac/comments/3qwri4/how_the_hell_are_you_supposed_to_beat_the_zombie/
+79,2015-10-30 19:07:54+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3qvjix/if_you_get_an_item_which_looks_a_bit_like_a_red/,False,It's garbage. It brings up a cursor which your character is continually firing towards which you control with he arrow keys. Be warned,bindingofisaac,If you get an item which looks a bit like a red celtic cross...,https://www.reddit.com/r/bindingofisaac/comments/3qvjix/if_you_get_an_item_which_looks_a_bit_like_a_red/
+80,2015-10-26 21:54:24+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/3qc5e9/whats_the_weight_of_a_single_preferably/,False,^,AskReddit,What's the weight of a single (preferably heavyweight) manilla folder?,https://www.reddit.com/r/AskReddit/comments/3qc5e9/whats_the_weight_of_a_single_preferably/
+81,2015-10-21 01:57:10+00:00,self.mit,https://www.reddit.com/r/mit/comments/3pkt1o/is_there_anything_special_about_biological/,False,"I'm applying to MIT and thought it would be fun to write my ""which program at MIT appeals to you"" essay on BE, as it combines my two big interests, but I can't really find anything special about MIT's program by snooping around on the web (or really anything at all, which makes me have second thoughts about writing about BE), so I was wondering if any of you had any suggestions",mit,Is there anything special about Biological Engineering compared to other schools?,https://www.reddit.com/r/mit/comments/3pkt1o/is_there_anything_special_about_biological/
+82,2015-10-17 15:11:21+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3p49v6/new_subreddit_rtheblindingofisaac_for_those_who/,False,"Hey errybody,
+
+I know there's a significant number of us who haven't been keeping up with Afterbirth news, specifically so we can go into the game blind. I haven't read any of the blog posts at all, so I have almost no clue of what's coming in the new expansion.
+
+That said, I don't exactly want to figure out everything in the expansion by myself, as I'm sure there'll be a LOT, so I created /r/theblindingofisaac as a means for people like me to discover the game together (everyone is welcome, as long as you dont spoiler with info from blog posts).
+
+I'm not sure if the sub will be a huge success, and I'm not really pushing to make that happen, I just figured I'd set it up and let others know about it.
+
+13 days until Afterbirth! I cant wait!^now^if^only^I^didnt^need^to^apply^for^college...",bindingofisaac,"New subreddit: /r/theblindingofisaac, for those who are entering Afterbirth blind",https://www.reddit.com/r/bindingofisaac/comments/3p49v6/new_subreddit_rtheblindingofisaac_for_those_who/
+83,2015-10-10 23:56:27+00:00,self.StarWarsEU,https://www.reddit.com/r/StarWarsEU/comments/3o9yn9/where_can_i_watch_the_cartoon_star_wars_clone_wars/,False,"I've tried to find it, but it seems as if Google has forgotten that there was a series before The Clone Wars. Every query I try leads me to the newer animated series.",StarWarsEU,Where can I watch the (cartoon) Star Wars: Clone Wars?,https://www.reddit.com/r/StarWarsEU/comments/3o9yn9/where_can_i_watch_the_cartoon_star_wars_clone_wars/
+84,2015-09-30 15:12:50+00:00,self.FRC,https://www.reddit.com/r/FRC/comments/3mz3yt/frc_doesnt_have_any_rules_about_students_from/,False,"I'm pretty sure that there are no restrictions of this kind, I just wanted to double check with you guys since I haven't been able to find any official statements regarding this",FRC,"FRC doesn't have any rules about students from other schools joining a team, right?",https://www.reddit.com/r/FRC/comments/3mz3yt/frc_doesnt_have_any_rules_about_students_from/
+85,2015-09-15 22:14:33+00:00,self.FRC,https://www.reddit.com/r/FRC/comments/3l3im2/know_any_good_team_building_activities/,False,"We have a new members night (UberNoober Night yay puns :) coming up, and we need some good ""team-building"" exercises (read: games to kill an hour or so)
+
+We'll play a name game, but was wondering if you guys had anything else, maybe even something Robotics-themed",FRC,Know any good team building activities?,https://www.reddit.com/r/FRC/comments/3l3im2/know_any_good_team_building_activities/
+86,2015-09-13 23:36:05+00:00,self.kotor,https://www.reddit.com/r/kotor/comments/3kudtz/kotor_ii_game_is_crashing_during_conversation/,False,"I get to the point where he says ""Safe journey exile,"" then the game crashes. Consistently
+
+I'm playing with the Restored Content mod and the Bastila Mature look mod. I said Revan was a light side male. Any advice?",kotor,[KOTOR II] Game is crashing during conversation with Carth?,https://www.reddit.com/r/kotor/comments/3kudtz/kotor_ii_game_is_crashing_during_conversation/
+87,2015-09-13 15:03:10+00:00,self.kotor,https://www.reddit.com/r/kotor/comments/3ksf80/could_someone_edit_some_repair_packs_into_my/,False,"I'm in the droid factory as HK 47, but I've run out of repair packs.
+
+I dont feel like waiting an hour between fights to regen health, so I wanted to ask if anyone could use a save editor to give me some repair kits. I'd do it myself, but I'm on linux and KSE seems not to work under Wine
+
+[Here's the download of my saves](https://drive.google.com/file/d/0B-F5LGQG20_baHl0bTJWYWFTY0k/view?usp=sharing), the one you need to edit should be the most recent",kotor,Could someone edit some repair packs into my inventory?,https://www.reddit.com/r/kotor/comments/3ksf80/could_someone_edit_some_repair_packs_into_my/
+88,2015-09-06 21:46:03+00:00,self.linux_gaming,https://www.reddit.com/r/linux_gaming/comments/3jwfwa/kotor_ii_is_there_any_way_to_edit_my_save_file_to/,False,"I just played through Nar Shadaa, and I didn't realize that Hanharr would be the one to join my party, since I'm Dark Side.
+
+I'd really like to have Mira though, for the entire jedi-training aspect. Is there any way I can edit my save to replace Hanharr with her, or maybe a mod which does this or something?
+
+EDIT: I found a mod which lets me choose, but my new problem is that I didnt save before the duel. So now my options are replaying through Nar Shadaa, or using a save game editor to edit my save.",linux_gaming,[KOTOR II] Is there any way to edit my save file to replace Hanharr with Mira?,https://www.reddit.com/r/linux_gaming/comments/3jwfwa/kotor_ii_is_there_any_way_to_edit_my_save_file_to/
+89,2015-09-06 15:48:41+00:00,self.Steam,https://www.reddit.com/r/Steam/comments/3jv6wp/will_using_steam_achievement_manager_on_tboi/,False,"Long story short, I got the 176 achievements legitimately and was gunning for the Plat god achievements, but then my save got wiped and now I'm faced with the prospect of putting another ~150 hours to do everything which I already did (which I might be fine with, except for the fact that there are some incredibly long and unfun tasks involved in that).",Steam,Will using Steam Achievement Manager on TBOI: Rebirth to get two achievements get me a VAC ban?,https://www.reddit.com/r/Steam/comments/3jv6wp/will_using_steam_achievement_manager_on_tboi/
+90,2015-09-05 16:58:00+00:00,self.math,https://www.reddit.com/r/math/comments/3jrfb6/question_about_epsilon_delta_limits/,False,"I'm pretty sure that the point of an epsilon-delta limit is to give delta as a function of epsilon (please correct me on this), but I just wanted to know whether it was OK to have an x, or a y, or some other variable in the equation for delta instead. For instance, would
+
+delta = x + epsilon / 3 be a valid end-equation for an epsilon-delta problem?",math,Question about epsilon delta limits,https://www.reddit.com/r/math/comments/3jrfb6/question_about_epsilon_delta_limits/
+91,2015-09-05 16:12:29+00:00,self.linux_gaming,https://www.reddit.com/r/linux_gaming/comments/3jr9h6/ubuntu_1404_extremely_inconsistent_fps_in_dota_2/,False,"I'm on Ubuntu 14.04- my problem is that Dota will sometimes give me extremely low fps, seemingly for no reason.
+
+Whether my FPS will be shit (~10) or decent/average for my computer (~60) seems to be determined at the beginning of the game. FPS when people are loading in varies every game, but when I enter the pick screen, I'll either get ~5fps or ~60fps, which is pretty much representative of how that game will be.
+
+The problem seems to occur randomly, and probably happens in 1/5 games. The only way I can fix it is to restart my computer completely, reloading the game/restarting Dota doesn't help. This is extremely frustrating, since I basically run the risk of getting an abandon every few games.
+
+It's not anything to do with other programs I'm running. Just last game, my process was Start computer -&gt; open Steam -&gt; start dota -&gt; enter game -&gt; get 10 FPS.
+
+I proceeded to restart my comp and all of a sudden, I'm getting 60 fps.
+
+Even to me this sounds like some sort of Ubuntu bug, but I thought I'd ask you guys here to see if any of you had the same problem
+
+EDIT- SYSTEM SPECS
+
+Ubuntu 14.04 
+
+nvidia 650m
+
+driver version- 352.30 from the xorg-edgers ppa",linux_gaming,[Ubuntu 14.04] Extremely inconsistent FPS in Dota 2,https://www.reddit.com/r/linux_gaming/comments/3jr9h6/ubuntu_1404_extremely_inconsistent_fps_in_dota_2/
+92,2015-09-05 15:29:13+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3jr3pl/linux_extremely_inconsistent_fps_only_way_to_fix/,False,"I'm on Ubuntu 14.04- my problem is that Dota will sometimes give me extremely low fps, seemingly for no reason.
+
+Whether my FPS will be shit (~10) or decent/average for my computer (~60) seems to be determined at the beginning of the game. FPS when people are loading in varies every game, but when I enter the pick screen, I'll either get ~5fps or ~60fps, which is pretty much representative of how that game will be.
+
+The problem seems to occur randomly, and probably happens in 1/5 games. The only way I can fix it is to restart my computer completely, reloading the game/restarting Dota doesn't help. This is extremely frustrating, since I basically run the risk of getting an abandon every few games.
+
+It's not anything to do with other programs I'm running. Just last game, my process was Start computer -&gt; open Steam -&gt; start dota -&gt; enter game -&gt; get 10 FPS.
+
+I proceeded to restart my comp and all of a sudden, I'm getting 60 fps.
+
+Even to me this sounds like some sort of Ubuntu bug, but I thought I'd ask you guys here to see if any of you had the same problem",DotA2,"[Linux] Extremely inconsistent FPS, only way to fix is to restart",https://www.reddit.com/r/DotA2/comments/3jr3pl/linux_extremely_inconsistent_fps_only_way_to_fix/
+93,2015-09-03 22:08:02+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3jjkkp/so_i_asked_mynuts_why_he_didnt_use_black_hole_all/,False,"He responded ""We're saving ults for TI6""",DotA2,So I asked MyNuts why he didn't use Black Hole all game...,https://www.reddit.com/r/DotA2/comments/3jjkkp/so_i_asked_mynuts_why_he_didnt_use_black_hole_all/
+94,2015-08-27 01:32:40+00:00,self.StarWarsEU,https://www.reddit.com/r/StarWarsEU/comments/3ijjol/heres_a_different_topic_what_eu_content_do_you/,,"For instance, *Death Troopers* was utter shit, an unimaginative zombie book disguised as a Star Wars novel. While I recognize that the nature of the Star Wars universe allows for stories such as these to co-exist with ""better"" stories, I still think *Death Troopers* and everything related to it is a waste of space on Wookiepedia.
+
+I think the EU suffers from a case of ""anything that can have a story must have a story"" and I prefer to pretend that a lot of what I consider bloat just doesn't exist, and I'd like to know what parts of it you guys revile too :)",StarWarsEU,"Here's a different topic- what EU content do you find to be garbage or bloat, and prefer to forget?",https://www.reddit.com/r/StarWarsEU/comments/3ijjol/heres_a_different_topic_what_eu_content_do_you/
+95,2015-08-23 01:38:49+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3i185f/can_someone_analyze_a_replay_for_me/,,"[Here's the dotabuff](http://www.dotabuff.com/matches/1736404621), I was the Lina.
+
+I thought I did decent this game, although I shouldnt have died twice to mirana arrow at top rune. I feel like this was a case of my team feeding and lesser misplays from me, but I was hoping you guys could find me something to improve on",DotA2,Can someone analyze a replay for me?,http://www.reddit.com/r/DotA2/comments/3i185f/can_someone_analyze_a_replay_for_me/
+96,2015-08-19 01:36:30+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3hiyg8/is_there_any_way_to_create_a_custom_hero_grid/,,It seems like [Dota2Layout](http://www.dota2layout.com/) doesnt work with the new format...,DotA2,Is there any way to create a custom hero grid layout?,http://www.reddit.com/r/DotA2/comments/3hiyg8/is_there_any_way_to_create_a_custom_hero_grid/
+97,2015-08-11 02:10:47+00:00,self.FRC,https://www.reddit.com/r/FRC/comments/3gjide/lathes/,,"I was looking for some CD suggestions on cheap lathes / cnc mills to get, and everyone seems to recommend the lathes. Is there any reason for this? Mills seem a lot more useful, as I would imagine lathes would restrict you to machining circular parts.
+
+Also, does anyone have recommendations for a good lathe we can buy (we dont have a whole lot of space in our workshop), in the $2000 or under price range?",FRC,Lathes,http://www.reddit.com/r/FRC/comments/3gjide/lathes/
+98,2015-08-09 14:24:05+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3gco1k/theres_some_unfinished_business_left_over_from/,,,DotA2,There's some unfinished business left over from the Grand Finals...,http://www.reddit.com/r/DotA2/comments/3gco1k/theres_some_unfinished_business_left_over_from/
+99,2015-08-04 04:56:05+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3fpmzo/is_leshrac_the_strongest_any_hero_has_been_in_dota/,,"Jug, troll and sniper were bad, but Leshrac, I feel, is just on another level",DotA2,Is Leshrac the strongest any hero has been in dota?,http://www.reddit.com/r/DotA2/comments/3fpmzo/is_leshrac_the_strongest_any_hero_has_been_in_dota/
+100,2015-08-04 02:12:42+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3fp4mc/turn_down_the_ping_volume_please/,,My ears NotLikeThis,DotA2,Turn down the ping volume please,http://www.reddit.com/r/DotA2/comments/3fp4mc/turn_down_the_ping_volume_please/
+101,2015-08-02 15:22:04+00:00,self.bindingofisaac,https://www.reddit.com/r/bindingofisaac/comments/3fijjx/is_there_any_way_to_force_upload_my_save_data_to/,,"So here's my story- a loooong time ago, when Rebirth came out, I had 100%ed the game- I had beaten everything with the Lost, did all the hard mode unlocks, etc 
+
+However one day I tried to downgrade my game version by replacing the game folder with a copy I had of another version, and ended up completely fucking everything- my save was totally deleted. I did the alt+f2 trick or whatever to ""sync"" my game with Steam- that ended up restoring character unlocks and items, but nothing else- all the challenges were shown as incomplete, the Lost wasn't unlocked, the little screen which showed which bosses I had beaten on each character was gone, the game said I hadn't picked up any items etc. 
+
+I really wan't to play Rebirth, but I have no desire to replay the challenges, especially now that Krampus's head (carried me through The Planets and the Purist) was nerfed. Don't even get e started on replaying the Lost.
+
+A few days ago I found a Real Platinum God save online which I replaced my local save with- however if I launch the game with Steam Cloud enabled, it reverts to the incomplete Golden God save with all the problems I mentioned above. Are there any solutions for this?",bindingofisaac,Is there any way to force upload my save data to the Steam Cloud?,http://www.reddit.com/r/bindingofisaac/comments/3fijjx/is_there_any_way_to_force_upload_my_save_data_to/
+102,2015-07-23 20:18:54+00:00,self.Terraria,https://www.reddit.com/r/Terraria/comments/3ed45w/so_im_a_linux_user_about_to_get_into_terraria/,,"I'm waiting anxiously for Terraria, and am a bit sad that despite it coming out ""today,"" it hasn't been released yet.
+
+Aside from that, I should mention that I did have and play Terraria on windows. However I didn't really see a point to the game, got bored of killing those eyeball things, and eventually stopped playing after 10 hours. 
+
+It seems that there's a lot of depth/gameplay that I'm missing in Terraria though, so I thought I'd seek some advice on what to do once I can play so I dont get bored and quit again",Terraria,"So I'm a Linux user about to get into Terraria, what should I know?",http://www.reddit.com/r/Terraria/comments/3ed45w/so_im_a_linux_user_about_to_get_into_terraria/
+103,2015-07-20 01:39:03+00:00,self.Steam,https://www.reddit.com/r/Steam/comments/3dw9kp/is_poly_bridge_really_worth_it/,,"The game seems great, but that could just be slick marketing.
+
+I know gifs are easily exportable and popular on /r/gaming right now, but I just wanted to see if the game was actually worth the $12",Steam,Is Poly Bridge really worth it?,http://www.reddit.com/r/Steam/comments/3dw9kp/is_poly_bridge_really_worth_it/
+104,2015-07-19 21:03:45+00:00,self.Dota2Trade,https://www.reddit.com/r/Dota2Trade/comments/3dvdta/h_genuine_golden_radiance_blades_w_poly_bridge/,," leave a comment here since I check reddit more than steam
+
+",Dota2Trade,[H] Genuine Golden Radiance Blades [W] Poly Bridge,http://www.reddit.com/r/Dota2Trade/comments/3dvdta/h_genuine_golden_radiance_blades_w_poly_bridge/
+105,2015-07-19 17:59:53+00:00,self.medical,https://www.reddit.com/r/medical/comments/3dus3g/my_ear_wont_pop_and_hasnt_for_a_year/,,"Over a year ago I had some really bad water in my ear, and it was not. coming. out. I tried everything, bulbs, shaking my head, paper towels, and then I used a Q-tip
+
+Boy, do I really regret that. I suspect that I stuck in in a little too deep, because after some initial pain I've had a weird pressure in my ear that has never gone away (I fortunately escaped hearing loss, however). And I can't seem to pop it away like regular pressure diffs.
+
+I visited a doctor, but he pretty much told me that my hearing was fine and that some people just have a different pressure in their ears, which doesn't tell me anything new at all, or why the pressure in my ears might be ""just different"" after I stuck a q-tip into it
+
+It's incredibly annoying to me- has anyone else ever experienced anything like this?",medical,My ear won't pop- and hasn't for a year,http://www.reddit.com/r/medical/comments/3dus3g/my_ear_wont_pop_and_hasnt_for_a_year/
+106,2015-07-19 16:29:17+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3duhjx/why_did_the_scarlet_quarry_set_become_so_expensive/,,"^, what happened to push the price up from ~$10 to $200 at its peak?
+
+The Starladder bundle still exists on the dota store even, can you not get the set by buying it anymore?",DotA2,Why did the Scarlet Quarry set become so expensive?,http://www.reddit.com/r/DotA2/comments/3duhjx/why_did_the_scarlet_quarry_set_become_so_expensive/
+107,2015-07-11 19:53:45+00:00,self.FRC,https://www.reddit.com/r/FRC/comments/3cxy39/any_good_free_project_management_programs_that/,,"I'm looking for good project management software for my team, since we're pretty disorganized and this would probably help. 
+
+Preferences: Free up to 50 users, hopefully with unlimited projects.
+
+I know I'm sort of asking a lot out of free software, but I figured that it wouldn't hurt to ask",FRC,"Any good, free project management programs that you guys would recommend?",http://www.reddit.com/r/FRC/comments/3cxy39/any_good_free_project_management_programs_that/
+108,2015-07-03 14:21:18+00:00,self.Blackout2015,https://www.reddit.com/r/Blackout2015/comments/3bzulv/to_the_mods_of_the_blackedout_subs_keep_them/,,"No matter how long it takes, keep the subreddits offline until the admins take some clear corrective action. This is not a situation in which the default subs should be brought back after ""making a statement."" The admins have proven that they do not care about the community, and we need to fight back by keeping the subs offline for an extended amount of time if we need to
+
+**Yes** it will be hard. ***Yes** we will miss out on content, and will drive away some of the community. **Yes** the admins might simply take over the subs like they did with /r/pics (in which case we've won). It's harsh medicine, but if we don't take it then Reddit will continue the slide it's on right now.
+
+In the meantime, make your subs giant limits to voat, or hubski, or something. But **bringing back the traffic-driving subs prematurely is the worst thing we could do now**",Blackout2015,To the mods of the blacked-out subs: keep them offline,http://www.reddit.com/r/Blackout2015/comments/3bzulv/to_the_mods_of_the_blackedout_subs_keep_them/
+109,2015-06-26 04:17:59+00:00,self.cpp,https://www.reddit.com/r/cpp/comments/3b5nof/i_wrote_a_method_to_generate_element_buffers_and/,,"So I'm new to C++, and I'm using it mainly to learn OpenGL (I decided I wouldn't be getting the ""full experience"" by using Python). Anyways, I wanted to write a method to generate element buffers and efficient vertex buffers from it, which basically means that, given a list of numbers representing vertices, I need to eliminate repeats and generate an array giving the order in which they should be drawn. 
+
+So like I said I'm pretty new, and I was teaching myself pointers along the way. My code is pretty ugly here and there (for instance using `&amp;((*vertex)[0])` to access a pointer to the first element of an array, and I'd like to know how to improve my coding style and knowledge of C++. I'll provide the source both here and in gist form
+
+[Here's the .h file](https://gist.github.com/pipsqueaker/fa73714b35764563aab8), which contains the implementation because the compiler gave me errors when I tried to implement in in a .cpp (don't know why this happened either T_T)
+
+    #ifndef LEARNOPENGL_COMMON_H
+    #define LEARNOPENGL_COMMON_H
+    
+    #define GLEW_STATIC
+    #include &lt;GL/glew.h&gt;
+    
+    #include &lt;SDL2/SDL_opengl.h&gt;
+    
+    #include ""vector""
+    
+    class common {
+    public:
+    
+        template&lt;typename V&gt;
+        static bool are_equal(int size, V v1[], V v2[]) {
+            for (int i = 0; i &lt; size; i++) {
+                //std::cout &lt;&lt; v1[i] &lt;&lt; "" "" &lt;&lt; v2[i] &lt;&lt; ""\n"";
+                if (v1[i] != v2[i]) return false;
+            }
+            return true;
+        }
+    
+        template&lt;typename V&gt;
+        static void push_iterable(const int length, V start[], std::vector&lt;V&gt;* vector) {
+            for (int s = 0; s &lt; length; s++) {
+                vector-&gt;push_back(start[s]);
+            }
+        }
+    
+        template&lt;typename V, typename E&gt;
+        static void GenOptimizedArrays(const int vertex_size, std::vector&lt;V&gt;* vertex_source,
+                                       std::vector&lt;V&gt;* vertex_out, std::vector&lt;E&gt;* ebo_out, bool cleanup = false) {
+    
+            bool vertex_is_unique = true;
+    
+            push_iterable(vertex_size, &amp;((*vertex_source)[0]), vertex_out);
+            ebo_out-&gt;push_back(0);
+            int unique_vertices = 1;
+    
+            for (int source_vertex = 1; source_vertex &lt; vertex_source-&gt;size() / vertex_size; source_vertex++) {
+                for (int element_vertex = 0; element_vertex &lt; ebo_out-&gt;size(); element_vertex++) {
+                    if (element_vertex != source_vertex &amp;&amp; are_equal(vertex_size, &amp;((*vertex_source)[source_vertex * vertex_size]),
+                                  &amp;((*vertex_source)[element_vertex * vertex_size]))) {
+                        ebo_out-&gt;push_back(element_vertex);
+                        vertex_is_unique = false;
+                        break;
+                    }
+                }
+                if (vertex_is_unique) {
+                    push_iterable(vertex_size, &amp;((*vertex_source)[source_vertex * vertex_size]), vertex_out);
+                    ebo_out-&gt;push_back(unique_vertices);
+                    unique_vertices += 1;
+                } else { vertex_is_unique = true; }
+            }
+    
+            if (cleanup) { delete vertex_source;}
+        }
+    };
+    
+    
+    #endif //LEARNOPENGL_COMMON_H
+
+and here's a [sample main file](https://gist.github.com/pipsqueaker/f97dc1244a02485bc04b), along with the output
+
+    #include ""Common.h""
+    int main() {
+    
+        std::vector&lt;GLfloat&gt; source = {1, 2, 3, 4, 5, 6, 5, 6, 1, 2, 7, 8};
+        std::vector&lt;GLfloat&gt; * optimized_verts = new std::vector&lt;GLfloat&gt;();
+        std::vector&lt;GLint&gt; ebo = {};
+    
+        common::GenOptimizedArrays&lt;GLfloat, GLint&gt;(2, &amp;source, optimized_verts, &amp;ebo);
+        
+        for (int y = 0; y &lt; optimized_verts-&gt;size(); y++) {
+            std::cout &lt;&lt; (*optimized_verts)[y] &lt;&lt; "" "";
+        }
+        std::cout &lt;&lt; ""\n"";
+        for(int x = 0; x &lt; ebo.size(); x++) {
+            std::cout &lt;&lt; ebo[x] &lt;&lt; "" "";
+        }
+    
+        return 0;
+    }
+   
+Which prints
+
+    1 2 3 4 5 6 7 8 
+    0 1 2 2 0 3 ",cpp,"I wrote a method to generate element buffers and optimized vertex buffers from a given array of vertices, tear it apart please",http://www.reddit.com/r/cpp/comments/3b5nof/i_wrote_a_method_to_generate_element_buffers_and/
+110,2015-06-23 17:59:40+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3ausja/significantly_worse_performance_and_appearance_in/,,"I understand that Reborn is still Beta, but I've seen a bunch of people reporting increased performance on Reborn on Linux, so I just wanted to see if my problem(s) were fixable.
+
+Anyways, to the point, Source 2 seems to both run slower and look worse on my computer. My computer's no gaming behemoth (Ubuntu 15.04, i7, nvidia 650m), and one of the things I was most looking forward to was increased FPS. To test this I loaded up Reborn with the [exact settings I have in regular dota](https://gist.githubusercontent.com/pipsqueaker/e843e967d11483ca8cd7/raw/7310800ff4341fc9275bc84aff9600c945c237da/Nothign), and I was a bit annoyed to discover that [in Reborn](http://images.akamai.steamusercontent.com/ugc/6183788782844672152/31C92B487FE2CFEEC85739B17D90EC61BEF80CB5/) the game both looked and performed worse than in [Source 1](http://images.akamai.steamusercontent.com/ugc/6183788782844648457/AAE42AE1307D887660E1BD92195B98601634C059/).
+
+Also, the UI itself is laggy when I'm on higher settings, which I'm pretty sure should never happen
+
+I've seen other Linux users reporting better FPS on their machines, so I was wondering if anything could be done to fix my situation. Is there any magic option like -dx11 (for windows, ofc) that I have to launch the game with? Or should I just hunker down and hope Valve fixes this soon?",DotA2,Significantly worse performance and appearance in Source 2 on Linux?,http://www.reddit.com/r/DotA2/comments/3ausja/significantly_worse_performance_and_appearance_in/
+111,2015-06-19 01:27:39+00:00,askubuntu.com,https://www.reddit.com/r/Ubuntu/comments/3acr61/cpu_usage_spikes_to_75_and_stay_there_after/,,,Ubuntu,CPU usage spikes to 75% and stay there after resuming from sleep mode?,https://askubuntu.com/questions/638282/cpu-usage-becomes-extremely-high-after-opening-laptop-lid-after-upgrading-to-ker
+112,2015-06-19 01:13:41+00:00,self.linuxquestions,https://www.reddit.com/r/linuxquestions/comments/3acpkw/closing_and_opening_the_lid_on_my_laptop_leads_to/,,"So I recently upgraded my kernel to 3.19, and now, whenever I close my laptop's lid and re-open it, the CPU usage will spike to ~75% on all four cores of my CPU. However, Activity Monitor doesn't list any one app taking up my CPU- when I view it, it looks completely fine.
+
+I've already looked on the internet for solutions. [This thread](https://askubuntu.com/questions/293578/why-does-cpu-usage-spikes-to-90-and-more-after-wake-from-suspend-on-ubuntu-13-0) seemed promising, but the fix suggested didn't work.",linuxquestions,Closing and opening the lid on my laptop leads to extremely high CPU usage after upgrading kernel to 3.19?,http://www.reddit.com/r/linuxquestions/comments/3acpkw/closing_and_opening_the_lid_on_my_laptop_leads_to/
+113,2015-06-17 23:54:46+00:00,self.opengl,https://www.reddit.com/r/opengl/comments/3a85id/help_me_debug_my_vertex_attrib_array/,,"**EDIT:** Ok so I found my problem a grand total of 2 minutes after posting this. I'll leave it unsolved as an exercise to whoever wants to try and figure it out. However I still don't know what the third attribute of gl_Position does, so I'd still appreciate an explanation for that
+
+
+Alright, so basically in my program I'm feeding the vertex shader a vec3 given x, y, and w like so-
+
+    const GLfloat vertices[] = {
+            -0.5f, 0.5f, 1.0f, 1.0f, 0.0f, 0.0f,
+            0.5f, 0.5f, 1.0f, 0.0f, 1.0f, 0.0f,
+            0.5f, -0.5f, 1.0f, 0.0f, 0.0f, 1.0f,
+            -0.5f, -0.5f, 1.0f, 1.0f, 1.0f, 1.0f
+    };
+
+    posAttrib = glGetAttribLocation(shaderProgram, ""position"");
+    glEnableVertexAttribArray(posAttrib);
+    glVertexAttribPointer(posAttrib, 3, GL_FLOAT, GL_FALSE,
+                          6*sizeof(float), 0);
+
+My problem is that in my vertex shader, when I do this 
+
+    vSource = ""#version 150 core\n""
+            ""in vec2 position;""
+            ""in vec3 color;""
+            ""out vec3 Color;""
+            ""void main() {""
+            ""   Color = color;""
+            ""   gl_Position = vec4(position.x, position.y, 
+                                            0.0, 1.0);""
+            ""}"";
+
+Everything works fine. However, when I try to change w by changing the `1.0` in the assignment to `gl_Position` to `position.z`, I just get a black screen, no matter what my w's are set to.
+
+I'll include a basic explanation of what I'm trying to do- I noticed when playing with OpenGL today that modifying the last attribute of gl_Position changes the ""depth"" on the screen (not sure what the third attribute does, could anyone explain that?). What I'm trying to do here is render a rectangle which is skew to the screen, which should result in a sideways-trapezoid.
+
+Thanks!",opengl,Help me debug my vertex attrib array?,http://www.reddit.com/r/opengl/comments/3a85id/help_me_debug_my_vertex_attrib_array/
+114,2015-06-17 22:45:26+00:00,self.DotA2,https://www.reddit.com/r/DotA2/comments/3a7wzb/dota_2_linux_users_thread_osx_users_welcome_too/,,"Soooo... Since we didn't get Source 2, wanna talk while the Windows guys party? I'll start-
+
+I use Ubuntu 15.04 on a MacBook Pro (much irony, so wow). I'm a student so until we get Source 2 I'm planning to try to wrap my head around OpenGL and cry myself to sleep every night",DotA2,Dota 2 Linux users thread (OSX users welcome too),http://www.reddit.com/r/DotA2/comments/3a7wzb/dota_2_linux_users_thread_osx_users_welcome_too/
+115,2015-06-16 15:30:42+00:00,self.linux_gaming,https://www.reddit.com/r/linux_gaming/comments/3a1qit/dota_always_has_extremely_low_fps_at_a_games/,,"I'm on Ubuntu 15.04, and when I load into a game of dota my framerate drops to around 10-15, then fixes itself a few minutes into the game
+
+I'm puzzled because I know I can run the game at a decent 40-45 fps with the settings I have- I've done it on the version of Linux I'm running now, with the same drivers. I'm confused as to why my game runs slow in the beginning but performs fine as the game goes on",linux_gaming,"Dota always has extremely low FPS at a game's start, but fixes itself randomly?",http://www.reddit.com/r/linux_gaming/comments/3a1qit/dota_always_has_extremely_low_fps_at_a_games/

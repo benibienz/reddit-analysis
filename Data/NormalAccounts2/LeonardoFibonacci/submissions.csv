@@ -1,0 +1,67 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-11-07 05:58:27+00:00,i.redd.it,https://www.reddit.com/r/custommagic/comments/5bkm5k/i_heard_you_guys_like_card_games/,False,,custommagic,I heard you guys like card games.,https://i.redd.it/sa6ppmdbz4wx.jpg
+1,2016-10-09 05:21:53+00:00,i.redd.it,https://www.reddit.com/r/custommagic/comments/56kxjh/dirt_cleans_off_much_more_easily_than_blood/,False,,custommagic,Dirt cleans off much more easily than blood.,https://i.redd.it/rcja8ajrvdqx.jpg
+2,2016-09-21 02:10:11+00:00,i.redd.it,https://www.reddit.com/r/custommagic/comments/53qz33/q_whats_slower_than_sorcery_speed/,False,,custommagic,Q: What's slower than sorcery speed?,https://i.redd.it/fns7qar3hsmx.png
+3,2016-09-09 07:02:37+00:00,i.redd.it,https://www.reddit.com/r/custommagic/comments/51w4ly/a_card_that_i_wish_i_had_for_my_vorel_of_the_hull/,False,,custommagic,A card that I wish I had for my Vorel of the Hull Clade EDH deck.,https://i.redd.it/hee0c5viagkx.png
+4,2016-08-10 01:55:10+00:00,self.france,https://www.reddit.com/r/france/comments/4wzu5s/bonjour_je_suis_américain_et_jai_des_questions/,False,"(My French is not what it once was, so I hope you all can forgive the rest of this post being in English.)
+
+Anyway, I'm developing a board game in which players run competing businesses in the same market.  Players can produce different amounts of up to 5 types of goods, and the more of a particular type gets made, the less money they earn for it.  I've been thinking about different themes for the game, and I like the idea of the players running boulangeries and making different varieties of bread.  I'm willing to take some liberties for the sake of game design, but I'd love to know a little more about the subject in general.  I'm not tied to a particular era yet, so if something used to be true but isn't so much anymore or vice versa that's also good to know.
+
+So, with that in mind, I have a couple of questions on what real-life French boulangeries are like:
+
+* If you were going to pick 5 different types of bread that were the ""basic"" or ""essential"" types, what would they be?  For my current prototype I have croissants, baguettes, brioche, pain de campagne and pain au levain, but any of those could be changed.
+
+* Do certain types tend to be more expensive than others?  Currently I have one cheap type, two medium-priced types, and two more expensive types.  What would fit with those?
+
+* Do boulangeries ever sell anything other than bread, or do they tend to be very focused on that?
+
+Anything else that's relevant would also be appreciated.  
+
+Merci beaucoup !",france,Bonjour ! Je suis américain et j'ai des questions sur les boulangeries françaises.,https://www.reddit.com/r/france/comments/4wzu5s/bonjour_je_suis_américain_et_jai_des_questions/
+5,2016-07-03 17:55:52+00:00,i.redd.it,https://www.reddit.com/r/custommagic/comments/4r30ll/a_variation_on_demonic_pact/,False,,custommagic,A variation on Demonic Pact.,https://i.redd.it/yvd11t3r827x.png
+6,2016-06-12 23:46:09+00:00,self.tipofmytongue,https://www.reddit.com/r/tipofmytongue/comments/4nsygm/tomt_a_piece_of_classical_music_melody_inside/,False,"It's in a minor key and the melody is pretty percussive.  It's relatively well-known and I'm like 70% certain the title contains the word ""Dance"".  The opening of the melody is this, not sure about the key (pardon my lousy writing): http://imgur.com/jhEqRfo",tipofmytongue,[TOMT] A piece of classical music (melody inside),https://www.reddit.com/r/tipofmytongue/comments/4nsygm/tomt_a_piece_of_classical_music_melody_inside/
+7,2016-04-29 02:58:07+00:00,self.IWantToLearn,https://www.reddit.com/r/IWantToLearn/comments/4gxjt3/iwtl_how_to_play_a_small_portable_instrument/,False,"I'm not entirely sure if this is the right sub for this, so feel free to direct me somewhere else.
+
+I'm an intermediate pianist and I know a good bit about music theory, but I'm looking to teach myself another instrument.  Ideally, it would be something that I can easily carry around with me (fits in a backpack, basically) and doesn't cost significantly more than, say, $75.  Right now my list of candidates is:
+
+1. Ocarina
+
+...And that's all I could think of.
+
+I'm definitely not opposed to the ocarina, but I don't want to overlook something else that could be cool too.  I'm not looking to play any particular type of music, so anything that can play a melody works for me.  Does anyone have other nominations?",IWantToLearn,"IWTL how to play a small, portable instrument.",https://www.reddit.com/r/IWantToLearn/comments/4gxjt3/iwtl_how_to_play_a_small_portable_instrument/
+8,2016-04-18 20:10:57+00:00,self.tabletopgamedesign,https://www.reddit.com/r/tabletopgamedesign/comments/4fdsk2/do_cards_need_to_have_names/,False,"My current project is a game with the working title of Boulanger, in which players run rival French bakeries and bake various different types of bread in an effort to please the customers.  
+
+Right now it's in the very early stages, but the gist of it is this: there's a demand track that keeps track of how many VP a batch of a particular type of bread is worth.  Each player chooses how many batches they want to make of each type, then the demand track is reduced by the number of batches baked by all players.  Then players get points according to the updated VP value of the bread they baked.  
+
+Prior to baking bread, players draft cards that can give them bonuses during the round.  Here are some examples of things that cards do:
+
+* If you bake 2 or fewer batches of a type of bread this round, your batches don’t reduce demand for that type.
+
+* At the end of the round, you receive 1 bonus VP for each type of bread that only you baked.
+
+* [Type] costs you €1 less per batch to bake this round.
+
+* Increase the demand for [type] by 3.
+
+There are more than that, but you get the gist of the kinds of things that they do.  My problem is that most games I've played have titles for the cards in addition to their rules text.  This being a traditional light-to-no-theme Euro game, there really isn't very much of a flavor justification for many of the cards' effects and I'm having trouble coming up with appropriate names for some of them.  
+
+So my question is this: would you as a player be bothered or confused if cards didn't have names, and instead just had a box with the rules text of the cards?  There will probably be around 10 different unique effects, with some of them (like the cost reduction example there) having one version for each of the different types of bread.
+
+Also, a secondary unrelated question: currently the 5 bread types the game uses are baguettes, brioche, croissants, *pain de campagne* (""country bread""), and *pain au levain* (a type of sourdough).  For the latter two, do you like the French names or do you think it would be better if I just used ""country bread"" and ""sourdough""?",tabletopgamedesign,Do cards need to have names?,https://www.reddit.com/r/tabletopgamedesign/comments/4fdsk2/do_cards_need_to_have_names/
+9,2016-03-03 05:45:52+00:00,imgur.com,https://www.reddit.com/r/custommagic/comments/48qpkt/two_cards_that_were_really_just_excuses_to_use/,False,,custommagic,Two cards that were really just excuses to use their flavor texts for something.,http://imgur.com/a/UvZyi
+10,2016-02-25 07:14:00+00:00,self.characterdrawing,https://www.reddit.com/r/characterdrawing/comments/47hrgj/lfa_halvar_jenssen_male_human_sorcerersailor/,False,"Halvar is a pale-skinned, somewhat lanky human around 5'10"" (180 cm or so).  He has dark hair which he wears in a braid and takes great care to remain clean-shaven.  
+
+He wears an Albanic Fleet sailor's uniform, which features boots, trousers and a navy jacket with gold trim.
+
+Halvar carries a dagger for emergencies, and an orb around the size of a baseball as an arcane focus.  The orb is blue and gray and, if you look at it closely, has a shifting appearance like stormclouds.  He also is a heavy gambler and keeps a deck of cards close at hand most of the time.
+
+Backstory: As an infant, Halvar was abandoned on the docks; he was found by a kindly older woman, but, unable to care for him, she sent him to live at an orphanage.  Life in the orphanage was boring, so he ran away at the age of 17 to join the navy; by sheer accident, he discovered that he had innate abilities to manipulate the weather.  After finding his orb on a pirate ship that his ship raided, these abilities became significantly more powerful.  Halvar  is convinced that his biological parents either created the orb or owned it at some point, and is attempting to discover more about it.",characterdrawing,"[LFA] Halvar Jenssen, male human sorcerer/sailor",https://www.reddit.com/r/characterdrawing/comments/47hrgj/lfa_halvar_jenssen_male_human_sorcerersailor/
+11,2016-02-25 04:00:49+00:00,imgur.com,https://www.reddit.com/r/custommagic/comments/47h3v5/you_actually_thought_that_was_me_how_adorable/,False,,custommagic,"""You actually thought that was me? How *adorable*.""",http://imgur.com/F6uhCqM
+12,2016-02-01 03:18:50+00:00,self.LeagueConnect,https://www.reddit.com/r/LeagueConnect/comments/43mk8x/na_support_main_want_chill_people_to_play_normals/,False,"I don't play ranked but I usually get matched with Bronze and low Silver players, so I'd assume my skill level is around there.  I like playing with new players, so even if you're shitty feel free to hit me up.  I play support whenever I can (Thresh/Bard/Braum in that order) but also mid (Lux/Ahri) and ADC in a pinch (Tristana usually).    Voice chat is cool with me, I have Skype or I can get whatever.  I usually play between 10 PM and 1 AM EST.
+
+Summoner name is Auartic.",LeagueConnect,"NA support main, want chill people to play normals with",https://www.reddit.com/r/LeagueConnect/comments/43mk8x/na_support_main_want_chill_people_to_play_normals/
+13,2015-12-01 00:13:44+00:00,imgur.com,https://www.reddit.com/r/custommagic/comments/3uxdzv/sharing_is_caring_two_variations_on_the_same_theme/,False,,custommagic,Sharing is caring: two variations on the same theme.,http://imgur.com/a/YNINP
+14,2015-11-10 04:06:11+00:00,imgur.com,https://www.reddit.com/r/custommagic/comments/3s8ajm/serve_me_or_serve_no_one/,False,,custommagic,"""Serve me or serve no one.""",http://imgur.com/qOPBz3x
+15,2015-10-08 03:13:59+00:00,imgur.com,https://www.reddit.com/r/custommagic/comments/3nxcwu/for_when_your_opponent_just_wont_trade_that_card/,False,,custommagic,For when your opponent just won't trade that card you're looking for.,http://imgur.com/miuzuys
+16,2015-09-13 20:25:22+00:00,imgur.com,https://www.reddit.com/r/custommagic/comments/3ktoaj/uprising/,False,,custommagic,Uprising,http://imgur.com/aUr3NoY
+17,2015-09-07 06:08:42+00:00,imgur.com,https://www.reddit.com/r/custommagic/comments/3jxy9d/two_cards_based_off_of_songs/,False,,custommagic,Two cards based off of songs.,http://imgur.com/a/0E5xC

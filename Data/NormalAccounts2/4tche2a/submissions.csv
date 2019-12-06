@@ -1,0 +1,132 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2015-08-29 11:36:22+00:00,self.excel,https://www.reddit.com/r/excel/comments/3iu3xa/file_missing_from_excel_power_query_download/,,"Having completed the step that was suggested i still have the power query tab missing and i recieve this dialog box error message, which i cannot make much sense of. I have pasted the entireity of the error message below.  What do I need to do to make the power query tab appear.
+Image
+See the end of this message for details on invoking
+just-in-time (JIT) debugging instead of this dialog box.
+ 
+************** Exception Text **************
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c' or one of its dependencies. The system cannot find the file specified.
+File name: 'Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c'
+   at Microsoft.Mashup.Client.Excel.AddIn.TryCreateApplication(Object appObject, IApplication&amp; application)
+   at Microsoft.Mashup.Client.Excel.AddIn.Extensibility.IDTExtensibility2.OnConnection(Object application, ext_ConnectMode connectMode, Object addInInst, Array&amp; custom)
+ 
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+ 
+ 
+ 
+************** Loaded Assemblies **************
+mscorlib
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.34209 built by: FX452RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.NET/Framework/v4.0.30319/mscorlib.dll
+----------------------------------------
+Microsoft.Mashup.Client.Excel
+    Assembly Version: 1.0.0.0
+    Win32 Version: 2.25.4095.242
+    CodeBase: file:///C:/Program%20Files/Microsoft%20Power%20Query%20for%20Excel/bin/Microsoft.Mashup.Client.Excel.dll
+----------------------------------------
+Extensibility
+    Assembly Version: 7.0.3300.0
+    Win32 Version: 7.00.9466
+    CodeBase: file:///C:/WINDOWS/assembly/GAC/Extensibility/7.0.3300.0__b03f5f7f11d50a3a/Extensibility.dll
+----------------------------------------
+office
+    Assembly Version: 15.0.0.0
+    Win32 Version: 15.0.4745.1002
+    CodeBase: file:///C:/WINDOWS/assembly/GAC_MSIL/office/15.0.0.0__71e9bce111e9429c/office.dll
+----------------------------------------
+Microsoft.Mashup.Client.Windows
+    Assembly Version: 1.0.0.0
+    Win32 Version: 2.25.4095.242
+    CodeBase: file:///C:/Program%20Files/Microsoft%20Power%20Query%20for%20Excel/bin/Microsoft.Mashup.Client.Windows.DLL
+----------------------------------------
+Microsoft.Mashup.Document
+    Assembly Version: 1.0.0.0
+    Win32 Version: 2.25.4095.242
+    CodeBase: file:///C:/Program%20Files/Microsoft%20Power%20Query%20for%20Excel/bin/Microsoft.Mashup.Document.DLL
+----------------------------------------
+System
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.34239 built by: FX452RTMGDR
+    CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System/v4.0_4.0.0.0__b77a5c561934e089/System.dll
+----------------------------------------
+System.Core
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.34209 built by: FX452RTMGDR
+    CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Core/v4.0_4.0.0.0__b77a5c561934e089/System.Core.dll
+----------------------------------------
+Microsoft.MashupEngine
+    Assembly Version: 1.0.0.0
+    Win32 Version: 2.25.4095.242
+    CodeBase: file:///C:/Program%20Files/Microsoft%20Power%20Query%20for%20Excel/bin/Microsoft.MashupEngine.DLL
+----------------------------------------
+System.Drawing
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.34209 built by: FX452RTMGDR
+    CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Drawing/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Drawing.dll
+----------------------------------------
+System.Windows.Forms
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.34250 built by: FX452RTMGDR
+    CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Windows.Forms/v4.0_4.0.0.0__b77a5c561934e089/System.Windows.Forms.dll
+----------------------------------------
+Microsoft.Mashup.OleDbProvider
+    Assembly Version: 1.0.0.0
+    Win32 Version: 2.25.4095.242
+    CodeBase: file:///C:/Program%20Files/Microsoft%20Power%20Query%20for%20Excel/bin/Microsoft.Mashup.OleDbProvider.DLL
+----------------------------------------
+System.Web.Mvc
+    Assembly Version: 2.0.0.0
+    Win32 Version: 2.0.60926.0
+    CodeBase: file:///C:/WINDOWS/assembly/GAC_MSIL/System.Web.Mvc/2.0.0.0__31bf3856ad364e35/System.Web.Mvc.dll
+----------------------------------------
+System.Web.Routing
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.33440
+    CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Web.Routing/v4.0_4.0.0.0__31bf3856ad364e35/System.Web.Routing.dll
+----------------------------------------
+System.Web
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.34248 built by: FX452RTMGDR
+    CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_32/System.Web/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Web.dll
+----------------------------------------
+Microsoft.Mashup.Client.Models
+    Assembly Version: 1.0.0.0
+    Win32 Version: 2.25.4095.242
+    CodeBase: file:///C:/Program%20Files/Microsoft%20Power%20Query%20for%20Excel/bin/Microsoft.Mashup.Client.Models.DLL
+----------------------------------------
+EventSource
+    Assembly Version: 1.0.0.0
+    Win32 Version: 1.0.2236.3
+    CodeBase: file:///C:/Program%20Files/Microsoft%20Power%20Query%20for%20Excel/bin/EventSource.DLL
+----------------------------------------
+System.Configuration
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.34209 built by: FX452RTMGDR
+    CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Configuration/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Configuration.dll
+----------------------------------------
+System.Xml
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.34230 built by: FX452RTMGDR
+    CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Xml/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+ 
+************** JIT Debugging **************
+To enable just-in-time (JIT) debugging, the .config file for this
+application or computer (machine.config) must have the
+jitDebugging value set in the system.windows.forms section.
+The application must also be compiled with debugging
+enabled.
+ 
+For example:
+ 
+&lt;configuration&gt;
+    &lt;system.windows.forms jitDebugging=""true"" /&gt;
+&lt;/configuration&gt;
+ 
+When JIT debugging is enabled, any unhandled exception
+will be sent to the JIT debugger registered on the computer
+rather than be handled by this dialog box.",excel,"File missing from Excel Power Query Download, causing power query tab to not appear",https://www.reddit.com/r/excel/comments/3iu3xa/file_missing_from_excel_power_query_download/

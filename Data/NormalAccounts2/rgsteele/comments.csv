@@ -1,0 +1,1011 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"You might try using a finer grind, or adding more coffee. You could also try the inverted method. But if you're happy with how your brew is turning out, just keep doing what you're doing!",2016-11-14 07:12:11+00:00,d9zjxqt,1.0,t3_5ctx4i,13101,AeroPress
+1,"Not with the official Philips app, but there are third-party apps with that capability, like [iConnectHue](http://iconnecthue.com). ",2016-11-12 23:03:10+00:00,d9xpp8z,3.0,t1_d9xl6ja,7071,Hue
+2,"Personally, I think the Lightstrip works best when the light emitted from it reflects off an adjacent surface and you can't see the strip itself–for example, along the top of your kitchen cabinets, or on the back of an entertainment unit. Do a Google Image Search for ""hue lightstrip"" or ""hue lightstrip stairs"" to see some examples. If you can attach the strip somewhere like the underside of a handrail, it may produce a nicer effect than running it along the wall.
+
+Since it wasn't clear to me what you meant when you asked whether you are able to ""have the lights go from green to red"", I wanted to make sure you're aware that you cannot set the individual LEDs on a strip to different colors, you can only set the color for the entire strip.",2016-11-12 20:39:24+00:00,d9xk5cn,1.0,t3_5cl3te,15169,Hue
+3,"&gt;What's interesting is that I took out the /r command that was suppressing the reboot, and after it completed, it didn't prompt for one.
+
+Did you also add a /f? If not, the program would not force a restart since there is a user logged in.
+
+I don't think there was anything wrong with your original PowerShell detection. To be clear, I think what is happening is your language pack installation is completing successfully but doesn't actually take effect until the reboot. After the client performs the installation, it runs the PowerShell script to detect whether it is installed, but because the reboot hasn't happened yet, the script reports that it isn't installed. Does that make sense?
+
+Edit: Okay, I just noticed the ""Uninstall"" in your post title, and now I'm confused what it is you are wanting to accomplish. You are trying to uninstall the language pack?",2016-11-09 19:56:39+00:00,d9ta1r9,3.0,t1_d9t95nn,1054,SCCM
+4,"Installing the language pack would require a reboot to take effect. Have you tried rebooting, then clicking the ""Install"" button again to force the client to check if the update is still applicable?",2016-11-09 19:11:56+00:00,d9t7th3,1.0,t3_5c13md,20259,SCCM
+5,"You can push a Group Policy that populates a registry key on the client with the command line settings you want to use. The instructions are [here](https://docs.microsoft.com/en-us/sccm/core/clients/deploy/deploy-clients-to-windows-computers#a-namebkmkprovisiona-how-to-provision-client-installation-properties-group-policy-and-software-update-based-client-installation).
+
+Automatic client upgrade is a bit of a weird feature. [Here's Microsoft's recommendation about when to use it](https://docs.microsoft.com/en-us/sccm/core/clients/manage/upgrade/upgrade-clients-for-windows-computers):
+
+&gt;Automatic client upgrades are useful when you want to upgrade a small number of client computers that might have been missed by your main client installation method. For example, you have completed an initial client upgrade, but some clients were offline during the upgrade deployment. You then use this method to upgrade the client on these computers when they are next active. 
+
+So Microsoft expects you to use other methods to perform the bulk of your client updating. But if that's the case, why on earth did they go to all the effort of letting you specify separate pre-production and production deployments? And then dedicate entire monitoring pages for it? It's a bit of a head-scratcher.",2016-11-09 18:58:53+00:00,d9t76ss,1.0,t3_5c1plk,12474,SCCM
+6,"On the occasions where I have seen this issue, it has been because I had a step in my task sequence before the ""Format and Partition Disk"" task sequence step that downloads content (e.g. ""Run Command Line"" with an associated package). If the hard disk is unformatted (or you have an MBR formatted disk in a machine that has been reconfigured to UEFI), the task sequence fails because it has nowhere to save the content to.
+
+If this isn't the issue in your case, you'd need to take a look at your SMSTS.LOG file (which will be located in x:\windows\temp\smstslog\smsts.log at that point in the task sequence) to figure out what's happening.",2016-11-08 00:44:55+00:00,d9qdp00,1.0,t3_5bmhxy,36027,SCCM
+7,"On Windows 7, you can do this by setting a few registry keys. [This site](https://isc.sans.edu/forums/diary/Dodging+Browser+Zero+Days+Changing+your+Orgs+Default+Browser+Centrally/18601/) has a list of settings to make Firefox, IE or Chrome the default browser.
+
+The best way to set a registry key in SCCM is with Compliance Settings. As it happens, I found a TechNet blog post describing [how to use Compliance Settings to set the default browser](https://blogs.technet.microsoft.com/smartinez/2013/07/31/creating-a-compliance-item-baseline-and-example/).
+
+On Windows 10, Microsoft has changed the way program defaults are handled, so I don't think these registry keys will work. There is [a group policy you can apply to set program defaults](https://technet.microsoft.com/en-us/itpro/internet-explorer/ie11-deploy-guide/set-the-default-browser-using-group-policy), but it looks like users can still change them after the fact through Set Default Programs in Control Panel. I haven't really looked into it much, though.",2016-11-07 20:30:19+00:00,d9q1kqp,1.0,t3_5bn3l4,14445,SCCM
+8,"Try adding `REBOOT=ReallySuppress` to the command line options, like so:
+
+`""%~dp0FMP_14p0p6_Updater\14.0.6\Setup.exe"" /s /v/qn REBOOT=ReallySuppress`
+
+Also, rather than using tasklist to find setup.exe to check if the installation is still running, you should be able to have the batch file wait for setup to complete by running it with the ""start"" command, like so:
+
+`start """" /wait ""%~dp0FMP_14p0p6_Updater\14.0.6\Setup.exe"" /s /v/qn REBOOT=ReallySuppress`",2016-11-07 17:16:35+00:00,d9prq1u,1.0,t3_5bmsfe,5954,SCCM
+9,"I think this should work:
+
+1. Create an Application in SCCM. Call it ""AppNameHere (uninstall only)"".
+1. Create a Deployment Type with the following settings:
+  *  Installation program: blah (it doesn't matter what you enter here, it just can't be blank)
+  * Uninstall program: MsiExec.exe /x {_YOUR APP'S MSI CODE HERE_} /qn REBOOT=ReallySuppress
+  * Detection method: MSI product code {_YOUR APP'S MSI CODE HERE_}
+  * Installation behavior: Install for User
+  * Leave everything else as the default. Don't specify any Content Location; this application will have no content.
+1. Deploy this application to the User collection containing the users you want to remove it from as a Required deployment with an Action of ""Uninstall"".",2016-11-02 16:19:10+00:00,d9iis8o,1.0,t3_5aqaic,5391,sysadmin
+10,What kind of device? Have you confirmed you have the latest UEFI firmware?,2016-11-02 01:02:51+00:00,d9hpfru,1.0,t3_5amgff,6582,SCCM
+11,"I think you can use the Office Customization Toolkit to create a .msp file that just changes the Feature Installation State for OneDrive to ""Not available"", then apply it using something like `msiexec /p RemoveOneDrive.msp /qn REBOOT=ReallySuppress`. See [this TechNet article](https://technet.microsoft.com/en-us/library/cc179141.aspx#BKMK_ApplyMSPPatch).",2016-10-31 20:56:58+00:00,d9fwu4y,1.0,t3_5adwo5,9803,SCCM
+12,"The TSA web site lets you search for common items to check if they are allowed in your carry-on, and yes, [bike locks are permitted](https://apps.tsa.dhs.gov/mytsa/cib_results.aspx?search=bike%20lock). You could print out that page to show to the agent if you are worried they might still hassle you. ",2016-10-30 18:01:46+00:00,d9e6llc,1.0,t3_5a3yaj,57588,bikecommuting
+13,"Here's a link to a KB article about a vulnerability that was triggered by simply visiting a network share containing a file with malicious metadata:
+
+https://technet.microsoft.com/en-us/library/security/ms11-068.aspx
+
+The scope of this vulnerability was only denial of service, but a similar vulnerability which allowed RCE shouldn't be too much of a stretch of the imagination. ",2016-10-28 21:00:54+00:00,d9byyym,1.0,t3_59uufn,21830,AskNetsec
+14,"Take a look at [Meraki Systems Manager](https://meraki.cisco.com/products/systems-manager). It's free for under 100 devices. Even if you end up going with another product, trying out Meraki will help you determine whether an MDM-type solution (as opposed to an Active Directory domain) is going to do what you need it to. 
+
+Basic iOS management capabilities are essentially the same no matter which MDM solution you go with, since they must all use Apple's APIs. And of course, you can't domain join an iOS device, so you'll need an MDM one way or another to manage them, whether or not you decide to set up a domain.
+
+It's worth noting that Microsoft believes the future is mobile and in the cloud. If you buy into their vision, you may decide you don't need an on-premises domain after all. [This TechNet blog post](https://blogs.technet.microsoft.com/enterprisemobility/2016/03/23/the-path-to-modernizing-windows-management/) sums it up pretty well.",2016-10-26 23:56:37+00:00,d999vyz,1.0,t3_59jt97,13153,sysadmin
+15,I think you may be able to do this with [devcon.exe](https://msdn.microsoft.com/en-us/library/windows/hardware/ff544707%28v=vs.85%29.aspx) using the [update](https://msdn.microsoft.com/en-us/library/windows/hardware/ff544832\(v=vs.85\).aspx) command.,2016-10-17 17:36:35+00:00,d8vzelu,1.0,t3_57xulv,8371,SCCM
+16,Perhaps the graphics driver isn't being installed correctly and it's falling back to a basic driver that doesn't support Aero?,2016-10-17 17:13:15+00:00,d8vy8bo,1.0,t3_57xv8e,6772,SCCM
+17,"Section 145 refers specifically to a ""motor vehicle"" which, as defined in the Act, does not include bicycles.
+
+Whether or not it is legal for a cyclist to take the lane hinges on the definition of the word ""practicable"". If you interpret it to mean ""possible"", then taking the lane is indeed illegal. However, if you take it to mean ""sensible"" or ""reasonable"", there are clearly situations where ""as close to the right as practicable"" may mean ""in the middle of the lane"" if being farther to the right would increase the chance of a collision. On that point, the law is ambiguous, but I expect the courts would lean toward the second interpretation. (Of course, IANAL, just a biased layperson, so take this all with a big grain of salt.)
+
+On your last point, I don't believe that cyclists taking the lane is a significant cause of traffic jams. Maybe it is, though. Either way, I hope we can both agree that dedicated cycling infrastructure can't come soon enough. In the end, we're all just people trying to get where we're going, safely and comfortably.",2016-10-16 19:06:06+00:00,d8un2eg,6.0,t1_d8u2a19,44707,VictoriaBC
+18,"From the [Motor Vehicle Act](http://www.bclaws.ca/civix/document/id/complete/statreg/96318_05):
+
+&gt; 183  (1) In addition to the duties imposed by this section, a person operating a cycle on a highway has the same rights and duties as a driver of a vehicle.
+
+It does also say this:
+
+&gt;(2) A person operating a cycle
+
+&gt;...
+
+&gt;(c) must [...] ride as near as practicable to the right side of the highway
+
+Subsection (2)(c) might best be understood in the context of this passage from [Bike Sense - The British Columbia Bicycle Operator's Manual](http://vancouver.ca/files/cov/bikeSense1105.pdf), page 14:
+
+&gt; When to take a lane
+
+&gt;If there is no shoulder or bike lane and the curb lane is narrow (i.e. when the right wheel track of most traffic is less than a metre from the curb), cyclists may choose to take the whole lane by riding in the centre of it. This can be safer than riding near the curb, which may encourage motorists to squeeze by where there isn’t sufficient room. You should also consider taking the lane when you are travelling at the same speed as other traffic. This will keep you out of motorists’ blind spots and reduce conflicts with right-turning traffic. Be prepared for the occasional frustrated driver who is not familiar with the safe and legal operation of a bicycle.
+
+&gt;...
+
+&gt;It is important to know that there is currently no concrete legal definition of “as near as practicable to the right side of the highway” so the cyclist should use discretion to decide whether to take the lane or how far to the right to ride. It is often safer to ride in the manner detailed in this guide. However, this issue is still undecided and it is possible that a peace officer could issue you a ticket.",2016-10-16 02:06:48+00:00,d8ttqzp,4.0,t1_d8suxsg,65814,VictoriaBC
+19,"Not that I can see. The geofence feature (""Home &amp; Away"" in the new app) lets you specify that the lights should only come on when you arrive home after sunset, but it won't turn the lights on at sunset.",2016-10-15 20:11:08+00:00,d8tfqhu,2.0,t1_d8t6vgd,13588,Hue
+20,"As far as I know, the Weather channel in IFTTT just uses whichever location you selected when you activated it. You can change that location by browsing to https://ifttt.com/weather and clicking the ""Reactivate Channel"" button.
+
+There is also a feature at [Hue Labs](http://labs.meethue.com) called Away from Home which may do what you want. I haven't tried it myself though.",2016-10-15 19:58:27+00:00,d8tf7a2,1.0,t3_57mg5e,17318,Hue
+21,Interesting. Did you install 1511 from scratch or upgrade from 2012 R2?,2016-10-14 17:20:15+00:00,d8rzqum,2.0,t1_d8rz605,700,SCCM
+22,"Are you wanting to image brand new PCs, or re-image existing ones?
+
+If you are wanting to image new PCs, you can use the ""Import Computer Information"" wizard to create the computer objects in SCCM, then add these computer objects to a collection which has your Task Sequence deployed to it as a ""Required"" deployment. [See this post on windows-noob for a guide.](https://www.windows-noob.com/forums/topic/4505-how-can-i-import-computers-into-sccm-2012-using-a-file/) It helps to have a barcode scanner to scan the barcode with the MAC address or SMBIOS ID from the box the computer came in (or the machine itself). 
+
+This may not be quite zero touch since you will still need someone to press F12 to get the computer to PXE boot rather than boot into the installed OS. We use Lenovo gear which is often configured to PXE boot if the computer is started without a keyboard plugged in (the ""Error Boot Sequence"") which is handy. (Be aware that this may cause issues if you're using BitLocker with Legacy BIOS since the boot order change will trigger Recovery Mode.)
+
+If you are wanting to do a zero-touch re-image of machines that are already on your network, you just need to do a Required deployment of your Task Sequence to your deployment collection and make it available to Configuration Manager Clients. (Be very careful with this, obviously.) No PXE boot required. The SCCM client will download and stage the WinPE boot image and reboot the computer into the task sequence. (This assumes you have the ""Restart in Windows PE"" step in your task sequence which is part of the default OS deployment task sequence.)
+",2016-10-12 16:45:05+00:00,d8ozf7f,1.0,t3_573kl4,19116,SCCM
+23,I think [UsedComoxValley.com](http://www.usedcomoxvalley.com/) is a popular option. ,2016-10-11 21:10:10+00:00,d8nvp4c,1.0,t3_56zn9w,8466,comoxvalley
+24,"I know, right? Heaven forbid the city try and make our neighbourhoods safer and more livable. You're going to make me sit in my climate controlled, stereo equipped, comfortably upholstered magical moving room for THIRTY EXTRA SECONDS? UNACCEPTABLE!",2016-10-08 06:02:39+00:00,d8ixv72,2.0,t1_d8iqc46,14486,VictoriaBC
+25,"[According to this July 2015 story from the Brisbane Times, they work very well](http://www.brisbanetimes.com.au/queensland/smiling-signs-cut-speeding-in-brisbanes-suburbs-20150722-gihxhd.html):
+
+&gt;""In the latest rotation, of the 3.12 million drivers through the radar zones, only 17 per cent of drivers were recorded speeding, which compares with 29 per cent of drivers caught speeding during the first rotation of signs,"" he said.
+
+&gt;""The latest data shows that 38 per cent of those speeding motorists reduced their speed to below the limit when they were made aware of their speed through the flashing warning signs.
+
+&gt;""Speeding vehicles passing the signs have reduced their speed by an average of 9.6 km/h, and the average reduction in speed for all vehicles passing the speed warning signs has been 5.4 km/h.""",2016-10-08 05:55:08+00:00,d8ixp4a,1.0,t3_56bzw1,51088,VictoriaBC
+26,"I think you are misunderstanding what Skype is saying. Quoting from [their FAQ](https://support.skype.com/en/faq/FA31/does-skype-use-encryption):
+
+&gt;If you make a call from Skype to mobile and landline phones, the part of your call that takes place over the PSTN (the ordinary phone network) is not encrypted.
+
+In other words, the connection between your computer and Skype's servers is still encrypted, but the analog connection between Skype and the landline is not (which is the case for all PSTN calls). 
+
+So no, the ISP cannot intercept your call. ",2016-10-07 15:07:54+00:00,d8hxv18,1.0,t3_566wq8,74109,AskNetsec
+27,"To remove Apple Software Update 2.2, create an Application called something like ""Apple Software Update 2.2 (uninstall only)"" and add a Deployment Type with the following settings:
+
+* Installation program: `blah` (it doesn't matter what you enter here, it just can't be blank)
+
+* Uninstall program: `MsiExec.exe /x {56EC47AA-5813-4FF6-8E75-544026FBEA83} /qn REBOOT=ReallySuppress`
+
+* Detection method: MSI product code `{56EC47AA-5813-4FF6-8E75-544026FBEA83}`
+
+Leave everything else as the default. Don't specify any Content Location; this application will have no content. Deploy this Application with an ""Action"" of ""Uninstall"".
+
+For other versions, you'll need to go digging for the MSI product codes and create additional applications.",2016-10-07 00:05:03+00:00,d8h77ni,3.0,t1_d8gm5to,27382,SCCM
+28,"For this model, I don't think it's possible to run the BIOS update without it rebooting the system. I gave up on updating the BIOS in my task sequences for exactly that reason. I have my BIOS updates deployed as a required application that will run during a maintenance window after the system has been imaged.
+
+I don't recommend flashing the BIOS by running afuwin.exe directly. In many cases, the BIOS update package also includes an embedded controller update which must be installed at the same time using a separate command.
+
+A handy trick I use to turn my Lenovo updates into Applications is to download them using [Update Retriever](https://support.lenovo.com/ca/en/documents/ht037099#ur) and then examine the .xml file that is downloaded along with the update bundle. It contains the command line string to run the installation silently as well as the detection method to determine whether the update needs to be installed.",2016-10-06 23:42:05+00:00,d8h6a2v,1.0,t3_5660ew,28679,SCCM
+29,"Yeah, don't do that. To create your installation packages, I strongly recommend just using the bootstrap installer. Use the Adobe Customization Wizard to create your setup.ini file, edit the `PATCH=` line in that file to install the latest patch (e.g. `PATCH=AdbeRdrUpd11017.msp`) then just have your application run `setup.exe`.",2016-10-06 23:10:34+00:00,d8h506h,7.0,t1_d8h438y,1360,SCCM
+30,You can sign up for [Outlook.com Smart Network Data Services](https://postmaster.live.com/snds/) which may give you more insight into why the messages are being marked as spam. ,2016-10-05 14:54:08+00:00,d8f241p,1.0,t3_55rcwx,131585,exchangeserver
+31,"For anyone wondering what Microsoft's vision is for the future of SCCM, this is the video you want to watch: [Align your Windows 10 management strategy to end-user and IT needs](https://www.youtube.com/watch?v=g0u54tJe1fk). In particular, [jump to 10:25](https://youtu.be/g0u54tJe1fk?t=625). 
+
+As you might expect, Microsoft is pushing hard to get everyone to the new ""Modern"", cloud-centric, Windows-as-a-service environment, but they recognize that the ""Traditional"" methods for management will still be needed for the foreseeable future.",2016-10-03 22:59:05+00:00,d8csb2i,1.0,t3_55mhiz,58631,SCCM
+32,"The name of the setting will vary depending on what kind of router you have. It may be called ""AP Isolation"", ""Access Point Isolation"", ""Guest Mode"" or ""WLAN Partition"". 
+
+If you aren't able to find it, feel free to post the make and model of your router. I can probably look it up and figure out which setting you need to change.",2016-10-02 20:14:27+00:00,d8b76hx,,t1_d8b5q1q,1778,Hue
+33,Are you sure that lamp is dimmable? Most fluorescent fixtures aren't.,2016-10-02 02:02:53+00:00,d8aakhu,1.0,t3_55f7gd,17478,Hue
+34,I think you are thinking of [chasms.com](http://chasms.com). ,2016-10-01 15:00:02+00:00,d89lrqr,1.0,t3_55c22f,32319,ITdept
+35,"Yes, this is right. If an update breaks your application you are expected to open a case with Microsoft and/or the app vendor to get it resolved so that you can re-apply the update roll-up.",2016-09-28 19:31:59+00:00,d85x972,2.0,t1_d85sstp,5345,sysadmin
+36,This may help you: http://www.slipstick.com/outlook/always-load-an-outlook-addin/,2016-09-28 14:45:20+00:00,d85j27j,1.0,t3_54wjh5,1549,SCCM
+37,That'll do it!,2016-09-26 12:33:26+00:00,d82jisg,3.0,t1_d82c6qt,22828,Hue
+38,Your router may be configured to block traffic between the wired and wireless networks. You'll need to log in to the router's interface (probably by going to http://192.168.0.1 in your browser) and check your settings. ,2016-09-25 18:44:02+00:00,d81lgn7,1.0,t3_54g0rm,5632,Hue
+39,"Yes, your Rooms, Scenes, Routines, etc. are all stored on the Hue bridge. 
+
+I believe you are correct that you don't need a Hue account if you are using HomeKit for remote access, automatically turning on lights when you arrive home, etc. 
+
+Yes, I think the Automation features live on the Apple TV. 
+
+Correct, there is no Home app yet for the Apple TV. It just acts as a bridge for the HomeKit Automation features. 
+
+If you are still seeing the ""ad for Apple TV"" when you go to the Automation screen, your Apple TV is not set up properly. Logging out and back in to your Apple ID in the Apple TV settings will probably fix it. (It did for me.)
+
+I don't have any Ambience bulbs so I can't speak to that question. 
+
+Many users report having issues using the Hue bulbs in a fixture on a dimmer, even at 100%. 
+
+Hope this helps!",2016-09-25 08:52:24+00:00,d814nkz,1.0,t3_54cpgx,33088,Hue
+40,"The [subreddit guidelines](https://www.reddit.com/r/VictoriaBC/wiki/index) say linking to the TC is not allowed at all, even in a self-post.
+
+For my part, I subscribe to the digital edition and I would like to see the ban lifted. But if the mods are in fact getting numerous complaints, I can understand their reasoning for the ban.",2016-09-24 16:24:30+00:00,d8092mu,2.0,t1_d805l0k,5671,VictoriaBC
+41,"As others have said, you would need to create a separate Application for each deployment you want to appear in the Software Center. 
+
+If your objection to doing this is that it would take up too much space on your distribution points, your fears are unfounded. SCCM's Content Library uses a Single Instance Store methodology. If the same file is referenced by more than one package, only one copy is stored. You can read more about that here:
+
+https://blogs.technet.microsoft.com/enterprisemobility/2013/10/29/understanding-the-configuration-manager-content-library/",2016-09-16 15:01:43+00:00,d7pak19,1.0,t3_531zbi,4212,SCCM
+42,"The Bottle Depot on Queen's Avenue has an area where people can dispose of electronics. Scavenging is strictly prohibited though, so... don't get caught.",2016-09-16 04:49:15+00:00,d7ov5kd,2.0,t1_d7olj7t,15318,VictoriaBC
+43,I may just take you up on that :),2016-09-15 14:50:20+00:00,d7nupb7,5.0,t1_d7nu1y5,885,SCCM
+44,"I'm seeing `We will eventually reboot. Just waiting for the Service Window to come along.` in the log. Are you sure you don't have a maintenance window applied to this machine? (You can run the ""Maintenance windows available to a specified client"" report under ""Software Distribution - Collections"" to check.)
+
+",2016-09-14 22:45:16+00:00,d7n2j2a,3.0,t1_d7n1sc2,1070,SCCM
+45,"Anything interesting in `RebootCoordinator.log`?
+
+Also, is the green reboot icon appearing in the notification area? I've occasionally seen an issue where updates have been installed and the system has rebooted but the updates still appear in the Installation Status tab of the Software Center with the ""Requires restart"" status.",2016-09-14 22:00:08+00:00,d7n0m4i,1.0,t3_52sf25,7048,SCCM
+46,"&gt;Vulnerabilities include disclosure of information(2007-2016), spoofing (2013-2016), and elevation of privilege (2016).
+
+You've missed the most serious item on the list: the Remote Code Execution vulnerability in the Oracle Outside In Libraries. This is the component Microsoft has licensed from Oracle for parsing attachments. It is used by OWA for providing in-browser document previews (what Microsoft calls ""WebReady Document Viewing""). It's also used by the data loss prevention (DLP) component.
+
+Will Dormann at CERT published a blog post two years ago describing the risks posed by this component: https://insights.sei.cmu.edu/cert/2013/06/the-risks-of-microsoft-exchange-features-that-use-oracle-outside-in.html
+
+If you can't patch right away and you don't need the WebReady Document Viewing or DLP features, you may be able to mitigate the risk by disabling them.",2016-09-14 19:07:03+00:00,d7ms4wf,1.0,t3_52nw6d,66910,sysadmin
+47,"No, but you can reconfigure SCCM to gather the ""Version"" from that WMI query as part of the hardware inventory, in addition to the ""Model"".
+
+In the Administration pane, click on Client Settings. Right-click ""Default Client Settings"" and click Properties. Select Hardware Inventory from the list, then click the ""Set Classes..."" button. Expand ""Computer System Product"" and check the boxes next to whichever classes you want inventoried (I've selected Identifying Number, Name and Version).
+
+Once a hardware inventory collection cycle has run on your clients, you will be able to use this data in your queries and reports. If you're wanting this information to show up in the ""Model"" field of one of the default reports (e.g. ""Hardware 01A - Summary of computers in a specific collection""), you'll need to edit the report. (I would actually recommend doing a ""Save as"" with a new report name. Otherwise, your changes could be overwritten by a future SCCM update.)",2016-09-13 23:39:03+00:00,d7lpw83,1.0,t3_52n73j,5903,SCCM
+48,"I'm going on my own. I've been working with SCCM for about five years now, starting with SCCM 2007 and currently on CB 1602.",2016-09-07 17:04:35+00:00,d7d0bbo,3.0,t1_d7cvlbc,6204,SCCM
+49,"Hah, just noticed the oil filter in the water bottle cage. Very creative!",2016-09-07 01:15:44+00:00,d7c8shc,1.0,t3_51he0g,15901,bikecommuting
+50,"Yes, I will be going for the first time this year. ",2016-09-07 01:12:37+00:00,d7c8npz,1.0,t3_51g66b,30215,SCCM
+51,"Update compliance is evaluated against all updates in the database, not just the updates you have deployed. An asterisk will appear in this column if this update is detected as ""required"" on this client (meaning that if it were deployed to the client, it would be installed). ",2016-09-06 15:05:30+00:00,d7bjoum,1.0,t3_51fexu,2659,SCCM
+52,The inverted method: not even once. ,2016-09-06 14:56:12+00:00,d7bjb73,1.0,t3_51esfm,11436,AeroPress
+53,"I can confirm The Transit App and Google Maps aren't working for me either. BC Transit must have screwed up their data feed. Oddly enough, transit directions seem to be working fine in Apple Maps.
+
+Either way, the buses should be on their Sunday schedule, but... it's BC Transit, so best of luck.",2016-09-05 20:16:07+00:00,d7amx8j,1.0,t3_519rq6,19125,VictoriaBC
+54,It looks like you may be able to capture CDP packets using `netsh trace`. From [this post](https://www.reddit.com/r/networking/comments/38ot8x/capturing_cdp_packet_via_netsh_trace/) in /r/networking I gather that you can't filter on the packet type for CDP but you can filter on the destination MAC. `netsh` captures in .ETL format which you should be able to ingest using the `Get-WinEvent` cmdlet. ,2016-09-04 00:07:46+00:00,d78kkhg,1.0,t3_50zv2e,23140,SCCM
+55,"You may already be aware, but there is another way you can dynamically set the VLAN on a switchport: by implementing 802.1x authentication. It would likely involve more work to set up than the mechanism you are considering, but it has the added advantage of ensuring that someone can't easily access your LoB VLAN with an unauthorized device. 
+
+If you did decide to go this route, check out this blog post about [Operating System Deployment with 802.1x](https://blogs.technet.microsoft.com/wincat/2010/03/24/operating-system-deployment-in-an-802-1x-environment/). Note that in recent versions of WinPE, you enable 802.1x by adding the WinPE-Dot3Svc package, rather than installing a hotfix.
+
+On a somewhat related note, I always thought it would be useful if the CDP/LLDP information could be gathered by the SCCM Hardware Inventory. For example, you could use it to track down a PC which has been left turned off for a while. I found [this blog post](https://www.burkard.it/2011/05/collect-cdp-informations-with-sccm/) which shows how to do it using a VBScript that uses TCPDump.exe and writes the information to a NOIDMIF file but never got around to implementing it.",2016-09-03 23:37:29+00:00,d78jkc6,3.0,t1_d78cwrm,11478,SCCM
+56,"Sounds like an interesting challenge. What are you trying to accomplish, if you don't mind my asking?",2016-09-03 18:23:28+00:00,d788c21,1.0,t3_50zv2e,2482,SCCM
+57,"See the ""Generate a limited computer name based on the serial number"" section of this TechNet article:
+
+https://technet.microsoft.com/en-us/library/dn744282(v=ws.11).aspx",2016-08-30 17:54:56+00:00,d72vkn4,1.0,t3_50ccb9,1250,SCCM
+58,"Yeah, I think that should be fine. Just don't ""Decline"" the updates, or they will be expired in SCCM.",2016-08-30 04:58:08+00:00,d728wmq,2.0,t1_d728e6c,1065,SCCM
+59,"When you set up a WSUS server for SCCM, you aren't supposed to do anything in the WSUS console, i.e. don't approve updates or change any settings. All management occurs in the SCCM console. 
+
+SCCM only uses WSUS for access to the catalog. It takes care of downloading the updates itself and doesn't make use of any content you may have downloaded through WSUS.",2016-08-30 04:30:01+00:00,d7282wq,1.0,t3_50971d,2081,SCCM
+60,"I don't think you can deploy those updates with SCCM. Assuming you on SCCM Current Branch, you need to create an upgrade package and deploy it with a Task Sequence:
+
+https://technet.microsoft.com/en-us/library/mt627919.aspx",2016-08-30 03:49:54+00:00,d726twe,1.0,t3_508yza,2929,SCCM
+61,"We're not using MBAM (yet), but I did a bit of Googling and I think I may have found the answer. You need to create a GPO that applies the ""Encryption Policy Enforcement Settings"" policy documented here:
+
+https://technet.microsoft.com/en-us/itpro/mdop/mbam-v25/planning-for-mbam-25-group-policy-requirements
+
+Thanks for the opportunity to learn more about MBAM :)",2016-08-27 18:37:38+00:00,d6z25zd,1.0,t3_4zthgv,34504,SCCM
+62,"Oh no, that sucks! You may want to post in the Stolen Bicycle Avengers group, I hear they are helpful. 
+
+https://www.facebook.com/groups/94983981282/",2016-08-26 15:09:23+00:00,d6xkor3,1.0,t3_4zogh5,7890,VictoriaBC
+63,https://techcrunch.com/2016/06/22/apple-unencrypted-kernel/,2016-08-26 06:18:39+00:00,d6x726h,4.0,t1_d6x6u2o,603,netsec
+64,"According to [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Activation) the URL is:
+
+https://albert.apple.com/deviceservices/deviceActivation",2016-08-24 18:09:36+00:00,d6uyd81,1.0,t3_4zdo6k,3028,sysadmin
+65,"/u/VicPDCanada posted an explanation here back in March as to why they have taken down the link:
+
+https://www.reddit.com/r/VictoriaBC/comments/4ch5h6/crime_reports_clarification
+
+To clarify, https://vicpd.ca/crime-reports did link to the CrimeReports site /u/witty_remark shared above, and it does appear that the CrimeReports site is still being updated. However, I too would be interested in an update as to whether VicPD still feels the data is not accurate and whether any progress has been made with resolving the issues.",2016-08-21 22:53:31+00:00,d6r4usf,3.0,t1_d6pv482,89290,VictoriaBC
+66,"Create a new Application. Call it ""Old McAfee Client"" or something. Don't specify a content source. For the Installation string, put in something bogus (like a single letter ""a"". SCCM makes this a required field for some reason but we're not using it.) Fill in the Uninstallation string as usual (e.g. `msiexec /x /qn APP-UUID-STRING-HERE REBOOT=ReallySuppress`). Specify the Detection Method as usual. 
+
+You can either deploy this with an Uninstallation deployment or set the Deployment Type in your ""New McAfee Client"" Application to supersede it. ",2016-08-17 16:59:47+00:00,d6lcyzm,1.0,t3_4y61je,7289,SCCM
+67,"I haven't had any issues with the mount for my Kryptonite lock, other than an occasional difficulty with getting the lock out of it. It certainly seems more durable than the one that came with my last U-lock (a Magnum). 
+
+If you want to talk about technological failings, the fact that we have to lug around these heavy hunks of metal at all seems a riper target for scorn. Why do we not have bikes that can simply attach themselves to a bike rack somehow?",2016-08-07 19:35:51+00:00,d6843a1,1.0,t3_4wlyvn,4675,bikecommuting
+68,"I think you may need this:
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa826676(v=vs.85).aspx",2016-08-05 21:09:08+00:00,d65wckj,1.0,t3_4wazem,19902,SCCM
+69,"Yes, I believe this is possible. 
+
+What you need to do is create a new DP and modify your boundaries so that this DP is the only one available to your VPN clients. Distribute only your non-Microsoft Update content to this DP. Then, in the Properties dialog of your software update deployments, on the Download Settings tab, ensure that the ""If software updates are not available on your preferred distribution point or remote distribution point, download content from Microsoft Updates"" is checked.
+
+Disclaimer: I haven't actually implemented this yet.",2016-08-05 21:02:01+00:00,d65w1tf,1.0,t3_4wcgbw,2199,SCCM
+70,Consider making an appointment with the counselling services office at your university. It is likely the university offers financial assistance options like bursaries and interest-free loans for students in your situation. They should also be able to direct you to a legal aid clinic who can assist you with the issues with your family.,2016-08-05 05:58:06+00:00,d6511qn,1.0,t3_4w71um,28958,PersonalFinanceCanada
+71,"Yawn. /u/DeniableSummer already made that joke.
+
+Seriously though, Apple Maps is very good now. As far as I can tell, the only features it is lacking over Google Maps are street view and cycling directions. In my experience the data quality is on par with Google's (and most problem reports are acted on quickly). 
+
+Being able to get directions from Siri using Bluetooth in the car has been one of the big reasons I've been using Apple Maps lately. (Apple really should let you choose another map app for that, but hey, what are you gonna do.)",2016-08-02 23:04:14+00:00,d61pjy6,2.0,t1_d61ofe5,1548,VictoriaBC
+72,It sounds like you may be looking for the [Transit FlexFrame-U Bracket](https://www.amazon.com/Kryptonite-Transfit-FlexFrame-U-Bracket/dp/B00J4044ZO).,2016-08-02 01:00:52+00:00,d60emn9,3.0,t1_d60atbj,5531,bikecommuting
+73,"Is there supposed to be a photo that goes along with this post?
+
+According to [VicMap](http://vicmap.victoria.ca/Html5Viewer/index.html?viewer=Public), there is a sewage pumping station there, so that's probably what you're seeing. (Click ""I want to..."", then ""Turn map data on/off"". Expand and check the boxes next to Engineering and Public Works &gt; Sanitary Sewer &gt; Sewer Pump Stations.)",2016-08-01 00:45:51+00:00,d5yzffd,1.0,t3_4vik9m,19404,VictoriaBC
+74,"With the Lightstrip, you ideally want to mount it where you can't see the strip itself, just the light reflected off an adjacent surface. Check out a [Google Image Search](https://www.google.ca/search?q=philips+lightstrip&amp;tbm=isch) to see what I mean. If you can run it along the top of a cabinet or something then it should work. If not, I would recommend choosing another product. 
+
+Now that I think about it though, it should be possible to 3D print a plastic diffuser that would let you turn a Lightstrip into a disc light. Hmm...",2016-07-30 18:39:51+00:00,d5xf8vm,1.0,t3_4vb7ix,38441,Hue
+75,"I have used the AUTO_ACTIVATE=1 option in the past and it always worked fine (although it doesn't seem to work any more in Office 2016).
+
+We have Office baked into our image so we do use the Run Command Line method to activate Office in our task sequence (although we use the 32-bit version of Office so on a 64-bit machine it has to be `cscript ""c:\Program Files (x86)\Microsoft Office\Office15\OSPP.VBS"" /act""`). What's the output of the command? It should appear in your `smsts.log`.
+
+Are you making any hardware changes after the imaging process has completed? For example, pulling a freshly imaged drive out of a workbench machine and installing it in new hardware? That would require re-activating.",2016-07-28 19:53:20+00:00,d5uwbro,1.0,t3_4v1nlc,11418,SCCM
+76,Try the DO Button app by IFTTT. You could configure some recipes that just control the lights in the kids' room. ,2016-07-28 14:47:29+00:00,d5uhbrv,1.0,t3_4uyg1w,44153,Hue
+77,"Was it your predecessor that created this Office deployment? Perhaps they populated the ""updates"" folder in the installation media so that Office updates are applied as part of the installation process. See [this TechNet article](https://technet.microsoft.com/en-CA/library/cc178995.aspx#BKMK_UpdatesFolder) for details. Those updates take a long time to apply, which is one of the reasons I include Office in the base image when I can.
+
+I will point out that [Office has a .vbs script you can run to change the product key](https://technet.microsoft.com/en-us/library/ee624350.aspx), so if you did include Office in the base image, you could simply add a task sequence step to run the script if needed. ",2016-07-22 21:04:02+00:00,d5mve82,1.0,t3_4u4lxo,4661,SCCM
+78,"I confess, I haven't worked directly with WSUS much since we implemented SCCM. However, if I recall correctly, it's possible to create a group of computers (either manually or with a GPO) and approve an update for just a specific group, so perhaps that's the way  to proceed here.
+
+Edit: I looked a little more closely at the screenshot and it looks like that update is only for upgrading Windows 7 and 8.1 to Windows 10, so KB3159635 is probably what you need. Wish I could offer more help as to why WSUS isn't letting you approve it.",2016-07-22 18:01:58+00:00,d5mmw2o,3.0,t1_d5mjlye,4069,sysadmin
+79,Did you install [KB3095113](https://support.microsoft.com/en-us/kb/3095113) on the WSUS server before you synced the Upgrades classification?,2016-07-22 16:45:36+00:00,d5mj7bs,1.0,t3_4u37ls,5774,sysadmin
+80,"I don't have any personal experience, but I do know that this is a service offered by [Commissionaires](http://www.commissionairesviy.ca/services/process-servers/). ",2016-07-10 18:55:38+00:00,d56xhrl,1.0,t3_4s65ne,8560,VictoriaBC
+81,"[He's got some details on his website](http://silent.org.pl/home/2016/07/06/return-of-the-floppies/):
+
+&gt; Every column of 8 floppy drives is connected to one 8-channel controller built on ATMega16 microcontroller. One controller acts as one voice with envelope simulation – the higher the volume, the more drives are playing. This allows to make ADSR-like shape and simulate a musical instrument, like a piano (exponential decay) or string instrument (sine, „vibrato”)",2016-07-09 21:02:00+00:00,d55wtpv,2.0,t1_d54vjj4,81221,sysadmin
+82,"Just so I'm sure I understand correctly: You are removing the hard drive with the operating system volume on it and replacing it with a different drive?
+
+If that is the case, that would be analogous to a Dual Boot configuration. [Here's what TechNet has to say about that](https://technet.microsoft.com/en-us/library/gg682077.aspx#BKMK_SupConfigDualBoot):
+
+&gt; System Center 2012 Configuration Manager cannot manage more than one operating system on a single computer. If there is more than one operating system on a computer that must be managed, adjust the discovery and installation methods that are used to ensure that the Configuration Manager client is installed only on the operating system that has to be managed.",2016-07-08 21:42:30+00:00,d54tst7,3.0,t1_d54or65,7021,SCCM
+83,"The greyed out icons indicate the files are not in the offline cache. Perhaps they were recently added on the server and the client was in the process of trying to sync them when it got disconnected, so it knows they exist but can't access them. Or perhaps the offline files cache is full. Check the cache size in Control Panel &gt; Sync Center &gt; Manage Offline Files. As a last resort, you can reset the offline files cache as documented in this blog post (which has some other useful info as well): https://helgeklein.com/blog/2012/04/windows-7-offline-files-survival-guide/
+
+I would add that if you do reset the offline files cache, you should do a ""gpupdate /target:user /force"" under the user's profile to ensure the automatic caching of the redirected folders occurs.
+
+As others have said, Offline Files has long been known to have issues, and Microsoft has abandoned it: [""CSC hasn’t had a feature update since Windows 8, and that should be a strong sign that it probably never will.""](https://blogs.technet.microsoft.com/filecab/2016/03/15/offline-files-and-continuous-availability-the-monstrous-union-you-should-not-consecrate/) They are pushing the [Work Folders](https://technet.microsoft.com/en-us/library/dn265974.aspx) feature which was introduced in Windows 8.1 (which I haven't yet tried myself).
+
+Good luck!",2016-07-07 16:29:32+00:00,d52zcy8,1.0,t3_4roksg,10450,sysadmin
+84,Or you could spend the measly ten bucks a month and support your local news media. Am I the only one who isn't freeloading?,2016-07-06 03:13:00+00:00,d50xas1,2.0,t1_d50ni9t,15246,VictoriaBC
+85,"Vancouver Coastal Health has a website that lets you see how busy six of their emergency departments are:
+
+http://www.edwaittimes.ca/WaitTimes.aspx
+
+Unfortunately, there is nothing like that for Victoria. However, [their FAQ does say that the busiest times of day are between 10am and 10pm, and the busiest day of the week is Monday](http://www.edwaittimes.ca/FAQ.aspx#FAQ_QA_LeftList_6). I would imagine it is similar for Victoria.",2016-07-01 02:17:09+00:00,d4uu3f3,1.0,t3_4qp4xf,3656,VictoriaBC
+86,"[You can look it up on the BC Liquor Store web site](http://www.bcliquorstores.com/product/685867). As of now, the Westshore location has 13 in stock.",2016-06-30 04:33:50+00:00,d4tkzhh,1.0,t3_4qjpf4,2945,VictoriaBC
+87,"Did you remember to Update Content? 
+
+In the SCCM console, navigate to Software Library &gt; Application Management &gt; Applications, click on your Application in the list, click on the Deployment Types tab, right-click your deployment and click Update Content.
+
+After a few minutes, go to Monitoring &gt; Distribution Status &gt; Content Status, find your application and verify content distribution was successful. Then run a ""Machine Policy Retrieval &amp; Evaluation Cycle"" on one of your clients. Give it a few minutes to run, then try the uninstall again.
+
+Also, come join us in /r/SCCM!",2016-06-29 18:51:04+00:00,d4sxgza,1.0,t3_4qh0xv,2057,sysadmin
+88,Looks like it's already been suggested (so go vote on it!): https://configurationmanager.uservoice.com/forums/300492-ideas/suggestions/13002684-software-center-show-only-available-software-hid,2016-06-28 21:45:17+00:00,d4rrjbf,2.0,t1_d4rjlv1,10550,SCCM
+89,"Well, you got me curious, so I dug up the text of the bylaw [here](http://www.victoria.ca/assets/City~Hall/Bylaws/bylaw-07-069.pdf). Section 4(d) provides an exemption for ""vehicles using heating or refrigeration systems powered by the motor or engine
+for the preservation of perishable cargo"". Obviously this is intended to mean trucks with refrigeration units, but perhaps you could make a case...",2016-06-28 15:47:20+00:00,d4rb81w,2.0,t1_d4qx2x8,33764,VictoriaBC
+90,"First of all, why are you creating collections of Users when you will be deploying patches to a collection of Machines?
+
+I have done something similar to ResourceID LIKE %[0-4] and %[5-9] but, like you say, for small departments you may end up with most or all machines in the department in the same group.
+
+You might consider creating a ""Pilot"" collection where you manually add one or two machines from each department (preferably, machines belonging to users who you know will contact the help desk promptly if they discover any issues). Deploy to this collection first, and then proceed with the other two groups if there aren't any issues.",2016-06-24 17:37:20+00:00,d4mhw9m,1.0,t3_4pnqlh,4472,SCCM
+91,"""By the taste!""",2016-06-22 01:25:45+00:00,d4it8cm,2.0,t1_d4hdl5s,89401,VictoriaBC
+92,"No fees to join the choir, but you need to become a social member of the CP Lawn Bowling Club where the rehearsals are held, which is $40 per year. You can attend a couple rehearsals first to see if it's for you.",2016-06-22 01:15:34+00:00,d4isu7j,2.0,t1_d4isjw3,428,VictoriaBC
+93,"I googled ""BC law NSF fees"" and found this:
+
+https://www.consumerprotectionbc.ca/blog/item/294-are-late-payment-or-default-fees-legal",2016-06-21 14:24:12+00:00,d4hzpjy,1.0,t3_4p2u9m,35975,britishcolumbia
+94,"I'm guessing the guide /u/mikeh361 is referring to is this one:
+
+http://ccmexec.com/2016/03/configmgr-cb-1602-server-2008-r2-in-place-upgrade-to-2012-r2/
+
+You may also want to check out this blog post by Russ Rimmerman which also covers upgrading from SQL 2008 R2 to SQL 2012:
+
+https://blogs.technet.microsoft.com/configmgr_geek_speak/2016/03/23/configuration-manager-1602-on-windows-2008-r2-sql-2008-r2upgrading-to-windows-2012-r2-sql-2014/
+
+I haven't attempted the upgrade myself yet, so I can't offer any guidance as to the quality of the advice given :)",2016-06-20 17:45:05+00:00,d4gvxzh,2.0,t1_d4ge9xb,36336,SCCM
+95,Congratulations!,2016-06-19 17:19:36+00:00,d4fjepf,1.0,t3_4orc9u,56426,SCCM
+96,"I believe the reason is that gasoline fumes can be ignited by a spark from a static electric discharge, which is much less likely to occur if you have to keep your hand on the nozzle. 
+
+Edit: [Found an article in the Toronto Star with some more info](http://www.wheels.ca/news/locking-trigger-when-gassing-up-can-be-dangerous/).",2016-06-19 16:42:49+00:00,d4fi4aq,2.0,t1_d4fhgui,1150,canada
+97,"Are you seeing any errors in WindowsUpdate.log? Maybe it's this issue:
+
+https://blogs.technet.microsoft.com/configurationmgr/2015/04/15/support-tip-configmgr-2012-update-scan-fails-and-causes-incorrect-compliance-status/",2016-06-18 05:26:49+00:00,d4e0ajf,3.0,t1_d4dgpb3,34564,SCCM
+98,"Under **Monitoring&gt;Reporting&gt;Reports&gt;Software Updates - A Compliance**, run report **Compliance 5 - Specific Computer** on one of the affected clients. Which of the Approved, Installed and Is Required columns have asterisks in them for the missing updates?",2016-06-17 19:16:21+00:00,d4df4jo,1.0,t3_4oklbc,3427,SCCM
+99,"As a workaround, you can set the ""Installation deadline to upgrade users or devices that have the superseded application installed"" to a date far in the future, but I believe this will only be effective if the ""work hours"" option hasn't been enabled in the Software Center.
+
+You may want to [vote on my feedback idea at UserVoice](https://configurationmanager.uservoice.com/forums/300492-ideas/suggestions/8770270-allow-deployment-of-a-superseding-application-as).",2016-06-16 00:03:08+00:00,d4axgwt,1.0,t3_4o968q,16204,SCCM
+100,"Have you seen this thread on TechNet?
+
+https://social.technet.microsoft.com/Forums/en-US/d8f01d28-e21a-49cd-80b7-a0cba6a200ca/1511-client-after-1602-kb3155482-upgrade?forum=ConfigMgrCBGeneral",2016-06-15 23:58:39+00:00,d4axaqb,1.0,t3_4o9dp6,13621,SCCM
+101,"Well, look who finally showed up!",2016-06-15 19:09:19+00:00,d4akdla,1.0,t3_48ulf6,8970643,SCCM
+102,"If you fill in the blank with ""Buy"", I think everyone would agree that the best Best Buy is the Best Buy convenience store on Douglas Street.
+
+Obviously, the worst Best Buy is the Best Buy electronics store in Uptown.",2016-06-13 15:07:19+00:00,d47dbgb,1.0,t3_4nuos2,24900,VictoriaBC
+103,"Here are some downsides of deploying applications using Task Sequences that I can think of:
+
+* If you are deploying a Task Sequence as ""Available"" to a computer (i.e. a user can initiate the install themselves through the Software Center), each user logging in to that computer will get a notification pop-up saying ""New software is available"". Unlike an Application or Program, I don't think it's possible to disable this on a per-app basis (someone correct me if I'm wrong about that!) In addition, the user will get a scary warning when they run the Task Sequence saying ""Confirm that you want to install a new operating system on this computer"".
+* You can't deploy a Task Sequence to a user, only to a computer
+* Keeping track of which applications you've deployed as Applications and which you've deployed as Task Sequences could get confusing.
+
+As others have mentioned, a better approach for deploying applications requiring multiple steps is to have your Application run a script. A great way to do this is to use the [PowerShell App Deployment Toolkit](http://psappdeploytoolkit.com). ",2016-06-10 18:34:35+00:00,d43ykvr,1.0,t3_4ndu5e,64779,SCCM
+104,"Windows 10 Enterprise 1511 x64. The task sequence was created with the ""Upgrade an operating system from upgrade package"" selection in the Create Task Sequence Wizard.",2016-06-09 16:11:17+00:00,d42foxc,3.0,t1_d42dsuy,2453,SCCM
+105,Wobbly tables in restaurants. ,2016-06-09 15:05:45+00:00,d42cnyr,1.0,t3_4nabgz,14160,AskReddit
+106,"A few ideas off the top of my head...
+
+What's the difference between an Application and a Package?
+
+What are Task Sequences used for? Why do you have to be extra careful about deploying them?
+
+Suppose your boss asks for a list of all computers with a particular piece of hardware installed on it. How would you proceed?
+
+An Automatic Deployment Rule can be configured in two ways: it can create a new Software Update Group each time it runs, or it can add updates to an existing Software Update Group. What considerations would you make when choosing which way to configure an ADR?",2016-06-09 00:12:05+00:00,d41n9x2,1.0,t3_4n6nlz,19317,SCCM
+107,"I've just tested a deployment of the in-place upgrade to a PC with client version 5.00.8355.1000 and I am seeing the ""new"" message. When I try the same thing on a machine with an older version of the client (5.00.8239.1301), I see the ""old"" message.",2016-06-08 18:57:10+00:00,d419k50,1.0,t3_4n5h0u,13911,SCCM
+108,"M0.1 means ""magnitude 0.1"". It measured a 0.1 on the Richter scale, but it was an explosion, not an earthquake. ",2016-06-08 14:55:37+00:00,d40xe9x,3.0,t1_d40v7l6,3049,VictoriaBC
+109,"Sorry, I mis-remembered the setting. I was thinking of CSM.",2016-06-08 00:23:07+00:00,d40784i,3.0,t1_d40730x,213,SCCM
+110,"If I understand correctly, you are using Bootable Media created in SCCM to launch the task sequence, correct? Is the boot image on the bootable media different than the boot image attached to the task sequence? If so, try creating new Bootable Media that uses the same boot image as the task sequence. The task sequence shouldn't need to copy itself to the HD and restart as long as it has the correct boot image to begin with.",2016-06-07 16:40:25+00:00,d3zmmza,1.0,t3_4mwpel,52697,SCCM
+111,"Rather than restarting the computer, I would recommend just killing the applications that need to be closed. You can do this very easily with the [PowerShell App Deploy Toolkit](http://psappdeploytoolkit.com/).",2016-06-07 16:20:59+00:00,d3zlr32,1.0,t3_4mzqdl,1321,SCCM
+112,"I haven't tried it yet, but it's my understanding that as of SCCM 1511, there is a new Software Center that combines the Software Center and Application Catalog, but it's not enabled by default. You have to enable it in your Client Settings policy.
+
+http://www.scconfigmgr.com/2015/12/06/enable-the-new-software-center-in-configmgr-1511/",2016-06-05 07:32:47+00:00,d3wmioh,1.0,t3_4mm93q,4387,SCCM
+113,"Just in case you are still seeing this issue, a workaround has been posted in the TechNet thread you linked to. Run these commands before the pre-provisioning step:
+
+    reg add HKLM\SOFTWARE\Policies\Microsoft\FVE /t REG_DWORD /v EncryptionMethodWithXtsFdv /d 3 /f
+    reg add HKLM\SOFTWARE\Policies\Microsoft\FVE /t REG_DWORD /v EncryptionMethodWithXtsOs /d 3 /f
+    reg add HKLM\SOFTWARE\Policies\Microsoft\FVE /t REG_DWORD /v EncryptionMethodWithXtsRdv /d 3 /f",2016-06-02 18:31:06+00:00,d3tf0j0,2.0,t1_cy12gui,14612002,SCCM
+114,https://www.reddit.com/wiki/commenting#wiki_numbering,2016-06-02 06:13:57+00:00,d3ssfsw,5.0,t1_d3ssa1w,429,technology
+115,"Some random bad logins are to be expected, it's just the ""background noise"" of the internet. 
+
+If you have repeated bad logins to valid (or formerly valid) usernames, it could be any of the following:
+
+* A user changed their password on the domain and hasn't entered the new password on their device, so it's repeatedly trying to authenticate using the old, invalid password
+* A user is no longer with the company so their account has been deleted or disabled, but they still have a mail account on their device which is trying to authenticate
+* Someone is actively trying to break in or lock someone out of their account
+
+You may need to follow up with the user and analyze the source of the attempts (e.g. doing a geoIP lookup on the IP address) to figure out which of those three possibilities is the correct one.
+
+If it's a forgotten account from a former user and the account was just disabled in AD (and not deleted), you may be able to stop the bad logons by re-enabling the account and sending a device wipe command. (You may also need to set the ""Password never expires"" attribute on their AD account if the password has expired). That could cause the user to lose data though, so proceed with caution.",2016-05-28 22:38:11+00:00,d3nf1yu,5.0,t1_d3n8j58,11565,exchangeserver
+116,"You can look at the details in the event log entry to determine whether or not the user account exists. [This page](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4625) has a list of the status and sub-status codes and what they mean. For example,`0xC0000064` means the user does not exist, `0xC000006A` means the user exists but the password is wrong, and `0xC0000072` means the account is disabled.
+
+I'm not sure I understand how this could turn into a Denial of Service attack against your server, though. What is your concern there exactly? That the traffic will overwhelm it? If it's only a few hundred attempts per day, that's not worth losing any sleep over.",2016-05-28 19:00:20+00:00,d3n7osl,3.0,t1_d3n5p0r,3573,exchangeserver
+117,"Assuming the bad password attempts are coming from a device that is repeatedly trying to authenticate with an old password, I think this may be a feature. Quoting from [this TechNet article](https://technet.microsoft.com/en-us/library/cc780271\(v=ws.10\).aspx):
+
+&gt;Password history check (N-2): Before a Windows Server 2003 operating system increments badPwdCount, it checks the invalid password against the password history. If the password is the same as one of the last two entries that are in the password history, badPwdCount is not incremented for both NTLM and the Kerberos protocol. This change to domain controllers should reduce the number of lockouts that occur because of user error.
+
+The article is discussing Server 2003 but the feature may still exist in later versions. I haven't been able to find anything confirming that one way or the other.",2016-05-28 17:40:04+00:00,d3n4zv6,1.0,t3_4lcl34,77303,exchangeserver
+118,"Interesting. The question then becomes: when a user logs in to a computer for the first time, does the OST file already exist in the user's Appdata\Local\Microsoft\Outlook folder before they open Outlook, and if so, how did it get there?",2016-05-20 14:49:00+00:00,d3cyp9l,3.0,t1_d3ct4bf,9887,exchangeserver
+119,"I'm guessing you're using Roaming Profiles and you've got a configuration issue. The AppData\Local folder should be excluded from the roaming profile by default, but it's possible that setting has been overridden somehow. Check the `HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\ExcludeProfileDirs` registry key. The value should be `AppData\Local;AppData\LocalLow;$Recycle.Bin`. See [this TechNet Forums post](https://social.technet.microsoft.com/Forums/en-US/1c618a22-b48a-43ca-81cc-64836c058207/appdatalocal-and-locallow-following-roaming-profile?forum=winserverGP) for more details.",2016-05-20 05:38:32+00:00,d3clwco,1.0,t3_4k34tu,49335,exchangeserver
+120,"    select * from  SMS_R_System inner join
+    SMS_G_System_NETWORK_ADAPTER on 
+    SMS_G_System_NETWORK_ADAPTER.ResourceID = 
+    SMS_R_System.ResourceId inner join 
+    SMS_G_System_NETWORK_ADAPTER_CONFIGURATION on
+    SMS_G_System_NETWORK_ADAPTER_CONFIGURATION.ResourceID = 
+    SMS_R_System.ResourceId where 
+    SMS_G_System_NETWORK_ADAPTER.DeviceID = 
+    SMS_G_System_NETWORK_ADAPTER_CONFIGURATION.Index 
+    and SMS_G_System_NETWORK_ADAPTER.Manufacturer like ""Intel%"" and 
+    SMS_G_System_NETWORK_ADAPTER_CONFIGURATION.IPEnabled = 1
+
+Edit: The key is the `SMS_G_System_NETWORK_ADAPTER.DeviceID = 
+SMS_G_System_NETWORK_ADAPTER_CONFIGURATION.Index `, as this correlates the entries from the Network_Adapter table with the corresponding entries from the Network_Adapter_Configuration table.
+
+I also used a LIKE clause for the Manufacturer as Intel adapters may also be listed as ""Intel Corporation"", but that may or may not be what you want.",2016-05-17 18:48:24+00:00,d3959na,1.0,t3_4jrw3e,6767,SCCM
+121,"The method /u/STL_reddit suggested requires one additional step. By default, SCCM doesn't gather the `Win32_ComputerSystemProduct`  class. To enable it:
+
+ 1. Navigate to Administration &gt; Client Settings
+ 1. Edit the ""Default Client Settings"" object
+ 1. Under Hardware Inventory, click ""Set Classes...""
+ 1. Expand ""Computer System Product"" and check the box next to ""Version"". 
+
+The next time the hardware inventory cycle runs on each of your clients, this additional information will be gathered. Note that you may occasionally see a machine where this field isn't populated, especially if its motherboard was replaced at some point.",2016-05-17 17:47:50+00:00,d392cct,5.0,t1_d38xkqx,6041,SCCM
+122,"Nah, I'll let someone else have a turn.",2016-05-17 17:27:38+00:00,d391cyg,3.0,t1_d38uwrp,8354,SCCM
+123,"Are you taking bets on what went wrong? My money is on ""something else upgraded the application to a newer version and the detection method on this one is looking for a specific version so it tries to re-install the old version over the new version"".",2016-05-17 14:54:20+00:00,d38uair,1.0,t3_4jqbu6,14105,SCCM
+124,"In the Properties of the Deployment, on the Scheduling tab, ensure that ""Rerun behavior"" is set to ""Rerun if failed previous attempt"". You may also need to set your Assignment schedule to recurring, i.e. ""Every 1 day at 1am"".",2016-05-16 23:44:46+00:00,d3854dl,1.0,t3_4jllia,30840,SCCM
+125,"Yes, the machines should be named using the Computer Name you supplied in the .csv, so there must be something weird going on in your task sequence. Have you added any task sequence steps? Are you using a custom answer file (unattend.xml) in the Apply Operating System step? ",2016-05-11 15:11:32+00:00,d31da74,1.0,t3_4iv2hq,3765,SCCM
+126,"You must be a member of the club to bowl, and I believe membership is $175 per year. The club has a ""Learn to bowl"" program on Wednesday evenings that is $30 and if you decide to become a full member, that fee is deducted from your membership: http://www.downtownlawnbowling.ca/514-2/
+
+The club hosts croquet, bocce, darts, and other social events. There is also a pop choir that rehearses at the clubhouse on Sunday evenings. You can contact them at https://www.facebook.com/VicPopChoir/ 
+
+Hope that helps!",2016-05-09 01:02:30+00:00,d2y23eo,3.0,t1_d2x7x7k,63370,VictoriaBC
+127,"The [Canadian Pacific Lawn Bowling Club ](http://www.downtownlawnbowling.ca) has daily games at 1pm. Yes, it's a bit of an older crowd but there are some younger members too. I believe they're having an open house on May 14 if you want to go check it out. ",2016-05-07 18:18:20+00:00,d2wkpi7,1.0,t3_4iaysp,1559,VictoriaBC
+128,"&gt;If I run it as an uninstallation, it says ""I won't run if I'm not installed, so I'll run my detection method...yup, the path exists so I'm installed. Launch the Uninstall Program.""
+
+Yes, that's it in a nutshell.
+
+However, if you are uninstalling in preparation to install the latest version, this is probably not the way to go. If you have this ""uninstall"" application deployed to one of the computers with the latest version installed, it will remove it too. 
+
+A better approach would be to make your Flash deployment a script that runs the uninstall tool before installing the latest version. 
+
+One other thing to mention is that I don't think it's actually possible to have more than one version of Flash player actually installed. It's more likely that you just have obsolete entries in your Add/Remove Programs. If that is the case, the PSAppDeployToolkit script fragment that /u/Wind_Freak posted may be helpful. (If you're not familiar with PSADT, check it out here: http://psappdeploytoolkit.com)",2016-05-07 03:25:44+00:00,d2vzy9l,3.0,t1_d2uuhn1,76331,SCCM
+129,"A little trick that I use sometimes when removing software from computers is to create a deployment for an application but set the ""Installation program"" in the Deployment Type to something bogus (like just a letter 'a') and just specify the uninstaller in the ""Uninstall program"". In the detection method, specify your detection **as if you were detecting that the program was installed**. Then, in the Deploy Software Wizard, on the Deployment Settings page, set the ""Action"" to ""Uninstall"".
+
+So in your case, the Uninstall Program would be uninstall_flash_player.exe, and your detection might test for the existence of the `Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Flash Player ActiveX` OR `Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Flash Player NPAPI` registry keys (don't forget to check the ""This registry key is associated with a 32-bit application on 64-bit systems"" checkbox). 
+
+When you deploy with the ""Uninstall"" action, if the SCCM client detects that one of those keys exists, it determines that the software is installed and then runs your uninstaller.",2016-05-06 04:09:58+00:00,d2ur8bh,1.0,t3_4hxr6p,96026,SCCM
+130,"This is the right answer, but that TechNet article is for SCCM 2007. Here's the one for SCCM 2012:
+
+https://technet.microsoft.com/en-us/library/hh397287.aspx#BKMK_AddComputer
+
+Note that you can use the MAC address or the SMBIOS ID to identify each computer.",2016-05-06 03:25:51+00:00,d2upu82,2.0,t1_d2trl4j,49364,SCCM
+131,"You would deploy those manually, rather than with an ADR. Navigate to **Software Updates &gt; All Software Updates**, use the **Add Criteria** drop-down in the upper-right to select your criteria, click Search, select all, then click **Deploy**.
+
+If you haven't already, I highly recommend reading [this TechNet blog post](https://blogs.technet.microsoft.com/server-cloud/2012/02/20/managing-software-updates-in-configuration-manager-2012/).",2016-04-29 16:51:50+00:00,d2m9jtp,1.0,t3_4gznt3,8156,SCCM
+132,"There's no built-in way to do this as far as I know.
+
+You could create a custom report, but that's a bit involved. If you did decide to go down that road, here's a blog post I found helpful: https://sccmgeekdiary.wordpress.com/2012/10/29/sccm-2012-reporting-for-dummies-creating-your-own-ssrs-reports/
+
+Another technique might be to deploy the applications in a Task Sequence, rather than individually. As you may already know, Task Sequences are intended to be used for OS deployments but they can be useful for other tasks as well. For your case, you would create a task sequence with only a single ""Install Applications"" task sequence step, configured to install all the needed applications. Deploy it to your collection as a Required deployment, with Availability set to ""Only Configuration Manager Clients"". 
+
+This way, you can at least see whether all the applications have finished installing on a given machine, although you won't be able to monitor the progress of the installation of the individual applications.",2016-04-27 23:59:45+00:00,d2k1aj9,1.0,t3_4gqs75,8325,SCCM
+133,"&gt; aka don't waste your time yet
+
+I'm not sure I understand. Are you referring specifically to the fact that you can't use the reports on SCCM 1602? I would think you can probably still get some useful information from the built-in Configuration Baseline reporting functionality.",2016-04-26 19:59:17+00:00,d2idbwa,2.0,t1_d2h1fkp,83321,SCCM
+134,"&gt;I'm assuming the pre-req Install the IIS feature: ""IIS Management Scripts and Tools"" is for the IIS vulnerabilities
+
+Yes, from the documentation it looks like this is needed so the PowerShell scripts can query IIS.",2016-04-26 19:55:17+00:00,d2id52f,2.0,t1_d2hncwe,46668,SCCM
+135,"[Ze Frank, is that you?](https://youtu.be/w5qajhplNGY?list=PLMs_JcuNozJa7tg80N_kITisZjHHeE3uo&amp;t=36)
+
+^\(that ^episode ^aired ^exactly ^ten ^years ^ago ^today!) ",2016-04-20 14:55:13+00:00,d2ad37w,2.0,t1_d2a7n8y,8601,AskReddit
+136,"Are you referring to `$envProgramFiles`? That is a variable created by the PSADT, it doesn't need a colon.",2016-04-16 22:37:42+00:00,d25pa9g,2.0,t1_d253x2c,42426,SCCM
+137,Is the application set to be installed by a Task Sequence that is deployed to a collection these machines are a member of? That seems to cause some weird issues sometimes.,2016-04-16 22:35:16+00:00,d25p77c,1.0,t3_4ez5q4,86956,SCCM
+138,"/u/System_Center_Robot's answer is correct, but there is one additional setting to be aware of (assuming you're on SCCM 2012 or later), and that is the ""Automatically install or uninstall required software and restart the computer only outside of the specified business hours"" setting. It's found in the Software Center on the client under the Options tab and is disabled by default. 
+
+If this setting is enabled, any available updates will install as soon as the end of the scheduled ""Business Hours"" is reached, whether or not a maintenance window is in effect. (The default business hours are 5am to 10pm Mon-Fri.) 
+
+This TechNet blog post provides a good overview of how Business Hours and Maintenance Windows interact: https://blogs.technet.microsoft.com/server-cloud/2012/03/28/business-hours-vs-maintenance-windows-with-system-center-2012-configuration-manager/",2016-04-14 21:15:43+00:00,d234xsg,1.0,t3_4ehpld,179518,SCCM
+139,"If your ADR is adding updates to a SUG, then yes, those updates will be installed per the existing deployments. However, it is not recommended to add or remove updates from a SUG with deployments. 
+
+For deploying the monthly Patch Tuesday updates, your ADR should be configured to create a new SUG each time it runs. On R2 SP1, you will need to manually create any additional deployments. I believe either 1511 or 1602 has added the ability to have your ADR create multiple deployments each time it runs.
+
+The only case where you should create an ADR that re-uses an existing SUG is when deploying AV definitions.
+
+I found this TechNet blog post very helpful when setting up Software Updates: https://blogs.technet.microsoft.com/server-cloud/2012/02/20/managing-software-updates-in-configuration-manager-2012/",2016-04-11 00:31:14+00:00,d1xw3q4,1.0,t3_4dxhf3,197663,SCCM
+140,"Rockin' for Refugees Benefit
+
+Thursday, April 14 at 7pm
+
+Logan's Pub - 1821 Cook St.
+
+A night full of music and dance with 3 great bands -- Rae Spoon, the Soul Shakers, and Genevieve and the Wild Sundays -- in support of Fernwood Sponsors Refugees. Moved by the plight of Syrians forced to flee their homeland in search of a safe haven, Fernwood Sponsors Refugees is raising the $45,000 required to resettle a family in our neighbourhood. Tickets are $15-$75 and 100% of door sales will go to the cause! 
+
+Tickets available at: http://rockinforrefugees.brownpapertickets.com/",2016-04-10 01:17:51+00:00,d1wseeo,1.0,t3_4cpd76,832728,VictoriaBC
+141,"Perhaps the SCCM client is deployed as a Package set to ""Always Rerun"" with a daily scheduled deployment?",2016-04-09 23:36:49+00:00,d1wozzx,1.0,t3_4e3djx,3733,SCCM
+142,"Bitlocker does not require UEFI.
+
+I cannot speak to HP machines, but on our Lenovo desktops with UEFI enabled, we are able to re-configure the boot order just the same as with the firmware in BIOS mode.
+
+Edit: I just learned that if you have an SSD which supports hardware encryption, it is possible to configure BitLocker to offload encryption to the drive. This does require that UEFI is enabled, among other things, which may be what the parent comment was referring to (before the poster deleted it). https://helgeklein.com/blog/2015/01/how-to-enable-bitlocker-hardware-encryption-with-ssd/",2016-04-09 19:48:20+00:00,d1wh2ut,3.0,t1_d1vxtjf,46468,sysadmin
+143,"Perhaps an obvious question, but have you confirmed the computer accounts of the target computers have the ""List Folder Contents"" permission on the source directory? ",2016-04-09 19:37:04+00:00,d1wgo15,1.0,t3_4dxijd,93175,sysadmin
+144,"You need to re-configure the boot order in the BIOS to set the hard disk as the first item in the boot order. See the ""What is the recommended boot order"" section in the [BitLocker FAQ](https://technet.microsoft.com/en-us/library/hh831507.aspx) for more details. If they drive is already encrypted, you need to suspend Bitlocker protection before making the change.
+
+On our Lenovo desktops, there are three boot order sequences: one for a regular startup, one for an ""Error boot sequence"", and one for WOL. The Error Boot Sequence occurs when the computer is powered on with no mouse or keyboard connected, and by default, it has PXE boot as the first option. This tripped us up when we did a new hardware roll-out because our suppliers were disconnecting the mouse and keyboard before the deployment completed, which meant the error boot sequence had run when Bitlocker was enabled. The next time the computer was powered on with a mouse and keyboard connected, the user got prompted for the recovery key.",2016-04-08 16:56:07+00:00,d1v4cm6,1.0,t3_4dwje1,10013,sysadmin
+145,"[Fol Epi](http://folepi.ca) has opened a restaurant on Yates St. called Agrius that is very good. It recently had [a glowing review in the Globe &amp; Mail](http://www.theglobeandmail.com/life/food-and-wine/restaurant-reviews/agrius-by-fol-epi-succulence-of-the-lamb/article28750909/).
+
+If you like greasy pizza, I haven't yet been there myself, but [Famous Original](http://www.famousoriginal.ca) seems to be getting a lot of buzz.",2016-04-04 05:06:22+00:00,d1p0hic,1.0,t3_4d3kv5,111267,VictoriaBC
+146,"I think the information in the `V_GS_Recently_Used_Apps` table is gathered during a Hardware Inventory cycle, so the data will be current as of the time the cycle ran. Does that account for the discrepency? If so, you could increase the frequency of the inventory, but that will increase the load on your clients and server(s).",2016-03-23 04:21:29+00:00,d1a3rc7,3.0,t1_d19ew3q,36845,SCCM
+147,What do you mean when you say the the information about last used times doesn't line up with the header information of the exe? Can you give us an example?,2016-03-22 17:35:12+00:00,d19dfgc,1.0,t3_4bc7fp,101849,SCCM
+148,`PC LOAD SUNFLOWER SEEDS`,2016-03-15 18:50:23+00:00,d10xlet,1.0,t3_4ailny,16474,sysadmin
+149,"Nah, just throw 'er in reverse and hit the gas. What could possibly go wrong?",2016-03-11 16:06:48+00:00,d0w2okg,1.0,t3_49z79u,2866,VictoriaBC
+150,"It's the feature that allows an app to retrieve content in the background so you don't need to wait for it to update when you launch it. Launch Settings, scroll down and tap Alien Blue.",2016-03-11 01:32:23+00:00,d0vh9la,3.0,t1_d0vge0h,1462,AlienBlue
+151,"It is my understanding that a superseding application will only be installed on machines where the superseded application is installed when the application is deployed to a collection which has those machines as a member. 
+
+However, I recall reading somewhere that if an OSD Task Sequence which references the superseding application is available to a machine with the superseded application, this makes the update ""available"" to that machine for supersedence purposes and it will be installed. I haven't investigated this myself but it's something to keep in mind.",2016-03-10 21:04:15+00:00,d0v6ona,1.0,t3_49ru1g,61819,SCCM
+152,"I agree with /u/jasonsandys -- I think you are probably clicking the Delete button in the Collection tab, which deletes the whole collection. It's an easy mistake to make; I've done it myself a couple times.
+
+However, I wanted to point out that even if you go to the Home tab and click on the Delete button there, *that will delete the client object from SCCM completely*. (This is another mistake I have made more than once.) 
+
+If you actually just want to remove the client object from the collection, you need to click on the **Remove from Collection** button. (Tip: if this button is greyed out, it means the client was added to the collection using a query rule, rather than being added directly.)",2016-03-10 20:41:56+00:00,d0v5mh1,1.0,t3_49tr43,20621,SCCM
+153,I haven't seen that error since I turned off Background App Refresh. ,2016-03-10 02:41:41+00:00,d0u7yz6,1.0,t3_49qshd,11796,AlienBlue
+154,"For users who need to update software twice a year, why not just have them call the help desk?",2016-03-08 18:47:06+00:00,d0sc4c6,3.0,t1_d0s8c40,5113,sysadmin
+155,This isn't how deployment types are meant to work. [See my reply on another post about this](https://www.reddit.com/r/SCCM/comments/3if4mi/uninstalling_application_via_sccm/cufzmth).,2016-03-07 23:25:01+00:00,d0rddjx,1.0,t3_49dvld,19182,SCCM
+156,"I assume you're referring to application deployment, as opposed to operating system deployment? 
+
+Take a look at the [PowerShell App Deployment Toolkit](http://psappdeploytoolkit.com/). It's a PowerShell wrapper for your application deployments. It provides a number of helpful functions, including testing network connectivity, ensuring applications are closed, allowing users to postpone deployments, etc.",2016-03-07 20:34:51+00:00,d0r64xx,1.0,t3_49e3dx,6306,SCCM
+157,"When you say ""the volume these updates resided on"", are you referring to a distribution point, or the content source? If it's the distribution point, I believe the content will be deleted by the distribution manager, which runs every hour.
+
+If it's the content source you want to clean up, you will need to run the script linked to in this blog post:
+
+https://blogs.technet.microsoft.com/configmgrteam/2012/04/12/software-update-content-cleanup-in-system-center-2012-configuration-manager/",2016-02-20 17:45:22+00:00,d077fhd,1.0,t3_46pwqh,18680,SCCM
+158,"TL;DR: This is probably nothing to worry about.
+
+What has happened is that a user has visited a website that may be hosting something malicious. Either the site was hacked, or an ad network they use has allowed something malicious through (which happens fairly regularly). Either way, SCEP has detected the JavaScript file in Chrome's cache and quarantined it. (You know it's JavaScript because of the ""JS/"" in the malware name.)
+
+The fact that it was detected means it likely wasn't able to run, and even if it was, it would be constrained to doing what JavaScript in the browser can do (which isn't much). As long as the version of Chrome is relatively up-to-date, you are probably fine.",2016-02-15 18:52:37+00:00,d00xa50,1.0,t3_45xrpm,2793,sysadmin
+159,Great minds think alike!,2016-02-15 18:40:23+00:00,d00wreq,3.0,t1_d00v4ez,2359,SCCM
+160,"The SQL ""like"" operator allows you to specify a range using syntax like [abc] or [a-f]. For example, this query will select all machines with names beginning with A-L:
+
+    select SMS_R_SYSTEM.ResourceID,SMS_R_SYSTEM.ResourceType,SMS_R_SYSTEM.Name,SMS_R_SYSTEM.SMSUniqueIdentifier,SMS_R_SYSTEM.ResourceDomainORWorkgroup,SMS_R_SYSTEM.Client from SMS_R_System where SMS_R_System.Name like ""[A-L]%"" 
+
+Learn more here: https://msdn.microsoft.com/en-CA/library/ms179859.aspx",2016-02-15 08:11:50+00:00,d00gsvs,1.0,t3_45ug1c,18979,SCCM
+161,"I haven't found an official source, but [this post on the TechNet forums](https://social.technet.microsoft.com/Forums/systemcenter/en-US/5df107ba-1956-4025-9ee7-cf8bb51f1837/scep-database-cleaningaction-column?forum=FCSNext) lists them as follows:
+
+CleaningAction | Cleaning Text
+---|---
+0 | Unknown
+1 | Detected
+2 | Cleaned
+3 | Quarantined
+4 | Removed
+5 | Allowed
+6 | Blocked
+9 | Quarantined
+101 | CleanFailed
+102 | QuarantineFailed
+103 | RemoveFailed
+104 | Allow Failed
+105 | Abandoned
+107 | BlockedFailed
+",2016-02-15 00:22:39+00:00,d003thr,1.0,t3_45awlj,273210,SCCM
+162,http://www.usedvictoria.com/classified-ad/4-Blade-helicopter_26804057 ?,2016-02-10 05:57:36+00:00,czuhbi7,1.0,t3_44y8hf,39777,VictoriaBC
+163,"Just to clarify, is it the data transfer over the VPN you want to allow/prohibit, or the actual execution of the deployment? If it's the former, /u/Hellman109 and /u/Michichael have the solution.
+
+If it's the execution of the update you want to control, you could add a global condition to the deployment, as suggested by /u/m0nocle. If, as your scenario suggests, you just need to prevent the execution of a deployment first thing in the morning, you could also accomplish that using Business Hours and/or a Maintenance Window. [This blog post](https://blogs.technet.microsoft.com/server-cloud/2012/03/28/business-hours-vs-maintenance-windows-with-system-center-2012-configuration-manager/) is a good primer on those features.",2016-02-09 03:05:10+00:00,czt0uti,1.0,t3_44srqm,24398,SCCM
+164,"That's an odd one. I'll volunteer to be the guy blaming it on the storage driver and ask if you've added the appropriate WinPE Boot Image Driver Pack from https://support.lenovo.com/ca/en/documents/sccm-index to your boot image.
+
+It is possible to change some BIOS settings using a script; see https://support.lenovo.com/ca/en/documents/ht100612. The P50/P70 isn't explicitly listed as a supported model but I would expect it should still work. You may be able to modify your task sequence to change the boot mode to UEFI and reboot before partitioning.",2016-02-05 17:58:30+00:00,czp1rw6,1.0,t3_44b3rm,11523,SCCM
+165,"As /u/Jack_BE says, by default the WIM is copied to a folder on the drive you installed ConfigMgr on. It is possible to configure offline servicing to use a different drive, but you have to manually modify a WMI property. The process is documented at this TechNet blog post:
+
+http://blogs.technet.com/b/configmgrteam/archive/2013/07/15/customizing-offline-servicing-of-operating-system-images.aspx",2016-02-01 17:13:30+00:00,czjvdek,1.0,t3_43n5rk,40539,SCCM
+166,"[35 crashes between 2009 and 2013](https://public.tableau.com/shared/7DTY2GG5J?:display_count=no). Compare that with: 
+
+* 60 crashes at Fernwood and Pandora
+* 73 crashes at Cook and Johnson
+
+Not really that bad, all things considered.
+
+And I'm pretty sure the speed limit on Johnson is 50 km/h, not 60.",2016-01-27 23:52:52+00:00,czei3g0,1.0,t3_42z9g4,14783,VictoriaBC
+167,"Instructions unclear, 172.17.237.68 just won a free lunch at Chotchkie's.",2016-01-26 18:52:44+00:00,czcu609,2.0,t1_czcp46p,6763,sysadmin
+168,"How are you turning it off? 
+
+As I understand it, each lamp has three properties which are exposed to the HomeKit interface: colour, brightness and power. If you are turning the lamp off in such a way that the brightness value is being set to 10% as well as the power being set to off, the next time you tell Siri to turn it on, it may be remembering that previous brightness setting. 
+
+I just tried turning a bulb off and on with Siri, as well as turning it off with the Hue app and back on with Siri, and it came back on at 100% each time. But, as expected, when I turned it down to 10% and then turned it off with the Hue app, it came back on at 10% when I asked Siri to turn it on. ",2016-01-23 20:17:50+00:00,cz9915o,1.0,t3_41xsxa,236771,Hue
+169,"If you get a CIBC credit card, you can track your spending through their online banking site and set up alerts to let you know when you've exceeded your budget for any given category. 
+
+https://www.cibc.com/ca/how-to-bank/personal-budgeting/personal-budgeting-tools.html",2016-01-22 15:52:38+00:00,cz7udhw,1.0,t3_425mpl,6767,PersonalFinanceCanada
+170,"Our internet is pretty solid here, but the one time it has gone down since I got the new bridge, I saw the same issue. ",2016-01-22 05:58:53+00:00,cz7hrod,1.0,t3_4216bv,42980,Hue
+171,"It sounds to me like what you're really looking for is a mandatory user profile: https://technet.microsoft.com/en-us/library/gg241180(v=ws.10).aspx
+
+There is also a Group Policy that deletes user profiles that are unused for a certain number of days which you may find useful: http://social.technet.microsoft.com/wiki/contents/articles/28647.how-to-automatically-delete-user-profiles-older-than-a-certain-number-of-days-using-group-policy.aspx",2016-01-17 21:58:03+00:00,cz1yj4n,1.0,t3_40morm,457887,SCCM
+172,"It sounds to me like the bulb is malfunctioning. If it's still under warranty, you should make a claim. ",2016-01-17 06:24:35+00:00,cz1ajck,1.0,t3_41bbsq,18566,Hue
+173,"Ah, my bad, it looks like it's an optional update. You can skip it.",2016-01-16 06:26:21+00:00,cz067ej,6.0,t1_cz05yat,685,SCCM
+174,"If you've installed all available updates, you probably have KB3112343 already. ",2016-01-15 20:57:23+00:00,cyznc91,4.0,t1_cyzm5o2,1631,SCCM
+175,"KB3102810 supersedes KB3050265, and has itself been superseded by KB3112343. Just install KB3112343 and you should be good.",2016-01-15 18:45:31+00:00,cyzhlp0,2.0,t1_cyyz8jc,40202,SCCM
+176,"You're making a big assumption about what they're using ConfigMgr for. It's not just for software deployment; it's also for inventory, operating system deployment, compliance, endpoint protection, deploying Microsoft updates, etc. If their organization is making use of those other features, how can you argue that ""every dime"" they are spending on ConfigMgr is wasted?
+
+You also seem to be discounting entirely what I think is the biggest value-add that Ninite provides, which is a quick and easy silent installer for many applications. Deploying apps the traditional way requires hours of research to figure out how to run the installations silently and detect the applications afterwards, and every time an update for an application is released you have to manually update your deployment.
+
+&gt;I'm guessing Ninite doesn't support a local network repository
+
+It does, in fact:
+
+https://ninite.com/help/features/cache.html
+
+And you can also create an offline installer, which you could deploy as a package or application if you wanted:
+
+https://ninite.com/help/features/offline.html
+
+We aren't a Ninite customer (we ended up going with another product for updating third-party applications), but we did consider it for use with ConfigMgr.",2016-01-12 20:59:50+00:00,cyvrski,3.0,t1_cyvlxnw,7756,sysadmin
+177,You might want to give the [WordFence](https://www.wordfence.com/) plugin a try. It will scan the site for files that have been changed from their original versions.,2016-01-11 19:19:42+00:00,cyucjyt,2.0,t1_cyu5jhf,10141,sysadmin
+178,"I was able to set up my CIBC MasterCard to have the full balance automatically paid from my chequing account each month. In order to do this, I had to contact CIBC customer support. Then they mailed me a form which I had to fill out and mail back to them. ",2016-01-11 03:07:39+00:00,cytmt0g,1.0,t3_40dsin,14218,PersonalFinanceCanada
+179,Why would you need the file in the cache on the client if the application is already installed?,2016-01-10 19:36:19+00:00,cyt5gyt,1.0,t3_40ccv4,5332,SCCM
+180,"In the Hue app, you can create an alarm that will turn on a Scene at a certain time, and you can set it to fade in to that scene. The maximum fade time appears to be 60 minutes, but you could create new scenes that are, say, one-third and two-thirds of the way between white and red, then set a 6pm alarm with the first, a 7pm alarm for the second, and an 8pm alarm with your red scene. ",2016-01-06 08:11:07+00:00,cynu8mk,1.0,t3_3zo5kc,13226,Hue
+181,"It sounds like one of the updates you installed requires a ""hard reboot"", meaning that nothing else can install until after the reboot occurs. ",2016-01-06 07:50:00+00:00,cyntv9o,1.0,t3_3zngk9,22014,SCCM
+182,"It also means that if the user loses their connection to the Exchange server that Outlook will completely freeze. If they're mobile, they won't be able to launch Outlook unless they are online. And if they're on a high-latency connection, it will be unbearably slow.
+
+If local storage is an issue, you can reduce the space used by adjusting the Sync Slider to specify how many days of mail to keep offline (the default is 12 months). 
+
+Yes, for some scenarios, turning Cached Exchange Mode off makes sense, but I think a blanket recommendation to turn it off for all users is unwise.",2015-12-30 22:23:34+00:00,cygmryk,6.0,t1_cygjzyn,4355,sysadmin
+183,"Ah, okay. I assumed by ""take your users out of cached mode"" you meant ""disable Cached Exchange Mode"". 
+
+The registry keys won't prevent users from accessing any existing PST files, it will just prevent them from adding additional items or creating new PST archives. Old habits die hard, so some gentle encouragement is likely to be helpful.",2015-12-30 21:07:59+00:00,cygjvov,4.0,t1_cygie7u,2240,sysadmin
+184,"&gt;Then take your users OUT of cached mode.
+
+Users can access a PST file whether or not Outlook is in cached mode. If you want to block PSTs, you have to use the [registry keys](https://support.microsoft.com/en-us/kb/3058474).",2015-12-30 20:16:21+00:00,cyghtlr,2.0,t1_cygbn1c,9149,sysadmin
+185,"[This article on TechNet](https://technet.microsoft.com/en-us/library/ms.o365.cc.ingestionhelp.aspx#bk_inthisdoc) will get you started. Note the section in the FAQ about the `DisablePST` and `DisablePSTGrow` registry keys, which, when enabled, will stop users from being able to add items to an existing PST file or creating a new PST file. 
+
+Note that if you have the [Group Policy Administrative Templates](https://www.microsoft.com/en-us/download/details.aspx?id=35554), you can set these registry keys with the GPOs under **User Configuration\Administrative Templates\Microsoft Office 2013\Miscellaneous\PST Settings**.",2015-12-30 20:05:34+00:00,cyghdup,1.0,t3_3ysjug,16184,sysadmin
+186,"The Victoria Police are saying that there were no shots fired, but rather that someone threw something through the rear windshield of a taxi. 
+
+http://www.timescolonist.com/news/local/reports-of-gunshots-near-armoury-unfounded-victoria-police-say-1.2140454",2015-12-26 21:08:44+00:00,cyc3b6p,1.0,t3_3y970s,58318,VictoriaBC
+187,Just add two preference items to your GPO: one to delete all shared preferences and a second one to add the new printers.,2015-12-22 20:28:06+00:00,cy85fa3,3.0,t1_cy83z54,2133,sysadmin
+188,"Is your network gear running the latest firmware? I recall there was an issue with Windows 8 clients not being able to connect with Cisco APs and the fix was to upgrade the firmware on the controller. 
+
+https://support.microsoft.com/en-us/kb/2749073",2015-12-17 15:49:54+00:00,cy2aqo0,1.0,t3_3x7n25,8544,Surface
+189,"Once, while trying to reduce the size of one of our .wim files, I made the mistake of running WinDirStat against the folder where I had mounted the .wim. The system became so unresponsive I had to reboot it. Lesson learned: don't try doing anything file-intensive against a mounted .wim image.",2015-12-16 20:32:39+00:00,cy1emsm,1.0,t3_3x2dkv,35039,SCCM
+190,"Here's the version for 8.1 and Server 2012 R2, for anyone who needs it:
+
+https://support.microsoft.com/en-us/kb/3112336",2015-12-14 06:53:09+00:00,cxyftaa,1.0,t3_3wpmx7,25856,SCCM
+191,"The Times Colonist is reporting the beach is closed because of a possible oil leak from a derelict boat.
+
+http://www.timescolonist.com/news/local/cadboro-bay-beach-closed-after-possible-oil-leak-1.2132290",2015-12-14 06:44:24+00:00,cxyfmd9,1.0,t3_3wpsvy,22761,VictoriaBC
+192,"In fact, you can use a third-party remote to control Apple TV whether or not the TV supports HDMI-CEC. Instructions for setting it up are [here](https://support.apple.com/en-ca/HT201856).",2015-12-14 02:50:49+00:00,cxy8dos,2.0,t1_cxxthpq,23355,apple
+193,"Actually, with TVs without HDMI-CEC, the Siri remote can't turn the TV on or off, it can only control the volume. ([Source](https://support.apple.com/en-ca/HT205225))",2015-12-14 02:48:35+00:00,cxy8ap9,3.0,t1_cxy2d10,9550,apple
+194,"I don't know about Dells, but our Lenovo workstations perform an ""Error Boot Sequence"" when they are powered on without a keyboard or mouse attached. By default, PXE is the first boot device in this mode. If you pre-provision your devices in SCCM and add them to a collection where the task sequence is deployed as a required deployment (and is enabled for PXE), all you need to do is connect power and Ethernet and turn it on, and everything else will happen automatically. 
+
+The key to the pre-provisioning step is to get a barcode scanner to scan the barcode with the MAC address or UUID on the box each machine came in. Dump these into a CSV file with the computer name and anything else you need to pass to the task sequence and import it into SCCM, and you are good to go. 
+
+EDIT: one thing I forgot to mention: if you are encrypting with BitLocker, you may have an issue where it prompts for the recovery key at boot because it detects that the boot order changed from the one that was in effect when BitLocker was enabled. Your deployment will have to account for this by having your task sequence reconfigure the boot order of the Error Boot Sequence to match the Normal Boot Sequence and perform a reboot before enabling BitLocker. ",2015-12-12 18:40:00+00:00,cxwnhby,3.0,t1_cxvxzos,66875,sysadmin
+195,"[Next time, have a backout plan.](https://www.reddit.com/r/sysadmin/comments/3t2mhf/found_in_a_change_request_to_powercycle_a_server/)",2015-12-11 21:43:50+00:00,cxvsz27,2.0,t1_cxvkv9u,11928,sysadmin
+196,"I believe that for any deployed update where the content is changed, that the updated content is indeed downloaded automatically. 
+
+Which updates are you referring to, though? I looked at https://support.microsoft.com/en-us/kb/894199 and for all the updates with changes, the changes were to the update metadata only.",2015-12-10 00:33:58+00:00,cxtik3t,1.0,t3_3w4umd,8237,SCCM
+197,"If you think you may need to pack them up to move, and you have the storage space, it could be worth hanging onto them. I kept mine for a year but eventually decided they were wasting space and got rid of them. 
+
+I disassembled the boxes to harvest the magnets from the front flaps and separate the paper from the plastic for recycling. ",2015-12-05 18:55:31+00:00,cxo9hgb,1.0,t3_3vjlws,14816,Hue
+198,"Another option is to use the Business Hours feature. 
+
+If you launch the Software Center and click on the Options tab, you can set the hours during which you usually work. Then, under ""Computer Maintenance"", if you check the box that says ""Automatically install or uninstall required software and restart the computer only outside of the specified business hours"", any available updates will install, even if the deadline has not yet been reached.
+
+Now, if you don't want to leave it to the user to configure these settings, you could enforce them with a Configuration Baseline. There's a blog post about doing this for the Business Hours here:
+
+https://powersheller.wordpress.com/2012/11/20/sccm-2012-setting-software-center-business-hours-with-a-compliance-configuration-item/
+
+And another one documenting how to enable the ""Automatically install and uninstall"" check box:
+
+http://ccmexec.com/2012/12/script-to-set-automatically-install-or-uninstall-on-configmgr2012-clients/",2015-12-04 21:22:39+00:00,cxndu5g,1.0,t3_3vfvi4,12595,SCCM
+199,"That's what the `%~dp0` does, it's a batch file variable that equals the current directory.
+
+Using the full path to the network share will work if the SYSTEM account on each client has read access to that share, but it's not recommended.",2015-12-04 21:03:31+00:00,cxnd2bu,5.0,t1_cxnctiq,363,SCCM
+200,"No, you would edit your existing Deployment Type. Here would be the basic step by step:
+
+1. Save the .bat file and the two .vbs files in the root of the content location for your Office deployment (i.e. in the same location as the setup.exe). Don't forget to customize the third line of the .bat file to include any parameters to setup.exe you need.
+1. Right-click your Deployment Type and click Update Content to distribute the new content
+1. Replace the ""Installation program"" field in the Deployment Type properties with ""Setup.bat"" (or whatever you named the .bat file)
+
+Now of course this will ensure old versions of Office are removed for any future installations, but it won't help for any existing broken deployments. You will either need to repair these manually or push out a remediation deployment of some kind.",2015-12-04 20:10:42+00:00,cxnawh2,3.0,t1_cxn78zr,5267,SCCM
+201,"See [my comment here](https://www.reddit.com/r/SCCM/comments/2unbp8/anyone_else_having_issues_with_office_2013/co9z5ky). TL;DR: when you perform an upgrade from 2010 to 2013, 2010 may not be completely removed, so when a user clicks on their old shortcut to Outlook 2010, it's getting re-installed. 
+
+To prevent the issue, use the [PSADT](http://psappdeploytoolkit.com/) to deploy your Office 2013 upgrade, or the ""quick 'n dirty"" script in my comment I linked above.",2015-12-04 17:14:38+00:00,cxn3iv0,1.0,t3_3vfm4i,1539,SCCM
+202,"In case you weren't aware, the Mac does have a built-in diagnostic program. Hold the D key when you hear the startup sound. 
+
+https://support.apple.com/kb/PH18801?locale=en_CA",2015-12-03 21:11:55+00:00,cxm3xfw,1.0,t3_3vagcp,20043,apple
+203,"An ADR doesn't max out at 1000 updates, a deployment does. It sounds like you had set up your ADR to add the updates to an existing Software Update Group. You should re-create your ADR which covers all OSes, but set it to create a new Software Update Group each time it runs.
+
+[This TechNet blog post is a must-read.](http://blogs.technet.com/b/server-cloud/archive/2012/02/20/managing-software-updates-in-configuration-manager-2012.aspx)",2015-12-02 19:24:07+00:00,cxkpijh,1.0,t3_3v5kh6,12696,SCCM
+204,"Just going by the pictures on the Amazon product pages, I would guess that item '210 is the version in Amazon's ""Frustration Free"" packaging, and item '194 comes in the retail packaging. I don't think there's any other difference.",2015-11-23 05:49:47+00:00,cx9vtok,1.0,t3_3twbei,7673,Hue
+205,"His original post just said ""USB drive"", he edited it to clarify he was talking about a flash drive.",2015-11-19 17:30:16+00:00,cx5w521,4.0,t1_cx5tl6x,3840,sysadmin
+206,"Quoting now from [here](http://www.hdd-parts.com/take-photos.html):
+
+&gt;Why do we have to transfer the PCB board BIOS from the old board to the new board?
+
+&gt;The PCB board BIOS includes hard drive’s UNIQUE configuration data.
+
+&gt;The hard drive needs this UNIQUE configuration data to work.
+
+&gt;So, we have to transfer this “UNIQUE configuration data” from the original (bad) board to the donor board, then the donor board can work on the old hard drive.
+
+&gt;That is why swapping the PCB board without ""PCB board firmware (BIOS) transfer"" would not work for the most hard drives.
+
+But hey, who knows. And of course the OP edited their post to clarify this is a USB flash drive he's trying to resurrect, so the point is moot.",2015-11-19 17:29:59+00:00,cx5w4ms,4.0,t1_cx5snor,5271,sysadmin
+207,"From what I've read, it's not that simple. In addition to swapping the PCB, you'd have to copy the calibration data from the old PCB to the new one. 
+
+http://superuser.com/questions/345139/likelihood-of-a-hard-drive-pcb-replacement-working",2015-11-19 15:57:31+00:00,cx5sh90,2.0,t1_cx5scg2,210,sysadmin
+208,"The .efi at the end of the filename denotes it is UEFI media. You cannot boot a BIOS computer with UEFI media. See this Microsoft KB article:
+
+https://support.microsoft.com/en-us/kb/2602043",2015-11-19 14:59:32+00:00,cx5qeuw,3.0,t1_cx5p650,2375,SCCM
+209,"I've found for non-MSI apps, the best detection method is to use the `DisplayVersion` registry key from `HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\&lt;App name&gt;`. This will work even if a program is installed in a non-standard location. 
+
+If it's a 32-bit app installed on a 64-bit system, you'll need to look in `HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\&lt;App name&gt;` for the correct registry key. Then, when creating the detection method, remove the `WOW6432Node`  from the location string and check the box saying ""This file or folder is associated with a 32-bit application on 64-bit systems"".",2015-11-18 05:16:51+00:00,cx484mb,1.0,t3_3t6m9b,40909,SCCM
+210,"The last time you were working on this, you were using DHCP Options to point your PXE clients to your SCCM server. You had set the following options:
+
+Option 66: the IP address of your SCCM server
+
+Option 67: the filename of the boot media, which was `smsboot\x64\bootmgfw.efi`
+
+Now that you are trying to image a BIOS PC, that boot media won't work, because that's the boot media for a UEFI PC. You need to change Option 67 to: `SMSBoot\x64\wdsnbp.com`
+
+As long as you're using DHCP Options, you will have to manually switch Option 67 each time you switch between imaging BIOS and UEFI PCs. In fact, you may never be able to successfully image a UEFI PC this way. The supported method of directing PXE boot requests to your SCCM server is to create an IP Helper on your switch.",2015-11-17 07:32:31+00:00,cx32tfe,1.0,t3_3t1w7z,45688,SCCM
+211,"What do you mean by ""checking in"" specifically? If you can tell us more about the nature of the issue you are seeing, we may be able to be of more assistance.
+
+This TechNet article may be helpful, specifically the section ""Scan for Software Updates Compliance Process"":
+
+https://technet.microsoft.com/en-us/library/gg682168.aspx#BKMK_SUMCompliance",2015-11-17 07:09:32+00:00,cx32duu,3.0,t1_cx2ufx6,15834,SCCM
+212,"Actually, you can configure Shavlik Patch to automatically download and publish updates to WSUS on a schedule as well.
+
+cc: /u/natureadmin ",2015-11-10 20:06:21+00:00,cwvofhb,3.0,t1_cwvnspz,927,SCCM
+213,If you have a membership at the Greater Victoria Public Library you can access [Mango Languages](https://gvpl.ca/digital-content/eresources-by-subject/language-learning). ,2015-11-08 21:06:48+00:00,cwt98wl,1.0,t3_3s0oft,16424,VictoriaBC
+214,"Oops. Fixed, thanks!",2015-11-05 17:03:10+00:00,cwpk0j3,2.0,t1_cwp5fdp,37885,SCCM
+215,"When you say ""8 hour restart window (30 minute hard count down)"", do you mean that in the ""Computer Restart"" section in your Client Settings, you've got ""Display a temporary notification to the user..."" set to 480 minutes? If so, it may be that the countdown is running over the maintenance window somehow. (In theory, if the update installation time + countdown time would exceed the maintenance window the update shouldn't run, but who knows.)
+
+Can you try it with a much shorter setting, like 60 minutes?
+
+You might also want to look at the client logs in c:\windows\ccm\logs, like RebootCoordinator.log for example, it may indicate what's happening.
+
+I can confirm that we are using the same technique here (allow software updates outside the MW but not reboots), and it is working fine for us.",2015-11-04 23:46:52+00:00,cwos5a8,1.0,t3_3rihpp,23928,SCCM
+216,Are you in one of the [supported countries](http://windows.microsoft.com/en-us/windows-10/cortanas-regions-and-languages)?,2015-11-01 20:47:57+00:00,cwks0yz,1.0,t3_3r3r6n,10163,Surface
+217,"Did you try swiping up from the bottom of the screen? You should be able to disable airplane mode that way, unless they disabled access to Control Center from the lock screen. ",2015-11-01 19:37:06+00:00,cwkp72u,3.0,t1_cwko32j,1655,VictoriaBC
+218,"If you don't want to create your own report or query, you can run the ""Hardware 09A - Search for Computers"" report under the ""Asset Intelligence"" report category, then do a search on the serial number with the ""Find text in report"" feature.",2015-10-27 22:21:18+00:00,cwf5m0i,1.0,t3_3qgaed,13938,SCCM
+219,This isn't a scenario where you should be creating multiple programs. See [my reply to another Redditor](https://www.reddit.com/r/SCCM/comments/3if4mi/uninstalling_application_via_sccm/cufzmth) for more on that.,2015-10-21 16:26:11+00:00,cw7qy3w,3.0,t1_cw7lggv,8374,SCCM
+220,"What's your script look like? Any relevant errors in the application log? 
+
+It may help to enable logging in your install script (e.g. `msiexec /i QuickTime.msi /qn /l*v C:\QuickTime.log`).",2015-10-21 04:45:23+00:00,cw7atky,1.0,t3_3pide1,44078,SCCM
+221,"Are you trying to capture state from within WinPE? If so, can you capture from within the installed OS instead?",2015-10-19 22:16:35+00:00,cw5o8ks,1.0,t3_3pe9zn,7726,SCCM
+222,"One thing to be aware of is that on the Surface Pro 3, when the screen is off, the tablet is in Sleep mode. (Technically it's in InstantGo mode, formerly known as Connected Standby, which you can learn about [here](https://blogs.windows.com/windowsexperience/2014/06/19/instantgo-a-better-way-to-sleep/).) You may want to re-configure the power settings to keep the tablet turned on while it's connected to power. In theory it should wake itself to run any scheduled tasks, but I haven't yet figured out whether that includes SCCM.",2015-10-14 23:50:46+00:00,cw01xui,1.0,t3_3orvqc,9250,SCCM
+223,"If you've used an Ethernet dongle to image a device, SCCM will associate the MAC address of the dongle with that device. If you try and image another device with the same dongle, SCCM will see the MAC address of the dongle is already in the database and PXE boot will fail. See this article for a couple possible fixes:
+
+http://blogs.technet.com/b/askpfeplat/archive/2014/07/28/how-to-use-the-same-external-ethernet-adapter-for-multiple-sccm-osd.aspx",2015-10-07 20:30:09+00:00,cvrp03g,3.0,t1_cvrb6cr,20213,SCCM
+224,"You are probably thinking of [this article from 9to5mac](http://9to5mac.com/2015/09/29/philips-hue-homekit-october-new-brighter-lights/):
+
+&gt;We are also told that Philips is working on ways to bring HomeKit support to existing Philips Hue bridges. This means current Hue customers would not have to buy any additional equipment to work with HomeKit, but this may not be ready as soon as October.",2015-10-05 15:03:15+00:00,cvoyeag,3.0,t1_cvowdmn,3670,Hue
+225,"How is your DHCP server set up to handle PXE boot requests? If you've used DHCP options, you won't be able to PXE boot devices with UEFI firmware like the Surface. See https://support.microsoft.com/en-us/kb/2602043. 
+
+I ended up creating offline media for imaging Surfaces. I connect the USB flash drive and a USB Ethernet adapter to the Surface through a USB hub. (You could also just create USB boot media, but the imaging process goes faster when it doesn't have to transfer the OS image over the network.)",2015-10-02 14:53:30+00:00,cvlpkae,1.0,t3_3n851a,4145,SCCM
+226,"Also had friends who lived there. I'll echo the comments about the thin walls. Nice rooftop patio though, with communal barbecues. You can see some photos of it here: https://www.buzzbuzzhome.com/the-hudson. It seems to me they had rules restricting how many guests you were allowed to have on the patio but I can't remember the details, so that would be something to ask about.
+",2015-10-02 03:47:43+00:00,cvlcm22,1.0,t3_3n6cpv,8440,VictoriaBC
+227,"You need to install the [System Center 2012 Configuration Manager Servicing Extension](https://www.microsoft.com/en-us/download/details.aspx?id=45033) to enable this. But yes, /u/sixinabox, this is another option to look into.",2015-10-02 00:02:26+00:00,cvl4txz,2.0,t1_cvl45l6,1228,SCCM
+228,"&gt;the client setting that controls when the computer checks for available software updates is the 'software updates scan schedule', correct?
+
+My understanding is that this schedule only updates SCCM's database of which updates are installed on which clients, for reporting purposes. 
+
+It has been my experience that if you deploy a software update group to a collection, the updates will install soon after the Machine Policy Retrieval and Evaluation Cycle has run (assuming the deadline has passed and any applicable maintenance windows are open). ",2015-09-23 06:58:36+00:00,cvb4g8b,1.0,t3_3lzx0e,28395,SCCM
+229,"It's a requirement of Multi Material BC, which is the non-profit that was set up after the responsibility for recycling residential packaging was shifted from governments to the companies that produce it. The reason for requiring it is to prevent broken glass from contaminating other recyclables. 
+
+http://recyclinginbc.ca/focus-on-materials-glass-containers/
+
+I haven't seen the trucks recently but if, like others are saying, they still dump everything in the same compartment, I'm sure that will be changing soon. ",2015-09-17 14:57:38+00:00,cv4q5v3,2.0,t1_cv2tuqj,148054,VictoriaBC
+230,My girlfriend bought me a cake from [Cakes Etc.](http://www.cakesetc.ca) for my birthday this year and it was delicious.,2015-09-15 04:24:33+00:00,cv20lc2,1.0,t3_3kzzvx,2409,VictoriaBC
+231,"I assume you've extracted the MSIs from the package and are deploying those. Have you tried deploying the package instead, e.g. `QuickTimeInstaller.exe /qn /norestart /msi DESKTOP_SHORTCUTS=0`? (More than likely you will still need to deploy AppleApplicationSupport.msi separately. Last time I checked, the .exe installer doesn't install the prerequisites when run with the /qn switch.)",2015-09-11 21:10:55+00:00,cuycsew,1.0,t3_3kfrmg,95553,SCCM
+232,That's the one.,2015-09-07 05:32:56+00:00,cut77vi,2.0,t1_cut75z3,143,VictoriaBC
+233,"I think you're thinking of [Cycle BC](https://victoria.cyclebc.ca). They do have bicycles and scooters, but not e-bikes as far as I know.",2015-09-07 02:23:21+00:00,cut2bvi,2.0,t1_cuso2w8,28751,VictoriaBC
+234,"Honestly? I wouldn't worry about it. SCCM distribution points use Single Instance Storage, so you aren't using any extra disk space by having the updates in more than one deployment package. (See [this TechNet blog post](http://blogs.technet.com/b/hhoy/archive/2012/05/31/an-adventure-in-the-sccmcontentlib-single-instance-store.aspx) for the gory details about that.) ",2015-09-03 18:01:08+00:00,cuphte7,3.0,t1_cupelon,4920,SCCM
+235,"Is it possible that, when populating the deployment package, you were using ""Date Released"", and now you are looking at ""Date Released or Revised"" i.e. these updates were released in 2012 and revised in 2013?",2015-09-03 13:43:55+00:00,cup83xq,1.0,t3_3jhema,2738,SCCM
+236,"[Philips announced in June](https://www.facebook.com/huePhilips/videos/684021741729713/) that they would be releasing their solution for integrating Hue with Apple's HomeKit system this month. Reading between the lines, it sounds like we may need a new bridge to enable HomeKit, so if that is a feature that is important to you, you may want to wait and see what they announce. Either way, it is all but guaranteed that existing lights will work with any new system that Philips may announce.
+
+Since your post didn't make it clear, you are aware that you can't just buy a single Hue bulb on its own, right? You have to get the starter pack with three bulbs and the bridge. You need the bridge to be able to connect to the bulbs. Then you can purchase individual bulbs to add to the system.",2015-09-03 03:48:03+00:00,cuoxuo7,1.0,t3_3je3oh,32413,Hue
+237,"&gt; I know of quite a few top US companies that use lenovo exclusively... So somewhere something doesn't add up completely.
+
+Both of the recent incidents (Superfish and Lenovo Service Engine) only affected Lenovo's consumer-grade machines (e.g. IdeaPad). Their corporate machines (e.g. ThinkPad) were not affected.",2015-09-03 02:25:04+00:00,cuov8kr,4.0,t1_cuoed4y,28811,Surface
+238,I used 2 Burley Men a couple years ago and they were great.,2015-09-02 21:09:06+00:00,cuoktob,1.0,t3_3jd5j4,22064,VictoriaBC
+239,"Hold the ""option"" key while clicking the green button, or double-click the title bar of the window.",2015-08-30 06:40:50+00:00,cukj60r,2.0,t1_cukdg16,13656,apple
+240,"&gt;Some local businesses are misplaced though...
+
+If you feel so inclined, you can fix these with the ""Report a problem"" button in the ""More information"" view for a POI. You'll even get a notification once your report has been accepted. ",2015-08-29 17:15:26+00:00,cujve7t,3.0,t1_cujtw6x,2860,apple
+241,"Hey, thanks! Glad I could be of assistance. ",2015-08-26 06:01:57+00:00,cufztlz,3.0,t1_cufzr41,205,SCCM
+242,"&gt;which I have deployed as a single application with multiple deployment types all tied together with dependencies
+
+This isn't how it's meant to work. You don't use multiple deployment types to install multiple components of one application. The only time you create multiple deployment types for an application is when you have more than one way of installing that application and you only want one to run on any given machine, e.g. when an application has separate 32-bit and 64-bit installers. See [my comment on another post](https://www.reddit.com/r/SCCM/comments/3hgnif/can_applications_install_using_multiple_steps/cu7cuq0) for more details.
+
+For something like iTunes, where you have multiple MSIs that need to be installed, you have two choices. First, you can create a deployment type that runs a script which installs all the required MSIs. The [PowerShell App Deployment Toolkit](https://psappdeploytoolkit.codeplex.com) is very helpful with this.
+
+The second way to do this would be to create separate Applications for each MSI, each with its own deployment type, and make one Application dependent on the others.
+
+I find the first method is the most reliable. I've attempted to deploy iTunes and QuickTime using the second method, and what ended up happening is that when an update for iTunes came out, it broke my QuickTime deployment because iTunes installed a newer version of Apple Application Support. SCCM saw that the version of AAS that I had made QuickTime dependent on was no longer installed on my clients and tried (and failed) to re-install it. I had to go in and update everything to recognize the new version of AAS. 
+
+On the other hand, if you just use a script and it tries to install an older version of one of the MSIs over a newer version, it just won't do anything. (In fact, it will fail with the error ""A newer version of this product is already installed"", but I think the PSADT treats this error code as a ""success"".)
+
+As for updating iTunes, I have never had any problem with just installing the new versions of all the MSIs over top of the old versions, so I wouldn't worry about uninstalling before updating. (This definitely isn't the case for all MSIs, but Apple's seem to be solid.) Go ahead and create an uninstall for iTunes.msi itself if you want users to be able to uninstall it through the Software Center, but I'd recommend against uninstalling any of the dependencies due to the potential of breaking something else which depends on them (like QuickTime).",2015-08-26 05:52:43+00:00,cufzmth,1.0,t3_3if4mi,10129,SCCM
+243,"The download from the evaluation centre is the correct download. 
+
+https://www.reddit.com/r/SCCM/comments/3hh8n5/r2_sp1_evaluation/",2015-08-26 05:19:17+00:00,cufyx3p,1.0,t3_3if8al,6330,SCCM
+244,Anything interesting in RebootCoordinator.log?,2015-08-21 16:27:22+00:00,cuat124,1.0,t3_3husdr,5746,SCCM
+245,"Here are some troubleshooting steps to try:
+
+http://www.microsoft.com/surface/en-us/support/warranty-service-and-recovery/surface-wont-turn-on
+
+Best of luck!",2015-08-21 00:55:34+00:00,cua5i2q,1.0,t3_3hse0r,1524,Surface
+246,"I had another look and realized it's actually not that simple. The discovery script evaluates how much free space is available and adjusts the cache size accordingly. The remediation condition (as specified at the blog post link) just evaluates whether the cache size has been set to one of the predefined levels. So in order to move the cache size adjustment code into the remediation script, you'd have to create a discovery script that would check whether the cache size needs to be adjusted. Something like:
+
+    #Initialize our CCM COM Objects
+    $CCM = New-Object -com UIResource.UIResourceMGR
+ 
+    #Use GetCacheInfo method to return Cache properties
+    $CCMCache = $CCM.GetCacheInfo()
+
+    #Check Free space on drive
+    $Drive = Get-WMIObject -query ""Select * from Win32_LogicalDisk where DeviceID = '$CCMCacheDrive'""
+ 
+    #Convert freespace to GB for easier check
+    $FreeSpace = $Drive.FreeSpace/1GB
+
+    If ($FreeSpace -lt 5 -and $CCMCache.TotalSize -gt 5120) {
+        Write-Host (""Make the cache smaller"") }
+    If ($FreeSpace -gt 10 -and $CCMCache.TotalSize -lt 40960) {
+        Write-Host (""Make the cache bigger') }
+
+Then you would set your compliance rule to run the remediation script if either of the above strings are returned from the discovery script.
+
+I just realized that the original script also doesn't correctly deal with the case when the free space is less than 5 GB. You need to add something like:
+
+    If ($Freespace -lt 5)
+    {
+    #Free space small
+    $CacheSize = 1024
+    }
+
+Edit: I also just realized that the script blindly changes the cache size without checking the current size of the cache. If you have 7 gigs of free space, but the current cache size was 40960, you may not need to reduce the cache to 5120, you can get away with just reducing it to 30720. Of course, that assumes the cache was full. You could easily wind up with a situation where the cache size yo-yos back and forth between smaller and larger values as it fills up, then gets shrunk, then gets expanded again as the disk space has been freed up.",2015-08-20 23:36:34+00:00,cua2vx6,3.0,t1_cu9rswy,17566,SCCM
+247,"Thanks for posting this! I imagine it will be useful for those folks who have to deploy large applications. A few comments:
+
+First, it looks like the formatting has gotten a bit mangled. You should go through and indent each line by four spaces to get Reddit to display it properly.
+
+Second, It's not necessary to set this as a remediation script if you're using it as the discovery script. Personally, the idea that the discovery script is making a change on the client makes me a bit itchy. I would make the discovery script the `Write-Host (Get-WMIObject -namespace root\ccm\softmgmtAgent -class CacheConfig).Size` on its own, and put the rest in the remediation script.
+
+[Don't forget to change your PowerShell execution policy](http://www.petervanderwoude.nl/post/deployment-of-configuration-baseline-failed-with-error-script-is-not-signed-in-configmgr-2012/) if you haven't already.",2015-08-20 18:10:25+00:00,cu9qgnq,1.0,t3_3hpv9d,15903,SCCM
+248,"Download the `SurfacePro3_yymmdd.msi` from [here](https://www.microsoft.com/en-ca/download/details.aspx?id=38826) and deploy it using your favourite software distribution method. Note that the MSI forces a reboot by default, but you can suppress it, e.g.
+
+    msiexec /i ""SurfacePro3_150623.msi"" /q REBOOT=ReallySuppress
+
+The firmware will be applied at the next reboot if the device has enough battery left. If it's low on battery, it will retry at each reboot ~~for up to one month, I think?~~ I'll have to dig out the document I found about this.
+
+Edit: From [this TechNet blog post](http://blogs.technet.com/b/surface/archive/2015/03/04/surface-pro-3-msi-now-available.aspx):
+&gt; The package does not check power state as a condition of launching and executing. However our UEFI firmware update does check the power state. If the UEFI is not updated it goes into the standard algorithm which tries on 2 subsequent reboots and if the power is above 25% it will apply the update.",2015-08-20 16:42:03+00:00,cu9mv9z,1.0,t3_3hpuyv,10750,sysadmin
+249,"If you haven't tried using the ""Report a Problem"" feature recently, you may be pleasantly surprised. They actually get read and acted upon now. You even get a notification when the update has been accepted. ",2015-08-18 23:33:18+00:00,cu7n9yg,4.0,t1_cu754a0,27524,apple
+250,"Pay particular attention to the FAQ for this one:
+
+&gt;**Are there any prerequisites for update 3087985?**
+&gt;
+&gt;Yes. Customers running Internet Explorer 7, Internet Explorer 8, Internet Explorer 9, Internet Explorer 10, or Internet Explorer 11 on Windows 7, Windows Server 2008 R2, Windows 8.1, Windows Server 2012 R2, or Windows RT 8.1 must first install the 3078071 update released on August 11, 2015 before installing the 3087985 update.
+&gt;
+&gt;**Note** For Download Center customers:
+&gt;
+&gt;If you download and install updates manually, you must first install update 3078071 before installing update 3087985. Failure to follow the install order can lead to degraded functionality.",2015-08-18 22:01:46+00:00,cu7k2jw,1.0,t3_3hgkx4,21671,sysadmin
+251,"You *can* use a task sequence for deploying applications, but I don't recommend it. 
+
+For your use case, where you are creating applications to be made Available in the Software Center, your users will get a scary-looking warning saying something like ""You are about to install a new operating system. All your data will be deleted"" when they click ""Install"" on the task sequence. And once it is installed, they won't have the option to uninstall through the Software Center.",2015-08-18 19:09:36+00:00,cu7d4lz,3.0,t1_cu7b2vq,2974,SCCM
+252,"The idea with Deployment Types is that you can specify more than one way to install an application. In the ""Requirements"" tab for each Deployment Type, you specify the conditions that must be true for that Deployment Type to be able to run. A typical use case would be if you have a 32-bit and a 64-bit installer, and you want the 32-bit installer to run on machines with a 32-bit OS and the 64-bit installer on 64-bit OSes. 
+
+The key thing to understand is that the Deployment Types are evaluated for applicability one by one according to their Priority, and once one is allowed to run, SCCM stops going through the list. So in the scenario you outline above, only Deployment Type 1 will run (assuming the requirements for it are met).
+
+For something like you're doing, where you're installing an MSI and copying a shortcut to a folder, a batch file is just fine. Make sure to pass through any error code the installer generates. Here's a setup.cmd I created to install Photoshop Elements 12, which requires running a utility to activate the software after it's installed. 
+
+    start ""Photoshop Elements 12 Setup"" /wait ""%~dp0setup.exe"" /UL1033 /V""SERIALNUMBER=xxxx-xxxx-xxxx-xxxx-xxxx-xxxx COUNTRY=39 NODESKTOPICON=1 REBOOT=ReallySuppress""
+    if %errorlevel% equ 3010 goto rebootrequired
+    if %errorlevel% neq 0 exit /b %errorlevel%
+    ""%~dp0adobe_prtk.exe"" --tool=VolumeSerialize --provfile=""%~dp0prov.xml""
+    exit /b %errorlevel% 
+    :rebootrequired
+    ""%~dp0adobe_prtk.exe"" --tool=VolumeSerialize --provfile=""%~dp0prov.xml""
+    exit /b 3010
+
+As for the differences between Applications and Packages, the first one is that Applications allow multiple Deployment Types, which I've already covered. Second is that Applications have a ""Detection Method"". By checking for the existence of a file, registry key, etc., the Application is able to determine whether or not it is installed.
+
+Edit: For anything more complicated than copying a shortcut, look into the [PowerShell App Deploy Toolkit](http://psappdeploytoolkit.com/).",2015-08-18 19:02:50+00:00,cu7cuq0,1.0,t3_3hgnif,9889,SCCM
+253,"That's true. This technique wouldn't work for us though, as we already have a maintenance window configured for our workstations, and we have all our software update deployments set to allow update installation to occur outside the maintenance window, but not restarts.",2015-08-14 16:47:33+00:00,cu2xt8u,3.0,t1_cu2u233,5746,SCCM
+254,"Hmm, good question. In our shop, we have a ""Workstations"" collection which is the limiting collection on all other collections with software deployments assigned, so I guess I would create a ""Disable updates"" collection and add it as an ""exclude"" membership rule on the Workstations collection. I would then manually add and remove the excluded workstations as required. ",2015-08-14 15:07:25+00:00,cu2tw7c,1.0,t3_3gzb7l,1883,SCCM
+255,"The way that Application Deployment in SCCM is meant to work is: rather than running the application installer over the network, the SCCM client copies all the installation files to a folder in the `C:\Windows\ccmcache` folder on the client, and then the installer is run from there. This is more reliable than running the installer over the network.
+
+I'm not familiar with Autodesk Inventor, but I did a quick google search and found this article on Autodesk's site about deploying their software with SCCM:
+
+http://knowledge.autodesk.com/search-result/caas/CloudHelp/cloudhelp/2015/ENU/Autodesk-NetworkAdmin/files/GUID-F9A14A04-FCA6-4ED8-B2E2-A495E3166B62-htm.html
+
+The ""To create an SCCM Software Installation Package"" section is referring to SCCM 2007, but the same principles would apply to SCCM 2012.",2015-08-13 19:58:45+00:00,cu1yoiq,3.0,t1_cu1m724,18448,SCCM
+256,"I use Shaw Go WiFi too, and I have no problem telling my phone to forget the ShawOpen network. Just tap the ""i"" in the blue circle next to the network name, then tap ""Forget this network"". You don't have to log back in when you re-join the network because it uses your MAC address to identify you.",2015-08-09 04:25:42+00:00,ctwl02q,4.0,t1_ctwht3l,6690,apple
+257,"He's talking about a ""paper wallet"", which is a way to create a Bitcoin wallet that is printed out on a physical piece of paper. He's saying that if you want a wallet that isn't stored on any kind of electronic media, the encrypted paper wallet is a far better option than a brainwallet. ",2015-08-08 20:20:28+00:00,ctw7jwi,6.0,t1_ctw6cp6,2411,netsec
+258,"&gt; When I just used msiexec /qn /norestart /i ""%~dp0install_flash_player_18_active_x.msi"" in SCCM, it hung at ""Installing"" on the client.
+
+This won't work. You can only use `%~dp0` from within a batch script. `%~dp0` just tells the command interpreter to replace that with the path the batch script is running from. You don't need it if you are running msiexec directly. (It can be handy if whatever you're installing requires the full path to a file, but again, you can only use it from within a .bat file.)
+
+&gt;:: Using cmd /c to prevent msiexec from returning immediately and the SCCM client potentially killing the msiexec mid-process, not sure if this is needed.
+
+I'm not sure this will do what you expect. I've always used `start """" /wait` when running a command in a batch file that returns immediately to prevent execution from continuing until the process exits. For example:
+
+    start """" /wait msiexec ALLUSERS=1 /qn /norestart /i ""%~dp0install_flash_player_18_active_x.msi"" /L*v ""C:\adobe.log""
+
+&gt;The only issue now is detection failing with that product code: {B3DADA45-F0ED-48FD-946E-7E82C2229D59}
+
+This should work (assuming that MSI code is correct), but I use a registry key detection, like so:
+
+* Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Flash Player ActiveX
+* Value: DisplayVersion
+* Check the box saying ""This registry key is associated with a 32-bit application""
+* Data Type: Version
+* This registry setting must satisfy the following rule to indicate the presence of this application: Greater than or equal to 18.0.0.209 (or whatever version you're deploying)
+
+Why do it this way? If something else upgrades the version of Flash Player that's installed (e.g. the automatic updater, or the installation of some other piece of software), SCCM will still detect that the application is installed. If, however, you use the MSI code, as soon as the app is upgraded by something else, SCCM will think the app isn't installed anymore and repeatedly try (and fail) to reinstall it.",2015-08-08 06:21:40+00:00,ctvp4jk,1.0,t3_3g5dww,47496,SCCM
+259,"According to [this TechNet blog post](http://blogs.technet.com/b/charlesa_us/archive/2015/06/25/how-to-remove-block-and-prevent-quot-get-windows-10-quot-application-for-corporate-environments.aspx), you can disable the Windows 10 update downloader by creating a DWORD registry item called `DisableGWX` with a value of `1` in `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\GWX`.
+
+",2015-08-06 21:10:19+00:00,ctu1uh8,1.0,t3_3g19u3,9253,sysadmin
+260,"There is this tool:
+
+http://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/copernicus-question-your-assumptions-about
+
+I know very little about it, other than the fact it exists. ",2015-08-06 20:23:33+00:00,cttzwbv,1.0,t3_3fzzbz,26723,AskNetsec
+261,"The SCCM client transfers content using BITS, so in theory it should only be transferring data using idle bandwidth. If you are finding that content transfer is slowing things down, you need to do one of the following:
+
+* Enable uPnP byte counters on your Internet Gateway Device
+* Create a GPO to set the MaxInternetBandwidth policy
+
+More details here: https://msdn.microsoft.com/en-us/library/aa363133(VS.85).aspx
+
+As far as ensuring the content only has to be transferred once to each remote site, you have a couple options. One is enabling BranchCache as /u/houstonau suggested. 
+
+Your other option is to deploy a Distribution Point in each branch office. Note that the Distribution Point role can be installed on a client OS, so you don't need to have a server on site (just make sure that workstation is kept turned on, obviously). You can enable scheduling and bandwidth limits for these DPs to avoid saturating their network links. If that isn't enough, you can use the content prestaging feature, which would allow you to export the content to physical media, ship it to the remote office, and import it on the DP. Check this link for more info on that: https://technet.microsoft.com/en-us/library/gg712694.aspx#BKMK_PrestageContent
+
+Supported operating systems for the DP role: https://technet.microsoft.com/en-us/library/gg682077.aspx#BKMK_SupConfigSiteRoleReqs (expand ""Operating System Requirements for Typical Site System Roles"")",2015-08-03 20:16:05+00:00,ctqa994,1.0,t3_3fl6hj,53350,SCCM
+262,"If the concern is specifically about the Wi-Fi password sharing feature in Windows 10, you can disable this feature for your network by adding `_optout` to the SSID. See the ""How do I opt my Wi‑Fi network out of Wi‑Fi Sense?"" link here:
+ 
+http://windows.microsoft.com/en-us/windows-10/wi-fi-sense-faq",2015-08-01 04:22:54+00:00,ctnmv2m,1.0,t3_3fbib4,36109,AskNetsec
+263,"That's right. Note that this is a limitation of Microsoft's ActiveSync protocol, it's not an iPhone-specific thing. ",2015-07-31 04:09:59+00:00,ctmffjc,3.0,t1_ctmb9wi,7506,ITdept
+264,"This is by design. You can't open a shared calendar on the iPhone the same way you can open it in Outlook. Depending on permissions, the users may be able to publish a .ics feed using [Internet Calendar Publishing](https://kb.intermedia.net/article/2530), which will allow the users to view each other's calendars, but not edit them. ",2015-07-31 01:31:02+00:00,ctma2g6,1.0,t3_3f7lge,14839,ITdept
+265,"&gt;So far I've gone into the software update groups, unchecked any that show as superseded or expired, but do I have to do anything with the deployment package?
+
+Nope! Quoting from [this Technet blog post](http://blogs.technet.com/b/configmgrteam/archive/2012/04/12/software-update-content-cleanup-in-system-center-2012-configuration-manager.aspx): ""At a high level, updates that have been expired and that aren’t part of an active deployment will be deleted 7 days after they are expired.""
+
+Microsoft recommends that you don't frequently modify the membership of deployed update groups as it causes a lot of policy processing overhead on the clients and SQL processing on the server. It's better to leave the monthly deployments as they are until the end of the year. Then, create your yearly group, add all the updates, deploy it, and delete the monthly groups.
+
+[This Technet blog post](http://blogs.technet.com/b/server-cloud/archive/2012/02/20/managing-software-updates-in-configuration-manager-2012.aspx) is a must-read on this topic.",2015-07-16 17:44:38+00:00,ct5l2tb,1.0,t3_3desbv,83625,SCCM
+266,Have you tried [Office 2016 for Mac](https://blogs.office.com/2015/07/09/office-2016-for-mac-is-here/) yet? It would be a shame to go through all that work to virtualize it if it turns out your issues are resolved in the new version. ,2015-07-15 14:59:23+00:00,ct46tpx,1.0,t3_3ddmfr,6193,ITdept
+267,Thanks!,2015-07-14 22:36:10+00:00,ct3hj9w,3.0,t1_ct3gp4d,1332,SCCM
+268,"How does it fail? What's the error in your smsts.log?
+
+I expect you should be able to work around the issue by adding a step at the end of your task sequence that hides the drive. See steps 10 and 11 of http://desktopguidance.blogspot.ca/2012/06/deploy-microsft-dart-through-sccm-osd.html for example.",2015-07-14 15:27:21+00:00,ct2zpat,1.0,t3_3d9917,3759,sysadmin
+269,"Yes, as others have said, this is expected behaviour. If you agree there should be a way to publish a superseding application as ""available"" without it installing automatically, please vote on my UserVoice feature request:
+
+https://configurationmanager.uservoice.com/forums/300492-ideas/suggestions/8770270-allow-deployment-of-a-superseding-application-as",2015-07-13 14:16:13+00:00,ct1pjvi,1.0,t3_3d2r9w,45402,SCCM
+270,"Lots of applications will still install if the user doesn't have local admin, including Join.me and WebEx. Instead of installing in Program Files (which non-admins cannot modify), the program is installed in the user's own AppData folder. 
+
+Off the top of my head, other apps that can be installed by users without local admin include: Chrome, Firefox, Google Earth (on the download page, the user needs to click Advanced Setup, then uncheck ""Make Google Earth available to all users' profiles""), and Spotify. If they get prompted to enter admin credentials, they just need to click ""No"", and the installation will continue.
+
+Of course, this all assumes you haven't implemented anything like AppLocker which blocks users from running executable files outside designated locations. If you have implemented AppLocker, you would need to whitelist the apps you want users to be able to run.",2015-07-08 19:53:03+00:00,cswkcif,1.0,t3_3ck5w4,16021,sysadmin
+271,"Are you asking specifically about site assignment? Overlapping boundaries for site assignment is not supported. Quoting from https://technet.microsoft.com/en-US/library/gg712679.aspx:
+
+&gt;When you have overlapping boundaries and use automatic site assignment, the site to which a client is assigned might be unpredictable.
+
+Also, from https://technet.microsoft.com/en-US/library/gg682060.aspx:
+
+&gt;After the client is assigned to a site, it remains assigned to that site, even if the client changes its IP address and roams to another site. Only an administrator can later manually assign the client to another site or remove the client assignment.
+
+However, you can use overlapping boundaries for content:
+
+&gt;System Center 2012 Configuration Manager supports overlapping boundary configurations for content location.
+
+&gt;When a client requests content, and the client network location belongs to multiple boundary groups, Configuration Manager sends the client a list of all distribution points that have the content.
+
+&gt;When a client requests a server to send or receive its state migration information, and the client network location belongs to multiple boundary groups, Configuration Manager sends the client a list of all state migration points that are associated with a boundary group that includes the current network location of the client.
+
+&gt;This behavior enables the client to select the nearest server from which to transfer the content or state migration information.
+",2015-07-08 18:42:16+00:00,cswhc4r,1.0,t3_3ckg2u,7364,SCCM
+272,"La Fiesta Cafe on Douglas and Broughton has a $5.49 burrito special.
+
+Another good option might be the deli in the Market on Yates.",2015-07-07 21:14:56+00:00,csvg1ah,1.0,t3_3cgn9y,6104,VictoriaBC
+273,"Check out this TechNet blog post: [Deploy Windows to Surface Pro 3 using Microsoft Deployment Toolkit](http://blogs.technet.com/b/askcore/archive/2014/07/15/deploy-windows-to-surface-pro-3-using-microsoft-deployment-toolkit.aspx)
+
+Basically, do whatever you're doing with your Windows 7 image, just do it again with Windows 8.1, and add the drivers and applications the Surface needs.
+
+Note that roaming profiles will cause problems if users are roaming between Windows 7 and 8.1 machines. See [this KB article](https://support.microsoft.com/en-us/kb/2890783) for details.
+
+**Edit:** One thing I forgot to mention: PXE booting the Surface can be a pain in the butt. Remember that if you do a ""Shut Down"" from Windows 8.1, it actually *hibernates* instead of shutting down, so when you try to PXE boot (by holding down the Volume Down button while you press and release the Power button), it won't work. Instead, hold down the Shift key while selecting ""Restart"" from the Power menu. You should see the blue ""Advanced Startup Options"" screen. Choose the ""Use a device"" option, then select ""PXE"".
+
+Oh, also: if you're using DHCP Scope options to direct your PXE requests, your UEFI devices won't boot. Here's the KB article about that one: https://support.microsoft.com/en-us/kb/2602043",2015-07-06 19:42:17+00:00,csu586n,1.0,t3_3cc22m,1711,sysadmin
+274,"Yes, it is possible to pre-provision BitLocker on Windows 7. Click on the link in my post.",2015-07-03 18:55:05+00:00,csr8t7w,5.0,t1_csqzakl,18775,SCCM
+275,"&gt;And about another 1-2 hours for Bitlocker
+
+Are you not [pre-provisioning BitLocker](https://technet.microsoft.com/en-ca/library/dn456883.aspx)? It shouldn't take any time at all if you're doing it right. ",2015-07-03 03:09:35+00:00,csqmf9q,3.0,t1_csp453d,109657,SCCM
+276,"Most components, yes. However, Li-ion batteries are sensitive to heat. Apple recommends protecting your device from temperatures above 35°C. [Source](https://www.apple.com/batteries/maximizing-performance/)",2015-06-27 17:16:13+00:00,cskmj8e,4.0,t1_csk7ol5,46772,apple
+277,The way we worked around the duplicate MAC address issue was to image from offline media (i.e. a flash drive) instead of PXE booting. We still used the USB to Ethernet adapter to allow the machine to join the domain. This may be another option for you to consider. ,2015-06-26 16:35:04+00:00,csjjy2x,1.0,t3_3b4oao,63146,SCCM
+278,"What do you mean by ""questionable""? I fail to see how VicPD's social media presence has been anything but positive. It's not like they are just blasting out press releases -- they actually engage with us, and it's clear that the people managing the accounts don't have to run their responses by a committee or anything. 
+
+What would you change? Do you think VicPD shouldn't have posted about their stolen bike? If they didn't, wouldn't people argue that they were trying to hide the theft from the public?",2015-06-25 22:40:09+00:00,csis4xh,4.0,t1_csioiiz,5951,VictoriaBC
+279,"When possible, I use a command line parameter to prevent the installer from creating the desktop shortcut. When that's not possible, I will use a script to run the installer and remove the desktop shortcut. Just make sure your script passes through the return code from the installer.",2015-06-25 20:05:39+00:00,csimbdl,1.0,t3_3b3p0i,5400,SCCM
+280,Here's another recent success story: http://www.reddit.com/r/VictoriaBC/comments/356yzu/stolen_last_night_norco_indie_2_in_fernwood/,2015-06-25 18:41:49+00:00,csiixfn,1.0,t3_3b3d5r,5306,VictoriaBC
+281,"There is a known issue with the Windows Update Agent which causes it to use a lot of memory when performing an SCCM Software Update compliance scan. Perhaps this is causing your issue?
+
+[Here is a blog post on TechNet](http://blogs.technet.com/b/configurationmgr/archive/2015/04/15/support-tip-configmgr-2012-update-scan-fails-and-causes-incorrect-compliance-status.aspx) describing the issue. A hotfix has been released and the instructions for deploying it are [here](http://blogs.technet.com/b/sus/archive/2015/06/09/a-few-notes-on-the-recent-fix-for-the-configuration-manager-update-scan-failure-issue.aspx).",2015-06-23 20:55:04+00:00,csgbujk,1.0,t3_3apjo7,112856,SCCM
+282,"What is your task sequence doing? Is it just applying the OS image or is it also installing applications and updates? Perhaps it's one of these steps that is taking a long time?
+
+An hour to deploy and install a 25 GB image doesn't sound too unreasonable to me.",2015-06-22 23:23:29+00:00,csfbfam,1.0,t3_3aqjoy,18181,SCCM
+283,"This blog post explains how business hours and maintenance windows affect deployments:
+
+http://blogs.technet.com/b/server-cloud/archive/2012/03/28/business-hours-vs-maintenance-windows-with-system-center-2012-configuration-manager.aspx
+
+Be aware that if your reboot notification countdown interval is longer than your maintenance window, the reboot will never occur: 
+
+http://blogs.technet.com/b/configurationmgr/archive/2013/06/11/configmgr-2012-support-tip-clients-never-reboot-even-when-required-in-a-deployment.aspx",2015-06-21 07:27:19+00:00,csdmsru,1.0,t3_3ajpul,35563,SCCM

@@ -1,0 +1,102 @@
+,created,domain,full_link,locked,selftext,subreddit,title,url
+0,2016-08-31 19:03:27+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/50ivy2/readynas_202_vs_a_4_bay_option_using_raid_5/,False,"If I have 1TB in RAID 1 configuration in a 2 bay enclosure (ReadyNAS 202 for instance) when I want to upgrade the drives to 2TB each...can I pop out drive A, pop in the 2TB drive let the data replicate (still only giving 1TB of usable space) then pop out drive B, put in the 2TB.....at which point I'd have my usable 2TB? 
+
+More simply put...can I run RAID 1 with two different sized drives with the only draw back being the usable space will be the smallest of the two drives? 
+
+If I'm NOT able to do this....is my only option to have another enclosure in which I can put drive A or B into....upgrade ReadyNAS with new drives...then copy things back? That seems like really crappy upgrade path.
+
+Thanks for the help.
+
+**EDIT** I meant RAID 1, not RAID 5....sorry.",techsupport,ReadyNAS 202 vs a 4 bay option using RAID 5,https://www.reddit.com/r/techsupport/comments/50ivy2/readynas_202_vs_a_4_bay_option_using_raid_5/
+1,2016-08-26 01:56:55+00:00,self.370z,https://www.reddit.com/r/370z/comments/4zm7mz/nonnav_bose_stereo_upgrade_keeping_the_oem_hu/,False,"I would like to keep the OEM HU...mostly because of aesthetics and not messing with the Bluetooth calling. I'm looking at Magic Box, Stage 1 because I just like the idea of a kit rather than picking an choosing (not sure why Crutchfield isn't all over this idea) but I've read I need to get an LOC because of the Bose. I emailed the folks at Wicked CAS and was told I don't need an LOC...but they recommend replacing the HU to make the system sound better. Is this true? I don't know this stuff well enough to argue either way....so seeking some advice. Thoughts?",370z,"Non-Nav, Bose stereo upgrade, keeping the OEM HU. Thoughts?",https://www.reddit.com/r/370z/comments/4zm7mz/nonnav_bose_stereo_upgrade_keeping_the_oem_hu/
+2,2016-08-15 22:04:41+00:00,self.370z,https://www.reddit.com/r/370z/comments/4xw3y4/the370zcom_not_adding_members/,False,I registered almost a week ago. I just bought a 370z and have been reading the boards. Does anyone know an admin there so I can get approved?,370z,the370z.com not adding members?,https://www.reddit.com/r/370z/comments/4xw3y4/the370zcom_not_adding_members/
+3,2016-08-08 02:44:01+00:00,self.370z,https://www.reddit.com/r/370z/comments/4wo30v/looking_for_2_recommendations_in_the_chicagolane/,False,"I'm looking for an independent mechanic to perform a pre purchase inspection.
+  
+I'm looking for a great car audio place. Upgrade speaker system, tap into the OEM backup camera (not the navy camera the review mirror camera) etc.   
+  
+Any suggestions for either? ",370z,Looking for 2 recommendations in the Chicagolane (preferable Western burbs),https://www.reddit.com/r/370z/comments/4wo30v/looking_for_2_recommendations_in_the_chicagolane/
+4,2016-07-25 01:58:55+00:00,self.askcarsales,https://www.reddit.com/r/askcarsales/comments/4ug93p/2013_nissan_370zfrom_a_nonbrand_dealer_family/,False,"Is buying such a new car from a car dealer that isn't brand name backed a good idea? Does it mean this car likely couldn't / wouldn't be a CPO from a Nissan dealer? Or does it just mean this dealer got the car and since they aren't a Nissan logo, can't CPO it. Should I be more concerned that if I was buying from a Nissan branded dealer?
+
+**edit** I know a non Nissan dealer can't CPO the car, what I mean to ask is....do I run the risk of there being something wrong with the car. I am planning on getting a PPI for sure.",askcarsales,2013 Nissan 370z...from a non-brand dealer. Family owned place. Seems to have 4.5 stars on 34 reviews. Are those place ok? Why couldn't it be 'CPO' by Nissan?,https://www.reddit.com/r/askcarsales/comments/4ug93p/2013_nissan_370zfrom_a_nonbrand_dealer_family/
+5,2016-05-01 02:14:00+00:00,self.BMW,https://www.reddit.com/r/BMW/comments/4h7c3i/what_is_a_fair_offerprice_on_the_following_1998_m3/,False,"The car is two owners, most service records, Inspection II completed, manual trans, and new tires. 94,000 miles. Exterior front bumper has some small chips but overall very good condition as is the interior. KBB indicates like $7,000....what would be a fair offer?",BMW,What is a fair offer/price on the following 1998 M3?,https://www.reddit.com/r/BMW/comments/4h7c3i/what_is_a_fair_offerprice_on_the_following_1998_m3/
+6,2016-04-24 13:51:53+00:00,self.Porsche,https://www.reddit.com/r/Porsche/comments/4g87mb/996_cab_shopping_are_fixed_spoilers_ever_stock/,False,"Just a quick and probably silly question. Did 2002 996 Cabs ever come from the factory with a fixed spoiler? I'm under the impression stock was the sloping back and the spoiler that raises at 75mph. Of course it may be broken, stuck up or down.",Porsche,"996 Cab shopping, are fixed spoilers ever stock?",https://www.reddit.com/r/Porsche/comments/4g87mb/996_cab_shopping_are_fixed_spoilers_ever_stock/
+7,2016-04-02 14:39:40+00:00,self.projectcar,https://www.reddit.com/r/projectcar/comments/4d1q60/ev_miata_conversion/,False,Has anyone here done an EV Miata conversion? The only google searches I've found link to really old message boards. Thoughts?,projectcar,EV Miata conversion?,https://www.reddit.com/r/projectcar/comments/4d1q60/ev_miata_conversion/
+8,2016-03-29 14:31:52+00:00,self.Porsche,https://www.reddit.com/r/Porsche/comments/4cfo23/getting_a_ppi_pre_purchase_inspection_is_it_ok_to/,False,I want to do a PPI as a precaution but curious if I can call up a well reviewed Porsche dealer from across town to do it...or should I find someone totally independent that does Porsche work? I certainly don't want the service department at the dealer I'm buying from to do the PPI.,Porsche,Getting a PPI (pre purchase inspection) is it ok to use a Porsche dealer from a different franchise if purchasing from another Porsche dealer?,https://www.reddit.com/r/Porsche/comments/4cfo23/getting_a_ppi_pre_purchase_inspection_is_it_ok_to/
+9,2016-03-29 03:18:48+00:00,self.cars,https://www.reddit.com/r/cars/comments/4cdpap/porsche_cayman_s_2008_w_60000_or_a_2006_w_25000/,False,"Both have essentially the same options. The 50k one (heated seats) is closer to me than the one with 25k (no heated seats) miles (plane ride away). There don't seem to be meaningful changes between 2006 and 2008, right? So which one? How to choose?
+
+**edit** 50k miles, not 60k
+**edit 2** Asking price is the same.",cars,"Porsche Cayman S: 2008 w/ 60,000 or a 2006 w/ 25,000 miles?",https://www.reddit.com/r/cars/comments/4cdpap/porsche_cayman_s_2008_w_60000_or_a_2006_w_25000/
+10,2016-03-28 20:15:30+00:00,self.cars,https://www.reddit.com/r/cars/comments/4cbxv4/looking_for_tracks_to_take_a_car_on_in_the/,False,"tl:dr I want a fun place to take my car or rent a car to drive fast and learn more in a safe environment.
+
+All - I'm wondering if you might be able to help me find a track or two that I can take my car on or rent a car (not NASCAR) and take it about.
+
+OR
+
+I wouldn't mind a place where I could get some emergency / defensive driving / be a better manual driver instruction type of a place either.",cars,Looking for tracks to take a car on in the Chicagoland area?,https://www.reddit.com/r/cars/comments/4cbxv4/looking_for_tracks_to_take_a_car_on_in_the/
+11,2016-03-19 15:40:13+00:00,imgur.com,https://www.reddit.com/r/DIY/comments/4b3iyc/can_i_put_in_some_2x6s_and_plywood_for_some_safe/,False,,DIY,Can I put in some 2x6s and plywood for some safe storage in the garage?,http://imgur.com/ITF0jOR
+12,2016-03-19 15:21:23+00:00,imgur.com,https://www.reddit.com/r/DIY/comments/4b3gef/am_i_looking_at_asbestos_tiles_how_can_i_tell/,False,,DIY,Am I looking at asbestos tiles? How can I tell?,http://imgur.com/fhy1AZW
+13,2016-02-13 03:02:14+00:00,self.consulting,https://www.reddit.com/r/consulting/comments/45ie81/anyone_else_picked_off_by_the_new_luggage_size/,False,"In 4 months I've been told to check my bag twice. It is 1/2 an inch too tall. first time was before security. Today was an FAA guy at the gate, telling the gate agent to 'size my bag' which resulted in it being checked. (not valet) Anyone else get hit by this? I like my bag and don't want to buy a new one if I can avoid it.",consulting,Anyone else picked off by the new luggage size rules (~8/15) starting to be enforced?,https://www.reddit.com/r/consulting/comments/45ie81/anyone_else_picked_off_by_the_new_luggage_size/
+14,2016-01-30 23:41:32+00:00,self.projectcar,https://www.reddit.com/r/projectcar/comments/43gl3e/i_have_a_brand_new_freshly_poured_slab_two_car/,False,"I recently bought a house and they built a brand new garage. One door, two car garage, there are two windows, and a normal side door. The studs are still exposed as are the rafters. I'll be insulating...likely with batt but open to suggestions.
+What about the concrete floor?
+Storage options?
+Other?
+
+I'm not terribly skilled at working on cars so I don't need a $15,000 floor elevator jack but a friend suggested stainless steal work table. ",projectcar,"I have a brand new, freshly poured slab, two car garage detached garage with exposed studs. What design features should I build?",https://www.reddit.com/r/projectcar/comments/43gl3e/i_have_a_brand_new_freshly_poured_slab_two_car/
+15,2015-12-22 22:25:09+00:00,self.forza,https://www.reddit.com/r/forza/comments/3xw1hl/good_used_wheel_pedals_for_150_forza_5_6_and_fh2/,False,"Hey all, I'm looking to stay in a budget of $150 and would like a solid wheel/pedal experience. I'm hunting on eBay and Craigslist. What is a good used combo that will keep me around $150? I also have to get a seat so I'm thinking Playseat Challenge. Other suggestions?
+
+**Edit** Is there a compatibility list somewhere? I am looking for what would be compatible with XB1. This would be a great sidebar addition.",forza,"Good used wheel &amp; pedals for $150? Forza 5, 6 and FH2 are my games.",https://www.reddit.com/r/forza/comments/3xw1hl/good_used_wheel_pedals_for_150_forza_5_6_and_fh2/
+16,2015-08-14 21:10:33+00:00,self.Mortgages,https://www.reddit.com/r/Mortgages/comments/3h0w0g/wife_and_i_have_740_credit_high_income_and_20/,,"I'm assuming these numbers position us well for a 30 year fixed...is there anything I can do, or places to look to use our numbers to benefits us? ",Mortgages,"Wife and I have 740+ credit, high income and 20% down. Anything I can do to take advantage of being well positioned?",http://www.reddit.com/r/Mortgages/comments/3h0w0g/wife_and_i_have_740_credit_high_income_and_20/
+17,2015-08-07 15:52:15+00:00,self.consulting,https://www.reddit.com/r/consulting/comments/3g53g9/what_are_the_general_terms_of_your_noncompete/,,"Curious to see what types of non-compete terms everyone is under. Length of time? No clients. No competing firms? etc....
+
+",consulting,What are the general terms of your non-compete?,http://www.reddit.com/r/consulting/comments/3g53g9/what_are_the_general_terms_of_your_noncompete/
+18,2015-08-04 13:30:52+00:00,self.Windows10,https://www.reddit.com/r/Windows10/comments/3fqtl0/quick_sanity_check_regarding_backup_of_files_im/,,,Windows10,"(Quick sanity check regarding backup of files) I'm using One Drive and everything I need is stored in One Drive. I do not need to run a backup, right? Just get a recovery image?",http://www.reddit.com/r/Windows10/comments/3fqtl0/quick_sanity_check_regarding_backup_of_files_im/
+19,2015-08-04 00:52:47+00:00,self.Windows10,https://www.reddit.com/r/Windows10/comments/3fouho/surface_pro_3_best_way_to_clean_install_windows_10/,,"I've been reading about clean installing windows 10 but looking for the best / most straightforward way.
+  
+Does anyone have some solid resources?
+  
+I'm running a Surface Pro 3 and Lenovo Yoga 2. Would the process be the same for both?",Windows10,Surface Pro 3 - Best way to clean install Windows 10?,http://www.reddit.com/r/Windows10/comments/3fouho/surface_pro_3_best_way_to_clean_install_windows_10/
+20,2015-08-02 15:21:36+00:00,self.consulting,https://www.reddit.com/r/consulting/comments/3fijii/question_about_west_monroe_partners_or_other/,,"There seems to be be only ~2 mentions of West Monroe Partners here. Does anyone have insight into the company? I've read the reviews on Vault, Glassdoor, etc...I'm looking for first hand knowledge or perhaps 2nd hand.
+
+Specifically, the career path is standard up to Senior Manager. After Sr Mgr it goes to Director, Sr Director and Managing Director. No Partner titles. Thoughts on this?  Reputation of the business, employees etc?",consulting,"Question about West Monroe Partners, or other places with slightly non-standard career tracks...",http://www.reddit.com/r/consulting/comments/3fijii/question_about_west_monroe_partners_or_other/
+21,2015-07-31 14:32:29+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3falmh/can_a_computer_really_use_a_usb_drive_for_extra/,,"Would something like this actually work? What are the Pros/cons?
+
+http://lifehacker.com/5573801/turn-a-usb-flash-drive-into-extra-virtual-ram
+
+**Edit** As Virtual RAM.",techsupport,Can a computer really use a USB drive for extra RAM?,http://www.reddit.com/r/techsupport/comments/3falmh/can_a_computer_really_use_a_usb_drive_for_extra/
+22,2015-07-31 13:05:53+00:00,self.xboxone,https://www.reddit.com/r/xboxone/comments/3faav7/any_good_flight_simulater_games/,,"Are there any good flight simulator games for the Xbox One? Maybe some dog fighting, or acrobatics...anything?",xboxone,Any good flight simulater games?,http://www.reddit.com/r/xboxone/comments/3faav7/any_good_flight_simulater_games/
+23,2015-07-27 19:49:37+00:00,self.techsupport,https://www.reddit.com/r/techsupport/comments/3et64k/questions_about_a_vm_environment_and_the/,,"I am curious to understand in a simple laptop host running something like Virtualbox, isn't LAN traffic traceable back to the host? The NIC hardware is the same so the MAC address is the same, right? 
+  
+The VM data is stored on the host in a section of hard drive so any type of forensics performed on the hard drive would also uncover anything done with the VM, right?
+  
+If I needed to trace a VM back to the host it should be fairly straight forward, right?",techsupport,Questions about a VM environment and the host/guest relationship to the LAN.,http://www.reddit.com/r/techsupport/comments/3et64k/questions_about_a_vm_environment_and_the/
+24,2015-07-27 18:15:07+00:00,self.BusinessTravel,https://www.reddit.com/r/BusinessTravel/comments/3esrzx/anyone_have_first_hand_experience_or_done/,,"Here is the Regal Card link: https://www.theregalcard.com/
+
+I know the Amex is a credit card and has other benefits...but I'm curious about the ease of and available airport lounges, etc...",BusinessTravel,Anyone have first hand experience or done research comparing the Amex Platinum card vs the Regal Card?,http://www.reddit.com/r/BusinessTravel/comments/3esrzx/anyone_have_first_hand_experience_or_done/
+25,2015-07-11 01:10:39+00:00,self.Surface,https://www.reddit.com/r/Surface/comments/3cv62o/surface_pro_3_and_windows_10/,,"I am curious if the 'Charms' bar will go away with an installation of Windows 10 Preview or Production (once it is available).
+  
+The 'Share' charm is great, when it works, but I've gotten use to the feature...anyone know if there will be a Surface specific package with those options or is it going away entirely because it is an OS feature not a Surface feature?",Surface,Surface Pro 3 and Windows 10,http://www.reddit.com/r/Surface/comments/3cv62o/surface_pro_3_and_windows_10/
+26,2015-06-28 23:23:34+00:00,self.xboxone,https://www.reddit.com/r/xboxone/comments/3bg93f/you_think_forza_2_horizons_will_go_on_sale_again/,,,xboxone,You think Forza 2 Horizons will go on sale again? I missed the $30 week.,http://www.reddit.com/r/xboxone/comments/3bg93f/you_think_forza_2_horizons_will_go_on_sale_again/
+27,2015-06-28 11:56:16+00:00,self.AskReddit,https://www.reddit.com/r/AskReddit/comments/3be8dn/wasnt_everyone_suppose_to_be_leaving_reddit/,,,AskReddit,Wasn't everyone suppose to be leaving reddit because of censorship? What happened with that?,http://www.reddit.com/r/AskReddit/comments/3be8dn/wasnt_everyone_suppose_to_be_leaving_reddit/
+28,2015-06-27 01:11:23+00:00,self.xboxone,https://www.reddit.com/r/xboxone/comments/3b9cdd/download_codes_for_resale/,,"I recently bought a Forza 5 download code of eBay. Risky I know, but the seller had tons of sales with 100% feedback so I took the chance on a great deal. He had 50 to sell.
+  
+How does someone get them? Like if I wanted to make a little extra cash on the side?",xboxone,Download codes for resale?,http://www.reddit.com/r/xboxone/comments/3b9cdd/download_codes_for_resale/
+29,2015-06-21 22:06:29+00:00,self.xboxone,https://www.reddit.com/r/xboxone/comments/3an9xl/gamestop_deal/,,"GameStop told me they are offering $150 in store credit for Xbox 360 250GB or greater towards Xbox one 1TB purchase, plus one free game. Deal starts tomorrow seems pretty good. What do you all think?",xboxone,GameStop deal?,http://www.reddit.com/r/xboxone/comments/3an9xl/gamestop_deal/
+30,2015-06-20 14:42:52+00:00,self.GoRVing,https://www.reddit.com/r/GoRVing/comments/3aihtq/quick_sanity_check_for_noob/,,"Towing capacity on my Nissan Murano (2007) is listed at a mere 3,500 lbs. I'm a bit surprised it is so low, but what can you do...I'm not upgrading the vehicle just yet.
+
+1) I am inclined to get an ultra-light tow behind trailer because of the 3,500 lbs limit but also budget. My wife and 2 small children can share a small space for quick weekend get aways. Here are my assumptions, feel free to mention something I'm not considering.
+
+2) I think 'pop ups' wouldn't be great for us because I'm not inclined to have to to lots of 'setup' once we arrive. Also, I don't *think popups have AC.
+
+3) Ultra-lights are probably the best way to go?
+
+4) Used is likely the direction we'd go...BUT I'm not sure how old we could go given the weight limit. My thought here is that newer (within the last 5-8 years) models will have better technology? 
+
+5) We want something that has some electricity / power for the basics, running water, cooking, etc.
+
+6) Is solar power ever an option on smaller rigs?
+
+7) Budget is under $20,000",GoRVing,Quick sanity check for noob...,http://www.reddit.com/r/GoRVing/comments/3aihtq/quick_sanity_check_for_noob/
+31,2015-06-19 13:19:03+00:00,self.Albuquerque,https://www.reddit.com/r/Albuquerque/comments/3aeepi/worried_about_crime_rate_in_abq/,,"Might be relocating there for work but as I've been reading about the city (seems great) I'm worried about the crime rate. According to city-data.com it is well above the nation's average. Is the crime isolated to a few neighborhoods? Is it because of UNM?
+
+What neighborhoods are safe for a family with good schools?
+(I'm doing lots of research.)",Albuquerque,Worried about crime rate in ABQ.,http://www.reddit.com/r/Albuquerque/comments/3aeepi/worried_about_crime_rate_in_abq/

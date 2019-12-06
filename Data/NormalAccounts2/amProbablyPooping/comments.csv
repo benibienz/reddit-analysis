@@ -1,0 +1,103 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"Yes, the undeleteShadow bot picks them up.  It's a simple value returned in a thread's JSON request (locked: false/true).
+
+I had to update the code a bit when they switched to mandatory OAuth2.0 and almost finished.  I'm not sure I'm going to, though, because I'm finding I really dislike my time on Reddit. Perhaps after the election season is over I'll consider it, but until then, I'm really just reading wikileak dumps, netsec, and some other programming related subs.",2016-10-13 13:33:55+00:00,d8q7hko,1.0,t3_576y8w,54244.0,undelete
+1,"Ok, so it looks like I didn't get the memo about Reddit requiring OAuth 2.0 and removing the old method the undelete shadow bot used to authenticate.
+
+Luckily, the JReddit API Wrapper was updated and I'll replace the authentication methods this weekend.
+
+Once again, sorry for the downtime, but this came at a particularly busy time where I work.",2016-09-16 13:11:40+00:00,d7p5zc7,1.0,t3_52u2pp,125851.0,undeleteShadow
+2,"A couple of things should be taken into account.
+
+There's a lot of benefit to having applicable programming experience over a degree.  I've seen a lot of people graduate, but didn't have any idea how to practically apply what they'd learned.  Having someone teach you programming and being paid for it is an opportunity not a lot of people get.
+
+That being said, it also depends on the quality of the apprenticeship.  A self taught programmer usually tends to not adhere to proper methodology all the time and has a good chance of passing those habits to a tutee.
+
+Lastly, it also depends on how old you are and what opportunities are available.  If you're fresh out of school, you have some educational grants that are only available for so long (LIFE scholarship, for one).  If you have the option, I would try out the apprenticeship for at least a year, because having prior experience in programming will help make your assignments a lot easier.  The biggest hurdles when learning programming are overcoming logical problems and solving them efficiently.  Just try to analyze how good the apprenticeship is, because I would feel terrible if you missed an opportunity for a good education on an apprenticeship that didn't pan out.",2016-08-10 13:49:32+00:00,d6bs533,1.0,t3_4x251k,830.0,learnprogramming
+3,"Just noticed the linking was active today.  Here's a pastebin of a tampermonkey script to change all outbound links to the normal href url.
+[
+Script](http://pastebin.com/4Edy8giC)",2016-07-07 14:38:50+00:00,d52u7jq,,t1_d3nkdyf,,undelete
+4,"Well, instead of giving a decisive answer on this, I'll give you my reasoning behind my suspicion.
+
+I first noticed these posts when Reddit made their change because they were showing up in undeleteShadow, but weren't actually deleted.  This is because undelete checks the top 1000 posts if something disappears off the front page, whereas my bot only checked the top 110 or so.  I wrote the algorithm based on how normal posts behave when getting ranked.
+
+While researching these false deletes, I noticed that they were moving outside the top 100 positions at speeds that cannot be accounted for by user votes.  I modified my algorithm to check up into the 250 post range, and everything is running smoothly.  
+
+Except for the_donald posts. They're showing up in undeleteShadow, still, because they can move from the top 100 to 350 in less to a minute. I'm hesitant to say they are specifically targeting the_donald, because there might be some specifics behind the algorithm about how fast and how many posts are coming up from a specific subreddit.",2016-06-29 16:47:17+00:00,d4sr92r,6.0,t1_d4sm842,5900.0,undelete
+5,"Hey, mod and bot coder for undeleteShadow, here.
+
+It's actually a little more interesting than that.  I noticed them tweaking the algorithm throughout the day during the change.
+
+Here's how the new algorithm works.  They haven't changed how things move from the start.  The only change they've made is when something enters the top 100 positions, it checks to see how many submissions in the top 100 are from that subreddit.  If it's too many, it selects one (still not sure what the criteria on this selection is), then bumps it down, hard.  Usually from Rank 80 to 120.  Sometimes they'll be bumped down to 250.
+
+I feel like it's a little unfair to those who's post gets bumped, but this is also creating a pretty stale /r/all.  Yes, it's more diverse, but because Reddit trends a lot, it had previously been normal for a popular subreddit to show up in the top 100 a lot.  
+
+This is why we are seeing a lot less news.  Worldnews and news would have numerous articles on the front page, but now they are limited to a number of slots that are chosen by the algorithm.
+
+I would like to note, however, that the_donald does get special treatment.  It's the only subreddit that gets a bump from rank positions 25-40 down to 350.  It doesn't tip off the people in the subreddit, because it looks entirely normal on their subreddit's front page.
+
+The only reason I noticed all of this is because my bot works a little differently than Frontpagebot.  I had to spend a couple of hours reworking my bot.
+
+",2016-06-29 14:00:02+00:00,d4sjb7w,4.0,t1_d4s9kn5,26576.0,undelete
+6,"That's because the algorithm doesn't stop anything getting to the top.  As soon as it hits the ""front"" (top 100), if there's too many posts from a particular subreddit, it takes an existing post from that subreddit and bumps it down to the 200-375 /r/all rank.",2016-06-25 14:13:44+00:00,d4niazq,2.0,t1_d4nbrtd,21045.0,AdviceAnimals
+7,"If I recall correctly, it stores a cookie on your computer to opt out.  If you delete your cookies, you may have to go disable it again.  It would be a good idea to check behind me on that, I think I'm only referencing a Redditor's comment.",2016-06-17 14:38:56+00:00,d4d25nz,2.0,t1_d4d1niy,727.0,undelete
+8,Computers crashed.,2016-06-17 05:24:59+00:00,d4coz25,5.0,t1_d4corw1,426.0,undelete
+9,"Ah, so it'll still find it in the top 1000.
+
+As for the bot problems, I don't use PRAW, so that might be the significant difference that didn't cause me an issue.  I didn't look too much into it. ",2016-06-17 05:16:05+00:00,d4coq3f,3.0,t1_d4coe76,706.0,undelete
+10,"I don't think r/undelete will be affected.  The undelete bot checks against the subreddit that a post was deleted from to make sure it was deleted.  When the new algorithm pushes something out of /r/all (because that's what is doing), the undelete bot notices but checks the subreddit it came from (which is unaffected by this).
+
+I only notice this because what I was mistaking for false deletes in undeleteShadow were posts that would move unnaturally in rank.  It's not normal to drop from the 1-100 rank to the 250-375th in a few minutes. I see the most frequent shift being in a post ranking in the 80's immediately hit 125 after 2 minutes.
+
+I changed the code to check well into the 200's, so a lot of the posts have been filtered out.  There are some that still come in because they're bumped to the 300's drastically, which seems unfair to the poster. ",2016-06-17 04:58:04+00:00,d4co7px,1.0,t3_4ohh7b,2988.0,undelete
+11,"I run a bot that this behavior is affecting, a bit.  I've seen posts move from rank #23 to #357 in the course of 2-3 minutes, which I believe exceeds what would be possible by a coordinated downvote brigade.  Was this anticipated behavior of the algorithm?",2016-06-16 18:05:55+00:00,d4bwdi4,1.0,t3_4oedco,3953.0,announcements
+12,Negative.,2016-06-15 18:06:42+00:00,d4ahb5r,11.0,t1_d4afs4d,1873.0,undelete
+13,"You know, things are just a bit odd lately.  This post is invisible to this user, but shows up on /r/undelete when I log out.  I don't have any blocked or filtered users / subreddits.",2016-06-15 14:48:47+00:00,d4a7sp6,9.0,t1_d49fywi,57413.0,undelete
+14,"Something wonky is going on, I can say that at least.  I've noticed a couple of posts that were only visible if I were logged out of this account, for me.   There was also 3 false positives in as many days for /r/undeleteShadow and I haven't seen one in months.  This only occurred for /r/all.
+
+I'm keeping an eye on it. It's probably something to do with the change that affected the /r/undelete bot.",2016-06-15 14:17:35+00:00,d4a6gk0,5.0,t1_d4a6c1e,183.0,undelete
+15,"Someone beat me to it.  Looks like Reddit admins noticed it wasn't going to be received with open arms by the community.
+
+Check out [this thread](https://www.reddit.com/r/privacy/comments/4aqdg0/reddit_started_tracking_the_links_we_click_heres/) for some Tampermonkey options.  It also mentions they rolled the feature back until Reddit provides their own privacy option concerning this.",2016-06-15 00:31:31+00:00,d49ju2w,,t1_d3nkdyf,,undelete
+16,"Seems to be an error with duplicate submissions to a subreddit, after Reddit took out an exception catch on this.  Throws a more generic error that isn't anticipated by the bots.",2016-06-14 22:21:42+00:00,d49eq0e,7.0,t1_d49edtb,479.0,undelete
+17,"Still occurring, by chance? If so, have you tried posting with a different account?
+
+edit - IAAAC found the cause. Link in top comment.",2016-06-14 22:07:53+00:00,d49e4yl,5.0,t1_d49b8vn,3881.0,undelete
+18,Do you think you're getting rate limited by Reddit?  Are you familiar with the error that's occurring?,2016-06-14 21:00:35+00:00,d49b41q,3.0,t1_d496itx,4898.0,undelete
+19,"I'm curious to see how they work that out.  Essentially the_donald is just a very active sub that upvotes their new section religiously.
+
+It might be difficult to balance without affecting how other subreddits get to /r/all, as well.  They might just do a cop out by adding a weight to a specific subreddit to reduce the chance of it gaining traction and it would be difficult to prove they are doing it.
+
+It does seem like Reddit is handling this like a hot potato.
+
+edit - grade school grammatical mistakes",2016-06-14 20:58:10+00:00,d49axkz,3.0,t1_d496v1c,4338.0,undelete
+20,"Last I spoke with /u/cojoco, he prefers to wait until IamAnAnonymousCoward is alerted to the situation before having other bots post to this subreddit.  I think cojoco runs the nudelete bot.
+
+IAAAC mentioned Reddit changed something on the back end that was affecting the bot, so perhaps Reddit is still making changes (I know they are reworking the /all algorithm because of The_Donald). I didn't ask him what the change was, because whatever the change was, it didn't affect the shadow bot.
+
+No worries, though.  If IAAAC is alerted to the issue and it will take a while to fix, there will be bots that can fill in during the meantime.
+
+ edit - Oh, I'm also open to suggestions on things to add to post titles in /r/undeleteShadow to be more informative.",2016-06-14 18:09:23+00:00,d4923sw,1.0,t3_4o1x78,9762.0,undelete
+21,"[Test Re-write link](http://www.newegg.com/Product/Product.aspx?Item=N82E16811108478&amp;cm_re=computer_glasses-_-11-108-478-_-Product)
+
+Testing.",2016-06-14 13:58:20+00:00,d48q8xp,,t1_d3o4gzn,,undelete
+22,"Complete rewrite, eh?  The change they make that severe, or just feeling like you can make improvements from the original design?",2016-06-12 18:43:59+00:00,d46a78h,8.0,t1_d4681xk,2956.0,undelete
+23,"Nah, the source is on the undeleteShadow sidebar.  It's written in Java.  It's kind of gnarly to look at on github because it turns out some of my tabs are four spaces, which makes it look pretty ugly.  I need to go through and do a little clean up to be more friendly to anyone who wishes to modify it.
+
+I haven't had to make any adjustments, recently.  Just had to reboot the computers and everything is running fine.",2016-06-12 17:50:32+00:00,d467vdl,6.0,t1_d467bbe,781.0,undelete
+24,"Not so sure about the rate limiting.  Your bot went down within the same hour as mine did, which was running on two separate computers.
+
+I went through a bit of effort to keep my requests below the limit threshhold.  So unless longtail is a lot more taxing than I imagine, your bot shouldn't be meeting those limits, especially if it's running the same as it's always been.
+
+Just my two cents on that.",2016-06-12 17:29:38+00:00,d466z0v,4.0,t1_d466ftj,742.0,undelete
+25,Suppose my life would be a little more exciting if that were true. I'll be checking logs on my personal computer to see what happened exactly.,2016-06-12 13:36:37+00:00,d45ydby,3.0,t1_d45ntjq,33165.0,undelete
+26,"I left the r/undeleteShadow bot running on two separate computers and they crashed within 30 minutes of each other, in two separate cities. it was odd. There has been some spotty coverage because I'm running it on a computer that isn't suited to the task while I'm on vacation. I'll be fixing the issue tomorrow, but there will be a brief gap in coverage when I drive in to fix the issue.
+
+edit - The shadow bot is now resuming a normal schedule.",2016-06-12 01:45:37+00:00,d45j6kw,1.0,t3_4nmhr9,27363.0,undelete
+27,"Also check out this [comment](https://www.reddit.com/r/changelog/comments/4ldk0r/reddit_change_affiliate_links_on_reddit/d3mvsqu) by Verroq  two extensions, one for Chrome and one for Firefox, that prevent Google from doing similar behavior in their search results.",2016-05-29 19:08:58+00:00,d3oayw0,2.0,t1_d3nkdyf,63423.0,undelete
+28,"Sure thing, buddy. I can have a Tampermonkey script for you by Friday.",2016-05-29 16:02:44+00:00,d3o4gzn,2.0,t1_d3nkdyf,52249.0,undelete
+29,"When opening your image, I was expecting to find the sparkles in question already added to the photo of the card.
+
+Instead I find a screen shot of an outdated version of photoshop with a sparkle image opened.  It was a keen idea to refresh my memory on what a sparkle looks like, but it wasn't quite what I was looking for.
+
+[FTFY](http://i.imgur.com/fwppr3H.jpg) - The magic of an up to date photoshop.",2016-04-29 00:15:52+00:00,d2lf4fp,4.0,t1_d2l5no8,13957.0,quityourbullshit

@@ -1,0 +1,1430 @@
+,body,created,id,nest_level,parent_id,reply_delay,subreddit
+0,"I get the McGyver reference, I must be old :)  I was searching for a custom ROM for my Acer B1-810; reading your adventure makes me realise I need a lot more education first.",2016-11-08 09:57:18+00:00,d9qvp7b,1.0,t3_58z4s8,1361267,ReverseEngineering
+1,"A million upvotes! Raps are just spoken rhymes and the quality can range from garbage to sublime, and most of the gangsterz stuffs are just at the horrible end.  About the only pop/rap fusion I can stand is Blondie's ""Rapture"", and I think she actually pioneered the concept.",2016-10-17 00:10:49+00:00,d8v13on,1.0,t3_57q2g4,68467,DoesAnybodyElse
+2,"Javier's style has changed a lot over the years between his early days with Geraldine (more flamboyant and showy) and the present period.  This is not surprising, as the embrace is a part of the whole scaffolding that derives from how tall each partner is (relative to each other), how much lean forward vs how much bracing on the back, and how the shape of each body fit together.  Geraldine also did a lot of embellishment, many of which require leaning on the man, and a square embrace allows the man to support the woman.
+
+Generally Javier's embrace is very flat but remember he has a very slim and tall body shape, no dance student should think he can copy Javier's embrace if you don't shape like him.  With rounder bodies, you may have to use V-shape embrace to maintain connection.  That is the principle of making the embrace work for you, and not you work for the embrace.",2016-10-04 06:30:13+00:00,d8d8j5n,1.0,t3_55r9vr,16102,tango
+3,The strongest song gets boots on the ground immediately.  Do the reverse if you like to hear complaints after the tanda.,2016-09-19 05:51:21+00:00,d7stodz,3.0,t1_d7spuhx,7873,tango
+4,"Interesting coding project!  Is it going open source?  I think the concept of the project has one big false assumption, and that is that the music playlist chosen by DJs contains the optimal choice of songs by similarity.  Let's examine that:
+
+* Most DJs are trained to put songs in a tanda that are from the same orquestra and same recording period.  Thus every tanda is already similar, by definition.
+
+* Most DJs are also trained to contrast the mood from tanda to tanda, following the ""increase tension, release tension"" paradigm.  So adjacent tandas will necessarily show difference and not similarity.
+
+* Finally, in the rare case that DJs cluster a group of tracks from different orchestra and era, that could be a valid indication of track similarity (from a DJ's subjective perception).  Sometimes I do that on Vals or Milonga tandas.
+
+DJ's work deals with both similarity and contrasts.  The best DJs sequence his work like a director manages his scenes: he has a story to tell through the music.  
+
+What this app shows me is a social graph that links song tracks by their popular clustering in tandas, a task that is not very difficult if they come from the same orchestra and recording year.  
+
+It misses out the position of the track (first second third or last in the tanda), which is actually a very important clue for DJs -- I always put the strongest in the beginning position.",2016-09-18 23:08:38+00:00,d7sezqa,1.0,t3_53b5ub,58805,tango
+5,"That is exactly why there is a need to break the status quo inertia.   Customers need to exercise their market power to force manufacturers to adopt to customer expectations.  In this stage of the mobile evolution, a top end phone is feature complete and good for more than three years so failure to upgrade system software is no longer acceptable.",2016-09-18 18:32:13+00:00,d7s2buj,10.0,t1_d7s1w80,533,Android
+6,That is why we need to define a baseline connectivity and hardware feature set; this is already a well understood and solved problem in the PC world,2016-09-18 10:35:23+00:00,d7rmgwu,2.0,t1_d7rm223,1603,Android
+7,"Many years ago I was on the team that set up the first commercial ISP in my city, and we basically studied all the steps in this list.  That was when Internet was essentially for universities, and nobody charges for peering.  It is important that today's people understand how the Internet works and not as a black box.",2016-09-18 06:13:08+00:00,d7rhw3u,3.0,t1_d7rhk73,868,explainlikeimfive
+8,"If you wish to make your own Internet you need to find a nearby network (which is already connected to the Internet) and negotiate a data gateway arrangement with it.
+
+This arrangement is usually with recurring payment, as the gateway network passes its operating and upstream costs to you as a customer.  
+
+You also need to obtain a block of IP addresses from an organisation known as NIC (a part of IANA), which allocates permanent IP assignments.  In the past most universities and large MNC are able to request big chunks.
+
+You need to have 1 or more high speed trunk channels to connect you and the peering network, normally this is at least megabit or gigabit fibre.  One trend is for everyone to move their network gateways into the same telecom data centres so the distance is shorter between each cabinet.
+
+The gateway protocols that make two networks into parts of the Internet is standardized. Most organisations use Cisco or some optimised routing hardware as there are millions of IP packets that need to route each second.
+
+So in conclusion it is possible for any organization, with enough money and technical skill, and the patience and justification to apply for various network allocation processes, to become an extension of the Internet.  ",2016-09-18 05:51:58+00:00,d7rhemm,1.0,t3_539y59,19476,explainlikeimfive
+9,"Replying to keep track of this.  I am a DJ and one of the problem we had to solve is to create a team process where one DJ can hand off to another remotely.  Am I right to say that this project could potentially be used to do something similar?
+",2016-09-17 10:17:25+00:00,d7qect9,3.0,t1_d7q7rg7,20898,InternetIsBeautiful
+10,"**UPDATE** -- The site is now not shutting down.  The owner Jorge has decided to re-upload the broken music sharing links (thousands of them) over the next few months.  
+
+To recap, the main reason why the decision was made to close was due to MEGA shutting down his account, making most of his uploaded files inaccessible online.  The main reason was bandwidth violation.
+
+So he felt it is time to close his site, after 8-1/2 years of sharing online the discography, biodata and full music mp3 of his collection.  Many of his music were digitized from vinyl, and also most cannot be purchased outside Argentina.
+
+He mentions in his most recent post that he has received feedback from Internet radio stations and dancers to request him keep the archive alive.  ""These people represent our culture to the rest of the world..."" he explains, and he feels he has a duty to support them.
+
+Thank you Jorge!",2016-09-16 00:28:55+00:00,d7olbv3,1.0,t3_50scf5,1178522,tango
+11,Why didn't Apple put two lightning ports on the phone?  That takes negligible amount of real estate and would have really pushed forward phone tech,2016-09-09 03:25:42+00:00,d7f6tiz,1.0,t3_51tn19,22634,technology
+12,"[Google Translate](http://translate.google.com/translate?u=http%3A%2F%2Fwww.diarioveloz.com%2Fnotas%2F165582-quien-era-maria-cecilia-tati-caviglia-la-mujer-que-fue-hallada-calcinada-una-valija&amp;tl=en)
+
+Who was Maria Cecilia ""Tati"" Caviglia, the woman who was found burned in a suitcase?
+
+09/08/2016 18:11 pm
+
+She had disappeared on August 25 and the next day his body appeared calcined in a suitcase on Route 2. Just today the could identify.
+
+Maria Cecilia ""Tati"" Caviglia , 50, is the woman who appeared burned in a suitcase on Route 2 on August 26. They had reported her disappearance the day before.
+
+Tati Caviglia was the owner of the hostel ""La Casa de Tati"" located at 1636 Independence Avenue, in San Cristobal.
+
+It was an amateur teacher of tango. In fact, the hostel also functioned as ballroom tango and is a favorite for the Buenos Aires milonga habitues of places.
+
+In the hostel he lived with Ezequiel Victor Blanco, a maintenance man with whom he had an affair. Today is the prime suspect for two issues: nothing is known of his whereabouts and place found bloodstains and signs of a struggle.
+
+[More coverage](http://www.telam.com.ar/notas/201609/162194-calcinada-identidad-ruta-2-valija-policia.html)
+
+[Tati dancing videoclip](https://www.youtube.com/watch?v=MkeTEM3fmyI)",2016-09-09 02:13:38+00:00,d7f3v6o,1.0,t3_51v1st,122,tango
+13,Several tango notation systems have been proposed in the past decades.  Look up Rasch notation and Igor Polk for instance.,2016-09-06 00:12:23+00:00,d7avlzt,1.0,t3_50lcx6,418615,tango
+14,"Good observation Karen as usual.  I would even say that Tango's freedom to express as an anti-pattern during the learning phase, because it excuses too many lousy execution as just a choice or style.  
+
+In fact, in the first three years of tango learners need to have clear and measurable yardsticks of progress.  It is not enough to say someone is dancing well, it needs to be deeply critiqued as dancing without enough phrasing, too much tension in the arm, lack of use of space etc.  
+
+This type of critique comes from the third eye of the teacher, so it is not just doing more practicas, but actually more private lessons.  If money is not object, I strongly recommend it.  The third eye need not be a famous maestro either, just a good experienced teacher who is willing to speak honestly.
+
+What I see instead is the widespread use of Practicas and Milongas as the way to improve.  ""Just dance enough and things will be fixed over time; if they are not fixed then it is not your style.""  The biggest lies in Tango.
+
+Practicas are usually a waste of time unless you are dancing with a more experienced partner.  You also need a plan of attack.  And a video camera.  And measure yourself against specific qualities you want to achieve, e.g. smooth, rhythmic, dancing on a tile.
+",2016-09-05 08:06:15+00:00,d7a24sl,1.0,t3_516w8s,26714,tango
+15,"I think it is simplistic to assume public domain and open metadata will just happen on the current trajectory.  First is that the music corporations like Sony (which owns most BMG and Victor labels recordings) will never stop asserting ownership, unless Government overrides it.  The Argentine copyright act used to be 50 years but it is increasingly likely to be aligned with US and Euro status, which will extend to 70 and possibly 120 years.
+
+Metadata don't collect themselves.  Why is it you can find hundreds of popular music lyrics and song ID services, but not a few reliable tango music lyrics and song ID services?  Because to curate metadata is a job, and the payoff for tango is negligible.  
+
+Tango.info's music database was collected by DJs in EU, and the project is now in ""crowdsource"" mode, but without a paid editor or developer the project cannot reach a useful state for the average tango music collector as it lack API access (OpenDB) or front end UI.
+
+I think a way forward is for the copyright fees currently paid by DJs, teachers and festivals to be channelled into projects rather than into the pocket of ASCAP (and which may or may not arrive in Argentina).   These monies are a recurrent and dependable funds which can support multi-year curation efforts.
+",2016-09-04 22:41:07+00:00,d79lx1b,5.0,t1_d79djik,13785,tango
+16,I believe todotango.com is also getting some funding from the US-based tango society.  Exactly my point that Argentina's heritage needs international support.,2016-09-04 06:06:41+00:00,d78v3x4,3.0,t1_d78sq9w,6051,tango
+17,"Of course the fact that the website in question deals in raw copies of music albums which means it is in a gray area of ethics, but its database of track and album metadata is priceless and well worth saving from oblivion.
+
+There used to be a Russian blog with full album archives, and it also appears to have disappeared recently.
+
+Eight years is a long time on the web, and I have known very few tango-specific blog or database to last that long.  
+
+Sometimes the author lost interest, other times they reach the end of their hosting or domain lease, and could not find justification to renew.  Tragically sometimes people die and sites are left to fallow.
+
+That is why I think it is high time for a cooperative effort to salvage and preserve the recent history of tango.  
+
+Even with UNESCO World Heritage status, the proper care of Tango heritage depends not on the governments of Argentina and Uruguay, but on support of patrons of the arts around the world with money and time.
+
+
+
+",2016-09-02 10:16:22+00:00,d76kwoj,1.0,t3_50scf5,4169,tango
+18,"While Borges was only an observer, he was a scholar who did meticulous research whereas many of the other primary sources of early tango dance culture came from verbal interviews of milongueros -- also to be distrusted to some degree for their blurring of facts and hearsay.  ",2016-08-29 06:13:25+00:00,d70wrub,2.0,t1_d700u6j,52902,tango
+19,"This part is not a Github problem, it is a Registrar problem.  Every Github page that has a CNAME will recognize its own alternate name, but without Registrar pointing at Github.io web traffic will not arrive at Github.io.   You can try pointing the root domain (and www) to web hosting, and set wildcard subdomains to point to Github.io",2016-08-23 00:56:23+00:00,d6smyg4,3.0,t1_d6s5jni,24059,github
+20,"What you do is make each repo that is a Jekyll site a subdomain of sammy.com.  Put a file CNAME with the text ""repo1.sammy.com"" so there is automatic domain resolution, and update your registrar's DNS to point repo1.sammy.com to github.io.  As for the main domain sammy.com do not point that to github.io, instead point it to your web hosting.",2016-08-22 09:32:35+00:00,d6rntwe,1.0,t3_4yxr2s,36049,github
+21,"Panic room or escape room are big business in Asia.  Yes it is curious that this is trending but I can't argue with the facts.  There are 30 newly minted escape rooms in my city but all my favourite dance clubs closed down.  Explain that.
+
+",2016-08-14 01:49:16+00:00,d6gktr1,7.0,t1_d6gduxm,11740,Entrepreneur
+22,"I learned ballroom salsa and swing before I started tango.  My experience is that tango is a completely different animal.
+
+In martial arts there is a distinction between ""external"" forms and ""internal forms"".  The external form martial arts (shaolin, wingchun) focus on shapes and movement.  The internal form martial arts focus on state of mind and energy control (taiqi, qigong).
+
+Ballroom swing and salsa are the equivalent of external forms.  Tango is the equivalent of internal forms.
+
+This is why people who don't understand tango are always asking to learn ""another move"" while the teacher always ask the student to ""listen to another song"".
+
+My conclusion after decades of studying tango, is that the correct sequence is this:
+
+* Learn the music first.  It's immaterial that it is not happy music, just think of it as a mood you are immersing yourself in, and use the accents and musical moments as your metronome.
+
+* Learn to walk without tension or momentum.  You walk forward and sideway, strongly or softly, quick or slow.  The mood you have collected in step 1 controls step 2 organically.
+
+* Learn to coordinate with the partner inside the embrace.  Timing lead and signals must be split second accurate to avoid uncoordination.  Again step 1 and 2, fully understood, makes step 3 possible.
+
+* Now learn sequences but break them into tiny pieces of max 3 or 4 steps.  Steps are ineffective if they don't move in perfect harmony with the music.  Of course step 1-3 are key to achieving 4.
+
+* Finally, non-steps (adornos) are the personality to make the dance unique.  They work best when you do them without thinking, like an organic gesture reflecting a feeling.
+
+When I first started tango I fought my teacher's pathway.  I was conceited to believe that since I have already learned 12 dances I can learn tango in a matter of weeks.  
+
+That turned out to be completely wrong.  I ate humble pie and yielded to my teacher's suggestions to begin from the start again, starting with the mind understanding the music.   
+
+A beginner's mind (shosin) is precious, and it opens all possibilities and removes all obstacles from pride and assumption.",2016-08-11 03:19:35+00:00,d6crwr5,1.0,t3_4wts6x,176940,tango
+23,"The 40s US-Argentina diplomacy was prior to the start of WW2 when [US foreign-policy worked to unite all of Latin America in a coalition against Germany](https://en.wikipedia.org/wiki/Argentina%E2%80%93United_States_relations#1940s).  To this end Washington encouraged US film and music collaboration: eg. movie ""Down Argentine Way"" with Carmen Miranda [was released in 1940](https://en.wikipedia.org/wiki/Down_Argentine_Way).  Dizzy Gillespie's [tango recording](http://jens-ingo.all2all.org/archives/382) was made in 1956, after the war.",2016-08-01 14:37:45+00:00,d5zmiu9,3.0,t1_d5zlgxz,1541,tango
+24,"Music before the era of radios and recordings, depended on musicmakers.  Who where and how they play became the genre.  
+
+Not everyone who came to the ""New Worlds"" are artists, most of them were laborers and craftsman; others came because of natural diasaster, wars, family reunions etc.  We can speculate that the musicians who end up in the port cities are a small number compared to the population of migrants.
+
+Nevertheless the demand for entertainment still existed.  Rich people pay for live music and throw parties, poor people have their weekly market fairs.  Musicians have to continue to produce music to earn this money.  
+
+Again we can speculate that the close proximity of different ethnic communities could have led to musician ensembles that are formed from different musical heritage.  Klezmer (jewish) musicians playing with Polka with Spanish with Italian etc.  The pool of talents was small, so mixing and sharing ensemble work is normal.
+
+As others have pointed out in the history lessons, various societal forces led to Anglo-saxons and Africans mainly ending up in North America and East European and Latinos ending up in South America.
+
+So both tango and jazz are mongrel music developed from mixing up genres and classical styles.  They both developed in the turn of the century and rose to their strongest popularity in the 40s.  They both transitioned from big bands into small ensembles after the 50s.
+
+Why is tango sad and jazz happy?  I think this big difference is due to the way the Argentinian psyches are different from the American one.  Just generalising with a broad stroke, Argentinians, despite being Latinos, are very serious and introspective, unlike the typical Brazilian Mexican or Carribean.  They are neither fully Italian, Spanish or German, but acquired a little trait of each. And despite the French love for tango, there isn't much French in the Argentinians. The main patrons for Tango music is the lower society stratas and the music reflects the daily grinds.
+
+The New Yorkers also had a mixture of nationalities in their musical growth, but it had a lot of African influence, and ragtime was a big part of the musical landscape due to the growth of vaudeville theatres and the import of French revues.  The music was mainly enjoyed by rich society patrons to be a fantasy of escape and oppulance, and this encouraged the musicians to lift their inspiration towards grandeurs and wilderness.
+
+Interestingly during the 40s there was a period of diplomacy between USA and Argentina, and many musicians made cross-border collaboration.  Astor Piazzolla lived in New York as a child, and Dizzy Gillispie recorded with Fresedo.",2016-08-01 06:12:22+00:00,d5zacaj,1.0,t3_4vht51,48913,tango
+25,"Tricks are called tricks for a reason, because they are not the basic building blocks of tango (walking, changing direction, giros).  Teachers generally discourage students from copying steps from videos, and I don't blame them.  If you have a teacher you respect and trust, it is best to have them analyse the figures you wish to learn, and have them interpret and explain the techniques involved.",2016-08-01 05:41:03+00:00,d5z9jvo,2.0,t1_d5z79d4,4668,tango
+26,"[Jonatan Aguero and Virginia Pandolfi](https://youtu.be/MjprWK7foaY?t=1m13s) with Sacadas in Traspie rhythm.  The combination is fun --  to every one walking step of the follower, the leader does three (vals tempo) steps ending in the Sacada.",2016-07-29 10:03:54+00:00,d5vpc6u,1.0,t3_4v5vos,244,tango
+27,"[Pablo Inza and Sofia Saborido](https://youtu.be/prMxyFE7FzU?t=2m4s) doing a short Crossed System walk embellished with Saludos, a gesture translating as ""Greeting"", ""Salute"", or ""Leg Wipe"".  The follower mirrors the leader's gesture by Locking her behind foot (Trabada). ",2016-07-27 07:22:05+00:00,d5sotp9,1.0,t3_4uted3,474,tango
+28,"Good question.
+
+[Gancho Pasajero - definition](http://www.verytangostore.com/tango-terms/tango-gancho.html) : ""is a hook (gancho) that is executed on the way to another step. The working leg appears to wrap over the partner's leg while hooking, then releases and proceeds to the next step""
+
+[Serpentina - definition](http://www.tangology101.com/main.cfm/title/Serpentina-\(Reverse-Sacadas\)/id/1020) : ""A Reverse Sacada, Serpentina means snake like, because it looks like two snakes intertwined.""
+
+A Gancho Pasajero is a variant of Gancho like Gancho Doble, Gancho Montada, Self Gancho etc.  All Ganchos are ""Interceptions"", they interrupt the path of one leg to effect the hook.  To achieve this as a leadable step, they need to make contact higher near the knee, and the contact must be maintained during the hook.
+
+Serpentina looks a lot like Gancho Pasajero, but the clue is that it is called Sacada and not Gancho.  Sacadas are ""Displacements"" of positions, there is no need to maintain extended contact between legs, and the contact point is lower, between ankle and calf.
+
+If you watch Clint's demo of Serpentina it would be obvious the direction where he insert his foot is near the lower part of woman's legs, and he does not maintain contact of the knee afterwards.  That is why this is actually a Sacada and not a Gancho.
+
+The difference between Gancho and Sacada can be summed up: a Gancho leads you, a Sacada follows you.",2016-07-26 00:30:24+00:00,d5qrtsx,3.0,t1_d5qohe8,4437,tango
+29,"[Jonatan Aguero and Virginia Pandolfi](https://youtu.be/MjprWK7foaY?t=43s) doing a sequence that has two rare figures, an Amague (a ""fake pass"", like a soccer tackle) and a Gancho Pasajero (passenger hook).  
+
+These steps are usually referred as ""Milonguero's figures"", for they are steps invented on the salon floor by self-taught dancers, and taught to next generation as signature moves.",2016-07-25 08:37:56+00:00,d5pr80l,1.0,t3_4uhkb3,519,tango
+30,"[Nick Jones and Diana Cruz](https://youtu.be/PyUe9MFgsco?t=2m7s) with a series of Pulpeadas (Octopus figures) with Soltadas (releases).  I have never seen this version before, could it be an American original?
+
+[Norberto Esbrez ""El Pulpo""](https://en.wikipedia.org/wiki/Norberto_Esbrez) named and developed the Trap Sacada (Sacada con Agarre) and Chained Enganche, but most people just refer to all such elaborate multiple-stage, convoluted leg wrapping Origamis as ""Octopus-steps"", in Mr Pulpo's honour.",2016-07-24 00:32:04+00:00,d5o7igu,1.0,t3_4uav2t,665,tango
+31,"[Maximiliano Cristiani and Jesica Arfenoni](https://youtu.be/npzRBTnwN4U?t=2m42s) executing a Salto from Open Embrace Giro, decorated with Tijera (scissor kick).  The quintessential stage trick! ",2016-07-23 01:26:58+00:00,d5n5a9a,1.0,t3_4u62vb,229,tango
+32,[Gaston Torelli and Moira Castellano](https://youtu.be/R7zi3t9eCY4?t=3m3s) doing a Jump (Salto) in Close Mirror Position.,2016-07-23 00:16:23+00:00,d5n2sn7,1.0,t3_4u5sss,242,tango
+33,"[Carlos Gavito and Marcela Duran](https://youtu.be/ARBvUxXZEek?t=1m14s) doing the figure that is Gavito's signature -- the extended Carpa (tent) of two off-balance bodies supporting against each other, and using the Calecita to move the woman through a complete 360 circle without hurry.",2016-07-21 11:20:48+00:00,d5ktcjt,1.0,t3_4twhjt,32,tango
+34,"[Carlos Gavito and Marcela Duran](https://youtu.be/ARBvUxXZEek?t=1m14s) doing the figure that is Gavito's signature -- the extended Carpa (tent) of two off-balance bodies supporting against each other, and using the Calecita to move the woman through a complete 360 circle without hurry.",2016-07-21 11:18:17+00:00,d5ktalg,1.0,t3_4twgob,372,tango
+35,"When are they going to make GPM available in every territory?  The entire Asia region seems to be unavailable.  I can understand the part where they stream copyrighted stuffs to you, but why do they not make the ""upload your own music"" section available everywhere?  It makes me weary of storing my own music collection in the cloud when availability of the service depends on which territory I am in.  Google has too many of such ""territory-locked"" services and they are a terrible idea.",2016-07-20 00:14:39+00:00,d5iwi2x,1.0,t3_4tjb6u,71890,Android
+36,"Tsk, tsk, youngsters don't do poker faces, do they?",2016-07-16 00:29:46+00:00,d5e0ujm,2.0,t1_d5dwyhp,6653,tango
+37,"[Ariadna Naveira and Fernando Sanchez](https://youtu.be/L-5pdPrlqSY?t=1m50s) Kick high into a Whip and ending in a Doble Gancho.  Don't ask Why, ask Why Not.",2016-07-15 09:31:19+00:00,d5d40jm,1.0,t3_4syb1q,332,tango
+38,"Protest is coordinated by the AOM (Association of Milonga Organisers).  More first person reports here:
+
+* [BBC - video](http://www.bbc.com/news/world-latin-america-36781449)
+
+* [Jantango - The Milonga Law](https://jantango.wordpress.com/2016/07/12/the-milonga-law/)
+
+* [La Nacion - (spanish) More than 400 dancers dance for the Milonga law](http://blogs.lanacion.com.ar/maldito-tango/excursion-tanguera/mas-de-400-milongueros-bailaron-por-la-ley-de-fomento-al-tango/)
+
+* [Pagina 12 - (spanish) Protect intangible heritage](http://www.pagina12.com.ar/diario/suplementos/espectaculos/17-39422-2016-07-13.html)
+",2016-07-14 08:00:18+00:00,d5bpgc1,1.0,t3_4ss4gs,406,tango
+39,"[Ruben Veliz and Sabrina Veliz](https://youtu.be/jNJnPpIvtTU?t=2m16s) showing a ""he goes, she goes"" sequence.",2016-07-14 00:47:26+00:00,d5bcmx7,1.0,t3_4sqhth,56,tango
+40,"When I asked my old friend why he retire from the Tango scene after 15 years, he said: ""Tango is alright; the trouble is with the Tango people"".  That about sums it up.",2016-07-13 23:28:00+00:00,d5b9qpb,2.0,t1_d5ahk4l,39347,tango
+41,"Indeed most tango techniques are based on functional more than esthetic logic.  Leaning your weight into partner, using rebounds to change direction, walking on high heel shoes, etc, each of these choices can be traced to a good technical reason.  
+
+I appreciated this difference since I studied ballroom dances before Argentine Tango, and hated the randomness of ballroom movement.
+
+Like optimisation in sports performance, eventually the best dancers mostly converge into similar streamlined style by pruning surplus movements that waste energy.",2016-07-13 23:16:50+00:00,d5b9bhg,2.0,t1_d5b33kz,8889,tango
+42,"Yes indeed, I think Derek is the dance partner in the video.",2016-07-13 22:57:32+00:00,d5b8l12,3.0,t1_d5b86go,615,tango
+43,"[Andrea Dedò and Monica Di Pietro](https://youtu.be/OWXQEKLcn54?t=1m53s) doing a series of three Soltadas (releases).  A preparation step to open the embrace has to precede the release of embrace, so as to wake up the baby gently.",2016-07-13 01:22:35+00:00,d5a0gxj,1.0,t3_4skhv6,485,tango
+44,"[Zoukology](http://zoukology.com/zouk-in-the-bachata-controversy/) criticizes this Tango Manifesto as a resistance to allow ""several versions of one dance to co-exist"":
+
+""By contrast, here’s a recent extreme case of a dancer clinging to tradition. This 'Tango Manifesto,' which criticizes new styles of Tango, is a self-important, comically elitist, intellectually timid, masturbatory celebration of the author’s interpretation of traditional Argentine Tango. This is Tango’s version of Bachata’s recent internal dispute — happening at the same time, no less. Is it any wonder why Tango in North America is considered a snobby, old community? (See questions 1 and 10 in the survey) If Tango were allowed to innovate like this couple, maybe America’s youth would be more open to it. This should be a warning of what could happen to Bachata (or any dance) 10 years from now if the community becomes rigid: the scene will grow old and young dancers will turn elsewhere. """,2016-07-12 12:47:43+00:00,d5949gp,1.0,t3_4sgs0f,353,tango
+45,[Fabian Salas and Lola Diaz](https://youtu.be/YVPqjbHHEH4?t=4m41s) do a more advanced form of Continuous Colgadas that travel as a Cadena (chain).,2016-07-12 11:22:04+00:00,d59288g,1.0,t3_4sghlc,87,tango
+46,Really? I checked OTA but nothing ,2016-07-12 03:05:21+00:00,d58r5el,1.0,t3_4sbpv6,39043,LGG3
+47,"[Ariadna Naveira &amp; Fernando Sanchez](https://youtu.be/L-5pdPrlqSY?t=1m50s).  Usually the woman does the Parada and Pasada sequence, but when the man does this, he appears really cool -- but ONLY if he never looks down at his feet.",2016-07-11 09:12:36+00:00,d57o6jd,1.0,t3_4sa0ut,208,tango
+48,"[Gaspar Godoy](http://www.broadway.com/shows/forever-tango/photos/follow-their-lead-forever-tango-starring-karina-smirnoff-and-maksim-chmerkovskiy-opens-on-broadway/189997/forever-tango-opening-night-marcela-duran-gaspar-godoy)
+
+http://d3rm69wky8vagu.cloudfront.net/photos/large/4.189997.jpg",2016-07-11 09:01:16+00:00,d57nzs5,1.0,t3_4s7de4,43020,tango
+49,"My memory of Nokia's phones include some of the most amazing transformer-style devices, foldable and slidable like Origami, and amazing battery life and almost indestructible construction.  Back then many people in tech asked this question: why the Finns could innovate in phone while everyone could not, and we all agreed the Finnish introvert psyche must have been the main reason.  So, I would never underestimate what the Finnish engineer (another famous one being Linus Torvalds the inventor of Linux) could do to surprise us.",2016-07-11 08:43:14+00:00,d57noug,1.0,t3_4s8l6y,24453,Android
+50,"It is IMPOSSIBLE for the woman to do a Colgada alone. By definition a Colgada is a temporary suspension created when two people tilt their axis outwards and counter-balance each other.  
+
+If you study this in class you will realise that (part 1) is to guide the woman energetically into the start of a boleo and (part 2) immediately step into the counter-balance position.  Part 1 and Part 2 need to be separated to create the Colgada effect; this could explain why the lead waits until the woman is extremely off-axis before stepping into his position.  I have no doubt they are able to do this movement correctly; I have seen them demonstrate this in class in a dozen different ways. 
+
+What you think you see in the performance is that the man's legs were slow in positioning -- by design.  So that he can tilt backward against the woman's backward axis.",2016-07-09 21:27:50+00:00,d55xq41,3.0,t1_d55vqkj,3421,tango
+51,[Gisela Natoli and Gustavo Rosas](https://youtu.be/ZI_lzZsc67U?t=12m39s) writes the book on tricky Colgadas.  Literally.  They recorded a DVD series on just this very concept.,2016-07-09 01:41:10+00:00,d55283f,1.0,t3_4ry5db,161,tango
+52,"[Alejandra Martiñán and Leandro Palou](https://youtu.be/3UsgVHlMDUE?t=1m24s) have a big bag of tricks for follower adornos, and when you watch them with music everything makes sense.",2016-07-07 00:47:06+00:00,d526u5r,1.0,t3_4rlr99,173,tango
+53,"[Gabriel Missé y Analía Centurión](https://youtu.be/Xn95RKNuKx4?t=1m6s) shows how fast his feet can syncopate at three times the rhythm.  Most professional tango dancers from Argentina began their training in their teens, by learning Argentine Folclore dancing -- Malambo is a unique Gaucho (cowboy) dance done with the rhythmic stomping of the shoes.",2016-07-05 08:39:41+00:00,d4zs6bq,1.0,t3_4rbqno,329,tango
+54,"If people no longer worry about Aging and Death, does that mean they will also stop worrying about After-Death?  
+
+Then I say it is a good thing to have, because Religions will no longer have the power to influence people to do crazy things.",2016-07-04 10:43:22+00:00,d4ynnga,1.0,t3_4r3kmg,52472,Futurology
+55,"[Sebastian Arce and Mariana Montes](https://youtu.be/iMEIe3uo2Io?t=1m24s) made a name for themselves as masters of elaborate footwork, and this sequence shows what they can do during the ""variations"" part of an energetic song!",2016-07-04 00:06:42+00:00,d4y8dnw,1.0,t3_4r4jo0,182,tango
+56,"[English (google translate)](http://translate.google.com/translate?u=http%3A%2F%2Fbuenavibra.es%2Fmovida-sana%2Fsalud%2Fel-tango-ya-es-un-aliado-en-el-tratamiento-de-varias-enfermedades%2F&amp;tl=en)
+
+**Tango is already an ally in the treatment of various diseases**
+
+By Buena Vibra
+
+Tango Therapy is here.  To help treat cardiac events to depression, to Parkinson's disease and other ills.
+
+During the Third International Congress of Tangoterapia, held in Buenos Aires recently, various experimental results were made available for sharing and discussion. 
+
+It appears the Dance that made Buenos Aires famous is an excellent ally in the treatment or alleviation of the symptoms of many common diseases and afflictions.
+
+The benefits are many, experts say. Among the elderly, the rhythm of ""two by four"" is synonymous with healthy aging, since the movements of this dance reinforce the postural balance and help in the rehabilitation of coronary ailments. 
+
+Several studies have shown that patients recover faster, many patients no longer need medication and reduce disability.
+
+Dr. Federico Trossero, clinical psychiatrist and rosarino psychoanalyst and author of the book and website ""Tangoterapia"" explains: ""Its therapeutic action lies mainly in the intensity and depth of the emotions aroused by the tango when you dance and listen to music or poetry. "" 
+
+""We have experimental proof that the tango interaction with couple and group helps the patient connect with their feelings of difficulties or conflicts, and this helps them overcome the barriers of personal development and leads them to pursue a life full of achievements and enjoyment,"" he says.
+
+During the international meeting, the president of the congress cardiologist Roberto Schena gave updates of several experiments.  ""We are taking the first steps to understand with greater intensity which tangoterapia means. We want, as has happened with dance therapy, for this field to become a career and a health discipline. ""
+
+Favaloro Foundation Research also showed that the tango ""is very effective in the rehabilitation of coronary patients in whom suffered a stroke, and high blood pressure.""
+
+Psychologist Rosa Sosnitsky discovered the power of tango when, in his other role as a singer, went to nursing homes to perform to patients. When investigating the influence of music on memory recall, he noticed that the elderly ""had greater involvement with tango music, because it had been set in their memory at an early age. If they did not speak, they began to speak to and remember lyrics. Later, those people progressed in communication. 
+
+""Those who had it danced young and now were afraid of falling, dared to do so, because the embrace gives containment and security,""  he said.
+
+Experts say to enhance the therapeutic benefits of tango you have to choose those that are not depressant, with positive themes such as friendship, love of the mother, the neighborhood, etc.
+
+More diseases in which tango has power to improve the patient:
+
+* Depression: Encourages patients to have a social activity, with more feeling of security than conventional physical activities.
+
+* Spasticity and Parkinson 's disease: Increase agility and strength movements and thereby strengthens the balance.
+
+* Cardiac disease and hypertension: hormones related decreases sympathetic activity (which produce tachycardia, hypertension and vasospasm), and improves vascular capacity.
+
+* Sensory Degeneration: Dancing, listening and interpreting the tango helps in the mechanism of expression of emotions.
+
+* Schizophrenia: As emotional pathology distorts body image, and therefore communication, tango gives a structure and helps in the development of body image and communication.
+
+In addition, both dancing improves self-esteem. It is an excellent way to develop self-awareness, become aware of our body and balance training. What's more, the link with the other dancer and body communication help to be more perceptive to the environment and contribute to increasing the erotic sensitivity. ",2016-07-03 23:40:48+00:00,d4y7ilz,1.0,t3_4r4dsw,1092,tango
+57,"[Analia Vega &amp; Marcelo Varela](https://youtu.be/8zH9sZw0-LQ?t=2m32s) demonstrating the correct form of Ganchos (hooks), using axis control and finding the natural pendulum frequency of the follower's legs.",2016-06-30 16:50:18+00:00,d4u5z1q,1.0,t3_4qmoj1,161,tango
+58,"He could be increasing stability by lowering his centre of gravity, or he could be teasing the audience for the ""wow"".",2016-06-30 00:09:25+00:00,d4tbrky,,t1_d4rfdm7,111066,tango
+59,[Roxana Suárez and Sebastián Achával](https://youtu.be/28EdQSfsGwI?t=1m12s) spice up their milonga with perfectly placed Saltitos and Patadas.,2016-06-29 23:36:16+00:00,d4taic5,1.0,t3_4qimxk,191,tango
+60,"(Translation)
+
+Closures, rate hikes are a lethal cocktail for milongas
+
+published 21/06/16
+ 
+This week, coinciding with the arrival of Winter, is the fourth edition of the ""Marathon Milonguera"" -- a week-long festival of all the milongas under AOM (Association of Milonga Organiser) umbrella.  
+
+The festival ticket is $180peso for unlimited entries to all the milonga -- a steal, since regular admission to one milonga is not less than $80peso.
+
+Julio Bassan, AOM head and organizer of Club Fulgor, says this is a a key week of the year.  ""We are in low tourist season from the cold, flu, utilities rate hikes, the locals are not enough to fill the rooms.  This is usually the worst week of the year in terms of attendence.""
+
+What the AOM has offered is a good deal to attract people to explore the milongas with friends who might not normally venture into the circuit.
+
+AOM recently published an open letter in the Clarin newspaper to protest the forced closure of milonga spaces, and the lack of a public policy to protect this sector of the economy.
+
+The recent increase in utility rates has also hit the neighborhood clubs hard.  ""It is $10,000peso bill just for the lights, and I am forced to cut employees and suppliers to pay water bills and gas."" says Norma Firpo who runs the Sunderland Club restaurant, which was closed by the city for three months for failing fire inspection.
+
+""The last closure is ruining us because without milonga there is no consumption in the buffet. The last inspection meant a fine of $100,000peso, the Club was already catching up. And new fire safety modifications mean more costs have to be spent in fitting. In the meantime, I do not know how we will survive,"" she adding that they hope to reopen the milonga later in the winter months.
+
+In response to several street protests, the national government announced a subsidy of 40% on utility charges for clubs that have up to 2000 members.  And another government initiative provides seed funding to encourage commercial users to switch to energy-saving LED lighting.
+
+Meanwhile, milonga remains the best remedy for all these evils! ",2016-06-28 19:41:45+00:00,d4rm03e,1.0,t3_4qb74w,1813,tango
+61,"[Carlito Espinoza and Noelia Hurtado](https://youtu.be/dl_aC0iDWKo?t=1m32s) are famous for their closed embrace style, and here they demonstrate how they maintain the embrace even in extended full spins (3-1/2 to right and 3-1/2 to left) -- the ""secret"" is the lead moves his centre continuously to face the woman.  Sometimes the unbroken embrace is referred to as ""milonguero style"" tango or ""apilado"" tango. ",2016-06-28 18:11:16+00:00,d4rhtx4,1.0,t3_4qaug6,310,tango
+62,[El Flaco Dany and Lorena Ermocida](https://youtu.be/0J-x_BywzG0?t=1m57s) in a milonga traispe.  Many of El Flaco's signature sequences are in double time while the woman is led in single time.,2016-06-27 09:01:03+00:00,d4pn9q8,1.0,t3_4q2f3d,287,tango
+63,"[Geraldine Rojas and Ezequiel Paludi](https://youtu.be/y7_ZLN9NLOk?t=1m4s) advance with a series of overturned forward ochos, a challenging move for the follower -- unless she has great flexibility, like Geraldine. ",2016-06-24 00:26:09+00:00,d4lkbsu,1.0,t3_4pjygj,204,tango
+64,/r/tango welcomes you to the Dark Side ....,2016-06-23 09:32:04+00:00,d4kl73t,3.0,t1_d4k3ing,35996,IAmA
+65,"This is a common template for milongas -- they work best as ""pop-up"" events to be inserted into restaurants, bars, gyms, member's clubs etc.   Such milongas only need to cover 3-4 hours of usage to breakeven.
+
+Milongas as subscription-supported member's organisation is a great idea, but I think it is unusual for dancers to pledge their loyalty.  My experience is that they are easily swayed by peer pressure to switch camp, and also they avoid belonging to one organiser's camp.",2016-06-23 09:21:48+00:00,d4kl0zv,2.0,t1_d4kk250,3427,tango
+66,[Gustavo Rosas and Gisela Natoli](https://youtu.be/6MeCSHAxM8A?t=1m37s) shows how even a simple Caminada walk can be a shared experience.,2016-06-22 14:16:55+00:00,d4jdq8q,1.0,t3_4pautv,90,tango
+67,"A young [Julio Balmaceda and Corina de la Rosa](https://youtu.be/P8nJ03utgA8?t=1m50s) execute a series of little kicks in between the walking steps of a Molinete --- a signature ""show-off"" figure passed down from milongueros.
+",2016-06-21 23:25:22+00:00,d4iomcl,1.0,t3_4p7mdw,239,tango
+68,"Tommy Chong was in the [2014 season of Dancing with the Star](http://time.com/3377910/dancing-with-the-stars-tommy-chong/) and he performed [Argentine Tango with Peta Murgatroyd](https://www.youtube.com/watch?v=cLtTq73-zgc).
+
+He reveals he still dances twice a week despite an ongoing cancer treatment.  ""If you want to rule the world, be a male tango dancer"" [link](http://www.theweedblog.com/tommy-chong-cancer-michigan-oregon-marijuana-business-conference/)",2016-06-21 02:19:45+00:00,d4hhrcl,1.0,t3_4p2bzl,215,tango
+69,"[Gustavo Naveira and Giselle Ann](https://youtu.be/XD3urDKYZas?t=1m55s) dances a series of pivots / molinetes but Gustavo leads using linear instead of circular dynamics.
+
+Gustavo is considered a founder of the tango nuevo movement in the 90s, although he claimed he merely systematize the genre.  Neverthless through his scholarship a large number of ""lost"" figures have re-emerged.
+
+",2016-06-21 02:02:31+00:00,d4hh3q9,1.0,t3_4p2956,334,tango
+70,[A video of the process](https://www.youtube.com/watch?v=RCIelzTvceg),2016-06-21 01:16:35+00:00,d4hfd6a,1.0,t3_4p233u,25,tango
+71,Around here PhD is Permanent Head Damage,2016-06-19 05:37:15+00:00,d4f3vmw,1.0,t3_4oqmxx,25603,todayilearned
+72,"[Ciccio Aiello and Sofia Galanaki](https://youtu.be/tRylIGmzKeU?t=1m23s) shows how the Cunita in Cross System can generate a powerful turning moment.
+",2016-06-18 18:07:03+00:00,d4ei1og,1.0,t3_4opkf7,132,tango
+73,"Actually subtle leads work best between couples who dance together regularly (like spouses and girlfriends).  Villa Urquiza style developed from this deep connection and familiarity. 
+
+Dancers who mainly dance with casual partners (like in downtown centre) leads to a style that has fewer long giros and plenty of rhythm walking.  ",2016-06-18 05:16:25+00:00,d4e01l1,5.0,t1_d4d1ah4,53910,tango
+74,"I think this is a step that separates the men from the boys.  The lead is extremely subtle -- a slight stretching of the leading arm generates a cue for the woman to continue walking -- but also to never fall off his axis.  The follower has to have perfect following technique.
+
+The follower is like a Segway machine that senses the intention of the rider to advance --- the rider steers just by tilting his axis subtly, and the Segway's finely tuned gyroscopes senses the intention and completes the loop to the motor. ",2016-06-17 13:56:21+00:00,d4d0frr,3.0,t1_d4czmdf,1316,tango
+75,"Not true, this figure is definitely leadable. I have seen him demonstrate this figure in class.",2016-06-17 12:09:15+00:00,d4cwzi0,2.0,t1_d4cw5fr,2105,tango
+76,"[English translation](http://translate.google.com/translate?u=http%3A%2F%2Fwww.clarin.com%2Fextrashow%2Fmusica%2FHoracio-Salgan-artista-unico-eterno_0_1595240687.html&amp;tl=en).
+
+Salgan started with Firpo's orchestra in the 30s, and formed his own orchestra in the 40s.  He is considered a visionary in fusing tango with jazz. [Wikipedia](https://en.wikipedia.org/wiki/Horacio_Salg%C3%A1n)
+
+A taste of his playing : [A recital on TV](https://www.youtube.com/watch?v=KzmveaejJWU) 
+
+",2016-06-17 07:49:14+00:00,d4cs6nj,1.0,t3_4oi5q1,599,tango
+77,"[Fabian Peralta and Virginia Pandolfi](https://youtu.be/sHsbj78svCA?t=2m9s) executing an extended Giro (5 spins = 5 x 4 beats) with Planeo (Glide) on the free leg.
+
+Fabian is the 2006 Mundial Salon champion (with Natacha Poberaj).  His spinning prowess is typical of Villa Urquiza style dancers, often launching into long sequences of elaborate Giros  adorned with Sacadas and Enrosques.",2016-06-17 07:02:27+00:00,d4cr9bp,1.0,t3_4oi0tu,577,tango
+78,"[Mod] Removed this post because of poor title.  You can retry with a better worded title.
+
+Generally we will remove posts that have titles that do not summarize the external link.  Imagine many posts asking for translations and all saying ""somebody needs to translate this"" ... they would be indistinguishable from each other.
+
+Try posting a title like ""Interview with Javier Rodriguez (in Spanish)"" and then asking in comments ""can anyone provide a translation"".   Such a post will be considered informative and will be allowed.
+",2016-06-16 20:56:57+00:00,d4c4w1a,1.0,t3_4oejrv,12253,tango
+79,"[Roberta Beccarini and Pablo Valentin Moyano](https://youtu.be/mFZevKzdcSI?t=11m36s) performs a chain of Enrosques (screws) into Back Sacadas.
+
+It is unusual for the woman to initiate back sacada on the man, but here it is choreographed to custom fit the music.",2016-06-15 08:48:39+00:00,d49y8us,1.0,t3_4o6d6j,341,tango
+80,"[Edwin and Alexa](https://youtu.be/7ma1VqrBaWg?t=2m59s) doing a rhythmic trick element of walk, caricia, walk, caricia.  Edwin and Alexa from Colombia are 2014 Mundial Salon runnerups.  ",2016-06-14 06:11:28+00:00,d48fk4n,1.0,t3_4o02d4,253,tango
+81,"[Google Translate](http://translate.google.com/translate?u=http%3A%2F%2Fblogs.lanacion.com.ar%2Fmaldito-tango%2Fexcursion-tanguera%2Ftango-a-ciegas-una-experiencia-distinta%2F&amp;tl=en)
+
+
+Blind Tango, a different experience
+published 06/10/16
+ 
+
+Walking through the neighborhood of Abasto Friday sun, passing through the corner of Ciego Teatro and graffiti Gardel smiling stamped on the corner of Zelaya and Jean Jaures, I recalled that some time ago a friend invited me to dance tango in the dark .
+
+Photo Gza the Journal of Ibón Casas
+
+Many years ago we used to see in some milongas, as Dandy and La Ideal, a blind stranger with whom all women wanted to dance, for their kindness and for his amazing ability to recognize space to move and intuit steps neatly, without stepping on anyone and far from those dramatic moves that popularized the character of Al Pacino in Scent of a woman. Currently the circuit tracks are full of people who see but do not see the other, which does not respect the formula of the sense of clockwise, which is almost the same.
+
+Currently in the Teatro Ciego give different tango classes because they develop in a totally darkened dance track, allowing greater concentration and connection between the dancers. The challenge is to refine the feeling and make it translates into energy capable of powering the movement of dance. Is guided by teachers adventure also proposes introduce codes of the milonga from a more perceptive and less visual (the base of tango really) place, while allowing us to understand the dimension of this difficulty suffering from certain people, which is not in no way a disability. Being an innovative classes do not distinguish levels, nor is it necessary to have previous experience or attend a couple, say teachers and Giuliana Fernández Pablo Ugolini. Experience has its romantic, clear side. ",2016-06-13 18:56:07+00:00,d47o1zo,2.0,t1_d476rb2,25333,tango
+82,"It always pains me to hear that a beginner gives up going to salon because of the problems generated by other dancers, particularly: being judged, having to bring their ""A"" games, and generally treating it as an ordeal instead of a fun time.
+
+It is true that people going to a milonga is demanding.  Their time is limited, and there is an opportunity cost with each and every person they choose to spend time with.  
+
+Usually, the etiquette of milonga means they get only one try with each candidate; so if they choose wrong (or simply picked the wrong song to dance a challenging piece with someone who is not able to keep up) the tanda is lost.
+
+Of course not everyone is like that.  At any milonga, you can reliably depend on these people to share a dance: the hosts, the deejays, the other beginners (you have to spot them), and there are kind and generous partners (you also have to spot them) who will dance with even the most inept walkers without judging.
+
+So you see the milonga is really like a jungle of predators and preys, all eyeing each other and running calculations in their head of who when where and how to pounce.
+
+
+Think of people in a milonga like people driving in the highway at rush hours.  Most people are trying to move along quickly and efficiently, they are in no mood to chaperon beginner drivers, and if they spot one the instinct is to get around him.  The mental state of a beginner is not really suited to deal with high-pressure driving (like jams and parking) --- but what is the path towards becoming a better driver?  You got it, only by driving more in high stress situations.",2016-06-13 18:50:42+00:00,d47nsgv,,t1_d479g21,19306,tango
+83,"Thanks, this is almost exactly what I was asking -- except the price -- holy 400 clams per piece!
+
+I was hoping to find them in the ballparks of rechargeable LED candles (like those offered by Philips -- a set of 6 candle lights, wireless charger and glass candle holder starts around $150). ",2016-06-10 22:53:02+00:00,d449a2m,4.0,t1_d448o64,1031,lightingdesign
+84,"Well I'm trying to avoid DIY solutions if possible, unless there are no ready manufactured versions, since the application will be installed inside a client's restaurant and their staffers will have to do the daily recharging.
+
+But thanks for the info, I did not realise there are standard mount screw-on LED lightbulbs that run off 12V DC..  It would be even better if they can run off 5V DC so we can use mobile phone power banks.",2016-06-10 22:29:41+00:00,d448ga3,2.0,t1_d43vb1i,18418,lightingdesign
+85,"It is not really a ""street"" festival, it is a ""street culture"" festival, meaning whatever they imagine youths hanging out in hoods do -- draw graffiti, break dance, rap, and cosplay. Except this is not really what most Singapore youths do at all, instead they hang out in airconditioned malls and waste their time on Internet and K-Pop. So this ""street culture"" is a staged caricature and is typical of how the officials are disconnected from the populace.  ",2016-06-10 13:47:15+00:00,d43m15k,1.0,t3_4nek4x,36110,singapore
+86,"There are many on Youtube:
+
+* Search (""mora godoy guinness"")[https://www.youtube.com/results?search_query=mora+godoy+guinness]
+* (Mora Godoy channel)[https://www.youtube.com/watch?v=fDJOqtPU1mc]
+* (Obelisco+World Record)[https://www.youtube.com/watch?v=ARlGbux6kuw]",2016-06-10 13:34:40+00:00,d43lkep,,t1_d43hlz1,8736,tango
+87,Inspiring. Crossposted to /r/tango,2016-06-10 09:25:04+00:00,d43fu5d,1.0,t3_4kn7jm,1553808,russiawarinukraine
+88,Direct your question to /r/Tango,2016-06-10 01:03:57+00:00,d432pmy,1.0,t3_4n2n72,170104,argentina
+89,"The competition in Medellin is called ""world"" championship but is at most a Colombia national.  The real world championship ""mundial de baile"" is in Buenos Aires in August, during the Buenos Aires Tango festival.  Please direct your question to /r/tango",2016-06-10 01:02:22+00:00,d432nly,2.0,t1_d40g4gp,161775,argentina
+90,"I try to organise my environment as a DN (virtualizing my work environment, business support networks etc).  It just fits better with the way I think of my style of getting things done.",2016-06-09 09:20:51+00:00,d4230v1,1.0,t3_4n64ti,58049,digitalnomad
+91,"It's a Facebook App using the Canvas API.  
+
+Essentially it is just a website, but by configuring a Facebook canvas app it can be made to appear inside the iframe of a Facebook page.
+  
+The user still needs to login and give permission before the app can read the user's graph information; without this Oauth step the website thinks anonymous is reading the page.
+
+",2016-06-08 09:18:03+00:00,d40nsts,1.0,t3_4n2u2d,24266,Entrepreneur
+92,"[Youtube video](https://www.youtube.com/watch?v=dSb4X0euuFo).  The suspended installation was next to the iconic Obelisco in the middle of Buenos Aires, and the challenge was recorded for a TV program.  If any one wants to break this record, the Guinness organization had set a minimum height of 50 meters to establish it as a category.",2016-06-01 06:19:45+00:00,d3rfk4h,1.0,t3_4lzucv,337,tango
+93,"The monthly journal of Buenos Aires' tango scene is distributed free so it was entirely dependant on advertisers.  The editor's parting letter is reproduced here:
+
+(SPANISH)
+Carta del Editor
+
+Estimado a amigo a lector a:
+
+Esta es una carta de despedida.  La que está leyendo será la última edición impresa de esta revista.
+
+El motivo para discontinuar esta publicación es que desmejoró 
+la relación entre los ingresos por avisos -- única fuente de ﬁnanciación -- y los costos de editarla. Son tiempos difíciles y no vislumbro que esto vaya a cambiar en el futuro próximo.
+
+La cantidad de anuncios pagos que se publican ha venido 
+bajando durante los últimos años. Nunca fui a pedir subsidios a funcionarios públicos, ni tengo experiencia ni conocimientos para hacerlo.
+
+Por el otro lado, los costos de impresión, de diseno, de distribución y los gastos genera les han venido creciendo sin cesar.
+
+En resumen: los números no cierran.
+
+Esta decisión la conversé con Amalia Fernández, con quien comenzamos esta publicación en 1995, y desde hace unos años está radicada en Melbourne (Australia) acompañando a sus hijos, 
+nietos y biznietos.  Ella me aconsejó “Pienso que es hora que dejes de hacer la revista, y te dediques al canto y a estudiar, tenés que disfrutar la vida ... con lo que a vos te gusta leer, ver alguna 
+ópera en el Colón, un espectáculo de jazz, más bailar tango, cantar, estudiar música, cocinar, mandados, lavar y planchar, ¡ah,
+y escribirl, también viajar. Vos podés viajar a los eventos de tango y sacar fotos, que lo haces muy bien ... ¿qué tal? No creo que te quede mucho tiempo libre”.
+
+Como siempre, ella está muy asentada en la realidad y sus ideas son prácticas, simples y eﬁcaces.
+
+Le cuento que estos años 22 que estuve haciendo periodismo
+han sido los más felices de mi vida. Recibí una gran cantidad de satisfacciones. En primer lugar, de lectores que me han expresado 
+de alguna manera el placer que han sentido por tener esta revista
+en sus manos. Luego, los múltiples reconocimientos de organizadores e instituciones, las obras de reconocidos artistas plásticos, qu han estado presentes en las distintas ediciones. 
+Finalmente, cuando buscando en la Web encontré en el canal de noticias CNN que entre las miles de actividades que una pareja de enamorados podría hacer en Buenos Aires el Día de San Valentín, 
+les recomendaba tomar una clase de tango y, para ello, consultar la revista editada por Tito Palumbo. Me mencionaban con nombre y apellido. ¡Se me cayeron los pantalones de la emoción cuando leí esa nota! (la puede ver en la página de enfrente).
+
+El éxito de esta revista es mérito de muchas personas que me han acompañado en estos 21 años. Sus nombres están en las listas de colaboradores que ﬁguran en cada edición, más los diseñadores gráﬁcos, los talleres gráﬁcos, los conductores de vehículos que me han transportado durante la distribución. Los anunciantes que, como dije antes, ﬁnanciaron todos los costos. Los distintos medios que ayudaron con la mención de nuestra presencia. También suyo, que recibió un ejemplar, se adueñó de él y, en ocasiones, cuando nos cruzamos en algún sitio, me alentó con unas palabras. Soy el único responsable de los errores cometidos y de las fallas que usted pueda haber encontrado.
+
+Esta revista nació para llenar un tremendo vacío informativo en la ciudad donde había nacido el tango. Para saber dónde ir a tomar
+clases o practicar o bailar la guía era la información que iba de boca en boca. Ningún medio gráﬁco, ni radial, ni televisivo daba
+noticia de esas actividades.
+
+Después de un año de experiencia colaborando en la revista 
+Vea Más Espectáculos, la invité a Amalia Fernández para hacer una
+publicación propia. Así fue que en la primera quincena de 1995 
+apareció ""B.A. TANGO - Buenos Aires Tango, Guía y Agenda Porteña"". Eran cuatro páginas -- una hoja plegada --. De allí en más nos fuimos ampliando; acompañamos el crecimiento del interés de mucha gente por el baile.
+
+Fuimos la primera publicación gráfica que le dio un lugar destacado a los bailarines de tango. La primera, después de cuarenta años, que logró reunir en una página avisos de distintas milongas.
+
+Ahora que me retiro siento que va a quedar un vacío difícil de llenar. No creo que puedan escribirse notas como las que yo he publicado, con opinión fundada. Que se hagan investigaciones y denuncias como las que aparecieron en muchas ediciones. Y, seguro, no existirá un periodista tanguero que se presente ante la
+Iusticia para denunciar la posible comisión de un delito por parte de funcionarios públicos como yo lo hice.
+
+Probablemente, continúe escribiendo notas y  tomando fotos que publicaré en el Facebook.
+
+Y, con más empeño, seguiré bregando para lograr que se sancione la Ley ProMilonga, cuyo proyecto está desde hace dos años en
+manos de las autoridades de la Asociación de Organizadores de Milongas.
+
+Lo dejo con un cálido y estrecho abrazo tanguero. Guárdeme en su memoria.
+
+Con un abrazo tan uero de 
+
+TITO PALUMBO, Editor
+
+(ENGLISH TRANSLATION) Letter from the Editor
+
+To dear friend reader:
+
+This is a farewell letter. You are reading the last printed edition of this magazine.  The reason to discontinue this publication is the worsened relationship between ad revenue - the only source of funding - and the costs of editing.  These are difficult times and we do not expect this will change in the near future.
+
+The amount of paid ads has been down in recent years.  I never receive subsidy from the State, and I don't want to.  On the other hand, the costs of printing, design, distribution and expenses have 
+grown steadily.
+
+In short: the numbers do not balance.
+
+This decision sprang from a conversation with Amalia Fernandez,
+who founded the publication with me in 1995, and who has for some years lived in Melbourne (Australia) with her children and grandchildren.  She told me ""I think it's time for you to stop doing the magazine, and dedicate yourself to singing and study, you have to enjoy life ... read, watch opera, jazz, more dancing, cooking, write a book, and travel.  Treasure the remaining time you have left. ""
+
+As always, she was right and practical.
+
+I tell you these 22 years I was doing journalism have been the happiest of my life.  I received a lot of satisfaction.
+
+First, readers who have expressed to me the pleasure they have felt for having this magazine in their hands.
+
+Then, the work of many organizers, institutions, and renowned artists, that have been featured in the past issues.
+
+Finally, when searching the Web I found CNN has written -- in a story about the best couple activities on Valentine's Day -- that they should take a tango class and consult the magazine
+edited by Tito Palumbo!
+
+The success of this journal is to the credit of many people who have accompanied me in these 21 years -- their names are on the lists of collaborators printed in each edition.  The designers, the organisers, the drivers who helped me during distribution.  Advertisers -- who, as I said before, financed all the costs.  The various media that helped with the mention of our presence.  The readers who encouraged me with words.  I am solely responsible for errors.
+
+This magazine was created to fill a tremendous information gap in the city where tango was born. To find out where to take or dance classes or practice guide was information that used to be passing by word of mouth.  No radio or TV gave news of these activities.
+
+After a year of experience working in the magazine I invited  Amalia Fernandez to start our own publication.  It was in the first half of 1995 that ""B.A. TANGO - Buenos Aires Tango, Contacts and Calendar Porteña"" was launched.  The first issue was four pages - a folded sheet.  From then on we grew with the growth of the scene.  We were the first publication to focus on tango dancers. 
+
+Now I feel retirement will be a void difficult to fill.  I do not expect to stop writing notes and opinions, and investigations as we did in the past issues.  Public officials will continue to be scrutinized for their actions.  Without the magazine, I will probably publish my notes and pictures on Facebook.
+
+And I will continue to support the Association of Milonga Organisers' struggle with the authorities to fix the Law for professional milongas.
+
+I leave you with a warm and tight hug. Keep me in your memory.
+
+With such a tanguero hug 
+
+TITO PALUMBO, Editor",2016-05-24 07:49:03+00:00,d3hgusx,1.0,t3_4ksl5u,2396,tango
+94,"Or they have made it a no-brainer to add ssl certs to every domain, where before domain owners would only configure ssl for one or two essential ecommerce sites.  
+
+In my case, i added 18 ssl domains immediately, since the incremental cost is zero.",2016-05-24 04:30:34+00:00,d3hcnhu,2.0,t1_d3h5lqq,11513,webdev
+95,"One lesson ahead?  I hope you are joking because that is setting the threshold very low indeed.  
+
+Remember a teacher in tango (unlike a teacher in English or Science) often has to create his own teaching plan.  How can you be an effective guide without deep knowledge of the subject?  As others have mentioned, it is not just showing the correct stuffs, it is also knowing how to steer the students away from the incorrect. 
+
+He also has to demonstrate good dancing form --- and I don't have to tell you how long that takes to achieve.",2016-05-23 21:30:44+00:00,d3gwktt,2.0,t1_d3gtgqp,4237,tango
+96,"""I cannot unzip the files; can you zip them to me again?""",2016-05-23 11:45:39+00:00,d3g99y4,1.0,t3_4kn309,9793,AskReddit
+97,"I am thinking of this question just now when my friend mentions he is running around the factory like an ""Uber of repairman""... and somehow we understood the reference immediately.",2016-05-23 09:08:50+00:00,d3g6k6c,1.0,t3_4kn309,384,AskReddit
+98,"Teaching tango is a difficult task, but not impossible.
+
+The optimal conditions for learning tango requires three elements:  good teachers (generous, open-minded, systematic), an immersion environment (many organisers bringing in music, performances and festivals), and arenas (practicas and milongas) for observing role-models.  
+
+In other words, the path to understanding tango goes beyond just studying steps and movement.  The teacher merely plant the seed of curiosity; the rest of learning takes place within the student, driving him to explore the immersive environment.  In my opinion, the ratio of effort is close to 30% (teacher) and 70% (student). 
+
+Most people in their first 2-3 years of tango only understand basic mechanics of the dance, but lack deep knowledge of musicality, expression, dynamics, or the history of the musicians.
+
+Like a blind man and the elephant, you can only try to explain what you personally learned from your teacher.  That translates to a single role model, a single style, and a single point of view of what is or isn't good tango.
+
+If you have danced tango for another 3-5 years more, you will be in a better position to explain the styles, choreography, culture, values, etiquette, psychology, group dynamics etc.   You will have seen enough to know what rules are possible to break.
+
+Today, the bulk of pedagogical knowlege about Tango are not curated, peer-reviewed, or commonly shared outside a classroom.  Very few good dancers were able to write down their insights or to explain their movements.  Without a pool of shared knowledge, Tango teachers teach by copying steps, and end up cloning their own limitations into their students.  
+
+Examples of common teacher's fail:
+
+1. Many teachers like to describe tango as ""revealing the secrets"".  This is BS.  There is no secret knowledge, tango today can be coached as scientifically as athletics and gymnastics.  The real difficulty is in measuring progress.
+
+2. When the students want to know how to do something difficult -- like a lift or gancho -- the teacher uses the standard line ""you won't need to learn this step because you will never use it in the milonga"".   This is an example of how the teacher passes his own limitations onto the student.
+
+3. Male teacher teaching both roles without sufficient understanding of the follower's technique. Actually the lead and follow roles are very different, and followers often fail to find their voice in tango, because they never learned how.
+
+In conclusion, we do need more teachers to help spread the passion of tango, even if they only know a little bit.  We should also make a push for better pedagogy and teaching aids.  And one teacher cannot teach everything a dancer needs to know.",2016-05-22 19:45:49+00:00,d3fi3qv,1.0,t3_4kf9bq,84564,tango
+99,DiSarli's arrangement is exactly what a dancer would enjoy most ... Lots of little details and flairs to fire your imagination to elevate the dance,2016-04-25 01:51:39+00:00,d2g1e5e,3.0,t1_d2fqjpy,18143,tango
+100,"I think the author's rant was more towards unsolicited teaching given to unsuspecting followers...  The milonga is not an arena for teaching; it is an arena for interaction and light flirtation.  
+
+Imagine you are tourist visiting a city that you knew only the minimum about.  Can you still have a good time?  Of course, provided you keep an adventurous mind.  
+
+Now imagine you run into some moral police (real or self-appointed) who starts to criticize you on how you dress, how you talk, etc.  At best you can become a bit annoyed; at worst you may just leave and not come back.
+
+On the other hand a person who truly seeks honest feedback from others about his or her competence will still be able to find it.  Like a Cabeceo, the general idea is to allow unwanted confrontations to be avoided quietly and still maintain general harmony. ",2016-04-24 22:45:27+00:00,d2fuyri,2.0,t1_d2fc4sv,31406,tango
+101,"Next time just put that entire question into the title instead of ""A question ..."", since by default almost every text post is a question of some kind.  ",2016-04-02 23:28:42+00:00,d1ni073,1.0,t3_4d31pz,12497,tango
+102,"Other commenters have given good definitions and I will expand a little more.
+
+In tango there are two primary groups of movements, one group is translation (walking) and the other group is rotation (pivoting).  The axis (centre of rotation) is relevant in most of the second.
+
+When one person is rotating, usually the other person is walking. Without a good understanding of axis it is easy for the movement of one to interfere with the movement of the other:
+
+- if the lead is pivoting on his own, he needs to center his head over his pivoting feet in the correct axis of rotation. Looking down breaks the axis. And he needs to isolate the top and bottom half of the body to generate dissociation, which is the true source of rotation energy.
+
+- if the follower is doing the rotation (like in a Calesita, or a Boleo) the leader must position himself equal distance from the follower's pivoting feet (forming an equal triangle) and use weight shifts to create gentle rotation energy that passes into the pivoting axis.  Most leaders use arm energy to start pivots which is usually also tilting the axis. 
+
+- A complete understanding of the axis is necessary for learning any ""off-axis"" moves, like Volcada, Colgada, and various ""shared-axis"" steps.
+
+In my experience the difficulty of managing the axis is often due to the leaders having to do it on the follower, they fail to deliver good axis on the follower when (1) they don't fully wrap their head around the movement the follower has to do, and (2) they use too much force in their Abrazos.
+
+The solution to both these problems is simple: just practise as a Follower and learn what not to do.",2016-03-20 20:01:19+00:00,d1718gz,1.0,t3_4b6d2n,55941,tango
+103,"Poster should have written a better post title -- it should state clearly this is a link to the website of a current event, include the relevant dates.  Without  that context the heading is misleading.  If in doubt, apply journalistic standards -- what ""headline"" would this ""story"" appear under in a newspaper?   ",2016-03-18 23:58:03+00:00,d155rln,1.0,t3_4axd6a,57861,tango
+104,"Also the cinema versions have multiple copies of video, audio and subtitle data to ensure compliance with the widest range of cinema equipment.  This is not unsimilar to how original DVDs are sometimes multi-discs --- but a stripped version with only one language track can be compressed way smaller.
+
+In our local film festivals we often just project DVDs in cinemas onto small screens.  Cinemas nowadays are often multiplexes and in small halls, the DVD copies are not that much worse in performance.",2016-03-01 20:35:36+00:00,d0jsgng,1.0,t3_48crhv,81505,explainlikeimfive
+105,"18) No knowledge of the 1980s teaching boom. Brilliant dancers of the 30s 40s 50s could really dance, but not really teach. The only way they knew was to take on the apprentice and the apprentice would spend a couple of decades learning by copying. Very poor teaching practice but mythologised as something wonderful. Then some dancers with insight investigated what each bario was dancing and formulated an understanding of how tango was danced across the board. They worked out how the structure of the dance worked, then they worked out how it could be taught. Without understanding this, you can have no understanding of the teaching and therefore the learning of how to do this dance. Top level dancers are not born out of mythological methodology but of insight and hard work. 
+
+19) No hard work. There is very little focus on bodywork and dance training in the UK scene. 
+
+20) Inability to fail. Learning means failing. If you want to be good, you have to fuck up. You have to learn from your mistakes. The pressure to succeed stops us becoming top level in many fields not just tango. Attaining high levels is all down to acceptance of your failures and doing something about it. 
+
+21) Lack of practicas. The UK scene seems to be about group classes and milongas, but to get really good you need top level private lessons and plenty of practicas. The UK scene really lacks on this front. Advertised practicas get turned into milongas. What is needed is Guided Practicas, where teachers hover around a practica to give help and advice. 
+
+22) Lack of generosity/ honesty/paternalism. The scene seems too competitive, (without actually going into a competition) and people do not help out others (without large fees). They are not honest in feedback. There is also a lack of the Buenos Aires maestro/father figure who helps out and advises those they think worth the help and advice. Top level dancers need top level wisdom and guidance. 
+
+23) A lack of joy. The scene is far too serious and many dancers lack a sense of joy. Do they really enjoy the tango? Does attaining a high level reduce the passion? 
+
+24) Costs and house prices. This may seem off target, but London house prices are exorbitant compared to many other cities. These costs are spread down to hall hire and therefore milonga costs. In countries with cheaper milongas, more people can dance more often and raise the level of that country's dance. 
+
+25) Other. 
+
+ - a)The tango-marathon trap, a larger elite-building and tango-limiting idea, that has produced its own lazy style of tango.
+
+ - b) Class gangs. The limitation of belonging to a club and dancing only with that club, repeating the mistakes of that club, and believing the tenets of that club. 
+
+ - c) Facebook and other boards' criticisms and lack of insight and knowledge, spreading bullshit, revisionism and self referential ideas of what tango is and should be, also limit the thinking of the country's tango scene and limit the possibility of a real top level dancer or set of dancers to evolve. 
+
+All this being said, there is still a Potential to allow the Potential of some dancers to discover their own Potential. At the moment it is POTENTIAL only. 
+
+More insight and less ego is needed from these dancers, and more support offered from within the scene.",2016-02-23 17:09:16+00:00,d0ari6a,2.0,t1_d0are7t,151,tango
+106,"The original post in case FB restricts it:
+
+Mark Phoenix: ""In another post Brigit asks, Why are there no home-grown top level dancers in the UK. I had so much to say, that fb wouldnt accept my post. So I post as my own discussion. Bridget raises a very interesting question. It moves us away from the usual 'tango is about people just enjoying a milonga', discussion. 
+
+There is no home-grown top level dancer in the UK, let alone dancers plural. Something we should be ashamed of. Not to recognise it, is even more shaming. There is no simple answer but a combination of causes. I will list some here and explain. 
+
+1) A lack of intelligence/ insight. People are unaware of themselves and their own abilities, unaware of what it is that makes good dancing, and an inability to see what it is that others are doing in their dance. A superficiality is all that is noticed. People are fooled by the smoke and mirrors, the illusions of good dancing without being able to see deeper into the dance and physicality of other dancers and hence an inability to see what they need to do to improve. 
+
+2) Ego. People think they are better than they are. People's Egos are greater than their talent. They make assumptions about the people they dance with. They assume that because they dance with someone good, that they are themselves good. They are not, they are just dancing with someone good, or someone that they perceive as good. That perception itself may be wrong. See point 1. 
+
+3) Culture. British culture is not a dance culture, especially for men. Other cultures allow and support men dancing from an early age, but it is the exception rather than the rule for Brits. Also there is the fake adaptation of Argentinian culture. Going to BA and hanging out, does not make a better dancer. It will not make you Argentinian. The Russians and Columbians do not worry about being Argentinian, they work on their dance to a high level rather than trying to gain a new culture. Also there is the culture within the UK tango scene. There are so few natives compared to other nationalities who live in the UK, and as we are very tolerant, we tend to accept foreign influences to drown out our own. The tango scene is very egocentric, see point 2, and although this may not be a British trait, we allow it to fester and dominate the scene. This holds back people of all levels from progressing because of the worry of judgement and the unseen rules of who dances with who. 
+
+4) Not dancing with all levels. An advanced dancer should be able to dance with any level partner. Yet we rarely see those who think they are good dancing with those they think are poor. There is a lot to be learnt from dancing down a level or two. For leaders, to be able to identify the limits of your partner and gently stretch them, and for followers to be able to maintain their own balance/axis no matter how rough the lead. 
+
+5) Elitism. Gangs of dancers who only dance with those they consider good, fail to enrich those 'below' them and limit themselves. Those that ought by now to be good, because they have spent 10 years dancing in the elite club, have shackled themselves to mediocrity. They dont improve because they think they are already good. see point 2. These egotists have killed the scene in the UK for the last decade. They dont improve. Many of them have got worse because of the laziness induced by their egos and the lack of insight into their own and their groups true level. I say again, the ego is bigger than the talent. 
+
+6) Historical Revisionism. To be a good tango dancer, you have to dance the tango and not limit yourself by buying into the historical revisionism that exists in most posts and milonga talk. If you reduce the range of the dance because of a false limitation in understanding it, you wont be able to become top quality in it. If you believe that the development of the dance at the turn of the 1900s was limited to close embrace salon danced only on the open side of the embrace with only simple forward side and back steps, how can you be top level? You limit the idea of the dance and limit your own dance. 
+
+7) There never was, is, or shall be a Golden Age. Nostalgia isnt what it was. The dance has always been developing and changing. There never was a perfect moment of anything. Especially in tango. Being hung up in a past that you were not involved in, holds you back from the present, limits your insight and smothers creativity. Top quality dancers dance like themselves. They dont dance like somebody else. 
+
+8) There is One tango not Three. Salon, Nuevo, Milonguero, are not three separate dances, they are all Tango. To be top level, you must be able to open the embrace, execute figures, find the elegance of shared weight and respond together on your own axis. To do only a third of the Tango will not make you a top level tanguero. 
+
+9) Only dancing half the dance. To dance only on the followers open side is only dancing half the possibilities. The current flavour of a tight left arm of the follower and tight right arm of the leader, desperately holding each other into a 'close' embrace, limits the dance further. 
+
+10) Mimicry. Dance your own dance. Stop trying to be (eg ) Noellia. Its ugly. She dances her dance and she does what she does well. You dont. Dancing like someone else, even top level, is not top level dancing. 
+
+11) Laziness. The current trend in the UK is Lazy Salon. Watch early videos of Zotto and the like. Close embrace, definitely the style we currently think of as Salon, above the waist. but look at those legs, dissociation, torque. Top level dancers are not lazy. 
+
+12) Lack of moves. Revisionism plays its part here. The mistaken idea that the 1900s 1930s 1950s had no figures and moves means that people are trying to dance a mythology of dullness. Most 'moves' we do now were originated in the 'Golden Age'. So if you want to dance as they did in the 30's then work on some figures. You want to spread the mythology? Then you will never be top level. 
+
+13) 10,000 hours and more. To become good at anything you have to put in 10,000 hours. More than that. The joke that someone claims to have 35 yrs experience is countered by "" No, you have had 1 years experience, 35 times"". Make sure your experience grows and is not repeated. 
+
+14) A lack of Improvisation skills. People are obsessed with the rules of tango and have no creativity. They think they are improvising, but more often than not, one typical default step will follow another in every dance. Learn to improvise. Without the ability to truly improvise you cannot be top level. 
+
+15) No real understanding of the dance structure. Top dancers understand the structure of the dance and can adapt, invent, develop the work on their own. Most people in the UK dont understand the structure one bit. They dance as they were taught. They dont understand the concepts that are available to play with.
+
+16) Lack of competition. Until recently there was no way to make a comparison on the world stage of how the UK rates. It will take a while but maybe the yearly UK preliminary will encourage our top dancers to compete. Currently the rest of the world enters their teachers, professionals and very top people into the Mundial. The UK preliminary to the Mundial is currently something only us amateurs enter. Why? Because the teachers/professionals have something to lose. The esteem they hold themselves in. 
+
+17) Poor Teaching. Too many tango teachers know nothing about teaching. Even if they do know something about tango, they lack real communication skills, insight into the subject, analysis of what it is they are teaching, personality, clarity, good English. Many teach mythology and revisionism as part of teaching the dance and thus hold their students back from top level ability. How can we produce top level dancers with mediocre teaching? Where are the top experts? A handful exist only. Too many teachers have no insight and only teach what they were taught and start teaching too early. Three years? Really? To produce top level dancers we need top level teaching. Both with the ability to teach and the ability to break down the tango. 
+
+(cont'd next post)",2016-02-23 17:06:45+00:00,d0are7t,1.0,t3_477ino,335,tango
+107,"This is an interesting question that needs a complex answers.  
+
+In the very beginning of tango age, there is no structured instruction available, so men learn by copying each other, and practised both lead and follower's role.  In those days men and women did not mix causally so the ladies do not get to learn the dance.  The result is a style of dancing tango where the man held the woman very tightly around the waist, and led their moves very boldly to guide their partners.   If you look at any tango show depicting a scene from the 1890s the dance style will look like that. 
+
+In the next phase of tango from 20s to 50s, the women started to take dance lessons, and as a result the men's leading became more subtle.  It was then possible for a very small signal from the man to be recognised and responded to by the woman.  The style of dancing became softer, quieter, and more elegant.
+
+In the modern age we can still choose to dance soft or strong, depending on how ""clued-in"" the partner is.  If you are dancing with a complete beginner with no prior knowledge of tango, a stronger embrace with stronger, clearer signals will help her do many basic tango walking steps properly.  But if you have an experienced partner, then you can strip away most of the strong muscle energy in your arms, soften the embrace, and let the woman dance within the perimeter of your hold with minimal energy..",2016-02-18 03:57:04+00:00,d0442ty,1.0,t3_46cd12,7171,tango
+108,"Big fan here! As a great lover of dance and dance film, I must say OK Go came on my radar because of the fantastic music videos which blended movement and songs beautifully. I believe Trish Sie deserves big props for setting the artistic direction for the group as a unique blend of pop and visuals! 
+
+My questions are (1) does she still participate in your new works?
+(2) will you explore other dance-genres, maybe tap, jazz, broadway, ballroom, etc?  Tango featured in your mv is my favourite. ",2016-02-18 02:06:25+00:00,d03zy4j,1.0,t3_46asrt,20136,IAmA
+109,You probably should direct the question to Mr Tango Truism (Miles) at his Youtube comments.  Nevertheless there are many software that allows you to visualize the waveform of music files; one free software for Windows is [Audacity](http://www.audacityteam.org/).,2016-02-10 07:57:03+00:00,czujvy2,1.0,t3_450m62,17291,tango
+110,"Removed for misleading title.  Please rewrite your title more clearly to express the reason for posting this link, so that it leads to better discussion.",2016-02-05 01:09:20+00:00,czo9ues,1.0,t3_444na9,54684,tango
+111,"Late to the party, but like to ask anyway.  I believe you trained in taichi originially, and one of your very early movies was based on taichi.  In my opinion taichi is a much more interesting form of martial arts and will you be keen to be more associated with taichi instead of wing chun, which are big because of Bruce Lee and Ip Man? ",2016-01-23 01:08:38+00:00,cz8gxum,1.0,t3_42703h,21986,IAmA
+112,"If sectors are already self-organising properly then the government's role is unclear whether they help or hinder.  The barter economy, the p-2-p rental economy, the charity and social aid sectors, etc are all examples where substantial value creation and transfers can happen even without top-down government involvement in many countries.   ",2016-01-21 09:25:19+00:00,cz6bzb6,3.0,t1_cz66x4d,14650,technology
+113,"Probably there are valid situations when a tanda should be shut down early, but a mismatch in dance skill is in my opinion not one of them, and certainly not dire enough not to be able to last until the end of one tanda.
+
+I would humbly suggest that dancing with someone of a different skill level is an opportunity to learn and not an ordeal to be endured, even if you are the best dancer in the world. 
+
+If you have already committed yourself by accepting the cabeceo, and if you did not do your homework to check out the partner's dancing ability prior to that (why not if you care so much about your partner's dance skill), then the courteous thing to do is suffer to the end of the tanda with a smile.
+
+In the end it all boils down to behaving in a civil and dignified way, and how one person behaves will transmit eventually to how everyone behave.",2016-01-18 01:19:13+00:00,cz26baz,2.0,t1_cz256lm,1806,tango
+114,"My sympathies to OP and u/indigo.. as victims of ""unkind partners"".  Sometime back in this subreddit there was much discussion of ""kindness"" in tango and its relevance in keeping a community healthy, and similarly how the absence of such kindness can undermine a small, flegling one.
+
+It is interesting that in both cases the culprits are the more experienced and advanced dancer, or perhaps even a teacher, so there is really no excuse of ignorance.  
+
+I blame the phenomenon on the rise of ""pleasurists"" -- people who subscribe to the ""dance for my own pleasure; all other considerations be damned"" school of thought.
+
+The pleasurists' value is very much aligned with the ""me generation"" of millenials and ""social justice warriors"", where they see everything through a self-centered lens.  If they don't enjoy something, feel uneasy, is offended, or in any way disturbed by their environment, then someone else must be in the wrong.
+
+Fundamentally it is a question of values.  In tango the value transmission chain is somewhat defective from teachers to students.  Learning values from idols or social media is the road to hell.  The result is: the rise of the pleasurists at the expense of civil community builders.
+
+To add insult to injury, the pleasurists are vocal in justifying their actions.  I have read dozens of postings in social media, where the pleasurists ""explain"" why they chose not to dance with someone, or ""warn"" unworthy partners not to expect them to be available for a dance.
+
+With great power comes great responsibility.  I think that is the moral of the story.",2016-01-18 00:41:16+00:00,cz24vmo,1.0,t3_41cohp,59401,tango
+115,fingerscrossed,2016-01-16 01:37:34+00:00,cyzxvdi,1.0,t3_415q8j,7654,millionairemakers
+116,"A very good question that is deceptively difficult to answer.  That is because I have seen too many people just treat a practica as another type of milonga, except without cortinas, changing partners, and following line of dance.
+
+If your local practicas are like this, then do yourself a favour and go walk 5km with tango in your ipod instead, you will get more out of it.
+
+Without a teacher present, or a guided practica agenda, practice time is regularly wasted.  People keep on repeating their mistakes and fail to correct their weaknesses.
+
+So the easy answer is, if you can find a guided practica instead of a free-form practica, go to that.  The teacher's eyes are the most important feedback you will get, not the chitchat from your partner (does she have a clue what the leader does?).
+
+If you cannot find a guided practica, and have to rely on your own steam, then you should make a practice agenda for each session. Some suggestions:
+
+-- dimension 1. Musicality -- just use walk, pause, sincopation, rebotes, suspension, steps, matching to each piece of music you hear.  You are dancing simply by walking musically, fast and slow, by yourself, without partner.  This is the baseline exercise that you repeat for all the music you will dance to, including the ones that you don't particularly like. Listen to the music, and make the music visual in your steps.
+
+-- dimension 2. Axis exercises -- Tango needs good dissociation in the body and the ability to pivot without losing axis and balance.  A ballet dancer perfects her spins by doing 1000s of them, and so must you.  Practising spins to left and right, single and multiple, and vary them with lapiz/rulo/enrosque/planeo.
+
+-- dimension 3. Improvisation --  the modern tango approach is the ability to follow completely unexpected movements.  What hinders our ability is memorised patterns.  Try doing the mirror image of a turn.  Try to dance without embrace, or in mirror embrace (left and right arms flipped).  Let the woman think of the next step and the man position himself accordingly.  Do a sacada every 8th step.  These are exercises some teachers have used to help break the blinders in your minds.
+
+",2016-01-09 09:17:56+00:00,cyrno0y,1.0,t3_40382f,42053,tango
+117,pm you,2016-01-08 06:36:22+00:00,cyqcq2l,2.0,t1_cyperqe,52908,singapore
+118,pm you,2016-01-08 06:36:09+00:00,cyqcpwk,2.0,t1_cypjr9w,45709,singapore
+119,"repost
+
+https://www.reddit.com/r/tango/comments/3bqcwi/trailer_for_the_love_of_tango_60min_2014_usa_by/",2016-01-03 01:05:38+00:00,cyjv3d1,1.0,t3_3z689g,22025,tango
+120,"Where is the proof or is this just a bunch of wishful thinking on the writer's part.  How about the fact that young people are exposed to more technology and schools are pushing science more during the same decades?
+
+I predict ten years later another hip culture writer will name ""Frozen effect"" -- what the movie Frozen have done to the brains of one entire generation of millenials, and this will be followed by the ""Harry Potter effect"".",2015-12-27 20:43:42+00:00,cyd1qnk,1.0,t3_3yeq9p,15934,todayilearned
+121,"Exactly this.  First understand the most important difference between Argentine Tango and Ballroom Tango -- in Argentine (the *real* tango) the embrace places the woman in the centre of your walk; in Ballroom  (the *wrong* tango) she is on the right hand side.  
+
+This one vital difference means you will spend first 10 hours of Argentine tango class learning how not to hit her knee with your knee when you walk.  But once you understand this, you will forever be *free* and never need to memorize routines. ",2015-12-26 13:50:07+00:00,cybs40b,2.0,t1_cyboxyt,16427,tango
+122,"I don't know about any real difference between boys and girls handwriting, but I can always tell (1) programmer (zeros crossed with a slash), and (2) architect (draftman lettering) --- these handwriting quirks are taught in schools as part of our trade.",2015-12-18 23:50:31+00:00,cy3z3z3,1.0,t3_3xdl9g,17337,explainlikeimfive
+123,"It's the results of last month's [call for vote](https://www.reddit.com/r/Dance/comments/3svkdj/its_the_annual_dance_your_phd_danceoff_cast_your/).  There is a [Forbes article](http://www.forbes.com/sites/sujatakundu/2015/11/30/2015-dance-your-phd-contest-won-by-social-scientist-for-first-time/) with more details.
+
+[Full list](http://gonzolabs.org/dance/videos/) of entries videos.",2015-12-15 11:25:47+00:00,cxzmnla,1.0,t3_3wxdr2,149,Dance
+124,"In 2003 electronic tango music was hot, and the idea of joining Tango with Swing was trending among dancers.  Thus the show [""Swango""](http://www.roroproductions.com/swango.htm) was conceptualised by Robert Royston and Mariela Franganillo. The show debuted [off-Broadway in 2005](https://www.youtube.com/watch?v=M0Xw7dGY7XM).
+
+In 2015 the show is being revived for [another tour](http://schimmel.pace.edu/events/swango-the-theatrical-dance-experience). After 10 years, the expectation of tango, swing and the ""hybrid"" are quite different --- what changes will the [choreographers make](https://vimeo.com/user25767965/videos)? ",2015-12-15 08:51:25+00:00,cxzkcel,1.0,t3_3wwzr0,1479,tango
+125,Bubble memory,2015-12-13 08:54:44+00:00,cxxcknk,1.0,t3_3wjxxl,46326,AskReddit
+126,"In the comment regarding treatment of digital copyright terms under TPP vs WIPO, I wonder which national treaty ranks higher in priority if there are conflicting treatments.   ",2015-12-10 08:22:17+00:00,cxtwl2y,1.0,t3_3w04rk,116059,noip
+127,"There is also another angle to this ""anchoring"" concept, and that is Trump intentionally positioning himself as an ""unreasonable"" person, instead of the ""reasonable"" person that most presidential candidates would have.
+
+In the war of words between US and Middle East, it has always been perceived that the US (and West in general) are the milder,, moderate, reasonable, willing to negotiable, respectful of human rights camp, and the Middle East radicals are the hardline, offended, out-for-vendetta, and break all the rules parties.
+
+In such a setup, between a reasonable and an unreasonable person, the reasonable party is already at a huge disadvantage from first step.
+
+Clearly Trump is intentionally moving the goal post far to the right into hardline territory, in order to create a bigger negotiation surface between the two poles.  
+
+Trump's tough position appears shocking, but is really not so different from, say, Putin or Xi Jin Ping's hard line positions, allowing them to inch forward and give in ""a little bit"", and reach compromise, but without actually giving up much in reality.
+
+I don't like Trump, but he has a strategy.
+
+",2015-12-10 07:53:21+00:00,cxtw30s,1.0,t3_3w35ym,57160,DepthHub
+128,"I am reminded of a similar smart application -- turning walking energy into power.  
+
+I believe it was featured in an Eco Hour event couple years back --- the public was invited to walk on a special energy conversion mat to generate enough power to light up LEDs.   So the technology exists and already can be demonstrated.  I wonder how long it takes for these ideas to reach the users.",2015-12-10 07:39:49+00:00,cxtvu4n,1.0,t3_3w3bhe,54105,Inventions
+129,"The travellers, Pancho Cloutier and his partner Catherine, left Montreal in June 2015 and will be filming interviews along the cities they visit.  
+
+[The path covered so far](http://tangomobile.org/?page_id=14) brings them through USA and now into Mexico.
+
+They are also joined by a second car, driven by Raymond Lauzzana, publisher of Modern Tango World.   [A story about the two Tango vans crossing America](http://www.digitaljournal.com/pr/2756659).",2015-12-04 08:15:26+00:00,cxmqn5b,1.0,t3_3ve5w7,585,tango
+130,"&gt; I disagree about the height difference unless the context is close embrace
+
+Read the thread again, I am talking about close embrace:
+&gt; Bear in mind their ""good posture"" is mostly an apilado (lean-in) embrace which only works between two partner of compatible height
+
+And I already said for other embraces, the height is not so important.",2015-12-03 23:59:46+00:00,cxmal9h,6.0,t1_cxm420r,9897,tango
+131,"I am not referring to a person's height, which I agree is irrelevant, but to ""compatible height"", which is the relationship between leader and follower and absolutely not irrelevant.
+
+If you think that relationship is not important, think of your body's relationship to your suit, to your chair, to your bed.  Without compatibility it is hard to maintain ""good"" posture.
+
+The hip-out posture I mention is seldom caught in photos but it was the rage at one point 7-8 years back, and resembles a ""twerk"" done in tango.  Some people have referred it as ""the butt wave"".
+
+I guess it was partly influenced by many highly visible couples in that era, like Javier and Geraldine, [adopting this posture](https://www.youtube.com/watch?v=3wzOvJDVaZg), thereby implanting the notion that this is the ""correct"" posture to copy.
+
+While I do find it very sexy to watch a waving butt as a spectator, as a leader I found it extremely annoying.
+",2015-12-03 19:52:39+00:00,cxm0hkp,4.0,t1_cxlnhjj,19721,tango
+132,"Images of the [""Great National Milonga""](http://news.xinhuanet.com/english/photo/2014-12/07/c_133837986.htm) last year.  The main street of Corrientes was closed off to traffic and turned into an outdoor milonga for one evening.  Other national celebrations include: open air tango concerts in the park, tango recitals in the many ""bar notables"" (historical bars) associated with tango history, and presentations by tango academics.  
+
+Around the world there are many communities celebrating Tango Day in their own ways.  There is a [Dia del Tango festival in Sophia](http://diadeltango.com/); also many Argentina embassies around the world promote tango awareness with their local milongas.",2015-12-03 19:18:49+00:00,cxlz23o,1.0,t3_3vbcmn,410,tango
+133,"Bear in mind their ""good posture"" is mostly an apilado (lean-in) embrace which only works between two partner of compatible height.  And I'm not a fan of the ""butt-outwards"" posture, even though it was the trend in BsAs among very young ladies a few years ago.",2015-12-03 05:00:14+00:00,cxlcanr,2.0,t1_cxjrecx,104496,tango
+134,"A nice match between the height of the leader and follower allows the couple to dance easily and use minimal wasted energy; conversely a big mismatch between the height can make even the simplest form of walking challenging.
+
+Average height dancers usually just learn to do one embrace well, and frequently this is the embrace style of their teacher.  But there is a spectrum of possibilities in embrace styles in tango, including open, close, apilado, V-shape, canyengue, and liquid.
+
+Does a dancer who only know one type of embrace have difficulty dancing with partners of the wrong size?  Yes, but usually average height dancers skirt the problem, as they normally have more than enough potential partners to invite.
+
+On the other hand, if you are an outlier in the height department, your best strategy is to learn a variety of embrace, at the minimum an open, closed, and V-shape.  This will give you the greatest flexibility to invite followers regardless they are taller, shorter, or wider.
+
+A plus-size dancer also has to be aware of his techniques: it does not produce the same reaction sending a signal to a follower at shoulder level or another at waist level.
+
+In summary, size-challenged dancers need more training than average dancers, and they need to learn to be more versatile and disciplined -- the result is that they could become the finest dancers.
+  ",2015-11-30 15:37:57+00:00,cxhyohd,1.0,t3_3uqv86,73287,tango
+135,"Macri was the mayor of Buenos Aires before his presidential campaign, and running on the opposition (conservative) platform of changing the ""welfare and handouts"" policies of the ruling Peronists.  
+
+Earlier in the year the city government started clamping down on many historic tango houses (like Sin Rumbo) for irregularity in fire safety and accounting.  The unprecedented forced closures lead to tangueros [protesting in the street](http://news.xinhuanet.com/english/photo/2015-07/04/c_134381123.htm).
+
+Undoubtedly Argentina is in an economic crisis and must tighten its collective belts, but it has also always been extremely generous with its pension, healthcare, education and public services, which built the long reign of the ""Kirchner"" era.
+
+What do you think will happen in the next era of Argentina's development, with Macri in charge?  Personally I will be quite happy if the inflation and the forex black market is brought under control quickly, as these are always the issues that confuse the poor tango tourists.",2015-11-23 00:36:38+00:00,cx9lcli,1.0,t3_3tvmsx,430,tango
+136,"The question has to be answered in two ways: orchestras that play in the Golden Age style, and orchestras that have recorded in the Golden Age style. The difference is subtle but important.
+
+Orchestras that play in the Golden Age style usually do the circuit of playing live at milonga nights, whether in Buenos Aires or at international festivals.  The most frequently mentioned names include: Solo Tango (Russia), Color Tango (Argentina), Silencio (Switzerland), Sexteto Milongueros (Argentina).
+
+However the milonga configuration may be different from the full orchestra, perhaps with fewer players, or rearranged to fit the lack of certain instruments.
+
+For the second category, it is actually a common theme for orchestras to record an entire album ""in the style of"" a Golden Age master as an homage.  Los Reyes del Tango recorded albums in the D'Arienzo style, Gente de Tango recorded in DiSarli style, and Color Tango recorded in Pugliese style.
+
+So the question of comparing modern orchestras with Golden Age is complicated, because you first need to find opportunities to hear the many contemporary orchestras live -- without a recording.  
+
+For DJs, the pool of modern orchestras suitable for milongas, and with released albums, is very small, but I do use them occasionally for contrast in sound.",2015-11-22 12:43:28+00:00,cx8yc0c,1.0,t3_3tsww2,5182,tango
+137,"Dancing to live band is always an amazing experience, there is a kind of interaction between the dancers and the musicians that is probably lost in this era.  I so envy the swing and salsa scenes where live music is so readily available.",2015-11-21 10:35:07+00:00,cx7vbxf,2.0,t1_cx7o7ha,23415,tango
+138,"Most DJs aim to please the dancers, but don't have any clue from their audience, other than the number of couples dancing to each tanda.  So perhaps you can help them by sharing your concerns.  ",2015-11-21 10:31:26+00:00,cx7va8x,2.0,t1_cx6y13t,68668,tango
+139,"The results are no surprise to anyone who has been in the tango scene for a while.  Essentially Golden Age orchestras (the Big 10) dominates all DJ playlist around the world, just as it is at most Buenos Aires venues.  
+
+Brave (or foolhardy) DJs may occasionally sneak in a few lesser-known artistes or modern recordings, but the bulk of DJ skills remain just delivering ""safe"" choices --- there is a widespread fear of being rejected as a ""bad"" DJ if they played an unpopular song.
+
+My opinion, as a milonga organiser of 16 years, is that DJs should experiment more with their playlists, for the good of the genre.  
+
+For most of the world's tango community, DJs are the only channel for them to hear tango dance music.  If tango is to continue as a living art form, it needs to evolve and avoid fossilization.  DJs can do a lot more to bring to surface the lost gems of the past, and also to accomodate the up and coming contemporary musicians of this genre.  
+
+",2015-11-20 06:42:02+00:00,cx6nxlx,1.0,t3_3tcmej,117776,tango
+140,"The annual ""Dance Your PhD"" contest is now in the voting stage, so cast your vote online now at the [Sciencemag link](http://news.sciencemag.org/2015/11/it-s-dance-vote-your-dance-your-ph-d-video-winner).  If you are wondering about the Tango entry it is [here](https://twitter.com/NewsfromScience/status/665601362571485184/photo/1)",2015-11-15 07:45:07+00:00,cx0rg6s,1.0,t3_3svkdj,25,Dance
+141,"The annual ""Dance Your PhD"" contest is now in the voting stage, so cast your vote online now at the [Sciencemag link](http://news.sciencemag.org/2015/11/it-s-dance-vote-your-dance-your-ph-d-video-winner).  If you are wondering about the Tango entry it is [here](https://twitter.com/NewsfromScience/status/665601362571485184/photo/1)
+
+The annual contest has always had a great number of tango-related finalists.  Last years' videos are [here](http://gonzolabs.org/dance/2014-videos/) and [here](http://gonzolabs.org/dance/2013-videos/)
+
+",2015-11-15 03:16:48+00:00,cx0kerx,1.0,t3_3suuhq,277,tango
+142,"Why not?  Are you saying that two phone with identical capabilities, but one with 3D display and one without, you will still choose the non-3D model?  
+
+I believe most of the rejection over the HTC Evo 3D was over its poor hardware specification.  If I recall correctly the 3D display can also function in 2D mode, making it just as useful for normal non-3D applications.",2015-11-06 04:42:19+00:00,cwqbw0t,2.0,t1_cwqbpl1,354,Android
+143,"I have worked on Slim2 and Slim3 and i think this list should be tagged according, since the two have some core differences",2015-10-25 22:22:23+00:00,cwconem,1.0,t3_3p5u0c,691428,PHP
+144,"You can be a web developer at any age.  Most of the technology in play are just a few years old, so knowledge of legacy is not essential (but could be helpful, since data processing concepts are seldom completely new).  
+
+For instance, I am the same vintage as Bill Gates, began my hacking in high school during the 70s.  Our first codes written for VM/CMS (conversational monitor system), has exactly the same architecture as HTTP --- pages were fetched from the mainframes in the form of request and response; logics were written in a scripting language with its own variables and functions; the entire application is built from a series of dialogs in the thin client / fat server model.
+
+",2015-10-17 16:25:27+00:00,cw31amh,1.0,t3_3p4del,2792,webdev
+145,"The term ""milonguero-style"" is controversial as it started out as a marketing buzzword for a group of teachers (Schapira, Miller, Dante).  ""Milongueros"" as a group do not have a style --- why would they have anything in common when they emerged from different barrios (neighbourhood) and were largely self-taught.
+
+What is normally sold as ""milonguero-style"" is more properly described as ""apilado"" (leaning embrace) and ""estilo del centro"" (downtown style).  This is because milongas in city centres have small dance floors, so much of the dancing is in small rhythmic elements and stays within a tile.  
+
+The counter-example of this is the ""estilo Villa Urquiza"", in the edge of the city, where dancing occurs in huge halls, so couples lean less, and use more change of directions and dynamic expressions.",2015-10-17 11:47:24+00:00,cw2ulqi,1.0,t3_3p2h9d,33616,tango
+146,"On Linux you can use a command like 'wget' to download everything linked from a domain by spidering from front page.  But if part of your site is generated by a script then this will not work.  Normal back end flow is to FTP the source files, so you get also the files which are only read by the webserver, for instance .htaccess.",2015-10-11 09:55:27+00:00,cvvoj6a,1.0,t3_3ob7nr,6487,webdev
+147," I think if you can accomplish the score tracking by incorporating Facebook (parse services) or Android Play game services.  The bridge code will be in JS inside your HTML game, and the user probably need login and authorise your bridge app the first login, but once connected will handle all score update independently, just talking between the client and FB/google. 
+
+Sorry I can't point to samples but the functionalities are in their SDKs.",2015-10-11 09:40:22+00:00,cvvobfs,1.0,t3_3o8hlq,60122,javascript
+148,"I think 6 weeks is a good solid amount of time for a competent programmer to learn a new language.  There are also many tools and design patterns to learn, but they are separate from PHP itself, and not knowing all of them is not going to stop you from writing a basic PHP program.
+
+Wordpress is a fairly small LAMP application, based on old code that is written legacy-style, not the modern style that uses frameworks and autoloading libraries.  But this is not bad.   The code is clean and documented well, and can be walked through in less than a week.  There are no command line steps in the installation.  And the application comes in one self-contained bundle that can be easily installed on any cheap webhosting platform.  All these make Wordpress the number one blogging software.
+
+Knowledge of the trendy modern stuffs, Angular, Laravel, Cake, etc. are good for bragging rights but in the Wordpress developer context is not essential, as WP Plugins are also written legacy-style as callbacks and hooks.
+
+If you limit yourself to just learning PHP syntax and OOP, WP basic blogging, custom types/fields/taxonomy, plugin architecture, XMLRPC apis, and one front end technology like Bootstrap, you should be able to be productive developer in 6 weeks.",2015-10-10 23:50:55+00:00,cvva2jz,1.0,t3_3o3ur4,118848,PHP
+149,"Hi I am probably not qualified to give advice, as I am just this year getting into frameworks, but I have coded two projects in Laravel and one in Slim, so I have a bit of experience to share.
+
+I want to say that a framework is often confused with a library, but there is a fundamental difference.  A framework is the ""master"" while libraries are ""minions"".  In other words, the flow of control is inverted in a framework.
+
+In the frameworks I have used, you configure the Routing (map a URL path to a function call), and then pass control to the framework.  
+
+- After the framework sorted out the protocol parts (session, security, HTTP action verbs etc), it will make a call into your functions.   Some frameworks can be made to Autoload codes on demand, so you only use what you need for a specific routed call.
+
+- At the end of the page-specific function, you return the values to the framework.  The framework will complete the rest of the page, including protocol, tagging the cache, redirecting, whatever.
+
+By using a framework like Laravel or Slim, I reduce the codes I need to write to a bare minimum.
+
+The caveat is that the framework is like a blackbox, with a lot of the complexity happening ""by magic"".  Poorly documented frameworks make debugging hell.",2015-10-10 23:31:26+00:00,cvv9g7d,1.0,t3_3o58pf,96130,PHP
+150,"It's ok, I deserve to be chided for not keeping up with the trends, as I left university 30 years ago, and my first program was written on punch cards in Fortran.  But the people who taught me made the moon landing happen so they are smart.",2015-10-10 23:11:41+00:00,cvv8ssa,3.0,t1_cvurm0d,33002,PHP
+151,Your book seems very practical for someone rewriting legacy code to use modern paradigms.  Kudos.,2015-10-10 22:33:39+00:00,cvv7l7y,2.0,t1_cvv6kbz,1889,PHP
+152,Exactly this.  But it is still fascinating insights into the theories and strategies of the PUA.  People in sales and negotiation also often strive to understand the secrets of cold reading and subtle manipulation.,2015-10-10 22:24:56+00:00,cvv7b4p,2.0,t1_cvuvkr1,21619,TrueReddit
+153,OMG this comic hits it right on the head,2015-10-10 22:16:01+00:00,cvv70om,2.0,t1_cvtuf7b,106877,PHP
+154,"I second Mustache, but I also want to recommend Twig (a Symphony component).  Twig can be installed standalone without Symphony, and it is essentially an object-oriented way to template --- blocks defined in parent template, can be selectively overridden by blocks of same name in the child templates.  This makes it easy to join many application-specific pages to the same underlying layout.",2015-10-10 22:11:46+00:00,cvv6vky,2.0,t1_cvu1yjo,95378,PHP
+155,"I love Bootstrap too, it is a good scaffolding for quick website layouts and takes away the pain of fighting with browsers. ",2015-10-10 22:08:08+00:00,cvv6r9m,2.0,t1_cvuia7i,64445,PHP
+156,"I went through the same frustration as you this whole year, basically having to re-educate myself eveything that has been added to the PHP workflow in the past few years.  There are soooo many concepts and tools to learn!  And for every problem area, there are dozens of alternatives to choose from.   The backend is a cakewalk in comparison with the jungle that is the front end.
+
+Basically I think in a production environment, you just have to choose a toolchain and live within it for better or worse, as long as the architecture is sound.  That for me means, separating the M V C functions into directories and reducing bottlenecks of testing.  Adopt a modern workflow automation toolchain, e.g. version controls, continuous unit testing, self-documentation, etc.  All of these were new concepts to me last year, but now they are my essentials.",2015-10-10 22:04:57+00:00,cvv6nhr,1.0,t3_3o39c8,123305,PHP
+157,"Maybe I can give an example:
+
+- Version 1)  ""composer"" - https://getcomposer.org/ - Dependency Manager for PHP
+
+- Version 2) ""composer"" - Command to automate the resolution of library dependency within a PHP application.  Missing libraries are automatically fetched from Packagists. (Website: xxx and xxx)
+
+- Version 3) ""composer"" - ""A command line application (written in PHP) that manages the dependency of PHP library packages.  It works with the Packagist depository to automatically resolve dependency, fetch the sources, install them into the correct directory, and updates the Autoloading configuration files. Each application gets its own package directory, so it is possible for each application to use different versions of libraries.  If a library is not registered on Packagist, see PSRx for ways to link them into the application.  (Website: xxx, Documentation: xxxx, Tutorial: xxxx)
+
+I am looking for Version 3.  The essentials in a few paragraph.",2015-10-10 21:46:24+00:00,cvv61zw,6.0,t1_cvv4t4g,2359,PHP
+158,"Thanks, I am one of the dinosaurs who got pushed into the deep end as PHP moves from v3 to v7.  Initially we just ignore new features as legacy codes (and coding styles) still work, but as we start to incorporate libraries for database, session management, cache etc we had no choice but to modernize.
+
+I like your one-line summary of each term.  In my study notes I try to put A-Z word glossary, for each word the one-line summaries, followed by 2- to 3- paragraph elaboration of the essential idea, and then links to the deep stuffs.    
+
+If no TLDR resource exists online, I will share my Wiki later.",2015-10-10 21:23:03+00:00,cvv5b72,2.0,t1_cvuo66e,39036,PHP
+159,"Actually I said ""I'm asking if there is a dictionary or glossary for quick lookups"" but I do appreciate the extra education.",2015-10-10 21:14:14+00:00,cvv51b9,2.0,t1_cvv1494,7197,PHP
+160,"The links given are addresses of sites which I have already visited and used --- I am using Composer to install libraries and I am looking up packages on Packagists.  I even read all the PSRs on PHP-FIG.  
+
+This process took me a month of reading, googling, testing codes, debugging.  So I won't say it is TLDR. But thanks guys all the same.",2015-10-10 21:05:00+00:00,cvv4qrv,4.0,t1_cvuxxvv,12502,PHP
+161,"Absolutely.  Also an online glossary that is updated quickly is even better than any book, since I keep seeing new tools becoming part of the work flow before any book can be written about them. ",2015-10-10 20:57:06+00:00,cvv4hc5,5.0,t1_cvv28f4,4129,PHP
+162,"Yes I could probably just hang around the subreddit for a few months and sip off the stream.  Problem is I am working on several big projects right now, and I could really use a cheatsheet just to help with daily refactoring.",2015-10-10 20:41:09+00:00,cvv3yix,2.0,t1_cvuynhu,9780,PHP
+163,"Yes I may try that later.  I'm actually putting my own study notes into a Wiki right now, but I thought I should first check if this type of documentation already existed within the collective minds of PHP modernizers. And thanks for giving a clear and direct answer.",2015-10-10 20:36:04+00:00,cvv3sfs,2.0,t1_cvuunzg,16828,PHP
+164,"I am basically in your shoes, trying to apply ""modern"" PHP concepts to solve problems.  Allow me to give you my interpretation.  
+
+A web program that applies OOP achieves two benefits: information hiding and abstraction.
+
+- Information hiding is to remove from view everything not in current use.  
+
+A local variable, class methods, class private functions, namespaces etc. all help to limit the scope of our functions, and keep globals quarantined.  Globals are always dangerous in a web environment because that is how saboteurs try to break our apps.
+
+- Information abstraction is to operate on a nebulous concept directly.
+
+OOP allows you to make assign variables to types like ""stack"", a ""tree"", a ""projectdate"".  The complexity of implementation is pushed into the classes, and we can just import a library and be done.
+
+All programming is a tradeoff between coding complexity and runtime complexity.  OOP increases the latter slightly, but reduces the former and makes it easier to read and maintain old codes.",2015-10-10 19:45:11+00:00,cvv24q9,1.0,t3_3mg4pd,1245555,PHP
+165,"Yes indeed programming is a hobby for some people, and just a paycheck for most others, especially if you are at the family-building stage.  It is simply near impossible to do all the reading necessary to keep up.",2015-10-10 15:53:17+00:00,cvuuljk,3.0,t1_cvup6xu,14481,PHP
+166,"Been there, done that, not TLDR.",2015-10-10 15:46:43+00:00,cvuuegp,2.0,t1_cvun78q,23793,PHP
+167,"Yes I am framing the whole question in the PHP context because the buzzwords come up frequently in posts and Github projects, and apparently everyone understood -- except poor me, 10 years of PHP programming later, and just hearing the term ""Inversion of Control"" for the first time a few months ago.   So yes, I am catching up both the PHP5/6/7 features, and modern concepts introduced in frameworks like Laravel and Symphony.",2015-10-10 15:45:53+00:00,cvuudl7,2.0,t1_cvuno34,21381,PHP
+168,"Thanks, there seems to be a lot to go through there, but just skimming the titles they seem very relevant.",2015-10-10 15:41:09+00:00,cvuu8o6,2.0,t1_cvuobso,17735,PHP
+169,"That was the first book I read, but it is not complete in itself, merely pointers to even more documents to be digested.  ",2015-10-10 15:25:36+00:00,cvutse5,2.0,t1_cvunchr,21807,PHP
+170,"Currently there are a dozen tango videos blogs/sites that provide curated lists of Youtube tango performance, categorised by names of dancers (and/or) name of events.  Unfortunately none of these offer the names of the orchestra or even the song.
+
+Why is this?  Because the ability to identify a piece of music, and trace that back to a song name and an orchestra, is a Super Power limited to only the very experienced DJs.  
+
+The repertoire of frequently-heard tango music might not be huge, but it is still formidable (tango.info has 82,000 tracks in its comprehensive database, an average working DJ might have 4,000 tracks on demand).  Instrumentals are especially difficult to identify if no lyrics are available to help narrow down the song search.
+ ",2015-10-01 09:58:19+00:00,cvkca6r,1.0,t3_3n1tl8,27955,tango
+171,"[Another field report from Elizabeth Wartluft](http://www.elizabethwartlufttango.com/blog/2015/9/24/notes-from-gustavo-and-giselle-annes-portland-workshop).
+
+I love to read these kinds of reports, written by experienced dance teachers, who analyse what they were able to learn from another master teacher. ",2015-09-29 00:39:19+00:00,cvhjkkj,1.0,t3_3kiy3z,1520080,tango
+172,"There is a lot of similarity between the history of Tango and history of Jazz.  Both grew up in the environment of big band, ballroom cuture, and social dancing as a pastime for the masses.
+
+Dizzy Gillespie is another Jazz maestro who recorded with Osvaldo Fresedo's orchestras in the 1950s: [youtube](https://www.youtube.com/results?search_query=dizzy+fresedo)
+
+Astor Piazzolla's inspiration to revolutionize tango music was also largely a result of his exposure to Jazz while growing up in New York City.  [wikipedia](https://en.wikipedia.org/wiki/Astor_Piazzolla)",2015-09-28 07:26:38+00:00,cvgogny,1.0,t3_3mkg9t,71650,tango
+173,"Acually there are numerous workshops taught under titles like ""How to decorate to DiSari"" or ""Syncopations with D'Arienzo"", but usually you would only get them in festivals, as these tend to attract experienced dancers.
+
+Why do we care about orchestras?  The short answer is that the big orchestras of tango have strong musical personalities, not unlike how a big director (Hitchcock, Bay, Cameron, Tarantino) is able to stamp his signature onto his films.  
+
+Compare a popular song like La Cumparsita, recorded at least once by every orchestra, and yet it feels completely different between the 20s (Firpo), 40s (D'Arienzo), and 70s (Sexteto Mayor) orchestras.   Or Por Una Cabeza, as recorded on strings (Tango Projects for Scent of a Woman in 80s) and the original version on guitar and vocals by Carlos Gardel in 30s.
+
+A dancer (and a DJ, for the same reason) does not care about the song as much as its interpretation style --- rhythmic, layered, smooth, dramatic, legato or staccato.  And within all versions of that style he may have a favourite interpreter that he likes best because of how he was able to apply his dancing, because it was a hit with the ladies, or because he knows every note of that version of song.
+
+Do I have favourite orchestras?  Yes.  But I don't feel the need to share this information with others.  A musical taste is a very personal thing and only you (together with your history and personality) will know what you like, and there is no need to follow the crowd.
+
+",2015-09-26 01:23:41+00:00,cveedkr,1.0,t3_3mdz6m,13554,tango
+174,"In Latin culture, the 15th birthday of a girl marks her transition into a young adult, and this is called ""Quinceañera"" or the ""Fiesta de Quince Años"".  By tradition a party is thrown for the debutante, and she will begin the dance with one valz with her father. ",2015-09-24 12:35:47+00:00,cvch1oc,1.0,t3_3m6wlf,453,tango
+175,"2015 Nominees for ""Best Tango Album""
+
+- ""Anibal Troilo 100 Años"" Ariel Ardit (Alfiz)
+
+- ""Piazzolla: Desde Estudios A Tangos"" Octavio Brunetti &amp; Elmira Darvarova (Urlicht)
+
+- ""Homenaje A Astor Piazzolla"" Orquesta del Tango de Buenos Aires (Epsa)
+
+- ""Bogota - Buenos Aires"" Quinteto Leopoldo Federico (Hoot/Wisdom)
+
+- ""Historia del Tango History of Tango"" Berta Rojas &amp; Camerata Bariloche (Onmusic)
+
+- ""Troilo 100 Años"" Seleccion Nacional de Tango (Epsa) 
+
+The winners will be announced on November 19.",2015-09-23 10:10:28+00:00,cvb6zuv,1.0,t3_3m1rx5,210,tango
+176,"I do most of my listening at /r/tango, which means everything was recorded '30s to '60s (during the ""Golden Age"" of tango).  Somehow even when the new bands try to rerecord the same compositions they just could not recreate the same feel -- the old musicians just play their instruments better.",2015-09-20 00:38:04+00:00,cv7ftpq,1.0,t3_3lls5v,11438,DoesAnybodyElse
+177,"| There's always competition to dance with the people that everyone wants to dance with.  Isn't that enough to motivate people? I felt it pretty intensely --   doesn't everybody? 
+
+Actually no.  The competition you're referring is more of human dynamics; the competition I was referring is more of dance skill.
+
+A beginner may confuse the two and think one implies the other, but an experienced dancer knows better.  There is actually no direct correlation --- with some fantastic dancers you may never click, with others the interaction is delightful even if they are just average dancers.
+
+Also, a teacher can coach you in dance skills, but he cannot help you much in human dynamics.  
+
+In my circle I see many people with excellent dance skills and dancing more than 10 years, dropping out of the tango one by one, solely because of human problem: perhaps fewer ask them to dance, since they are not the young and pretty ones anymore; they had some relationship issues with another dancer; their friends are not coming and they don't want to go alone.
+
+| what is visible to people watching in a crowd is a pretty distant second to what's happening in the embrace.
+
+Again this is a kind of myopia that holds tango back.  To grow the tango scene we need to attract new people, to attract we must command their attention.  That attention cannot happen if everything in tango is introspective and hidden from view.
+
+How do the neophytes know a dancer is good?  Because we tell them they are the best we have.  But do we know what is best?  That is why we need to have proper assessement, like how wines are graded by ""experts"" and eventually we all agree on which goes on the top shelf.",2015-09-18 21:44:04+00:00,cv6c0rc,3.0,t1_cv63vgb,13053,tango
+178,"Pretty quickly from what I could observe.  There was a Zumba class in the next adjacent studio where we conduct our Tango lesson.  I was amazed at how much more the attendence -- we had 10 people, they had 50 squeezed into the same dimension;  the high energy music was also much louder than ours.  About half were there first time and they seem to enjoy themselves.
+
+I believe Zumba is essentially a kind of trademarked ""line dancing"" done to Latin music (they have their own CDs), invented to sell  aerobics workouts and trainer certification.  It seems to attract mostly women but also all ages from children to matrons.  Many fitness instructors I know had to get certified because it was the fastest growing activity past few years.
+
+I suspect the appeal of Zumba at the beginning is: no need to partner up, no hard technique to master, and gets non-dancers started in this type of movement.   The blending of dancing and fitness means it is offered in gyms instead of dance studios, and there many more of the former in any big city.
+
+I am of the opinion that Zumba is something like a gateway drug for the non-dancing public to experience what dancing feels like, and to hear the type of music that are not playing regularly on the radio.  Once that bridge is crossed, it could be a lot easier for them to explore actual genres of Latin dances.
+  ",2015-09-18 21:29:25+00:00,cv6bims,2.0,t1_cv69bf8,3644,tango
+179,"Like the author of the linked article, I picked up dancing via the ballroom world, so I saw first hand how an institutionalized focus on competitions can distract people from the simple joy of dancing.
+
+So I went into Tango to escape from competitions.  Tango would be a Zen experience, providing only inner dialog and enjoyment.
+
+Nevertheless in the past few years I have actually turned around in that opinion.  Competition is not inherently a bad influence; in fact it can become a positive force if used correctly..
+
+First, dancers need some kind of path to grow along.  Any activity that you do for more than five years, you have an expectation of improvement and achievement.
+
+Second, as long as competition celebrates diversity and not uniformity, it can still drive creativity.  A beauty contest with only one standard --- a skinny tall blond --- reinforces one type of perfection.  A beauty contest celebrating all female types can raise the confidence of all women.
+
+Third, people outside Tango frequently only pay attention to the best in this genre.  They want to be impressed when they see a world class tango dancer in action.   This is good for the growth of the dance.  Almost everyone I know started to learn tango only because they saw one dance demonstration that really impressed them.
+
+So perhaps they are not opposites.  We just need to figure out how to make them work together for common good.",2015-09-18 00:47:59+00:00,cv5ccmn,1.0,t3_3l4e7q,167384,tango
+180,"There may be a maté drink on the piano, but how can you tell he is playing a tango?",2015-09-16 01:35:25+00:00,cv31mda,1.0,t3_3l45bv,1588,tango
+181,"The [documentary](http://www.imdb.com/title/tt4559414/), written and directed by Kordula Hildebrandt, is ""A sensual-documentary journey through the Berlin Tango Argentino scene - the largest outside of Argentina and the area along the Rio de la Plata. We visit the stars and makers who have shaped the tango for decades and led to worldwide recognition. A feature-length documentary about elegance, passion, dedication and the insatiable desire for grace and Latin American partner dance."" 
+
+",2015-09-14 12:47:32+00:00,cv12nms,1.0,t3_3kwjij,167,tango
+182,"I attended Gustavo's classes in Buenos Aires and I believe his strongest attribute is that he teach from a ""thinking man's perspective"", meaning he focus on explaining the idea behind a concept.
+
+This works well for people who are already teaching tango, as it helps them to do the same to their classes.   This intellectual approach may not work for more beginner level dancers, who often expect more definite guidance.
+
+I hope one day Gustavo will actually write a book to explain his ideas more completely.",2015-09-14 00:51:16+00:00,cv0n5hr,2.0,t1_cv085rw,24196,tango
+183,"The version from [Forever Tango](https://www.youtube.com/watch?v=fhfxR1CWgdM) is not going to work for DJs, but it is frequently used by stage performers, because of the dramatic constrast between the slow and romantic first part and the frantic second part.",2015-09-14 00:40:55+00:00,cv0mt7i,2.0,t1_cv0d08m,16441,tango
+184,"It is actually a lot like how being an ""artist' in modern society frequently means a ""dreamer"", and a ""musician"" is code for being a ""bum"".  
+
+Young people often are reckless and impulsive, so they may drop out of college to join a band and live the rock-n-roll life -- then after a few years they realise they probably won't make it big, and the lifestyle is decadent and really there is no pot of gold at the end of the rainbow.  Then they return to Real Life.
+
+I have observed that Tango inspires in older people the same kind of fever.  I have seen people give up good careers to live the milonguero life, to try to dance for living, to write books and make films.  I have seen retirees move to Buenos Aires permanently.
+
+For older people with some financial reserves, there is no urgent need to wake up from the dream.  But if you are mid-career and invested your best years on building a life on tango, you hope it will at least lead to something sustainable.
+
+I am not entirely pessimistic, but I think the solution requires expanding the tango fan base from tens of thousands to tens of millions (1000x increase).  Only then will this provide a sufficient market base to teachers, musicians, producers and merchandizers. 
+
+As we learn from the concept of [""Long tail""](http://www.longtail.com/about.html), even a very niched market (like Pez dispensers, old Superman comics etc) can be a lucrative market, if there are enough consumers.
+",2015-09-14 00:32:32+00:00,cv0mjeo,2.0,t1_cv09204,21761,tango
+185,"Carolyn Merritt (author of the book Tango Nuevo) attends Gustavo Naveira's seminars in the 2015 Philadelphia Tango Festival, and wrote this report.  She breaks down in detail what happen during the class, what kind of concepts were explained, and fills in some background of Naveira's reputation.
+
+*(The website ""Thinking Dance"" mainly publishes thought-provoking articles on dance in the Philadelphia area.  It is currently on its [crowdfunding drive](http://www.hatchfund.org/project/thinkingdance_growing_into_2016) -- support them if you like to read more of this type of reporting.)*
+",2015-09-11 10:31:51+00:00,cuxrqrq,1.0,t3_3kiy3z,432,tango
+186,"We appreciate your contribution to /r/tango. But your submission did not meet our editorial standard.
+
+The link points to the front page of the domain and not the information page that is relevant to the question in the title. This is considered link-baiting.
+
+You may resubmit again if you improve the submission, you can submit a text post and link the information in there as the body of the text.",2015-09-11 10:13:02+00:00,cuxrgtw,1.0,t3_3kibeb,15731,tango
+187,"First of all, a big kudos to you for commencing a most challenging journey!  
+
+If you have a positive attitude, the right combination of teachers, role model, and listening/practica environment, you should be able to attain a transformation into a fully functioning social dancer --- defined as confidence, mind-body connection, musicality, and smoothness in movement --- within the first two years.  
+
+Notice there is a big ""if"" in that paragraph.  Most people living outside Buenos Aires and big tango cities do not have all the right conditions!  Yes it can then take quite a bit longer, but still I would say 4-5 years is enough for most serious learners.
+
+The transition point to a good functioning leader, is not really based on how many steps you can do, but mostly on how well you can walk to music using fundamental steps.  
+
+A good leader with strong technique should be able to lead any follower of any skill level without coercion or force.  
+
+- Imagine how you may accompany a frail grandmother or a child to cross the road --- common sense will guide you to walk very slowly, carefully, and match every steps to theirs, but do not drag or push.  
+
+- You must leave the actual walking to them.  This can be summed up in Gavito's quote: I lead and I follow.  This means I lead (the action), and then follow (the reaction).  
+
+- Most beginners guide the body but forget to guide the feet first.  The result is liking tipping the follower.   A good leader makes use of upward and downward energy to talk to the free legs. 
+",2015-09-10 23:27:32+00:00,cuxbjlu,1.0,t3_3kghp7,8366,tango
+188,"There are many good documentaries on Tango but the one I like better are the early ones (pre-Youtube and Facebook), as they contain interviews with the old milongueros and first generation masters while still alive and able to dance in good health:
+
+- 1993 [National Geographic Channel special](https://www.youtube.com/watch?v=7dNgc3w1CQQ)
+
+- 1988 Tango Our Dance ""Tango Baile Nuestro"" by Jorge Zanada
+ [Part 1](https://www.youtube.com/watch?v=n5OL1wnhHjE) and [Part 2](https://www.youtube.com/watch?v=4KIH6KiyME0)
+
+After Sally Potter's ""The Tango Lesson"" (a musical drama) in 1997 there was a big revival of interest, and also a big surge of tourism to Argentina -- but by then many of first generation milongueros and teachers are dying off.",2015-09-09 00:33:43+00:00,cuv22cq,1.0,t3_3k5rmi,3455,tango
+189,"Yes this is a great topic to analyse deeply, and I love that you are coming from the animation angle.  As a dance teacher I don't only let my imagination drive the dance, there are also physical considerations like: what is physically possible, how much fatigue is generated, the need to change pace between explosive and slow energy etc.  Can't wait to read more. ",2015-09-03 00:03:36+00:00,cuoqqqc,1.0,t3_3ihjhz,630269,Dance
+190,"From year 4 to year 10 tango becomes less about learning the skills associated with the genre, and more about finding a role for yourself in it.
+
+- Some dancers set their goal to enter the Mundial Championship, they want to share the arena with the most driven dancers in the world.  They measure their success by their ladder position in competition.
+
+- Some dancers become community builders, organizing milongas and festivals, and working on DJ crafts.  They measure their success in terms of community growth and social engagement.
+
+- Some dancers turn into teachers and build their own following of learners.  Their success is both in terms of their competence to teach well, and how their students develop.
+
+- Some dancers just aim to have a good time, in terms of getting good tandas at milongas and festivals.  They build a strategy around maximizing the encounter of tango partners.  They may even migrate to Buenos Aires.
+
+- Another group of dancers want to create.  Choreographies, concerts, theatre, film.  They have stories to tell and they want to use tango as the medium.
+
+Personally I know individuals who examplify each one of these categories.   
+
+So in this discussion I also hope to get comments from these Tango Journeymen, to hear their goals and plans and strategies to achieve them.
+ ",2015-09-02 09:37:51+00:00,cunz8c3,4.0,t1_cunkgkt,37318,tango
+191,"One metaphor I used to hear from my teachers was that tango is a kind of chess game with your partner, and always the man is creating an attack from the neutral, and the woman resolving and bringing back to the neutral.  
+
+And like chess, half the fun is in studying ""what if"", and breaking the normal pattern of play.  It can be very humbling when you dance with a worthy partner, and feel the excitement of brawn and brain firing at the same time.",2015-09-02 09:24:21+00:00,cunz267,2.0,t1_cumwy6r,77728,tango
+192,"Maybe no relief for you, but some tangueros believe experiencing relationship trauma (lost love, divorce, near-death etc) is a necessary condition to develop deep understanding of tango (not the dance, but the feelings and philosophy).",2015-09-02 09:13:03+00:00,cunywu2,2.0,t1_cunej30,45769,tango
+193,"If you don't experience the rivalry and scarcity then you must either be extremely lucky or oblivious.  Probably you are with the right group of friends.
+
+The number one reason for doing tango, for a man, is almost always to win over women that they have yet to meet.  A healthy community should enable a constant flux of new, repeat and visiting partners over a few big nexus of interaction, the anchor milongas.  But the reality for most tangueros around the world is the opposite:  small dancer numbers, static or low rate of circulation, too many organisers chasing too few consumers, lack of cooperation between organisers creating factions.
+
+As for the bad information flow, ask yourself what a learned tangueros should know in addition to good movement and musicality --- the history, the artistes, different styles and schools of tango, the major acclaimed creative productions, the geography of tango, non-Argentina tango culture, etc --- ask how many tango teachers are able to teach any of this.  
+
+Of course you could learn all these by talking to people and travelling a lot, but then what you discover would also be different from every other person. The absence of ""common knowledge"" in my opinion is how rivalry is seeded.  Every argument begins with ""that's not real tango"" and ""they do it like this in Buenos Aires"" when it was all hearsay.
+
+",2015-09-02 02:18:00+00:00,cunpxn2,2.0,t1_cunjj8q,12738,tango
+194,"Of course, tango is the eternal search for the perfect dance connection.  That is after all the first catchphrase we learnt in our dance lessons.  But can this feeling be defined as success?  
+
+- If you scored an A in school, you studied hard and smart.
+
+- If you strike the lottery, you are lucky.
+
+Most of the time, the perfect connection is like lottery :  you are in the right place with the right person at the right moment.
+
+Success (of the type that derives from a course of intelligent action) in this case means working diligently on your skill, taking chances with new partners, and maximising your exposure to every dance opportunity.  
+
+Just my two cents.
+",2015-09-01 08:44:39+00:00,cumu7oc,2.0,t1_cumtrog,2011,tango
+195,Ha ha .. In my defence I only read the book because it was highly recommended to me as good for sales training.  Like learning to read your target's body language and catching their attention.,2015-09-01 06:44:48+00:00,cumscyc,6.0,t1_cums1k1,1004,tango
+196,"Join the club!  Another leader who puts himself through tribulation and hardship ... just to win a fair maiden's smile.  
+
+Who says chivalry is dead?",2015-09-01 06:39:27+00:00,cums9e3,2.0,t1_cumryqb,919,tango
+197,"Sorry if I was not clear. ""Game"" is basically everything a man does to catch attention and win interest of a woman (from the book ""The Game"" by Neil Strauss and also the common terminology of subreddits like /r/seduction).
+
+I understand the struggle of dancers trying to climb the totem pole (the eternal dream of getting ""better"") by measuring how many dances they got. 
+We've all been there... done that.  And lived to tell.  
+
+I would dispute whether there is a direct correlation, as long as your skill is not so awful bad that it causes discomfort to the ladies.
+
+",2015-09-01 06:25:08+00:00,cumrzfl,4.0,t1_cumrijc,1407,tango
+198,"By year 4, you should have a good mastery of your body and a reasonably fine musicality.  Getting dance regularly is therefore more likely to do with your ""game"" and less with your skill.
+
+Unfortunately gamesmanship is not taught; it can only be developed in the trenches!    So many dancers bow out of the scene over the frustration of the power play...  a good supportive dance circle is absolutely essential to keep dancers in the community.",2015-09-01 04:52:42+00:00,cumpyhe,2.0,t1_cumo2t9,4000,tango
+199,"Good for you!  The first two years are truly the honeymoon period for learners -- every class is discovery, every milonga      is a chance to embrace a new person, and adventure lies around the corner in each festival.  
+
+The perspective of someone with more than 4 years could be quite different ... Let's hear them! ",2015-09-01 02:52:14+00:00,cummaun,2.0,t1_cuml6zg,1859,tango
+200,"This video is not the [actual music video by Mauro Caizza](https://www.youtube.com/watch?v=yUdzYaUkXhE) which has an Argentine Tango soundtrack (Zum by Forever Tango).
+
+The moderators will let this stay for now, but we are generally against any blatant ripoff of original videos like this.  Next time this happens it will be removed and banned.",2015-08-31 11:44:25+00:00,culpszt,1.0,t3_3j2kqt,2786,tango
+201,"There are already several uploaded onto Youtube and Facebook within hours.  
+
+If you cannot find them, go to http://airesdemilonga.com which had its own recording team inside Luna Park:
+
+* [the final rounds of Stage and Floor tangos](http://airesdemilonga.com/en/more-videos-tango/tango-championship/825-finales-pista-y-escenario-mundial-de-tango-2015)
+",2015-08-30 00:02:41+00:00,cuk87bg,2.0,t1_cujzsiw,16126,tango
+202,"Fifty two couples entered classification, and 19 will move on to finals.
+
+Current last 19:
+
+* 1 EZEQUIEL JESUS LOPEZ ‐  CAMILA ALEGRE Argentina
+* 2 JUAN PABLO BULICH ‐  ROCIO GARCIA LIENDO Argentina 
+* 3 FEDERICO IBAÑEZ ‐ NURIA  LAZO Argentina 
+* 4 HUGO MASTROLORENZO ‐  DAIANA PUJOL Argentina
+* 5 DMITRY VASIN ‐ ESMER  OMEROVA Russia
+* 6 SIMONE FACCHINI ‐ GIOIA  ABBALLE Italy
+* 7 KUZNETCOV DIMITRI ‐  NIKOLAEVA OLGA Russia
+* 8 CRISTIAN CORREA ‐ LEAH  BARSKY Argentina
+* 9 DMITRII ASTAFIEV ‐ TAISIIA  FINENKOVA Russia
+* 10 NICOLAS TOBARES ‐  ROSALÍA ALVAREZ Argentina
+* 11 MAKSIM GERASIMOV ‐  MARIIA MARINOVA Russia
+* 12 STANISLAV FURSOV ‐  EKATERINA SIMONOVA Russia
+* 13 EXEQUIEL RELMUAN ‐  BARBARA FERREYRA Argentina
+* 14 CRISTIAN PALOMO ‐  MELISA SACCHI Argentina
+* 15 GONZALO IVÁN ROMERO ‐  PAULA AYELÉN ALVAREZ  MIÑO Argentina
+* 16 JOSE MARTIN LUGONES ‐  SABRINA NOELIA  NOGUEIRA Argentina 
+* 17 RUBEN MARTIN  BARBADORI ‐ DEBORA  MARIA AGUDO Argentina
+* 18 JHON ALEXANDER  MONCADA ROJAS ‐ MARIA  ALEJANDRA SANCHEZ  MONCAYO Colombia 
+* 19 SERGEY KURKATOV ‐ IULIIA  BURENICHEVA Russia 
+
+This is the year that Russia dominates the foreign invasion!  What's happening over there to build such an explosion of interest?",2015-08-27 00:20:29+00:00,cugwv6o,1.0,t3_3ij98m,492,tango
+203,"Front page of festival is:
+
+http://festivales.buenosaires.gob.ar/es/home
+
+The webcast appears as a pop-up window.
+
+[screenshot](http://i.imgur.com/hBlarCk.png)
+",2015-08-27 00:00:29+00:00,cugw77s,1.0,t3_3ij72j,300,tango
+204,"The Tango de Pista category of the Mundial represents the pinnacle of the salon tango world, and it is the dream of every serious dancer to stand on the floor of the grand competition at least once.
+
+This year a record more than 700 couples tested for the classification rounds last week (only 108 passed to semifinals).
+
+The 38 highest scoring semifinalists enter the final round (Wed 26/aug), plus the two champions representing the City of Buenos Aires (chosen a few months earlier), for a 40-couples final.
+
+The 38 semifinalists:
+
+* 1 JONATHAN SAAVEDRA  CLARISA ARAGÓN Argentina
+* 2 MAKSIM GERASIMOV  MARIIA MARINOVA Russia
+* 3 DIEGO LUCIANO CHANDIA  NADIA NOEMI IBAÑEZ Argentina
+* 4 CRISTIAN PALOMO MELISA  SACCHI Argentina
+* 5 VICTOR HO JONG CHO  ADELINA YOON WOO KIM Korea
+* 6 ALEXANDER SOSSA  BENITEZ ANEL MARRON  CAÑAS Colombia
+* 7 KIRILL PARSHAKOV ANNA  GUDYNO Russia
+* 8 BRENNO MARQUES LUCAS  EVA MARÍA ICIKSON Argentina
+* 9 SERGEY KURKATOV IULIIA  BURENICHEVA Russia
+* 10 FERROL MATTHEW  POLUAN MULIANY RAMBE Indonesia
+* 11 LUCAS GAUTO DANA  ZAMPIERI Argentina
+* 12 278 DANTE ABEL CULCUY  MIRIAM JUDITH ORCUTT Argentina
+* 13 DIEGO ALEJANDRO QUISPE  MARINA ALCALDE SAINZ Argentina
+* 14 PABLO SEBASTIÁN  ZANCHEZ MALVINA GILI Argentina 
+* 15 ALEJANDRO BERON  VERÓNICA ELENA VAZQUEZ Argentina
+* 16 LEANDRO OCTAVIO  FERNANDEZ CORINA  HERRERA Argentina
+* 17 LUIS ALBERTO BERNICH  MARGARITA INÉS SAVIO Argentina
+* 18 RAÚL FERNANDO CHOQUE  LAURA JULIETA QüESTA Argentina
+* 19 GENNYSAM DELOS REYES  ALCANTARA LILY TAN Singapore
+* 20 DIEGO BENITEZ ROCIO  VARGAS Argentina 
+* 21 ARIEL EDUARDO  TARITOLAY CARLA  FRANCISCA ALVAREZ  TORRES Argentina 
+* 22 DMITRII ASTAFIEV TAISIIA  FINENKOVA Russia
+* 23 STANISLAV FURSOV  EKATERINA SIMONOVA Russia
+* 24 GERMÁN BALLEJO  MAGDALENA GUTIERREZ Argentina
+* 25 DIEGO AMADO ISABELLA  FUSI Italy
+* 26 FRANK OBREGON JENNY  GIL Venezuela 
+* 27 ARIEL MANZANARES  ANTONELLA SARAGÓ Argentina
+* 28 EXEQUIEL RELMUAN  BARBARA FERREYRA Argentina
+* 29 CRISTIAN CORREA LEAH  BARSKY Argentina
+* 30 LUIS ROMERO ANA CLARA  MIGONI Argentina 
+* 31 ELISEO MORELLI SILVIA  LUCCI Argentina 
+* 32 JOHN ALEXANDER  MONCADA ROJAS MARIA  ALEJANDRA SANCHEZ  MONCAYO Colombia 
+* 33 EVANGELOS  CHATZOPOULOS  MARIANNA KOUTANTOU Greece
+* 34 MIGUEL ANGEL QUINTERO  LUCIANA YANEL PEDRAZA Argentina
+* 35 CHRISTIAN RUBEN VIDELA  PAOLA GERACE Argentina
+* 36 MAICOL MIRA MAIKO AOKI Japan
+* 37 JHONATAN GARCIA LUISA  CALLE Colombia
+* 38 MATIAS BATISTA ALEMAN SILVANA PRIETO Argentina
+
+The two earlier champions are:
+
+* 1 MARIA LAURA SASTRIA y CARLOS ESTIGARRIBIA (adult) 
+* 2 Marcela Mónica Monzón y Jorge Edgardo Balatti (senior)
+
+Well my money is on Carlos and Maria because they were triple winners (tango, milonga and vals) of the city championship, a supreme achievement ... but a dark horse may still emerge in the next 24 hours.
+
+",2015-08-26 00:44:44+00:00,cufqe8v,1.0,t3_3iejbi,1571,tango
+205,[Feature article](http://www.golf.se/folja/nytt-fran-golfsverige/2012/2/osterlen-satsar-pa-golf-med-tango/) on Rebecca and her ex-partner. ,2015-08-23 15:06:15+00:00,cucue4v,1.0,t3_3i32re,122,tango
+206,"Yes I agree the word milonga exists in older lyrics, and Janis' article also raised this point as well.
+
+In her blog she was curious why the word milonga did not appear in any of the ads for live orchestra entertainment in the 1943 newspaper -- it was usually a venue, a band name, and sometimes the word ""baile"" (dance).
+
+She mentioned several reasons: Peron's government, the popular meaning of milonguear as going out to dance, and some rivalry between leaders and live singers in winning ""ladies' attention"". Then she mentioned the 1948 date when confiteria bailable (teahouse with dance floors) began to promote their milongas.
+
+I'm still awaiting a historian to give an authoritative analysis :)
+",2015-08-23 01:43:24+00:00,cuce0rr,2.0,t1_cubu4eu,38026,tango
+207,"Yes, all the publications on Issuu.com can only be viewed using Flash.
+
+Alternatively you can download the PDF catalog from this link:
+http://festivales.buenosaires.gob.ar/uploads/admin/estaticos/07f7b5877fa83206b3ff4af87add17cd.pdf
+
+The official website can also be browsed online for day-by-day schedule updates:
+http://festivales.buenosaires.gob.ar/2015/tangofestivalymundial/en/home
+
+",2015-08-11 00:23:45+00:00,ctyli95,2.0,t1_ctyjoxj,2991,tango
+208,"As a fan of r/tango I have visited Argentina many times over the past decade.  
+
+The musical genre is probably what most of the world know best about Argentina... in addition to its soccer prowess (Maradona), and the currency deflation which made it one of the most affordable tourist destination.
+
+Argentina is a curious blend of faded glory and lost potential.  The population is well educated but the government is not proactive enough; there is so much creativity in the grassroot and yet many people are stuck in traditions and lack innovation.   Even the food of Argentina has very little variety.",2015-08-05 13:45:21+00:00,ctsa6s8,1.0,t3_3fvfdl,1505,AskReddit
+209,"I too found my musicality by way of a different dance.  
+
+My first dances were Ballroom, which are count-based and fixed sequences.  Learning this way got me nowhere musicality-wise but at least convinced me I could overcome my ""two left feet"".
+
+Later I start to learn Jazz dances, like Lindy Hop, tap dance and Swing, and that brought about a huge leap in musicality awareness.
+
+Many new tango dancers enter the genre without any prior dance movement skill, cannot understand Spanish, have never heard real tango music, and brainwashed by the pop media to think tango is more about poses and stunts instead of music.
+
+These disadvantages can be overcome in time and lots of effort ---- but typically only one in twenty hang around beyond the first year, so they won't achieve this.",2015-07-28 23:15:05+00:00,ctjlria,2.0,t1_ctjgchd,8285,tango
+210,"Musicality is not absolute, but a mashup of the music and your inner sanctum.
+
+It will get better as you get more familiar with each piece of music.  Using my example about poems: have you heard a poet recite his own poem?  Probably would not be identical to how you read for the first time.  Which is better?  Does it matter?
+
+The teaching of musicality is the hardest challenge of tango teachers.  Many teachers do not even try to allocate class time to it, because they have no way to measure progress.  To my knowledge Joaquin is the only person to even attempt to tackle this topic in a book.
+
+I am quite certain you cannot teach it, you can only demonstrate and suggest; the students have to keep sharpening their music senses but they can never be perfect.  ",2015-07-27 00:30:09+00:00,cth7zbt,3.0,t1_ctgyzcn,15968,tango
+211,"The song ""Suenos de Juventud"" (Youthful Dreams) was a popular poem by Enrique Santos Discepolo which is set to the Vals.  Many Argentines studied Discepolo's writing in school.  Another version without audience karaoke can be [found here](https://www.youtube.com/watch?v=ZniYHenv41E).  
+
+Dream of Youth / Enrique Santos Discepolo
+
+You suffer because I'm driven away
+/ by my faith in a future
+/ I eagerly look for
+/ only because of you.
+
+It's a string of stars
+/ that your beautiful eyes
+/ warmly unstring
+/ crying over me so.
+
+Dream of youth
+/ that dies in your goodbye,
+/ timid remembrance
+/ I will long for,
+/ song of a hope
+/ that I coveted
+/ caressing your soul
+/ in my loneliness.
+
+My poor heart
+/ doesn't know how to love,
+/ and seeing itself pushed away from you
+/ only knows to cry,
+/ only knows to moan,
+/ bleeding as it dies
+/ in your farewell.
+
+Lyrical, first love,
+/ caress and torture,
+/ punishment and sweetness
+/ of my dawn.
+/ I will cradle in a song
+/ your immense tenderness,
+/ looking in my sky
+/ for yesterday's picture of you.
+
+[tangowiki](http://tangowiki.org/wiki/Lyrics:Sue%C3%B1o_de_juventud)",2015-07-26 04:01:31+00:00,ctgd6or,1.0,t3_3emmfb,274,tango
+212,"First thing to remember is that, Joaquin Amenabar is primarily a musician (bandoneon).  A dancer writing the same topic would probably have used different strategies for explanation.
+
+The music has two parallel parts: the rhythm, and the melody.  The rhythm usually follows a repeating pattern of (1)-2-(3)-4 or (1)-2-3-4, notated as 2/4 or 4/4 time.  The on-beats are the stronger beats in each bar.
+
+The melody is either the sung lyrics of the song or an instrumental part played over the rhythm.   It is more tricky to follow the melody, but think of it like how you may recite a poem: not every syllable should have the same emphasis, and where you place the pauses are just as important as where the words are, maybe even more.  
+
+A beginner should first master walking on the rhythm with strong regular beats like Biagi and D'Arienzo.  Once you tuned your walk to sync with the (1) beats -- the on-beats -- you should learn to step into some off-beats, or what we call syncopation, using runs, rebounds, or half-steps.
+
+Dancing on the melody is next level.  You have to choose the steps more carefully, based on an instant poetic interpretation of the melody, and this is much simpler if you know the Spanish lyrics well.  Then use all the walking techniques in your arsenel to turn that walk into the equivalent of reciting a poem with your feet.",2015-07-25 22:52:01+00:00,ctg47gw,1.0,t3_3eis2u,72178,tango
+213,"[Nico](https://delmartango.wordpress.com/about-argentine-tango-berkeley/) explains how Kizomba's new dancers have become more tango-like.
+
+""... But a lot of the newer Kizomba peeps? With all the fancy moves? .... Often times you talk a good game about connection, but your dance seems to have become an exercise in how to wow the crowd or show off a new move.
+
+""Kizomba is also rapidly changing.  I’ve seen demos that look suspiciously like milonga and others that are drifting to the Tango Nuevo zone.  I’ve seen people add in salsa and bachata-like grinds, spins, and hips.  It will be exciting to watch what happens in the future.  Will Kizomba people start coming to Tango? Will Tango people go to Kizomba?  Will the two sides begin a dance war, then be locked in a gymnasium and finally realize that we have a lot in common, beginning a new dawn of dance?""
+
+Another excellent analysis from [Frances Tee](http://kizombaseattle.blogspot.sg/2012/11/kizomba-and-tango_17.html):
+
+""When I dance tango, it feels like gliding on ice, with the feet ""caressing the floor"". There is a gathering of energy and then push and slide to get from one point to the next. There is also the occasional twist and pivot , that creates an illusion of  stillness this effect of stillness followed by a burst of energy - much like when you tighten the coils in a spring and then release to twirl. The dance is precise but allows for moments of stillness and playfulness as the music runs its course.
+
+""When I dance kizomba, I feel like I'm in one long hug, walking in gooo, trying to pick up my feet but being unable to do so. The  music has a pulse like a heartbeat and in that relaxed and secure embrace, I move with my partner.  Our movements fill up even the spaces between the pulse in the song and we are in no particular hurry to get anywhere, just chilling out and enjoying the music together. Kizomba at its best, is a dance where I can relax into my partners embrace, feel the music through his lead and simply dance.""",2015-07-24 00:56:22+00:00,cte1rgh,1.0,t3_3ee2ij,522,tango
+214,[Instatango.com](http://instatango.com) alternate link,2015-07-24 00:41:37+00:00,cte19yy,1.0,t3_3e9k23,87105,tango
+215,"First I will Hook (gancho) and Whip (boleo) you, and turn the Wrap (enganche) into a Screw (enrosque) ending in Scissor (tijera).  /r/tango",2015-07-23 02:48:31+00:00,ctcxd4o,1.0,t3_3e9ypp,819,AskReddit
+216,"[Norberto](https://en.wikipedia.org/wiki/Norberto_Esbrez) passed away one year ago on 16/jul.  
+
+""A dancer and teacher of tango nuevo, he was known as El Pulpo or octopus for his fluid and intricate leg moves. Esbrez created and named several tango movements including: ocho loco, sentada girada, elevador, or el elástico. He explored the concept of trap sacadas (sacadas con agarre) and enganches into innovative variations.
+
+""His style was so well known that when the dancer starts combining several leg moves that look like Pulpo's it is being called pulpeadas. He developed the concept of suspension as a tool to generate the control and fluidity that is part of his dance.""
+
+Pulpo spent many years teaching in the US and so he is highly influential on many communities before he succumbed to liver illness.
+",2015-07-23 00:00:30+00:00,ctcrjvh,1.0,t3_3e9ga8,155,tango
+217,"When I'm in bed it's way too hot to cuddle, so I do all my cuddling when I /r/tango.  ",2015-07-22 01:23:11+00:00,ctblssv,1.0,t3_3e1kht,67763,funny
+218,"I go dancing every week, and when I'm not dancing I watch videos on dancing.  Sending some love to /r/tango",2015-07-22 00:54:41+00:00,ctbktb0,1.0,t3_3e2tdw,35587,AskReddit
+219,"Adapted from [obituary](http://www.independent.co.uk/news/people/osvaldo-pugliese-1594093.html) in Independent newspaper: 
+
+It is an irony that Osvaldo Pugliese, the last of the great tango composers and musicians, should have died during a Peronist government in Argentina. The ""passionate necrophiles"" Peronists do death very well with huge tributes and made a big event of the funeral wake at City Hall, and everybody in politics was there to be seen.
+
+Yet Pugliese has always had bad relationship with the government.  He was thrown into prison several times during the first government (1946-1955) of General Juan Peron.  The military regime that overthrew Peron in 1955 also locked him up.  
+
+He had joined the Communist Party in 1936, when he was 31, ""to fight for a more democratic and just society where work is part of human dignity, and not a punishment"".  The obituaries hardly mentioned his political affiliation. They said he never mixed music and ideology. 
+
+But he applied his politics as a working musician. His bandmates remember that the cash --- which Pugliese was able to ask for in quite substantial figures --- was always shared, co-operative-style, among all members of an orchestra.
+
+And when Pugliese could not play, because he was locked up, or banned, the band played on, with a single red carnation laid on the piano to symbolise the presence of the Maestro.
+
+The 1960s government of the late General Juan Carlos Ongana, who had a deep fear of Peronists and Communists alike, simply banned Pugliese from radio broadcasts and public places after Pugliese performed in the Soviet Union in 1959. 
+
+But when he died, Pugliese will only be remembered as the last great orquesta tipica of a tango generation, who witnessed his greatest applause in the Colon opera house in 1985.
+
+Pugliese composed 150 themes, ranging from ""waltzes"" to rancheras and milongas, and even one shimie. But he was best known for his tango compositions. 
+
+Among the best of them and the most played were ""Negracha"", ""La Yumba"" and ""Malandraca"" (three titles with references to the roughest sections of society).  Also among his leading compositions are ""Recien"" (""Just Now"", with Homero Manzi), ""Una vez"" (""Once"", with Ctulo Castillo), and ""Igual que una sombra"" (""Just like a shadow"", with Enrique Cadcamo) - three more names in tango that will never be forgotten.
+",2015-07-19 23:02:00+00:00,ct92y8g,1.0,t3_3bunhv,1522745,tango
+220,"The Facebook group ""Stranded in Airport tango"" [link](https://www.facebook.com/groups/348726108583892/) has many examples of tango travellers fishing for impromptu dances while on long airport transits.  Within this group it is common practice to always have in their carry-on bags the headphones and music splitters.
+
+I think the Silent Disco innovation is to make a group of more than two dancers able to share the same music source, so it is almost like a mini milonga.  
+
+The Seinheisser system is designed for high fidelity sound and super bass, but a really simple system suitable for tango need much less fidelity, in fact could be make out of FM transmitter and cheap FM receiver radios.   It'll be interesting to prove the concept.",2015-07-19 16:52:15+00:00,ct8r260,3.0,t1_ct8qoks,760,tango
+221,"Tango.  My friends who do other dances keep asking ""so you just simply walk to the beat?""  Yes, but behind every step is a consideration based on musicality, geometry, and feeling.  Observers see the calm exterior, but only the partner can experience the tornado within.",2015-07-19 13:29:47+00:00,ct8lpw7,1.0,t3_3dtcw2,23483,AskReddit
+222,"The technology of [Silent Disco](https://en.wikipedia.org/wiki/Silent_disco) is meant to overcome city zoning rules which often make it impossible to organise a noisy dance event near to residential zones.
+
+Tangueros love to hold milongas in interesting places like [street markets](http://www.yanidel.com/Pictures/summer%20tango%20HR.jpg), [parks](http://40.media.tumblr.com/tumblr_m79rpcUat41qddesco1_1280.jpg), [museums](http://static3.demotix.com/sites/default/files/imagecache/a_scale_large/800-1/photos/1318050013-tango-night-in-the-victoria-and-albert-museum_861971.jpg), [churches](http://coolradiohd.com/wp-content/uploads/2015/01/milongas.jpg), and even [airports](https://www.facebook.com/groups/348726108583892/).  
+
+Now we just need a technical solution to make Silent Disco technology easy to use, and tango parties can be held almost anytime and anywhere. ",2015-07-19 10:36:09+00:00,ct8j229,1.0,t3_3dtobt,777,tango
+223,"Github sources: https://github.com/alexvicegrab/tangoLyricsDB
+
+Blog: http://alexvicegrab.github.io/
+
+Author: Alejandro Vicente Grabovetsky
+
+The translation database currently provides an alphabetical listing of 800+ tango songs.  More than 2000+ lyrics translations in 10 languages on 30+ websites can now be systematically accessed.
+
+I think this is an excellent strategy to bring together the many scattered resources relating to tango lyrics, as we then all contribute to a common pool of knowledge.  
+
+",2015-07-18 07:35:30+00:00,ct7i8m0,1.0,t3_3dptps,678,tango
+224,"A rough translation:
+
+""The subject itself is profound... The tango was instrumental in the history of Argentine show, either in theaters, on radio and on television. Radio and theater tango is still very important and has a lot of publicity. 
+
+""The issue that concerns us is the reason for the separation of tango with television.  In the air channels broadcasting is zero.  The question is based on why this happens when a musical style that marks the Argentines, even if today have less cultural importance than a few decades ago, is still significant and popular.
+
+""The objective of this study is to know the many reasons that bind to the absence of tango on television.  It is often stated as a fact that 'Tango does not sell'.  Why not?  
+
+""One respondent helped clarify these questions, with a trigger phrase that serves to construct a theory: ""The music we listen to young people's fashion, the rest are classical music."" Young people are the ones that generate higher consumption, television is strongly influenced by the sale of advertising, a program can not exist artistically only for its quality, you have to know how to sell. 
+
+""The object of study that will try to show is that fashion dictates what is seen and not seen on television.""
+
+The rest of the paper contains a list of TV music and talent programs currently on air (""Bailando"" etc) and analyse what factors made them more desirable than the national symbol of Argentina.",2015-07-14 23:44:44+00:00,ct3jzvv,1.0,t3_3dbez5,520,tango
+225,"""Registration will close on July 27th 2015.  One member of the couple must check in personally with the ID (original DNI or Passport) of the two dancers on Usina de Arte on Aug 15-17.  The competition schedule is as follows: (Salon Tango / Tango de Pista) 
+Qualifying Rounds: August 18 and 19, 2015, at La Usina del Arte. Semifinal: August 24, 2015, at La Usina del Arte. Final: August 26, 2015, at Luna Park Stadium.  (Stage Tango) Qualifying Rounds: August 20 and 21, 2015, at La Usina del Arte, Semifinal: August 25, 2015, at La Usina del Arte. Final: August 27, 2015, at Luna Park Stadium.
+
+""Evaluation criteria: 
+
+-  1. TANGO DE PISTA (SALON TANGO) (UNRESTRICTED ENTRY, AMATEURS AND PROFESSIONALS)
+
+Tango de pista (Salon Tango) is conceived as a social dance, where the most important aspects are the musicality, embrace and connection between the dance partners.
+
+Once formed, the couple must not separate while the music is playing. For the position to be considered correct, the body of one of the members of the couple must be contained at all the time by the arm of the other. It is understood that in certain figures this may be flexible, but not throughout the whole duration of the dance. All movements must be made within the space allowed by the couple’s embrace, so as not to get in the way of the other couples dancing. The leader may invite the follower to walk and/or turn to their right or left, without taking steps backwards on the dance floor.
+
+The Jury will take into account the couple’s connection, musicality, walking and search for their own expression as fundamental to the score.
+
+Couples may change the dynamics and speed during a song.
+
+Within these parameters, the couple may perform any commonly used figures of “social” tango, including barridas (sweeps), sacadas al piso (drawn to the floor), enrosques (twists), etc. Jumps, figures that involve lifting both feet off the ground and any other choreographic possibilities typical of Stage Tango are completely forbidden.
+
+As is typical in a dancehall, couples must constantly move counterclockwise without going backwards. They will be allowed, if needed, to walk one or two step backwards at most.
+
+If a couple performs more than two phrases in the same spot, obstructing the circulation on the dance floor, the Jury may consider lowering their score.
+
+In the event that one couple stops the flow of traffic around the dance floor, it is not possible for other couples to go past them. If the jury deems it necessary, the round of couples may have to dance to another tango to solve the inconvenience.
+
+Outfits will not be taken into consideration during the judging process. Partners do not need to break the embrace between songs.
+
+-  2. STAGE TANGO (UNRESTRICTED ENTRY, AMATEURS AND PROFESSIONALS)
+
+Participants will be able to express their view of the Argentine tango dance. This means that couples will be allowed to perform movements, figures and applications that are not directly related to the traditional tango dance. But the choreography must include traditional elements of tango: figure eights, spins, long walks, voleos, hooks, and the “milonguero embrace.” Couples will be able to break the embrace and use techniques from other dance disciplines, as long as they are justified and enrich the performance of the dancer.
+
+Aerial tricks and movements from other dance disciplines must not be excessive. This means that they must not exceed a third of the overall performance. The couple must include floor movement sequences throughout the whole stage floor.
+
+Outfits will not be taken into consideration during the judging process.
+
+If a technical problem should occur, the Jury will evaluate the repetition of the choreography at the end of the assigned performing time slot.
+
+In case of having a problem with the choreography, the couple will decide whether to continue dancing or not, and the Jury will evaluate the manner and grace with which they solve the inconvenience; but the couple will not be allowed to repeat the performance.""
+",2015-07-06 08:59:55+00:00,cstned5,1.0,t3_3ca7jp,269,tango
+226,"The song was ""El Dia Que Me Quieras"". The Cuban master is more famous as a jazz musician, but as his father was a hard core tango fanatic, he made the 2011 recording as a dedication to his memory.   The album won the Best Tango Album in the Latin Grammies.
+
+""Arturo Sandoval produces, directs and interprets one of the best Tango records in history: “Tango Como Yo Te Siento” (Tango, How I feel You). We have always heard of Arturo Sandoval the great Jazz musician, composer and pianist, but now, enchanting us with his grand musicality, he takes us to the Argentinean frontier. With this record he majestically interprets an incredible Tango record which highlights the most emblematic melodies ..."" ([official site](http://www.arturosandoval.com/#!music/c1x9v))",2015-07-06 08:36:16+00:00,cstn2ro,1.0,t3_3ca62b,265,tango
+227,"The second biggest city of Colombia is more famous for being the hometown of drug lord Escobar than a capital of Tango, but that's what it is, based on the recently concluded [World Tango Championship](http://www.worldtangochampionships.co/) and [Medellin International Tango Festival](http://www.festivaldetangomedellin.com/).  Many of the top tangueros from Colombia are at the same calibre of the best in Argentina, so they often place highly in the Argentina world championship finals in August.
+
+Carlos Gardel's name was forever linked to Medellin as he died there in a plane crash in 1935, while on a concert tour of the region.  Today there is a special monument dedicated to Gardel near the airport, and every year his fans still come to visit the site.
+
+If you like to know details of how tango became popular in Colombia, Catalina Santamaria-Delgado's [scholarly report](http://www.academia.edu/234477/Tangos_reterritorialization_in_Medell%C3%ADn) is a good read.",2015-07-05 01:30:15+00:00,cssgl4b,1.0,t3_3c5ngv,973,tango
+228,"Short answer is there is only one tango ""form"", even if there are different methodologies of achieving it, and they are probably trying to teach you different techniques.
+
+The Russian's emphasis on the sliding of feet, if I hazard a guess, is similar to the way we do in Asia.  Beginning dancers have a ""lazy thigh"" that needs to be coached to place more precisely along the line of walk, and also to fully extend before shifting the weight.  
+
+And how does the partner know the direction to follow?  By feeling the intention of the leader through the embrace as the foot slide.  A leader must train himself to control his feet and body intention separately; so he can align them to accompany the woman, or dissociate them to send her sideway while stepping forward, like in a Giro.   
+
+Newbies to tango may yet to realise one truth: almost no two teachers completely agree on how to teach.  This is such a ""street dance"" that frequently there are different words used to describe the same movement, different ideas about how to embrace, whether to walk toe first or heel first, and which orchestra works best or not.  Old teachers from Argentina tend to spend months on walking and feeling the music first, while Europeans like to start with technical tips.  
+
+That is why tango is not learned in one continuous session from one teacher --- rather it is necessary to grow and mature from cycles of learning, trying, doing, and exploring new ideas with new teachers.  Then your dancing will evolve to become what works best for your body and personality.",2015-07-04 00:16:38+00:00,csrihs0,1.0,t3_3c0upl,18656,tango
+229,"When visitors to Japan go to a milonga, they are always surprised how early the event ends.  Some of the reasons have to do with catching the last train into the suburbs, but another big reason is that Japanese law actually forbid dancing after midnight.  This law has been in force for 67 years since the end of the World War II, as a blanket anti-vice regulation, and it has forced almost all forms of dancing underground (a police-issued dance permit is required by any venue offering dancing).
+
+Two years ago a group of Japanese tango schools began to organise a response to this law, since tango is obviously as pure as snow ... they negotiated a special concession with the Police for tango schools to be excluded from the dance ban, as long as the schools are ""operated by certified members of a professional tango teacher's association"".  
+
+The next problem was how to create such an organisation and how to certify who is a professional teacher, as there are many unlicensed teachers operating programs under the radar.  The discussion (and politics) continue on [facebook/tangomirai](https://www.facebook.com/tangomirai).",2015-07-03 03:24:01+00:00,csqmurj,1.0,t3_3by650,567,tango
+230,"Many couples learn tango for their wedding dance, but many tango songs are about the bad things in life, like betrayal, bad luck, death, etc.  The author suggests these songs: ""Por Una Cabeza"" (2 versions), ""Poema"", ""Esta Noche de Luna"", and ""Al Compas del Corazon"", at least these are fairly innocuous .  My own wedding song list also includes more valses, like ""Desde el Alma"" and ""Dinero, Salud y Amor"".   
+
+Word of advice to anyone trying to learn tango for their wedding: start at least 6-9 months before!  You don't want to perform the most challenging dance in public unless you have total control.",2015-07-03 02:12:37+00:00,csqkpue,1.0,t3_3bxymw,351,tango
+231,"Ballroom is by definition ""strict rhythm"", meaning the underlying rhythm structure and tempo is fixed for each category (Samba, Jive, Rumba etc).  This makes the reuse of ""canned sequences"" much easier -- in fact during practices, dancers prefer to count the steps without any backing music to distract.  In contrast, swing dancing is almost all about following the musical energy, and reacting to the playful surprises in the arrangement.   
+
+Source: ballroom dancer for 8 years, swing for 3.  I don't consider myself truly ""dancing"" until I start to pick up swing.",2015-07-03 01:56:45+00:00,csqk8la,1.0,t3_3b81wz,544311,ballroom
+232,"Pugliese is the most influential orquesta leader of the 40s and 50s, and his recordings are still the benchmark today for the dramatic tangos like Emancipacion, Pata Ancha, Gallo Ciego.  He is a communist who believed in paying everyone in the orquesta the same wage [(source: totango)](http://www.totango.net/pugliese.html).  When he was jailed a few months by the government, his orquesta would play on without him, but put a rose on the piano to signify his absence (and presence in spirit).  Pugliese's style strongly influenced modern concert interpretation of tango after 1960s, except with the separate evolutionary branch of Piazzolla.",2015-07-02 08:10:17+00:00,cspo15i,1.0,t3_3bunhv,442,tango
+233,"[En translation](http://translate.google.com/translate?u=http%3A%2F%2Fwww.enorsai.com.ar%2Fsociedad%2F15957-el-gobierno-porteno-clausuro-una-de-las-milongas-mas-famosas-del-mundo.html&amp;tl=en).  Sunderland is the other famous tango landmark of Villa Urquiza, and each week draws hundreds of tango fanatics to its milonga-in-a-basketball-court.  According to the article, the government has asked for the club to install fire safety equipment, and would not let it reopen until this is passed.  Therefore the closure will not be a short one.  In the mean time the ""Malena"" milonga organiser Jorge Rodriguez (relation to famous Javier Rodriguez) has to find a temporary home for the roughly 400 dancers who turn up weekly -- half of whom are tourists.",2015-07-01 10:36:59+00:00,csojvjo,1.0,t3_3bqm19,374,tango
+234,"Good for you!   I too believe in being generous and giving as the best way to make tango enjoyable.  
+
+That's why I cannot understand the mentality of a small (but vocal) group who subscribe to the doctrine of ""Tough love"" --- you know those teachers who tell their followers not to accept dance with beginner leaders, so they ""will have reasons to keep improving.""  I suppose in a convoluted way it can make sense, but in my opinion is more likely to discourage the fledgling learners from tango altogether.  
+
+Ultimately do we want to measure each other's worth by their dance skill?  Wouldn't that leave a lot of nice but clumsy folks out to pasture?  People bring their own snobbery into tango and find ways to justify that.",2015-07-01 09:13:50+00:00,csoipzm,2.0,t1_cslzvcv,197222,tango
+235,"The [imdb entry](http://www.imdb.com/title/tt4490996/) and [official site](http://www.loveoftangomovie.com/).  ""The story of a blind man's journey into the intoxicating, complex world of Argentine tango and explores the impact tango has had on the lives of professional tango dancers, teachers, performers, and enthusiasts. In the end, beyond the fancy footwork, beautiful dresses, high heels, and dazzling performances, tango is about discovering of oneself. """,2015-07-01 08:19:17+00:00,csohxmp,1.0,t3_3bqcwi,127,tango
+236,Crosspost discussion from [/r/SwingDancing](http://www.reddit.com/r/SwingDancing/comments/3a29gm/delusions_of_competence_a_tango_dancers_epiphany/),2015-06-28 02:50:18+00:00,csl2ufl,1.0,t3_3bd7f6,90,tango
+237,"Excerpt: ""Over the last few years a dance class craze has swept the middle-class and wealthier neighborhoods of Iran’s cities, with young Iranians eagerly signing up to learn the samba, salsa, rumba, tango and other passionate dances that fire the imagination but involve some complicated steps.
+
+""Because the state’s Islamic morality codes forbid unrelated women and men from mixing in private, dance classes are not advertised openly. 
+
+""But dance classes are not always underground. Many dance instructors register their classes at gyms and teach under the name of aerobics. The authorities have turned a blind eye to these studios and don’t seem to object to physical exercise combined with some music, as far as men and women do not mix.""
+",2015-06-23 00:30:10+00:00,csfdl9n,1.0,t3_3arv2e,184,tango
+238,"In 1985, thirty years ago this June, the show ""Tango Argentino"" arrived in New York City, without securing a firm theatre date.  
+
+The producers had a company of artistes, a motley crew assembled from various sources without a common performance history, and tired after a whirlwind European pre-tour, still quite unsure what sort of reception this show will get.  
+
+Do the Americans want to see Argentina's musical cliches?
+
+By the end of October, it was clear.  Tango Argentino has conquered America.  The next six months the company did 200 performances, and grossed $6.6M.
+
+From the New York Times: ""Even on Broadway, where musicals about felines and female impersonators can become hits, ''Tango Argentino' arrived in October as the longest of shots. 
+
+""Here was a show, after all, that violated the Broadway dictum that musicals be elaborate, expensive and stocked with supple young bodies. 'Tango Argentino' wasn't even in English.
+
+""Ten weeks later, this evening of tango song and dance has not only become the unlikeliest hit of the season but has also inspired a popular culture craze unmatched by any Broadway show since 'The Boy Friend.' 
+
+""What the 1954 musical comedy did for the Charleston and the flapper's chemise, 'Tango Argentino' has done for slit skirts, silk scarves and male dominance, at least on the dance floor. ""
+
+If only they know what were about to be unleashed on the unsuspecting world ... in a good way.  What an exciting 30 years that turned out to be.  
+
+[The original playbills](http://www.playbillvault.com/Show/Detail/5777/Tango-Argentino) -- opening night credit: dancers included: Juan Carlos Copes / Maria Nieves, Los Dinzels, Gloria y Eduardo, Hector y Elsa Maria Mayoral, Nelida y Nelson, Carlos y Maria Rivarola, Virulazo y Elvira; singers: Elba Beron, Raul Lavie, Jovita Luna, Alba Solis; musical director: Jose Libertella, Luis Stazo, Osvaldo Berlingieri.",2015-06-22 23:00:39+00:00,csfanp5,1.0,t3_3arjbb,776,tango
+239,"The [imdb entry](http://www.imdb.com/title/tt4097778/) and festival entry ([1](http://cinelasamericas.org/claiff18/panorama-feature-films/2015/salgan-salgan-a-father-son-tango)) ([2](http://www.curacaoiffr.com/Films/salgan_and_salgan)).  Caroline's previous film ""Si Sos Brujos"" is also about tango.",2015-06-21 21:41:01+00:00,cse5j3k,1.0,t3_3an6kc,195,tango
+240,"Lisa Fernow's [murder mystery](http://lisafernow.com/books/dead-on-her-feet/) ""Dead on Her Feet"" is set in Atlanta's tango community, with the protagonist Antonia Blakely as a sleuthing tango instructor.  Who died?  ""A much hated member of the [local] tango community ... is stabbed in the middle of the dance floor""",2015-06-21 21:11:05+00:00,cse4m5j,1.0,t3_3an31j,299,tango
+241,"Jantango also [reported in June](https://jantango.wordpress.com/2015/06/05/milonga-shuffle/) that Porteno y Bailarin has moved to new venue, and El Arranque is closed temporarily by city inspectors. ",2015-06-21 21:03:46+00:00,cse4eib,1.0,t3_3an1vl,461,tango
+242,This page has [live Streamup feeds](http://planettango.org/event/) from the participating cities,2015-06-20 12:17:49+00:00,csctxjy,2.0,t1_cs9eoa1,266586,tango
+243,"It's this weekend, and the participating cities are: [source](http://planettango.org/cities-djs/) - Melbourne, Taipei, London, Istanbul, Portland, Moscow, Shanghai, Prague, Washington DC, Montevideo, Los Angeles, Buffalo, Lyon, Minneapolis, Tokyo etc.  The centre of this event is in Prague (Mosaic House hostel). 
+
+Technically how this work is not fully explained on the site, but here is what can be expected: one ""universal"" Internet audio playlist is streamed from the centre to all participating venues in real time, so basically everyone everywhere is dancing to the same tandas, like in a web radio.
+
+Parallel to that is the multi-party video stream, so all the cities can talk and see each other.  If that city has a big screen it can display that for all the dancers to see.  This can be achieved via Skype or Hangout, although it could be challenging to have more than a handful participants in the call.
+
+The money that is to be received as charitable contribution to the ""tree planting project"" is in the form of ""virtual tickets"" that participants will purchase directly from the organiser's website.
+
+Let's hear some updates after this weekend!",2015-06-17 10:14:43+00:00,cs9eoa1,1.0,t3_354jam,3574562,tango
