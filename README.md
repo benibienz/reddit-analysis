@@ -1,5 +1,5 @@
-# reddit-analysis
-Investigating suspicious accounts on Reddit
+# Investigating suspicious accounts on Reddit
+Source code for a project investigating the rise of suspicious Reddit accounts in the lead-up to the 2016 US Presidential Election.
 
 ### Team Members:
 
